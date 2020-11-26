@@ -26,19 +26,13 @@ Andrei Radulescu-Banu can be reached at andrei[at]bitdribble.com, on [Linked-in]
 
 ## Other things I read, watch or listen
 
-### Self Driving Cars
-
-##### 2007 Darpa Challenge
-* Sertac Karaman (MIT, Optimus Ride) on <a href="https://www.youtube.com/watch?v=0fLSf3NO0-s&list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq">Motion Planning in a Complex World</a> (2018). Describes the MIT entry at the 2007 DARPA Challenge.
-* [Towards Fully Autonomous Driving: Systems and  Algorithms](https://cs.stanford.edu/people/teichman/papers/iv2011.pdf), by Jesse Levinson et. al. (2011 IEEE Intelligent Vehicles Symposium (IV), Baden-Baden, Germany, June 5-9, 2011). Describes the Stanford entry at the 2007 DARPA Challenge, and follow-up work.
-
-##### Courses
-* <a href="https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2016/">Cognitive Robotics</a>, 16.412J/6.836J MIT Open Courseware (Spring 2016)
-* <a href="https://www.apex.ai/autoware-course">Self-Driving Cars with ROS and Autoware</a> by APEX.ai, 20 classes <a href="https://www.youtube.com/watch?v=XTmlhvlmcf8&t=4103s">YouTube Course</a> (2020). This is a system-level intro to Apollo ROS, the open source project from Baidu for self driving cars.
-
-##### Books
-* <a href="https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf">Probabilistic Robots</a>, by Thurn, Burgard, Fox (2005)
-* <a href="https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction-dp-1449323898/dp/1449323898/ref=mt_other?_encoding=UTF8&me=&qid=">Programming Robots with ROS: A Practical Introduction to the Robot Operating System</a>, by Quigley, Gerkey, Smart (2015)
+* [Self Driving Cars](self_driving_cars.md)
+* [Market Trading](market_trading.md)
+* [Entrepreneurship](entrepreneurship.md)
+* [Dev/Ops](devops.md)
+* [Network Tools](network_tools.md)
+* [Embedded Programming](embedded_programming.md)
+* [Writing Documentation](writing_documentation.md)
 
 ### Market Trading
 * <a href="https://www.amazon.com/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207/ref=sr_1_3?crid=1NKWJ07CNLTYE&keywords=algorithmic+trading+and+dma&qid=1578104806&sprefix=algorithmic+trading+and+d%2Caps%2C162&sr=8-3">Algorithmic Trading & DMA</a> by Barry Johnson (2010), <a href="https://www.amazon.com/gp/customer-reviews/R3USX62BQJY3A0/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&ASIN=0956399207">reviewed</a> by <a href="https://www.amazon.com/gp/profile/amzn1.account.AGPC5KWPYAIHN2VMHO2NMZ3556QA/ref=cm_cr_srp_d_gw_btm?ie=UTF8">Scott C. Locklin</a>
@@ -83,7 +77,9 @@ Andrei Radulescu-Banu can be reached at andrei[at]bitdribble.com, on [Linked-in]
 * <a href="https://gitlab.kitware.com/cmake/community/wikis/doc/tutorials/How-To-Write-Platform-Checks">How to write CMake platform checks</a> (accessed Oct 2018)
 * <a href="http://nadeausoftware.com/articles/2012/01/c_c_tip_how_use_compiler_predefined_macros_detect_operating_system">C/C++ tip: How to detect the operating system type using compiler predefined macros</a> (accessed Oct 2018)
 * <a href="http://nadeausoftware.com/articles/2012/10/c_c_tip_how_detect_compiler_name_and_version_using_compiler_predefined_macros">C/C++ tip: How to detect the compiler name and version using compiler predefined macros</a> (accessed Oct 2018)
-* <a href="http://nadeausoftware.com/articles/2012/02/c_c_tip_how_detect_processor_type_using_compiler_predefined_macros">C/C++ tip: How to detect the processor type using compiler predefined macros</a> (accessed Oct 2018)
+* <a href="http://nadeausoftware.com/articles/2012/02/c_c_tip_how_detect_process* [Network Tools](network_tools.md)
+* [Network Tools](network_tools.md)
+or_type_using_compiler_predefined_macros">C/C++ tip: How to detect the processor type using compiler predefined macros</a> (accessed Oct 2018)
 * <a href="http://nadeausoftware.com/articles/2011/12/c_c_tip_how_list_compiler_predefined_macros">C/C++ tip: How to list compiler predefined macros</a> (accessed Oct 2018)
 
 ### Network tools
