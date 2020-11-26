@@ -55,6 +55,8 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - projects.md
+ - self_driving_cars.md
+ - market_trading.md
  - blog.md
  - about.md
 
