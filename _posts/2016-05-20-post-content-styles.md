@@ -1,7 +1,8 @@
+
 ---
 layout: post
 title: "This post demonstrates post content styles"
-categories: junk
+categories: jekyll
 author:
 - Andrei Radulescu-Banu
 #- Bart Simpson
