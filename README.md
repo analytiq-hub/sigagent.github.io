@@ -2,39 +2,35 @@
 
 ... dev/ops, IoT, and distributed systems. 
 
-###### What is Bitdribble?
+##### What is Bitdribble?
 
 Bitdribble implements distributed agents for dev/ops and IoT. Bitdribble agents can be configured to run modular tasks to measure device, service, network performance and report measurements to back-end databases like Graphite or InfluxDB. Data can be visualized with Grafana or other similar dashboarding solutions.
 
-###### How is Bitdribble different from other dev/ops tools?
+##### How is Bitdribble different from other dev/ops tools?
 Bitdribble brings the intelligence to the agents - to the edge.
 
 The agent tasks are configured into flows, where the output of a task instance becomes the input of one or more other task instances, with the terminating task instance having the ability to send task instance output to an external database. Other similar dev/ops tools report data to a back end but generally do processing and filtering of data on the back end. 
 
-###### Where is the code?
+##### Where is the code?
 Code and documentation are available on <a href="https://github.com/Bitdribble">Github</a> under an Apache version 2 license. Bitdribble provides installation consulting services and support.
 
-###### Contact
+##### Contact
 Andrei Radulescu-Banu can be reached at andrei[at]bitdribble.com, on <a href="https://www.linkedin.com/in/andrei-radulescu-banu/">Linked-in</a> and <a href="https://twitter.com/bitdribble">Twitter</a>. </p>
 
-Andrei's posts on <a href="https://medium.com/@bitdribble">Medium</a>:
-</p>
-<ul>
-<li><a href="https://medium.com/@bitdribble/techstars-meet-greet-a9f67c1e08ec" class="menu_link">TechStars Meet&Greet</a> (Sept 2018) </li>
-<li><a href="https://medium.com/@bitdribble/before-the-pitch-at-startup-boston-d9473c531e41">Before the Pitch - at StartUp Boston</a> (Sept 2018)</li>
-<li><a href="https://medium.com/@bitdribble/when-where-at-startup-boston-2897b02cbd4a">When & Where - at StartUp Boston</a> (Sept 2018)</li>
-</ul>
-<br>
-Other things I read, watch or listen:
-<ul>
-<li>Self Driving Cars
-<ul>
-<li>
-Sertac Karaman (MIT, Optimus Ride) on <a href="https://www.youtube.com/watch?v=0fLSf3NO0-s&list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq">Motion Planning in a Complex World</a> (2018). Describes the MIT entry at the 2007 DARPA Challenge.
-</li>
-<li>
-<a href="https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2016/">Cognitive Robotics</a>, 16.412J/6.836J MIT Open Courseware (Spring 2016)
-</li>
+## Andrei's posts on [Medium](https://medium.com/@bitdribble)
+
+* <a href="https://medium.com/@bitdribble/techstars-meet-greet-a9f67c1e08ec" class="menu_link">TechStars Meet&Greet</a> (Sept 2018)
+* <a href="https://medium.com/@bitdribble/before-the-pitch-at-startup-boston-d9473c531e41">Before the Pitch - at StartUp Boston</a> (Sept 2018)
+* <a href="https://medium.com/@bitdribble/when-where-at-startup-boston-2897b02cbd4a">When & Where - at StartUp Boston</a> (Sept 2018)
+
+## Other things I read, watch or listen:
+
+### Self Driving Cars
+
+* Sertac Karaman (MIT, Optimus Ride) on <a href="https://www.youtube.com/watch?v=0fLSf3NO0-s&list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq">Motion Planning in a Complex World</a> (2018). Describes the MIT entry at the 2007 DARPA Challenge.
+
+* <a href="https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2016/">Cognitive Robotics</a>, 16.412J/6.836J MIT Open Courseware (Spring 2016)
+
 <li>
 Books
 <ul>
