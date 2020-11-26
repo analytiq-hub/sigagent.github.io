@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Self Driving Cars
+title: Self Driving
 permalink: /self_driving_cars/
 ---
 #### 2007 Darpa Challenge
