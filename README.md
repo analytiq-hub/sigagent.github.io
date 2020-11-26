@@ -15,7 +15,7 @@ The agent tasks are configured into flows, where the output of a task instance b
 Code and documentation are available on <a href="https://github.com/Bitdribble">Github</a> under an Apache version 2 license. Bitdribble provides installation consulting services and support.
 
 ##### Contact
-Andrei Radulescu-Banu can be reached at andrei[at]bitdribble.com, on <a href="https://www.linkedin.com/in/andrei-radulescu-banu/">Linked-in</a> and <a href="https://twitter.com/bitdribble">Twitter</a>. </p>
+Andrei Radulescu-Banu can be reached at andrei[at]bitdribble.com, on <a href="https://www.linkedin.com/in/andrei-radulescu-banu/">Linked-in</a> and <a href="https://twitter.com/bitdribble">Twitter</a>. 
 
 ## Andrei's posts on [Medium](https://medium.com/@bitdribble)
 
