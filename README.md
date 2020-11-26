@@ -12,16 +12,16 @@ Bitdribble brings the intelligence to the agents - to the edge.
 The agent tasks are configured into flows, where the output of a task instance becomes the input of one or more other task instances, with the terminating task instance having the ability to send task instance output to an external database. Other similar dev/ops tools report data to a back end but generally do processing and filtering of data on the back end. 
 
 ##### Where is the code?
-Code and documentation are available on <a href="https://github.com/Bitdribble">Github</a> under an Apache version 2 license. Bitdribble provides installation consulting services and support.
+Code and documentation are available on [Github](https://github.com/Bitdribble) under an Apache version 2 license. Bitdribble provides installation consulting services and support.
 
 ##### Contact
-Andrei Radulescu-Banu can be reached at andrei[at]bitdribble.com, on <a href="https://www.linkedin.com/in/andrei-radulescu-banu/">Linked-in</a> and <a href="https://twitter.com/bitdribble">Twitter</a>. 
+Andrei Radulescu-Banu can be reached at andrei[at]bitdribble.com, on [Linked-in](https://www.linkedin.com/in/andrei-radulescu-banu/) and [Twitter](https://twitter.com/bitdribble). 
 
 ## Andrei's posts on [Medium](https://medium.com/@bitdribble)
 
-* <a href="https://medium.com/@bitdribble/techstars-meet-greet-a9f67c1e08ec" class="menu_link">TechStars Meet&Greet</a> (Sept 2018)
-* <a href="https://medium.com/@bitdribble/before-the-pitch-at-startup-boston-d9473c531e41">Before the Pitch - at StartUp Boston</a> (Sept 2018)
-* <a href="https://medium.com/@bitdribble/when-where-at-startup-boston-2897b02cbd4a">When & Where - at StartUp Boston</a> (Sept 2018)
+* [TechStars Meet&Greet](https://medium.com/@bitdribble/techstars-meet-greet-a9f67c1e08ec) (Sept 2018)
+* [Before the Pitch - at StartUp Boston](https://medium.com/@bitdribble/before-the-pitch-at-startup-boston-d9473c531e41) (Sept 2018)
+* [When & Where - at StartUp Boston](https://medium.com/@bitdribble/when-where-at-startup-boston-2897b02cbd4a) (Sept 2018)
 
 ## Other things I read, watch or listen:
 
