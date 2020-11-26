@@ -56,12 +56,12 @@ Andrei Radulescu-Banu can be reached at andrei[at]bitdribble.com, on [Linked-in]
 * <a href="http://www.dartmouth.edu/~cushman/courses/engs41/Mark%20Borsuk's%20version%20of%20course/Lectures/Lecture11_ENGS41_post.pdf">Value and Utility Functions</a>, lecture slides from Darthmouth ENGS41 class
 * Medium.com: Trade Sizing & Kelly Fraction <a href="https://medium.com/lxdx/trade-sizing-fb546bc3b1aa">I</a>, <a href="https://medium.com/lxdx/trade-sizing-ii-of-iv-a9ce33de5ae4">I</a>, <a href="https://medium.com/lxdx/trade-sizing-iii-of-iv-706e342dda43">III</a>, by Joshua Greenwald
 
-* Podcasts at <a href="https://chatwithtraders.com">chatwithtraders.com</a><
+* Podcasts at <a href="https://chatwithtraders.com">chatwithtraders.com</a>
   * <a href="https://chatwithtraders.com/ep-054-rishi-narang/">EP 054: Components of a black box, humans versus computers, and high frequency trading w/ @RishiKNarang</a>
   * <a href="https://chatwithtraders.com/ep-118-manoj-narang/">EP 118: Trading technology, alternative data, and originality w/ Manoj Narang</a><
   * <a href="https://chatwithtraders.com/ep-170-joshua-greenwald/">EP 170: The technology edge - how a team of options market makers found success in Asia w/ Joshua Greenwald</a>
   * <a href="https://www.youtube.com/watch?v=EUUd2kq1Mh4">EP 178: Create a Simple Trend Following System - Nick Radge</a>
-  * <a href="https://www.youtube.com/watch?v=WpZhIpVStgI">EP 77: How to be a profitable short-term trader in a high frequency world - Dennis Dick</a><
+  * <a href="https://www.youtube.com/watch?v=WpZhIpVStgI">EP 77: How to be a profitable short-term trader in a high frequency world - Dennis Dick</a>
 
 ### Probabilities and Statistics
 * MIT course 14.30 <a href="https://ocw.mit.edu/courses/economics/14-30-introduction-to-statistical-method-in-economics-spring-2006/">Intro to Statistical Methods in Economics
