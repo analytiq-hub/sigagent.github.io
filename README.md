@@ -29,7 +29,7 @@ Andrei Radulescu-Banu can be reached at andrei[at]bitdribble.com, on [Linked-in]
 
 #### 2007 Darpa Challenge
 * Sertac Karaman (MIT, Optimus Ride) on <a href="https://www.youtube.com/watch?v=0fLSf3NO0-s&list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq">Motion Planning in a Complex World</a> (2018). Describes the MIT entry at the 2007 DARPA Challenge.
-* [Towards Fully Autonomous Driving: Systems and  Algorithms](https://cs.stanford.edu/people/teichman/papers/iv2011.pdf), by Jesse Levinson et. al. (2011 IEEE Intelligent Vehicles Symposium (IV)Baden-Baden, Germany, June 5-9, 2011)
+* [Towards Fully Autonomous Driving: Systems and  Algorithms](https://cs.stanford.edu/people/teichman/papers/iv2011.pdf), by Jesse Levinson et. al. (2011 IEEE Intelligent Vehicles Symposium (IV)Baden-Baden, Germany, June 5-9, 2011). Describes the Stanford entry at the 2007 DARPA Challenge, and follow-up work.
 
 #### Courses
 * <a href="https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2016/">Cognitive Robotics</a>, 16.412J/6.836J MIT Open Courseware (Spring 2016)
