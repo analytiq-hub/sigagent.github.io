@@ -1,3 +1,8 @@
+---
+layout: page
+title: Bitdribble
+permalink: /bitdribble/
+---
 ... robotics, fintech, dev/ops, IoT, and distributed systems. 
 
 ### What is Bitdribble?
