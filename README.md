@@ -49,8 +49,8 @@ Andrei Radulescu-Banu can be reached at andrei[at]bitdribble.com, on [Linked-in]
 * <a href="https://www.amazon.com/Active-Portfolio-Management-Quantitative-Controlling/dp/0070248826/ref=sr_1_3?crid=3BFCSAH4GJTMJ&keywords=active+portfolio+management&qid=1578105832&sprefix=active+port%2Caps%2C148&sr=8-3">Active Portfolio Management</a>, by Grinold and Kahn (2000), <a href="https://www.amazon.com/gp/customer-reviews/R15967OE2LWONA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0070248826">reviewed</a> by <a href="https://www.amazon.com/gp/profile/amzn1.account.AGPC5KWPYAIHN2VMHO2NMZ3556QA/ref=cm_cr_srp_d_gw_btm?ie=UTF8">Scott C. Locklin</a>. A follow-up was published in 2019.
 * Trading and Exchanges, by Larry Harris (2002)
 * Modern Portfolio Theory and Investment Analysis, by Elton, Gruber et. al.
-* Investments, by Bodie, Kane and Marcus<
-* <a href="https://ocw.mit.edu/courses/sloan-school-of-management/15-401-finance-theory-i-fall-2008/">Finance Theory I</a>, by Andrew Lo, MIT open courseware<
+* Investments, by Bodie, Kane and Marcus
+* <a href="https://ocw.mit.edu/courses/sloan-school-of-management/15-401-finance-theory-i-fall-2008/">Finance Theory I</a>, by Andrew Lo, MIT open courseware
 * Data Mining, by Witten and Frank
 * Python for Data Analysis, by McKinney
 * MIT IAP 2020: The business of quant: <a href="http://bitdribble.com/home/doc/finance/TBQI-Lecture-Slides/TBQI- Lec 1.pdf">Lecture 1</a> <a href="http://bitdribble.com/home/doc/finance/TBQI-Lecture-Slides/TBQI- Lec 2.pdf">2</a> <a href="http://bitdribble.com/home/doc/finance/TBQI-Lecture-Slides/TBQI- Lec 3.pdf">3</a> <a href="http://bitdribble.com/home/doc/finance/TBQI-Lecture-Slides/TBQI- Lec 4.pdf">4</a>, by Rohit Singh
