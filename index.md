@@ -1,9 +1,3 @@
----
-title: Bitdribble
----
-
-# {{ page.title }}
-
 ... dev/ops, IoT, and distributed systems. 
 
 ##### What is Bitdribble?
