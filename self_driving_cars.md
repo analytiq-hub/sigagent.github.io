@@ -13,6 +13,7 @@ permalink: /self_driving_cars/
  * Since the publication of this course, Apollo has released newer versions of their software that now use CyberRT instead of ROS.
 
 #### Books
-* <a href="https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf">Probabilistic Robots</a>, by Thurn, Burgard, Fox (2005)
-* <a href="https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction-dp-1449323898/dp/1449323898/ref=mt_other?_encoding=UTF8&me=&qid=">Programming Robots with ROS: A Practical Introduction to the Robot Operating System</a>, by Quigley, Gerkey, Smart (2015)
+* [Artificial Intelligence: A Modern Approach](repository.unimal.ac.id/1022/1/Artificial%20Intelligence%20-%20A%20Modern%20Approach%203rd%20Ed%20-%20Stuart%20Russell%20and%20Peter%20Norvig%2C%20Berkeley%20%282010%29.pdf), by Russell and Norvig (4th edition, 2020)
+* [Probabilistic Robots](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf), by Thurn, Burgard, Fox (2005)
+* [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction-dp-1449323898/dp/1449323898/ref=mt_other?_encoding=UTF8&me=&qid=), by Quigley, Gerkey, Smart (2015)
 
