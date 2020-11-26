@@ -4,7 +4,7 @@ author:
   email: bitdribble@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Bitdribble is a source code and information repository
-  maintained by Andrei Radulescu-Banu
+  maintained by Andrei Radulescu-Banu.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
