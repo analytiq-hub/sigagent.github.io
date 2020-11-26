@@ -9,7 +9,8 @@ permalink: /self_driving_cars/
 
 #### Courses
 * <a href="https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2016/">Cognitive Robotics</a>, 16.412J/6.836J MIT Open Courseware (Spring 2016)
-* <a href="https://www.apex.ai/autoware-course">Self-Driving Cars with ROS and Autoware</a> by APEX.ai, 20 classes <a href="https://www.youtube.com/watch?v=XTmlhvlmcf8&t=4103s">YouTube Course</a> (2020). This is a system-level intro to Apollo ROS, the open source project from Baidu for self driving cars.
+* <a href="https://www.apex.ai/autoware-course">Self-Driving Cars with ROS and Autoware</a> by APEX.ai, 20 classes <a href="https://www.youtube.com/watch?v=XTmlhvlmcf8&t=4103s">YouTube Course</a> (2020). This is a system-level intro to [Apollo ROS](http://www.apollo.auto/), the open source project from Baidu for self driving cars.
+ * Since the publication of this course, Apollo has released newer versions of their software that now use CyberRT instead of ROS.
 
 #### Books
 * <a href="https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf">Probabilistic Robots</a>, by Thurn, Burgard, Fox (2005)
