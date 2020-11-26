@@ -7,3 +7,4 @@
 #
 layout: home
 ---
+… robotics, fintech, and distributed systems.
