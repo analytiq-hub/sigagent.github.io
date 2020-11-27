@@ -26,3 +26,6 @@ permalink: /market_trading/
   * <a href="https://chatwithtraders.com/ep-170-joshua-greenwald/">EP 170: The technology edge - how a team of options market makers found success in Asia w/ Joshua Greenwald</a>
   * <a href="https://www.youtube.com/watch?v=EUUd2kq1Mh4">EP 178: Create a Simple Trend Following System - Nick Radge</a>
   * <a href="https://www.youtube.com/watch?v=WpZhIpVStgI">EP 77: How to be a profitable short-term trader in a high frequency world - Dennis Dick</a>
+
+#### Other
+* [Probabilities and Statistics](probabilities_and_statistics.md)
