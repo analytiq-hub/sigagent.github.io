@@ -16,6 +16,7 @@ layout: home
 * [Dev/Ops](devops.md)
 * [Embedded Programming](embedded_programming.md)
 * [Entrepreneurship](entrepreneurship.md)
+* [Machine Learning](machine_learning.md)
 * [Market Trading](market_trading.md)
 * [Network Tools](network_tools.md)
 * [Open Source](open_source.md)
