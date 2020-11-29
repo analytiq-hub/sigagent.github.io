@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Market Trading
-permalink: /market_trading/
 ---
 * <a href="https://www.amazon.com/Algorithmic-Trading-DMA-introduction-strategies/dp/0956399207/ref=sr_1_3?crid=1NKWJ07CNLTYE&keywords=algorithmic+trading+and+dma&qid=1578104806&sprefix=algorithmic+trading+and+d%2Caps%2C162&sr=8-3">Algorithmic Trading & DMA</a> by Barry Johnson (2010), <a href="https://www.amazon.com/gp/customer-reviews/R3USX62BQJY3A0/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&ASIN=0956399207">reviewed</a> by <a href="https://www.amazon.com/gp/profile/amzn1.account.AGPC5KWPYAIHN2VMHO2NMZ3556QA/ref=cm_cr_srp_d_gw_btm?ie=UTF8">Scott C. Locklin</a>
 * <a href="https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency/dp/1118362411/ref=sr_1_1?crid=WEXX5FPPAV1Y&keywords=inside+the+black+box+the+simple+truth+about+quantitative+trading&qid=1578105037&sprefix=inside+the+black+box%2Caps%2C157&sr=8-1">Inside the black box</a>, by Rishi K. Narang (2009)

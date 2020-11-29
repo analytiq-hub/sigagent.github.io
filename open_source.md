@@ -6,7 +6,6 @@
 ---
 layout: page
 title: Open Source
-permalink: /open_source/
 ---
 * <a href="http://nadeausoftware.com/articles/2012/02/c_c_tip_how_detect_processor_type_using_compiler_predefined_macros">C/C++ tip: How to detect the processor type using compiler predefined macros</a> (accessed Oct 2018)
 * <a href="http://nadeausoftware.com/articles/2011/12/c_c_tip_how_list_compiler_predefined_macros">C/C++ tip: How to list compiler predefined macros</a> (accessed Oct 2018)

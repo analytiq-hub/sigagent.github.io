@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Entrepreneurship
-permalink: /entrepreneurship/
 ---
 * Podcasts at <a href="https://www.angelinvestboston.com/episodes/">angelinvestboston.com</a> with leading Boston angel investors. See the <a href="https://www.angelinvestboston.com/ep-002-1">Ben Littauer</a> and <a href="https://www.angelinvestboston.com/christopher-mirabile-ep-12">Christopher Mirabile</a> episodes.
 * The <a href="https://seraf-investor.com/compass/article/angel-101-a-primer-new-angel-investors">Seraf Investor blog</a>
