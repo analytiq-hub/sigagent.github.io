@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Self Driving Cars
-permalink: /self_driving_cars/
 ---
 #### Courses
 * <a href="https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2016/">Cognitive Robotics</a>, 16.412J/6.836J MIT Open Courseware (Spring 2016)
