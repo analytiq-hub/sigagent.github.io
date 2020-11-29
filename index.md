@@ -13,14 +13,15 @@ layout: home
 
 ## Things I read, watch or listen
 
-* [Self Driving Cars](self_driving_cars.md)
-* [Market Trading](market_trading.md)
-* [Probabilities and Statistics](probabilities_and_statistics.md)
-* [Entrepreneurship](entrepreneurship.md)
 * [Dev/Ops](devops.md)
-* [Open Source](open_source.md)
-* [Network Tools](network_tools.md)
 * [Embedded Programming](embedded_programming.md)
+* [Entrepreneurship](entrepreneurship.md)
+* [Market Trading](market_trading.md)
+* [Network Tools](network_tools.md)
+* [Open Source](open_source.md)
+* [Probabilities and Statistics](probabilities_and_statistics.md)
+* [Robotics](robotics.md)
+* [Self Driving Cars](self_driving_cars.md)
 * [Writing Documentation](writing_documentation.md)
 
 ## Web links
