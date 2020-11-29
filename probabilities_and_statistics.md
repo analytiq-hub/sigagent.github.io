@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Probabilities and Statistics
-permalink: /probabilities_and_statistics/
 ---
 
 #### Statistics
@@ -14,3 +13,7 @@ permalink: /probabilities_and_statistics/
 
 #### Statistics in Financial Markets
 * <a href="https://www.amazon.com/Theory-Financial-Risk-Derivative-Pricing/dp/0521263360/ref=sr_1_1?keywords=Theory+of+Financial+Risk+and+Derivative+Pricing&qid=1578282931&s=books&sr=1-1">Theory of Financial Risk and Derivative Pricing: From Statistical Physics to Risk Management</a>, by Jean-Philippe Bouchaud & Marc Potters (2011)
+
+#### Other
+* [Robotics](robotics.md)
+* [Self Driving Cars](self_driving_cars.md)
