@@ -18,6 +18,8 @@ minima:
   #skin: solarized-dark
   #skin: solarized
 
+  permalink: pretty
+
   # generate social links in footer
   social_links:
     twitter: bitdribble
