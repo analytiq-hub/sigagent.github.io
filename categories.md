@@ -1,3 +1,4 @@
+{% comment %}
 {% for category in site.categories %}
   <h4>Category: {{ category[0] }}</h4>
   <ul>
@@ -6,7 +7,7 @@
     {% endfor %}
   </ul>
 {% endfor %}
-
+{% endcomment %} 
 
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 
