@@ -8,6 +8,7 @@ title: Robotics
 
 #### Videos
 * Matlab videos: [Understanding Kalman Filters](https://www.youtube.com/watch?v=mwn8xhgNpFY) (7 videos)
+*  Michel van Biezen: [The Kalman Filter](https://www.youtube.com/watch?v=CaCcOwJPytQ) (55 videos)
 
 #### Links
 * [Machine Learning](machine_learning.md)
