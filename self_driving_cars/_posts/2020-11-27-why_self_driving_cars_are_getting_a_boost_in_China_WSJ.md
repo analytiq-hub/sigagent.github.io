@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Self-Driving Cars Are Getting a Boost In China | WSJ"
+title: "Why Self-Driving Cars Are Getting a Boost In China (WSJ)"
 author:
 - Andrei Radulescu-Banu
 ---
