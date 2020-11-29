@@ -7,6 +7,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
   maintained by Andrei Radulescu-Banu.
 
 show_excerpts: false # set to true to show excerpts on the homepage
+permalink: pretty
+
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -17,8 +19,6 @@ minima:
   skin: dark
   #skin: solarized-dark
   #skin: solarized
-
-  permalink: pretty
 
   # generate social links in footer
   social_links:
