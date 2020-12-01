@@ -12,7 +12,8 @@ title: Robotics
 
 #### Classes
 * Udacity: [Artificial Intelligence for Robotics](https://classroom.udacity.com/courses/cs271), [youtube videos](https://www.youtube.com/watch?v=Uqt_pRbR8rI)
-* Wolfram Burgard: [Autonome Intelligent Systems](http://ais.informatik.uni-freiburg.de/teaching/ss18/robotics/)
+* Wolfram Burgard: [Introduction to Mobile Robotics - SS 2018](http://ais.informatik.uni-freiburg.de/teaching/ss18/robotics/)
+  * [Laboratory, Deep Learning for Autonomous Driving](http://ais.informatik.uni-freiburg.de/teaching/ss18/driving_lab/)
 
 
 #### Links
