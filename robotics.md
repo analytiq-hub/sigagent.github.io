@@ -10,6 +10,10 @@ title: Robotics
 * Matlab videos: [Understanding Kalman Filters](https://www.youtube.com/watch?v=mwn8xhgNpFY) (7 videos)
 *  Michel van Biezen: The Kalman Filter [ilectureonline.com](http://www.ilectureonline.com/lectures/subject/SPECIAL%20TOPICS/26/190), [youtube](https://www.youtube.com/watch?v=CaCcOwJPytQ) (55 videos)
 
+#### Classes
+* Udacity: [Artificial Intelligence for Robotics](https://classroom.udacity.com/courses/cs271), [youtube videos](https://www.youtube.com/watch?v=Uqt_pRbR8rI)
+
+
 #### Links
 * [Machine Learning](machine_learning.md)
 * [Probabilities and Statistics](probabilities_and_statistics.md)
