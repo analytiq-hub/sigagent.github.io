@@ -16,6 +16,10 @@ title: Robotics
   * [Laboratory, Deep Learning for Autonomous Driving](http://ais.informatik.uni-freiburg.de/teaching/ss18/driving_lab/)
 
 
+#### Papers
+* [Benchmarking Model-Based Reinforcement Learning](https://arxiv.org/pdf/1907.02057.pdf), by Wang et al (2019)
+* [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114), by Chua et al (2018)
+
 #### Links
 * [Machine Learning](machine_learning.md)
 * [Probabilities and Statistics](probabilities_and_statistics.md)
