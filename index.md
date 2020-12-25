@@ -21,6 +21,7 @@ layout: home
 * [Market Trading](market_trading.md)
 * [Network Tools](network_tools.md)
 * [Open Source](open_source.md)
+* [Other](other.md)
 * [Probabilities and Statistics](probabilities_and_statistics.md)
 * [Robotics](robotics.md)
 * [Self Driving Cars](self_driving_cars.md)
