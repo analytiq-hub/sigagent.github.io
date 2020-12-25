@@ -5,4 +5,4 @@ title: Other
 Things that don't fit anywhere else
 
 #### Links
-* Mencius Moldbug: [Unqualified Reservations](https://www.unqualified-reservations.org/) blog
+* [Curtis Yarvin](https://en.wikipedia.org/wiki/Curtis_Yarvin): [Unqualified Reservations](https://www.unqualified-reservations.org/) blog
