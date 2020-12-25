@@ -9,6 +9,9 @@ title: Machine Learning
 * [What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)
 * [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 
+### Links
+* [Eliezer Yudkowsky](https://www.yudkowsky.net/)
+
 #### Other
 * [Probabilities and Statistics](probabilities_and_statistics.md)
 * [Robotics](robotics.md)
