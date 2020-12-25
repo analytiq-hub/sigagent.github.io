@@ -18,6 +18,9 @@ title: Self Driving Cars
 * [Dmitri Dolgov (Waymo CTO): Waymo and the Future of Self-Driving Cars](https://www.youtube.com/watch?v=P6prRXkI5HM&t=3632s), Dec 20, 2020
 * Sertac Karaman (MIT, Optimus Ride) on <a href="https://www.youtube.com/watch?v=0fLSf3NO0-s&list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq">Motion Planning in a Complex World</a> (2018). Describes the MIT entry at the 2007 DARPA Challenge.
 
+#### Blogs
+* [Pixelopolis, a self-driving car demo from Google I/O built with TF-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html) (July 13, 2020)
+
 #### Other
 * [Machine Learning](machine_learning.md)
 * [Probabilities and Statistics](probabilities_and_statistics.md)
