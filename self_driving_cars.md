@@ -15,7 +15,7 @@ title: Self Driving Cars
 * [Towards Fully Autonomous Driving: Systems and  Algorithms](https://cs.stanford.edu/people/teichman/papers/iv2011.pdf), by Jesse Levinson et. al. (2011 IEEE Intelligent Vehicles Symposium (IV), Baden-Baden, Germany, June 5-9, 2011). Describes the Stanford entry at the 2007 DARPA Challenge, and follow-up work.
 
 #### Interviews
-* [Dmitri Dolgov (Waymo CTO): Waymo and the Future of Self-Driving Cars}(https://www.youtube.com/watch?v=P6prRXkI5HM&t=3632s), Dec 20, 2020
+* [Dmitri Dolgov (Waymo CTO): Waymo and the Future of Self-Driving Cars](https://www.youtube.com/watch?v=P6prRXkI5HM&t=3632s), Dec 20, 2020
 * Sertac Karaman (MIT, Optimus Ride) on <a href="https://www.youtube.com/watch?v=0fLSf3NO0-s&list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq">Motion Planning in a Complex World</a> (2018). Describes the MIT entry at the 2007 DARPA Challenge.
 
 #### Other
