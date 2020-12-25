@@ -16,6 +16,7 @@ title: Self Driving Cars
 
 #### Interviews
 * [Dmitri Dolgov (Waymo CTO): Waymo and the Future of Self-Driving Cars](https://www.youtube.com/watch?v=P6prRXkI5HM&t=3632s), Dec 20, 2020
+* [George Hotz: Hacking the Simulation & Learning to Drive with Neural Nets](https://www.youtube.com/watch?v=_L3gNaAVjQ4) (Oct 2020)
 * Sertac Karaman (MIT, Optimus Ride) on <a href="https://www.youtube.com/watch?v=0fLSf3NO0-s&list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq">Motion Planning in a Complex World</a> (2018). Describes the MIT entry at the 2007 DARPA Challenge.
 
 #### Blogs
