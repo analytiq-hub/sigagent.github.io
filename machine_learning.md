@@ -12,6 +12,9 @@ title: Machine Learning
   * [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
   * [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
   * [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)
+* Welch Labs
+  * [Learning To See](https://www.youtube.com/watch?v=i8D90DkCLhI)
+  * [Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs)
 
 #### Blogs
 * [Colah's blog](http://colah.github.io/)
