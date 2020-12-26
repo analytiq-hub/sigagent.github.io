@@ -6,10 +6,11 @@ title: Machine Learning
 * [Artificial Intelligence: A Modern Approach](repository.unimal.ac.id/1022/1/Artificial%20Intelligence%20-%20A%20Modern%20Approach%203rd%20Ed%20-%20Stuart%20Russell%20and%20Peter%20Norvig%2C%20Berkeley%20%282010%29.pdf), by Russell and Norvig (4th edition, 2020)
 
 #### Videos
-* [What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)
-* [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
-* [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
-* [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)
+* 3Blue1Brown Series
+  * [What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)
+  * [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+  * [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+  * [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
