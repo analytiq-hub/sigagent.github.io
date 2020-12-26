@@ -13,6 +13,9 @@ title: Machine Learning
   * [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
   * [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 
+#### Blogs
+* [Colah's blog](http://colah.github.io/)
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Probabilities and Statistics](probabilities_and_statistics.md)
