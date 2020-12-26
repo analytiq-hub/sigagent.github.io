@@ -8,6 +8,8 @@ title: Machine Learning
 #### Videos
 * [What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)
 * [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+* [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+* [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
