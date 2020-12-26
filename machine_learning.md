@@ -12,7 +12,7 @@ title: Machine Learning
   * [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
   * [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
   * [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)
-* sentdex: [Deep Learning and Neural Networks with Python and Pytorch](https://www.youtube.com/watch?v=BzcBsTou0C0), [part 2](https://www.youtube.com/watch?v=i2yPxY2rOzs)
+* sentdex: [Deep Learning and Neural Networks with Python and Pytorch](https://www.youtube.com/watch?v=BzcBsTou0C0), [part 2](https://www.youtube.com/watch?v=i2yPxY2rOzs), [part 3](https://www.youtube.com/watch?v=ixathu7U-LQ)
 * Welch Labs
   * [Learning To See](https://www.youtube.com/watch?v=i8D90DkCLhI)
   * [Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs)
