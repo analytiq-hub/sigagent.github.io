@@ -15,7 +15,8 @@ title: Machine Learning
 * sentdex: Deep Learning and Neural Networks with Python and Pytorch
   * [Intro](https://www.youtube.com/watch?v=BzcBsTou0C0)
   * [Data](https://www.youtube.com/watch?v=i2yPxY2rOzs)
-  * [Building our Neural Network](https://www.youtube.com/watch?v=ixathu7U-LQ)
+  * [Building our neural Network](https://www.youtube.com/watch?v=ixathu7U-LQ)
+  * [Training model](https://www.youtube.com/watch?v=9j-_dOze4IM)
   * ...
 * Welch Labs
   * [Learning To See](https://www.youtube.com/watch?v=i8D90DkCLhI)
