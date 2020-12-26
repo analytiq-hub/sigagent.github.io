@@ -15,6 +15,7 @@ title: Machine Learning
 
 #### Blogs
 * [Colah's blog](http://colah.github.io/)
+* [distill.pub](https://distill.pub/)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
