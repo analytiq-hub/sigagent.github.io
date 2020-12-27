@@ -22,9 +22,10 @@ title: Machine Learning
   * [Learning To See](https://www.youtube.com/watch?v=i8D90DkCLhI)
   * [Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs)
 
-#### Blogs
+#### Posts
 * [Colah's blog](http://colah.github.io/)
 * [distill.pub](https://distill.pub/)
+* [MuZero](https://en.wikipedia.org/wiki/MuZero)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
