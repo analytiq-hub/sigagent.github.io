@@ -25,7 +25,7 @@ title: Machine Learning
 #### Posts
 * [Colah's blog](http://colah.github.io/)
 * [distill.pub](https://distill.pub/)
-* [MuZero](https://en.wikipedia.org/wiki/MuZero)
+* [MuZero](https://en.wikipedia.org/wiki/MuZero) and [The Evolution of AlphaGo to MuZero](https://towardsdatascience.com/the-evolution-of-alphago-to-muzero-c2c37306bf9)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
