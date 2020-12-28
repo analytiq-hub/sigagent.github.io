@@ -7,7 +7,7 @@ author:
 [Training Model - Deep Learning and Neural Networks with Python and Pytorch](https://www.youtube.com/watch?v=9j-_dOze4IM)
 
 Example code for detecting numbers in MNIST dataset:
-'''python
+```python
 #!/usr/bin/python
 
 import torch
@@ -92,4 +92,4 @@ plt.imshow(X[i].view(28,28))
 plt.show()
 print("Image {} detected {}".format(data[1][i], torch.argmax(net(X[i].view(-1,784))[0])))
 
-'''
+```
