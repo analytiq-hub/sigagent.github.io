@@ -6,6 +6,7 @@ author:
 ---
 [Training Model - Deep Learning and Neural Networks with Python and Pytorch](https://www.youtube.com/watch?v=9j-_dOze4IM)
 
+Example code for detecting numbers in MNIST dataset:
 '''python
 #!/usr/bin/python
 
