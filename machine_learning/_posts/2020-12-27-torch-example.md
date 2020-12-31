@@ -103,9 +103,9 @@ def display_bad_image(i):
     plt.show()
     print("Image {} detected {}".format(badset[i][1], badset[i][2]))
 
-# Display 1st badly detected image
+# Display 1st badly detected image. Close window to proceed.
 display_bad_image(0)
 
-# Display 1st correctly detected image
+# Display 1st correctly detected image. Close window to proceed.
 display_good_image(0)
 ```
