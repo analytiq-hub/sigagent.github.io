@@ -2,9 +2,10 @@
 layout: page
 title: Machine Learning
 ---
-#### Books
+#### Books, Lecture Notes
 * Michael Nielsen: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Artificial Intelligence: A Modern Approach](repository.unimal.ac.id/1022/1/Artificial%20Intelligence%20-%20A%20Modern%20Approach%203rd%20Ed%20-%20Stuart%20Russell%20and%20Peter%20Norvig%2C%20Berkeley%20%282010%29.pdf), by Russell and Norvig (4th edition, 2020)
+* [Deep learning theory lecture notes](https://mjt.cs.illinois.edu/dlt/), Matus Telgarsky
 
 #### Videos
 * 3Blue1Brown Series
@@ -26,6 +27,10 @@ title: Machine Learning
 * [Colah's blog](http://colah.github.io/)
 * [distill.pub](https://distill.pub/)
 * [MuZero](https://en.wikipedia.org/wiki/MuZero) and [The Evolution of AlphaGo to MuZero](https://towardsdatascience.com/the-evolution-of-alphago-to-muzero-c2c37306bf9)
+
+### Articles
+* [Offline Reinforcement Learning: Tutorial, Review,and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf), Sergey Levine et al (2020)
+* [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/pdf/2006.04779.pdf), Aviral Kumar et al (2020)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
