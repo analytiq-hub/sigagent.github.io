@@ -22,6 +22,7 @@ title: Machine Learning
 * Welch Labs
   * [Learning To See](https://www.youtube.com/watch?v=i8D90DkCLhI)
   * [Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs)
+* [Offline Reinforcement Learning](https://www.youtube.com/watch?v=IUAePhU0E7Y) - Sergey Levine, 2020
 
 #### Posts
 * [Colah's blog](http://colah.github.io/)
