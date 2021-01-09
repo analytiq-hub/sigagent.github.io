@@ -7,6 +7,7 @@ title: Artificial Intelligence
 * [Hutter Prize ](https://en.wikipedia.org/wiki/Hutter_Prize)
 
 #### Other
+* [Computation Theory](computation_theory.md)
 * [Machine Learning](machine_learning.md)
 * [Probabilities and Statistics](probabilities_and_statistics.md)
 * [Robotics](robotics.md)
