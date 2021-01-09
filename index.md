@@ -14,6 +14,7 @@ layout: home
 ## Things I read, watch or listen
 
 * [Artificial Intelligence](artificial_intelligence.md)
+* [Computation Theory](computation_theory.md)
 * [Dev/Ops](devops.md)
 * [Embedded Programming](embedded_programming.md)
 * [Entrepreneurship](entrepreneurship.md)
