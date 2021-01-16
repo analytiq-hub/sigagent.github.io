@@ -4,6 +4,7 @@ title: Computation Theory
 ---
 #### Books, Lecture Notes
 * Stephen Wolfram: [A New Kind of Science](https://www.wolframscience.com/nks/)
+* [Homotopy Type Theory](https://hott.github.io/book/nightly/hott-online-1274-gd98a32f.pdf) - Univalent Foundations of Mathematics
 
 #### Videos
 * [Stephen Wolfram: Cellular Automata, Computation, and Physics](https://www.youtube.com/watch?v=ez773teNFYA&t=2539s), Lex Fridman Podcast #89 (2020)
