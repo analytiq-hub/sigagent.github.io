@@ -6,7 +6,7 @@ title: Computation Theory
 * Stephen Wolfram: [A New Kind of Science](https://www.wolframscience.com/nks/)
 * [Homotopy Type Theory](https://hott.github.io/book/nightly/hott-online-1274-gd98a32f.pdf) - Univalent Foundations of Mathematics
 * ncat lab [Homotopy Type Theory](https://ncatlab.org/nlab/show/homotopy+type+theory#Code)
-* [The Church-Turing Thesis](https://seop.illc.uva.nl/entries/church-turing/#Bloopers) (and how it often is misunderstood), at the Stanford Encyclopedia of Philosophy
+* [The Church-Turing Thesis](https://seop.illc.uva.nl/entries/church-turing/#Bloopers) (and how it is often misunderstood), at the Stanford Encyclopedia of Philosophy
 
 #### Videos
 * [Stephen Wolfram: Cellular Automata, Computation, and Physics](https://www.youtube.com/watch?v=ez773teNFYA&t=2539s), Lex Fridman Podcast #89 (2020)
