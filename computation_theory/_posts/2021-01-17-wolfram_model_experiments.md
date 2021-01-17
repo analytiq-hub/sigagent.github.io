@@ -9,3 +9,4 @@ Notebooks from Mathematica cloud experimenting with WolframModel:
 * [Try to get a rule that increases dimension](https://www.wolframcloud.com/obj/iubica2/Published/experiments3.nb)
 * [Moebius band](https://www.wolframcloud.com/obj/iubica2/Published/experiments4.nb)
 * [Flat plane](https://www.wolframcloud.com/obj/iubica2/Published/experiments5.nb)
+* [Fractal](https://www.wolframcloud.com/obj/iubica2/Published/experiments6.nb)
