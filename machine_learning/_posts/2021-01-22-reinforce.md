@@ -14,6 +14,8 @@ In reinforcement learning, an agent in state $$s_t$$ acts on the environment wit
 
 The process can end after a finite number of steps $$T$$, or can continue for an infinite number of steps. The agent's function that maps states and rewards to actions is called *policy*, denoted $$\pi$$.
 
+If we denote 
+
 A sequence of *experiences* $$(s_t, a_t, r_t)$$ defines a trajectory
 
 $$\tau = (s_0, a_0, r_0), (s_1, a_1, r_1), (s_2, a_2, r_2), ...$$
@@ -38,3 +40,5 @@ REINFORCE is perhaps the most basic algorithm for deep reinforcement learning.
 
 ...
 
+
+This page was created with diagram software from [draw.io](https://draw.io) and [MathJax](http://sgeos.github.io/github/jekyll/2016/08/21/adding_mathjax_to_a_jekyll_github_pages_blog.html) for LaTeX typesetting. To check LaTeX expressions, use this [web form](https://cdn.rawgit.com/mathjax/MathJax/2.7.1/test/sample-dynamic-2.html).
