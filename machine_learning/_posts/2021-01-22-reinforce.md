@@ -17,6 +17,12 @@ The process can end after a finite number of steps $$T$$, or can continue for an
 
 If we denote $$\mathcal{S}_t, \mathcal{A}_t, \mathcal{R}_t$$ the set of states, actions, and rewards at step $$t$$, then the policy $$pi$$ is a family of functions
 
+$$
+\begin{equation} \label{eq:1}
+\sum_{i=0}^{\infty} a_i x^i
+\end{equation}
+$$
+
 $$\pi_t : \mathcal{S}_t \times \mathcal{A}_t \rightarrow \mathcal{R}_t$$
 
 A sequence of *experiences* $$(s_t, a_t, r_t)$$ defines a trajectory
