@@ -15,22 +15,21 @@ In reinforcement learning, an agent in state $$s_t$$ acts on the environment wit
 
 The process can end after a finite number of steps $$T$$, or can continue for an infinite number of steps. The agent's function that maps states and rewards to actions is called *policy*, denoted $$\pi$$.
 
-If we denote $$\mathcal{S}_t, \mathcal{A}_t, \mathcal{R}_t$$ the set of states, actions, and rewards at step $$t$$, then the policy $$\pi$$ is a family of functions
+If we denote $$\mathcal{S}_t, \mathcal{A}_t$ the set of states and actions at step $$t$$, then the policy $$\pi$$ is a family of functions
 
 $$
 \begin{equation}
-\pi_t : \mathcal{S}_t \times \mathcal{A}_t \rightarrow \mathcal{R}_t
+\pi_t : \mathcal{S}_t \rightarrow \mathcal{A}_t
 \end{equation}
 $$
 
-To simplify notation, drop the index $$t$$, and denote $$\mathcal{S}, \mathcal{A}, \mathcal{R}$$ the families of sets of states, actions, and rewards. The policy is a family of functions
+To simplify notation, drop the index $$t$$, and denote $$\mathcal{S}, \mathcal{A}$$ the families of sets of states, actions, and rewards. The policy is a family of functions
 
 $$
 \begin{equation}
-\pi : \mathcal{S} \times \mathcal{A} \rightarrow \mathcal{R}
+\pi : \mathcal{S} \rightarrow \mathcal{A} 
 \end{equation}
 $$
-
 
 A sequence of *experiences* $$(s_t, a_t, r_t)$$ defines a trajectory
 
@@ -68,7 +67,7 @@ $$
 
 ## Reinforcement Learning as a MDP
 
-The state $$s_t$$ and action $$a_t$$ are, in practice, measured stochastically. State can only be estimated up to a measurement error. Actions can have error effects also.
+The state $$s_t$$ is, in practice, can only be estimated up to a measurement error. States, are, thus, measured stochastically:
 
 $$
 \begin{equation}
@@ -76,7 +75,7 @@ s_{t+1} \sim P(s_{t+1}|(s_0,a_0),(s_1,a_1),...,(s_t,a_t))
 \end{equation}
 $$
 
-At each step, the state $s_{t+1}$ is sampled from a probability distribution $$P$$ conditoned on past states and actions. To simplify things, we assume that all the information in past states and actions is summarised by $$(s_t, a_t)$$, turning the process into a Markov Dynamic Process:
+At each step, the state $s_{t+1}$ is sampled from a probability distribution $$P$$ conditoned on past states and actions. To simplify things, we assume that all the information in past states and actions is subsumed by $$(s_t, a_t)$$, turning the process into a Markov Dynamic Process (MDP):
 
 $$
 \begin{equation}
@@ -84,6 +83,7 @@ s_{t+1} \sim P(s_{t+1}|s_t,a_t)
 \end{equation}
 $$
 
+This formulation, while a simplification, is still flexible enough to provide good models.
 
 ...
 
