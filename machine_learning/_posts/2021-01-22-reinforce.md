@@ -23,7 +23,7 @@ $$
 \end{equation}
 $$
 
-To simplify notation, drop the index $$t$$, and denote $$\mathcal{S}, \mathcal{A}$$ the families of sets of states, actions, and rewards. The policy is a family of functions
+which attempts to maximize the rewards. To simplify notation, drop the index $$t$$, and denote $$\mathcal{S}, \mathcal{A}$$ the families of sets of states, actions, and rewards. The policy is a family of functions
 
 $$
 \begin{equation}
@@ -83,7 +83,21 @@ s_{t+1} \sim P(s_{t+1}|s_t,a_t)
 \end{equation}
 $$
 
-This formulation, while a simplification, is still flexible enough to provide good models.
+This formulation, while a simplification, is still flexible enough to provide good models. $$P(s_{t+1}|s_t,a_t)$$ represents the state transition distribution. The state $s_{t+1}$ determines a reward function, with real number values:
+
+$$
+\begin{equation}
+r_{t+1} : \mathcal{S}_{t+1} \rightarrow \mathbf{R})
+\end{equation}
+$$
+
+Since states are stochastic, the reward function is represented by a distribution:
+
+$$
+\begin{equation}
+\mathcal{R}_{t+1}(s_t, a_t, s_{t+1})
+\end{equation}
+$$
 
 ...
 
