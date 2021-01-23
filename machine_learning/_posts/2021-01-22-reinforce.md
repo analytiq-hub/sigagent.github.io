@@ -24,7 +24,7 @@ Since the sum of rewards $$r_0 + r_1 + r_2  + ... $$ can be infinite, even when 
 
 $$R(\tau) = r_0 + {\gamma}r_1 + {\gamma^2}r_2 + ... + {\gamma^T}r_T$$
 
-Since $$0 < \gamma < 1$$, when $$-M < r_t < M$$ we have
+Since $$0 < \gamma < 1$$, when $$-M < r_t < M$$ for all $$0 <= t <= T$, $we have
 
 $$-M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T}) < R(\tau) < M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T})$$
 
