@@ -13,18 +13,18 @@ In reinforcement learning, an agent in state s<sub>t</sub> acts on the environme
 
 The process can end after a finite number of steps T, or can continue for an infinite number of steps. The agent's function that maps states and rewards to actions is called *policy*, denoted &pi;.
 
-A sequence of *experiences* (s_<sub>t</sub>, a_<sub>t</sub>, r_<sub>t</sub>) defines a trajectory
+A sequence of *experiences* (s<sub>t</sub>, a<sub>t</sub>, r<sub>t</sub>) defines a trajectory
 
 ```
-\tau = (s_<sub>0</sub>, a_<sub>0</sub>, r_<sub>0</sub>), (s_<sub>1</sub>, a_<sub>1</sub>, r_<sub>1</sub>), ...
+\tau; = (s<sub>0</sub>, a<sub>0</sub>, r<sub>0</sub>), (s<sub>1</sub>, a<sub>1</sub>, r<sub>1</sub>), ...
 ```
 
 The *objective* of RL problems is to maximize the sum of rewards over all steps, performing good actions, and *learning* a good policy &pi;, through trial and error, using the magnitude of rewards to *reinforce* good actions.
 
-Since the sum of rewards r_<sub>0</sub> + r_<sub>1</sub> + ... can be infinite, it is convenient to discount rewards by a factor 0 < \gamma; < 1. The *return* of a trajectory \tau; is defined as
+Since the sum of rewards r<sub>0</sub> + r<sub>1</sub> + ... can be infinite, it is convenient to discount rewards by a factor 0 < \gamma; < 1. The *return* of a trajectory \tau; is defined as
 
 ```
-R(\tau;) = r_<sub>0</sub> + \gamma;r_<sub>1</sub> + \gamma<sup>2</sup>;r_<sub>2</sub> + ... + \gamma<sup>T</sup>;r_<sub>T</sub>
+R(\tau;) = r<sub>0</sub> + \gamma;r<sub>1</sub> + \gamma<sup>2</sup>;r<sub>2</sub> + ... + \gamma<sup>T</sup>;r<sub>T</sub>
 ```
 
 REINFORCE is perhaps the most basic algorithm for deep reinforcement learning. 
