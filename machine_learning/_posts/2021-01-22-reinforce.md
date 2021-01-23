@@ -30,7 +30,7 @@ $$-M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T}) < R(\tau) < M(1 + {\gamma} + 
 
 or
 
-$$-M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)} < R(\tau) < M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}$$.
+$$-M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}} < R(\tau) < M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}$$.
 
 ...
 
