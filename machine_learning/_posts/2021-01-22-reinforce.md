@@ -76,6 +76,7 @@ s_{t+1} \tilda P(s_{t+1}|(s_0,a_0),(s_1,a_1),...,(s_t,a_t))
 \end{equation}
 $$
 
+At each step, the state $s_{t+1}$ is sampled from a probability distribution $$P$$ conditoned on past states and actions.
 
 ...
 
