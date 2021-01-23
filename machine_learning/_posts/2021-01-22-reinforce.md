@@ -9,4 +9,4 @@ The source of this post is [Foundations of Deep Reinforcement Learning](https://
 
 REINFORCE is perhaps the most basic algorithm for deep reinforcement learning.
 
-(http://bitdribble.github.io/diagrams/reinforce_learning_control_loop.png)
+![Reinforce Learning Control Loop](http://bitdribble.github.io/diagrams/reinforce_learning_control_loop.png)
