@@ -15,7 +15,7 @@ In reinforcement learning, an agent in state $$s_t$$ acts on the environment wit
 
 The process can end after a finite number of steps $$T$$, or can continue for an infinite number of steps. The agent's function that maps states and rewards to actions is called *policy*, denoted $$\pi$$.
 
-If we denote $$\mathcal{S}_t, \mathcal{A}_t, \mathcal{R}_t$$ the set of states, actions, and rewards at step $$t$$, then the policy $$pi$$ is a family of functions
+If we denote $$\mathcal{S}_t, \mathcal{A}_t, \mathcal{R}_t$$ the set of states, actions, and rewards at step $$t$$, then the policy $$\pi$$ is a family of functions
 
 $$
 \begin{equation}
