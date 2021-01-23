@@ -18,30 +18,44 @@ The process can end after a finite number of steps $$T$$, or can continue for an
 If we denote $$\mathcal{S}_t, \mathcal{A}_t, \mathcal{R}_t$$ the set of states, actions, and rewards at step $$t$$, then the policy $$pi$$ is a family of functions
 
 $$
-\begin{equation} \label{eq:1}
-\sum_{i=0}^{\infty} a_i x^i
+\begin{equation}
+\pi_t : \mathcal{S}_t \times \mathcal{A}_t \rightarrow \mathcal{R}_t
 \end{equation}
 $$
 
-$$\pi_t : \mathcal{S}_t \times \mathcal{A}_t \rightarrow \mathcal{R}_t$$
-
 A sequence of *experiences* $$(s_t, a_t, r_t)$$ defines a trajectory
 
-$$\tau = (s_0, a_0, r_0), (s_1, a_1, r_1), (s_2, a_2, r_2), ...$$
+$$
+\begin{equation} \label{eq:tau}
+\tau = (s_0, a_0, r_0), (s_1, a_1, r_1), (s_2, a_2, r_2), ...
+\end{equation}
+$$
 
 The *objective* of RL problems is to maximize the sum of rewards over all steps, performing more optimal actions at each step, and *learning* a good policy $$\pi$$, through trial and error, using the magnitude of rewards to *reinforce* good actions.
 
 Since the sum of rewards $$r_0 + r_1 + r_2  + ...$$ can be infinite, even when $$r_t$$ are bounded, it is convenient to discount rewards by a factor $$0 < \gamma < 1$$. The *return* of a trajectory $$\tau$$ is defined as
 
-$$R(\tau) = r_0 + {\gamma}r_1 + {\gamma^2}r_2 + ... + {\gamma^T}r_T$$
+$$
+\begin{equation}
+R(\tau) = r_0 + {\gamma}r_1 + {\gamma^2}r_2 + ... + {\gamma^T}r_T
+\end{equation}
+$$
 
 Since $$0 < \gamma < 1$$, when $$-M < r_t < M$$ for all $$0 <= t <= T$$, we have
 
-$$-M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T}) < R(\tau) < M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T})$$
+$$
+\begin{equation}
+-M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T}) < R(\tau) < M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T})
+\end{equation}
+$$
 
 or
 
-$$-M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}} < R(\tau) < M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}$$
+$$
+\begin{equation}
+-M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}} < R(\tau) < M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}
+\end{equation}
+$$
 
 ...
 
