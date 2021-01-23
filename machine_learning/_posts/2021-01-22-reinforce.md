@@ -18,11 +18,11 @@ A sequence of *experiences* $$(s_t, a_t, r_t)$$ defines a trajectory
 
 $$\tau = (s_0, a_0, r_0), (s_1, a_1, r_1), (s_2, a_2, r_2), ...$$
 
-The *objective* of RL problems is to maximize the sum of rewards over all steps, performing good actions, and *learning* a good policy &pi;, through trial and error, using the magnitude of rewards to *reinforce* good actions.
+The *objective* of RL problems is to maximize the sum of rewards over all steps, performing good actions, and *learning* a good policy $$\pi$$, through trial and error, using the magnitude of rewards to *reinforce* good actions.
 
-Since the sum of rewards r<sub>0</sub> + r<sub>1</sub> + r<sub>2</sub> + ... can be infinite, it is convenient to discount rewards by a factor 0 < &gamma; < 1. The *return* of a trajectory &tau; is defined as
+Since the sum of rewards $$r_0 + r_1 + r_2  + ... $$ can be infinite, even when all $$r_t$$ have an upper bount $$M$$, it is convenient to discount rewards by a factor $$0 < \gamma; < 1$$. The *return* of a trajectory $$\tau$$ is defined as
 
-R(&tau;) = r<sub>0</sub> + &gamma;r<sub>1</sub> + &gamma;<sup>2</sup>r<sub>2</sub> + ... + &gamma;<sup>T</sup>r<sub>T</sub>
+$$R(\tau) = r_0 + {\gamma}r_1 + {\gamma^2}r_2 + ... + {\gamma^T}r_T$$
 
 ...
 
