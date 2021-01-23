@@ -4,9 +4,6 @@ title: "REINFORCE algorithm"
 author:
 - Andrei Radulescu-Banu
 ---
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-$$x=\sqrt{2}$$
-
 The source of this post is [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), a nice book by Laura Graesser and Wah Loon Keng. I'm working through Chapter 2, practicing the REINFORCE algorithm.
 
 In reinforcement learning, an agent in state s<sub>t</sub> acts on the environment with action a<sub>t</sub>, and receives reward r<sub>t</sub>. The cycle then continues, creating a feedback loop:
