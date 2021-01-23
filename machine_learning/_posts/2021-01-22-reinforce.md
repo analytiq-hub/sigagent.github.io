@@ -15,5 +15,11 @@ The process can end after a finite number of steps T, or can continue for an inf
 
 The *objective* of RL problems is to maximize the sum of rewards over all steps, performing good actions, and *learning* a good policy &pi;, through trial and error, using the magnitude of rewards to *reinforce* good actions.
 
+Since the sum of rewards r_<sub>0</sub> + r_<sub>1</sub> + ... can be infinite, it is convenient to discount rewards by a factor 0 < \gamma; < 1. The *return* of a trajectory \tau; is defined as
+
+```
+R(\tau;) = r_<sub>0</sub> + \gamma;r_<sub>1</sub> + \gamma<sup>2</sup>;r_<sub>2</sub> + ... + \gamma<sup>T</sup>;r_<sub>T</sub>
+```
+
 REINFORCE is perhaps the most basic algorithm for deep reinforcement learning. 
 
