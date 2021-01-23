@@ -66,17 +66,24 @@ $$
 \end{equation}
 $$
 
-## Reinforcement Learning as a Markov decision process (MDP)
+## Reinforcement Learning as a MDP
 
 The state $$s_t$$ and action $$a_t$$ are, in practice, measured stochastically. State can only be estimated up to a measurement error. Actions can have error effects also.
 
 $$
 \begin{equation}
-s_{t+1} \tilda P(s_{t+1}|(s_0,a_0),(s_1,a_1),...,(s_t,a_t))
+s_{t+1} \sim P(s_{t+1}|(s_0,a_0),(s_1,a_1),...,(s_t,a_t))
 \end{equation}
 $$
 
-At each step, the state $s_{t+1}$ is sampled from a probability distribution $$P$$ conditoned on past states and actions.
+At each step, the state $s_{t+1}$ is sampled from a probability distribution $$P$$ conditoned on past states and actions. To simplify things, we assume that all the information in past states and actions is summarised by $$(s_t, a_t)$$, turning the process into a Markov Dynamic Process:
+
+$$
+\begin{equation}
+s_{t+1} \sim P(s_{t+1}|s_t,a_t)
+\end{equation}
+$$
+
 
 ...
 
