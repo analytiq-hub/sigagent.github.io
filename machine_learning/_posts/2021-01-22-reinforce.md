@@ -7,7 +7,7 @@ author:
 
 The source of this post is [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), a nice book by Laura Graesser and Wah Loon Keng. I'm working through Chapter 2, practicing the REINFORCE algorithm.
 
-In reinforcement learning, an agent acts on the environment with action a<sub>t</sub>. The agent is moving to state s<sub>t+1</sub>, and the reward for being in that state is r<sub>t+1</sub>. The cycle then continues, creating a feedback loop:
+In reinforcement learning, an agent in state s<sub>t</sub> acts on the environment with action a<sub>t</sub>, and receives reward r<sub>t+1</sub>. The cycle then continues, creating a feedback loop:
 
 ![Reinforce Learning Control Loop](http://bitdribble.github.io/diagrams/reinforce_learning_control_loop.png)
 
