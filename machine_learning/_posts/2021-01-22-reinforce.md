@@ -21,7 +21,7 @@ The *objective* of RL problems is to maximize the sum of rewards over all steps,
 
 Since the sum of rewards r<sub>0</sub> + r<sub>1</sub> + r<sub>2</sub> + ... can be infinite, it is convenient to discount rewards by a factor 0 < &gamma; < 1. The *return* of a trajectory &tau; is defined as
 
-R(&tau;) = r<sub>0</sub> + &gamma;r<sub>1</sub> + &gamma<sup>2</sup>;r<sub>2</sub> + ... + &gamma<sup>T</sup>;r<sub>T</sub>
+R(&tau;) = r<sub>0</sub> + &gamma;r<sub>1</sub> + &gamma;<sup>2</sup>r<sub>2</sub> + ... + &gamma;<sup>T</sup>;r<sub>T</sub>
 
 REINFORCE is perhaps the most basic algorithm for deep reinforcement learning. 
 
