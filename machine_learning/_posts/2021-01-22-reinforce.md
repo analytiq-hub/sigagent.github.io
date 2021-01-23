@@ -24,7 +24,13 @@ Since the sum of rewards $$r_0 + r_1 + r_2  + ... $$ can be infinite, even when 
 
 $$R(\tau) = r_0 + {\gamma}r_1 + {\gamma^2}r_2 + ... + {\gamma^T}r_T$$
 
-Since $$0 < \gamma < 1$$, when $$-M < r_t < M$$ we have $$-M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T}) < R(\tau) < M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T})$$ or $$-M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)} < R(\tau) < M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}$$.
+Since $$0 < \gamma < 1$$, when $$-M < r_t < M$$ we have
+
+$$-M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T}) < R(\tau) < M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T})$$
+
+or
+
+$$-M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)} < R(\tau) < M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}$$.
 
 ...
 
