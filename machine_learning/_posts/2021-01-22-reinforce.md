@@ -14,9 +14,9 @@ In reinforcement learning, an agent in state $$s_t$$ acts on the environment wit
 
 The process can end after a finite number of steps $$T$$, or can continue for an infinite number of steps. The agent's function that maps states and rewards to actions is called *policy*, denoted $$\pi$$.
 
-A sequence of *experiences* (s<sub>t</sub>, a<sub>t</sub>, r<sub>t</sub>) defines a trajectory
+A sequence of *experiences* $$(s_t, a_t, r_t)$$ defines a trajectory
 
-&tau; = (s<sub>0</sub>, a<sub>0</sub>, r<sub>0</sub>), (s<sub>1</sub>, a<sub>1</sub>, r<sub>1</sub>), ...
+$$\tau = (s_0, a_0, r_0), (s_1, a_1, r_1), (s_2, a_2, r_2), ...$$
 
 The *objective* of RL problems is to maximize the sum of rewards over all steps, performing good actions, and *learning* a good policy &pi;, through trial and error, using the magnitude of rewards to *reinforce* good actions.
 
