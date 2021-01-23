@@ -23,5 +23,9 @@ Since the sum of rewards r<sub>0</sub> + r<sub>1</sub> + r<sub>2</sub> + ... can
 
 R(&tau;) = r<sub>0</sub> + &gamma;r<sub>1</sub> + &gamma;<sup>2</sup>r<sub>2</sub> + ... + &gamma;<sup>T</sup>r<sub>T</sub>
 
-REINFORCE is perhaps the most basic algorithm for deep reinforcement learning. 
+...
+
+REINFORCE is perhaps the most basic algorithm for deep reinforcement learning.
+
+...
 
