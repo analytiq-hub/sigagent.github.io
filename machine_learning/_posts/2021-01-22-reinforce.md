@@ -11,7 +11,7 @@ In reinforcement learning, an agent in state s<sub>t</sub> acts on the environme
 
 ![Reinforce Learning Control Loop](http://bitdribble.github.io/diagrams/reinforce_learning_control_loop.png)
 
-The agent's function that maps states and rewards to actions is called *policy*, denoted &pi;.
+The process can end after a finite number of steps T, or can continue for an infinite number of steps. The agent's function that maps states and rewards to actions is called *policy*, denoted &pi;.
 
 REINFORCE is perhaps the most basic algorithm for deep reinforcement learning. 
 
