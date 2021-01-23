@@ -23,6 +23,15 @@ $$
 \end{equation}
 $$
 
+To simplify notation, drop the index $$t$$, and denote $$\mathcal{S}, \mathcal{A}, \mathcal{R}$$ the families of sets of states, actions, and rewards. The policy is a family of functions
+
+$$
+\begin{equation}
+\pi : \mathcal{S} \times \mathcal{A} \rightarrow \mathcal{R}
+\end{equation}
+$$
+
+
 A sequence of *experiences* $$(s_t, a_t, r_t)$$ defines a trajectory
 
 $$
@@ -56,6 +65,17 @@ $$
 -M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}} < R(\tau) < M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}
 \end{equation}
 $$
+
+## Reinforcement Learning as a Markov decision process (MDP)
+
+The state $$s_t$$ and action $$a_t$$ are, in practice, measured stochastically. State can only be estimated up to a measurement error. Actions can have error effects also.
+
+$$
+\begin{equation}
+s_{t+1} \tilda P(s_{t+1}|(s_0,a_0),(s_1,a_1),...,(s_t,a_t))
+\end{equation}
+$$
+
 
 ...
 
