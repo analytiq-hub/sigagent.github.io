@@ -20,7 +20,7 @@ $$\tau = (s_0, a_0, r_0), (s_1, a_1, r_1), (s_2, a_2, r_2), ...$$
 
 The *objective* of RL problems is to maximize the sum of rewards over all steps, performing good actions, and *learning* a good policy $$\pi$$, through trial and error, using the magnitude of rewards to *reinforce* good actions.
 
-Since the sum of rewards $$r_0 + r_1 + r_2  + ... $$ can be infinite, even when all $$r_t$$ have an upper bound, it is convenient to discount rewards by a factor $$0 < \gamma < 1$$. The *return* of a trajectory $$\tau$$ is defined as
+Since the sum of rewards $$r_0 + r_1 + r_2  + ... $$ can be infinite, even when $$r_t$$ are bounded, it is convenient to discount rewards by a factor $$0 < \gamma < 1$$. The *return* of a trajectory $$\tau$$ is defined as
 
 $$R(\tau) = r_0 + {\gamma}r_1 + {\gamma^2}r_2 + ... + {\gamma^T}r_T$$
 
