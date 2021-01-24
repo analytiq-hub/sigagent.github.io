@@ -71,7 +71,7 @@ ensuring that $$R(\tau)$$ remains finite:
 
 $$
 \begin{equation}
--M \frac{1}{1-\gamma \phantom{(9)}} < R(\tau) < M \frac{1}{1-\gamma \phantom{(9)}}
+-M \frac{1}{1-\gamma} < R(\tau) < M \frac{1}{1-\gamma}
 \end{equation}
 $$
 
