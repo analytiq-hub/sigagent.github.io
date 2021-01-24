@@ -51,7 +51,7 @@ $$
 
 The larger the discount factor $$\gamma$$, the larger the effect of later steps.
 
-When the number of steps is infinite, the sum of rewards $$r_0 + r_1 + r_2  + ...$$ can be infinite, even when $$r_t$$ are bounded, and we must pick a discount factor $$0 <= \gamma < 1$$. When $$-M < r_t < M$$ for all $$0 <= t <= T$$, we have
+When the number of steps is infinite, the sum of rewards $$r_0 + r_1 + r_2  + ...$$ can be infinite, even when $$r_t$$ are bounded $$-M < r_t < M$$ for all $$0 <= t$$. In this case, we must pick a discount factor $$0 <= \gamma < 1$$, and
 
 $$
 \begin{equation}
@@ -67,7 +67,14 @@ $$
 \end{equation}
 $$
 
-ensuring that $$R(\tau)$$ remains finite.
+ensuring that $$R(\tau)$$ remains finite:
+
+$$
+\begin{equation}
+-M \frac{1}{1-\gamma \phantom{(9)}} < R(\tau) < M \frac{1}{1-\gamma \phantom{(9)}}
+\end{equation}
+$$
+
 
 ## Reinforcement Learning as an MDP
 
