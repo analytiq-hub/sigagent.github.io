@@ -9,9 +9,21 @@ author:
 The source of this post is [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), a nice book by Laura Graesser and Wah Loon Keng. I'm working through Chapter 2, practicing the REINFORCE algorithm.
 
 ## What is Reinforcement Learning?
-In reinforcement learning, an agent in state $$s_t$$ acts on the environment with action $$a_t$$, and receives reward $$r_t$$. The cycle then continues, creating a feedback loop:
+In machine learning, typically, what is learned are text, speech or images. Reinforcement learning is a special case of machine learning where what is learned are *processes*, using a *reward* function to determie the optimal state.
 
-![Reinforce Learning Control Loop](http://bitdribble.github.io/diagrams/reinforce_learning_control_loop.png)
+## The CartPole example
+![CartPole](/src/images/cartpole.png)
+
+In the CartPole example, a pole is balanced on top of a cart. The environment is two-dimensional. The cart needs to be moved left or right to balance the pole.
+* The *objective* is to keep the pole upright
+* The *state* is represented by (cart position, cart speed, pole angle, pole angular speed)
+* The *action* is to move the cart a unit of distance to the left, or a unit of distance to the right
+* The *reward* is $$+1$$ for each step the pole remains upright (i.e., does not tip for more than a fixed angle)
+
+## Formulation of the problem
+In reinforcement learning, an agent in state $$s_t$$ acts with action $$a_t$$, and receives reward $$r_t$$. The cycle then continues, creating a feedback loop:
+
+![Reinforce Learning Control Loop](/src/diagrams/reinforce_learning_control_loop.png)
 
 The process can end after a finite number of steps $$T$$, or can continue for an infinite number of steps. The agent's function that maps states and rewards to actions is called *policy*, denoted $$\pi$$.
 
@@ -41,7 +53,7 @@ $$
 
 The *objective* of RL problems is to maximize the sum of rewards over all steps, performing more optimal actions at each step, and *learning* a good policy $$\pi$$, through trial and error, using the magnitude of rewards to *reinforce* good actions.
 
-It is convenient to discount rewards by a factor $$0 <= \gamma$$, and define the *return* of a trajectory $$\tau$$ as:
+It is convenient to discount rewards by a factor $$0 \le \gamma$$, and define the *return* of a trajectory $$\tau$$ as:
 
 $$
 \begin{equation} \label{eq:traj_return}
@@ -51,11 +63,11 @@ $$
 
 The larger the discount factor $$\gamma$$, the larger the effect of later steps.
 
-When the number of steps is infinite, the sum of rewards $$r_0 + r_1 + r_2  + ...$$ can be infinite, even when $$r_t$$ are bounded $$-M < r_t < M$$ for all $$0 <= t$$. In this case, we must pick a discount factor $$0 <= \gamma < 1$$, and
+When the number of steps is infinite, the sum of rewards $$r_0 + r_1 + r_2  + ...$$ can be infinite, even when $$r_t$$ are bounded $$-M \lt r_t \lt M$$ for all $$0 \le t$$. In this case, we must pick a discount factor $$0 \le \gamma \lt 1$$, and
 
 $$
 \begin{equation}
--M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T}) < R(\tau) < M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T})
+-M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T}) \lt R(\tau) \lt M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T})
 \end{equation}
 $$
 
@@ -63,7 +75,7 @@ or
 
 $$
 \begin{equation}
--M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}} < R(\tau) < M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}
+-M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}} \lt R(\tau) \lt M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}
 \end{equation}
 $$
 
@@ -71,14 +83,14 @@ ensuring that $$R(\tau)$$ remains finite:
 
 $$
 \begin{equation}
--M \frac{1}{1-\gamma} < R(\tau) < M \frac{1}{1-\gamma}
+-M \frac{1}{1-\gamma} \lt R(\tau) \lt M \frac{1}{1-\gamma}
 \end{equation}
 $$
 
 
 ## Reinforcement Learning as an MDP
 
-The states $$\mathcal{S}$$, in practice, can only be estimated, stockastically, up to a measurement error:
+The states $$\mathcal{S}$$, in practice, can only be estimated, stocastically, up to a measurement error:
 
 $$
 \begin{equation}
