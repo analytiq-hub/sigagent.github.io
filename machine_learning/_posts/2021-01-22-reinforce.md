@@ -87,7 +87,7 @@ This formulation, while a simplification, is still flexible enough to provide go
 
 $$
 \begin{equation}
-r_{t+1} : \mathcal{S}_{t+1} \rightarrow \mathbf{R})
+r_{t+1} : \mathcal{S}_{t+1} \rightarrow \mathbf{R}
 \end{equation}
 $$
 
