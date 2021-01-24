@@ -83,7 +83,7 @@ s_{t+1} \sim P(s_{t+1} \vert s_t,a_t)
 \end{equation}
 $$
 
-This formulation, while a simplification, is still flexible enough to provide good models. $$P(s_{t+1} \vert |s_t,a_t)$$ represents the state transition distribution. The state $$s_{t+1}$$ determines a reward function, with real number values:
+This formulation, while a simplification, is still flexible enough to provide good models. $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribution. The state $$s_{t+1}$$ determines a reward function, with real number values:
 
 $$
 \begin{equation}
