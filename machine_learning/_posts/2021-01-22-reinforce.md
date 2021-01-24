@@ -13,7 +13,7 @@ In machine learning, typically, what is dynamically learned are text or images. 
 
 In reinforcement learning, an agent in state $$s_t$$ acts on the environment with action $$a_t$$, and receives reward $$r_t$$. The cycle then continues, creating a feedback loop:
 
-![Reinforce Learning Control Loop](src/diagrams/reinforce_learning_control_loop.png)
+![Reinforce Learning Control Loop](/src/diagrams/reinforce_learning_control_loop.png)
 
 The process can end after a finite number of steps $$T$$, or can continue for an infinite number of steps. The agent's function that maps states and rewards to actions is called *policy*, denoted $$\pi$$.
 
