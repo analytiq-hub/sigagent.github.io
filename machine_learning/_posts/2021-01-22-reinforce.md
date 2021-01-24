@@ -44,7 +44,7 @@ The *objective* of RL problems is to maximize the sum of rewards over all steps,
 Since the sum of rewards $$r_0 + r_1 + r_2  + ...$$ can be infinite, even when $$r_t$$ are bounded, it is convenient to discount rewards by a factor $$0 < \gamma < 1$$. The *return* of a trajectory $$\tau$$ is defined as
 
 $$
-\begin{equation}
+\begin{equation} \label{eq:traj_return}
 R(\tau) = r_0 + {\gamma}r_1 + {\gamma^2}r_2 + ... + {\gamma^T}r_T
 \end{equation}
 $$
@@ -99,7 +99,15 @@ $$
 \end{equation}
 $$
 
-Agents do not have direct access to the state transition distribution \ref{eq:state_transition_dist} or to the reward distribution \ref{eq:reward_dist}. These can, however, be sampled.
+Agents do not have direct access to the state transition distribution (\ref{eq:state_transition_dist}) or to the reward distribution (\ref{eq:reward_dist}). These can, however, be sampled.
+
+The goal of the agent is to maximize the return $$R(\tau)$$ of its trajectory $$\tau$$, defined in (\ref{eq:traj_return}). The *objective* $$J(\tau)$$ is defined the expected value over all trajectories $$\tau$$:
+
+$$
+\begin{equation} \label{eq:reward_dist}
+J(\tau) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau}[\sum_{t=0}^{T} \gamma^t r_t]
+\end{equation}
+$$
 
 ...
 
