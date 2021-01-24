@@ -11,11 +11,10 @@ The source of this post is [Foundations of Deep Reinforcement Learning](https://
 ## What is Reinforcement Learning?
 In machine learning, typically, what is dynamically learned are text or images. Reinforcement learning is a special case of machine learning where what is learned are *processes*, using a *reward* function to determie optimal state.
 
-In the CartPole example, a pole is balanced on top of a cart.
-
+## The CartPole example
 ![CartPole](/src/images/cartpole.png)
 
-This is a two-dimensional example. The cart needs to be moved left or right to balance the pole.
+In the CartPole example, a pole is balanced on top of a cart. The environment is two-dimensional. The cart needs to be moved left or right to balance the pole.
 * The *objective* is to keep the pole upright
 * The *state* is represented by (cart position, cart speed, pole angle, pole angular speed)
 * The *action* is to move the cart a unit of distance to the left, or a unit of distance to the right
