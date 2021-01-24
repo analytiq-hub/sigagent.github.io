@@ -9,6 +9,8 @@ author:
 The source of this post is [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), a nice book by Laura Graesser and Wah Loon Keng. I'm working through Chapter 2, practicing the REINFORCE algorithm.
 
 ## What is Reinforcement Learning?
+In machine learning, typically, what is dynamically learned are text or images. Reinforcement learning is a special case of machine learning where what is learned are processes (or functions).
+
 In reinforcement learning, an agent in state $$s_t$$ acts on the environment with action $$a_t$$, and receives reward $$r_t$$. The cycle then continues, creating a feedback loop:
 
 ![Reinforce Learning Control Loop](http://bitdribble.github.io/diagrams/reinforce_learning_control_loop.png)
