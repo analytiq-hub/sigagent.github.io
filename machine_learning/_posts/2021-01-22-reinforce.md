@@ -9,7 +9,7 @@ author:
 The source of this post is [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), a nice book by Laura Graesser and Wah Loon Keng. I'm working through Chapter 2, practicing the REINFORCE algorithm.
 
 ## What is Reinforcement Learning?
-In machine learning, typically, what is dynamically learned are text or images. Reinforcement learning is a special case of machine learning where what is learned are *processes*, using a *reward* function to determie optimal state.
+In machine learning, typically, what is learned are text, speech or images. Reinforcement learning is a special case of machine learning where what is learned are *processes*, using a *reward* function to determie the optimal state.
 
 ## The CartPole example
 ![CartPole](/src/images/cartpole.png)
