@@ -102,13 +102,21 @@ r_{t+1} : \mathcal{S}_{t+1} \rightarrow \mathbb{R}
 \end{equation}
 $$
 
-Since states are stochastic, the reward function is represented by a distribution:
+More generally, the reward function can be a stochastic distribution dependent on previous state, action, and new state:
 
 $$
 \begin{equation} \label{eq:reward_dist}
 \mathcal{R}_{t+1}(s_t, a_t, s_{t+1})
 \end{equation}
 $$
+
+A Markov Decision Process (MDP) consists, in general, of
+* A family of states $$\mathcal{S}_t$$
+* A family of actions $$\mathcal{A}_t$$
+* A probability distribution $$P(s_{t+1} \vert (s_0,a_0),(s_1,a_1),...,(s_t,a_t))$$ of arriving to state $$s_{t+1}$$ fron state $$s_{t}$$ when applying action $$a_t$$
+* A probability distribution $$\mathcal{R}_{t+1}(s_t, a_t, s_{t+1})$$ of rewards obtained by transitioning from state $$s_{t}$$ when applying action $$a_t$$ to state $$s_{t+1}$$.
+
+In our case, the rewards will simply be a function $$r_{t+1} : \mathcal{S}_{t+1} \rightarrow \mathbb{R}$$.
 
 Agents do not have direct access to the state transition distribution (\ref{eq:state_transition_dist}) or to the reward distribution (\ref{eq:reward_dist}). These can, however, be sampled.
 
