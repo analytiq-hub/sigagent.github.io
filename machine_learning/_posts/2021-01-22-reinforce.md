@@ -67,7 +67,7 @@ $$
 
 ## Reinforcement Learning as a MDP
 
-The state $$s_t$$ is, in practice, can only be estimated up to a measurement error. States, are, thus, measured stochastically:
+The states $$\mathcat{S}$$, in practice, can only be estimated, stockastically, up to a measurement error:
 
 $$
 \begin{equation}
@@ -83,7 +83,7 @@ s_{t+1} \sim P(s_{t+1} \vert s_t,a_t)
 \end{equation}
 $$
 
-This formulation, while a simplification, is still flexible enough to provide good models. $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribution. The state $$s_{t+1}$$ determines a reward function, with real number values:
+This formulation is still flexible enough to provide good models. $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribution. The state $$s_{t+1}$$ determines a reward function, with real number values:
 
 $$
 \begin{equation}
