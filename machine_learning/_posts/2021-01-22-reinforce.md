@@ -71,7 +71,7 @@ The state $$s_t$$ is, in practice, can only be estimated up to a measurement err
 
 $$
 \begin{equation}
-s_{t+1} \sim P(s_{t+1}|(s_0,a_0),(s_1,a_1),...,(s_t,a_t))
+s_{t+1} \sim P(s_{t+1} \vert (s_0,a_0),(s_1,a_1),...,(s_t,a_t))
 \end{equation}
 $$
 
@@ -79,11 +79,11 @@ At each step, the state $s_{t+1}$ is sampled from a probability distribution $$P
 
 $$
 \begin{equation}
-s_{t+1} \sim P(s_{t+1}|s_t,a_t)
+s_{t+1} \sim P(s_{t+1} \vert s_t,a_t)
 \end{equation}
 $$
 
-This formulation, while a simplification, is still flexible enough to provide good models. $$P(s_{t+1}|s_t,a_t)$$ represents the state transition distribution. The state $s_{t+1}$ determines a reward function, with real number values:
+This formulation, while a simplification, is still flexible enough to provide good models. $$P(s_{t+1} \vert |s_t,a_t)$$ represents the state transition distribution. The state $$s_{t+1}$$ determines a reward function, with real number values:
 
 $$
 \begin{equation}
