@@ -98,7 +98,7 @@ This formulation is still flexible enough to provide good models. $$P(s_{t+1} \v
 
 $$
 \begin{equation}
-r_{t+1} : \mathcal{S}_{t+1} \rightarrow \mathbf{R}
+r_{t+1} : \mathcal{S}_{t+1} \rightarrow \mathbb{R}
 \end{equation}
 $$
 
