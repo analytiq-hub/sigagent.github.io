@@ -67,7 +67,7 @@ $$
 
 ## Reinforcement Learning as a MDP
 
-The states $$\mathcat{S}$$, in practice, can only be estimated, stockastically, up to a measurement error:
+The states $$\mathcal{S}$$, in practice, can only be estimated, stockastically, up to a measurement error:
 
 $$
 \begin{equation}
