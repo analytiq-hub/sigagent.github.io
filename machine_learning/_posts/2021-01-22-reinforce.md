@@ -11,7 +11,7 @@ The source of this post is [Foundations of Deep Reinforcement Learning](https://
 ## What is Reinforcement Learning?
 In machine learning, typically, what is dynamically learned are text or images. Reinforcement learning is a special case of machine learning where what is learned are *processes*, using a *reward* function to determie optimal state.
 
-In the CartPole example, a pole is balanced on top of a cart:
+In the CartPole example, a pole is balanced on top of a cart.
 
 ![CartPole](/src/images/cartpole.png)
 
