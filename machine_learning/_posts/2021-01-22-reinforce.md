@@ -41,7 +41,7 @@ $$
 
 The *objective* of RL problems is to maximize the sum of rewards over all steps, performing more optimal actions at each step, and *learning* a good policy $$\pi$$, through trial and error, using the magnitude of rewards to *reinforce* good actions.
 
-Since the sum of rewards $$r_0 + r_1 + r_2  + ...$$ can be infinite, even when $$r_t$$ are bounded, it is convenient to discount rewards by a factor $$0 < \gamma < 1$$. The *return* of a trajectory $$\tau$$ is defined as
+It is convenient to discount rewards by a factor $$0 <= \gamma$$, and define the *return* of a trajectory $$\tau$$ as:
 
 $$
 \begin{equation} \label{eq:traj_return}
@@ -49,7 +49,9 @@ R(\tau) = r_0 + {\gamma}r_1 + {\gamma^2}r_2 + ... + {\gamma^T}r_T
 \end{equation}
 $$
 
-Since $$0 < \gamma < 1$$, when $$-M < r_t < M$$ for all $$0 <= t <= T$$, we have
+The larger the discount factor $$\gamma$$, the larger the effect of later steps.
+
+When the number of steps is infinite, the sum of rewards $$r_0 + r_1 + r_2  + ...$$ can be infinite, even when $$r_t$$ are bounded, and we must pick a discount factor $$0 <= \gamma < 1$$. When $$-M < r_t < M$$ for all $$0 <= t <= T$$, we have
 
 $$
 \begin{equation}
@@ -64,6 +66,8 @@ $$
 -M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}} < R(\tau) < M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}
 \end{equation}
 $$
+
+ensuring that $$R(\tau)$$ remains finite.
 
 ## Reinforcement Learning as an MDP
 
