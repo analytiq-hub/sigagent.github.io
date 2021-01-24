@@ -75,10 +75,10 @@ s_{t+1} \sim P(s_{t+1} \vert (s_0,a_0),(s_1,a_1),...,(s_t,a_t))
 \end{equation}
 $$
 
-At each step, the state $s_{t+1}$ is sampled from a probability distribution $$P$$ conditoned on past states and actions. To simplify things, we assume that all the information in past states and actions is subsumed by $$(s_t, a_t)$$, turning the process into a Markov Dynamic Process (MDP):
+At each step, the state $s_{t+1}$ is sampled from a probability distribution $$P$$ conditoned on past states and actions. To simplify things, we assume that all the information in past states and actions is subsumed into $$(s_t, a_t)$$, turning the process into a Markov Dynamic Process (MDP):
 
 $$
-\begin{equation}
+\begin{equation} \label{eq:state_transition_dist}
 s_{t+1} \sim P(s_{t+1} \vert s_t,a_t)
 \end{equation}
 $$
@@ -94,10 +94,12 @@ $$
 Since states are stochastic, the reward function is represented by a distribution:
 
 $$
-\begin{equation}
+\begin{equation} \label{eq:reward_dist}
 \mathcal{R}_{t+1}(s_t, a_t, s_{t+1})
 \end{equation}
 $$
+
+Agents do not have direct access to the state transition distribution \ref{eq:state_transition_dist} or to the reward distribution \ref{eq:reward_dist}. These can, however, be sampled.
 
 ...
 
