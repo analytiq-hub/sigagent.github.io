@@ -87,7 +87,7 @@ $$
 \end{equation}
 $$
 
-Typically, the discount factor $$\gamma \in [0, 1)$$ is picked to be close to $$1$$, to give sufficient weight to rewards in later states.
+When the discount factor $$\gamma \in [0, 1)$$ is close to $$1$$, future states have larger weight in the trajectory return. When $$\gamma$$ is close to $$0$$, next state has a larger weight.
 
 ## Reinforcement Learning as an MDP
 
