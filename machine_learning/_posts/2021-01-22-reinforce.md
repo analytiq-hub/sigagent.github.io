@@ -87,7 +87,7 @@ $$
 \end{equation}
 $$
 
-Typically, teh discount factor $$\gamma \eps [0, 1)$$ is picked to be close to $$1$$, to give sufficient weight to rewards in later states.
+Typically, the discount factor $$\gamma \in [0, 1)$$ is picked to be close to $$1$$, to give sufficient weight to rewards in later states.
 
 ## Reinforcement Learning as an MDP
 
