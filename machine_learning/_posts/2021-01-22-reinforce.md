@@ -107,11 +107,11 @@ s_{t+1} \sim P(s_{t+1} \vert s_t,a_t)
 \end{equation}
 $$
 
-This formulation is still flexible enough to provide good models. $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribution. The state $$s_{t+1}$$ determines a reward function, with real number values:
+This formulation is still flexible enough to provide good models. $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribution. The action $$a_{t}$$ determines a reward function, with real number values:
 
 $$
 \begin{equation}
-r_{t+1} : \mathcal{S}_{t+1} \rightarrow \mathbb{R}
+r_{t} : \mathcal{A}_{t} \rightarrow \mathbb{R}
 \end{equation}
 $$
 
@@ -119,7 +119,7 @@ More generally, the reward function can be a stochastic distribution dependent o
 
 $$
 \begin{equation} \label{eq:reward_dist}
-\mathcal{R}_{t+1}(s_t, a_t, s_{t+1})
+\mathcal{R}_{t}(s_t, a_t)
 \end{equation}
 $$
 
@@ -127,9 +127,9 @@ A Markov Decision Process (MDP) consists, in general, of
 * A family of states $$\mathcal{S}_t$$
 * A family of actions $$\mathcal{A}_t$$
 * A probability distribution $$P(s_{t+1} \vert (s_0,a_0),(s_1,a_1),...,(s_t,a_t))$$ of arriving to state $$s_{t+1}$$ fron state $$s_{t}$$ when applying action $$a_t$$
-* A probability distribution $$\mathcal{R}_{t+1}(s_t, a_t, s_{t+1})$$ of rewards obtained by transitioning from state $$s_{t}$$ when applying action $$a_t$$ to state $$s_{t+1}$$.
+* A probability distribution $$\mathcal{R}_{t}(s_t, a_t)$$ of rewards obtained by transitioning from state $$s_{t}$$ when applying action $$a_t$$ to state $$s_{t+1}$$.
 
-In our case, the rewards will simply be a function $$r_{t+1} : \mathcal{S}_{t+1} \rightarrow \mathbb{R}$$.
+In our case, the rewards will simply be a function $$r_{t} : \mathcal{A}_{t} \rightarrow \mathbb{R}$$.
 
 Agents do not have direct access to the state transition distribution (\ref{eq:state_transition_dist}) or to the reward distribution (\ref{eq:reward_dist}). These can, however, be sampled.
 
