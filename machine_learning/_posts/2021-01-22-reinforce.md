@@ -115,7 +115,7 @@ r_{t} : \mathcal{A}_{t} \rightarrow \mathbb{R}
 \end{equation}
 $$
 
-More generally, the reward function can be a stochastic distribution dependent on previous state, action, and new state:
+More generally, the reward function can be a stochastic distribution dependent on the previous state and action:
 
 $$
 \begin{equation} \label{eq:reward_dist}
@@ -126,8 +126,8 @@ $$
 A Markov Decision Process (MDP) consists, in general, of
 * A family of states $$\mathcal{S}_t$$
 * A family of actions $$\mathcal{A}_t$$
-* A probability distribution $$P(s_{t+1} \vert (s_0,a_0),(s_1,a_1),...,(s_t,a_t))$$ of arriving to state $$s_{t+1}$$ fron state $$s_{t}$$ when applying action $$a_t$$
-* A probability distribution $$\mathcal{R}_{t}(s_t, a_t)$$ of rewards obtained by transitioning from state $$s_{t}$$ when applying action $$a_t$$ to state $$s_{t+1}$$.
+* A probability distribution $$P(s_{t+1} \vert (s_t,a_t))$$ of arriving to state $$s_{t+1}$$ fron state $$s_{t}$$ when applying action $$a_t$$
+* A probability distribution $$\mathcal{R}_{t}(s_t, a_t)$$ of rewards obtained when applying action $$a_t$$ in state $$s_{t}$$.
 
 In our case, the rewards will simply be a function $$r_{t} : \mathcal{A}_{t} \rightarrow \mathbb{R}$$.
 
