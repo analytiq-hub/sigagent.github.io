@@ -113,21 +113,21 @@ $$
 
 In RL problems, action $$a_t$$ is picked not just to maximize next reward $r_{t+1}$, but future rewards $$r_{t+2}, r_{t+3} ...$$ also. This can be formulated several ways, and, in one formulation, actions are picked to maximize the sum of all future rewards $$r_{t+1} + r_{t+2} + ... + r_{T+1}$$.
 
-It is convenient to discount rewards by a factor $$0 \le \gamma$$, and define the *return* of a trajectory $$\tau = (s_t, a_t, r_{t+1}), ... , (s_T, a_T, r_{T+1})$$ as:
+It is convenient to discount rewards by a factor $$0 \le \gamma$$, and define the *return* of a trajectory $$\tau = (s_t, a_t, r_{t+1}), ... , (s_T, a_T, r_{T+1})$$ that starts at step $$t$$ as:
 
 $$
 \begin{equation} \label{eq:traj_return}
-R_t(\tau) = r_{t+1} + {\gamma}r_{t+2} + {\gamma^2}r_{t+3} + ... + {\gamma^{T-t}r_{T+1}
+R_t(\tau) = r_{t+1} + {\gamma}r_{t+2} + {\gamma^2}r_{t+3} + ... + {\gamma^{T-t}}r_{T+1}
 \end{equation}
 $$
 
 The larger the discount factor $$\gamma$$, the larger the effect of later steps.
 
-When the number of steps is infinite, the sum of rewards $$r_{t+1} + r_{t+2}  + ...$$ can be infinite, even when $$r_i$$ are bounded $$-M \lt r_i \lt M$$ for all $$i$$. In this case, we must pick a discount factor $$0 \le \gamma \lt 1$$, and
+When the number of steps is infinite, the sum of rewards $$r_{1} + r_{2}  + ...$$ can be infinite, even when $$r_t$$ are bounded $$-M \lt r_t \lt M$$ for all $$t$$. In this case, we must pick a discount factor $$0 \le \gamma \lt 1$$, and
 
 $$
 \begin{equation}
--M(1 +{\gamma} + {\gamma^2} + ... + {\gamma^{T-t}}) \lt R_t(\tau) \lt M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^{T-t}})
+-M(1 +{\gamma} + {\gamma^2} + ... + {\gamma^{T}}) \lt R_0(\tau) \lt M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^{T}})
 \end{equation}
 $$
 
@@ -135,15 +135,15 @@ or
 
 $$
 \begin{equation}
--M \frac{1-\gamma^{T-t+1}}{1-\gamma \phantom{(9)}} \lt R_t(\tau) \lt M \frac{1-\gamma^{T-t+1}}{1-\gamma \phantom{(9)}}
+-M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}} \lt R_0(\tau) \lt M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}
 \end{equation}
 $$
 
-ensuring that $$R(\tau)$$ remains finite:
+ensuring that $$R_0(\tau)$$ remains finite:
 
 $$
 \begin{equation}
--M \frac{1}{1-\gamma} \lt R_t(\tau) \lt M \frac{1}{1-\gamma}
+-M \frac{1}{1-\gamma} \lt R_0(\tau) \lt M \frac{1}{1-\gamma}
 \end{equation}
 $$
 
