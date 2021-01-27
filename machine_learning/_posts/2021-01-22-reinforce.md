@@ -147,7 +147,7 @@ $$
 \end{equation}
 $$
 
-When the discount factor $$\gamma \in [0, 1)$$ is close to $$1$$, future states have larger weight in the trajectory return. When $$\gamma$$ is close to $$0$$, next state has a larger weight.
+Similar bounds hold for $$R_t(\tau)$$. When the discount factor $$\gamma \in [0, 1)$$ is close to $$1$$, future states have larger weight in the trajectory return. When $$\gamma$$ is close to $$0$$, next state has a larger weight.
 
 ## The Objective Function in REINFORCE
 
@@ -155,7 +155,7 @@ In MDP problems, assuming that trajectories $$\tau$$ are sampled according to a 
 
 $$
 \begin{equation}
-J(\pi) = \mathbb(E)_{\tau \sim \pi}[R(\tau)] = \mathbb(E)_{\tau \sim \pi}[\sum_{t=1}^{T+1} \gamma^{t-1} r_t]
+J(\pi) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=1}^{T+1} \gamma^{t-1} r_t]
 \end{equation}
 $$
 
