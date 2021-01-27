@@ -143,7 +143,7 @@ Similar bounds hold for $$R_t(\tau)$$. When the discount factor $$\gamma \in [0,
 
 ## The Objective Function in REINFORCE
 
-In MDP problems, assuming that trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objective* function is defined as the expected value of the return function:
+In the REINFORCE algorithm, trajectories $$\tau$$ are sampled according to a policy $$\pi$$, and the *objective* function is defined as the expected value of the return function:
 
 $$
 \begin{equation}
@@ -151,14 +151,7 @@ J(\pi) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{
 \end{equation}
 $$
 
-In REINFORCE, the goal of the agent is to maximize the return $$R(\tau)$$ of its trajectory $$\tau$$, defined in (\ref{eq:traj_return}). The *objective* $$J(\tau)$$ is defined as the expected value over all trajectories $$\tau$$:
-
-$$
-\begin{equation} \label{eq:objective_dist}
-J(\tau) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau}[\sum_{t=1}^{T+1} \gamma^t r_t]
-\end{equation}
-$$
-
+In REINFORCE, the goal of the agent is to maximize the objective function $$J(\pi)$$.
 
 ...
 
