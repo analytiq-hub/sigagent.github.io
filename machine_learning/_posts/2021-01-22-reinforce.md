@@ -149,9 +149,15 @@ $$
 
 When the discount factor $$\gamma \in [0, 1)$$ is close to $$1$$, future states have larger weight in the trajectory return. When $$\gamma$$ is close to $$0$$, next state has a larger weight.
 
-...
+## The Objective Function in REINFORCE
 
-REINFORCE is perhaps the most basic algorithm for deep reinforcement learning.
+In MDP problems, assuming that trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objective* function is defined as the expected value of the return function:
+
+$$
+\begin{equation}
+J(\pi) = \mathbb(E)_{\tau \sim \pi}[R(\tau)] = \mathbb(E)_{\tau \sim \pi}[\sum_{t=1}^{T+1} \gamma^{t-1} r_t]
+\end{equation}
+$$
 
 ...
 
