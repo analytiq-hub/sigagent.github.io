@@ -21,7 +21,7 @@ In the CartPole example, a pole is balanced on top of a cart. The environment is
 * The *reward* is $$+1$$ for each step the pole remains upright (i.e., does not tip for more than a fixed angle)
 
 ## Formulation of the problem
-In reinforcement learning, an agent in state $$s_t$$ acts with action $$a_t$$, and moves to state $$s_{t+1}$$, with reward $$r_{t+1}$$. The cycle then continues, creating a feedback loop:
+In reinforcement learning (RL), an agent in state $$s_t$$ acts with action $$a_t$$, and moves to state $$s_{t+1}$$, with reward $$r_{t+1}$$. The cycle then continues, creating a feedback loop:
 
 ![Reinforce Learning Control Loop](/src/diagrams/reinforce_learning_control_loop.png)
 
@@ -54,42 +54,6 @@ $$
 Note that some sources label the reward for action $$a_t$$ as $$r_t$$ instead of $$r_{t+1}$$.
 
 The *objective* of RL problems is to maximize rewards, performing more optimal actions at each step, and *learning* a good policy $$\pi$$, through trial and error, using the magnitude of rewards to *reinforce* good actions.
-
-It is convenient to discount rewards by a factor $$0 \le \gamma$$, and define the *return* of a trajectory $$\tau$$ as:
-
-$$
-\begin{equation} \label{eq:traj_return}
-R(\tau) = r_1 + {\gamma}r_2 + {\gamma^2}r_3 + ... + {\gamma^T}r_{T+1}
-\end{equation}
-$$
-
-The larger the discount factor $$\gamma$$, the larger the effect of later steps.
-
-When the number of steps is infinite, the sum of rewards $$r_1 + r_2 + r_3  + ...$$ can be infinite, even when $$r_t$$ are bounded $$-M \lt r_t \lt M$$ for all $$0 \le t$$. In this case, we must pick a discount factor $$0 \le \gamma \lt 1$$, and
-
-$$
-\begin{equation}
--M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T}) \lt R(\tau) \lt M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T})
-\end{equation}
-$$
-
-or
-
-$$
-\begin{equation}
--M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}} \lt R(\tau) \lt M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}
-\end{equation}
-$$
-
-ensuring that $$R(\tau)$$ remains finite:
-
-$$
-\begin{equation}
--M \frac{1}{1-\gamma} \lt R(\tau) \lt M \frac{1}{1-\gamma}
-\end{equation}
-$$
-
-When the discount factor $$\gamma \in [0, 1)$$ is close to $$1$$, future states have larger weight in the trajectory return. When $$\gamma$$ is close to $$0$$, next state has a larger weight.
 
 ## Reinforcement Learning as an MDP
 
@@ -144,6 +108,51 @@ $$
 J(\tau) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau}[\sum_{t=1}^{T+1} \gamma^t r_t]
 \end{equation}
 $$
+
+## Rewards and the Objective Function
+
+In RL problems, action $$a_t$$ is picked not just to maximize next reward $r_{t+1}$, but future rewards $$r_{t+2}, r_{t+3} ...$$ also. This can be formulated several ways, and, in one formulation, actions are picked to maximize the sum of all future rewards
+$$
+\begin{equation}
+r_{1} + r_{2} + ... + r_{T+1}
+\end{equation}
+$$
+
+It is convenient to discount rewards by a factor $$0 \le \gamma$$, and define the *return* of a trajectory $$\tau = (s_0, a_0, r_1), ... , (s_T, a_T, r_{T+1})$$ as:
+
+$$
+\begin{equation} \label{eq:traj_return}
+R(\tau) = r_1 + {\gamma}r_2 + {\gamma^2}r_3 + ... + {\gamma^T}r_{T+1}
+\end{equation}
+$$
+
+The larger the discount factor $$\gamma$$, the larger the effect of later steps.
+
+When the number of steps is infinite, the sum of rewards $$r_1 + r_2 + r_3  + ...$$ can be infinite, even when $$r_t$$ are bounded $$-M \lt r_t \lt M$$ for all $$0 \le t$$. In this case, we must pick a discount factor $$0 \le \gamma \lt 1$$, and
+
+$$
+\begin{equation}
+-M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T}) \lt R(\tau) \lt M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^T})
+\end{equation}
+$$
+
+or
+
+$$
+\begin{equation}
+-M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}} \lt R(\tau) \lt M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}
+\end{equation}
+$$
+
+ensuring that $$R(\tau)$$ remains finite:
+
+$$
+\begin{equation}
+-M \frac{1}{1-\gamma} \lt R(\tau) \lt M \frac{1}{1-\gamma}
+\end{equation}
+$$
+
+When the discount factor $$\gamma \in [0, 1)$$ is close to $$1$$, future states have larger weight in the trajectory return. When $$\gamma$$ is close to $$0$$, next state has a larger weight.
 
 ...
 
