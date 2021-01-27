@@ -123,15 +123,15 @@ More generally, the reward function can be a stochastic distribution dependent o
 
 $$
 \begin{equation} \label{eq:reward_dist}
-P(r_{t+1} \vert s_t, a_t)
+R(r_{t+1} \vert s_t, a_t)
 \end{equation}
 $$
 
 A Markov Decision Process (MDP) consists, in general, of
 * A family of states $$\mathcal{S}_t$$
 * A family of actions $$\mathcal{A}_t$$
-* A probability distribution $$P(s_{t+1} \vert s_t,a_t)$$ of arriving to state $$s_{t+1}$$ fron state $$s_{t}$$ when applying action $$a_t$$
-* A probability distribution $$P(r_{t+1} \vert s_t, a_t)$$ of rewards obtained when applying action $$a_t$$ in state $$s_{t}$$.
+* A probability distribution $$P(s_{t+1} \vert s_t, a_t)$$ of arriving to state $$s_{t+1}$$ fron $$s_{t}$$ when applying action $$a_t$$
+* A probability distribution $$R(r_{t+1} \vert s_t, a_t)$$ of rewards obtained when applying action $$a_t$$ in state $$s_{t}$$.
 
 In our case, the rewards will simply be a function $$r_{t+1} : \mathcal{A}_{t} \rightarrow \mathbb{R}$$.
 
@@ -141,7 +141,7 @@ The goal of the agent is to maximize the return $$R(\tau)$$ of its trajectory $$
 
 $$
 \begin{equation} \label{eq:objective_dist}
-J(\tau) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau}[\sum_{t=0}^{T} \gamma^t r_t]
+J(\tau) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau}[\sum_{t=1}^{T+1} \gamma^t r_t]
 \end{equation}
 $$
 
