@@ -97,17 +97,9 @@ A Markov Decision Process (MDP) consists, in general, of
 * A probability distribution $$P(s_{t+1} \vert s_t, a_t)$$ of arriving to state $$s_{t+1}$$ fron $$s_{t}$$ when applying action $$a_t$$
 * A probability distribution $$R(r_{t+1} \vert s_t, a_t)$$ of rewards obtained when applying action $$a_t$$ in state $$s_{t}$$.
 
-In our case, the rewards will simply be a function $$r_{t+1} : \mathcal{A}_{t} \rightarrow \mathbb{R}$$.
+In our case, the rewards distribution will simply be a function $$r_{t+1} : \mathcal{A}_{t} \rightarrow \mathbb{R}$$.
 
 Agents do not have direct access to the state transition distribution (\ref{eq:state_transition_dist}) or to the reward distribution (\ref{eq:reward_dist}). These can, however, be sampled.
-
-The goal of the agent is to maximize the return $$R(\tau)$$ of its trajectory $$\tau$$, defined in (\ref{eq:traj_return}). The *objective* $$J(\tau)$$ is defined as the expected value over all trajectories $$\tau$$:
-
-$$
-\begin{equation} \label{eq:objective_dist}
-J(\tau) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau}[\sum_{t=1}^{T+1} \gamma^t r_t]
-\end{equation}
-$$
 
 ## Rewards and the Objective Function
 
@@ -149,7 +141,7 @@ $$
 
 Similar bounds hold for $$R_t(\tau)$$. When the discount factor $$\gamma \in [0, 1)$$ is close to $$1$$, future states have larger weight in the trajectory return. When $$\gamma$$ is close to $$0$$, next state has a larger weight.
 
-## The Objective Function
+## The Objective Function in REINFORCE
 
 In MDP problems, assuming that trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objective* function is defined as the expected value of the return function:
 
@@ -158,6 +150,15 @@ $$
 J(\pi) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r_{t+1}]
 \end{equation}
 $$
+
+In REINFORCE, the goal of the agent is to maximize the return $$R(\tau)$$ of its trajectory $$\tau$$, defined in (\ref{eq:traj_return}). The *objective* $$J(\tau)$$ is defined as the expected value over all trajectories $$\tau$$:
+
+$$
+\begin{equation} \label{eq:objective_dist}
+J(\tau) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau}[\sum_{t=1}^{T+1} \gamma^t r_t]
+\end{equation}
+$$
+
 
 ...
 
