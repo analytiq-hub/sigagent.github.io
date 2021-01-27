@@ -111,12 +111,7 @@ $$
 
 ## Rewards and the Objective Function
 
-In RL problems, action $$a_t$$ is picked not just to maximize next reward $r_{t+1}$, but future rewards $$r_{t+2}, r_{t+3} ...$$ also. This can be formulated several ways, and, in one formulation, actions are picked to maximize the sum of all future rewards
-$$
-\begin{equation}
-r_{1} + r_{2} + ... + r_{T+1}
-\end{equation}
-$$
+In RL problems, action $$a_t$$ is picked not just to maximize next reward $r_{t+1}$, but future rewards $$r_{t+2}, r_{t+3} ...$$ also. This can be formulated several ways, and, in one formulation, actions are picked to maximize the sum of all rewards $$r_{1} + r_{2} + ... + r_{T+1}$$.
 
 It is convenient to discount rewards by a factor $$0 \le \gamma$$, and define the *return* of a trajectory $$\tau = (s_0, a_0, r_1), ... , (s_T, a_T, r_{T+1})$$ as:
 
