@@ -109,7 +109,7 @@ s_{t+1} \sim P(s_{t+1} \vert s_t,a_t)
 \end{equation}
 $$
 
-This formulation is still flexible enough to provide good models. When $$s_{t+1}$$ depends on additional information than $$(s_t,a_t)$$, for example, on $$s_{t-1}$$ and $$s_{t-2}$$, the state space $$\mathcal{S_t}$$ can be expanded into $$\mathcal{S}_t^{\prime} = \mathcal{S_t} \cup \mathcal{S_{t-1}} \sum \mathcal{S_{t-2}}$$, yielding again an MDP. 
+This formulation is still flexible enough to provide good models. When $$s_{t+1}$$ depends on additional information than $$(s_t,a_t)$$, for example, on $$s_{t-1}$$ and $$s_{t-2}$$, the state space $$\mathcal{S_t}$$ can be expanded into $$\mathcal{S}_t^{\prime} = \mathcal{S_t} \cup \mathcal{S_{t-1}} \cup \mathcal{S_{t-2}}$$, yielding again an MDP. 
 
 In an MDP, $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribution. The action $$a_{t}$$ determines a reward function, with real number values:
 
@@ -130,7 +130,7 @@ $$
 A Markov Decision Process (MDP) consists, in general, of
 * A family of states $$\mathcal{S}_t$$
 * A family of actions $$\mathcal{A}_t$$
-* A probability distribution $$P(s_{t+1} \vert (s_t,a_t))$$ of arriving to state $$s_{t+1}$$ fron state $$s_{t}$$ when applying action $$a_t$$
+* A probability distribution $$P(s_{t+1} \vert s_t,a_t)$$ of arriving to state $$s_{t+1}$$ fron state $$s_{t}$$ when applying action $$a_t$$
 * A probability distribution $$P(r_{t+1} \vert s_t, a_t)$$ of rewards obtained when applying action $$a_t$$ in state $$s_{t}$$.
 
 In our case, the rewards will simply be a function $$r_{t+1} : \mathcal{A}_{t} \rightarrow \mathbb{R}$$.
