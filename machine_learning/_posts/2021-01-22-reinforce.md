@@ -25,9 +25,9 @@ In reinforcement learning, an agent in state $$s_t$$ acts with action $$a_t$$, a
 
 ![Reinforce Learning Control Loop](/src/diagrams/reinforce_learning_control_loop.png)
 
-The process can end after a finite number of steps $$T$$, or can continue for an infinite number of steps. The agent's function that maps states and rewards to actions is called *policy*, denoted $$\pi$$.
+The process can end after a finite number of steps $$T$$, or can continue for an infinite number of steps. The agent's function that maps states to actions is called *policy*, denoted $$\pi$$. The goal of the policy $$\pi$$ is to maximize rewards - for the next step, as well as all future steps.
 
-If we denote $$\mathcal{S}_t, \mathcal{A}_t$$ the set of states and actions at step $$t$$, then the policy $$\pi$$ is a family of functions
+If we denote $$\mathcal{S}_t, \mathcal{A}_t$$ the set of states and actions at step $$t$$, then the policy $$\pi$$ is then a family of functions
 
 $$
 \begin{equation}
@@ -43,27 +43,29 @@ $$
 \end{equation}
 $$
 
-A sequence of *experiences* $$(s_t, a_t, r_t)$$ defines a trajectory
+A sequence of *experiences* $$(s_t, a_t, r_{t+1})$$ defines a trajectory
 
 $$
 \begin{equation} \label{eq:tau}
-\tau = (s_0, a_0, r_0), (s_1, a_1, r_1), (s_2, a_2, r_2), ...
+\tau = (s_0, a_0, r_1), (s_1, a_1, r_2), (s_2, a_2, r_3), ...
 \end{equation}
 $$
 
-The *objective* of RL problems is to maximize the sum of rewards over all steps, performing more optimal actions at each step, and *learning* a good policy $$\pi$$, through trial and error, using the magnitude of rewards to *reinforce* good actions.
+Note that some sources label the reward for action $$a_t$$ as $$r_t$$ instead of $$r_{t+1}$$.
+
+The *objective* of RL problems is to maximize rewards, performing more optimal actions at each step, and *learning* a good policy $$\pi$$, through trial and error, using the magnitude of rewards to *reinforce* good actions.
 
 It is convenient to discount rewards by a factor $$0 \le \gamma$$, and define the *return* of a trajectory $$\tau$$ as:
 
 $$
 \begin{equation} \label{eq:traj_return}
-R(\tau) = r_0 + {\gamma}r_1 + {\gamma^2}r_2 + ... + {\gamma^T}r_T
+R(\tau) = r_1 + {\gamma}r_2 + {\gamma^2}r_3 + ... + {\gamma^T}r_{T+1}
 \end{equation}
 $$
 
 The larger the discount factor $$\gamma$$, the larger the effect of later steps.
 
-When the number of steps is infinite, the sum of rewards $$r_0 + r_1 + r_2  + ...$$ can be infinite, even when $$r_t$$ are bounded $$-M \lt r_t \lt M$$ for all $$0 \le t$$. In this case, we must pick a discount factor $$0 \le \gamma \lt 1$$, and
+When the number of steps is infinite, the sum of rewards $$r_1 + r_2 + r_3  + ...$$ can be infinite, even when $$r_t$$ are bounded $$-M \lt r_t \lt M$$ for all $$0 \le t$$. In this case, we must pick a discount factor $$0 \le \gamma \lt 1$$, and
 
 $$
 \begin{equation}
@@ -107,11 +109,13 @@ s_{t+1} \sim P(s_{t+1} \vert s_t,a_t)
 \end{equation}
 $$
 
-This formulation is still flexible enough to provide good models. $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribution. The action $$a_{t}$$ determines a reward function, with real number values:
+This formulation is still flexible enough to provide good models. When $$s_{t+1}$$ depends on additional information than $$(s_t,a_t)$$, for example, on $$s_{t-1}$$ and $$s_{t-2}$$, the state space $$\mathcal{S_t}$$ can be expanded into $$\mathcal{S}_t^' = \mathcal{S_t} \sum \mathcal{S_{t+1}) \sum \mathcal{S_{t_2}}$$, yielding again an MDP. 
+
+In an MDP, $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribution. The action $$a_{t}$$ determines a reward function, with real number values:
 
 $$
 \begin{equation}
-r_{t} : \mathcal{A}_{t} \rightarrow \mathbb{R}
+r_{t+1} : \mathcal{A}_{t} \rightarrow \mathbb{R}
 \end{equation}
 $$
 
@@ -119,7 +123,7 @@ More generally, the reward function can be a stochastic distribution dependent o
 
 $$
 \begin{equation} \label{eq:reward_dist}
-\mathcal{R}_{t}(s_t, a_t)
+\mathcal{R}_{t+1}(s_t, a_t)
 \end{equation}
 $$
 
@@ -127,9 +131,9 @@ A Markov Decision Process (MDP) consists, in general, of
 * A family of states $$\mathcal{S}_t$$
 * A family of actions $$\mathcal{A}_t$$
 * A probability distribution $$P(s_{t+1} \vert (s_t,a_t))$$ of arriving to state $$s_{t+1}$$ fron state $$s_{t}$$ when applying action $$a_t$$
-* A probability distribution $$\mathcal{R}_{t}(s_t, a_t)$$ of rewards obtained when applying action $$a_t$$ in state $$s_{t}$$.
+* A probability distribution $$\mathcal{R}_{t+1}(s_t, a_t)$$ of rewards obtained when applying action $$a_t$$ in state $$s_{t}$$.
 
-In our case, the rewards will simply be a function $$r_{t} : \mathcal{A}_{t} \rightarrow \mathbb{R}$$.
+In our case, the rewards will simply be a function $$r_{t+1} : \mathcal{A}_{t} \rightarrow \mathbb{R}$$.
 
 Agents do not have direct access to the state transition distribution (\ref{eq:state_transition_dist}) or to the reward distribution (\ref{eq:reward_dist}). These can, however, be sampled.
 
