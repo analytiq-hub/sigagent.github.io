@@ -155,7 +155,7 @@ In MDP problems, assuming that trajectories $$\tau$$ are sampled according to a 
 
 $$
 \begin{equation}
-J(\pi) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=1}^{T+1} \gamma^{t-1} r_t]
+J(\pi) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r_{t+1}]
 \end{equation}
 $$
 
