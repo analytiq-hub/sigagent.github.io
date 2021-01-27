@@ -109,7 +109,7 @@ s_{t+1} \sim P(s_{t+1} \vert s_t,a_t)
 \end{equation}
 $$
 
-This formulation is still flexible enough to provide good models. When $$s_{t+1}$$ depends on additional information than $$(s_t,a_t)$$, for example, on $$s_{t-1}$$ and $$s_{t-2}$$, the state space $$\mathcal{S_t}$$ can be expanded into $$\mathcal{S}_t^{\prime} = \mathcal{S_t} \sum \mathcal{S_{t+1}) \sum \mathcal{S_{t_2}}$$, yielding again an MDP. 
+This formulation is still flexible enough to provide good models. When $$s_{t+1}$$ depends on additional information than $$(s_t,a_t)$$, for example, on $$s_{t-1}$$ and $$s_{t-2}$$, the state space $$\mathcal{S_t}$$ can be expanded into $$\mathcal{S}_t^{\prime} = \mathcal{S_t} \cup \mathcal{S_{t-1}} \sum \mathcal{S_{t-2}}$$, yielding again an MDP. 
 
 In an MDP, $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribution. The action $$a_{t}$$ determines a reward function, with real number values:
 
