@@ -139,7 +139,7 @@ $$
 \end{equation}
 $$
 
-Similar bounds hold for $$R_t(\tau)$$. When the discount factor $$\gamma \in [0, 1)$$ is close to $$1$$, future states have larger weight in the trajectory return. When $$\gamma$$ is close to $$0$$, next state has a larger weight.
+Same bounds hold for $$R_t(\tau)$$. When the discount factor $$\gamma \in [0, 1)$$ is close to $$1$$, future states have larger weight in the trajectory return. When $$\gamma$$ is close to $$0$$, next state has a larger weight.
 
 ## The Objective Function in REINFORCE
 
@@ -151,7 +151,7 @@ J(\pi) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{
 \end{equation}
 $$
 
-In REINFORCE, the goal of the agent is to maximize the objective function $$J(\pi)$$.
+In REINFORCE, the goal of the agent is to maximize the objective function $$J(\pi)$$. Trajectories are sampled over a parametrized set of policies $$\pi$$.
 
 ...
 
