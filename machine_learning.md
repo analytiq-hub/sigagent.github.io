@@ -28,6 +28,7 @@ title: Machine Learning
 * [Offline Reinforcement Learning](https://www.youtube.com/watch?v=IUAePhU0E7Y) - Sergey Levine, 2020
 * [Stephen Wolfram: Cellular Automata, Computation, and Physics](https://www.youtube.com/watch?v=ez773teNFYA&t=2539s), Lex Fridman Podcast #89 (2020)
 * [MIT 6.S091: Introduction to Deep Reinforcement Learning](https://www.youtube.com/watch?v=zR11FLZ-O9M&t=2130s), Lex Fridman (2019)
+* [MIT 6.S191: Convolutional Neural Networks](https://www.youtube.com/watch?v=iaSUYvmCekI), Alexander Amini (2020)
 
 #### Posts
 * [Colah's blog](http://colah.github.io/)
