@@ -149,7 +149,7 @@ $$
 
 Similar bounds hold for $$R_t(\tau)$$. When the discount factor $$\gamma \in [0, 1)$$ is close to $$1$$, future states have larger weight in the trajectory return. When $$\gamma$$ is close to $$0$$, next state has a larger weight.
 
-## The Objective Function in REINFORCE
+## The Objective Function
 
 In MDP problems, assuming that trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objective* function is defined as the expected value of the return function:
 
