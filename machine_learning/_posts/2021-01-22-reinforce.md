@@ -21,7 +21,7 @@ In the CartPole example, a pole is balanced on top of a cart. The environment is
 * The *reward* is $$+1$$ for each step the pole remains upright (i.e., does not tip for more than a fixed angle)
 
 ## Formulation of the problem
-In reinforcement learning, an agent in state $$s_t$$ acts with action $$a_t$$, and receives reward $$r_t$$. The cycle then continues, creating a feedback loop:
+In reinforcement learning, an agent in state $$s_t$$ acts with action $$a_t$$, and moves to state $$s_{t+1}$$, with reward $$r_{t+1}$$. The cycle then continues, creating a feedback loop:
 
 ![Reinforce Learning Control Loop](/src/diagrams/reinforce_learning_control_loop.png)
 
