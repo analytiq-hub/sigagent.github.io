@@ -9,7 +9,7 @@ title: Machine Learning
 * [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), Graesser and Keng (2019)
   * SLM-Lab [sources](https://github.com/kengz/SLM-Lab), [docs](https://slm-lab.gitbook.io/slm-lab/)
 * [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf), Sutton and Barto (2nd edition, in progress, 2014-2015)
-* [Deep Reinforcement Learning Hands-On](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks/dp/1788834240), Maxim Lapan
+* [Deep Reinforcement Learning Hands-On](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks/dp/1788834240), Maxim Lapan (2018)
 
 #### Videos
 * 3Blue1Brown Series
