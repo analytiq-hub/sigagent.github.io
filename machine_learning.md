@@ -36,7 +36,7 @@ title: Machine Learning
 * [distill.pub](https://distill.pub/)
 * [MuZero](https://en.wikipedia.org/wiki/MuZero) and [The Evolution of AlphaGo to MuZero](https://towardsdatascience.com/the-evolution-of-alphago-to-muzero-c2c37306bf9)
 * [SuperVize Me: What’s the Difference Between Supervised, Unsupervised, Semi-Supervised and Reinforcement Learning?](https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/) by Isha Salian (2018)
-* [Why does the optimal policy exist?](https://towardsdatascience.com/why-does-the-optimal-policy-exist-29f30fd51f8c), a proof of the existence of the optimal policy for finite MDPs, Alireza Modirshanechi (2020) which refers to [Algorithms of Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html)
+* [COMP-424 Intro to AI Lecture Notes](https://www.cs.mcgill.ca/~dprecup/courses/AI/Lectures), [Lecture 16, Why does a finite MDP optimal policy exist?](https://www.cs.mcgill.ca/~dprecup/courses/AI/Lectures/ai-lecture16.pdf)
 
 ### Articles
 * [Offline Reinforcement Learning: Tutorial, Review,and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf), Sergey Levine et al (2020)
