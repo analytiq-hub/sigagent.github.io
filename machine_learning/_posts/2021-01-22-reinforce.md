@@ -45,7 +45,7 @@ r_{t+1} : \mathcal{S}_{t} \times \mathcal{A}_t \times \mathcal{S}_{t+1} \rightar
 \end{equation}
 $$
 
-In the CartPole example, the rewards $$r_{t+1}$$ merely depend on $$S__{t+1}$$.
+In the CartPole example, the rewards $$r_{t+1}$$ merely depend on $$S_{t+1}$$.
 
 A sequence of *experiences* $$(s_t, a_t, r_{t+1})$$ defines a trajectory
 
