@@ -9,14 +9,14 @@ author:
 The source of this post is [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), a nice book by Laura Graesser and Wah Loon Keng. I'm working through Chapter 2, practicing the REINFORCE algorithm.
 
 ## What is Reinforcement Learning?
-In machine learning, the object being learned is data - for example text, speech or images. The goal can be to classify data, encode it, decode it, or transform it in some way, minimizing a certain metric that depends input and output.
+In *machine learning*, the object being learned is data - for example text, speech or images. The goal can be to classify data, encode it, decode it, or transform it in some way, minimizing a certain metric defined on input and output.
 
-*Reinforcement learning* is a special case of machine learning where what is learned are *processes*, using a *reward* function to determie the optimal actions.
+*Reinforcement learning* (RL) is a special case of machine learning where what is learned are *processes*, using a *reward* function to determie the optimal actions.
 
 ## The CartPole example
 ![CartPole](/src/images/cartpole.png)
 
-In the CartPole example, a pole is balanced on top of a cart. The environment is two-dimensional. The cart needs to be moved left or right to balance the pole.
+In this example, a pole is balanced on top of a cart. The environment is two-dimensional. The cart needs to be moved left or right to balance the pole.
 * The *objective* is to keep the pole upright
 * The *state* is represented by (cart position, cart speed, pole angle, pole angular speed)
 * The *action* is to move the cart a unit of distance to the left, or a unit of distance to the right
@@ -27,7 +27,7 @@ In reinforcement learning (RL), an agent in state $$s_t$$ acts with action $$a_t
 
 ![Reinforce Learning Control Loop](/src/diagrams/reinforce_learning_control_loop.png)
 
-The process can end after a finite number of steps $$T$$, or can continue for an infinite number of steps. The agent's function that maps states to actions is called *policy*, denoted $$\pi$$. The goal of the policy $$\pi$$ is to maximize rewards - for the next step, as well as all future steps.
+The process can end after a finite number of steps $$T$$, or can continue indefinitely. The agent's function that maps states to actions is called *policy*, denoted $$\pi$$. The goal of the policy $$\pi$$ is to maximize the sum of all rewards for the next steps.
 
 If we denote $$\mathcal{S}_t, \mathcal{A}_t$$ the set of states and actions at step $$t$$, then the policy $$\pi$$ is then a family of functions
 
@@ -37,13 +37,14 @@ $$
 \end{equation}
 $$
 
-which attempts to maximize the rewards. To simplify notation, drop the index $$t$$, and denote $$\mathcal{S}, \mathcal{A}$$ the families of sets of states, actions, and rewards. The policy is a family of functions
-
+The rewards are a function $$r_t{t+1}$$
 $$
 \begin{equation}
-\pi : \mathcal{S} \rightarrow \mathcal{A} 
+\r_{t+1} : \mathcal{S}_{t} \times \mathcal{A}_t \times \mathcal{S}_{t+1} \rightarrow \mathbb{R}
 \end{equation}
 $$
+
+In the CartPole example, the rewards $$r_{t+1}$$ merely depend on $$S__{t+1}$$.
 
 A sequence of *experiences* $$(s_t, a_t, r_{t+1})$$ defines a trajectory
 
@@ -53,11 +54,13 @@ $$
 \end{equation}
 $$
 
+which could start at any step $$t$$ instead of $$0$$.
+
+The *objective* of RL problems is to maximize the sum of future rewards, *learning* a good policy $$\pi$$, through trial and error, using the size of rewards to *reinforce* good actions.
+
 Note that some sources label the reward for action $$a_t$$ as $$r_t$$ instead of $$r_{t+1}$$.
 
-The *objective* of RL problems is to maximize rewards, performing more optimal actions at each step, and *learning* a good policy $$\pi$$, through trial and error, using the magnitude of rewards to *reinforce* good actions.
-
-## Reinforcement Learning as an MDP
+## Probabilistic formulation: Markov Dynamic Processes (MDP)
 
 The states $$\mathcal{S}$$, in practice, can only be estimated, stocastically, up to a measurement error:
 
@@ -67,7 +70,7 @@ s_{t+1} \sim P(s_{t+1} \vert (s_0,a_0),(s_1,a_1),...,(s_t,a_t))
 \end{equation}
 $$
 
-At each step, the state $s_{t+1}$ is sampled from a probability distribution $$P$$ conditoned on past states and actions. To simplify things, we assume that all the information in past states and actions is subsumed into $$(s_t, a_t)$$, turning the process into a Markov Dynamic Process (MDP):
+At each step, the state $s_{t+1}$ is sampled from a probability distribution $$P$$ conditoned on past states and actions. To simplify things, we assume that all the information from past states and actions is subsumed into $$(s_t, a_t)$$, turning the process into a Markov Dynamic Process (MDP):
 
 $$
 \begin{equation} \label{eq:state_transition_dist}
