@@ -45,9 +45,7 @@ r_{t+1} : \mathcal{S}_{t} \times \mathcal{A}_t \times \mathcal{S}_{t+1} \rightar
 \end{equation}
 $$
 
-In the CartPole example, the rewards $$r_{t+1}$$ merely depend on $$S_{t+1}$$.
-
-A sequence of *experiences* $$(s_t, a_t, r_{t+1})$$ defines a trajectory
+In the CartPole example, the rewards $$r_{t+1}$$ merely depend on $$S_{t+1}$$. A sequence of *experiences* $$(s_t, a_t, r_{t+1})$$ defines a trajectory
 
 $$
 \begin{equation} \label{eq:tau}
@@ -57,11 +55,7 @@ $$
 
 Trajectories can start at any step $$t$$, and are still denoted $$\tau$$ (or, to disambiguate, $$\tau_t$$).
 
-The *objective* of RL problems is to maximize the sum of future rewards, *learning* a good policy $$\pi$$, through trial and error, using the size of rewards to *reinforce* good actions.
-
-If the number of steps is infinite, even if the rewards are bounded 
-
-Note that some sources label the reward for action $$a_t$$ as $$r_t$$ instead of $$r_{t+1}$$.
+The *objective* of RL problems is to maximize the sum of future rewards, *learning* a good policy $$\pi$$, through trial and error, using the size of rewards to *reinforce* good actions. Note that some sources label the reward for action $$a_t$$ as $$r_t$$ instead of $$r_{t+1}$$.
 
 ## Probabilistic formulation: Markov Dynamic Processes (MDP)
 
