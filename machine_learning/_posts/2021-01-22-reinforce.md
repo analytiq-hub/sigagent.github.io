@@ -37,7 +37,7 @@ $$
 \end{equation}
 $$
 
-The rewards are a function $$r_t{t+1}$$
+The rewards are a function $$r_{t+1}$$
 $$
 \begin{equation}
 \r_{t+1} : \mathcal{S}_{t} \times \mathcal{A}_t \times \mathcal{S}_{t+1} \rightarrow \mathbb{R}
