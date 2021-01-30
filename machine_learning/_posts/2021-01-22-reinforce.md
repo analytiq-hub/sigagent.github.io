@@ -38,6 +38,7 @@ $$
 $$
 
 The rewards are a function $$r_{t+1}$$
+
 $$
 \begin{equation}
 \r_{t+1} : \mathcal{S}_{t} \times \mathcal{A}_t \times \mathcal{S}_{t+1} \rightarrow \mathbb{R}
@@ -57,6 +58,8 @@ $$
 If the trajectory starts at step $$t$$, we denote it $$\tau_t$$.
 
 The *objective* of RL problems is to maximize the sum of future rewards, *learning* a good policy $$\pi$$, through trial and error, using the size of rewards to *reinforce* good actions.
+
+If the number of steps is infinite, even if the rewards are bounded 
 
 Note that some sources label the reward for action $$a_t$$ as $$r_t$$ instead of $$r_{t+1}$$.
 
