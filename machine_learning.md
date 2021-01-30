@@ -31,8 +31,8 @@ title: Machine Learning
 * [MIT 6.S091: Introduction to Deep Reinforcement Learning](https://www.youtube.com/watch?v=zR11FLZ-O9M&t=2130s), Lex Fridman (2019)
 * MIT 6.5191 [Introduction to Deep Learning](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) (2020)
   * [Convolutional Neural Networks](https://www.youtube.com/watch?v=iaSUYvmCekI), Alexander Amini
-  * [Deep Generative Modeling](https://www.youtube.com/watch?v=rZufA635dq4&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4)
-  * [Deep Reinforcement Learning](https://www.youtube.com/watch?v=i6Mi2_QM3rA)
+  * [Deep Generative Modeling](https://www.youtube.com/watch?v=rZufA635dq4&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4), Ava Soleimany
+  * [Deep Reinforcement Learning](https://www.youtube.com/watch?v=i6Mi2_QM3rA), Alexander Amini
 
 #### Posts
 * [Colah's blog](http://colah.github.io/)
