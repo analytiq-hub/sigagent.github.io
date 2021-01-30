@@ -50,11 +50,11 @@ A sequence of *experiences* $$(s_t, a_t, r_{t+1})$$ defines a trajectory
 
 $$
 \begin{equation} \label{eq:tau}
-\tau = (s_0, a_0, r_1), (s_1, a_1, r_2), (s_2, a_2, r_3), ...
+\tau_0 = (s_0, a_0, r_1), (s_1, a_1, r_2), (s_2, a_2, r_3), ...
 \end{equation}
 $$
 
-which could start at any step $$t$$ instead of $$0$$.
+If the trajectory starts at step $$t$$, we denote it $$\tau_t$$.
 
 The *objective* of RL problems is to maximize the sum of future rewards, *learning* a good policy $$\pi$$, through trial and error, using the size of rewards to *reinforce* good actions.
 
