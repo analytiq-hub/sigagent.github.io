@@ -41,7 +41,7 @@ The rewards are a function $$r_{t+1}$$
 
 $$
 \begin{equation}
-\r_{t+1} : \mathcal{S}_{t} \times \mathcal{A}_t \times \mathcal{S}_{t+1} \rightarrow \mathbb{R}
+r_{t+1} : \mathcal{S}_{t} \times \mathcal{A}_t \times \mathcal{S}_{t+1} \rightarrow \mathbb{R}
 \end{equation}
 $$
 
@@ -51,11 +51,11 @@ A sequence of *experiences* $$(s_t, a_t, r_{t+1})$$ defines a trajectory
 
 $$
 \begin{equation} \label{eq:tau}
-\tau_0 = (s_0, a_0, r_1), (s_1, a_1, r_2), (s_2, a_2, r_3), ...
+\tau = (s_0, a_0, r_1), (s_1, a_1, r_2), (s_2, a_2, r_3), ...
 \end{equation}
 $$
 
-If the trajectory starts at step $$t$$, we denote it $$\tau_t$$.
+Trajectories can start at any step $$t$$, and are still denoted $$\tau$$ (or, to disambiguate, $$\tau_t$$).
 
 The *objective* of RL problems is to maximize the sum of future rewards, *learning* a good policy $$\pi$$, through trial and error, using the size of rewards to *reinforce* good actions.
 
