@@ -57,9 +57,9 @@ Trajectories can start at any step $$t$$, and are still denoted $$\tau$$ (or, to
 
 The *objective* of RL problems is to maximize the sum of future rewards, *learning* a good policy $$\pi$$, through trial and error, using the size of rewards to *reinforce* good actions. Note that some sources label the reward for action $$a_t$$ as $$r_t$$ instead of $$r_{t+1}$$.
 
-## Probabilistic formulation: Markov Dynamic Processes (MDP)
+## Probabilistic formulation
 
-The states $$\mathcal{S}$$, in practice, can only be estimated, stocastically, up to a measurement error:
+The states $$s_{t+1}$$, in practice, can only be estimated, stocastically, up to a measurement error:
 
 $$
 \begin{equation}
@@ -75,7 +75,7 @@ s_{t+1} \sim P(s_{t+1} \vert s_t,a_t)
 \end{equation}
 $$
 
-This formulation is still flexible enough to provide good models. When $$s_{t+1}$$ depends on additional information than $$(s_t,a_t)$$, for example, on $$s_{t-1}$$ and $$s_{t-2}$$, the state space $$\mathcal{S_t}$$ can be expanded into $$\mathcal{S}_t^{\prime} = \mathcal{S_t} \cup \mathcal{S_{t-1}} \cup \mathcal{S_{t-2}}$$, yielding again an MDP. 
+This formulation is still flexible enough to provide good models. If the process is not Markov, and $$s_{t+1}$$ depends on additional information than $$(s_t,a_t)$$, the state space can often be extended to turn the process into an MDP.
 
 In an MDP, $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribution. The action $$a_{t}$$ determines a reward function, with real number values:
 
