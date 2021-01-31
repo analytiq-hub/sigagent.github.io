@@ -28,6 +28,7 @@ title: Machine Learning
   * [Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs)
 * [Offline Reinforcement Learning](https://www.youtube.com/watch?v=IUAePhU0E7Y) - Sergey Levine, 2020
 * [Stephen Wolfram: Cellular Automata, Computation, and Physics](https://www.youtube.com/watch?v=ez773teNFYA&t=2539s), Lex Fridman Podcast #89 (2020)
+* [David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning](https://www.youtube.com/watch?v=uPUEq8d73JI&t=2499s), Lex Fridman Podcast #86 (2020)
 * [MIT 6.S091: Introduction to Deep Reinforcement Learning](https://www.youtube.com/watch?v=zR11FLZ-O9M&t=2130s), Lex Fridman (2019)
 * MIT 6.5191 [Introduction to Deep Learning](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) (2020)
   * [Convolutional Neural Networks](https://www.youtube.com/watch?v=iaSUYvmCekI), Alexander Amini
