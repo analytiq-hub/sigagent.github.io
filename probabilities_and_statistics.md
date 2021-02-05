@@ -15,6 +15,9 @@ title: Probabilities and Statistics
 #### Statistics in Financial Markets
 * <a href="https://www.amazon.com/Theory-Financial-Risk-Derivative-Pricing/dp/0521263360/ref=sr_1_1?keywords=Theory+of+Financial+Risk+and+Derivative+Pricing&qid=1578282931&s=books&sr=1-1">Theory of Financial Risk and Derivative Pricing: From Statistical Physics to Risk Management</a>, by Jean-Philippe Bouchaud & Marc Potters (2011)
 
+#### Axiomatic statistics
+* [A synthetic approach to Markov kernels, conditional independence and theorems on sufficient statistics](https://arxiv.org/abs/1908.07021), Tobias Fritz (Aug 2019)
+
 #### Other
 * [Market Trading](market_trading.md)
 * [Robotics](robotics.md)
