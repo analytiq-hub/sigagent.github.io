@@ -46,6 +46,7 @@ title: Machine Learning
 * [Offline Reinforcement Learning: Tutorial, Review,and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf), Sergey Levine et al (2020)
 * [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/pdf/2006.04779.pdf), Aviral Kumar et al (2020)
 * [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](link.springer.com/content/pdf/10.1007/BF00992696.pdf), Ronald J. Williams (1992), describes REINFORCE algorithm
+* [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
