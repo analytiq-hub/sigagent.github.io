@@ -11,6 +11,7 @@ title: Machine Learning
 * [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf), Sutton and Barto (2nd edition, in progress, 2014-2015)
 * [Deep Reinforcement Learning Hands-On](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks/dp/1788834240), Maxim Lapan (2018)
 * [Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond](https://www.amazon.com/Learning-Kernels-Regularization-Optimization-Computation/dp/0262194759), B. Scholkopf, A. Smola (2001)
+* [Bio-Inspired Artificial Intelligence: Theories, Methods, and Technologies](https://www.amazon.com/Bio-Inspired-Artificial-Intelligence-Technologies-Intelligent/dp/0262062712), D. Floreano, C. Mattiussi (2008)
 
 #### Videos
 * 3Blue1Brown Series
