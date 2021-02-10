@@ -6,7 +6,9 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-The source of this post is [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), a nice book by Laura Graesser and Wah Loon Keng. I'm working through Chapter 2, practicing the REINFORCE algorithm.
+Sources:
+- [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), L. Graesser and W. L. Keng. Theory and examples of RL algorithms, with implementations using [OpenAI Gym](https://gym.openai.com/), pytorch, and [SLM Lab](https://github.com/andrei-radulescu-banu/SLM-Lab)
+  - To run code: `docker run -it --name ubuntu_16_04 ubuntu:16.04` then follow install instructions [here](https://github.com/andrei-radulescu-banu/SLM-Lab).
 
 ## What is Reinforcement Learning?
 In machine learning, there are three types of learning tasks:
