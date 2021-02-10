@@ -53,6 +53,9 @@ title: Machine Learning
 * [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](link.springer.com/content/pdf/10.1007/BF00992696.pdf), Ronald J. Williams (1992), describes REINFORCE algorithm
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
 * [Neural networks and physical systems with emergent collective computational abilities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC346238/pdf/pnas00447-0135.pdf), J. J. Hopfield (1982)
+* [If MaxEnt RL is the Answer,What is the Question?](https://arxiv.org/pdf/1910.01913.pdf), B. Eysenbach, S. Levine (2019)
+* [MaxEnt RL and Robust Control](https://doc-08-as-apps-viewer.googleusercontent.com/viewer/secure/pdf/34ahbcq9ulq0h0udi9th4nr3h5lev0ld/9g48iv1mo7gpbhpdraapnopsdbl2dq2e/1612976175000/drive/14022114771187177209/ACFrOgDbpLtyid-lrex27XrwS-DMmTd93-9p03pmOcP_NlmQ-opyllXom8eOnEx8LxNAK_doQFt-r12yEwGdyfXs-NBdW-pX2_5xrOfK02InUk1dr8zL67p0rdh5HQWZeNEURFt3T55nUFrMpq4m?print=true&nonce=mvff0all33uvs&user=14022114771187177209&hash=6dmp5m45iogonga1rneen5csmod6ujdq), B. Eysenbach, S. Levine (2020)
+
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
