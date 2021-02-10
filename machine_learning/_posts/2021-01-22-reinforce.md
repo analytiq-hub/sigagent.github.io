@@ -9,9 +9,14 @@ author:
 The source of this post is [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), a nice book by Laura Graesser and Wah Loon Keng. I'm working through Chapter 2, practicing the REINFORCE algorithm.
 
 ## What is Reinforcement Learning?
-In *machine learning*, the object being learned is data - for example text, speech or images. The goal can be to classify data, encode it, decode it, or transform it in some way, minimizing a certain metric defined on input and output.
+In machine learning, there are three types of learning tasks:
+- Supervised learning (given a set of annotated data, learn to predict types of new data)
+- Unsupervised learning (discover a good representation of the input)
+- Reinforcement learning (learn to select actions that maximize reward)
 
-*Reinforcement learning* (RL) is a special case of machine learning where what is learned are *processes*, using a *reward* function to determie the optimal actions.
+In supervised & unsupervised learning, the object being learned is data - for example text, speech, or images. 
+
+In *reinforcement learning* (RL), what is learned are *processes*, using a *reward* function to determie the optimal actions.
 
 ## The CartPole example
 ![CartPole](/src/images/cartpole.png)
