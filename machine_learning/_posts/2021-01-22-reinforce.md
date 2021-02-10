@@ -10,13 +10,11 @@ The source of this post is [Foundations of Deep Reinforcement Learning](https://
 
 ## What is Reinforcement Learning?
 In machine learning, there are three types of learning tasks:
-- Supervised learning (given a set of annotated data, learn to predict types of new data)
+- Supervised learning (given a set of annotated input, learn to predict output)
 - Unsupervised learning (discover a good representation of the input)
 - Reinforcement learning (learn to select actions that maximize reward)
 
-In supervised & unsupervised learning, the object being learned is data - for example text, speech, or images. 
-
-In *reinforcement learning* (RL), what is learned are *processes*, using a *reward* function to determie the optimal actions.
+In supervised & unsupervised learning, the object being learned is data - for example text, speech, or images. In *reinforcement learning* (RL), what is learned are *processes*, using a *reward* function to determie the optimal actions.
 
 ## The CartPole example
 ![CartPole](/src/images/cartpole.png)
