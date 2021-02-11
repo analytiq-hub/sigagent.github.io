@@ -49,17 +49,15 @@ r : \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}
 \end{equation}
 $$
 
-In the CartPole example, the rewards $$r(s_t, a_t)$$ merely depend on $$a_t$$. A sequence of *experiences* $$(s_t, a_t, r_{t+1})$$ defines a trajectory
+A sequence of states and actions defines a trajectory
 
 $$
 \begin{equation} \label{eq:tau}
-\tau = (s_0, a_0, r_1), (s_1, a_1, r_2), (s_2, a_2, r_3), ...
+\tau = (s_t, a_t), (s_{t+1}, a_{t+1}), ... , (s_T, a_T)
 \end{equation}
 $$
 
-Trajectories can start at any step $$t$$, and are still denoted $$\tau$$ (or, to disambiguate, $$\tau_t$$).
-
-The *objective* of RL problems is to maximize the sum of future rewards, *learning* a good policy $$\pi$$, through trial and error, using the size of rewards to *reinforce* good actions. Note that some sources label the reward for action $$a_t$$ as $$r_t$$ instead of $$r_{t+1}$$.
+The *objective* of RL problems is to maximize the sum of future rewards, *learning* a good policy $$\pi$$, through trial and error, using the size of rewards to *reinforce* good actions. 
 
 ## Probabilistic formulation
 
