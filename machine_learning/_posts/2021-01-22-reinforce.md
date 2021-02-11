@@ -49,14 +49,6 @@ r : \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}
 \end{equation}
 $$
 
-A sequence of states and actions defines a trajectory
-
-$$
-\begin{equation} \label{eq:tau}
-\tau = (s_t, a_t), (s_{t+1}, a_{t+1}), ... , (s_T, a_T)
-\end{equation}
-$$
-
 The *objective* of RL problems is to maximize the sum of future rewards, *learning* a good policy $$\pi$$, through trial and error, using the size of rewards to *reinforce* good actions. 
 
 ## Markov Dynamic Processes
@@ -83,10 +75,20 @@ In an MDP, $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribu
 
 A Markov Decision Process (MDP) consists, in general, of
 * A set of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$
-* A probability distribution $$P(s_{t+1} \vert s_t, a_t)$$ of arriving to state $$s_{t+1}$$ fron $$s_{t}$$ when applying action $$a_t$$
+* A state transition distribution $$P(s_{t+1} \vert s_t, a_t)$$ representing the probability of arriving to state $$s_{t+1}$$ fron $$s_{t}$$ when applying action $$a_t$$
+* An initial state distribution $$d_0(s_0)$$
 * A reward function $$r : \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}$$ denoting the reward obtained when applying action $$a_t$$ in state $$s_t$$.
 
-Agents do not have direct access to the state transition distribution (\ref{eq:state_transition_dist}) or to the reward distribution (\ref{eq:reward_dist}). These can, however, be sampled.
+Agents do not have direct access to the state transition distribution (\ref{eq:state_transition_dist}). It can, however, be sampled.
+
+A sequence of states and actions defines a trajectory
+
+$$
+\begin{equation} \label{eq:tau}
+\tau = (s_t, a_t), (s_{t+1}, a_{t+1}), ... , (s_T, a_T)
+\end{equation}
+$$
+
 
 ## Rewards and the Objective Function
 
