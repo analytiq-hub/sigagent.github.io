@@ -122,7 +122,7 @@ When the number of steps is infinite, and rewards are bounded by $$-M \le r(s_t,
 
 $$
 \begin{equation}
--M(1 +{\gamma} + {\gamma^2} + ... + {\gamma^{T}}) \lt R_0(\tau) \lt M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^{T}})
+-M(1 +{\gamma} + {\gamma^2} + ... + {\gamma^{T-1}}) \lt R_0(\tau) \lt M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^{T-1}})
 \end{equation}
 $$
 
@@ -130,7 +130,7 @@ or
 
 $$
 \begin{equation}
--M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}} \lt R_0(\tau) \lt M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}
+-M \frac{1-\gamma^{T}}{1-\gamma \phantom{(9)}} \lt R_0(\tau) \lt M \frac{1-\gamma^{T}}{1-\gamma \phantom{(9)}}
 \end{equation}
 $$
 
