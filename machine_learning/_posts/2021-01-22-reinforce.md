@@ -35,29 +35,21 @@ In this example, a pole is balanced on top of a cart. The environment is two-dim
 * The *reward* is $$+1$$ for each step the pole remains upright (i.e., does not tip for more than a fixed angle)
 
 ## Formulation of the problem
-In reinforcement learning (RL), an agent in state $$s_t$$ acts with action $$a_t$$, gets reward $$r(a_t, s_t)$$, and moves to state $$s_{t+1}$$. The cycle then continues, creating a feedback loop:
+In reinforcement learning (RL), an agent in state $$s_t$$ acts with action $$a_t$$, gets reward $$r(a_t, s_t) \eps \mathbb(R)$$, and moves to state $$s_{t+1}$$. The cycle then continues, creating a feedback loop:
 
 ![Reinforce Learning Control Loop](/src/diagrams/reinforce_learning_control_loop.png)
 
-The process can end after a finite number of steps $$T$$, or can continue indefinitely. The agent's goal is to learn a *policy* $$\pi(a_t \vert s_t)$$ that defines the distribution of actions $$a_t$$ conditioned by state $$s_t$$, with the goal of maximizing the sum of all rewards for the next steps $$r(a_t, s_t) + r(a_{t+1},s_{t+1} + ... + r(a_T, s_T)$$.
+The process can end after a finite number of steps $$T$$, or can continue indefinitely. The agent's goal is to learn a policy $$\pi(a_t \vert s_t)$$ that defines the distribution of actions $$a_t$$ conditioned by state $$s_t$$, with the goal of maximizing the sum of all rewards for the next steps $$r(a_t, s_t) + r(a_{t+1},s_{t+1}) + ... + r(a_T, s_T)$$.
 
-If we denote $$\mathcal{S}, \mathcal{A}$$ the set of states and actions, then the policy $$\pi$$ is then a family of functions
-
-$$
-\begin{equation}
-\pi_t : \mathcal{S}_t \rightarrow \mathcal{A}_t
-\end{equation}
-$$
-
-The rewards are a function $$r_{t+1}$$
+If we denote $$\mathcal{S}, \mathcal{A}$$ the set of states and actions, then the policy $$\pi$$ is a conditional distribution $$\pi(a_t \vert s_t)$$ of actions $$a_t \eps \mathcal(A)$$ conditioned by states $$s_t \eps \mathcal(S)$$. The rewards are a real-valued function
 
 $$
 \begin{equation}
-r_{t+1} : \mathcal{A}_t \rightarrow \mathbb{R}
+r : \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}
 \end{equation}
 $$
 
-In the CartPole example, the rewards $$r_{t+1}$$ merely depend on $$s_{t+1}$$, which depends on $$a_t$$. A sequence of *experiences* $$(s_t, a_t, r_{t+1})$$ defines a trajectory
+In the CartPole example, the rewards $$r(s_t, a_t)$$ merely depend on $$a_t$$. A sequence of *experiences* $$(s_t, a_t, r_{t+1})$$ defines a trajectory
 
 $$
 \begin{equation} \label{eq:tau}
