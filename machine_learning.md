@@ -6,6 +6,7 @@ title: Machine Learning
 * Michael Nielsen: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Artificial Intelligence: A Modern Approach](repository.unimal.ac.id/1022/1/Artificial%20Intelligence%20-%20A%20Modern%20Approach%203rd%20Ed%20-%20Stuart%20Russell%20and%20Peter%20Norvig%2C%20Berkeley%20%282010%29.pdf), by Russell and Norvig (4th edition, 2020)
 * [Deep learning theory lecture notes](https://mjt.cs.illinois.edu/dlt/), Matus Telgarsky
+* [Fundamentals of Machine Learning for Predictive Data Analytics](https://www.amazon.com/Fundamentals-Machine-Learning-Predictive-Analytics/dp/0262044692/ref=asc_df_0262044692/), J.D. Kelleher et al (2020)
 * [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), Graesser and Keng (2019)
   * SLM-Lab [sources](https://github.com/kengz/SLM-Lab), [docs](https://slm-lab.gitbook.io/slm-lab/)
 * [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf), Sutton and Barto (2nd edition, in progress, 2014-2015)
