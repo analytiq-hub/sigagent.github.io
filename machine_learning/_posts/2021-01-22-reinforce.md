@@ -146,7 +146,7 @@ Same bounds hold for $$R_t(\tau)$$.
 
 ## The Objective Function
 
-When trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objective* function is defined as the expected value of the return function:
+When trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objective* function is defined as the expected value of the return function, sampled over the policy distribution $$p_\pi(\tau)$$:
 
 $$
 \begin{equation}
