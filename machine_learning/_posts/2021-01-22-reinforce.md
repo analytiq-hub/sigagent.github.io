@@ -39,7 +39,7 @@ In reinforcement learning (RL), an agent in state $$s_t$$ acts with action $$a_t
 
 ![Reinforce Learning Control Loop](/src/diagrams/reinforce_learning_control_loop.png)
 
-The process can end after a finite number of steps $$T$$, or can continue indefinitely. The agent's goal is to learn a *policy* $$\pi(a_t|s_t)$$ that defines the distribution of actions $$a_t$$ conditioned by state $$s_t$$, with the goal of maximizing the sum of all rewards for the next steps $$r(a_t, s_t) + r(a_{t+1},s_{t+1} + ... + r(a_T, s_T)$$.
+The process can end after a finite number of steps $$T$$, or can continue indefinitely. The agent's goal is to learn a *policy* $$\pi(a_t \vert s_t)$$ that defines the distribution of actions $$a_t$$ conditioned by state $$s_t$$, with the goal of maximizing the sum of all rewards for the next steps $$r(a_t, s_t) + r(a_{t+1},s_{t+1} + ... + r(a_T, s_T)$$.
 
 If we denote $$\mathcal{S}, \mathcal{A}$$ the set of states and actions, then the policy $$\pi$$ is then a family of functions
 
