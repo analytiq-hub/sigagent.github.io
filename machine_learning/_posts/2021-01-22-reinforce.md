@@ -93,7 +93,7 @@ The trajectory distribution for a given policy $$\pi$$ is given by
 
 $$
 \begin{equation} \label{eq:taudist1}
-p_\pi(\tau) = d_0(s_0) \prod_{t_0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t, s_{t-1}, a_{t-1}, ..., s_0, a_0)
+p_\pi(\tau) = d_0(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t, s_{t-1}, a_{t-1}, ..., s_0, a_0)
 \end{equation}
 $$
 
@@ -101,7 +101,7 @@ which, by the Markov assumption, reduces to
 
 $$
 \begin{equation} \label{eq:taudist}
-p_\pi(\tau) = d_0(s_0) \prod_{t_0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t)
+p_\pi(\tau) = d_0(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t)
 \end{equation}
 $$
 
