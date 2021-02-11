@@ -59,7 +59,7 @@ $$
 
 The *objective* of RL problems is to maximize the sum of future rewards, *learning* a good policy $$\pi$$, through trial and error, using the size of rewards to *reinforce* good actions. 
 
-## Probabilistic formulation
+## Markov Dynamic Processes
 
 The states $$s_{t+1}$$, in practice, can only be estimated, stocastically, up to a measurement error:
 
@@ -79,29 +79,12 @@ $$
 
 This formulation is still flexible enough to provide good models. If the process is not Markov, and $$s_{t+1}$$ depends on additional information than $$(s_t,a_t)$$, the state space can often be extended to turn the process into an MDP.
 
-In an MDP, $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribution. The action $$a_{t}$$ determines a reward function, with real number values:
-
-$$
-\begin{equation}
-r_{t+1} : \mathcal{A}_{t} \rightarrow \mathbb{R}
-\end{equation}
-$$
-
-More generally, the reward function can be a stochastic distribution dependent on the previous state and action:
-
-$$
-\begin{equation} \label{eq:reward_dist}
-R(r_{t+1} \vert s_t, a_t)
-\end{equation}
-$$
+In an MDP, $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribution.
 
 A Markov Decision Process (MDP) consists, in general, of
-* A family of states $$\mathcal{S}_t$$
-* A family of actions $$\mathcal{A}_t$$
+* A set of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$
 * A probability distribution $$P(s_{t+1} \vert s_t, a_t)$$ of arriving to state $$s_{t+1}$$ fron $$s_{t}$$ when applying action $$a_t$$
-* A probability distribution $$R(r_{t+1} \vert s_t, a_t)$$ of rewards obtained when applying action $$a_t$$ in state $$s_{t}$$.
-
-In our case, the rewards distribution will simply be a function $$r_{t+1} : \mathcal{A}_{t} \rightarrow \mathbb{R}$$.
+* A reward function $$r : \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}$$ denoting the reward obtained when applying action $$a_t$$ in state $$s_t$$.
 
 Agents do not have direct access to the state transition distribution (\ref{eq:state_transition_dist}) or to the reward distribution (\ref{eq:reward_dist}). These can, however, be sampled.
 
