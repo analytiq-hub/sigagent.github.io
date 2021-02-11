@@ -108,13 +108,11 @@ $$
 
 ## Rewards and the Objective Function
 
-In RL problems, action $$a_t$$ is picked not just to maximize next reward $r_{t+1}$, but future rewards $$r_{t+2}, r_{t+3} ...$$ also. This can be formulated several ways, and, in one formulation, actions are picked to maximize the sum of all future rewards $$r_{t+1} + r_{t+2} + ... + r_{T+1}$$.
-
-It is convenient to discount rewards by a factor $$0 \le \gamma$$, and define the *return* of a trajectory $$\tau = (s_t, a_t, r_{t+1}), ... , (s_T, a_T, r_{T+1})$$ that starts at step $$t$$ as:
+In RL problems, action $$a_t$$ is picked not just to maximize next reward $r(s_t, a_t)$, but the sum of all future rewards $$r(s_{t}, a_{t}) + r(s_{t+1}, a_{t+1}) + ...$$. If the number of steps is infinite, even if all rewards are bounded, the sum may not converge. It is convenient, then, to discount rewards by a factor $$0 \le \gamma$$, and define the *return* of a trajectory $$\tau = (s_t, a_t), ... , (s_T, a_T)$$ that starts at step $$t$$ as:
 
 $$
 \begin{equation} \label{eq:traj_return}
-R_t(\tau) = r_{t+1} + {\gamma}r_{t+2} + {\gamma^2}r_{t+3} + ... + {\gamma^{T-t}}r_{T+1}
+R_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + {\gamma^2}r_(s_{t+2}, a_{t+2}) + ... + {\gamma^{T-t}}r_(s_{T}, a_{T})
 \end{equation}
 $$
 
