@@ -144,17 +144,17 @@ $$
 
 Same bounds hold for $$R_t(\tau)$$. 
 
-## The Objective Function in REINFORCE
+## The Objective Function
 
-In the REINFORCE algorithm, trajectories $$\tau$$ are sampled according to a policy $$\pi$$, and the *objective* function is defined as the expected value of the return function:
+When trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objective* function is defined as the expected value of the return function:
 
 $$
 \begin{equation}
-J(\pi) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r_{t+1}]
+J(\pi) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
-In REINFORCE, the goal of the agent is to maximize the objective function $$J(\pi)$$. Trajectories are sampled over a parametrized set of policies $$\pi$$.
+The goal of the agent is to maximize the objective function $$J(\pi)$$. Trajectories are sampled over a parametrized set of policies $$\pi$$.
 
 ...
 
