@@ -7,8 +7,10 @@ author:
 ---
 
 Sources:
-- [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), L. Graesser and W. L. Keng. Theory and examples of RL algorithms, with implementations using [OpenAI Gym](https://gym.openai.com/), pytorch, and [SLM Lab](https://github.com/andrei-radulescu-banu/SLM-Lab)
+- [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), L. Graesser and W. L. Keng. Theory and examples of RL algorithms, with implementations using [OpenAI Gym](https://gym.openai.com/), pytorch, tensorflow, and [SLM Lab](https://github.com/andrei-radulescu-banu/SLM-Lab)
   - To run code: `docker run -it --name ubuntu_16_04 ubuntu:16.04` then follow install instructions [here](https://github.com/andrei-radulescu-banu/SLM-Lab).
+- om/watch?v=zR11FLZ-O9M&t=2130s), Lex Fridman (2019)
+* MIT 6.5191: [Deep Reinforcement Learning](https://www.youtube.com/watch?v=i6Mi2_QM3rA), Alexander Amini (2020)
 
 ## What is Reinforcement Learning?
 In machine learning, there are three types of learning tasks:
@@ -16,7 +18,7 @@ In machine learning, there are three types of learning tasks:
 - Unsupervised learning (discover a good representation of the input)
 - Reinforcement learning (learn to select actions that maximize reward)
 
-In supervised & unsupervised learning, the object being learned is data - for example text, speech, or images. In *reinforcement learning* (RL), what is learned are *processes*, using a *reward* function to determie the optimal actions.
+In supervised & unsupervised learning, the object being learned is data - for example text, speech, images. In *reinforcement learning* (RL), what is learned are *processes*, using a *reward* function to determie the optimal actions.
 
 ## The CartPole example
 ![CartPole](/src/images/cartpole.png)
