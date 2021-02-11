@@ -116,6 +116,8 @@ R_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + {\gamma^2}r(s_{t+2},
 \end{equation}
 $$
 
+We write $R_0(\tau) = R(\tau)$, for convenience.
+
 The larger the discount factor $$\gamma$$, the larger the effect of later steps. The smaller the discount factor, the bigger weight is given to actions taken for the immediate next steps.
 
 When the number of steps is infinite, and rewards are bounded by $$-M \le r(s_t, a_t) \le M$$ for all $$t$$, then
