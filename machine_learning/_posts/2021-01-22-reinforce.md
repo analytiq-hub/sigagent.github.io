@@ -35,13 +35,13 @@ In this example, a pole is balanced on top of a cart. The environment is two-dim
 * The *reward* is $$+1$$ for each step the pole remains upright (i.e., does not tip for more than a fixed angle)
 
 ## Formulation of the problem
-In reinforcement learning (RL), an agent in state $$s_t$$ acts with action $$a_t$$, gets reward $$r(a_t, s_t) \in \mathbb(R)$$, and moves to state $$s_{t+1}$$. The cycle then continues, creating a feedback loop:
+In reinforcement learning (RL), an agent in state $$s_t$$ acts with action $$a_t$$, gets reward $$r(a_t, s_t) \in \mathbb{R}$$, and moves to state $$s_{t+1}$$. The cycle then continues, creating a feedback loop:
 
 ![Reinforce Learning Control Loop](/src/diagrams/reinforce_learning_control_loop.png)
 
 The process can end after a finite number of steps $$T$$, or can continue indefinitely. The agent's goal is to learn a policy $$\pi(a_t \vert s_t)$$ that defines the distribution of actions $$a_t$$ conditioned by state $$s_t$$, with the goal of maximizing the sum of all rewards for the next steps $$r(s_t, a_t) + r(s_{t+1}, a_{t+1}) + ... + r(s_T, a_T)$$.
 
-If we denote $$\mathcal{S}, \mathcal{A}$$ the set of states and actions, then the policy $$\pi$$ is a conditional distribution $$\pi(a_t \vert s_t)$$ of actions $$a_t \in \mathcal(A)$$ conditioned by states $$s_t \in \mathcal(S)$$. The rewards are a real-valued function
+If we denote $$\mathcal{S}, \mathcal{A}$$ the set of states and actions, then the policy $$\pi$$ is a conditional distribution $$\pi(a_t \vert s_t)$$ of actions $$a_t \in \mathcal{A}$$ conditioned by states $$s_t \in \mathcal{S}$$. The rewards are a real-valued function
 
 $$
 \begin{equation}
