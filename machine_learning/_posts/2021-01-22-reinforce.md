@@ -11,6 +11,7 @@ Sources:
   - To run code: `docker run -it --name ubuntu_16_04 ubuntu:16.04` then follow install instructions [here](https://github.com/andrei-radulescu-banu/SLM-Lab).
 - om/watch?v=zR11FLZ-O9M&t=2130s), Lex Fridman (2019)
 * MIT 6.5191: [Deep Reinforcement Learning](https://www.youtube.com/watch?v=i6Mi2_QM3rA), Alexander Amini (2020)
+* [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf), Sutton and Barto (2nd edition, 2018)
 
 ## What is Reinforcement Learning?
 In machine learning, there are three types of learning tasks:
