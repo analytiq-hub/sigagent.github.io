@@ -81,11 +81,27 @@ A Markov Decision Process (MDP) consists, in general, of
 
 Agents do not have direct access to the state transition distribution (\ref{eq:state_transition_dist}). It can, however, be sampled.
 
-A sequence of states and actions defines a trajectory
+A sequence of states and actions defines a possibly infinite trajectory
 
 $$
 \begin{equation} \label{eq:tau}
-\tau = (s_t, a_t), (s_{t+1}, a_{t+1}), ... , (s_T, a_T)
+\tau = (s_0, a_0), (s_{1}, a_{1}), ... , (s_T, a_T)
+\end{equation}
+$$
+
+The trajectory distribution for a given policy $$\pi$$ is given by
+
+$$
+\begin{equation} \label{eq:taudist1}
+p_\pi(\tau) = d_0(s_0) \product_{t_0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t, s_{t-1}, a_{t-1}, ..., s_0, a_0)
+\end{equation}
+$$
+
+which, by the Markov assumption, reduces to
+
+$$
+\begin{equation} \label{eq:taudist}
+p_\pi(\tau) = d_0(s_0) \product_{t_0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t)
 \end{equation}
 $$
 
