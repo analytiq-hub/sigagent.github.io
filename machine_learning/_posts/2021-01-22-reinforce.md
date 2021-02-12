@@ -75,8 +75,8 @@ In an MDP, $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribu
 
 A Markov Decision Process (MDP) consists, in general, of
 * A set of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$
+* A distribution of the initial state $$d(s_0)$$
 * A state transition distribution $$P(s_{t+1} \vert s_t, a_t)$$ representing the probability of arriving to state $$s_{t+1}$$ fron $$s_{t}$$ when applying action $$a_t$$
-* An initial state $$(s_0)$$
 * A reward function $$r : \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}$$ denoting the reward obtained when applying action $$a_t$$ in state $$s_t$$.
 
 Agents do not have direct access to the state transition distribution (\ref{eq:state_transition_dist}). It can, however, be sampled.
@@ -93,7 +93,7 @@ The trajectory distribution for a given policy $$\pi$$ is given by
 
 $$
 \begin{equation} \label{eq:taudist1}
-p_\pi(\tau) = \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t, s_{t-1}, a_{t-1}, ..., s_0, a_0)
+p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t, s_{t-1}, a_{t-1}, ..., s_0, a_0)
 \end{equation}
 $$
 
@@ -101,7 +101,7 @@ which, by the Markov assumption, reduces to
 
 $$
 \begin{equation} \label{eq:taudist}
-p_\pi(\tau) = \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t)
+p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t)
 \end{equation}
 $$
 
@@ -148,15 +148,24 @@ Same bounds hold for $$R_t(\tau)$$.
 
 ## The Objective Function
 
-When trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objective* function is defined as the expected value of the return function, sampled over the policy distribution $$p_\pi(\tau)$$ defined in $$\ref{eq:taudist}$$:
+When trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objective* function is defined as the expected value of the return function, sampled over the policy distribution $$p_\pi(\tau)$$ defined by $$\ref{eq:taudist}$$:
 
 $$
-\begin{equation}
+\begin{equation} \label{eq:objective}
 J(\pi) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
-The goal of the agent is to maximize the objective function $$J(\pi)$$. Trajectories are sampled over a parametrized set of policies $$\pi$$.
+The goal of the agent is to maximize the objective function $$J(\pi)$$. If we fix the initial state $$s$$, or the pair $$(s, a)$$ of initial state and initial action, we define the value functions
+
+$$
+\begin{equation} \label{eq:value_state}
+V^\pi(s) = \mathbb{E}_{s_0=s, \tau \sim \pi}[R(\tau)] = \mathbb{E}_{s_0=s, \tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
+\end{equation}
+\begin{equation} \label{eq:value_state_action}
+Q^\pi(s, a) = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[R(\tau)] = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
+\end{equation}
+$$
 
 ...
 
