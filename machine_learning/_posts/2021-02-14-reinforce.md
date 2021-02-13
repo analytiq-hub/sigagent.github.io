@@ -6,88 +6,32 @@ author:
 - Andrei Radulescu-Banu
 ---
 
+Blog post series: [Introduction to Machine Learning](2021-02-13-introduction_to_machine_learning.md)
+
 Sources:
 * [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), L. Graesser and W. L. Keng (2019). Theory and examples, with implementations using [OpenAI Gym](https://gym.openai.com/), pytorch, tensorflow, and [SLM Lab](https://github.com/andrei-radulescu-banu/SLM-Lab)
-  * To run code: `docker run -it --name ubuntu_16_04 ubuntu:16.04` then follow install instructions [here](https://github.com/andrei-radulescu-banu/SLM-Lab).
-* [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf), Sutton and Barto (2nd edition, 2018). Clear presentation, builds up from simple example. Authors are major contributors in the field. David Silver (AlphaZero architect) says he read their 1st edition as a first step to learn about RL.
-* [Fundamentals of Machine Learning for Predictive Data Analytics](https://www.amazon.com/Fundamentals-Machine-Learning-Predictive-Analytics/dp/0262044692/ref=asc_df_0262044692/), J.D. Kelleher et al (2020). Nice survey of ML. Chap 11 on RL: Markov Decision Processes (MDP), Bellman Equations, Temporal-Difference Learning, Q-Learning, SARSA, Deep Q-Networks (DQN)
 * MIT 6.5191: [Deep Reinforcement Learning](https://www.youtube.com/watch?v=i6Mi2_QM3rA), Alexander Amini (2020). High level, very clear presentation. Deep Q-Learning (DQN), Policy Gradient (PG), AlphaGo & AlphaZero
-* MIT 6.S091: [Introduction to Deep Reinforcement Learning](https://www.youtube.com/watch?v=zR11FLZ-O9M&t=2130s), Lex Fridman (2019). Explains well how a small change in reward function gives completely different policy.
-* [David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning](https://www.youtube.com/watch?v=uPUEq8d73JI&t=2499s), Lex Fridman Podcast #86 (2020)
-* [Offline Reinforcement Learning: Tutorial, Review,and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf), Sergey Levine et al (2020). Explains how RL is modified for offline learning.
-Most books available at [https://b-ok.cc](https://b-ok.cc).
 
-## What is Reinforcement Learning?
-In machine learning, there are three types of learning tasks:
-- Supervised learning (given a set of annotated input, learn to predict output)
-- Unsupervised learning (discover a good representation of the input)
-- Reinforcement learning (learn to select actions that maximize reward)
+In the REINFORCE algorithm, a policy $$\pi$$ is lerned that maximizes the agent objective $$J_\pi$$. Some prerequisites from [Introduction to Machine Learning](2021-02-13-introduction_to_machine_learning.md):
 
-In supervised & unsupervised learning, the object being learned is data - for example text, speech, images. In *reinforcement learning* (RL), what is learned are *processes*, using a *reward* function to determie the optimal actions.
-
-## The CartPole example
-![CartPole](/src/images/cartpole.png)
-
-In this example, a pole is balanced on top of a cart. The environment is two-dimensional. The cart needs to be moved left or right to balance the pole.
-* The *objective* is to keep the pole upright
-* The *state* is represented by (cart position, cart speed, pole angle, pole angular speed)
-* The *action* is to move the cart a unit of distance to the left, or a unit of distance to the right
-* The *reward* is $$+1$$ for each step the pole remains upright (i.e., does not tip for more than a fixed angle)
-
-## Formulation of the problem
-In reinforcement learning (RL), an agent in state $$s_t$$ acts with action $$a_t$$, gets reward $$r(a_t, s_t) \in \mathbb{R}$$, and moves to state $$s_{t+1}$$. The cycle then continues, creating a feedback loop:
-
-![Reinforce Learning Control Loop](/src/diagrams/reinforce_learning_control_loop.png)
-
-The process can end after a finite number of steps $$T$$, or can continue indefinitely. The agent's goal is to learn a policy $$\pi(a_t \vert s_t)$$ that defines the distribution of actions $$a_t$$ conditioned by state $$s_t$$, with the goal of maximizing the sum of all rewards for the next steps $$r(s_t, a_t) + r(s_{t+1}, a_{t+1}) + ... + r(s_T, a_T)$$.
-
-If we denote $$\mathcal{S}, \mathcal{A}$$ the set of states and actions, then the policy $$\pi$$ is a conditional distribution $$\pi(a_t \vert s_t)$$ of actions $$a_t \in \mathcal{A}$$ conditioned by states $$s_t \in \mathcal{S}$$. The rewards are a real-valued function
-
-$$
-\begin{equation}
-r : \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}
-\end{equation}
-$$
-
-The *objective* of RL problems is to maximize the sum of future rewards, *learning* a good policy $$\pi$$, through trial and error, using the size of rewards to *reinforce* good actions. 
-
-## Markov Dynamic Processes
-
-The states $$s_{t+1}$$, in practice, can only be estimated, stocastically, up to a measurement error:
-
-$$
-\begin{equation}
-s_{t+1} \sim P(s_{t+1} \vert (s_0,a_0),(s_1,a_1),...,(s_t,a_t))
-\end{equation}
-$$
-
-At each step, the state $s_{t+1}$ is sampled from a probability distribution $$P$$ conditoned on past states and actions. To simplify things, we assume that all the information from past states and actions is subsumed into $$(s_t, a_t)$$, turning the process into a Markov Dynamic Process (MDP):
-
-$$
-\begin{equation} \label{eq:state_transition_dist}
-s_{t+1} \sim P(s_{t+1} \vert s_t,a_t)
-\end{equation}
-$$
-
-This formulation is still flexible enough to provide good models. If the process is not Markov, and $$s_{t+1}$$ depends on additional information than $$(s_t,a_t)$$, the state space can often be extended to turn the process into an MDP. The CartPole process, for example, is a Markov process, because the next state is an exact function of the current state and action.
-
-In an MDP, $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribution.
-
-A Markov Decision Process (MDP) consists, in general, of
-* A set of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$
-* A distribution of the initial state $$d(s_0)$$
-* A state transition distribution $$P(s_{t+1} \vert s_t, a_t)$$ representing the probability of arriving to state $$s_{t+1}$$ fron $$s_{t}$$ when applying action $$a_t$$
-* A reward function $$r : \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}$$ denoting the reward obtained when applying action $$a_t$$ in state $$s_t$$.
-
-Agents do not have direct access to the state transition distribution (\ref{eq:state_transition_dist}). It can, however, be sampled.
-
-A sequence of states and actions defines a possibly infinite trajectory
-
+A trajectory $$\tau$$ denotes a possibly infinite sequence of states and actions
 $$
 \begin{equation} \label{eq:tau}
 \tau = (s_0, a_0), (s_{1}, a_{1}), ... , (s_T, a_T)
 \end{equation}
 $$
+
+The return of a trajectory $$\tau = (s_t, a_t), ... , (s_T, a_T)$$ that starts at step $$t$$ is denoted:
+
+$$
+\begin{equation} \label{eq:traj_return}
+R_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + {\gamma^2}r(s_{t+2}, a_{t+2}) + ... + {\gamma^{T-t}}r(s_{T}, a_{T})
+\end{equation}
+$$
+
+
+
+# Odds and Ends
 
 The trajectory distribution for a given policy $$\pi$$ is given by
 
