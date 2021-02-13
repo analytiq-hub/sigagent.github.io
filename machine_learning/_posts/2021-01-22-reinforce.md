@@ -172,7 +172,11 @@ $$
 
 $$V^\pi(s)$$ evaluates how good the state $$s$$ is, and $$Q^\pi(s, a)$$ evaluates how good action $$a$$ is in state $$s$$, both according to the policy $$\pi$$.
 
-The objective $$J(\pi)$$ and the value functions $$V^\pi(s)$$, $$Q^\pi(s, a)$$ are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$):
+## The Bellman Equations
+
+The objective $$J(\pi)$$ and the value functions $$V^\pi(s)$$, $$Q^\pi(s, a)$$ are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
+
+Recall that $$\tau$$ denotes a trajectory $$s_0, a_0, ...$$. When $$s_0$$ is fixed, we denote for convenience $$\tau_{>s_t}$$ for the truncated data set $$a_t, s_{t+1}, ...$$ and $$\tau_{>a_t}$$ for the truncated trajectory $$s_{t+1}, a_{t+1}, ...$$
 
 $$
 \begin{align}
