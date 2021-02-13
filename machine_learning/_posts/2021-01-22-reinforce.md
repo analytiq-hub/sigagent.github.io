@@ -195,15 +195,12 @@ This says that $$J(\pi)$$ is the expected value of $$V^\pi(s)$$ over all states 
 
 $$
 \begin{align}
-J(\pi) & = \int_\tau \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
-& = \int_\tau \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau \hspace{1cm} & (definition \, of \, p_\pi(\tau)) \\
-& = \int_{s_0, a_0, s_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau \hspace{1cm} & (definition \, of \, p_\pi(\tau)) \\
-& = \int_{s_0} d(s_0) \int_{a_0, s_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>s_0} \hspace{1cm} & (Fubini) \\
-& =   \int_{s_0} d(s_0) V^\pi(s_0) & (definition \, of \,  V^\pi(s_0)) \\
-& =   \int_{s} V^\pi(s) ds& (relabel \, s_0) \\
+V^\pi(s_0) & = \int_{a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>s_0}) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, expectation) \\
+& = \int_{a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, p_\pi(\tau_{>s_0})) \\
+& = \int_{a_0} (\int_{s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>a_0})da_0 \hspace{1cm} & (Fubini) \\
+& = \int_{a_0} Q^\pi(s_0, a_0) da_0 \hspace{1cm} & (definition \, of \, Q^\pi(s_0, a_0)) \\
 \end{align}
 $$
-
 
 This page was created with
 * Diagram software from [draw.io](https://draw.io)
