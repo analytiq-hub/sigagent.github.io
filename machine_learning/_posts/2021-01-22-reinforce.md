@@ -234,12 +234,14 @@ $$
 
 The equations (\ref{eq:v_bellman}), (\ref{eq:q_bellman}) are called the Bellman equations.
 
-## RL Algorithms
+## Deep learning RL algorithms
 
-Algorithms for RL problems fall into three main classes:
+Deep learning algorithms for RL problems fall into three main classes:
 - Value based
 - Policy based
 - Model based
+
+(See [Foundations of Deep RL](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381) Sec. 1.4 for in depth discussion)
 
 ### Value based algorithms
 This class of algorithms learn the action-value function $$Q_\pi(s, a)$$, and pick the policy $$\pi$$ that maximizes the action-value in all states. It is less common to lear $$V_\pi(s)$$ and infer the policy $$\pi$$ based on $$Q_\pi(s, a)$$ deduced from $$V_\pi(s)$$.
