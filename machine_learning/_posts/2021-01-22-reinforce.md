@@ -174,6 +174,11 @@ $$V^\pi(s)$$ evaluates how good the state $$s$$ is, and $$Q^\pi(s, a)$$ evaluate
 
 The objective $$J(\pi)$$ and the value functions $$V^\pi(s)$$, $$Q^\pi(s, a)$$ are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$):
 
+$$
+\begin{align}
+J(\pi) = \int_\tau \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau) d\tau \hspace{1cm} \tag*{(definition of expectation)} \\
+\end{alig}
+
 This page was created with
 * Diagram software from [draw.io](https://draw.io)
 * [MathJax](http://sgeos.github.io/github/jekyll/2016/08/21/adding_mathjax_to_a_jekyll_github_pages_blog.html) for LaTeX typesetting
