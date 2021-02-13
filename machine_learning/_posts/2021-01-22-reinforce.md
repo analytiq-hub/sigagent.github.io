@@ -253,11 +253,13 @@ Example value based algorithms:
 
 In the algorithms above, the set of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$  must be finite. More recently, value based algorithms like QT-OPT have become available and can be applied to continuous action spaces $$\mathcal{A}$$.
 
+This class of algorithms are more sample efficient. They work well if $$Q_\pi(s, a)$$ can be maximized without necessitating many action steps.
+
 ### Policy based algorithms
 These algorithms learn a policy $$\pi$$ that maximizes the agent objective $$J_\pi$$. Example algorithm:
 - REINFORCE
 
-In this class of algorithms, the space of actions $$\mathcal{A}$$ can be either continuous or discrete.
+In this class of algorithms, the space of actions $$\mathcal{A}$$ can be either continuous or discrete. The disadvantage is that these algorithms have high variance and are sample inefficient.
 
 This page was created with
 * Diagram software from [draw.io](https://draw.io)
