@@ -44,7 +44,7 @@ We will construct a deep neural network with states $$s \in \mathcal{S}$$, and p
 
 ![PolicyGradient](/src/diagrams/policy_gradient.png)
 
-The weights of the NN are denoted $$\theta$$, and parametrize the output policy $$\pi_\theta$$. The NN metric is $$J_{\pi_\theta}$$. The algorithm starts with a random policy $$\pi_\theta$$, samples states $$s \in \mathcal{S}$$, and uses gradient ascent to maximize $$J_{\pi_\theta}$$.
+The weights of the NN are denoted $$\theta$$, and parametrize the output policy $$\pi_\theta$$. The NN metric is $$J_{\pi_\theta}$$. The algorithm starts with a random policy $$\pi_\theta$$, samples states $$s \in \mathcal{S}$$, and uses gradient ascent to maximize the agent objective $$J_{\pi_\theta}$$.
 
 
 
