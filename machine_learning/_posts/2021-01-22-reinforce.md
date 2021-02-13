@@ -227,9 +227,8 @@ $$
 The result is an approximation because the sum and product under the integral are over $$T-1$$ steps. When the number of steps $$T$$ is infinite, if $$\gamma \lt 1$$, we get
 
 $$
-\begin{align} 
-Q_\pi(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds' \label{eq:qv_bellman} \\
-& = r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'da' \label{eq:qq_bellman} \\
+\begin{align} \label{eq:q_bellman}
+Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'da' \\
 \end{align}
 $$
 
