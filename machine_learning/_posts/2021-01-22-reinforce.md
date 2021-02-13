@@ -204,7 +204,7 @@ $$
 
 Relabeled, this says that
 $$
-\begin{align}
+\begin{align} \label{eq:v_bellman}
 V^\pi(s) = \int_a Q^\pi(s, a) da
 \end{align}
 $$
@@ -229,7 +229,7 @@ Q^\pi(s, a) & = r(s, a) + \gamma \pi(a \vert s) \int_{s'} P(s' \vert s, a) V^\pi
 \end{align}
 $$
 
-These equations are called the Bellman equations of the Markov Dynamic Process.
+The equations (\ref{eq:v_bellman}), (\ref{eq:q_bellman}) are called the Bellman equations of the Markov Dynamic Process.
 
 This page was created with
 * Diagram software from [draw.io](https://draw.io)
