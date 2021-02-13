@@ -228,6 +228,7 @@ The result is an approximation because the sum and product under the integral ar
 $$
 \begin{align} \label{eq:q_bellman}
 Q_\pi(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds' \\
+& = r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'da' \\
 \end{align}
 $$
 
