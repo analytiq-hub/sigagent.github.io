@@ -241,7 +241,7 @@ Deep learning algorithms for RL problems fall into three main classes:
 - Policy based
 - Model based
 
-(See [Foundations of Deep RL](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381) Sec. 1.4 for in depth discussion)
+The taxonomy below is from [Foundations of Deep RL](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381). See Sec. 1.4 in there for a more in depth discussion.
 
 ### Value based algorithms
 This class of algorithms learn the action-value functions $$Q_\pi(s, a)$$. A policy $$\pi(a \vert s)$$ could be picked, for example, to  maximizes the action-value $$Q_\pi(s, a)$$ in all states $$s$$. It is less common to lear $$V_\pi(s)$$ and infer the policy $$\pi$$.
@@ -260,6 +260,11 @@ These algorithms learn a policy $$\pi$$ that maximizes the agent objective $$J_\
 - REINFORCE
 
 In this class of algorithms, the space of actions $$\mathcal{A}$$ can be either continuous or discrete. The disadvantage is that these algorithms have high variance and are sample inefficient.
+
+### Model based algorithms
+These algorithms either know the environment dynamics $$P(s' \vert s, a)$$, or learn it.
+- Monte Carlo Tree Search (MCTS) is used when the space of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$ are finite, and the transition functions $$P(s' \vert s, a)$$ are known. In the past, MCTS was used for board games (Chess, Go), though new generation programs for Chess and Go use policy-based algorithms combined with self-play (AphaGo, AlphaZero).
+- Linear Quadratic Regulators (iLQR), Model Predictve Control (MPC) involve learning $$P(s' \vert s, a)$$.
 
 This page was created with
 * Diagram software from [draw.io](https://draw.io)
