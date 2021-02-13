@@ -202,6 +202,8 @@ V^\pi(s_0) & = \int_{a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p
 \end{align}
 $$
 
+Relabeled, this says that $$V^\pi(s) = \int_a Q^\pi(s, a) da$$, or that $$V^\pi(s)$$ is the expected value of $$Q^\pi(s, a)$$ over all actions $$a$$ in state $$s$$.
+
 This page was created with
 * Diagram software from [draw.io](https://draw.io)
 * [MathJax](http://sgeos.github.io/github/jekyll/2016/08/21/adding_mathjax_to_a_jekyll_github_pages_blog.html) for LaTeX typesetting
