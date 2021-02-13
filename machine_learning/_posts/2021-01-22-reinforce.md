@@ -156,13 +156,15 @@ J_\pi = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t
 \end{equation}
 $$
 
-The goal of the agent is to maximize the objective function $$J_\pi$$. If we fix the initial state $$s$$, or the pair $$(s, a)$$ of initial state and initial action, we define the *value* functions
+The goal of the agent is to maximize the objective function $$J_\pi$$. If we fix the initial state $$s$$, or the pair $$(s, a)$$ of initial state and initial action, we define the *value* function 
 
 $$
 \begin{equation} \label{eq:value_state}
 V_\pi(s) = \mathbb{E}_{s_0=s, \tau \sim \pi}[R(\tau)] = \mathbb{E}_{s_0=s, \tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
+
+and the *action-value* function
 
 $$
 \begin{equation} \label{eq:value_state_action}
@@ -178,7 +180,7 @@ Recall that $$\tau$$ denotes a trajectory $$s_0, a_0, ...$$
 
 When $$s_0$$ is fixed, we denote for convenience $$\tau_{>s_t}$$ for the truncated data set $$a_t, s_{t+1}, ...$$ and $$\tau_{>a_t}$$ for the truncated trajectory $$s_{t+1}, a_{t+1}, ...$$
 
-The objective $$J_\pi$$ and the value functions $$V_\pi(s)$$, $$Q_\pi(s, a)$$ are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
+The objective $$J_\pi$$, the value $$V_\pi(s)$$ and the action-value $$Q_\pi(s, a)$$ functions are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
 
 $$
 \begin{align}
