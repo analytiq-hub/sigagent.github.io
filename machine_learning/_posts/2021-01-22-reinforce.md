@@ -202,7 +202,17 @@ V^\pi(s_0) & = \int_{a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p
 \end{align}
 $$
 
-Relabeled, this says that $$V^\pi(s) = \int_a Q^\pi(s, a) da$$, or that $$V^\pi(s)$$ is the expected value of $$Q^\pi(s, a)$$ over all actions $$a$$ in state $$s$$.
+Relabeled, this says that $$V^\pi(s) = \int_a Q^\pi(s, a) da$$, or that $$V^\pi(s)$$ is the expected value of $$Q^\pi(s, a)$$ over all actions $$a$$ in state $$s$$. And we can also express $$Q^\pi(s, a)$$ in terms of $$V^\pi$$:
+
+$$
+\begin{align}
+V^\pi(s_0) & = \int_{a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>s_0}) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, expectation) \\
+& = \int_{a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, p_\pi(\tau_{>s_0})) \\
+& = \int_{a_0} (\int_{s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>a_0})da_0 \hspace{1cm} & (Fubini) \\
+& = \int_{a_0} Q^\pi(s_0, a_0) da_0 \hspace{1cm} & (definition \, of \, Q^\pi(s_0, a_0)) \\
+\end{align}
+$$
+
 
 This page was created with
 * Diagram software from [draw.io](https://draw.io)
