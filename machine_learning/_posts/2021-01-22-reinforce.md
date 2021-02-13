@@ -255,7 +255,9 @@ In the algorithms above, the set of states $$\mathcat{S}$$ and actions $$\mathca
 
 ### Policy based algorithms
 These algorithms learn a policy $$\pi$$ that maximizes the agent objective $$J_\pi$$. Example algorithm:
-- REINFORCE: this algorithm estimates $$J_pi$$ using a deep neural network. TO DO: The network weights parametrize policies $$\pi$$ using weights $$\theta$$, and compute for $$\pi_\theta$$ a policy gradient $$\nabla J_{\pi_theta}$$
+- REINFORCE
+
+In this class of algorithms, the space of actions $$\mathcal{A}$$ can be either continuous or discrete.
 
 This page was created with
 * Diagram software from [draw.io](https://draw.io)
