@@ -214,6 +214,8 @@ Q^\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p
 \end{align}
 $$
 
+TO DO: is this for infinite $$T$$ only?
+
 
 This page was created with
 * Diagram software from [draw.io](https://draw.io)
