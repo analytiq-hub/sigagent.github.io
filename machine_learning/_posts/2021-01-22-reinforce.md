@@ -191,7 +191,7 @@ J(\pi) & = \int_\tau \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau) d\tau \hs
 \end{align}
 $$
 
-This says that $$J_\pi$$ is the expected value of $$V^\pi(s)$$ over all states $$s$$. We also have:
+This says that $$J(\pi)$$ is the expected value of $$V^\pi(s)$$ over all states $$s$$. We also have:
 
 $$
 \begin{align}
