@@ -217,19 +217,19 @@ Q^\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p
 & = r(s_0, a_0) \int_{s_1, a_1, ...} p_\pi(\tau_{>a_0}) d\tau_{>a_0} + \gamma \int_{s_1, a_1, ...} \sum_{t=1}^{T} \gamma^{t-1} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, p_\pi(\tau_{>a_0})) \\
 & = r(s_0, a_0) + \gamma \int_{s_1, a_1, ...} \sum_{t=1}^{T} \gamma^{t-1} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>a_0} \hspace{1cm} & (integral \, of \, p_\pi(\tau_{>a_0}) \, is \, 1) \\
 & = r(s_0, a_0) + \gamma \pi(a_0 \vert s_0) \int_{s_1, a_1, ...} P(s_{1} \vert s_0, a_0) \sum_{t=1}^{T} \gamma^{t-1} r(s_t, a_t) \prod_{t=1}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>a_0} \hspace{1cm} & (bring \, out \, \pi(a_0 \vert s_0)) \\
-& = r(s_0, a_0) + \gamma \pi(a_0 \vert s_0) \int_{s_1} P(s_{1} \vert s_0, a_0) V^\pi(s_1) ds_1 \hspace{1cm} & (definition \, of \, V^\pi(s_1)) \\
+& \approx r(s_0, a_0) + \gamma \pi(a_0 \vert s_0) \int_{s_1} P(s_{1} \vert s_0, a_0) V^\pi(s_1) ds_1 \hspace{1cm} & (definition \, of \, V^\pi(s_1)) \\
 \end{align}
 $$
 
-which can be rephrased, again, when the number of steps $$T$$ is infinite, as
+The result is an approximation because the sum and product under the integral are over $$T-1$$ steps. When the number of steps $$T$$ is infinite, if $gamma \lt 1$$, we get
 
 $$
-\begin{align}
+\begin{align} \label{eq:q_bellman}
 Q^\pi(s, a) & = r(s, a) + \gamma \pi(a \vert s) \int_{s'} P(s' \vert s, a) V^\pi(s') ds' \\
 \end{align}
 $$
 
-These are called the Bellman equations of the Markov Dynamic Process.
+These equations are called the Bellman equations of the Markov Dynamic Process.
 
 This page was created with
 * Diagram software from [draw.io](https://draw.io)
