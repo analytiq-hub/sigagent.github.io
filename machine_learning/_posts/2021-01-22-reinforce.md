@@ -148,7 +148,7 @@ Same bounds hold for $$R_t(\tau)$$.
 
 ## The Objective and Value Functions
 
-When trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objective* function is defined as the expected value of the return function, sampled over the policy distribution $$p_\pi(\tau)$$ defined by ($$\ref{eq:taudist}$$):
+When trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objective* is defined as the expected value of the return function, sampled over the policy distribution $$p_\pi(\tau)$$ defined by ($$\ref{eq:taudist}$$):
 
 $$
 \begin{equation} \label{eq:objective}
@@ -156,7 +156,7 @@ J_\pi = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t
 \end{equation}
 $$
 
-The goal of the agent is to maximize the objective function $$J_\pi$$. If we fix the initial state $$s$$, or the pair $$(s, a)$$ of initial state and initial action, we define the *value* function 
+The goal of the agent is to maximize the objective $$J_\pi$$. If we fix the initial state $$s$$, or the pair $$(s, a)$$ of initial state and initial action, we define the *value* function 
 
 $$
 \begin{equation} \label{eq:value_state}
@@ -233,6 +233,24 @@ Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'd
 $$
 
 The equations (\ref{eq:v_bellman}), (\ref{eq:q_bellman}) are called the Bellman equations.
+
+## RL Algorithms
+
+Algorithms for RL problems fall into three main classes:
+- Value based
+- Policy based
+- Model based
+
+### Value based algorithms
+This class of algorithms learn the action-value function $$Q_\pi(s, a)$$, and pick the policy $$\pi$$ that maximizes the action-value in all states. It is less common to lear $$V_\pi(s)$$ and infer the policy $$\pi$$ based on $$Q_\pi(s, a)$$ deduced from $$V_\pi(s)$$.
+
+Example value based algorithms:
+- SARSA
+- Deep Q Networks (DQN)
+- Variants of DQN: Double DQN, DQN with Prioritized Experience Replay (PER)
+
+### Policy based algorithms
+These algorithms learn the policy $$\pi$$ that maximizes the objective $$J\pi$$.
 
 This page was created with
 * Diagram software from [draw.io](https://draw.io)
