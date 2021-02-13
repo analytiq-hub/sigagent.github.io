@@ -177,6 +177,7 @@ The objective $$J(\pi)$$ and the value functions $$V^\pi(s)$$, $$Q^\pi(s, a)$$ a
 $$
 \begin{align}
 J(\pi) = \int_\tau \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau) d\tau \hspace{1cm} \tag*{(definition of expectation)} \\
+= \int_\tau \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau \hspace{1cm} \tag*{(definition of p_\pi(\tau))} \\
 \end{alig}
 
 This page was created with
