@@ -25,7 +25,7 @@ The return of a trajectory $$\tau = (s_t, a_t), ... , (s_T, a_T)$$ that starts a
 
 $$
 \begin{equation} \label{eq:traj_return}
-R_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + {\gamma^2}r(s_{t+2}, a_{t+2}) + ... + {\gamma^{T-t}}r(s_{T}, a_{T})
+R_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + {\gamma^2}r(s_{t+2}, a_{t+2}) + ... + {\gamma^{T-t}}r(s_{T}, a_{T}) = \sum_{t'=t}^T \gamma^{t'-1}r(s_{t'},a_{t'})
 \end{equation}
 $$
 
