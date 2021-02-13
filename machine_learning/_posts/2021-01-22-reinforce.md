@@ -106,7 +106,7 @@ p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t)
 $$
 
 
-## Rewards and the Objective Function
+## Rewards and the Agent Objective
 
 In RL problems, action $$a_t$$ is picked not just to maximize next reward $r(s_t, a_t)$, but the sum of all future rewards $$r(s_{t}, a_{t}) + r(s_{t+1}, a_{t+1}) + ...$$. If the number of steps is infinite, even if all rewards are bounded, the sum may not converge. It is convenient, then, to discount rewards by a factor $$0 \le \gamma \le 1$$, which is $$\lt 1$$ if the number of steps is infinite, and define the *return* of a trajectory $$\tau = (s_t, a_t), ... , (s_T, a_T)$$ that starts at step $$t$$ as:
 
@@ -146,9 +146,9 @@ $$
 
 Same bounds hold for $$R_t(\tau)$$. 
 
-## The Objective and Value Functions
+## The Agent Objective and the Value Functions
 
-When trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objective* is defined as the expected value of the return function, sampled over the policy distribution $$p_\pi(\tau)$$ defined by ($$\ref{eq:taudist}$$):
+When trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the agent *objective* is defined as the expected value of the return function, sampled over the policy distribution $$p_\pi(\tau)$$ defined by ($$\ref{eq:taudist}$$):
 
 $$
 \begin{equation} \label{eq:objective}
@@ -252,7 +252,8 @@ Example value based algorithms:
 - Variants of DQN: Double DQN, DQN with Prioritized Experience Replay (PER)
 
 ### Policy based algorithms
-These algorithms learn the policy $$\pi$$ that maximizes the objective $$J\pi$$.
+These algorithms learn a policy $$\pi$$ that maximizes the agent objective $$J_\pi$$. Example algorithm:
+- REINFORCE: this algorithm estimates $$J_pi$$ using a deep neural network. TO DO: The network weights parametrize policies $$\pi$$ using weights $$\theta$$, and compute for $$\pi_\theta$$ a policy gradient $$\nabla J_{\pi_theta}$$
 
 This page was created with
 * Diagram software from [draw.io](https://draw.io)
