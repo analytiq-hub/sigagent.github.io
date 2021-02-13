@@ -14,20 +14,39 @@ Sources:
 
 In the REINFORCE algorithm, a policy $$\pi$$ is lerned that maximizes the agent objective $$J_\pi$$. Some prerequisites from [Introduction to Machine Learning](2021-02-13-introduction_to_machine_learning.md):
 
-A trajectory $$\tau$$ denotes a possibly infinite sequence of states and actions
+A trajectory $$\tau$$ denotes a sequence of states and actions
 $$
 \begin{equation} \label{eq:tau}
 \tau = (s_0, a_0), (s_{1}, a_{1}), ... , (s_T, a_T)
 \end{equation}
 $$
 
-The return of a trajectory $$\tau = (s_t, a_t), ... , (s_T, a_T)$$ that starts at step $$t$$ is denoted:
+The return of a trajectory $$\tau$$ that starts at step $$t$$ is denoted:
 
 $$
-\begin{equation} \label{eq:traj_return}
+\begin{equation} \label{eq:trajret}
 R_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + {\gamma^2}r(s_{t+2}, a_{t+2}) + ... + {\gamma^{T-t}}r(s_{T}, a_{T}) = \sum_{t'=t}^T \gamma^{t'-1}r(s_{t'},a_{t'})
 \end{equation}
 $$
+
+The agent needs to learn a policy that maximizes the  objective $$J_\pi$$ defined by:
+
+$$
+\begin{equation} \label{eq:objective}
+J_\pi = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
+\end{equation}
+$$
+
+We assume $$T$$ is finite.
+
+
+
+
+
+
+
+
+
 
 
 
