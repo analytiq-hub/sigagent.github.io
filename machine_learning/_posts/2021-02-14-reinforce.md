@@ -1,7 +1,7 @@
 ---
 layout: post
 mathjax: true
-title: "Introduction to Reinforcement Learning"
+title: "The REINFORCE algorithm"
 author:
 - Andrei Radulescu-Banu
 ---
