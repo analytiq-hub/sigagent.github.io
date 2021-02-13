@@ -270,12 +270,7 @@ Models are often unavailable, or can't be learned. If they are, however, and if 
 
 Model-based algorithms, effectively, simulate the environment. If the estimation errors are small, the algorithm learned in simulation will work well when run in the actual environment. However, the estimation errors can compound quickly over several steps of actions.
 
-### Mixed methods
+### Combined algoritms
 - Actor-Critic methods use value and policy based methods. The policy (the 'actor') is learned using feedback from a learned action-value function (the 'critic').
 - AphaGo, AlphaZero use a combination of supervised learning, RL model, value and policy based algorithms, and self-play.
 
-This page was created with
-* Diagram software from [draw.io](https://draw.io)
-* [MathJax](http://sgeos.github.io/github/jekyll/2016/08/21/adding_mathjax_to_a_jekyll_github_pages_blog.html) for LaTeX typesetting
-  * To check LaTeX expressions, use this [web form](https://cdn.rawgit.com/mathjax/MathJax/2.7.1/test/sample-dynamic-2.html) or [this form](http://mathb.in/29559)
-  * List of [mathematical fonts](https://www.overleaf.com/learn/latex/Mathematical_fonts)
