@@ -40,11 +40,11 @@ $$
 
 We assume that the number of steps $$T$$, the state space $$\mathcal{S}$$ and action space $$\mathcal{A}$$ are finite. (See [here](https://datascience.stackexchange.com/questions/25209/why-are-policy-gradient-methods-preferred-over-value-function-approximation-in-c/25212#25212) how the same can be done for a continuous action space $$\mathcal{A}$$.)
 
-We will construct a deep neural network with states $$s \in \mathcal{S}$$, and policy distributions $$\pi(a ]vert s)$$ outputs for all actions $$a \in \mathcal{A}$$.
+We will construct a deep neural network with states $$s \in \mathcal{S}$$, and policy distributions $$\pi(a \vert s)$$ outputs for all actions $$a \in \mathcal{A}$$.
 
 ![PolicyGradient](/src/diagrams/policy_gradient.png)
 
-
+The weights of the NN are denoted $$\theta$$, and parametrize the output policy $$\pi_\theta$$. The NN metric is $$J_{\pi_\theta}}$$. The algorithm starts with a random policy $$\pi_theta$$, samples states $$s$$, and uses gradient ascent to maximize $$J_{\pi_\theta}}$$.
 
 
 
