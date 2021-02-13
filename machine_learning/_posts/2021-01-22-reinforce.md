@@ -146,7 +146,7 @@ $$
 
 Same bounds hold for $$R_t(\tau)$$. 
 
-## The Objective Function
+## The Objective and Value Functions
 
 When trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objective* function is defined as the expected value of the return function, sampled over the policy distribution $$p_\pi(\tau)$$ defined by $$\ref{eq:taudist}$$:
 
@@ -156,7 +156,7 @@ J(\pi) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{
 \end{equation}
 $$
 
-The goal of the agent is to maximize the objective function $$J(\pi)$$. If we fix the initial state $$s$$, or the pair $$(s, a)$$ of initial state and initial action, we define the value functions
+The goal of the agent is to maximize the objective function $$J(\pi)$$. If we fix the initial state $$s$$, or the pair $$(s, a)$$ of initial state and initial action, we define the *value* functions
 
 $$
 \begin{equation} \label{eq:value_state}
@@ -170,7 +170,7 @@ Q^\pi(s, a) = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[R(\tau)] = \mathbb{E}_{s_
 \end{equation}
 $$
 
-...
+$$V^\pi(s)$$ evaluates how good the state $$s$$ is, and $$Q^\pi(s, a)$$ evaluates how good action $$a$$ is in state $$s$$, according to policy $$\pi$$.
 
 
 This page was created with
