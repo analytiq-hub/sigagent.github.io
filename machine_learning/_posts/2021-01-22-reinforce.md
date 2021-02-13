@@ -152,25 +152,25 @@ When trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objec
 
 $$
 \begin{equation} \label{eq:objective}
-J(\pi) = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
+J_\pi = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
-The goal of the agent is to maximize the objective function $$J(\pi)$$. If we fix the initial state $$s$$, or the pair $$(s, a)$$ of initial state and initial action, we define the *value* functions
+The goal of the agent is to maximize the objective function $$J_\pi$$. If we fix the initial state $$s$$, or the pair $$(s, a)$$ of initial state and initial action, we define the *value* functions
 
 $$
 \begin{equation} \label{eq:value_state}
-V^\pi(s) = \mathbb{E}_{s_0=s, \tau \sim \pi}[R(\tau)] = \mathbb{E}_{s_0=s, \tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
+V_\pi(s) = \mathbb{E}_{s_0=s, \tau \sim \pi}[R(\tau)] = \mathbb{E}_{s_0=s, \tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
 $$
 \begin{equation} \label{eq:value_state_action}
-Q^\pi(s, a) = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[R(\tau)] = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
+Q_\pi(s, a) = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[R(\tau)] = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
-$$V^\pi(s)$$ evaluates how good the state $$s$$ is, and $$Q^\pi(s, a)$$ evaluates how good action $$a$$ is in state $$s$$, both according to the policy $$\pi$$.
+$$V_\pi(s)$$ evaluates how good the state $$s$$ is, and $$Q_\pi(s, a)$$ evaluates how good action $$a$$ is in state $$s$$, both according to the policy $$\pi$$.
 
 ## The Bellman Equations
 
@@ -178,46 +178,46 @@ Recall that $$\tau$$ denotes a trajectory $$s_0, a_0, ...$$
 
 When $$s_0$$ is fixed, we denote for convenience $$\tau_{>s_t}$$ for the truncated data set $$a_t, s_{t+1}, ...$$ and $$\tau_{>a_t}$$ for the truncated trajectory $$s_{t+1}, a_{t+1}, ...$$
 
-The objective $$J(\pi)$$ and the value functions $$V^\pi(s)$$, $$Q^\pi(s, a)$$ are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
+The objective $$J_\pi$$ and the value functions $$V_\pi(s)$$, $$Q_\pi(s, a)$$ are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
 
 $$
 \begin{align}
-J(\pi) & = \int_\tau \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
+J_\pi & = \int_\tau \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
 & = \int_\tau \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau \hspace{1cm} & (definition \, of \, p_\pi(\tau)) \\
 & = \int_{s_0, a_0, s_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau \hspace{1cm} & (definition \, of \, p_\pi(\tau)) \\
 & = \int_{s_0} d(s_0) \int_{a_0, s_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>s_0} \hspace{1cm} & (Fubini) \\
-& =   \int_{s_0} d(s_0) V^\pi(s_0) & (definition \, of \,  V^\pi(s_0)) \\
-& =   \int_{s} V^\pi(s) ds& (relabel \, s_0) \\
+& =   \int_{s_0} d(s_0) V_\pi(s_0) & (definition \, of \,  V_\pi(s_0)) \\
+& =   \int_{s} V_\pi(s) ds& (relabel \, s_0) \\
 \end{align}
 $$
 
-This says that $$J(\pi)$$ is the expected value of $$V^\pi(s)$$ over all states $$s$$. We also have:
+This says that $$J_\pi$$ is the expected value of $$V_\pi(s)$$ over all states $$s$$. We also have:
 
 $$
 \begin{align}
-V^\pi(s_0) & = \int_{a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>s_0}) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, expectation) \\
+V_\pi(s_0) & = \int_{a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>s_0}) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, expectation) \\
 & = \int_{a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, p_\pi(\tau_{>s_0})) \\
 & = \int_{a_0} (\int_{s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>a_0})da_0 \hspace{1cm} & (Fubini) \\
-& = \int_{a_0} Q^\pi(s_0, a_0) da_0 \hspace{1cm} & (definition \, of \, Q^\pi(s_0, a_0)) \\
+& = \int_{a_0} Q_\pi(s_0, a_0) da_0 \hspace{1cm} & (definition \, of \, Q_\pi(s_0, a_0)) \\
 \end{align}
 $$
 
 Relabeled, this says that
 $$
 \begin{align} \label{eq:v_bellman}
-V^\pi(s) = \int_a Q^\pi(s, a) da
+V_\pi(s) = \int_a Q_\pi(s, a) da
 \end{align}
 $$
 
-which means that $$V^\pi(s)$$ is the expected value of $$Q^\pi(s, a)$$ over all actions $$a$$ in state $$s$$. And we can also express $$Q^\pi(s, a)$$ in terms of $$V^\pi$$, but, for the last step, we assume that the number of steps $$T$$ is infinite, for exact equality:
+which means that $$V_\pi(s)$$ is the expected value of $$Q_\pi(s, a)$$ over all actions $$a$$ in state $$s$$. And we can also express $$Q_\pi(s, a)$$ in terms of $$V_\pi$$, but, for the last step, we assume that the number of steps $$T$$ is infinite, for exact equality:
 
 $$
 \begin{align}
-Q^\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>a_0}) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, expectation) \\
+Q_\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>a_0}) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, expectation) \\
 & = r(s_0, a_0) \int_{s_1, a_1, ...} p_\pi(\tau_{>a_0}) d\tau_{>a_0} + \gamma \int_{s_1, a_1, ...} \sum_{t=1}^{T} \gamma^{t-1} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, p_\pi(\tau_{>a_0})) \\
 & = r(s_0, a_0) + \gamma \int_{s_1, a_1, ...} \sum_{t=1}^{T} \gamma^{t-1} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>a_0} \hspace{1cm} & (integral \, of \, p_\pi(\tau_{>a_0}) \, is \, 1) \\
 & = r(s_0, a_0) + \gamma \pi(a_0 \vert s_0) \int_{s_1, a_1, ...} P(s_{1} \vert s_0, a_0) \sum_{t=1}^{T} \gamma^{t-1} r(s_t, a_t) \prod_{t=1}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>a_0} \hspace{1cm} & (bring \, out \, \pi(a_0 \vert s_0)) \\
-& \approx r(s_0, a_0) + \gamma \pi(a_0 \vert s_0) \int_{s_1} P(s_{1} \vert s_0, a_0) V^\pi(s_1) ds_1 \hspace{1cm} & (definition \, of \, V^\pi(s_1)) \\
+& \approx r(s_0, a_0) + \gamma \pi(a_0 \vert s_0) \int_{s_1} P(s_{1} \vert s_0, a_0) V_\pi(s_1) ds_1 \hspace{1cm} & (definition \, of \, V_\pi(s_1)) \\
 \end{align}
 $$
 
@@ -225,7 +225,7 @@ The result is an approximation because the sum and product under the integral ar
 
 $$
 \begin{align} \label{eq:q_bellman}
-Q^\pi(s, a) & = r(s, a) + \gamma \pi(a \vert s) \int_{s'} P(s' \vert s, a) V^\pi(s') ds' \\
+Q_\pi(s, a) & = r(s, a) + \gamma \pi(a \vert s) \int_{s'} P(s' \vert s, a) V_\pi(s') ds' \\
 \end{align}
 $$
 
