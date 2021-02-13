@@ -218,8 +218,8 @@ $$
 Q_\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>a_0}) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, expectation) \\
 & = r(s_0, a_0) \int_{s_1, a_1, ...} p_\pi(\tau_{>a_0}) d\tau_{>a_0} + \gamma \int_{s_1, a_1, ...} \sum_{t=1}^{T} \gamma^{t-1} r(s_t, a_t) P(s_{1} \vert s_0, a_0) \prod_{t=1}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, p_\pi(\tau_{>a_0})) \\
 & = r(s_0, a_0) + \gamma \int_{s_1, a_1, ...} \sum_{t=1}^{T} \gamma^{t-1} r(s_t, a_t) P(s_{1} \vert s_0, a_0) \prod_{t=1}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>a_0} \hspace{1cm} & (integral \, of \, p_\pi(\tau_{>a_0}) \, is \, 1) \\
-& = r(s_0, a_0) + \gamma \pi(a_0 \vert s_0) \int_{s_1, a_1, ...} P(s_{1} \vert s_0, a_0) \sum_{t=1}^{T} \gamma^{t-1} r(s_t, a_t) \prod_{t=1}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>a_0} \hspace{1cm} & (bring \, out \, P(s_{1} \vert s_0, a_0)) \\
-& \approx r(s_0, a_0) + \gamma \pi(a_0 \vert s_0) \int_{s_1} P(s_{1} \vert s_0, a_0) V_\pi(s_1) ds_1 \hspace{1cm} & (definition \, of \, V_\pi(s_1)) \\
+& = r(s_0, a_0) + \gamma \int_{s_1, a_1, ...} P(s_{1} \vert s_0, a_0) \sum_{t=1}^{T} \gamma^{t-1} r(s_t, a_t) \prod_{t=1}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>a_0} \hspace{1cm} & (bring \, out \, P(s_{1} \vert s_0, a_0)) \\
+& \approx r(s_0, a_0) + \gamma \int_{s_1} P(s_{1} \vert s_0, a_0) V_\pi(s_1) ds_1 \hspace{1cm} & (definition \, of \, V_\pi(s_1)) \\
 \end{align}
 $$
 
