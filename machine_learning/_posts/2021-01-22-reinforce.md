@@ -202,7 +202,14 @@ V^\pi(s_0) & = \int_{a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p
 \end{align}
 $$
 
-Relabeled, this says that $$V^\pi(s) = \int_a Q^\pi(s, a) da$$, or that $$V^\pi(s)$$ is the expected value of $$Q^\pi(s, a)$$ over all actions $$a$$ in state $$s$$. And we can also express $$Q^\pi(s, a)$$ in terms of $$V^\pi$$:
+Relabeled, this says that
+$$
+\begin{align}
+V^\pi(s) = \int_a Q^\pi(s, a) da
+\end{align}
+$$
+
+which means that $$V^\pi(s)$$ is the expected value of $$Q^\pi(s, a)$$ over all actions $$a$$ in state $$s$$. And we can also express $$Q^\pi(s, a)$$ in terms of $$V^\pi$$:
 
 $$
 \begin{align}
