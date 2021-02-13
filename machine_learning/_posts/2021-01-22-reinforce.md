@@ -221,7 +221,7 @@ Q^\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p
 \end{align}
 $$
 
-which can be rephrased as
+which can be rephrased, again, when the number of steps $$T$$ is infinite, as
 
 $$
 \begin{align}
