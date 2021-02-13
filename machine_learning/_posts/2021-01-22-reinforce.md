@@ -244,12 +244,14 @@ Deep learning algorithms for RL problems fall into three main classes:
 (See [Foundations of Deep RL](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381) Sec. 1.4 for in depth discussion)
 
 ### Value based algorithms
-This class of algorithms learn the action-value function $$Q_\pi(s, a)$$, and pick the policy $$\pi$$ that maximizes the action-value in all states. It is less common to lear $$V_\pi(s)$$ and infer the policy $$\pi$$ based on $$Q_\pi(s, a)$$ deduced from $$V_\pi(s)$$.
+This class of algorithms learn the action-value functions $$Q_\pi(s, a)$$. A policy $$\pi(a \vert s)$$ could be picked, for example, to  maximizes the action-value $$Q_\pi(s, a)$$ in all states $$s$$. It is less common to lear $$V_\pi(s)$$ and infer the policy $$\pi$$.
 
 Example value based algorithms:
 - SARSA
 - Deep Q Networks (DQN)
 - Variants of DQN: Double DQN, DQN with Prioritized Experience Replay (PER)
+
+In the algorithms above, the set of states $$\mathcat{S}$$ and actions $$\mathcal{A}$$  must be finite. More recently, value based algorithms like QT-OPT have become available and can be applied to continuous action spaces $$\mathcal{A}$$.
 
 ### Policy based algorithms
 These algorithms learn a policy $$\pi$$ that maximizes the agent objective $$J_\pi$$. Example algorithm:
