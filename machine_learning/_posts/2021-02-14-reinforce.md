@@ -30,7 +30,7 @@ R_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + ... + {\gamma^{T-t}}
 \end{equation}
 $$
 
-The agent needs to learn a policy that maximizes the  objective $$J_\pi$$ defined by:
+The agent needs to learn a policy that maximizes the agent objective $$J_\pi$$ defined by:
 
 $$
 \begin{equation} \label{eq:objective}
