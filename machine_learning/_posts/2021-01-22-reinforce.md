@@ -148,7 +148,7 @@ Same bounds hold for $$R_t(\tau)$$.
 
 ## The Objective and Value Functions
 
-When trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objective* function is defined as the expected value of the return function, sampled over the policy distribution $$p_\pi(\tau)$$ defined by $$\ref{eq:taudist}$$:
+When trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the *objective* function is defined as the expected value of the return function, sampled over the policy distribution $$p_\pi(\tau)$$ defined by ($$\ref{eq:taudist}$$):
 
 $$
 \begin{equation} \label{eq:objective}
@@ -170,8 +170,9 @@ Q^\pi(s, a) = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[R(\tau)] = \mathbb{E}_{s_
 \end{equation}
 $$
 
-$$V^\pi(s)$$ evaluates how good the state $$s$$ is, and $$Q^\pi(s, a)$$ evaluates how good action $$a$$ is in state $$s$$, according to policy $$\pi$$.
+$$V^\pi(s)$$ evaluates how good the state $$s$$ is, and $$Q^\pi(s, a)$$ evaluates how good action $$a$$ is in state $$s$$, both according to the policy $$\pi$$.
 
+The objective $$J(\pi)$$ and the value functions $$V^\pi(s)$$, $$Q^\pi(s, a)$$ are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$):
 
 This page was created with
 * Diagram software from [draw.io](https://draw.io)
