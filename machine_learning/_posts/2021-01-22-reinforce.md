@@ -222,6 +222,8 @@ Q^\pi(s, a) & = r(s, a) + \gamma \pi(a \vert s) \int_{s'} P(s' \vert s, a) V^\pi
 \end{align}
 $$
 
+These are called the Bellman equations of the Markov Dynamic Process.
+
 TO DO: is this for infinite $$T$$ only?
 
 
