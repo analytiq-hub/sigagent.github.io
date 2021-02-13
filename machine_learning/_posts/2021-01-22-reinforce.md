@@ -183,9 +183,7 @@ $$
 J(\pi) & = \int_\tau \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
 & = \int_\tau \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau \hspace{1cm} & (definition \, of \, p_\pi(\tau)) \\
 & = \int_{s_0, a_0, s_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau \hspace{1cm} & (definition \, of \, p_\pi(\tau)) \\
-& = \int_{s_0} d(s_0) \int_{a_0, s_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau \hspace{1cm} & (Fubini) \\
-& =   \int_{s_0} V^\pi(s_0) d(s_0)& (definition \, of \, V^\pi(s)) \\
-& = \int_{s_0} d(s_0) \int_{a_0, s_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau \hspace{1cm} & (Fubini) \\
+& = \int_{s_0} d(s_0) \int_{a_0, s_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>s_0} \hspace{1cm} & (Fubini) \\
 & =   \int_{s_0} d(s_0) V^\pi(s_0) & (definition \, of \,  V^\pi(s_0)) \\
 & =   \int_{s} V^\pi(s) ds& (relabel \, s_0) \\
 \end{align}
