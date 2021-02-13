@@ -209,7 +209,7 @@ V^\pi(s) = \int_a Q^\pi(s, a) da
 \end{align}
 $$
 
-which means that $$V^\pi(s)$$ is the expected value of $$Q^\pi(s, a)$$ over all actions $$a$$ in state $$s$$. And we can also express $$Q^\pi(s, a)$$ in terms of $$V^\pi$$:
+which means that $$V^\pi(s)$$ is the expected value of $$Q^\pi(s, a)$$ over all actions $$a$$ in state $$s$$. And we can also express $$Q^\pi(s, a)$$ in terms of $$V^\pi$$, but, for the last step, we assume that the number of steps $$T$$ is infinite, for exact equality:
 
 $$
 \begin{align}
@@ -230,9 +230,6 @@ Q^\pi(s, a) & = r(s, a) + \gamma \pi(a \vert s) \int_{s'} P(s' \vert s, a) V^\pi
 $$
 
 These are called the Bellman equations of the Markov Dynamic Process.
-
-TO DO: is this for infinite $$T$$ only?
-
 
 This page was created with
 * Diagram software from [draw.io](https://draw.io)
