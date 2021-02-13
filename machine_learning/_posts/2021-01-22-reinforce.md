@@ -221,7 +221,7 @@ Q^\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p
 \end{align}
 $$
 
-The result is an approximation because the sum and product under the integral are over $$T-1$$ steps. When the number of steps $$T$$ is infinite, if $gamma \lt 1$$, we get
+The result is an approximation because the sum and product under the integral are over $$T-1$$ steps. When the number of steps $$T$$ is infinite, if $$gamma \lt 1$$, we get
 
 $$
 \begin{align} \label{eq:q_bellman}
