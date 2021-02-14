@@ -278,7 +278,7 @@ V_\pi(s_0) & = \int_{\tau_{>s_0} = a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t}
 \end{align}
 $$
 
-Relabeled, this says that
+Relabeled, this says that 
 $$
 \begin{align} \label{eq:v_bellman}
 V_\pi(s) = \int_a Q_\pi(s, a) da
