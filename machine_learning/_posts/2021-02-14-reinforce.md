@@ -80,7 +80,7 @@ $$
 \end{align}
 $$
 
-Recall that $$p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t)$$. We can simplify the term $$ln \, p_\pi(\tau_{\le a_t} \vert \theta)$$ as follows:
+Recall that $$p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t)$$. We can expand the term $$\nabla_\theta ln \, p_\pi(\tau_{\le a_t} \vert \theta)$$ as follows:
 
 $$
 \begin{align}
