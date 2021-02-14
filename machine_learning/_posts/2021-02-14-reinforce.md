@@ -114,17 +114,13 @@ $$
 
 ## The REINFORCE algorithm
 
-$$
-\begin{align}
-& \text{1: Initialize learning rate } \alpha & \\
-& \text{2: Initialize policy network weights } \theta \\
-& \text{3: for episode = 0,..., MAX_EPISODE do} \\
-& \phantom{xx} \text{4: Sample a trajectory } \tau = s_0, a_0, ..., s_T, a_T \\
-& \phantom{xx} \text{5: Set } \nabla_\theta J_{\pi_{\theta}} = \sum_{t=0}^T \{\gamma^t R_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \} \\
-& \phantom{xx} \text{6: }\theta = \theta + \alpha \nabla_\theta J_{\pi_{\theta}} \\
-& \text{7: endfor}
-\end{align}
-$$
+1: Initialize learning rate $$\alpha$$
+2: Initialize policy network weights $$\theta$$
+3: for $$episode = 0,..., MAX_EPISODE$$ do
+   4: Sample a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$
+   5: Set $$\nabla_\theta J_{\pi_{\theta}} = \sum_{t=0}^T \{\gamma^t R_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}$$
+   6: \theta = \theta + \alpha \nabla_\theta J_{\pi_{\theta}}
+7: endfor
 
 # Example: CartPole
 See the annotated implementation: [reinforce.py](https://github.com/andrei-radulescu-banu/SLM-Lab/blob/master/andrei/reinforce.py). Follow instructions in [README](https://github.com/andrei-radulescu-banu/SLM-Lab/blob/master/README.md) to run. Example output:
