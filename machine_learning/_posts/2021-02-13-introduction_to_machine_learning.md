@@ -219,8 +219,20 @@ $$
 \end{align}
 $$
 
+In most examples, the sample space for $$x$$ is finite, in which case the integral $$\int$$ becomes a sum $$\sum$$. 
 
-The objective $$J_\pi$$, the value $$V_\pi(s)$$ and the action-value $$Q_\pi(s, a)$$ functions are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
+Applying the definition of density to objective $$J_\pi$$, the value $$V_\pi(s)$$ and the action-value $$Q_\pi(s, a)$$ functions, we get:
+
+$$
+\begin{align}
+J_\pi & = \sum_{t=0}^{T} \int_{\tau_{\le a_t}}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \hspace{1cm} & (integration \, over \, truncated \, trajectories \, \tau_{\le a_t}) \\
+\end{align}
+$$
+
+
+
+
+The objective $$J_\pi$$, the value $$V_\pi(s)$$ and the action-value $$Q_\pi(s, a)$$ functions  are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
 
 $$
 \begin{align}
@@ -251,7 +263,7 @@ V_\pi(s) = \int_a Q_\pi(s, a) da
 \end{align}
 $$
 
-which means that $$V_\pi(s)$$ is the expected value of $$Q_\pi(s, a)$$ over all actions $$a$$ in state $$s$$. And we can also express $$Q_\pi(s, a)$$ in terms of $$V_\pi$$, but, for the last step, we assume that the number of steps $$T$$ is infinite, for exact equality:
+which means that $$V_\pi(s)$$ is the expected value of $$Q_\pi(s, a)$$ over all actions $$a$$ in state $$s$$. And we can also express $$Q_\pi(s, a)$$ in terms of $$V_\pi$$:
 
 $$
 \begin{align}
