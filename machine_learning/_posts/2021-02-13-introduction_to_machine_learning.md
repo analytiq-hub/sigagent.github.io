@@ -226,7 +226,7 @@ Applying the definition of density to objective $$J_\pi$$, the value $$V_\pi(s)$
 $$
 \begin{align}
 J_\pi & = \int_\tau \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
-& = \sum_{t=0}^{T} \int_{\tau}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} \\
+& = \sum_{t=0}^{T} \int_{\tau}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (bring \, sum \, out) \\
 & = \sum_{t=0}^{T} \int_{\tau_{\le a_t}} \int_{\tau_{> a_t}} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} d\tau_{>a_t} \hspace{1cm} & (product \, of \, truncated \, densities \, d\tau = d\tau_{\le a_t} d\tau_{>a_t}) \\
 & = \sum_{t=0}^{T} \{ \int_{\tau_{\le a_t}} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \}\{\int_{\tau_{> a_t}} d\tau_{>a_t}\} \hspace{1cm} & (Fubini) \\
 & = \sum_{t=0}^{T} \int_{\tau_{\le a_t} = s_0, a_0, ... , a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \hspace{1cm} & (density \, d\tau_{>a_t} \, has \, \int_{\tau_{> a_t}} d\tau_{>a_t}=1) \\
