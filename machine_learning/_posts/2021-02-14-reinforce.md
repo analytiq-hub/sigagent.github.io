@@ -114,6 +114,20 @@ $$
 
 ## The REINFORCE algorithm
 
+'''
+Initializelearningrateα
+2: Initializeweightsθofapolicynetworkπθ
+3: forepisode=0,...,MAX_EPISODEdo
+4: Sampleatrajectoryτ =s0,a0,r0,...,sT,aT,rT
+5: Set ∇θJ(πθ) = 0
+6: for t = 0,...,T do
+7: Rt(τ) = 􏰋T γt′−trt′ t′ =t
+8: ∇θ J (πθ ) = ∇θ J (πθ ) + Rt (τ )∇θ log πθ (at | st )
+ 9: 10: 11:
+end for
+θ=θ+α∇θJ(πθ) endfor
+'''
+
 
 # Example: CartPole
 See the annotated implementation: [reinforce.py](https://github.com/andrei-radulescu-banu/SLM-Lab/blob/master/andrei/reinforce.py). Follow instructions in [README](https://github.com/andrei-radulescu-banu/SLM-Lab/blob/master/README.md) to run. Example output:
