@@ -124,7 +124,7 @@ $$
    
    5: Set $$\nabla_\theta J_{\pi_{\theta}} = \sum_{t=0}^T \{\gamma^t R_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}$$
    
-   6: \theta = \theta + \alpha \nabla_\theta J_{\pi_{\theta}}
+   6: $$\theta = \theta + \alpha \nabla_\theta J_{\pi_{\theta}}$$
    
 7: endfor
 
