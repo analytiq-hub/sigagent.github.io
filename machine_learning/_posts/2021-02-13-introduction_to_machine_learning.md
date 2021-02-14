@@ -105,6 +105,8 @@ p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} P(s_{t+
 \end{equation}
 $$
 
+Figuring out the product limits $$\prod_{t=0}^T$$ or $$\prod_{t=0}^{T-1}$$ may seem jarring at first view, but it is good to write them down, nevertheless. When the algorithms are programmed, they become $$for$$ loop limits, and have to be figured out anyway.
+
 ## Truncated and conditional trajectories
 
 The formulas in this section are necessary for later deriving the Bellman equations. Trajectories can be truncated to $$\tau_{>s_t} = (a_t, s_{t+1}, ... , s_T, a_T)$$ and $$\tau_{>a_t} = (s_{t+1}, a_{t+1}, ... , s_T, a_T)$$. The probabilities of the truncated trajectories are:
