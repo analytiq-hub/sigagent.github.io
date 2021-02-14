@@ -205,7 +205,7 @@ $$
 
 $$V_\pi(s)$$ evaluates how good the state $$s$$ is, and $$Q_\pi(s, a)$$ evaluates how good action $$a$$ is in state $$s$$, both according to the policy $$\pi$$.
 
-## The Bellman Equations
+## Expressing $$J_\pi$$, $$V_\pi(s)$$, $$Q_\pi(s, a)$$ densities as integrals
 
 Recall that $$\tau$$ denotes a trajectory $$s_0, a_0, ...$$
 
@@ -230,7 +230,7 @@ J_\pi & = \sum_{t=0}^{T} \int_{\tau_{\le a_t}}  \gamma^{t} r(s_t, a_t) p_\pi(s_t
 $$
 
 
-
+## The Bellman Equations
 
 The objective $$J_\pi$$, the value $$V_\pi(s)$$ and the action-value $$Q_\pi(s, a)$$ functions  are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
 
