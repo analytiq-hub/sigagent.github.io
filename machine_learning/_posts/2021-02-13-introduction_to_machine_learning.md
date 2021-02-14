@@ -105,7 +105,9 @@ p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t)
 \end{equation}
 $$
 
-Trajectories can be truncated to $$\tau_{>s_t} = (a_t, s_{t+1}, ... , s_T, a_T)$$ and $$\tau_{>a_t} = (s_{t+1}, a_{t+1}, ... , s_T, a_T)$$. The probability of the truncated trajectories are
+## Truncated and conditional trajectories
+
+The formulas in this section are necessary for later deriving the Bellman equations. Trajectories can be truncated to $$\tau_{>s_t} = (a_t, s_{t+1}, ... , s_T, a_T)$$ and $$\tau_{>a_t} = (s_{t+1}, a_{t+1}, ... , s_T, a_T)$$. The probabilities of the truncated trajectories are:
 
 $$
 \begin{align} \label{eq:taudists}
@@ -116,6 +118,20 @@ $$
 $$
 \begin{align} \label{eq:taudistsa}
 p_\pi(\tau_{>a_t}) = p_\pi(\tau \vert s_t, a_t) = \prod_{t'=t+1}^T \pi(a_t \vert s_t) \prod_{t'=t}^T P(s_{t+1} \vert s_t, a_t) \\
+\end{align}
+$$
+
+States and actions can be conditioned on trajectories. The conditional probabilities are:
+
+$$
+\begin{align} \label{eq:taudistscond}
+p_\pi(s_t \vert \tau) = \prod_{t'=0}^{t-1} \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) \\
+\end{align}
+$$
+
+$$
+\begin{align} \label{eq:taudistsacond}
+p_\pi(s_t, a_t \vert \tau) = \prod_{t'=0}^{t} \pi(a_t \vert s_t) \prod_{t'=0}^{t-1} P(s_{t+1} \vert s_t, a_t) \\
 \end{align}
 $$
 
