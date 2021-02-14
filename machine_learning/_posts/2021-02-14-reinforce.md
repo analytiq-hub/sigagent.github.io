@@ -108,7 +108,7 @@ $$
 & = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{0 \le t' \le t \le T} \{\gamma^{t} r(s_t, a_t) \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (convert \, from \, double \, sum) \\
 & = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t'=0}^T \{\nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \sum_{t=t'}^T \gamma^{t} r(s_t, a_t)  \}] & (convert \, to \, double \, sum) \\
 & = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t'=0}^T \{\gamma^{t'} R_{t'}(\tau) \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (definition \, of \, R_t(\tau)) \\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t'=0}^T \{\gamma^t R_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}] & (rename \, t' \, as \, t) \\
+& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t=0}^T \{\gamma^t R_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}] & (rename \, t' \, as \, t) \\
 \end{align}
 $$
 
