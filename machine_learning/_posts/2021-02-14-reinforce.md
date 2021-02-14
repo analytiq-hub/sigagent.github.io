@@ -106,4 +106,19 @@ $$
 
 
 # Example: CartPole
-See the annotated implementation: [reinforce.py](https://github.com/andrei-radulescu-banu/SLM-Lab/blob/master/andrei/reinforce.py)
+See the annotated implementation: [reinforce.py](https://github.com/andrei-radulescu-banu/SLM-Lab/blob/master/andrei/reinforce.py). Follow instructions in [README](https://github.com/andrei-radulescu-banu/SLM-Lab/blob/master/README.md) to run. Example output:
+
+```
+Episode 214, loss 3671.379638671875, total_reward 175.0, solved False
+Episode 215, loss 4000.337158203125, total_reward 200.0, solved True
+Episode 216, loss 3653.253173828125, total_reward 200.0, solved True
+Episode 217, loss 3876.510498046875, total_reward 186.0, solved False
+Episode 218, loss 3042.779296875, total_reward 185.0, solved False
+Episode 219, loss 4446.62890625, total_reward 200.0, solved True
+Episode 220, loss 4500.43359375, total_reward 200.0, solved True
+Episode 221, loss 3556.630859375, total_reward 200.0, solved True
+```
+
+The total possible reward per episode is 200. The game is solved if the cartpole does not fall in 195 steps out of 200. Up to 300 episodes are tried.
+
+
