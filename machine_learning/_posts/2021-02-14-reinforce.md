@@ -115,7 +115,7 @@ $$
 ## The REINFORCE algorithm
 
 ```
-Initializelearningrateα
+1: Initialize learning rate $$\alpha$$
 2: Initializeweightsθofapolicynetworkπθ
 3: forepisode=0,...,MAX_EPISODEdo
 4: Sampleatrajectoryτ =s0,a0,r0,...,sT,aT,rT
