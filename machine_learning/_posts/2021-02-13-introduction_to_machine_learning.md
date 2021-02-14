@@ -117,7 +117,7 @@ $$
 
 $$
 \begin{align} \label{eq:taudistsa}
-p_\pi(\tau_{>a_t} \vert s_t, a_t) = p_\pi(\tau \vert s_t, a_t) = \prod_{t'=t+1}^T \pi(a_t \vert s_t) \prod_{t'=t}^T P(s_{t+1} \vert s_t, a_t) \\
+p_\pi(\tau_{>a_t} \vert s_t, a_t) = \prod_{t'=t+1}^T \pi(a_t \vert s_t) \prod_{t'=t}^{T-1} P(s_{t+1} \vert s_t, a_t) \\
 \end{align}
 $$
 
