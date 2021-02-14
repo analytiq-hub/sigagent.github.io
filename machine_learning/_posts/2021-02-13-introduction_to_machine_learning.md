@@ -289,9 +289,9 @@ $$
 \begin{align}
 Q_\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>a_0}) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, expectation) \\
 & = r(s_0,a_0) + \sum_{t=1}^{T} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (as \, shown \, before) \\
-& = r(s_0, a_0) + \gamma \sum_{t=1}^{T} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t-1} r(s_t, a_t) \prod_{t'=1}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^t P(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, p_\pi(\tau_{>a_0 \le a_t})) \\
+& = r(s_0, a_0) + \gamma \sum_{t=1}^{T} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t-1} r(s_t, a_t) \prod_{t'=1}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^t P(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (definition \, of \, p_\pi(\tau_{>a_0 \le a_t})) \\
 & = r(s_0, a_0) + \gamma \sum_{t=1}^{T} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} P(s_{1} \vert s_0, a_0) \gamma^{t-1} r(s_t, a_t) \prod_{t'=1}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=1}^t P(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (bring \, P(s_1 \vert s_0,a_0) \, out \, of \, \prod_{t'=0}^t) \\
-& = r(s_0, a_0) + \gamma \sum_{t=1}^{T} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} P(s_{1} \vert s_0, a_0) \gamma^{t-1} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0 \le a_t}) d\tau_{>a_0} \hspace{1cm} & (replace \, with \, p_\pi(s_t, a_t \vert \tau_{>a_0 \le a_t})) \\
+& = r(s_0, a_0) + \gamma \sum_{t=1}^{T} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} P(s_{1} \vert s_0, a_0) \gamma^{t-1} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0 \le a_t}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (replace \, with \, p_\pi(s_t, a_t \vert \tau_{>a_0 \le a_t})) \\
 & \approx r(s_0, a_0) + \gamma \int_{s_1} P(s_{1} \vert s_0, a_0) V_\pi(s_1) ds_1 \hspace{1cm} & (definition \, of \, V_\pi(s_1) \, for \, T-1) \\
 & = r(s_0, a_0) + \gamma \int_{s_1, a_1} P(s_{1} \vert s_0, a_0) Q_\pi(s_1, a_1) ds_1 da_1 \hspace{1cm} & (V_\pi(s_1) \, as \, expected \, value \, of \, Q_\pi(s_1, a_1) \, over \, a_1) \\
 \end{align}
