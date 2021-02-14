@@ -72,7 +72,7 @@ $$
 \begin{align}
 \nabla_\theta \mathbb{E}_{x \sim p(x \vert \theta)}[f(x)] & = \nabla_\theta \int_x f(x) p(x \vert \theta) dx & (definition \, of \, expectation) \\
 & = \int_x f(x) \nabla_\theta (p(x \vert \theta)) dx & (gradient \, commutes \, with \, the \, integral) \\
-& = \int_x f(x) p(x \vert \theta) \frac{\nabla_\theta (p(x \vert \theta))}{p(x \vert \theta)} dx &  \\
+& = \int_x f(x) p(x \vert \theta) \frac{\nabla_\theta (p(x \vert \theta))}{p(x \vert \theta)} dx &  (multiply \, and \, divide \, with \, p(x \vert \theta)) \\
 & = \int_x f(x) p(x \vert \theta) \nabla_\theta (ln \, p(x \vert \theta)) dx & (chain \, rule) \\
 & = \mathbb{E}_{x \sim p(x \vert \theta)}[f(x)\nabla_\theta (ln \, p(x \vert \theta))] & (definition \, of \, expectation) \\
 \end{align}
