@@ -242,6 +242,8 @@ V_\pi(s_0) & = \int_{\tau_{>s_0} = a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t}
 \end{align}
 $$
 
+And:
+
 $$
 \begin{align} 
 Q_\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>a_0}) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, expectation) \\
