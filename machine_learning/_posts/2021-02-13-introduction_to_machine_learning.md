@@ -225,7 +225,7 @@ Applying the definition of density to objective $$J_\pi$$, the value $$V_\pi(s)$
 
 $$
 \begin{align}
-J_\pi & = \sum_{t=0}^{T} \int_{\tau_{\le a_t}}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \hspace{1cm} & (integration \, over \, truncated \, trajectories \, \tau_{\le a_t}) \\
+J_\pi & = \sum_{t=0}^{T} \int_{\tau_{\le a_t} = s_0, a_0, ... , a_t}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \hspace{1cm} & (integration \, over \, truncated \, trajectories \, \tau_{\le a_t} = s_0, a_0, ... , a_t) \\
 \end{align}
 $$
 
