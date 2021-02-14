@@ -64,6 +64,13 @@ $$
 \end{align}
 $$
 
+Substituting $$R(\tau)$$ for $$f(x)$$, we get
+$$
+\begin{align}
+\nabla_\theta J_{\pi_\theta} & = \nabla_\theta \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)] = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)\nabla_\theta (ln \, p(\tau \vert \theta))] \\
+\end{align}
+$$
+
 # Odds and Ends
 
 The trajectory distribution for a given policy $$\pi$$ is given by
