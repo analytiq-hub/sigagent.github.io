@@ -116,7 +116,7 @@ $$
 
 $$
 \begin{align}
-& \text{1: Initialize learning rate } \alpha \\
+& \text{1: Initialize learning rate } \alpha & \\
 & \text{2: Initialize policy network weights } \theta \\
 & \text{3: for episode = 0,..., MAX_EPISODE do} \\
 & \phantom{xx} \text{4: Sample a trajectory } \tau = s_0, a_0, ..., s_T, a_T \\
