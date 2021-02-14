@@ -16,6 +16,8 @@ Sources:
 * [REINFORCE Algorithm: Taking baby steps in reinforcement learning](https://www.analyticsvidhya.com/blog/2020/11/reinforce-algorithm-taking-baby-steps-in-reinforcement-learning/) (2020), with code examples
 * [Deriving Policy Gradients and Implementing REINFORCE](https://medium.com/@thechrisyoon/deriving-policy-gradients-and-implementing-reinforce-f887949bd63), C. Yoon (2018)
 
+## Prerequisites
+
 In the REINFORCE algorithm, a policy $$\pi$$ is lerned that maximizes the agent objective $$J_\pi$$. Some prerequisites from [Introduction to Machine Learning](2021-02-13-introduction_to_machine_learning.md):
 
 A trajectory $$\tau$$ denotes a sequence of states and actions
@@ -33,6 +35,8 @@ R_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + ... + {\gamma^{T-t}}
 \end{equation}
 $$
 
+## The agent objective
+
 The agent needs to learn a policy that maximizes the agent objective $$J_\pi$$:
 
 $$
@@ -46,6 +50,8 @@ $$
 
 We assume that the number of steps $$T$$, the state space $$\mathcal{S}$$ and action space $$\mathcal{A}$$ are finite. (See [here](https://datascience.stackexchange.com/questions/25209/why-are-policy-gradient-methods-preferred-over-value-function-approximation-in-c/25212#25212) how the same can be done for a continuous action space $$\mathcal{A}$$.)
 
+## The deep neural network
+
 We construct a deep neural network with states $$s \in \mathcal{S}$$ as input, and policy distributions $$\pi(a \vert s)$$ outputs for all actions $$a \in \mathcal{A}$$.
 
 ![PolicyGradient](/src/diagrams/policy_gradient.png)
@@ -57,6 +63,8 @@ $$
 \end{align}
 $$
 where $$\alpha$$ is the learning rate. The key, here, is to be able to compute the gradient $$\nabla_\theta J_{\pi_\theta}$$.
+
+## Computing the policy gradient
 
 Here, $$J_{\pi_\theta} = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)]$$, so, more generally, given a function $$f(x)$$, and a conditional distribution $$p(x \vert \theta)$$, it would help to compute the gradient of its expectation $$\mathbb{E}_{x \sim p(x \vert \theta)}[f(x)]$$. We have:
 
@@ -103,6 +111,8 @@ $$
 & = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t'=0}^T \{\gamma^t R_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}] & (rename \, t' \, as \, t) \\
 \end{align}
 $$
+
+## The REINFORCE algorithm
 
 
 # Example: CartPole
