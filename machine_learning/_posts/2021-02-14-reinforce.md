@@ -83,7 +83,7 @@ In view of this,
 $$
 \begin{align}
 \nabla_\theta J_{\pi_\theta} & = \nabla_\theta \sum_{t=0}^{T} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t)] & (express \, J_{\pi_\theta} \, as \, sum \, of \, expectations) \\
-& = \sum_{t=0}^{T} \gamma^{t} \nabla_\theta \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t)] & (bring \, \nabla_\theta \, in) \\
+& = \sum_{t=0}^{T} \gamma^{t} \nabla_\theta \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t)] & (bring \, \nabla_\theta \, inside \, sum) \\
 & = \sum_{t=0}^{T} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t) \nabla_\theta (ln \, p_{\pi_\theta}(\tau_{\le a_t} \vert \theta))] & (bring \, \nabla_\theta \, inside \, \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta})\\
 \end{align}
 $$
