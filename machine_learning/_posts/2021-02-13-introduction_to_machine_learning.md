@@ -85,7 +85,7 @@ A sequence of states and actions defines a possibly infinite trajectory
 
 $$
 \begin{equation} \label{eq:tau}
-\tau = (s_0, a_0), (s_{1}, a_{1}), ... , (s_T, a_T)
+\tau = (s_0, a_0, s_{1}, a_{1}, ... , s_T, a_T)
 \end{equation}
 $$
 
@@ -105,6 +105,18 @@ p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t)
 \end{equation}
 $$
 
+Trajectories can be truncated to $$\tau_{>s_t} = (a_t, s_{t+1}, ... , s_T, a_T)$$ and $$\tau_{>a_t} = (s_{t+1}, a_{t+1}, ... , s_T, a_T)$$. The probability of the truncated trajectories are
+
+$$
+\begin{align} \label{eq:taudists}
+p_\pi(\tau_{>s_t}) = p_\pi(\tau \vert s_t) = \prod_{t'=t}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) \\
+\end{align}
+$$
+$$
+\begin{align} \label{eq:taudistsa}
+p_\pi(\tau_{>a_t}) = p_\pi(\tau \vert s_t, a_t) = \prod_{t'=t+1}^T \pi(a_t \vert s_t) \prod_{t'=t}^T P(s_{t+1} \vert s_t, a_t) \\
+\end{align}
+$$
 
 ## Rewards and the Agent Objective
 
