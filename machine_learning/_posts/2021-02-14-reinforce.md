@@ -114,7 +114,7 @@ $$
 
 ## The REINFORCE algorithm
 
-'''
+```
 Initializelearningrateα
 2: Initializeweightsθofapolicynetworkπθ
 3: forepisode=0,...,MAX_EPISODEdo
@@ -126,7 +126,7 @@ Initializelearningrateα
  9: 10: 11:
 end for
 θ=θ+α∇θJ(πθ) endfor
-'''
+```
 
 
 # Example: CartPole
