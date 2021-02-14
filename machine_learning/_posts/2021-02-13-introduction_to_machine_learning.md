@@ -180,6 +180,15 @@ Recall that $$\tau$$ denotes a trajectory $$s_0, a_0, ...$$
 
 When $$s_0$$ is fixed, we denote for convenience $$\tau_{>s_t}$$ for the truncated data set $$a_t, s_{t+1}, ...$$ and $$\tau_{>a_t}$$ for the truncated trajectory $$s_{t+1}, a_{t+1}, ...$$
 
+The expectation of a function $$f(x)$$ over a probability density $$p(x)$$ is defined as
+
+$$
+\begin{align}
+\mathbb{E}_p (f) = \int_x f(x) p(x) dx
+\end{align}
+$$
+
+
 The objective $$J_\pi$$, the value $$V_\pi(s)$$ and the action-value $$Q_\pi(s, a)$$ functions are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
 
 $$
