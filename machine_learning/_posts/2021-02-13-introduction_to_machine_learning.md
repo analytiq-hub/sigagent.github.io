@@ -246,6 +246,7 @@ $$
 \begin{align} 
 Q_\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>a_0}) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, expectation) \\
 & = \sum_{t=0}^{T} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (integration \, over \, truncated \, trajectories \, \tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t) \\
+& = r(s_0,a_0) + \sum_{t=1}^{T} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (s_0, a_0 \, independent \, of \tau_{>a_0 \le a_t} \, and \, density \, d\tau_{>a_0 \le a_t} \, has \int d\tau_{>a_0 \le a_t} = 1) \\
 \end{align}
 $$
 
