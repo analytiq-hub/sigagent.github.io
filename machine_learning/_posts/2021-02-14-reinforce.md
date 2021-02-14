@@ -86,16 +86,32 @@ $$
 
 In view of this, 
 
+$$
+\begin{align}
+\nabla_\theta J_{\pi_\theta} & = \nabla_\theta \sum_{t=0}^{T} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t)] & (express \, J_{\pi_\theta} \, as \, sum \, of \, expectations) \\
+& = \sum_{t=0}^{T} \gamma^{t} \nabla_\theta \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t)] & (bring \, \nabla_\theta \, in) \\
+& = \sum_{t=0}^{T} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t) \nabla_\theta (ln \, p_{\pi_\theta}(\tau_{\le a_t} \vert \theta))] & (bring \, \nabla_\theta \, inside \, \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta})\\
+\end{align}
+$$
+
+We can simplify the term $$ln \, p_\pi(\tau_{\le a_t} \vert \theta)$$ as follows:
 
 $$
 \begin{align}
-\nabla_\theta J_{\pi_\theta} & = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)\nabla_\theta (ln \, p_\pi(\tau \vert \theta))] \\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)\nabla_\theta (ln \, \{d(s_0) \prod_{t=0}^T \pi_\theta(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t)\})] & (expand p_\pi(\tau \vert \theta)) \\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)\nabla_\theta \{ ln \, d(s_0) + \sum_{t=0}^T ln \, \pi_\theta(a_t \vert s_t) + \sum_{t=0}^T ln \, P(s_{t+1} \vert s_t, a_t)\}] & (log \, of \, product \, is \, sum \, of \, logs)) \\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)\nabla_\theta \{\sum_{t=0}^T ln \, \pi_\theta(a_t \vert s_t)\}] & (\nabla_\theta \, of \, terms \, that \, do \, not \, depend \, on \, \theta \, is \, 0)) \\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau) \sum_{t=0}^T \nabla_\theta ln \, \pi_\theta(a_t \vert s_t)] & (bring \, \nabla_\theta \, in)) \\
+\nabla_\theta ln \, p_{\pi_\theta}(\tau_{\le a_t} \vert \theta) &= \nabla_\theta ln \, \{d(s_0) \prod_{t'=0}^t \pi_\theta(a_{t'} \vert s_{t'}) \prod_{t'=0}^t P(s_{t'+1} \vert s_{t'}, a_{t'}) \vert \theta)\} & (expand \, p_{\pi_\theta}(\tau_{\le a_t} \vert \theta)) \\
+& = \nabla_\theta ln \, d(s_0) + \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) + \sum_{t'=0}^t \nabla_\theta ln \, P(s_{t'+1} \vert s_{t'}, a_{t'}) & (log \, of \, product \, is \, sum \, of \, logs)) \\
+& = \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) & (\nabla_\theta \, of \, terms \, that \, do \, not \, depend \, on \, \theta \, is \, 0)) \\
 \end{align}
 $$
+
+Applying that:
+
+$$
+\begin{align}
+\nabla_\theta J_{\pi_\theta} & = \sum_{t=0}^{T} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'})] & \\
+\end{align}
+$$
+
 
 
 # Odds and Ends
