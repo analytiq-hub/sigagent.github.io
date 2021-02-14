@@ -15,6 +15,7 @@ Sources:
 * [Why are policy gradient methods preferred over value function approximation in continuous action domains?](https://datascience.stackexchange.com/questions/25209/why-are-policy-gradient-methods-preferred-over-value-function-approximation-in-c/25212#25212)
 * [REINFORCE Algorithm: Taking baby steps in reinforcement learning](https://www.analyticsvidhya.com/blog/2020/11/reinforce-algorithm-taking-baby-steps-in-reinforcement-learning/) (2020), with code examples
 * [Deriving Policy Gradients and Implementing REINFORCE](https://medium.com/@thechrisyoon/deriving-policy-gradients-and-implementing-reinforce-f887949bd63), C. Yoon (2018)
+* [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html), L. Weng (2018)
 
 ## Prerequisites
 
