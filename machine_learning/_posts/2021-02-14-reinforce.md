@@ -54,11 +54,15 @@ where $$\alpha$$ is the learning rate. The key, here, is to be able to compute t
 
 Here, $$J_{\pi_\theta} = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)]$$, so, more generally, given a function $$f(x)$$, and a conditional distribution $$p(x \vert \theta)$$, it would help to compute the gradient of its expectation $$\mathbb{E}_{x \sim p(x \vert \theta)}[f(x)]$$. We have:
 
-
-
-
-
-
+$$
+\begin{align}
+\nabla_\theta \mathbb{E}_{x \sim p(x \vert \theta)}[f(x)] & = \nabla_\theta \int_x f(x) p(x \vert \theta) dx & (definition \, of \, expectation) \\
+& = \int_x f(x) \nabla_\theta (p(x \vert \theta)) dx & (gradient \, commutes \, with \, the \, integral) \\
+& = \int_x f(x) p(x \vert \theta) \frac{\nabla_\theta (p(x \vert \theta))}{p(x \vert \theta)} dx &  \\
+& = \int_x f(x) p(x \vert \theta) \nabla_\theta (ln \, p(x \vert \theta)) dx & (chain \, rule) \\
+& = \mathbb{E}_{x \sim p(x \vert \theta)}[f(x)\nabla_\theta (ln \, p(x \vert \theta))] & (definition \, of \, expectation) \\
+\end{align}
+$$
 
 # Odds and Ends
 
