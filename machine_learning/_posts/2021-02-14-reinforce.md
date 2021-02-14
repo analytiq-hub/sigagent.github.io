@@ -64,22 +64,38 @@ $$
 \end{align}
 $$
 
-Substituting $$R(\tau)$$ for $$f(x)$$, we get
+Substituting $$R(\tau)$$ for $$f(x)$$, we get:
 $$
 \begin{align}
-\nabla_\theta J_{\pi_\theta} & = \nabla_\theta \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)] = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)\nabla_\theta (ln \, p(\tau \vert \theta))] \\
+\nabla_\theta J_{\pi_\theta} = \nabla_\theta \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)] = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)\nabla_\theta (ln \, p_\pi(\tau \vert \theta))] \\
 \end{align}
 $$
+
+Recall that
+$$
+\begin{equation} \label{eq:taudist1}
+p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t)
+\end{equation}
+$$
+
+In view of this, 
+
+
+$$
+\begin{align}
+\nabla_\theta J_{\pi_\theta} & = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)\nabla_\theta (ln \, p_\pi(\tau \vert \theta))] \\
+& = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)\nabla_\theta (ln \, \{d(s_0) \prod_{t=0}^T \pi_\theta(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t)\})] & (expand p_\pi(\tau \vert \theta)) \\
+& = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)\nabla_\theta \{ ln \, d(s_0) + \sum_{t=0}^T ln \, \pi_\theta(a_t \vert s_t) + \sum_{t=0}^T ln \, P(s_{t+1} \vert s_t, a_t)\}] & (log \, of \, product \, is \, sum \, of \, log)) \\
+& = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)\nabla_\theta \{\sum_{t=0}^T ln \, \pi_\theta(a_t \vert s_t)\}] & (\nabla_\theta \, of \, terms \, that \, do \, not \, depend \, on \, \theta \, is \, 0)) \\
+& = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau) \sum_{t=0}^T \nabla_\theta ln \, \pi_\theta(a_t \vert s_t)] & (bring \, \nabla_\theta \, in)) \\
+\end{align}
+$$
+
 
 # Odds and Ends
 
 The trajectory distribution for a given policy $$\pi$$ is given by
 
-$$
-\begin{equation} \label{eq:taudist1}
-p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t, s_{t-1}, a_{t-1}, ..., s_0, a_0)
-\end{equation}
-$$
 
 which, by the Markov assumption, reduces to
 
