@@ -57,7 +57,7 @@ The states $$s_{t+1}$$, in practice, can only be estimated, stocastically, up to
 
 $$
 \begin{equation}
-s_{t+1} \sim P(s_{t+1} \vert (s_0,a_0),(s_1,a_1),...,(s_t,a_t))
+s_{t+1} \sim P(s_{t+1} \vert (s_0,a_0,s_1,a_1,...,s_t,a_t)
 \end{equation}
 $$
 
