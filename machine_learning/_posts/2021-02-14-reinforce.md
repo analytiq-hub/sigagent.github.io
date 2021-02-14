@@ -6,7 +6,7 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-Blog post series: [Introduction to Machine Learning](machine_learning/2021/02/13/introduction_to_machine_learning)
+Blog post series: [Introduction to Machine Learning](https://bitdribble.github.io/machine_learning/2021/02/13/introduction_to_machine_learning)
 
 Sources:
 * [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), L. Graesser and W. L. Keng (2019). Theory and examples, with implementations using [OpenAI Gym](https://gym.openai.com/), pytorch, tensorflow, and [SLM Lab](https://github.com/andrei-radulescu-banu/SLM-Lab)
