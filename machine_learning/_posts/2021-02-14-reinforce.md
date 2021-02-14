@@ -70,20 +70,6 @@ $$
 \end{align}
 $$
 
-Substituting $$R(\tau)$$ for $$f(x)$$, we get:
-$$
-\begin{align}
-\nabla_\theta J_{\pi_\theta} = \nabla_\theta \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)] = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)\nabla_\theta (ln \, p_\pi(\tau \vert \theta))] \\
-\end{align}
-$$
-
-Recall that
-$$
-\begin{equation} \label{eq:taudist1}
-p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t)
-\end{equation}
-$$
-
 In view of this, 
 
 $$
@@ -92,6 +78,13 @@ $$
 & = \sum_{t=0}^{T} \gamma^{t} \nabla_\theta \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t)] & (bring \, \nabla_\theta \, in) \\
 & = \sum_{t=0}^{T} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t) \nabla_\theta (ln \, p_{\pi_\theta}(\tau_{\le a_t} \vert \theta))] & (bring \, \nabla_\theta \, inside \, \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta})\\
 \end{align}
+$$
+
+Recall that
+$$
+\begin{equation} \label{eq:taudist1}
+p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t)
+\end{equation}
 $$
 
 We can simplify the term $$ln \, p_\pi(\tau_{\le a_t} \vert \theta)$$ as follows:
