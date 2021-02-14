@@ -52,6 +52,7 @@ $$
 $$
 where $$\alpha$$ is the learning rate. The key, here, is to be able to compute the gradient $$\nabla_\theta J_{\pi_\theta}$$.
 
+Here, $$J_{\pi_\theta} = \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)]$$, so, more generally, given a function $$f(x)$$, and a conditional distribution $$p(x \vert \theta)$$, it would help to compute the gradient of its expectation $$\mathbb{E}_{x \sim p(x \vert \theta)}[f(x)]$$. We have:
 
 
 
