@@ -114,9 +114,9 @@ $$
 
 ## The REINFORCE algorithm
 
-```
+~~~
 1: Initialize learning rate $$\alpha$$
-2: Initializeweightsθofapolicynetworkπθ
+2: Initialize weights $$\theta$$ of a policy network
 3: forepisode=0,...,MAX_EPISODEdo
 4: Sampleatrajectoryτ =s0,a0,r0,...,sT,aT,rT
 5: Set ∇θJ(πθ) = 0
@@ -126,7 +126,7 @@ $$
  9: 10: 11:
 end for
 θ=θ+α∇θJ(πθ) endfor
-```
+~~~
 
 
 # Example: CartPole
