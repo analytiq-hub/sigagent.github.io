@@ -234,9 +234,9 @@ This says that $$J_\pi$$ is the expected value of $$V_\pi(s)$$ over all states $
 
 $$
 \begin{align}
-V_\pi(s_0) & = \int_{a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>s_0}) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, expectation) \\
-& = \int_{a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, p_\pi(\tau_{>s_0})) \\
-& = \int_{a_0} (\int_{s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t=0}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) d\tau_{>a_0})da_0 \hspace{1cm} & (Fubini) \\
+V_\pi(s_0) & = \int_{\tau_{>s_0} = a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>s_0}) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, expectation) \\
+& = \int_{\tau_{>s_0} = a_0, s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t'=0}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} P(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, p_\pi(\tau_{>s_0})) \\
+& = \int_{a_0} \{ \int_{\tau_{>a_0} = s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t'=0}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} P(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>a_0} \} da_0 \hspace{1cm} & (Fubini) \\
 & = \int_{a_0} Q_\pi(s_0, a_0) da_0 \hspace{1cm} & (definition \, of \, Q_\pi(s_0, a_0)) \\
 \end{align}
 $$
