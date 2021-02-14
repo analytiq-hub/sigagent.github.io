@@ -111,13 +111,13 @@ The formulas in this section are necessary for later deriving the Bellman equati
 
 $$
 \begin{align} \label{eq:taudists}
-p_\pi(\tau_{>s_t}) = p_\pi(\tau \vert s_t) = \prod_{t'=t}^T \pi(a_t \vert s_t) P(s_{t+1} \vert s_t, a_t) \\
+p_\pi(\tau_{>s_t} \vert s_t) = \prod_{t'=t}^T \pi(a_{t'} \vert s_{t'}) \prod_{t'=t}^{T-1}  P(s_{t'+1} \vert s_{t'}, a_{t'}) \\
 \end{align}
 $$
 
 $$
 \begin{align} \label{eq:taudistsa}
-p_\pi(\tau_{>a_t}) = p_\pi(\tau \vert s_t, a_t) = \prod_{t'=t+1}^T \pi(a_t \vert s_t) \prod_{t'=t}^T P(s_{t+1} \vert s_t, a_t) \\
+p_\pi(\tau_{>a_t} \vert s_t, a_t) = p_\pi(\tau \vert s_t, a_t) = \prod_{t'=t+1}^T \pi(a_t \vert s_t) \prod_{t'=t}^T P(s_{t+1} \vert s_t, a_t) \\
 \end{align}
 $$
 
