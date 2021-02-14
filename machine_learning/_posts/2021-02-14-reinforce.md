@@ -33,12 +33,14 @@ R_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + ... + {\gamma^{T-t}}
 \end{equation}
 $$
 
-The agent needs to learn a policy that maximizes the agent objective $$J_\pi$$ defined by:
+The agent needs to learn a policy that maximizes the agent objective $$J_\pi$$:
 
 $$
-\begin{equation} \label{eq:objective}
-J_\pi = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
-\end{equation}
+\begin{align}
+J_\pi & = \mathbb{E}_{\tau \sim \pi}[R(\tau)] & (definition \, of J_\pi)\\
+ & = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)] & (expand\, R(\tau))\\
+& = \sum_{t=0}^{T} \int_{\tau_{\le a_t} = s_0, a_0, ... , a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \hspace{1cm} & (as \, shown \, previously) \\
+\end{align}
 $$
 
 We assume that the number of steps $$T$$, the state space $$\mathcal{S}$$ and action space $$\mathcal{A}$$ are finite. (See [here](https://datascience.stackexchange.com/questions/25209/why-are-policy-gradient-methods-preferred-over-value-function-approximation-in-c/25212#25212) how the same can be done for a continuous action space $$\mathcal{A}$$.)
