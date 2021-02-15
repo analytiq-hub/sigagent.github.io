@@ -73,7 +73,7 @@ The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random
 
 4: Policy Improvement:  
 &nbsp;&nbsp;&nbsp;&nbsp; 5: For each state $$s$$, compute $$Q_\pi(s, a)$$ from $$V_\pi(s)$$ using the Bellman equation
-&nbsp;&nbsp;&nbsp;&nbsp; 6: For each state $$s$$, set $$\pi(s) = \underset{argmax}{a} Q_\pi(s, a)$$  
+&nbsp;&nbsp;&nbsp;&nbsp; 6: For each state $$s$$, set $$\pi(s) = \underset{a}{argmax} \, Q_\pi(s, a)$$  
 &nbsp;&nbsp;&nbsp;&nbsp; 7: If at least one action changed, go back to 2
 &nbsp;&nbsp;&nbsp;&nbsp; 8: Else, stop. $$\pi$$ is the optimal policy.
 
