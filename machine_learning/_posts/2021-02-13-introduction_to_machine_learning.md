@@ -313,6 +313,7 @@ $$
 
 The equations (\ref{eq:v_bellman}), (\ref{eq:q_bellman}) are the Bellman equations for $$J_\pi$$ and $$Q_\pi(s, a)$$. Plugging back into the equation for $$V_\pi(s)$$ we get
 
+$$
 \begin{align} 
 V_\pi(s) & = \int_a Q_\pi(s, a) da & \\
 & = \int_a \{ r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'da'\}da & (expand \, Q_\pi(s, a))\\
