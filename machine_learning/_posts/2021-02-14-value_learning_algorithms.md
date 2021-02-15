@@ -19,7 +19,7 @@ This post is part of a series dealing with Reinforcement Learning:
 * MIT 6.S091: [Introduction to Deep Reinforcement Learning](https://www.youtube.com/watch?v=zR11FLZ-O9M&t=2130s), Lex Fridman (2019). 
 
 ## Introduction
-The set of states $$\mathcal{S}$$  and actions $$\mathcal{A}$$ are assumed to be finite.
+The sets of states $$\mathcal{S}$$  and actions $$\mathcal{A}$$ are assumed to be finite.
 
 The idea in value learning algorithms is to maximize the action-value function $$Q_\pi(s, a)$$, and to pick policies $$s \rightarrow \pi(a \vert s)$$ which maximize $$Q_\pi(s, a)$$. This can be accomplished when, for example, in state $$s$$ we pick $$\underset{a}{argmax} Q_\pi(s, a)$$, which is the action $$a$$ that maximizes $$Q_\pi(s, a)$$.
 
@@ -35,7 +35,7 @@ $$
 
 Suppose the policy $$\pi$$ is optimal. Then $$V_\pi(s)$$ is maximal for each state $$s$$. Also, each state $$s$$ picks an action $$a$$ such that $$Q_\pi(s, a)$$ is maximal. The policy will be $$\pi(a \vert s)=1$$, for the action $$a$$, and $$\pi(a' \vert s)=0$$ for all other actions $$a' \neq a$$.
 
-We denote $$V_\star(s)=V_\pi(s)$$ and $$Q_\star(s, a)=Q_\pi(s, a)$$ for this optimal policy $$\pi$$. The optimal policy satisfies $$V_\star(s) = \underset{a}{max}Q_\star(s, a)$$. The Bellman equations give us:
+We denote $$V_\star(s)=V_\pi(s)$$ and $$Q_\star(s, a)=Q_\pi(s, a)$$ for this optimal policy $$\pi$$. The optimal policy satisfies $$V_\star(s) = \underset{a}{max} \, Q_\star(s, a)$$. The Bellman equations give us:
 
 $$
 \begin{align}
@@ -44,7 +44,7 @@ Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, \underset{a'}{m
 \end{align}
 $$
 
-These are called the Bellman optimality equations. The integrals $$\int$$ in fact sums $$\sum$$ given that the number of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$ is finite.
+These are called the Bellman optimality equations. The integrals $$\int$$ are in fact sums $$\sum$$ given that the sets of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$ is finite.
 
 ## Solving the optimal policy using linear equations
 
@@ -52,9 +52,9 @@ When the number of states $$\mathcal{S}$$ is very small, it becomes practical to
 
 However, this solution is not practical when the number of states is larger.
 
-## Q-Learning Algorithm
+## Temporal-Difference Learning
 
-If the number of states and actions is small, we can build an action table
+If the number of states and actions is still relatively small, rather than solve the Bellman optimality equations for $$V_\star(s)$$, we can approximate action-value functions $$Q_\pi(s, a)$$ that converge to a solution of the Bellman optimality equations for $$Q_\star(s, a)$$ . We build an action table
 
 |       |    $$a_0$$    |    $$a_1$$    | ... |     $$a_{n-1}$$     |
 |:-----:|:-------------:|:-------------:|:---:|:-------------------:|
