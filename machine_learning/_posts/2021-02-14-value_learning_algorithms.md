@@ -35,13 +35,17 @@ Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'd
 \end{align}
 $$
 
-Suppose the policy $$\pi$$ is optimal. Then each state $$s$$ picks an action $$a$$ such that $$Q_\pi(s, a)$$ is maximal. The policy will be $$\pi(a \vert s)=1$$, for the action $$a$$, and $$\pi(a' \vert s)=0$$ for all other actions $$a' \neq a$$. We denote $$Q_\star(s, a)=Q_\pi(s, a)$$ for this optimal policy $$\pi$$. Then the Bellman equation gives us an optimality criterion:
+Suppose the policy $$\pi$$ is optimal. Then $$V_\pi(s)$$ is maximal for each state $$s$$. Also, each state $$s$$ picks an action $$a$$ such that $$Q_\pi(s, a)$$ is maximal. The policy will be $$\pi(a \vert s)=1$$, for the action $$a$$, and $$\pi(a' \vert s)=0$$ for all other actions $$a' \neq a$$.
+
+We denote $$V_\star(s)=V_\pi(s)$$ and $$Q_\star(s, a)=Q_\pi(s, a)$$ for this optimal policy $$\pi$$. Then the Bellman equations gives us the following:
 
 $$
-\begin{align} \label{eq:qbellmanmax}
+\begin{align}
 Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, \underset{a'}{max} Q_\star(s',a') ds' \\
 \end{align}
 $$
+
+These are called the Bellman optimality equations.
 
 ## Q-Learning Algorithm
 
