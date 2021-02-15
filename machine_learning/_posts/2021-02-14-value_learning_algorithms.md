@@ -56,7 +56,7 @@ However, this solution is not practical when the number of states is larger.
 
 In this method, we build a value table
 
-|       |        |  
+|       | Value Function |  
 |:-----:|:-------------:|
 |$$s_0$$|$$V_\pi(s_0)$$|
 |$$s_1$$|$$V_\pi(s_1)$$|
