@@ -325,7 +325,7 @@ $$
 This gives us the Bellman equation for $$V_\pi(s)$$:
 $$
 \begin{align} \label{eq:v_bellman}
-V_\pi(s) = \int_a \{ r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'\}da \\
+V_\pi(s) = \int_a \{ r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'\} da \\
 \end{align}
 $$
 
