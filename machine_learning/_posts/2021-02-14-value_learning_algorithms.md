@@ -48,7 +48,7 @@ These are called the Bellman optimality equations. The integrals $$\int$$ are in
 
 ## Solving the optimal policy using linear equations
 
-When the number of states $$\mathcal{S}$$ is very small, it becomes practical to solve the system of equations given by the Bellman optimality criterion for $$V_\star(s)$$. Once $$V_\star(s)$$ is found, $$Q_\star(s, a)$$ can be computed, and the optimal action $$a$$ in state $$s$$ is given by $$\underset{a}{argmax}Q_\star(s, a)$$.
+When the number of states $$\mathcal{S}$$ is very small, it becomes practical to solve the system of equations given by the Bellman optimality criterion for $$V_\star(s)$$. Once $$V_\star(s)$$ is found, $$Q_\star(s, a)$$ can be computed, and the optimal action $$a$$ in state $$s$$ is given by $$\underset{a}{argmax} \, Q_\star(s, a)$$.
 
 However, this solution is not practical when the number of states is larger.
 
