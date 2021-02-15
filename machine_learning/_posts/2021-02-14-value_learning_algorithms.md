@@ -34,7 +34,9 @@ If the number of states and actions is small, we can build an action table
 |$$s_0$$|$$Q(s_0, a_0)$$|$$Q(s_0, a_1)$$|     |$$Q(s_0, a_{n-1})$$  |
 |$$s_1$$|$$Q(s_1, a_0)$$|$$Q(s_1, a_1)$$|     |$$Q(s_1, a_{n-1})$$  |
 |...    |...            |...            |     |...                  |
-|$$s_{m-1}$$|$$Q(s_{m-1}, a_0)$$|$$Q(s_{m-1}, a_1)$$||$$Q(s_{m-1}, a_{n-1})$$  |
+|$$s_{m-1}$$|$$Q(s_{m-1}, a_0)$$|$$Q(s_{m-1}, a_1)$$||$$Q(s_{m-1}, a_{n-1})$$|
+
+The initial entries are randomly initialized.
 
 ## Recycled
 
