@@ -23,12 +23,22 @@ This post is part of a series dealing with Reinforcement Learning:
 Most books available at [https://b-ok.cc](https://b-ok.cc).
 
 ## Introduction
+The set of states $$\mathcal{S}$$  and actions $$\mathcal{A}$$ are assumed to be finite.
+
 The idea in value learning algorithms is to maximize the action-value function $$Q_\pi(s, a)$$, and to pick policies $$s \rightarrow \pi(a \vert s)$$ which maximize $$Q_\pi(s, a)$$. This can be accomplished when, for example, in state $$s$$ we pick $$\underset{a}{argmax} Q_\pi(s, a)$$, which is the action $$a$$ that maximizes $$Q_\pi(s, a)$$.
 
 We will make use of the Bellman equation
 $$
 \begin{align} \label{eq:q_bellman}
 Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'da' \\
+\end{align}
+$$
+
+Suppose the policy $$\pi$$ is optimal. Then each state $$s$$ picks an action $$a$$ such that $$Q_\pi(s, a)$$ is maximal. The policy will be $$\pi(a \vert s)=1$$, for the action $$a$$, and $$\pi(a' \vert s)=0$$ for all other actions $$a' \neq a$$. We denote $$Q_\star(s, a)=Q_\pi(s, a)$$ for this optimal policy $$\pi$$. Then the Bellman equation gives us an optimality criterion:
+
+$$
+\begin{align} \label{eq:qbellmanmax}
+Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, \underset{a'}{max} Q_\star(s',a') ds' \\
 \end{align}
 $$
 
