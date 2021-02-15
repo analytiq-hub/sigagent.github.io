@@ -68,12 +68,15 @@ and continuously update it (along with the policy $$\pi$$ that it implies) until
 The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two steps:
 
 1: Policy Evaluation:  
-&nbsp;&nbsp;&nbsp;&nbsp; 2: For each state $$s$$, replace $$V(s)$$ with $$r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, and denote the $$\delta_s$$ the change in $$V_\pi(s)$$  
-&nbsp;&nbsp;&nbsp;&nbsp; 3: Repeat 2 until $$\delta_s \lt \delta $$ for all $$s$$. Update the value table with the new $$V_\pi(s)$$  
+&nbsp;&nbsp;&nbsp;&nbsp; 2: For each state $$s$$, replace $$V_\pi(s)$$ with $$r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, and denote the $$\delta_s$$ the change in $$V_\pi(s)$$  
+&nbsp;&nbsp;&nbsp;&nbsp; 3: Repeat 2 until $$\delta_s \lt \delta $$ for all $$s$$.
 
 4: Policy Improvement:  
-&nbsp;&nbsp;&nbsp;&nbsp; 5: For each state $$s$$, compute $$Q_\pi(s, a)$$ from $$V_\pi(s)$$, and set $$\pi(s) = \underset{argmax}{a} Q_\pi(s, a)$$  
-&nbsp;&nbsp;&nbsp;&nbsp; 6: If at least one action changed, go back to 2  
+&nbsp;&nbsp;&nbsp;&nbsp; 5: For each state $$s$$, compute $$Q_\pi(s, a)$$ from $$V_\pi(s)$$ using the Bellman equation
+&nbsp;&nbsp;&nbsp;&nbsp; 6: For each state $$s$$, set $$\pi(s) = \underset{argmax}{a} Q_\pi(s, a)$$  
+&nbsp;&nbsp;&nbsp;&nbsp; 7: If at least one action changed, go back to 2
+&nbsp;&nbsp;&nbsp;&nbsp; 8: Else, stop. $$\pi$$ is the optimal policy.
+
 
 Once the policy $$\pi$$ computed by the algorithm is stable, $$\pi$$ is the optimal policy. The disadvantage of this method is that all state values need to be computed with each improvement of the policy $$\pi$$.
 
