@@ -56,7 +56,7 @@ However, this solution is not practical when the number of states is larger.
 
 In this method, we build a value table
 
-|       |    $$a_0$$    |  
+|       |        |  
 |:-----:|:-------------:|
 |$$s_0$$|$$V_\pi(s_0)$$|
 |$$s_1$$|$$V_\pi(s_1)$$|
@@ -67,7 +67,7 @@ The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random
 
 1: Policy Evaluation:
 &nbsp;&nbsp;&nbsp;&nbsp; 2: For each state $$s$$, replace $$V(s)$$ with $$r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, and denote the $$\delta_s$$ the change in $$V_\pi(s)$$
-&nbsp;&nbsp;&nbsp;&nbsp; 3: Repeat 2 until $$\delta_s \lt \delta $$ for all $$s$$
+&nbsp;&nbsp;&nbsp;&nbsp; 3: Repeat 2 until $$\delta_s \lt \delta $$ for all $$s$$. Update the value table with the new $$V_\pi(s)$$
 
 4: Policy Improvement:
 &nbsp;&nbsp;&nbsp;&nbsp; 5: For each state $$s$$, compute $$Q_\pi(s, a)$$ from $$V_\pi(s)$$, and set $$\pi(s) = \underset{argmax}{a} Q_\pi(s, a)$$
