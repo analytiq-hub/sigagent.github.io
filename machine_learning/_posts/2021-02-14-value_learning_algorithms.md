@@ -63,7 +63,7 @@ If the number of states and actions is still relatively small, rather than solve
 |...    |...            |...            |     |...                  |
 |$$s_{m-1}$$|$$Q_\pi(s_{m-1}, a_0)$$|$$Q_\pi(s_{m-1}, a_1)$$||$$Q_\pi(s_{m-1}, a_{n-1})$$|
 
-The initial entries are randomly initialized with numbers $$Q_\pi(s, a)$$. We denote
+The initial entries are randomly initialized with numbers $$Q_\pi(s, a)$$. We pick a learning rate $$\alpha$$. We iterate over a number of episodes $$MAX\_EPISODES$$, and, within each episode, over a maximum number of steps $$T$$. At step $$t \le T$$ we denote $$G(s_t, a_t)$$ the actual return received from the point of taking action $$a_t$$ until the end of the episode.
 
 TO DO
 $$
