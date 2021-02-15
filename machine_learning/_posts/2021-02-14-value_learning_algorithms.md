@@ -31,6 +31,8 @@ Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'd
 \end{align}
 $$
 
+## Bellman Optimality Equations
+
 Suppose the policy $$\pi$$ is optimal. Then $$V_\pi(s)$$ is maximal for each state $$s$$. Also, each state $$s$$ picks an action $$a$$ such that $$Q_\pi(s, a)$$ is maximal. The policy will be $$\pi(a \vert s)=1$$, for the action $$a$$, and $$\pi(a' \vert s)=0$$ for all other actions $$a' \neq a$$.
 
 We denote $$V_\star(s)=V_\pi(s)$$ and $$Q_\star(s, a)=Q_\pi(s, a)$$ for this optimal policy $$\pi$$. The optimal policy satisfies $$V_\star(s) = \underset{a}{max}Q_\star(s, a)$$. The Bellman equations gives us the following:
@@ -42,7 +44,13 @@ Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, \underset{a'}{m
 \end{align}
 $$
 
-These are called the Bellman optimality equations. 
+These are called the Bellman optimality equations. The integrals $$\int$$ in fact sums $$\sum$$ given that the number of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$ is finite.
+
+## Solving the optimal policy using linear equations
+
+When the number of states $$\mathcal{S}$$ is very small, it becomes practical to solve the system of equations given by the Bellman optimality criterion for $$V_\star(s)$$. Once $$V_\star(s)$$ is found, $$Q_\star(s, a)$$ can be computed, and the optimal action $$a$$ in state $$s$$ is given by $$\underset{a}{argmax}Q_\star(s, a)$$.
+
+However, this solution is not practical when the number of states is larger.
 
 ## Q-Learning Algorithm
 
