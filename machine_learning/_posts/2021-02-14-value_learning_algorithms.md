@@ -54,7 +54,7 @@ However, this solution is not practical when the number of states is larger.
 
 ## Temporal-Difference Learning
 
-If the number of states and actions is still relatively small, rather than solve the Bellman optimality equations for $$V_\star(s)$$, we can approximate action-value functions $$Q_\pi(s, a)$$ that converge to a solution of the Bellman optimality equations for $$Q_\star(s, a)$$ . We build an action table
+If the number of states and actions is still relatively small, rather than solve the Bellman optimality equations for $$V_\star(s)$$, we can approximate action-value functions $$Q_\pi(s, a)$$ that converge to a solution of the Bellman optimality equations for $$Q_\star(s, a)$$ . We build an action-value table
 
 |       |    $$a_0$$    |    $$a_1$$    | ... |     $$a_{n-1}$$     |
 |:-----:|:-------------:|:-------------:|:---:|:-------------------:|
@@ -64,6 +64,13 @@ If the number of states and actions is still relatively small, rather than solve
 |$$s_{m-1}$$|$$Q_\pi(s_{m-1}, a_0)$$|$$Q_\pi(s_{m-1}, a_1)$$||$$Q_\pi(s_{m-1}, a_{n-1})$$|
 
 The initial entries are randomly initialized with numbers $$Q_\pi(s, a)$$. We pick a learning rate $$\alpha$$. We iterate over a number of episodes $$MAX\_EPISODES$$, and, within each episode, over a maximum number of steps $$T$$. At step $$t \le T$$ we denote $$G(s_t, a_t)$$ the actual return received from the point of taking action $$a_t$$ until the end of the episode.
+
+We then update the action-value table with the rule
+$$
+\begin{align}
+Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G(s_t, a_t) - Q_\pi(s_t, a_t)) \\
+\end{align}
+$$
 
 TO DO
 $$
