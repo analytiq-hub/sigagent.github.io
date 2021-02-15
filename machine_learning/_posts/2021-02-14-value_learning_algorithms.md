@@ -52,7 +52,7 @@ When the number of states $$\mathcal{S}$$ is very small, it becomes practical to
 
 However, this solution is not practical when the number of states is larger.
 
-## Temporal-Difference Learning
+## Temporal-Difference Learning (TD)
 
 If the number of states and actions is still relatively small, rather than solve the Bellman optimality equations for $$V_\star(s)$$, we can approximate action-value functions $$Q_\pi(s, a)$$ that converge to a solution of the Bellman optimality equations for $$Q_\star(s, a)$$ . We build an action-value table
 
@@ -72,7 +72,19 @@ Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G(s_t, a_t) - Q_\pi(s_t, a_
 \end{align}
 $$
 
-TO DO
+After repeatedly applying this rule, the action-value table will converge to the optimal action-value function $$Q_\star(s, a)$$. This is the Temporal-Difference Learning algorithm (TD).
+
+The update function $$G(s_t, a_t)$$ can also be defined as the actual return after a single step
+$$
+\begin{align}
+G(s_t, a_t) = r(s_t, a_t) + \gamma Q_\pi(s_{t+1}, a_{t+1})
+\end{align}
+$$
+
+This formulation that updates the action-value table after a single step is called TD(0). Another variant is to choose $$G_{s_t, a_t)} using TD0 combined with an $$\eps$$-greedy random choice for the action $$a_{t+1}$$. This randomization ensures that optimal values may not be overlooked.
+
+## TO DO: continue
+
 $$
 \begin{align}
 G_\star(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, \underset{a'}{max} Q_\star(s',a') ds' \\
