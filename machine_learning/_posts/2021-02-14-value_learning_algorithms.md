@@ -52,7 +52,43 @@ When the number of states $$\mathcal{S}$$ is very small, it becomes practical to
 
 However, this solution is not practical when the number of states is larger.
 
-## Temporal-Difference Learning (TD)
+## Dynamic Programming
+
+In this method, we build a value table
+
+|       |    $$a_0$$    |  
+|:-----:|:-------------:|
+|$$s_0$$|$$V_\pi(s_0)$$|
+|$$s_1$$|$$V_\pi(s_1)$$|
+|...    |...            |
+|$$s_{m-1}$$|$$V_\pi(s_{m-1}$$|
+
+The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two steps:
+
+1: Policy Evaluation:
+&nbsp;&nbsp;&nbsp;&nbsp; 2: For each state $$s$$, replace $$V(s)$$ with $$r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, and denote the $$\delta_s$$ the change in $$V_\pi(s)$$
+&nbsp;&nbsp;&nbsp;&nbsp; 3: Repeat 2 until $$\delta_s \lt \delta $$ for all $$s$$
+
+4: Policy Improvement:
+&nbsp;&nbsp;&nbsp;&nbsp; 5: For each state $$s$$, compute $$Q_\pi(s, a)$$ from $$V_\pi(s)$$, and set $$\pi(s) = \underset{argmax}{a} Q_\pi(s, a)$$
+&nbsp;&nbsp;&nbsp;&nbsp; 6: If at least one action changed, go back to 2
+
+Once the policy $$\pi$$ computed by the algorithm is stable, $$\pi$$ is the optimal policy. The disadvantage of this method is that all state values need to be computed with each improvement of the policy $$\pi$$.
+
+## Tabular Method (TD0)
+
+In this method, we build a value table
+
+|       |    $$a_0$$    |  
+|:-----:|:-------------:|
+|$$s_0$$|$$V_\pi(s_0)$$|
+|$$s_1$$|$$V_\pi(s_1)$$|
+|...    |...            |
+|$$s_{m-1}$$|$$V_\pi(s_{m-1}$$|
+
+The initial entries are randomly initialized with numbers $$V_\pi(s)$$.
+
+## Q-Learning and SARSA
 
 If the number of states and actions is still relatively small, rather than solve the Bellman optimality equations for $$V_\star(s)$$, we can approximate action-value functions $$Q_\pi(s, a)$$ that converge to a solution of the Bellman optimality equations for $$Q_\star(s, a)$$ . We build an action-value table
 
@@ -63,14 +99,24 @@ If the number of states and actions is still relatively small, rather than solve
 |...    |...            |...            |     |...                  |
 |$$s_{m-1}$$|$$Q_\pi(s_{m-1}, a_0)$$|$$Q_\pi(s_{m-1}, a_1)$$||$$Q_\pi(s_{m-1}, a_{n-1})$$|
 
-The initial entries are randomly initialized with numbers $$Q_\pi(s, a)$$. We pick a learning rate $$\alpha$$. We iterate over a number of episodes $$MAX\_EPISODES$$, and, within each episode, over a maximum number of steps $$T$$. At step $$t \le T$$ we denote $$G(s_t, a_t)$$ the actual return received from the point of taking action $$a_t$$ until the end of the episode.
+The initial entries are randomly initialized with numbers $$Q_\pi(s, a)$$. We pick a learning rate $$\alpha$$. We iterate over a number of episodes $$MAX\_EPISODES$$, and, within each episode, build a trajectory
 
-We then update the action-value table with the rule
+$$
+\begin{equation}
+\tau = (s_0, a_0, s_{1}, a_{1}, ... , s_T, a_T)
+\end{equation}
+$$
+
+updating the policy $$\pi$$ as we go along. The initial state $$s_0$$ is picked according to the distribution $$d(s_0)$$. At step $$0 \le t \le T$$, in state $$$s_t$$, we pick an action $$a_t$$ and pick a retun $$G(s_t, a_t)$$ that is more optimal than $$Q_\pi(s_t, a_t)$$. Depending on the choice of $$a_t$$ and $$G(s_t, a_t)$$, we get different algorithms, but in all cases the action-value table with the rule
 $$
 \begin{align}
 Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G(s_t, a_t) - Q_\pi(s_t, a_t)) \\
 \end{align}
 $$
+
+
+the actual return received from the point of taking action $$a_t$$ until the end of the episode.
+
 
 After repeatedly applying this rule, the action-value table will converge to the optimal action-value function $$Q_\star(s, a)$$. This is the Temporal-Difference Learning algorithm (TD).
 
