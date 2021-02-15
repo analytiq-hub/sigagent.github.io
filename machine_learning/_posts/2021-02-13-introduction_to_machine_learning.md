@@ -6,7 +6,13 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-Sources:
+This post is part of a series dealing with Reinforcement Learning:
+This post is part of a series dealing with Reinforcement Learning:
+- [Introduction to Reinforcement Learning](https://bitdribble.github.io/machine_learning/2021/02/13/introduction_to_machine_learning/)
+- [RL: Value Learning Algorithms](https://bitdribble.github.io/machine_learning/2021/02/14/value_learning_algorithms/)
+- [RL: The REINFORCE Algorithm](https://bitdribble.github.io/machine_learning/2021/02/14/reinforce/)
+
+## Sources
 * [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), L. Graesser and W. L. Keng (2019). Theory and examples, with implementations using [OpenAI Gym](https://gym.openai.com/), pytorch, tensorflow, and [SLM Lab](https://github.com/andrei-radulescu-banu/SLM-Lab)
   * To run code: `docker run -it --name ubuntu_16_04 ubuntu:16.04` then follow install instructions [here](https://github.com/andrei-radulescu-banu/SLM-Lab).
 * [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf), Sutton and Barto (2nd edition, 2018). Clear presentation, builds up from simple example. Authors are major contributors in the field. David Silver (AlphaZero architect) says he read their 1st edition as a first step to learn about RL.

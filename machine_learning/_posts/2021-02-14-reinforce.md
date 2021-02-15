@@ -1,14 +1,17 @@
 ---
 layout: post
 mathjax: true
-title: "The REINFORCE algorithm"
+title: "RL: The REINFORCE algorithm"
 author:
 - Andrei Radulescu-Banu
 ---
 
-Blog post series: [Introduction to Machine Learning](https://bitdribble.github.io/machine_learning/2021/02/13/introduction_to_machine_learning)
+This post is part of a series on Reinforcement Learning:
+- [Introduction to Reinforcement Learning](https://bitdribble.github.io/machine_learning/2021/02/13/introduction_to_machine_learning/)
+- [RL: Value Learning Algorithms](https://bitdribble.github.io/machine_learning/2021/02/14/value_learning_algorithms/)
+- [RL: The REINFORCE Algorithm](https://bitdribble.github.io/machine_learning/2021/02/14/reinforce/)
 
-Sources:
+## Sources
 * [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), L. Graesser and W. L. Keng (2019). Theory and examples, with implementations using [OpenAI Gym](https://gym.openai.com/), pytorch, tensorflow, and [SLM Lab](https://github.com/andrei-radulescu-banu/SLM-Lab)
 * [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf), R. Sutton et. al. (1999)
 * MIT 6.5191: [Deep Reinforcement Learning](https://www.youtube.com/watch?v=i6Mi2_QM3rA), Alexander Amini (2020). High level, very clear presentation. Deep Q-Learning (DQN), Policy Gradient (PG), AlphaGo & AlphaZero
@@ -17,7 +20,7 @@ Sources:
 * [Deriving Policy Gradients and Implementing REINFORCE](https://medium.com/@thechrisyoon/deriving-policy-gradients-and-implementing-reinforce-f887949bd63), C. Yoon (2018)
 * [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html), L. Weng (2018)
 
-## Prerequisites
+## Introduction
 
 In the REINFORCE algorithm, a policy $$\pi$$ is lerned that maximizes the agent objective $$J_\pi$$. Some prerequisites from [Introduction to Machine Learning](2021-02-13-introduction_to_machine_learning.md):
 
