@@ -29,9 +29,9 @@ The idea in value learning algorithms is to maximize the action-value function $
 
 If the number of states and actions is small, we can build an action table
 
-|     |     $$a_0$$    |     a_1    |     ...    |     a_{n-1}   |
-------|-------------------------------------------------------
-| s_0 | Q(s_0, a_0)|Q(s_1, a_1)
+|       |    $$a_0$$    |    $$a_1$$    | ... |     $$a_{n-1}$$     |
+-:-----:|:-------------:|:-------------:|:---:|:-------------------:|
+|$$s_0$$|$$Q(s_0, a_0)$$|$$Q(s_0, a_1)$$|     |$$Q(s_0, a_{n-1})$$  |
 
 ## Recycled
 
