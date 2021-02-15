@@ -65,7 +65,7 @@ In this method, we build a value table
 
 and continuously update it (along with the policy $$\pi$$ that it implies) until the policy stops changing.
 
-The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two phases:
+The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two stages:
 
 1: Policy Evaluation:  
 &nbsp;&nbsp;&nbsp;&nbsp; 2: For each state $$s$$, replace $$V_\pi(s)$$ with $$r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, and denote the $$\delta_s$$ the change in $$V_\pi(s)$$  
