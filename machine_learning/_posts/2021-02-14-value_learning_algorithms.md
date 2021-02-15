@@ -40,7 +40,7 @@ We denote $$V_\star(s)=V_\pi(s)$$ and $$Q_\star(s, a)=Q_\pi(s, a)$$ for this opt
 $$
 \begin{align}
 V_\star(s) & = \underset{a}{max} \{ r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\star(s') ds'\} \\
-Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, \underset{a'}{max} Q_\star(s',a') ds' \\
+Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, \underset{a'}{max} \, Q_\star(s',a') ds' \\
 \end{align}
 $$
 
