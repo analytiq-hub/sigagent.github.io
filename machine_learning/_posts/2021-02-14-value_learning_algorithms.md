@@ -63,6 +63,8 @@ In this method, we build a value table
 |...    |...            |
 |$$s_{m-1}$$|$$V_\pi(s_{m-1}$$|
 
+and continuously update it (along with the policy $$\pi$$ that it implies) until the policy stops changing.
+
 The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two steps:
 
 1: Policy Evaluation: 
