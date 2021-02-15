@@ -25,6 +25,13 @@ Most books available at [https://b-ok.cc](https://b-ok.cc).
 ## Introduction
 The idea in value learning algorithms is to maximize the action-value function $$Q_\pi(s, a)$$, and to pick policies $$s \rightarrow \pi(a \vert s)$$ which maximize $$Q_\pi(s, a)$$. This can be accomplished when, for example, in state $$s$$ we pick $$\underset{a}{argmax} Q_\pi(s, a)$$, which is the action $$a$$ that maximizes $$Q_\pi(s, a)$$.
 
+We will make use of the Bellman equation
+$$
+\begin{align} \label{eq:q_bellman}
+Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'da' \\
+\end{align}
+$$
+
 ## Q-Learning Algorithm
 
 If the number of states and actions is small, we can build an action table
@@ -36,7 +43,7 @@ If the number of states and actions is small, we can build an action table
 |...    |...            |...            |     |...                  |
 |$$s_{m-1}$$|$$Q(s_{m-1}, a_0)$$|$$Q(s_{m-1}, a_1)$$||$$Q(s_{m-1}, a_{n-1})$$|
 
-The initial entries are randomly initialized.
+The initial entries are randomly initialized with numbers $$Q(s, a)$$. The algorithm will keep picking random states $$s$$, and estimate
 
 ## Recycled
 
