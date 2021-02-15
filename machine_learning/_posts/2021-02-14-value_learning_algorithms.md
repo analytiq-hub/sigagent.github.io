@@ -63,7 +63,20 @@ If the number of states and actions is still relatively small, rather than solve
 |...    |...            |...            |     |...                  |
 |$$s_{m-1}$$|$$Q_\pi(s_{m-1}, a_0)$$|$$Q_\pi(s_{m-1}, a_1)$$||$$Q_\pi(s_{m-1}, a_{n-1})$$|
 
-The initial entries are randomly initialized with numbers $$Q(s, a)$$. The algorithm will keep picking random states $$s$$, and estimate
+The initial entries are randomly initialized with numbers $$Q_\pi(s, a)$$. We denote
+
+TO DO
+$$
+\begin{align}
+G_\star(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, \underset{a'}{max} Q_\star(s',a') ds' \\
+\end{align}
+$$
+
+## Q-Learning
+
+## SARSA
+
+## DQN
 
 ## Recycled
 
