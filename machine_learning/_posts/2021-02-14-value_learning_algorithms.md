@@ -25,6 +25,14 @@ Most books available at [https://b-ok.cc](https://b-ok.cc).
 ## Introduction
 The idea in value learning algorithms is to maximize the action-value function $$Q_\pi(s, a)$$, and to pick policies $$s \rightarrow \pi(a \vert s)$$ which maximize $$Q_\pi(s, a)$$. This can be accomplished when, for example, in state $$s$$ we pick $$\underset{a}{argmax} Q_\pi(s, a)$$, which is the action $$a$$ that maximizes $$Q_\pi(s, a)$$.
 
+## Q-Learning Algorithm
+
+If the number of states and actions is small, we can build an action table
+
+|     |     a_0    |     a_1    |     ...    |     a_{n-1}   |
+------|-------------------------------------------------------
+| s_0 | Q(s_0, a_0)|Q(s_1, a_1)
+
 ## Recycled
 
 
