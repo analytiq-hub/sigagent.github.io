@@ -75,10 +75,10 @@ The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random
 &nbsp;&nbsp;&nbsp;&nbsp; 5: For each state $$s$$, compute $$Q_\pi(s, a)$$ from $$V_\pi(s)$$ using the Bellman equation  
 &nbsp;&nbsp;&nbsp;&nbsp; 6: For each state $$s$$, set $$\pi(s) = \underset{a}{argmax} \, Q_\pi(s, a)$$  
 &nbsp;&nbsp;&nbsp;&nbsp; 7: If at least one action changed, go back to 2  
-&nbsp;&nbsp;&nbsp;&nbsp; 8: Else, stop. $$\pi$$ is the optimal policy.  
+&nbsp;&nbsp;&nbsp;&nbsp; 8: Else, stop. The policy $$\pi$$ is optimal.  
 
 
-Once the policy $$\pi$$ computed by the algorithm is stable, $$\pi$$ is the optimal policy. The disadvantage of this method is that all state values need to be computed with each improvement of the policy $$\pi$$.
+The disadvantage of this method is that all state values need to be computed with each improvement of the policy $$\pi$$.
 
 ## Tabular Method (TD0)
 
