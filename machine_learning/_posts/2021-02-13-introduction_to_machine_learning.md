@@ -326,6 +326,7 @@ The taxonomy below is from [Foundations of Deep RL](https://www.amazon.com/Deep-
 This class of algorithms learn the action-value functions $$Q_\pi(s, a)$$. A policy $$\pi(a \vert s)$$ could be picked, for example, to  maximizes the action-value $$Q_\pi(s, a)$$ in all states $$s$$. It is less common to lear $$V_\pi(s)$$ and infer the policy $$\pi$$.
 
 Example value based algorithms:
+- Q-Learning
 - SARSA
 - Deep Q Networks (DQN)
 - Variants of DQN: Double DQN, DQN with Prioritized Experience Replay (PER)
