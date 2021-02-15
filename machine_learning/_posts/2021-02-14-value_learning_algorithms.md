@@ -65,13 +65,13 @@ In this method, we build a value table
 
 The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two steps:
 
-1: Policy Evaluation:
-&nbsp;&nbsp;&nbsp;&nbsp; 2: For each state $$s$$, replace $$V(s)$$ with $$r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, and denote the $$\delta_s$$ the change in $$V_\pi(s)$$
-&nbsp;&nbsp;&nbsp;&nbsp; 3: Repeat 2 until $$\delta_s \lt \delta $$ for all $$s$$. Update the value table with the new $$V_\pi(s)$$
+1: Policy Evaluation: 
+&nbsp;&nbsp;&nbsp;&nbsp; 2: For each state $$s$$, replace $$V(s)$$ with $$r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, and denote the $$\delta_s$$ the change in $$V_\pi(s)$$ 
+&nbsp;&nbsp;&nbsp;&nbsp; 3: Repeat 2 until $$\delta_s \lt \delta $$ for all $$s$$. Update the value table with the new $$V_\pi(s)$$ 
 
-4: Policy Improvement:
-&nbsp;&nbsp;&nbsp;&nbsp; 5: For each state $$s$$, compute $$Q_\pi(s, a)$$ from $$V_\pi(s)$$, and set $$\pi(s) = \underset{argmax}{a} Q_\pi(s, a)$$
-&nbsp;&nbsp;&nbsp;&nbsp; 6: If at least one action changed, go back to 2
+4: Policy Improvement: 
+&nbsp;&nbsp;&nbsp;&nbsp; 5: For each state $$s$$, compute $$Q_\pi(s, a)$$ from $$V_\pi(s)$$, and set $$\pi(s) = \underset{argmax}{a} Q_\pi(s, a)$$ 
+&nbsp;&nbsp;&nbsp;&nbsp; 6: If at least one action changed, go back to 2 
 
 Once the policy $$\pi$$ computed by the algorithm is stable, $$\pi$$ is the optimal policy. The disadvantage of this method is that all state values need to be computed with each improvement of the policy $$\pi$$.
 
