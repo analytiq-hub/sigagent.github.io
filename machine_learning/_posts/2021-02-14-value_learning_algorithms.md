@@ -81,7 +81,7 @@ G(s_t, a_t) = r(s_t, a_t) + \gamma Q_\pi(s_{t+1}, a_{t+1})
 \end{align}
 $$
 
-This formulation that updates the action-value table after a single step is called TD(0). Another variant is to choose $$G_{s_t, a_t)} using TD0 combined with an $$\eps$$-greedy random choice for the action $$a_{t+1}$$. This randomization ensures that optimal values may not be overlooked.
+This formulation that updates the action-value table after a single step is called TD(0). Another variant is to choose $$G_{s_t, a_t)}$$ using TD0 combined with an $$\eps$$-greedy random choice for the action $$a_{t+1}$$. This randomization ensures that optimal values may not be overlooked.
 
 ## TO DO: continue
 
