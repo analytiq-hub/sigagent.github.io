@@ -38,9 +38,10 @@ If $$\epsilon \in [0, 1]$$ is a number, and $$\pi$$ is a policy, the $$\epsilon$
 We will use of the Bellman equations for $$V_\pi(s)$$ and $$Q_\pi(s, a)$$:
 $$
 \begin{align}
-V_\pi(s) & = \int_a \{ r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'\} da \\
+V_\pi(s) & = \int_a \{ Q_\pi(s, a) da \\
+ & = \int_a \{ r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'\} da \\
 Q_\pi(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds' \\
-Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'da' \\
+ & = r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'da' \\
 \end{align}
 $$
 
