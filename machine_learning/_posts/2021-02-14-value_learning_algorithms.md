@@ -86,12 +86,15 @@ This is a family of algorithms: TD0, TD(n), TD($$\lambda$$). For Temporal Differ
 
 We pick a weight factor $$0 \lt \alpha \le 1$$ and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$V_\pi(s_t)$$ at each step with a value $$G_{\tau, \pi}(s_t)$$, and replacing $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$.
 
-For the TD0 algorithm, $$G_{\tau, \pi}(s_t) = r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$. The algorithm is:
+For the TD0 algorithm, $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$. The algorithm is:
 
-1: Initialize all $$V_\pi(s)$$ to random values  
-2: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
-&nbsp;&nbsp;&nbsp;&nbsp; 3: Pick a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$  
-&nbsp;&nbsp;&nbsp;&nbsp; 4: For each $$0 \le t \lt T$$, set $$V_\pi(s_t) = V_\pi(s_t) + \alpha [r(s_t, a_t) + \gamma V_\pi(s_{t+1}) - V_\pi(s_t)]$$  
+1: Policy Evaluation:  
+&nbsp;&nbsp;&nbsp;&nbsp; 2: Initialize all $$V_\pi(s)$$ to random values  
+&nbsp;&nbsp;&nbsp;&nbsp; 3: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3: Pick a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$  
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 4: For each $$0 \le t \lt T$$, set $$V_\pi(s_t) = V_\pi(s_t) + \alpha [r(s_t, a_t) + \gamma V_\pi(s_{t+1}) - V_\pi(s_t)]$$
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 5:  Set $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$  
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 5:  Set $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$
 
 In step 4, the value $$V_\pi(s_t)$$ is updated with a weighted average between itself and the discounted value of the next step. At the end of steps 1-4, we get an estimate of $$V_\pi(s)$$ for the policy $$\pi$$, and can update $$\pi$$ using the Policy Improvement algorithm, switching back and forth between Policy Evaluation and Policy Improvement until the policy $$\pi$$ stops changing.
 
