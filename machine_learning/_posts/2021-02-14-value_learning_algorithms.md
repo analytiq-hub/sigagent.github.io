@@ -30,7 +30,7 @@ More generally, if the action-value function $$Q$$ is given, the $$Q$$-greedy po
 We denote this policy $$\pi_{greedy}(Q)$$. Formally, $$\pi_{greedy}(Q)(s) = \underset{a \in \mathcal{A}}{max} Q(s, a)$$.
 
 If $$\epsilon \in [0, 1]$$ is a number, and $$\pi$$ is a policy, the $$\epsilon$$-greedy policy $$p_\epsilon$$ picks, for all $$s \in \mathcal{S}$$,
-- action $$a$$ with probablity $$(1-\epsilon) \pi(a | s)$$
+- action $$a$$ with probablity $$(1-\epsilon) \pi(a \vert s)$$
 - a uniformly distributed random action, with probability $$\epsilon$$
 
 ## Bellman Equations
