@@ -87,6 +87,10 @@ $$
 \end{align*}
 $$
 
+<p align="center">
+<img width="250" height="250" src="/src/diagrams/eval_improvement.png">
+</p>
+
 until the policy $$\pi$$ stops changing.
 
 The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two stages:
@@ -102,13 +106,7 @@ $$~~~~~~~~$$ 7: If at least one action changed, go back to 1
 $$~~~~~~~~$$ 8: Else, stop. The policy $$\pi$$ is optimal.  
 
 
-The cycle of policy evaluations and improvements continues until the policy eventually stabilizes.
-
-<p align="center">
-<img width="250" height="250" src="/src/diagrams/eval_improvement.png">
-</p>
-
-The policy is guaranteed to eventually stabilize because the sets of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$ are finite:
+The policy $$\pi$$ is guaranteed to eventually stabilize because the sets of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$ are finite:
 
 $$
 \begin{align*}
