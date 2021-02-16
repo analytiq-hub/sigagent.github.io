@@ -68,10 +68,11 @@ and continuously update it for a given policy $$\pi$$ with $$V_\pi(s) \leftarrow
 
 The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two stages:
 
-    1: Policy Evaluation:  
-     &nbsp;&nbsp;&nbsp;&nbsp; 2: For each state $$s$$, set $$V_\pi(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, denoting the $$\delta_s$$ the change in $$V_\pi(s)$$  
-    &nbsp;&nbsp;&nbsp;&nbsp; 3: Repeat 2 until $$\vert \delta_s \vert \lt \delta $$ for all $$s$$.  
-
+<pre>
+1: Policy Evaluation:  
+&nbsp;&nbsp;&nbsp;&nbsp; 2: For each state $$s$$, set $$V_\pi(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, denoting the $$\delta_s$$ the change in $$V_\pi(s)$$  
+&nbsp;&nbsp;&nbsp;&nbsp; 3: Repeat 2 until $$\vert \delta_s \vert \lt \delta $$ for all $$s$$.
+</pre>
 
 1: Policy Evaluation:  
 &nbsp;&nbsp;&nbsp;&nbsp; 2: For each state $$s$$, set $$V_\pi(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, denoting the $$\delta_s$$ the change in $$V_\pi(s)$$  
