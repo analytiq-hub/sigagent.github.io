@@ -63,17 +63,17 @@ In this method, we assume that the model $$P(s' \vert s, a)$$ is known. We build
 |...    |...            |
 |$$s_{m-1}$$|$$V_\pi(s_{m-1})$$|
 
-and continuously update it for a given policy $$\pi$$ with $$V_\pi(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, the expected reward plus the discounted value of the next state, until $$V_\pi(s)$$ has converged. Once we have good approximations for $$V_\pi(s)$$, the Bellman equations give us action-values $$Q_\pi(s, a)$$. We then update the policy $$\pi$$, picking in state $$s$$ the action $$a$$ that maximizes $$Q_\pi(s, a)$$, and repeat the process until the policy $$\pi$$ stops changing.
+and continuously update it for a given policy $$\pi$$ with $$V_\pi(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, the expected reward plus the discounted value of the next state, until $$V_\pi(s)$$ has converged. Once we have good approximations for $$V_\pi(s)$$, the Bellman equations give us action-values $$Q_\pi(s, a)$$. We then update the policy $$\pi$$, picking in state $$s$$ the action $$a$$ that maximizes $$Q_\pi(s, a)$$, and repeat the entire process until the policy $$\pi$$ stops changing.
 
 The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two stages:
 
 1: Policy Evaluation:  
-&nbsp;&nbsp;&nbsp;&nbsp; 2: For each state $$s$$, replace $$V_\pi(s)$$ with $$r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, and denote the $$\delta_s$$ the change in $$V_\pi(s)$$  
+&nbsp;&nbsp;&nbsp;&nbsp; 2: For each state $$s$$, set $$V_\pi(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, and denote the $$\delta_s$$ the change in $$V_\pi(s)$$  
 &nbsp;&nbsp;&nbsp;&nbsp; 3: Repeat 2 until $$\delta_s \lt \delta $$ for all $$s$$.
 
 4: Policy Improvement:  
 &nbsp;&nbsp;&nbsp;&nbsp; 5: For each state $$s$$, compute $$Q_\pi(s, a)$$ from $$V_\pi(s)$$ using the Bellman equation  
-&nbsp;&nbsp;&nbsp;&nbsp; 6: For each state $$s$$, set $$\pi(s) = \underset{a}{argmax} \, Q_\pi(s, a)$$  
+&nbsp;&nbsp;&nbsp;&nbsp; 6: For each state $$s$$, set $$\pi(s) \leftarrow \underset{a}{argmax} \, Q_\pi(s, a)$$  
 &nbsp;&nbsp;&nbsp;&nbsp; 7: If at least one action changed, go back to 2  
 &nbsp;&nbsp;&nbsp;&nbsp; 8: Else, stop. The policy $$\pi$$ is optimal.  
 
