@@ -40,7 +40,7 @@ We denote $$V_\star(s)=V_\pi(s)$$ and $$Q_\star(s, a)=Q_\pi(s, a)$$ for this opt
 
 $$
 \begin{align}
-V_\star(s) & = \underset{a}{max} \{ r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\star(s') ds'\} \\
+V_\star(s) & = \underset{a \in \mathcal{A}}{max} \{ r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\star(s') ds'\} \\
 Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, \underset{a'}{max} \, Q_\star(s',a') ds' \\
 \end{align}
 $$
@@ -49,7 +49,7 @@ These are called the Bellman optimality equations. The integrals $$\int$$ are in
 
 ## Solving the optimal policy using a system of equations
 
-When the number of states $$\mathcal{S}$$ is very small, and the model $$P(s' \vert s, a)$$ is not known, it becomes practical to solve the system of equations given by the Bellman optimality equation for $$V_\star(s)$$. Once $$V_\star(s)$$ is found, $$Q_\star(s, a)$$ can be computed, and the optimal action $$a$$ in state $$s$$ is given by $$\underset{a}{argmax} \, Q_\star(s, a)$$.
+When the number of states $$\mathcal{S}$$ is very small, and the model $$P(s' \vert s, a)$$ is not known, it becomes practical to solve the system of equations given by the Bellman optimality equation for $$V_\star(s)$$. Once $$V_\star(s)$$ is found, $$Q_\star(s, a)$$ can be computed, and the optimal action $$a$$ in state $$s$$ is given by the $$Q_\star$$-greedy policy $$\pi_{greedy}(s) = \underset{a \in \mathcal{A}}{argmax} \, Q_\star(s, a)$$.
 
 This method is not practical when the number of states is larger.
 
