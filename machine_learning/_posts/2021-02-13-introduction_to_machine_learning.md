@@ -45,6 +45,8 @@ In this example, a pole is balanced on top of a cart. The environment is two-dim
 * The *action* is to move the cart a unit of distance to the left, or a unit of distance to the right
 * The *reward* is $$+1$$ for each step the pole remains upright (i.e., does not tip for more than a fixed angle)
 
+Over multiple learning episodes, the agent learns to balance the pole. This is a simple example when the neural network (NN) training does not require a GPU, and learning can be reasonably achieved within around 200 steps. The algorithm used is REINFORCE.
+
 ## Formulation of the problem
 In reinforcement learning (RL), an agent in state $$s_t$$ acts with action $$a_t$$, gets reward $$r(a_t, s_t) \in \mathbb{R}$$, and moves to state $$s_{t+1}$$. The cycle then continues, creating a feedback loop:
 
