@@ -86,7 +86,7 @@ This is a family of algorithms: TD0, TD(n), TD($$\lambda$$). For Temporal Differ
 
 We pick a weight factor $$0 \lt \alpha \le 1$$ and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$V_\pi(s_t)$$ at each step with a value $$G_{\tau, \pi}(s_t)$$, and replacing $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$.
 
-For the TD0 algorithm, $$G_\{\tau, \pi}(s_t) = r(s_t, a_t) + \gamma V_\pi(s_{t+1}$$. The algorithm is:
+For the TD0 algorithm, $$G_\{\tau, \pi}(s_t) = r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$. The algorithm is:
 
 1: Initialize all $$V_\pi(s)$$ to random values  
 2: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
