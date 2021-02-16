@@ -73,6 +73,7 @@ $$
 \pi \rightarrow V_\pi \rightarrow Q \rightarrow \pi_{greedy}(Q)
 \end{align*}
 $$
+
 until the policy $$\pi$$ stops changing.
 
 The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two stages:
@@ -94,7 +95,13 @@ The cycle of policy evaluations and improvements continues until the policy even
 <img width="250" height="250" src="/src/diagrams/eval_improvement.png">
 </p>
 
-The policy is guaranteed to eventually stabilize because the sets of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$ are finite.
+The policy is guaranteed to eventually stabilize because the sets of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$ are finite:
+
+$$
+\begin{align*}
+\pi_0 \rightarrow V_{\pi_0} \rightarrow Q_{\pi_0} \rightarrow \pi_1 \rightarrow ... \rightarrow \pi_n \rightarrow V_{\pi_n} \rightarrow Q_{\pi_n} \rightarrow \pi_n 
+\end{align*}
+$$
 
 The disadvantages of DP are:
 - All state values need to be computed with each improvement of the policy $$\pi$$
