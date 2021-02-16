@@ -32,9 +32,14 @@ Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'd
 \end{align}
 $$
 
+## Greedy and $$\epsilon$$-greedy policies
+If the action-value function $$Q$$ is given, we can pick a policy that, in allstates $$s$$, picks with probability 1 the action that maximizes $$Q(s, a)$$.
+
+We denote this policy $$\pi_\greedy(Q)$$. Formally, $$\pi_\greedy(Q)(s) = \underset{a \in \mathcal{A}}{max} Q(s, a)$$.
+
 ## Bellman Optimality Equations
 
-Suppose the policy $$\pi$$ is optimal. Then $$V_\pi(s)$$ is maximal for each state $$s$$. Also, each state $$s$$ picks an action $$a$$ such that $$Q_\pi(s, a)$$ is maximal. The policy will be $$\pi(a \vert s)=1$$, for the action $$a$$, and $$\pi(a' \vert s)=0$$ for all other actions $$a' \neq a$$.
+Suppose the policy $$\pi$$ is optimal. Then $$V_\pi(s)$$ is maximal for each state $$s$$. Also, each state $$s$$ picks an action $$a$$ such that $$Q_\pi(s, a)$$ is maximal. The policy will be $$\pi(a \vert s)=1$$, for the action $$a$$, and $$\pi(a' \vert s)=0$$ for all other actions $$a' \neq a$$. This is the $$Q_\star$$-greedy policy $$\pi_{greedy}(Q_\star)$$.
 
 We denote $$V_\star(s)=V_\pi(s)$$ and $$Q_\star(s, a)=Q_\pi(s, a)$$ for this optimal policy $$\pi$$. The optimal policy satisfies $$V_\star(s) = \underset{a \in \mathcal{A}}{max} \, Q_\star(s, a)$$. The Bellman equations give us:
 
