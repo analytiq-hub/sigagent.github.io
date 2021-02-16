@@ -48,9 +48,11 @@ These are called the Bellman optimality equations. The integrals $$\int$$ are in
 
 ## Solving the optimal policy using a system of equations
 
-When the number of states $$\mathcal{S}$$ is very small, and the model $$P(s' \vert s, a)$$ is known, it becomes practical to solve the system of equations given by the Bellman optimality criterion for $$V_\star(s)$$. Once $$V_\star(s)$$ is found, $$Q_\star(s, a)$$ can be computed, and the optimal action $$a$$ in state $$s$$ is given by $$\underset{a}{argmax} \, Q_\star(s, a)$$.
+When the number of states $$\mathcal{S}$$ is very small, and the model $$P(s' \vert s, a)$$ is known, it becomes practical to solve the system of equations given by the Bellman equation for $$V_\star(s)$$. Once $$V_\star(s)$$ is found, $$Q_\star(s, a)$$ can be computed, and the optimal action $$a$$ in state $$s$$ is given by $$\underset{a}{argmax} \, Q_\star(s, a)$$.
 
-However, this solution is not practical when the number of states is larger.
+If the model $P(s' \vert s, a)$$ is not known, we can solve instead the system of equations given by the Bellman optimality criterion for $$V_\star(s)$$.
+
+These methods are not practical when the number of states is larger.
 
 ## Dynamic Programming (DP)
 
@@ -61,7 +63,7 @@ In this method, we also assume that the model $$P(s' \vert s, a)$$ is known. We 
 |$$s_0$$|$$V_\pi(s_0)$$|
 |$$s_1$$|$$V_\pi(s_1)$$|
 |...    |...            |
-|$$s_{m-1}$$|$$V_\pi(s_{m-1}$$|
+|$$s_{m-1}$$|$$V_\pi(s_{m-1})$$|
 
 and continuously update it (along with the policy $$\pi$$ that it implies) until the policy stops changing.
 
@@ -81,6 +83,8 @@ The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random
 The disadvantage of this method is that all state values need to be computed with each improvement of the policy $$\pi$$.
 
 ## Temporal Difference (TD)
+
+In this method, we do not assume that the model $$P$$ is known.
 
 
 ## Q-Learning and SARSA
