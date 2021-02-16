@@ -131,7 +131,12 @@ Note that the policy $$\pi$$ can be immediately be updated from the table, becau
 
 In both algorithms, the table is randomly initialized with numbers $$Q_\pi(s, a)$$.
 
-We pick a weight factor $$0 \lt \alpha \le 1$$, a small number $$0\le \epsilon <1 $$, and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$Q_\pi(s_t, a_t)$$ at each step with a value $$G_{\tau, \pi}(s_t, a_t)$$, and replacing $$Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q_\pi(s_t, a_t))$$.
+We pick a weight factor $$0 \lt \alpha \le 1$$, a small number $$0\le \epsilon <1 $$, and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$Q_\pi(s_t, a_t)$$ at each step with a value $$G_{\tau, \pi}(s_t, a_t)$$, replacing
+$$
+\begin{align}
+Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q_\pi(s_t, a_t))
+\end{align}
+$$
 
 For SARSA, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma Q_\pi(s_t, a_t)$$.
 For Q-Learning, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \underset{a}{max}Q_\pi(s_t, a)$$.
