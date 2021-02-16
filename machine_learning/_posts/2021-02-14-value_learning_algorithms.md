@@ -77,7 +77,7 @@ In this method, we assume that the model $$P(s' \vert s, a)$$ is known. We build
 |...    |...            |
 |$$s_{m-1}$$|$$V(s_{m-1})$$|
 
-and continuously update it for a given policy $$\pi$$ with $$V(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V(s') ds'$$, the expected reward plus the discounted value of the next state, until $$V(s)$$ has converged and approximates $$V_\pi(s)$$
+and continuously update it for a given policy $$\pi$$ with $$V(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V(s') ds'$$, the expected reward plus the discounted value of the next state, until $$V(s)$$ has converged and approximates $$V_\pi(s)$$.
 
 Once $$V$$ is a good approximations for $$V_\pi$$, the Bellman equations give us action-values $$Q(s, a)$$. We then update the policy $$\pi \rightarrow \pi_{greedy}(Q)$$, the greedy policy based on $$Q$$, picking in state $$s$$ the action $$a$$ that maximizes $$Q(s, a)$$, and repeat the entire process,
 
@@ -162,14 +162,14 @@ These algorithms can be thought to update the action-value table below, based on
 
 |       |    $$a_0$$    |    $$a_1$$    | ... |     $$a_{n-1}$$     |
 |:-----:|:-------------:|:-------------:|:---:|:-------------------:|
-|$$s_0$$|$$Q_\pi(s_0, a_0)$$|$$Q_\pi(s_0, a_1)$$|     |$$Q_\pi(s_0, a_{n-1})$$  |
-|$$s_1$$|$$Q_\pi(s_1, a_0)$$|$$Q_\pi(s_1, a_1)$$|     |$$Q_\pi(s_1, a_{n-1})$$  |
+|$$s_0$$|$$Q(s_0, a_0)$$|$$Q(s_0, a_1)$$|     |$$Q(s_0, a_{n-1})$$  |
+|$$s_1$$|$$Q(s_1, a_0)$$|$$Q(s_1, a_1)$$|     |$$Q(s_1, a_{n-1})$$  |
 |...    |...            |...            |     |...                  |
-|$$s_{m-1}$$|$$Q_\pi(s_{m-1}, a_0)$$|$$Q_\pi(s_{m-1}, a_1)$$||$$Q_\pi(s_{m-1}, a_{n-1})$$|
+|$$s_{m-1}$$|$$Q(s_{m-1}, a_0)$$|$$Q(s_{m-1}, a_1)$$||$$Q(s_{m-1}, a_{n-1})$$|
 
 Note that the policy $$\pi$$ can be immediately be updated from the table, because $$Q(s, a)$$ is already computed.
 
-In both algorithms, the table is randomly initialized with numbers $$Q_\pi(s, a)$$.
+In both algorithms, the table is randomly initialized with numbers $$Q(s, a)$$.
 
 We pick a weight factor $$0 \lt \alpha \le 1$$, a small number $$0\le \epsilon <1 $$, and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$Q_\pi(s_t, a_t)$$ at each step with a value $$G_{\tau, \pi}(s_t, a_t)$$, replacing
 $$
