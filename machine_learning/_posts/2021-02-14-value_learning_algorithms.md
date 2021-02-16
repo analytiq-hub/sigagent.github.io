@@ -116,7 +116,9 @@ Another variant TD($$\epsilon$$) of TD changes the Policy Evaluation stage to ap
 
 ## Q-Learning and SARSA
 
-If the number of states and actions is still relatively small, rather than solve the Bellman optimality equations for $$V_\star(s)$$, we can approximate action-value functions $$Q_\pi(s, a)$$ that converge to a solution of the Bellman optimality equations for $$Q_\star(s, a)$$ . We build an action-value table
+The Policy Improvement step for these algorithms is also same as for DP. But, rather than learn the value function $$V_\pi(s)$$, the Q-Learning and SARSA algorithms learn directly the action-vaue function $$Q_\pi(s, a)$$.
+
+These algorithms can be thought to update the action-value table below, based on the policy $$\pi$$; then, they update the policy $$\pi$$ based on the table, and iterate the process until the policy $$\pi$$ stops changing.
 
 |       |    $$a_0$$    |    $$a_1$$    | ... |     $$a_{n-1}$$     |
 |:-----:|:-------------:|:-------------:|:---:|:-------------------:|
@@ -125,7 +127,13 @@ If the number of states and actions is still relatively small, rather than solve
 |...    |...            |...            |     |...                  |
 |$$s_{m-1}$$|$$Q_\pi(s_{m-1}, a_0)$$|$$Q_\pi(s_{m-1}, a_1)$$||$$Q_\pi(s_{m-1}, a_{n-1})$$|
 
-The initial entries are randomly initialized with numbers $$Q_\pi(s, a)$$. We pick a learning rate $$\alpha$$. We iterate over a number of episodes $$MAX\_EPISODES$$, and, within each episode, build a trajectory
+Note that the policy $$\pi$$ can be immediately be updated from the table, because $$Q(s, a)$$ is already computed.
+
+In both algorithms, the initial entries are randomly initialized with numbers $$Q_\pi(s, a)$$.
+
+We pick a weight factor $$0 \lt \alpha \le 1$$, a small number $$0\le \epsilon <1 $$, and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$Q_\pi(s_t, a_t)$$ at each step with a value $$G_{\tau, \pi}(s_t, a_t)$$, and replacing $$Q_\pi(s_t, a_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q_\pi(s_t, a_t))$$.
+
+We pick a learning rate $$\alpha$$. We iterate over a number of episodes $$MAX\_EPISODES$$, and, within each episode, build a trajectory
 
 $$
 \begin{equation}
