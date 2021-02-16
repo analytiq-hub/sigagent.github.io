@@ -95,9 +95,9 @@ A Markov Decision Process (MDP) consists, in general, of
 * A state transition distribution $$P(s_{t+1} \vert s_t, a_t)$$ representing the probability of arriving to state $$s_{t+1}$$ fron $$s_{t}$$ when applying action $$a_t$$
 * A reward function $$r : \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}$$ denoting the reward obtained when applying action $$a_t$$ in state $$s_t$$.
 
-Here is an example MDP: (<a href="https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-3-the-markov-decision-process-9f5066e073a2">source</a>)
+Here is an example of a finite MDP (<a href="https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-3-the-markov-decision-process-9f5066e073a2">source</a>): the nodes are states $$s$$, the arrows are actions $$a$$ labeled with $$P(s' \vert s, a)$$, and the ribbons (and bombs) are the rewards $$r(s, a)$$.
 <p align="center">
-<img src="/src/images/example_mdp.png">
+<img src="/src/images/example_mdp.jpg">
 </p>
 
 Agents do not always have direct access to the state transition distribution (\ref{eq:state_transition_dist}). It can, however, be sampled.
