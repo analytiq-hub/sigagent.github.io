@@ -133,36 +133,6 @@ In both algorithms, the initial entries are randomly initialized with numbers $$
 
 We pick a weight factor $$0 \lt \alpha \le 1$$, a small number $$0\le \epsilon <1 $$, and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$Q_\pi(s_t, a_t)$$ at each step with a value $$G_{\tau, \pi}(s_t, a_t)$$, and replacing $$Q_\pi(s_t, a_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q_\pi(s_t, a_t))$$.
 
-We pick a learning rate $$\alpha$$. We iterate over a number of episodes $$MAX\_EPISODES$$, and, within each episode, build a trajectory
-
-$$
-\begin{equation}
-\tau = (s_0, a_0, s_{1}, a_{1}, ... , s_T, a_T)
-\end{equation}
-$$
-
-updating the policy $$\pi$$ as we go along. The initial state $$s_0$$ is picked according to the distribution $$d(s_0)$$. At step $$0 \le t \le T$$, in state $$$s_t$$, we pick an action $$a_t$$ and pick a retun $$G(s_t, a_t)$$ that is more optimal than $$Q_\pi(s_t, a_t)$$. Depending on the choice of $$a_t$$ and $$G(s_t, a_t)$$, we get different algorithms, but in all cases the action-value table with the rule
-$$
-\begin{align}
-Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G(s_t, a_t) - Q_\pi(s_t, a_t)) \\
-\end{align}
-$$
-
-
-the actual return received from the point of taking action $$a_t$$ until the end of the episode.
-
-
-After repeatedly applying this rule, the action-value table will converge to the optimal action-value function $$Q_\star(s, a)$$. This is the Temporal-Difference Learning algorithm (TD).
-
-The update function $$G(s_t, a_t)$$ can also be defined as the actual return after a single step
-$$
-\begin{align}
-G(s_t, a_t) = r(s_t, a_t) + \gamma Q_\pi(s_{t+1}, a_{t+1})
-\end{align}
-$$
-
-This formulation that updates the action-value table after a single step is called TD(0). Another variant is to choose $$G(s_t, a_t)$$ using TD0 combined with an $$\epsilon$$-greedy random choice for the next action $$a_{t+1}$$. This randomization ensures that optimal values may not be overlooked.
-
 ## TO DO: continue
 
 $$
