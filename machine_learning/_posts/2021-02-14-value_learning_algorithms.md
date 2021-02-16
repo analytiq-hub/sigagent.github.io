@@ -69,7 +69,7 @@ The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random
 
 1: Policy Evaluation:  
 &nbsp;&nbsp;&nbsp;&nbsp; 2: For each state $$s$$, set $$V_\pi(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, and denote the $$\delta_s$$ the change in $$V_\pi(s)$$  
-&nbsp;&nbsp;&nbsp;&nbsp; 3: Repeat 2 until $$\delta_s \lt \delta $$ for all $$s$$.
+&nbsp;&nbsp;&nbsp;&nbsp; 3: Repeat 2 until $$\vert \delta_s \vert \lt \delta $$ for all $$s$$.
 
 4: Policy Improvement:  
 &nbsp;&nbsp;&nbsp;&nbsp; 5: For each state $$s$$, compute $$Q_\pi(s, a)$$ from $$V_\pi(s)$$ using the Bellman equation  
