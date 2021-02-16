@@ -111,7 +111,7 @@ G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1}) + ... + \gamma
 $$
 
 #### TD($$\epsilon$$) Algorithm
-Another variant TD($$\epsilon$$) of TD changes the Policy Evaluation to apply it to an $$\epsilon$$-greedy modification of $$\pi$$, denoted $$\pi_\epsilon$$, which picks in state $$s$$ the action $$a$$ with probability $$(1 - \epsilon)\pi(a \vert s)$$, and randomly with likelyhood $$\epsilon$$. The $$\epsilon$$-greedy action selection policy balances *exploration*, with likelihood $$\epsilon)$$, and *exploitation* with likelihood $$1-\epsilon$$.
+Another variant TD($$\epsilon$$) of TD changes the Policy Evaluation stage to apply it to an $$\epsilon$$-greedy modification of $$\pi$$, denoted $$\pi_\epsilon$$, which picks in state $$s$$ the action $$a$$ with probability $$(1 - \epsilon)\pi(a \vert s)$$, and randomly with likelyhood $$\epsilon$$. The $$\epsilon$$-greedy action selection policy balances *exploration*, with likelihood $$\epsilon$$, and *exploitation* with likelihood $$1-\epsilon$$.
 
 
 ## Q-Learning and SARSA
