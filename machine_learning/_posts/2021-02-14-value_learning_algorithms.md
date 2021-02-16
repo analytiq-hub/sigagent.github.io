@@ -22,7 +22,14 @@ This post is part of a series dealing with Reinforcement Learning:
 ## Introduction
 The sets of states $$\mathcal{S}$$  and actions $$\mathcal{A}$$ are assumed to be finite.
 
-The idea in value learning algorithms is to maximize the action-value function $$Q_\pi(s, a)$$, and to pick policies $$s \rightarrow \pi(a \vert s)$$ which maximize $$Q_\pi(s, a)$$. This can be accomplished when, for example, in state $$s$$ we pick $$\underset{a}{argmax} \, Q_\pi(s, a)$$, which is the action $$a$$ that maximizes $$Q_\pi(s, a)$$.
+The idea in value learning algorithms is to maximize the action-value function $$Q_\pi(s, a)$$, and to pick policies $$s \rightarrow \pi(a \vert s)$$ which maximize $$Q_\pi(s, a)$$. This can be accomplished when, for example, in state $$s$$ we pick $$\underset{a \in \mathcal{A}}{argmax} \, Q_\pi(s, a)$$, which is the action $$a$$ that maximizes $$Q_\pi(s, a)$$.
+
+## Greedy and $$\epsilon$$-greedy policies
+More generally, if the action-value function $$Q$$ is given, the $$Q$$-greedy policy, by definition, for all $$s \in \mathcal{S}$$ picks with probability 1 the action that maximizes $$Q(s, a)$$.
+
+We denote this policy $$\pi_{greedy}(Q)$$. Formally, $$\pi_{greedy}(Q)(s) = \underset{a \in \mathcal{A}}{max} Q(s, a)$$.
+
+## Bellman Equations
 
 We will use of the Bellman equations for $$V_\pi(s)$$ and $$Q_\pi(s, a)$$:
 $$
@@ -31,11 +38,6 @@ V_\pi(s) & = \int_a \{ r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'
 Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'da' \\
 \end{align}
 $$
-
-## Greedy and $$\epsilon$$-greedy policies
-If the action-value function $$Q$$ is given, we can pick a policy that, in allstates $$s$$, picks with probability 1 the action that maximizes $$Q(s, a)$$.
-
-We denote this policy $$\pi_\greedy(Q)$$. Formally, $$\pi_\greedy(Q)(s) = \underset{a \in \mathcal{A}}{max} Q(s, a)$$.
 
 ## Bellman Optimality Equations
 
