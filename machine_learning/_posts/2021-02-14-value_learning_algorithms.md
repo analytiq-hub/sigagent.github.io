@@ -140,7 +140,7 @@ $$
 
 For SARSA, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma Q_\pi(s_t, a_t)$$.
 
-For Q-Learning, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \underset{a}{max}Q_\pi(s_t, a)$$.
+For Q-Learning, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \underset{a}{max} \, Q_\pi(s_t, a)$$.
 
 #### SARSA
 
@@ -155,7 +155,7 @@ For Q-Learning, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \under
 8: Policy Update of $$\pi$$: Same as for DP
 
 #### Q-Learning
-Same as for SARSA but $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \underset{a}{max}Q_\pi(s_t, a)$$.
+Same as for SARSA but $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \underset{a}{max} \, Q_\pi(s_t, a)$$.
 
 
 ## TO DO: continue
