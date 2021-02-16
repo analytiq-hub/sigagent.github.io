@@ -62,7 +62,7 @@ These are called the Bellman optimality equations. The integrals $$\int$$ are in
 
 When the number of states $$\mathcal{S}$$ is very small, and the model $$P(s' \vert s, a)$$ is not known, it becomes practical to solve the system of equations given by the Bellman optimality equation for $$V_\star(s)$$. Once $$V_\star(s)$$ is found, $$Q_\star(s, a)$$ can be computed, and the optimal action $$a$$ in state $$s$$ is given by the $$Q_\star$$-greedy policy $$\pi_{greedy}(Q_\star)$$.
 
-Formally, for this policy, $$\pi_{greedy}(s) = \underset{a \in \mathcal{A}}{argmax} \, Q_\star(s, a)$$.
+Formally, for this policy, $$\pi_{greedy}(Q_\star)(s) = \underset{a \in \mathcal{A}}{argmax} \, Q_\star(s, a)$$.
 
 This method is not practical when the number of states is larger.
 
