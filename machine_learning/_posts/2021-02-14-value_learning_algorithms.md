@@ -98,7 +98,7 @@ $$~~~~~~~~~~~~$$ 5: For each $$0 \le t \lt T$$
 $$~~~~~~~~~~~~~~$$ 6: Set $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$  
 $$~~~~~~~~~~~~~~$$ 7: Set $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$
 
-7: Policy Update of $$\pi$$: Same as for DP  
+$$~~~~$$ 8: Policy Update of $$\pi$$: Same as for DP  
 
 In step 6, the value $$V_\pi(s_t)$$ is updated with a weighted average between itself and the discounted value of the next step. At the end of steps 1-6, we get an estimate of $$V_\pi(s)$$ for the policy $$\pi$$, and can update $$\pi$$ using the same Policy Improvement algorithm from DP, switching back and forth between Policy Evaluation and Policy Improvement until the policy $$\pi$$ stops changing.
 
