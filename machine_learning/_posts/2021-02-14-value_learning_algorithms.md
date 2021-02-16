@@ -80,11 +80,13 @@ The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random
 
 The disadvantages of DP are that all state values need to be computed with each improvement of the policy $$\pi$$; and the model $$P(s' \vert s, a)$$ needs to be known.
 
-## Temporal Difference (TD0)
+## Temporal Difference
 
-In this method, we do not assume that the model $$P$$ is known. The Policy Improvement step is same as for DP. The Policy Evaluation step for $$V_\pi(s)$$ is different.
+This is a family of algorithms: TD0, TD(n), TD($$\lambda$$). For Temporal Difference algorithms, we do not assume that the model $$P(s' \vert s, a)$$ is known. The Policy Improvement step is same as for DP. The Policy Evaluation step for $$V_\pi(s)$$ is different.
 
-We pick a weight factor $$0 \lt \alpha \le 1$$ and a number of episodes $$MAX\_EPISODES$$
+We pick a weight factor $$0 \lt \alpha \le 1$$ and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$V_\pi(s_t)$$ at each step with a value $$G_{\tau, \pi}(s_t)$$, and replacing $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$.
+
+For the TD0 algorithm, $$G_\{\tau, \pi}(s_t) = r(s_t, a_t) + \gamma V_\pi(s_{t+1}$$. The algorithm is:
 
 1: Initialize all $$V_\pi(s)$$ to random values  
 2: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
