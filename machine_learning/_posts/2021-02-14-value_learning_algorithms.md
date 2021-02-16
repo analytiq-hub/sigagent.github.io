@@ -54,7 +54,7 @@ However, this solution is not practical when the number of states is larger.
 
 ## Dynamic Programming (DP)
 
-In this method, we also assume that the model $$P(s' \vert s, a)$$ is known. Ee build a value table
+In this method, we also assume that the model $$P(s' \vert s, a)$$ is known. We build a value table
 
 |       | Value Function |  
 |:-----:|:-------------:|
