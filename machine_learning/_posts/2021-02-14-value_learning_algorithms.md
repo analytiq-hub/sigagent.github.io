@@ -196,6 +196,10 @@ The algorithms above still assume a small number of state. When the number of st
 
 We construct a deep neural network with states $$s \in \mathcal{S}$$ as input, and action-value functions $$Q(s, a)$$ outputs for all actions $$a \in \mathcal{A}$$.
 
+<p align="center">
+<img width="350" height="250" src="/src/diagrams/dqn.png">
+</p>
+
 ![DQN](/src/diagrams/dqn.png)
 
 Denote $$w$$ the weights of the NN, and $$Q_w(s, a)$$ the output of the NN. The loss function is defined as
