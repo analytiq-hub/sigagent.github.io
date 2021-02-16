@@ -7,7 +7,6 @@ author:
 ---
 
 This post is part of a series dealing with Reinforcement Learning:
-This post is part of a series dealing with Reinforcement Learning:
 - [Introduction to Reinforcement Learning](https://bitdribble.github.io/machine_learning/2021/02/13/introduction_to_machine_learning/)
 - [RL: Value Learning Algorithms](https://bitdribble.github.io/machine_learning/2021/02/14/value_learning_algorithms/)
 - [RL: The REINFORCE Algorithm](https://bitdribble.github.io/machine_learning/2021/02/14/reinforce/)
