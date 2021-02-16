@@ -39,6 +39,7 @@ We will use of the Bellman equations for $$V_\pi(s)$$ and $$Q_\pi(s, a)$$:
 $$
 \begin{align}
 V_\pi(s) & = \int_a \{ r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'\} da \\
+Q_\pi(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds' \\
 Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'da' \\
 \end{align}
 $$
@@ -100,7 +101,7 @@ $$~~~~~~~~$$ 2: For each state $$s$$, set $$V(s) \leftarrow r(s, a) + \gamma \in
 $$~~~~~~~~$$ 3: Repeat 2 until $$\vert \delta_s \vert \lt \delta $$ for all $$s$$.
 
 $$~~~~$$ 4: Policy Improvement:  
-$$~~~~~~~~$$ 5: For each state $$s$$, compute $$Q(s, a)$$ from $$V(s)$$ using the Bellman equation  
+$$~~~~~~~~$$ 5: For each state $$s$$, compute $$Q(s, a)$$ from $$V(s)$$ using the Bellman equation 
 $$~~~~~~~~$$ 6: For each state $$s$$, set $$\pi \leftarrow \pi_{greedy}(Q)$$ defined by $$\pi_{greedy}(Q)(s) \leftarrow \underset{a \in {\mathcal{A}}}{argmax} \, Q(s, a)$$  
 $$~~~~~~~~$$ 7: If at least one action changed, go back to 1   
 $$~~~~~~~~$$ 8: Else, stop. The policy $$\pi$$ is optimal.  
@@ -199,11 +200,11 @@ The n-step method TD(n) idea - having the function $$G_{\tau, \pi}(s_t, a_t)$$ e
 #### Q-Learning
 This algorithm is same as SARSA but $$G_{\tau, pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \underset{a}{max} \, Q_\pi(s_t, a)$$.
 
-Notice that $$G_{\tau, \pi}(s_t, a_t)$$ for Q-Learning does not depend on the policy; even if the expression $$Q_\pi(s_t, a)$$ shows on the right side, this is merely an approximation of the action-value function for $$\pi$$. 
+Notice that $$G_{\tau, \pi}(s_t, a_t)$$ for Q-Learning does not depend on the policy; the only step during Policy Evaluation depending on the policy is the choice of trajectory $$\tau$$. This is a weak dependency on policy, and, in practice, this means which depends even if the expression $$Q_\pi(s_t, a)$$ shows on the right side, this is merely an approximation of the action-value function for $$\pi$$. 
 
 ## DQN
 
-The algorithms above still assume a small number of state. When the number of states is large, neural networks come to the rescue to approximate the action-value functions $$Q\pi(s, a)$$.
+The algorithms above still assume a small number of state. When the number of states is large, neural networks come to the rescue to approximate the action-value functions $$Q_\pi(s, a)$$.
 
 We construct a deep neural network with states $$s \in \mathcal{S}$$ as input, and action-value functions $$Q(s, a)$$ outputs for all actions $$a \in \mathcal{A}$$.
 
