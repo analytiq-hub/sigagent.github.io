@@ -86,6 +86,7 @@ This is a family of algorithms: TD0, TD(n), TD($$\lambda$$). For Temporal Differ
 
 We pick a weight factor $$0 \lt \alpha \le 1$$ and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$V_\pi(s_t)$$ at each step with a value $$G_{\tau, \pi}(s_t)$$, and replacing $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$.
 
+#### TD Algorithm
 For the TD0 algorithm, $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$. The algorithm is:
 
 1: Policy Evaluation for $$\pi$$:  
@@ -100,7 +101,7 @@ For the TD0 algorithm, $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\p
 
 In step 6, the value $$V_\pi(s_t)$$ is updated with a weighted average between itself and the discounted value of the next step. At the end of steps 1-6, we get an estimate of $$V_\pi(s)$$ for the policy $$\pi$$, and can update $$\pi$$ using the same Policy Improvement algorithm from DP, switching back and forth between Policy Evaluation and Policy Improvement until the policy $$\pi$$ stops changing.
 
-#### TD(n) algorithm
+#### TD(n) Algorithm
 A variant TD(n) of the TD algorithm changes step 5 use the weighted average with the discounted value of the next $$n$$ steps:
 
 $$
@@ -109,7 +110,7 @@ G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1}) + ... + \gamma
 \end{align}
 $$
 
-#### TD($$\epsilon$$) algorithm
+#### TD($$\epsilon$$) Algorithm
 Another variant TD($$\epsilon$$) of TD changes the Policy Evaluation to apply it to an $$\epsilon$$-greedy modification of $$\pi$$, denoted $$\pi_\epsilon$$, which picks in state $$s$$ the action $$a$$ with probability $$(1 - \epsilon)\pi(a \vert s)$$, and randomly with likelyhood $$\epsilon$$. The $$\epsilon$$-greedy action selection policy balances *exploration*, with likelihood $$\epsilon)$$, and *exploitation* with likelihood $$1-\epsilon$$.
 
 
