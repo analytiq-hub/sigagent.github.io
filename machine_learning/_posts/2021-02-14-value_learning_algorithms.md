@@ -88,19 +88,28 @@ We pick a weight factor $$0 \lt \alpha \le 1$$ and a number of episodes $$MAX\_E
 
 For the TD0 algorithm, $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$. The algorithm is:
 
-1: Policy Evaluation:  
+1: Policy Evaluation for $$\pi$$:  
 &nbsp;&nbsp;&nbsp;&nbsp; 2: Initialize all $$V_\pi(s)$$ to random values  
 &nbsp;&nbsp;&nbsp;&nbsp; 3: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3: Pick a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$  
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3: Pick a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$ using policy $$\pi$$  
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 4: For each $$0 \le t \lt T$$  
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 5:  Set $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$  
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 6:  Set $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$
 
-7: Policy Update: Same as for DP  
+7: Policy Update of $$\pi$$: Same as for DP  
 
 In step 6, the value $$V_\pi(s_t)$$ is updated with a weighted average between itself and the discounted value of the next step. At the end of steps 1-6, we get an estimate of $$V_\pi(s)$$ for the policy $$\pi$$, and can update $$\pi$$ using the same Policy Improvement algorithm from DP, switching back and forth between Policy Evaluation and Policy Improvement until the policy $$\pi$$ stops changing.
 
-A variant TD(n) of the algorithm changes step 4 use the weighted average with the discounted value of the next $$n$$ steps.
+A variant TD(n) of the algorithm changes step 5 use the weighted average with the discounted value of the next $$n$$ steps:
+
+$$
+\begin{align}
+G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1}) + ... + \gamma^{n-1} V_\pi(s_{t+n})
+\end{align}
+$$
+
+Another variant TD($$\epsilon$$) changes the Policy Evaluation to apply it to an $$\epsilon$$-greedy modification of $$\pi$$, denoted $$\pi_\eps$$, which picks in state $$s$$ the action $$a$$ with probability $$\pi(a \vert s)$$ with oikelyhood $$1-\epsilon$$, and randomly with likelyhood $$\epsilon$$. The $$\epsilon$$-greedy action selection policy balances exploration (with likelihood $$\epsilon)$$) and exploitation (with likelihood $$1-\epsilon)$$).
+
 
 ## Q-Learning and SARSA
 
