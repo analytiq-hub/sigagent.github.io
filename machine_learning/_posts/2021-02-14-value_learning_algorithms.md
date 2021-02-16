@@ -72,31 +72,31 @@ In this method, we assume that the model $$P(s' \vert s, a)$$ is known. We build
 
 |       | Value Function |  
 |:-----:|:-------------:|
-|$$s_0$$|$$V_\pi(s_0)$$|
-|$$s_1$$|$$V_\pi(s_1)$$|
+|$$s_0$$|$$V(s_0)$$|
+|$$s_1$$|$$V(s_1)$$|
 |...    |...            |
-|$$s_{m-1}$$|$$V_\pi(s_{m-1})$$|
+|$$s_{m-1}$$|$$V(s_{m-1})$$|
 
-and continuously update it for a given policy $$\pi$$ with $$V_\pi(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, the expected reward plus the discounted value of the next state, until $$V_\pi(s)$$ has converged.
+and continuously update it for a given policy $$\pi$$ with $$V(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V(s') ds'$$, the expected reward plus the discounted value of the next state, until $$V(s)$$ has converged and approximates $$V_\pi(s)$$
 
-Once we have good approximations for $$V_\pi(s)$$, the Bellman equations give us action-values $$Q(s, a)$$. We then update the policy $$\pi \rightarrow \pi_{greedy}(Q)$$, the greedy policy based on $$Q$$, picking in state $$s$$ the action $$a$$ that maximizes $$Q(s, a)$$, and repeat the entire process,
+Once $$V$$ is a good approximations for $$V_\pi$$, the Bellman equations give us action-values $$Q(s, a)$$. We then update the policy $$\pi \rightarrow \pi_{greedy}(Q)$$, the greedy policy based on $$Q$$, picking in state $$s$$ the action $$a$$ that maximizes $$Q(s, a)$$, and repeat the entire process,
 
 $$
 \begin{align*}
-\pi \rightarrow V_\pi \rightarrow Q \rightarrow \pi_{greedy}(Q)
+\pi \rightarrow V \rightarrow Q \rightarrow \pi_{greedy}(Q)
 \end{align*}
 $$
 
 until the policy $$\pi$$ stops changing.
 
-The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two stages:
+The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two stages:
 
 $$~~~~$$ 1: Policy Evaluation:  
-$$~~~~~~~~$$ 2: For each state $$s$$, set $$V_\pi(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, denoting the $$\delta_s$$ the change in $$V_\pi(s)$$  
+$$~~~~~~~~$$ 2: For each state $$s$$, set $$V(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V(s') ds'$$, denoting the $$\delta_s$$ the change in $$V(s)$$  
 $$~~~~~~~~$$ 3: Repeat 2 until $$\vert \delta_s \vert \lt \delta $$ for all $$s$$.
 
 $$~~~~$$ 4: Policy Improvement:  
-$$~~~~~~~~$$ 5: For each state $$s$$, compute $$Q(s, a)$$ from $$V_\pi(s)$$ using the Bellman equation  
+$$~~~~~~~~$$ 5: For each state $$s$$, compute $$Q(s, a)$$ from $$V(s)$$ using the Bellman equation  
 $$~~~~~~~~$$ 6: For each state $$s$$, set $$\pi \leftarrow \pi_{greedy}(Q)$$ defined by $$\pi_{greedy}(Q)(s) \leftarrow \underset{a \in {\mathcal{A}}}{argmax} \, Q(s, a)$$  
 $$~~~~~~~~$$ 7: If at least one action changed, go back to 1   
 $$~~~~~~~~$$ 8: Else, stop. The policy $$\pi$$ is optimal.  
