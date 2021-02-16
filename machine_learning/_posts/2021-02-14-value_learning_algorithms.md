@@ -81,11 +81,15 @@ $$~~~~~~~~$$ 8: Else, stop. The policy $$\pi$$ is optimal.
 
 The cycle of policy evaluation and improvement continues until the policy eventually stabilizes.
 
+<p align="center">
 ![DQN](/src/diagrams/eval_improvement.png)
+</p>
 
 The policy is guaranteed to eventually stabilize because the sets of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$ are finite.
 
-The disadvantages of DP are that all state values need to be computed with each improvement of the policy $$\pi$$; and the model $$P(s' \vert s, a)$$ needs to be known.
+The disadvantages of DP are:
+- All state values need to be computed with each improvement of the policy $$\pi$$
+- The model $$P(s' \vert s, a)$$ needs to be known in advance
 
 ## Temporal Difference Algorithms
 
