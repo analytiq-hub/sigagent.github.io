@@ -103,6 +103,8 @@ $$
 \end{align*}
 $$
 
+There's a sleight of hand here. The finiteness condition guarantees that the policy sequence is eventually periodic, instead of constant. However, picking $$\delta$$ small enough ensures that the policy sequence is eventually constant.
+
 The disadvantages of DP are:
 - All state values need to be computed with each improvement of the policy $$\pi$$
 - The model $$P(s' \vert s, a)$$ needs to be known in advance
