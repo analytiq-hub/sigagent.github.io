@@ -91,7 +91,7 @@ We pick a weight factor $$0 \lt \alpha \le 1$$ and a number of episodes $$MAX\_E
 &nbsp;&nbsp;&nbsp;&nbsp; 3: Pick a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$  
 &nbsp;&nbsp;&nbsp;&nbsp; 4: For each $$0 \le t \lt T$$, set $$V_\pi(s_t) = V_\pi(s_t) + \alpha [r(s_t, a_t) + \gamma V_\pi(s_{t+1}) - V_\pi(s_t)]$$  
 
-
+In step 4, the value $$V_\pi(s_t)$$ is updated with a weighted average between itself and the discounted value of the next step. At the end of steps 1-4, we get an estimate of $$V_\pi(s)$$ for the policy $$\pi$$, and can update $$\pi$$ using the Policy Improvement algorithm.
 
 ## Q-Learning and SARSA
 
