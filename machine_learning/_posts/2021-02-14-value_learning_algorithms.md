@@ -90,13 +90,13 @@ We pick a weight factor $$0 \lt \alpha \le 1$$ and a number of episodes $$MAX\_E
 #### TD Algorithm
 For the TD0 algorithm, $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$. The algorithm is:
 
-1: Policy Evaluation for $$\pi$$:  
-&nbsp;&nbsp;&nbsp;&nbsp; 2: Initialize all $$V_\pi(s)$$ to random values  
-&nbsp;&nbsp;&nbsp;&nbsp; 3: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 3: Pick a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$ using policy $$\pi$$  
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 4: For each $$0 \le t \lt T$$  
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 5:  Set $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$  
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 6:  Set $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$
+$$~~~~$$ 1: Policy Evaluation for $$\pi$$:  
+$$~~~~~~~~$$  2: Initialize all $$V_\pi(s)$$ to random values  
+$$~~~~~~~~$$  3: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
+$$~~~~~~~~~~~~$$ 4: Pick a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$ using policy $$\pi$$  
+$$~~~~~~~~~~~~$$ 5: For each $$0 \le t \lt T$$  
+$$~~~~~~~~~~~~~~$$ 6: Set $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$  
+$$~~~~~~~~~~~~~~$$ 7: Set $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$
 
 7: Policy Update of $$\pi$$: Same as for DP  
 
