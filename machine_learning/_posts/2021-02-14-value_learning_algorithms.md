@@ -54,7 +54,7 @@ This methods are not practical when the number of states is larger.
 
 ## Dynamic Programming (DP)
 
-In this method, we also assume that the model $$P(s' \vert s, a)$$ is known. We build a value table
+In this method, we assume that the model $$P(s' \vert s, a)$$ is known. We build a value table
 
 |       | Value Function |  
 |:-----:|:-------------:|
@@ -82,7 +82,15 @@ The disadvantage of this method is that all state values need to be computed wit
 
 ## Temporal Difference (TD)
 
-In this method, we do not assume that the model $$P$$ is known.
+In this method, we do not assume that the model $$P$$ is known. The Policy Improvement step is same as for DP. The Policy Evaluation step for $$V_\pi(s)$$ is different.
+
+We pick a weight factor $$0 \lt \alpha \le 1$$ and a number of episodes $$MAX\_EPISODES$$
+
+1: Initialize all $$V_\pi(s)$$ to random values
+2: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:
+&nbsp;&nbsp;&nbsp;&nbsp; 3: Pick a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$  
+&nbsp;&nbsp;&nbsp;&nbsp; 4: For each $$0 \le t \lt T$$, set $$V_\pi(s_t) = V(s_t) + \alpha [r(s_t, a_t) + \gamma V(s_{t+1} - V_{s_t}]$$
+
 
 
 ## Q-Learning and SARSA
