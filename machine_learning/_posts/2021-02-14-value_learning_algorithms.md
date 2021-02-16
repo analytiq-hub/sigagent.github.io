@@ -68,15 +68,15 @@ and continuously update it for a given policy $$\pi$$ with $$V_\pi(s) \leftarrow
 
 The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two stages:
 
-$~~~~$ 1: Policy Evaluation:  
-$~~~~~~~~$ 2: For each state $$s$$, set $$V_\pi(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, denoting the $$\delta_s$$ the change in $$V_\pi(s)$$  
-$~~~~~~~~$ 3: Repeat 2 until $$\vert \delta_s \vert \lt \delta $$ for all $$s$$.
+$$~~~~$$ 1: Policy Evaluation:  
+$$~~~~~~~~$$ 2: For each state $$s$$, set $$V_\pi(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, denoting the $$\delta_s$$ the change in $$V_\pi(s)$$  
+$$~~~~~~~~$$ 3: Repeat 2 until $$\vert \delta_s \vert \lt \delta $$ for all $$s$$.
 
-$~~~~$ 4: Policy Improvement:  
-$~~~~~~~~$ 5: For each state $$s$$, compute $$Q_\pi(s, a)$$ from $$V_\pi(s)$$ using the Bellman equation  
-$~~~~~~~~$ 6: For each state $$s$$, set $$\pi(s) \leftarrow \underset{a}{argmax} \, Q_\pi(s, a)$$  
-$~~~~~~~~$ 7: If at least one action changed, go back to 1   
-$~~~~~~~~$ 8: Else, stop. The policy $$\pi$$ is optimal.  
+$$~~~~$$ 4: Policy Improvement:  
+$$~~~~~~~~$$ 5: For each state $$s$$, compute $$Q_\pi(s, a)$$ from $$V_\pi(s)$$ using the Bellman equation  
+$$~~~~~~~~$$ 6: For each state $$s$$, set $$\pi(s) \leftarrow \underset{a}{argmax} \, Q_\pi(s, a)$$  
+$$~~~~~~~~$$ 7: If at least one action changed, go back to 1   
+$$~~~~~~~~$$ 8: Else, stop. The policy $$\pi$$ is optimal.  
 
 
 The disadvantages of DP are that all state values need to be computed with each improvement of the policy $$\pi$$; and the model $$P(s' \vert s, a)$$ needs to be known.
