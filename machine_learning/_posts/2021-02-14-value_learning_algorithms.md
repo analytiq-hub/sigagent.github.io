@@ -80,7 +80,7 @@ The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random
 
 The disadvantages of DP are that all state values need to be computed with each improvement of the policy $$\pi$$; and the model $$P(s' \vert s, a)$$ needs to be known.
 
-## Temporal Difference
+## Temporal Difference Algorithms
 
 This is a family of algorithms: TD0, TD(n), TD($$\epsilon$$). For Temporal Difference algorithms, we do not assume that the model $$P(s' \vert s, a)$$ is known. The Policy Improvement step is same as for DP. The Policy Evaluation step for $$V_\pi(s)$$ is different.
 
@@ -129,9 +129,28 @@ These algorithms can be thought to update the action-value table below, based on
 
 Note that the policy $$\pi$$ can be immediately be updated from the table, because $$Q(s, a)$$ is already computed.
 
-In both algorithms, the initial entries are randomly initialized with numbers $$Q_\pi(s, a)$$.
+In both algorithms, the table is randomly initialized with numbers $$Q_\pi(s, a)$$.
 
-We pick a weight factor $$0 \lt \alpha \le 1$$, a small number $$0\le \epsilon <1 $$, and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$Q_\pi(s_t, a_t)$$ at each step with a value $$G_{\tau, \pi}(s_t, a_t)$$, and replacing $$Q_\pi(s_t, a_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q_\pi(s_t, a_t))$$.
+We pick a weight factor $$0 \lt \alpha \le 1$$, a small number $$0\le \epsilon <1 $$, and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$Q_\pi(s_t, a_t)$$ at each step with a value $$G_{\tau, \pi}(s_t, a_t)$$, and replacing $$Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q_\pi(s_t, a_t))$$.
+
+For SARSA, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma Q_\pi(s_t, a_t)$$.
+For Q-Learning, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \underset{a}{max}Q_\pi(s_t, a)$$.
+
+#### SARSA
+
+1: Initialize all $$Q_\pi(s, a)$$ to random values  
+2: Policy Evaluation for $$\pi$$:  
+&nbsp;&nbsp;&nbsp;&nbsp; 3: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 4: Pick a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$ using $$\pi$$ (or $$\pi_\epsilon$$)  
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 5: For each $$0 \le t \lt T$$  
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 6:  Set $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma Q_\pi(s_t, a_t)$$  
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7:  Set $$Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q_\pi(s_t, a_t))$$
+
+8: Policy Update of $$\pi$$: Same as for DP
+
+#### Q-Learning
+Same as for SARSA but $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \underset{a}{max}Q_\pi(s_t, a)$$.
+
 
 ## TO DO: continue
 
