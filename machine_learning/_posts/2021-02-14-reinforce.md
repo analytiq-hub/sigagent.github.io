@@ -58,7 +58,9 @@ We assume that the number of steps $$T$$, the state space $$\mathcal{S}$$ and ac
 
 We construct a deep neural network with states $$s \in \mathcal{S}$$ as input, and policy distributions $$\pi(a \vert s)$$ outputs for all actions $$a \in \mathcal{A}$$.
 
-![PolicyGradient](/src/diagrams/policy_gradient.png)
+<p align="center">
+<img width="350" height="250" src="/src/diagrams/policy_gradient.png">
+</p>
 
 The weights of the NN are denoted $$\theta$$, and parametrize the output policy $$\pi_\theta$$. The NN metric is the agent objective $$J_{\pi_\theta}$$. The algorithm starts with a random policy $$\pi_\theta$$, samples states $$s \in \mathcal{S}$$, and uses gradient ascent to maximize $$J_{\pi_\theta}$$. At each step, the NN weights are updated according to the rule
 $$

@@ -200,8 +200,6 @@ We construct a deep neural network with states $$s \in \mathcal{S}$$ as input, a
 <img width="350" height="250" src="/src/diagrams/dqn.png">
 </p>
 
-![DQN](/src/diagrams/dqn.png)
-
 Denote $$w$$ the weights of the NN, and $$Q_w(s, a)$$ the output of the NN. The loss function is defined as
 
 $$
