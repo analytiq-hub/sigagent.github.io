@@ -132,19 +132,7 @@ p_\pi(\tau_{>a_t} \vert s_t, a_t) = \prod_{t'=t+1}^T \pi(a_{t'} \vert s_{t'}) \p
 \end{align}
 $$
 
-States and actions can be conditioned on trajectories. The conditional probabilities are:
-
-$$
-\begin{align} \label{eq:taudistscond}
-p_\pi(s_t \vert \tau) = \prod_{t'=0}^{t-1} \pi(a_{t'} \vert s_{t'}) P(s_{t'+1} \vert s_{t'}, a_{t'}) \\
-\end{align}
-$$
-
-$$
-\begin{align} \label{eq:taudistsacond}
-p_\pi(s_t, a_t \vert \tau) = \prod_{t'=0}^{t} \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} P(s_{t'+1} \vert s_{t'}, a_{t'}) \\
-\end{align}
-$$
+Trajectories can also be truncated down: $$\tau_{\le a_t} = (s_0, a_0, ... , s_{t}, a_{t})$$.
 
 ## Rewards and the Agent Objective
 
