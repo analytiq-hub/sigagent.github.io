@@ -82,7 +82,7 @@ The disadvantages of DP are that all state values need to be computed with each 
 
 ## Temporal Difference
 
-This is a family of algorithms: TD0, TD(n), TD($$\lambda$$). For Temporal Difference algorithms, we do not assume that the model $$P(s' \vert s, a)$$ is known. The Policy Improvement step is same as for DP. The Policy Evaluation step for $$V_\pi(s)$$ is different.
+This is a family of algorithms: TD0, TD(n), TD($$\epsilon$$). For Temporal Difference algorithms, we do not assume that the model $$P(s' \vert s, a)$$ is known. The Policy Improvement step is same as for DP. The Policy Evaluation step for $$V_\pi(s)$$ is different.
 
 We pick a weight factor $$0 \lt \alpha \le 1$$ and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$V_\pi(s_t)$$ at each step with a value $$G_{\tau, \pi}(s_t)$$, and replacing $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$.
 
