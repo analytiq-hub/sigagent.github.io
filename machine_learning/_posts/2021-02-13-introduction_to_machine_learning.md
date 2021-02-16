@@ -100,7 +100,7 @@ Here is an example of a finite MDP (<a href="https://medium.com/ai%C2%B3-theory-
 <img src="/src/images/example_mdp.jpg">
 </p>
 
-Agents do not always have direct access to the state transition distribution (\ref{eq:state_transition_dist}). It can, however, be sampled.
+In this example, $$P(s' \vert s, a)$$ is known for all states $$s$$ and actions $$a$$, and we say that the model is known. Agents do not always have direct access to $$P(s' \vert s, a)$$, but it can, however, be sampled.
 
 A sequence of states and actions defines a possibly infinite trajectory
 
