@@ -195,7 +195,7 @@ J_\pi = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t
 \end{equation}
 $$
 
-The goal of the agent is to maximize the objective $$J_\pi$$. If we fix the initial state $$s$$, or the pair $$(s, a)$$ of initial state and initial action, we define the *value* function 
+The goal of the agent is to maximize the objective $$J_\pi$$. If we fix the initial state $$s$$, or the pair $$(s, a)$$ of initial state and initial action, we define the *state-value* function 
 
 $$
 \begin{equation} \label{eq:value_state}
@@ -229,7 +229,7 @@ $$
 
 In most examples, the sample space for $$x$$ is finite, in which case the integral $$\int$$ becomes a sum $$\sum$$. 
 
-Applying the definition of density to objective $$J_\pi$$, the value $$V_\pi(s)$$ and the action-value $$Q_\pi(s, a)$$ functions, we get:
+Applying the definition of density to objective $$J_\pi$$, the state-value $$V_\pi(s)$$ and the action-value $$Q_\pi(s, a)$$ functions, we get:
 
 $$
 \begin{align}
@@ -262,7 +262,7 @@ $$
 
 ## The Bellman Equations
 
-The objective $$J_\pi$$, the value $$V_\pi(s)$$ and the action-value $$Q_\pi(s, a)$$ functions  are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
+The objective $$J_\pi$$, the state-value $$V_\pi(s)$$ and the action-value $$Q_\pi(s, a)$$ functions  are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
 
 $$
 \begin{align}
