@@ -154,23 +154,25 @@ For Q-Learning, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \un
 
 8: Policy Update of $$\pi$$: Same as for DP
 
+The n-step method TD(n) idea - having the function $$G_{\tau, \pi}(s_t, a_t)$$ estimate use n forward steps instead of one - can be extended to SARSA as well.
+
 #### Q-Learning
-Same as for SARSA but $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \underset{a}{max} \, Q_\pi(s_t, a)$$.
+This algorithm is same as SARSA but $$G_{\tau, pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \underset{a}{max} \, Q_\pi(s_t, a)$$.
+
+Notice that $$G_{\tau, \pi}(s_t, a_t)$$ for Q-Learning does not depend on the policy; even if the expression $$Q_\pi(s_t, a)$$ shows on the right side, this is merely an approximation of the action-value function for $$\pi$$. 
+
+## DQN
+
+The algorithms above still assume a small number of state. When the number of states is large, neural networks come to the rescue to approximate the action-value functions $$Q\pi(s, a)$$.
+
+We construct a deep neural network with states $$s \in \mathcal{S}$$ as input, and action-value functions $$Q(s, a)$$ outputs for all actions $$a \in \mathcal{A}$$.
+
+![DQN](/src/diagrams/dqn.png)
+
 
 
 ## TO DO: continue
 
-$$
-\begin{align}
-G_\star(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, \underset{a'}{max} Q_\star(s',a') ds' \\
-\end{align}
-$$
-
-## Q-Learning
-
-## SARSA
-
-## DQN
 
 ## Recycled
 
