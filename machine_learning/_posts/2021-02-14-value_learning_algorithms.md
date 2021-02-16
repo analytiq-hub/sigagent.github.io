@@ -100,7 +100,8 @@ For the TD0 algorithm, $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\p
 
 In step 6, the value $$V_\pi(s_t)$$ is updated with a weighted average between itself and the discounted value of the next step. At the end of steps 1-6, we get an estimate of $$V_\pi(s)$$ for the policy $$\pi$$, and can update $$\pi$$ using the same Policy Improvement algorithm from DP, switching back and forth between Policy Evaluation and Policy Improvement until the policy $$\pi$$ stops changing.
 
-A variant TD(n) of the algorithm changes step 5 use the weighted average with the discounted value of the next $$n$$ steps:
+#### TD(n) algorithm
+A variant TD(n) of the TD algorithm changes step 5 use the weighted average with the discounted value of the next $$n$$ steps:
 
 $$
 \begin{align}
@@ -108,7 +109,8 @@ G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1}) + ... + \gamma
 \end{align}
 $$
 
-Another variant TD($$\epsilon$$) changes the Policy Evaluation to apply it to an $$\epsilon$$-greedy modification of $$\pi$$, denoted $$\pi_\eps$$, which picks in state $$s$$ the action $$a$$ with probability $$\pi(a \vert s)$$ with oikelyhood $$1-\epsilon$$, and randomly with likelyhood $$\epsilon$$. The $$\epsilon$$-greedy action selection policy balances exploration (with likelihood $$\epsilon)$$) and exploitation (with likelihood $$1-\epsilon)$$).
+#### TD($$\epsilon$$) algorithm
+Another variant TD($$\epsilon$$) of TD changes the Policy Evaluation to apply it to an $$\epsilon$$-greedy modification of $$\pi$$, denoted $$\pi_\eps$$, which picks in state $$s$$ the action $$a$$ with probability $$\pi(a \vert s)$$ with oikelyhood $$1-\epsilon$$, and randomly with likelyhood $$\epsilon$$. The $$\epsilon$$-greedy action selection policy balances exploration (with likelihood $$\epsilon)$$) and exploitation (with likelihood $$1-\epsilon)$$).
 
 
 ## Q-Learning and SARSA
