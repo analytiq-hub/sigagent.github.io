@@ -145,15 +145,15 @@ For Q-Learning, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \un
 
 #### SARSA
 
-1: Initialize all $$Q_\pi(s, a)$$ to random values  
-2: Policy Evaluation for $$\pi$$:  
-&nbsp;&nbsp;&nbsp;&nbsp; 3: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 4: Pick a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$ using $$\pi$$ (or $$\pi_\epsilon$$)  
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 5: For each $$0 \le t \lt T$$  
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 6:  Set $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma Q_\pi(s_t, a_t)$$  
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7:  Set $$Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q_\pi(s_t, a_t))$$
+$$~~~~$$ 1: Initialize all $$Q_\pi(s, a)$$ to random values  
+$$~~~~$$ 2: Policy Evaluation for $$\pi$$:  
+$$~~~~~~$$ 3: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
+$$~~~~~~~~$$ 4: Pick a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$ using $$\pi$$ (or $$\pi_\epsilon$$)  
+$$~~~~~~~~$$ 5: For each $$0 \le t \lt T$$  
+$$~~~~~~~~~~$$ 6: Set $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma Q_\pi(s_t, a_t)$$  
+$$~~~~~~~~~~$$ 7: Set $$Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q_\pi(s_t, a_t))$$
 
-8: Policy Update of $$\pi$$: Same as for DP
+$$~~~~$$ 8: Policy Update of $$\pi$$: Same as for DP
 
 The n-step method TD(n) idea - having the function $$G_{\tau, \pi}(s_t, a_t)$$ estimate use n forward steps instead of one - can be extended to SARSA as well.
 
