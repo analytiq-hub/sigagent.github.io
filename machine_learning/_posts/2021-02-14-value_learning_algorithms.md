@@ -79,10 +79,10 @@ $$~~~~~~~~$$ 7: If at least one action changed, go back to 1
 $$~~~~~~~~$$ 8: Else, stop. The policy $$\pi$$ is optimal.  
 
 
-The cycle of policy evaluation and improvement continues until the policy eventually stabilizes.
+The cycle of policy evaluations and improvements continues until the policy eventually stabilizes.
 
 <p align="center">
-<img width="300" height="300" src="/src/diagrams/eval_improvement.png">
+<img width="250" height="250" src="/src/diagrams/eval_improvement.png">
 </p>
 
 The policy is guaranteed to eventually stabilize because the sets of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$ are finite.
