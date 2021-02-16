@@ -49,11 +49,11 @@ $$
 
 Suppose the policy $$\pi$$ is optimal. Then $$V_\pi(s)$$ is maximal for each state $$s$$. Also, each state $$s$$ picks an action $$a$$ such that $$Q_\pi(s, a)$$ is maximal. The policy will be the $$Q$$-greedy policy given by $$\pi(a \vert s)=1$$, for the action $$a$$, and $$\pi(a' \vert s)=0$$ for all other actions $$a' \neq a$$. 
 
-We denote $$V_\star(s)=V_\pi(s)$$ and $$Q_\star(s, a)=Q_\pi(s, a)$$ for this optimal policy $$\pi$$. The optimal policy satisfies $$V_\star(s) = \underset{a \in \mathcal{A}}{max} \, Q_\star(s, a)$$. The Bellman equations give us:
+We denote $$V_\star(s)=V_\pi(s)$$ and $$Q_\star(s, a)=Q_\pi(s, a)$$ for this optimal policy $$\pi$$. The Bellman equations give us:
 
 $$
 \begin{align}
-V_\star(s) & = \underset{a \in \mathcal{A}}{max} Q_\star(s, a) \\
+V_\star(s) & = \underset{a \in \mathcal{A}}{max} \, Q_\star(s, a) \\
  & = \underset{a \in \mathcal{A}}{max} \big( r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\star(s') ds'\big) \\
 Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, \underset{a'}{max} \, Q_\star(s',a') ds' \\
 \end{align}
