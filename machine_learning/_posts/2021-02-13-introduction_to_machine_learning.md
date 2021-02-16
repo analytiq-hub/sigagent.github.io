@@ -34,7 +34,10 @@ In machine learning, there are three types of learning tasks:
 In supervised & unsupervised learning, the object being learned is data - for example text, speech, images. In *reinforcement learning* (RL), what is learned are *processes*, using a *reward* function to determie the optimal actions.
 
 ## The CartPole example
-![CartPole](/src/images/cartpole.png)
+<p align="center">
+<img width="350" height="250" src="/src/diagrams/dqn.png"><br>
+([Image source](https://www.analyticsvidhya.com/blog/2020/11/reinforce-algorithm-taking-baby-steps-in-reinforcement-learning/))
+</p>
 
 In this example, a pole is balanced on top of a cart. The environment is two-dimensional. The cart needs to be moved left or right to balance the pole.
 * The *objective* is to keep the pole upright
