@@ -80,7 +80,7 @@ The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random
 
 The disadvantage of this method is that all state values need to be computed with each improvement of the policy $$\pi$$.
 
-## Temporal Difference (TD)
+## Temporal Difference (TD0)
 
 In this method, we do not assume that the model $$P$$ is known. The Policy Improvement step is same as for DP. The Policy Evaluation step for $$V_\pi(s)$$ is different.
 
@@ -92,6 +92,8 @@ We pick a weight factor $$0 \lt \alpha \le 1$$ and a number of episodes $$MAX\_E
 &nbsp;&nbsp;&nbsp;&nbsp; 4: For each $$0 \le t \lt T$$, set $$V_\pi(s_t) = V_\pi(s_t) + \alpha [r(s_t, a_t) + \gamma V_\pi(s_{t+1}) - V_\pi(s_t)]$$  
 
 In step 4, the value $$V_\pi(s_t)$$ is updated with a weighted average between itself and the discounted value of the next step. At the end of steps 1-4, we get an estimate of $$V_\pi(s)$$ for the policy $$\pi$$, and can update $$\pi$$ using the Policy Improvement algorithm, switching back and forth between Policy Evaluation and Policy Improvement until the policy $$\pi$$ stops changing.
+
+A variant TD(n) of the algorithm changes step 4 use the weighted average with the discounted value of the next $$n$$ steps.
 
 ## Q-Learning and SARSA
 
