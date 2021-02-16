@@ -78,7 +78,7 @@ The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random
 &nbsp;&nbsp;&nbsp;&nbsp; 8: Else, stop. The policy $$\pi$$ is optimal.  
 
 
-The disadvantage of this method is that all state values need to be computed with each improvement of the policy $$\pi$$.
+The disadvantages of this method are that all state values need to be computed with each improvement of the policy $$\pi$$; and the model $$P(s' \vert s, a)$$ needs to be known.
 
 ## Temporal Difference (TD0)
 
