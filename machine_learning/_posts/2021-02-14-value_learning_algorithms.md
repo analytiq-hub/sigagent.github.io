@@ -55,7 +55,8 @@ $$
 \begin{align}
 V_\star(s) & = \underset{a \in \mathcal{A}}{max} \, Q_\star(s, a) \\
  & = \underset{a \in \mathcal{A}}{max} \big( r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\star(s') ds'\big) \\
-Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, \underset{a'}{max} \, Q_\star(s',a') ds' \\
+Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, V_\star(s') ds' \\
+ & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, \underset{a'}{max} \, Q_\star(s',a') ds' \\
 \end{align}
 $$
 
