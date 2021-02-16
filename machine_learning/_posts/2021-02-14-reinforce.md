@@ -7,9 +7,9 @@ author:
 ---
 
 This post is part of a series on Reinforcement Learning:
-- [Introduction to Reinforcement Learning](https://bitdribble.github.io/machine_learning/2021/02/13/introduction_to_machine_learning/)
-- [RL: Value Learning Algorithms](https://bitdribble.github.io/machine_learning/2021/02/14/value_learning_algorithms/)
-- [RL: The REINFORCE Algorithm](https://bitdribble.github.io/machine_learning/2021/02/14/reinforce/)
+- [Introduction to Reinforcement Learning](/machine_learning/2021/02/13/introduction_to_machine_learning/)
+- [RL: Value Learning Algorithms](/machine_learning/2021/02/14/value_learning_algorithms/)
+- [RL: The REINFORCE Algorithm](/machine_learning/2021/02/14/reinforce/)
 
 ## Sources
 * [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), L. Graesser and W. L. Keng (2019). Theory and examples, with implementations using [OpenAI Gym](https://gym.openai.com/), pytorch, tensorflow, and [SLM Lab](https://github.com/andrei-radulescu-banu/SLM-Lab)
