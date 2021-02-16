@@ -144,4 +144,4 @@ Episode 221, loss 3556.630859375, total_reward 200.0, solved True
 The total possible reward per episode is 200. The game is solved if the cartpole does not fall in 195 steps out of 200. Up to 300 episodes are tried.
 
 ## Vanilla Actor-Critic Algorithm
-See [here](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#actor-critic) for example. The idea of Actor-Critic is to learn both the policy $$\pi$$ and the action-value $$Q_{\pi_{\theta}}(s, a)$$, and to update policy weights $$\theta$$ in the direction of $$\nabla_\theta Q_{\pi_{\theta}}(s, a)$$ instead of $$\nabla_\theta J_{\pi_{\theta}}$$.
+See [here](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#actor-critic) for example. The idea of Actor-Critic is to learn both the policy $$\pi_\theta$$ and the action-value $$Q_{\pi_{\theta}}(s, a)$$, and to update policy weights $$\theta$$ in the direction of $$\nabla_\theta Q_{\pi_{\theta}}(s, a)$$ instead of $$\nabla_\theta J_{\pi_{\theta}}$$.
