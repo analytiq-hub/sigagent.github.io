@@ -67,7 +67,7 @@ $$
 
 The *objective* of RL problems is to maximize the sum of future rewards, *learning* a good policy $$\pi$$, through trial and error, using the size of rewards to *reinforce* good actions. 
 
-## Markov Dynamic Processes
+## Markov Decision Processes
 
 The states $$s_{t+1}$$, in practice, can only be estimated, stocastically, up to a measurement error:
 
@@ -77,7 +77,7 @@ s_{t+1} \sim P(s_{t+1} \vert (s_0,a_0,s_1,a_1,...,s_t,a_t)
 \end{equation}
 $$
 
-At each step, the state $s_{t+1}$ is sampled from a probability distribution $$P$$ conditoned on past states and actions. To simplify things, we assume that all the information from past states and actions is subsumed into $$(s_t, a_t)$$, turning the process into a Markov Dynamic Process (MDP):
+At each step, the state $s_{t+1}$ is sampled from a probability distribution $$P$$ conditoned on past states and actions. To simplify things, we assume that all the information from past states and actions is subsumed into $$(s_t, a_t)$$, turning the process into a Markov Decision Process (MDP):
 
 $$
 \begin{equation} \label{eq:state_transition_dist}
