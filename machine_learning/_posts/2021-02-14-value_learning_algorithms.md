@@ -63,7 +63,7 @@ In this method, we assume that the model $$P(s' \vert s, a)$$ is known. We build
 |...    |...            |
 |$$s_{m-1}$$|$$V_\pi(s_{m-1})$$|
 
-and continuously update it for a given policy $$\pi$$, until $$V_\pi(s)$$ has converged. Once we have the values $$V_\pi(s)$$, the Bellman equations give us action-values $$Q_\pi(s, a)$$. We then update the policy $$\pi$$, picking in state $$s$$ the action $$a$$ that maximizes $$Q_\pi(s, a)$$, and repeat the process until the policy stops changing.
+and continuously update it for a given policy $$\pi$$ with $$r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'$$, the expected reward plus the discounted value of the next state, until $$V_\pi(s)$$ has converged. Once we have good approximations for $$V_\pi(s)$$, the Bellman equations give us action-values $$Q_\pi(s, a)$$. We then update the policy $$\pi$$, picking in state $$s$$ the action $$a$$ that maximizes $$Q_\pi(s, a)$$, and repeat the process until the policy $$\pi$$ stops changing.
 
 The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V_\pi(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two stages:
 
