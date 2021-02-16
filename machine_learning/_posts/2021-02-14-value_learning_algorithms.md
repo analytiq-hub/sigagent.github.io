@@ -64,7 +64,15 @@ These are called the Bellman optimality equations. The integrals $$\int$$ are in
 
 ## Solving the optimal policy using a system of equations
 
-When the number of states $$\mathcal{S}$$ is very small, and the model $$P(s' \vert s, a)$$ is known, it becomes practical to solve the system of equations given by the Bellman optimality equation for $$V_\star(s) = \int_a \big( r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'\big) da$$. Once $$V_\star(s)$$ is found, $$Q_\star(s, a)$$ can be computed, and the optimal action $$a$$ in state $$s$$ is given by the $$Q_\star$$-greedy policy $$\pi_{greedy}(Q_\star)$$.
+When the number of states $$\mathcal{S}$$ is very small, and the model $$P(s' \vert s, a)$$ is known, it becomes practical to solve the system of equations given by the Bellman optimality equations
+
+$$
+\begin{align*}
+V_\star(s) = \int_a \big( r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'\big) da
+\end{align*}
+$$
+
+Once $$V_\star(s)$$ is found, $$Q_\star(s, a)$$ can be computed, and the optimal action $$a$$ in state $$s$$ is given by the $$Q_\star$$-greedy policy $$\pi_{greedy}(Q_\star)$$.
 
 Formally, for this policy, $$\pi_{greedy}(Q_\star)(s) = \underset{a \in \mathcal{A}}{argmax} \, Q_\star(s, a)$$.
 
