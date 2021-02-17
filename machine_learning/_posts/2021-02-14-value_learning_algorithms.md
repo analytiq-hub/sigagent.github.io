@@ -118,15 +118,13 @@ $$~~~~~~~~$$ 7: If at least one action changed, go back to 1
 $$~~~~~~~~$$ 8: Else, stop. The policy $$\pi$$ is optimal.  
 
 
-The policy $$\pi$$ is guaranteed to eventually stabilize because the sets of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$ are finite:
+The policy $$\pi$$ is guaranteed to eventually stabilize because and the state values $$\V_\pi$$ converge to the optimal state values:
 
 $$
 \begin{align*}
 \pi_0 \rightarrow V_{\pi_0} \rightarrow Q_{\pi_0} \rightarrow \pi_1 \rightarrow ... \rightarrow \pi_n \rightarrow V_{\pi_n} \rightarrow Q_{\pi_n} \rightarrow \pi_n 
 \end{align*}
 $$
-
-There's a sleight of hand here. The finiteness condition guarantees that the policy sequence is eventually periodic, instead of constant. However, picking $$\delta$$ small enough ensures that the policy sequence is eventually constant.
 
 The disadvantages of DP are:
 - All state values need to be computed with each improvement of the policy $$\pi$$
