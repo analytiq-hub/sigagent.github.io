@@ -21,7 +21,7 @@ This post is part of a series dealing with Reinforcement Learning:
 * [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0) (2015)
 * [David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning](https://www.youtube.com/watch?v=uPUEq8d73JI&t=2499s), Lex Fridman Podcast #86 (2020)
 * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html), L. Weng (2018)
-* [OpenAI Baselines](https://github.com/openai/baselines/tree/1f8a03f3a62367526f20215188fb5ea4b9ec27e0), a set of high-quality implementations of reinforcement learning algorithms
+* [OpenAI Baselines](https://github.com/openai/baselines/), a set of high-quality implementations of reinforcement learning algorithms
 * [Offline Reinforcement Learning: Tutorial, Review,and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf), Sergey Levine et al (2020). Explains how RL is modified for offline learning.
 
 Most books available at [https://b-ok.cc](https://b-ok.cc).
