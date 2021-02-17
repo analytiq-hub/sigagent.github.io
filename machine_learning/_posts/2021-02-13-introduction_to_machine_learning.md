@@ -61,7 +61,7 @@ If we denote $$\mathcal{S}, \mathcal{A}$$ the set of states and actions, then th
 
 The *objective* of RL problems is to maximize the sum of future rewards, *learning* a good policy $$\pi$$, through trial and error, using the size of rewards to *reinforce* good actions. 
 
-## Markov Decision Processes
+## Markov Decision Process
 
 The states $$s_{t+1}$$, in practice, can only be estimated, stocastically, up to a measurement error:
 
