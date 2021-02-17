@@ -48,7 +48,7 @@ In this example, a pole is balanced on top of a cart. The environment is two-dim
 Over multiple learning episodes, the agent learns to balance the pole. This is a simple example when the neural network (NN) training does not require a GPU, and learning can be reasonably achieved within around 200 episodes. The algorithm used is REINFORCE.
 
 ## Formulation of the problem
-In reinforcement learning (RL), an agent reads state $$s_t$$ from the environment, acts with action $$a_t$$, and moves the environment to state $$s_{t+1}$$ with reward $$r_{t+1}$$. The cycle then continues, creating a feedback loop:
+In reinforcement learning (RL), an agent reads state $$s_t$$ from the environment, acts with action $$a_t$$, and moves the environment to state $$s_{t+1}$$ with reward $$r_{t+1} \in \mathbb{R}$$. The cycle then continues, creating a feedback loop:
 
 <p align="center">
 <img width="350" height="250" src="/src/diagrams/reinforce_learning_control_loop.png"><br>
