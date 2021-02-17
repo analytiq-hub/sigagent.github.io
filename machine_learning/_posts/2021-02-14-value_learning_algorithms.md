@@ -249,6 +249,6 @@ $$
 \end{align}
 $$
 
-## TO DO: continue
+## TO DO: continue. And add section on Monte Carlo algorithms.
 
 
