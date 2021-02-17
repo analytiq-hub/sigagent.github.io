@@ -99,10 +99,6 @@ $$
 \end{align*}
 $$
 
-<p align="center">
-<img width="250" height="250" src="/src/diagrams/eval_improvement.png">
-</p>
-
 until the policy $$\pi$$ stops changing.
 
 The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two stages:
@@ -134,7 +130,12 @@ The disadvantages of DP are:
 
 #### Generalized Policy Interaction (GPI)
 
-Other algorithms below will define their own Policy Evaluation stage, and reuse the Policy Improvement stage. This algorithm, alternating between evaluation and improvement until the policy $$\pi$$ stops changing, is called GPI. 
+Other algorithms below will define their own Policy Evaluation stage, and reuse the Policy Improvement stage. This algorithm, alternating between evaluation and improvement until the policy $$\pi$$ stops changing, is called GPI.
+
+<p align="center">
+<img width="250" height="250" src="/src/diagrams/eval_improvement.png">
+</p>
+
 
 In DP, the Policy Improvement used state-value $$V(s)$$ as input, and needed to know the model in step 5. Other algorithms, e.g.  $$SARSA, Q$$-learning, will feed action-values $$Q(s, a)$$ to the Policy Improvement stage, and thus are *model-free* in their Policy Improvement.
 
@@ -142,7 +143,8 @@ $$Q$$-learning, as we will see, is model-free in the Policy Evaluation stage as 
 
 ## Temporal Difference Algorithms
 
-This is a family of algorithms: TD0, TD(n), TD($$\epsilon$$). For Temporal Difference algorithms, we do not assume that the model $$P(s' \vert s, a)$$ is known. The Policy Improvement step is same as for DP. The Policy Evaluation step for $$V_\pi(s)$$ is different.
+This is a family of algorithms: TD0, TD(n), TD($$\epsilon$$). For Temporal Dif
+ference algorithms, we do not assume that the model $$P(s' \vert s, a)$$ is known. The Policy Improvement step is same as for DP. The Policy Evaluation step for $$V_\pi(s)$$ is different.
 
 We pick a weight factor $$0 \lt \alpha \le 1$$ and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$V_\pi(s_t)$$ at each step with a value $$G_{\tau, \pi}(s_t)$$, and replacing $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$.
 
