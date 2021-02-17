@@ -257,6 +257,8 @@ $$~~~~~~$$ 7: # Update the network parameters using gradient descent
 $$~~~~~~$$ 8: $$w \leftarrow w - \alpha \nabla_{w} L(w)$$  
 $$~~~~~~$$ 9: Decay $$\epsilon$$  
 
+Like its non-ML counterpart, ML SARSA is *on-policy* because at step 6 it employ $$Q_w(s'_i, a'_i)$$ which depends on the policy implied by the NN weights $$w$$. 
+
 ## TO DO: continue. And add section on Monte Carlo algorithms.
 
 

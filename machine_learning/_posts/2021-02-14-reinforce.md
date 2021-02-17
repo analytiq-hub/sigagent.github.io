@@ -127,6 +127,8 @@ $$~~~~~~$$ 4: Sample a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$
 $$~~~~~~$$ 5: Set $$\nabla_\theta J_{\pi_{\theta}} = \sum_{t=0}^T \{\gamma^t R_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}$$  
 $$~~~~~~$$ 6: $$\theta = \theta + \alpha \nabla_\theta J_{\pi_{\theta}}$$  
 
+The algorithm REINFORCE learns the policy directly, thus cannot be trained on previously collected samples. REINFORCE is a *model-free*, *on-policy* algorithm.
+
 # Example: CartPole
 See the annotated implementation: [reinforce.py](https://github.com/andrei-radulescu-banu/SLM-Lab/blob/master/andrei/reinforce.py). Follow instructions in [README](https://github.com/andrei-radulescu-banu/SLM-Lab/blob/master/README.md) to run. Example output:
 
