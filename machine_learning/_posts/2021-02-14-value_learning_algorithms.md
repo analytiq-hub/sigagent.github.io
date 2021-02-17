@@ -128,7 +128,7 @@ $$
 
 The disadvantages of DP are:
 - All state values need to be computed with each improvement of the policy $$\pi$$
-- The model $$P(s' \vert s, a)$$ needs to be known in advance
+- The model $$P(s' \vert s, a)$$ needs to be known in advance, and is used in Step 5.
 
 ## Temporal Difference Algorithms
 
