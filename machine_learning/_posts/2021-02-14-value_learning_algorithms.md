@@ -233,7 +233,7 @@ Since Q-learning could be performed on data gathered earlier by another policy, 
 
 ## DQN
 
-The algorithms above still assume a small number of state. When the number of states is large, neural networks come to the rescue to approximate the action-value functions $$Q_\pi(s, a)$$.
+The algorithms above still assume a small number of states. When the number of states is large, neural networks come to the rescue to approximate the action-value functions $$Q_\pi(s, a)$$.
 
 We construct a deep neural network with states $$s \in \mathcal{S}$$ as input, and action-value functions $$Q(s, a)$$ outputs for all actions $$a \in \mathcal{A}$$.
 
