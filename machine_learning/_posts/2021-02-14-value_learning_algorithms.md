@@ -254,7 +254,7 @@ $$~~~~~~~~$$ 4: Pick N trajectories $$s_i, a_i, s'_i, a'_i$$ using the current p
 $$~~~~~~~~$$ 5: # Calculate NN loss  
 $$~~~~~~~~$$ 6: $$L(w) \leftarrow \frac{1}{N}\sum_{i=0}^{N-1} (Q_w(s_i, a_i) - r(s_i, a_i) - \gamma Q_w(s'_i, a'_i))^2$$  
 $$~~~~~~~~$$ 7: # Update the network parameters using gradient descent  
-$$~~~~~~~~$$ 8: $$w \rightarrow w - \alpha \nabla_{w} L(w)$$  
+$$~~~~~~~~$$ 8: $$w \leftarrow w - \alpha \nabla_{w} L(w)$$  
 $$~~~~~~~~$$ 9: Decay $$\epsilon$$  
 
 ## TO DO: continue. And add section on Monte Carlo algorithms.
