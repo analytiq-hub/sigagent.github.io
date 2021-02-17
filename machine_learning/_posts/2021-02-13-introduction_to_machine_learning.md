@@ -81,7 +81,7 @@ $$
 
 This formulation is still flexible enough to provide good models. If the process is not Markov, and $$s_{t+1}$$ depends on additional information than $$(s_t,a_t)$$, the state space can often be extended to turn the process into an MDP. The CartPole process, for example, is a Markov process, because the next state is an exact function of the current state and action.
 
-The reward $$r_{t+1} \in \mathbf{R}$$ is assigned for transitioning from state $$s_t$$ through action $$a_t$$ to state $$s_{t+1}$$. We can extend the probability distribution to include rewards:
+The reward $$r_{t+1} \in \mathbb{R}$$ is assigned for transitioning from state $$s_t$$ through action $$a_t$$ to state $$s_{t+1}$$. We can extend the probability distribution to include rewards:
 
 $$
 \begin{align}
@@ -115,14 +115,14 @@ The state transition distribution $$P(s', r \vert s, a)$$ satisfies
 
 $$
 \begin{align*}
-\int_{s' \in \mathcal S} \int_{r \in \mathbf{R}} P(s', r \vert s, a) = 1 \textrm{ for all } s \in \mathcal{S} \textrm{ and } a \in \mathcal{A}
+\int_{s' \in \mathcal S} \int_{r \in \mathbb{R}} P(s', r \vert s, a) = 1 \textrm{ for all } s \in \mathcal{S} \textrm{ and } a \in \mathcal{A}
 \end{align*}
 $$
 
 We define a partial probability
 $$
 \begin{align}
-P(s' \vert s, a) = Pr(s_{t+1} = s' \vert s_t = s, a_t = a) = \int_{r \in \mathbf{R}} P(s', r \vert s, a)
+P(s' \vert s, a) = Pr(s_{t+1} = s' \vert s_t = s, a_t = a) = \int_{r \in \mathbb{R}} P(s', r \vert s, a)
 \end{align}
 $$
 
@@ -136,7 +136,7 @@ We can compute an expected reward for a state-action pair as a function $$r \, :
 
 $$
 \begin{align}
-r(s, a) = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a] = \int_{r \in \mathbf{R}} r \int_{s' \in \mathcal{S}} P(s', r \vert s, a)
+r(s, a) = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a] = \int_{r \in \mathbb{R}} r \int_{s' \in \mathcal{S}} P(s', r \vert s, a)
 \end{align}
 $$
 
@@ -144,7 +144,7 @@ and an expected reward for a state-action-state as a function $$r \, : \, \mathc
 
 $$
 \begin{align}
-r(s, a, s') = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s'] = \int_{r \in \mathbf{R}} r \, \frac{P(s', r \vert s, a)}{P(s' \vert s, a)}
+r(s, a, s') = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s'] = \int_{r \in \mathbb{R}} r \, \frac{P(s', r \vert s, a)}{P(s' \vert s, a)}
 \end{align}
 $$
 
