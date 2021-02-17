@@ -118,7 +118,7 @@ $$~~~~~~~~$$ 7: If at least one action changed, go back to 1
 $$~~~~~~~~$$ 8: Else, stop. The policy $$\pi$$ is optimal.  
 
 
-The policy $$\pi$$ is guaranteed to eventually stabilize because and the state values $$V_\pi$$ converge to the optimal state values:
+The policy $$\pi$$ is guaranteed to eventually stabilize because and the state values $$V_\pi(s)$$ converge to the optimal state values:
 
 $$
 \begin{align*}
