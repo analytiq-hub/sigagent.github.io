@@ -137,9 +137,7 @@ Other algorithms below will define their own Policy Evaluation stage, and reuse 
 </p>
 
 
-In DP, the Policy Improvement used state-value $$V(s)$$ as input, and needed to know the model $$P(s' \vert s, a)$$ in step 5. Other algorithms, e.g.  $$SARSA, Q$$-learning, will feed action-values $$Q(s, a)$$ to the Policy Improvement stage, and thus are *model-free* in their Policy Improvement.
-
-$$Q$$-learning, as we will see, is model-free in the Policy Evaluation stage as well, but $$SARSA$$ is not.
+In DP, the Policy Improvement used state-value $$V(s)$$ as input, and needed to know the model $$P(s' \vert s, a)$$ in step 5. Other algorithms, e.g.  SARSA, Q-learning, will feed action-values $$Q(s, a)$$ to the Policy Improvement stage, and thus are *model-free* in their Policy Improvement.
 
 ## Temporal Difference Algorithms
 
@@ -220,14 +218,14 @@ $$~~~~~~~~~~$$ 7: Set $$Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G_{
 
 $$~~~~$$ 8: Policy Update of $$\pi$$: Same as for DP
 
-It is called SARSA because the update step 6 depends on $$s_t, a_t, r, s_{t+1}, a_{t+1}$$.
+It is called SARSA because the update step 6 depends on $$s_t, a_t, r, s_{t+1}, a_{t+1}$$. This algorithm is *model-free* but *on-policy*, because step 4 depends on $$Q_\pi(s_{t+1}, a_{t+1})$$, which is policy-specific.
 
 The n-step method TD(n) idea - having the function $$G_{\tau, \pi}(s_t, a_t)$$ estimate use n forward steps instead of one - can be extended to SARSA as well.
 
 #### Q-Learning
 This algorithm is same as SARSA but $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \underset{a \in \mathcal{A}}{max} \, Q_\pi(s_{t+1}, a)$$.
 
-Notice that $$G_{\tau, \pi}(s_t, a_t)$$ for Q-Learning does not depend on the policy. The only step during Policy Evaluation depending on the policy is the choice of trajectory $$\tau$$.
+Notice that $$G_{\tau, \pi}(s_t, a_t)$$ for Q-Learning is not policy-specific. The only step during Policy Evaluation depending on the policy is the choice of trajectory $$\tau$$.
 
 However, Q-learning could be used even when the trajectory $$\tau$$ was sampled with a different policy (as long as it is not 'much too different' from the policy being learned).
 
