@@ -57,13 +57,7 @@ The agent-environmeny interation in a Markov Decision Process
 
 The process can end after a finite number of steps $$T$$, or can continue indefinitely. The agent's goal is to learn a policy $$\pi(a_t \vert s_t)$$ that defines the distribution of actions $$a_t$$ conditioned by state $$s_t$$, with the goal of maximizing the sum of all rewards for the next steps $$r_{t+1} + r_{t+2} + ...$$.
 
-If we denote $$\mathcal{S}, \mathcal{A}$$ the set of states and actions, then the policy $$\pi$$ is a conditional distribution $$\pi(a_t \vert s_t)$$ of actions $$a_t \in \mathcal{A}$$ conditioned by states $$s_t \in \mathcal{S}$$. The rewards are a real-valued function
-
-$$
-\begin{equation}
-r : \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}
-\end{equation}
-$$
+If we denote $$\mathcal{S}, \mathcal{A}$$ the set of states and actions, then the policy $$\pi$$ is a conditional distribution $$\pi(a_t \vert s_t)$$ of actions $$a_t \in \mathcal{A}$$ conditioned by states $$s_t \in \mathcal{S}$$. 
 
 The *objective* of RL problems is to maximize the sum of future rewards, *learning* a good policy $$\pi$$, through trial and error, using the size of rewards to *reinforce* good actions. 
 
@@ -87,13 +81,22 @@ $$
 
 This formulation is still flexible enough to provide good models. If the process is not Markov, and $$s_{t+1}$$ depends on additional information than $$(s_t,a_t)$$, the state space can often be extended to turn the process into an MDP. The CartPole process, for example, is a Markov process, because the next state is an exact function of the current state and action.
 
-In an MDP, $$P(s_{t+1} \vert s_t,a_t)$$ represents the state transition distribution.
+The reward $$r_{t+1} \in \mathbf{R}$$ is assigned for transitioning from state $$s_t$$ through action $$a_t$$ to state $$s_{t+1}$$. We can extend the probability distribution to include rewards:
+
+$$
+\begin{align}
+s_{t+1}, r_{t+1} \sim P(s_{t+1}, r_{t+1} \vert s_t,a_t)
+\end{align}
+$$
+
+This is a slightly more general formulation where the rewards are seen as a conditional distribution over $$s_t, a_t$$.
+
+In an MDP, $$P(s_{t+1}, r_{t+1} \vert s_t,a_t)$$ represents the state transition distribution.
 
 A Markov Decision Process (MDP) consists, in general, of
 * A set of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$
 * A distribution of the initial state $$d(s_0)$$
-* A state transition distribution $$P(s_{t+1} \vert s_t, a_t)$$ representing the probability of arriving to state $$s_{t+1}$$ fron $$s_{t}$$ when applying action $$a_t$$
-* A reward function $$r : \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}$$ denoting the reward obtained when applying action $$a_t$$ in state $$s_t$$.
+* A state transition distribution $$P(s_{t+1}, r_{t+1} \vert s_t, a_t)$$ representing the probability of arriving to state ($$s_{t+1}, r_{t+1})$$ fron $$s_{t}$$ when applying action $$a_t$$
 
 Here is an example of a finite MDP (<a href="https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-3-the-markov-decision-process-9f5066e073a2">source</a>):
 - The yellow nodes are states $$s$$
