@@ -220,7 +220,7 @@ $$~~~~~~~~~~$$ 7: Set $$Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G_{
 
 $$~~~~$$ 8: Policy Update of $$\pi$$: Same as for DP
 
-It is called SARSA because the update step 6 depends on $$s_t, a_t, r(s_t, a_t), s_{t+1}, a_{t+1}$$.
+It is called SARSA because the update step 6 depends on $$s_t, a_t, r, s_{t+1}, a_{t+1}$$.
 
 The n-step method TD(n) idea - having the function $$G_{\tau, \pi}(s_t, a_t)$$ estimate use n forward steps instead of one - can be extended to SARSA as well.
 
