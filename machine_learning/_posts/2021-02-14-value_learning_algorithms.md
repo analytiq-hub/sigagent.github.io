@@ -130,7 +130,7 @@ The disadvantages of DP are:
 
 #### Generalized Policy Interaction (GPI)
 
-Other algorithms below will define their own Policy Evaluation stage, and reuse the Policy Improvement stage. This algorithm, alternating between evaluation and improvement until the policy $$\pi$$ stops changing, is called GPI.
+Other algorithms below will define their own Policy Evaluation stage, and reuse the Policy Improvement stage. This algorithm, alternating between evaluation and improvement until the policy $$\pi$$ stops changing, is called Generalized Policy Interaction (GPI).
 
 <p align="center">
 <img width="250" height="250" src="/src/diagrams/eval_improvement.png">
