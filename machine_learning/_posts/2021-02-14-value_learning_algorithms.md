@@ -193,20 +193,20 @@ These algorithms can be thought to update the action-value table below, based on
 |...    |...            |...            |     |...                  |
 |$$s_{m-1}$$|$$Q(s_{m-1}, a_0)$$|$$Q(s_{m-1}, a_1)$$||$$Q(s_{m-1}, a_{n-1})$$|
 
-Note that the policy $$\pi$$ can be immediately be updated from the table, because $$Q(s, a)$$ is already computed.
+The policy $$\pi$$ can be immediately be updated from the table, because $$Q(s, a)$$ is already computed.
 
 In both algorithms, the table is randomly initialized with numbers $$Q(s, a)$$.
 
 We pick a weight factor $$0 \lt \alpha \le 1$$, a small number $$0\le \epsilon <1 $$, and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$Q_\pi(s_t, a_t)$$ at each step with a value $$G_{\tau, \pi}(s_t, a_t)$$, replacing
 $$
 \begin{align}
-Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q_\pi(s_t, a_t))
+Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q_\pi(s_{t+1}, a_{t+1}))
 \end{align}
 $$
 
 For SARSA, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma Q_\pi(s_t, a_t)$$.
 
-For Q-Learning, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \underset{a}{max} \, Q_\pi(s_t, a)$$.
+For Q-Learning, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \underset{a \in \mathcal{A}}{max} \, Q_\pi(s_{t+1}, a)$$.
 
 #### SARSA
 
@@ -215,7 +215,7 @@ $$~~~~$$ 2: Policy Evaluation for $$\pi$$:
 $$~~~~~~$$ 3: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
 $$~~~~~~~~$$ 4: Pick a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$ using $$\pi$$ (or $$\pi_\epsilon$$)  
 $$~~~~~~~~$$ 5: For each $$0 \le t \lt T$$  
-$$~~~~~~~~~~$$ 6: Set $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma Q_\pi(s_t, a_t)$$  
+$$~~~~~~~~~~$$ 6: Set $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma Q_\pi(s_{t+1}, a_{t+1})$$  
 $$~~~~~~~~~~$$ 7: Set $$Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q_\pi(s_t, a_t))$$
 
 $$~~~~$$ 8: Policy Update of $$\pi$$: Same as for DP
@@ -223,7 +223,7 @@ $$~~~~$$ 8: Policy Update of $$\pi$$: Same as for DP
 The n-step method TD(n) idea - having the function $$G_{\tau, \pi}(s_t, a_t)$$ estimate use n forward steps instead of one - can be extended to SARSA as well.
 
 #### Q-Learning
-This algorithm is same as SARSA but $$G_{\tau, pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \underset{a}{max} \, Q_\pi(s_t, a)$$.
+This algorithm is same as SARSA but $$G_{\tau, pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \underset{a \in \mathcal{A}}{max} \, Q_\pi(s_{t+1}, a)$$.
 
 Notice that $$G_{\tau, \pi}(s_t, a_t)$$ for Q-Learning does not depend on the policy; the only step during Policy Evaluation depending on the policy is the choice of trajectory $$\tau$$. This is a weak dependency on policy, and, in practice, this means which depends even if the expression $$Q_\pi(s_t, a)$$ shows on the right side, this is merely an approximation of the action-value function for $$\pi$$. 
 
