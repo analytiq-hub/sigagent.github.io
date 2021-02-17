@@ -98,22 +98,22 @@ A Markov Decision Process (MDP) consists, in general, of
 * A distribution of the initial state $$d(s_0)$$
 * A state transition distribution $$P(s_{t+1}, r_{t+1} \vert s_t, a_t)$$ representing the probability of arriving to state ($$s_{t+1}, r_{t+1})$$ fron $$s_{t}$$ when applying action $$a_t$$
 
+The successor state of a state $$s$$ when applying action $$a$$ is also denoted $$s'$$.
+
 Here is an example of a finite MDP (<a href="https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-3-the-markov-decision-process-9f5066e073a2">source</a>):
 - The yellow nodes are states $$s$$
-- The blue diamonds are actions $$a$$,  with stochastic outcomes labeled with $$P(s' \vert s, a)$$
+- The blue diamonds are actions $$a$$,  with stochastic outcomes and rewards labeled with $$P(s' , r \vert s, a)$$
 - The ribbons (and bombs) are the rewards $$r$$
 <p align="center">
 <img src="/src/images/example_mdp.jpg">
 Workday Model (<a href="https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-3-the-markov-decision-process-9f5066e073a2">source</a>)
 </p>
 
-The successor state of a state $$s$$ when applying action $$a$$ is also denoted $$s'$$.
-
 In the Workday Model example, $$P(s' \vert s, a)$$ is known for all states $$s$$ and actions $$a$$, and we say that the model is known. Agents do not always have direct access to $$P(s' \vert s, a)$$, but it can, however, be sampled.
 
-## Reward function
+## Reward functions
 
-Even though the reward is defined as a probability distribution, it can be condensed as a 
+Even though the reward is defined as a probability distribution, its expected value is a function of states and actions. 
 
 ## Trajectories
 
