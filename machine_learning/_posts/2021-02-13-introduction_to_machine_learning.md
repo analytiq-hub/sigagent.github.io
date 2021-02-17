@@ -104,7 +104,7 @@ Here is an example of a finite MDP (<a href="https://medium.com/ai%C2%B3-theory-
 - The ribbons (and bombs) are the rewards $$r$$
 <p align="center">
 <img src="/src/images/example_mdp.jpg">
-Workday Model (<a href="https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-3-the-markov-decision-process-9f5066e073a2">source</a>>)
+Workday Model (<a href="https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-3-the-markov-decision-process-9f5066e073a2">source</a>)
 </p>
 
 The successor state of a state $$s$$ when applying action $$a$$ is also denoted $$s'$$.
