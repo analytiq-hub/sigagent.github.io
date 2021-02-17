@@ -279,4 +279,8 @@ It is similar to SARSA, except that
 
 Furthermore, batch memory replay for DQN can emply a much larger buffer of weight updates - between 10,000 and 1,000,000 - because DQN is off policy, and does not have to only use recent memory replays like SARSA.
 
+DQN References:
+- [Human-level control through deep reinforcement learning](https://hallab.cs.dal.ca/images/0/00/Minh2015.pdf), V. Mnih et al, Nature(2015). See p. 3 for DQN performance on Atari games compared with human-level.
+- [Deep Q Network (DQN)](https://towardsdatascience.com/deep-q-network-dqn-i-bce08bdf2af), J. Torres (2020): example implementation using Torch
+
 
