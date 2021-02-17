@@ -48,14 +48,14 @@ In this example, a pole is balanced on top of a cart. The environment is two-dim
 Over multiple learning episodes, the agent learns to balance the pole. This is a simple example when the neural network (NN) training does not require a GPU, and learning can be reasonably achieved within around 200 episodes. The algorithm used is REINFORCE.
 
 ## Formulation of the problem
-In reinforcement learning (RL), an agent in state $$s_t$$ acts with action $$a_t$$, gets reward $$r(a_t, s_t) \in \mathbb{R}$$, and moves to state $$s_{t+1}$$. The cycle then continues, creating a feedback loop:
+In reinforcement learning (RL), an agent reads state $$s_t$$ from the environment, acts with action $$a_t$$, and moves the environment to state $$s_{t+1}$$ with reward $$r_{t+1}$$. The cycle then continues, creating a feedback loop:
 
 <p align="center">
 <img width="350" height="250" src="/src/diagrams/reinforce_learning_control_loop.png"><br>
 The agent-environmeny interation in a Markov Decision Process
 </p>
 
-The process can end after a finite number of steps $$T$$, or can continue indefinitely. The agent's goal is to learn a policy $$\pi(a_t \vert s_t)$$ that defines the distribution of actions $$a_t$$ conditioned by state $$s_t$$, with the goal of maximizing the sum of all rewards for the next steps $$r(s_t, a_t) + r(s_{t+1}, a_{t+1}) + ... + r(s_T, a_T)$$.
+The process can end after a finite number of steps $$T$$, or can continue indefinitely. The agent's goal is to learn a policy $$\pi(a_t \vert s_t)$$ that defines the distribution of actions $$a_t$$ conditioned by state $$s_t$$, with the goal of maximizing the sum of all rewards for the next steps $$r_{t+1} + r_{t+2} + ...$$.
 
 If we denote $$\mathcal{S}, \mathcal{A}$$ the set of states and actions, then the policy $$\pi$$ is a conditional distribution $$\pi(a_t \vert s_t)$$ of actions $$a_t \in \mathcal{A}$$ conditioned by states $$s_t \in \mathcal{S}$$. The rewards are a real-valued function
 
