@@ -130,6 +130,8 @@ In the Workday Model example, $$P(s' \vert s, a)$$ is known for all states $$s$$
 
 ## Expected reward functions
 
+We can compute an expected reward for a state-action pair as a function $$r \, : \, \mathcal{S} \times  \mathcal{A} \rightarrow \mathbb{R}$$
+
 ## Trajectories
 
 A sequence of states and actions defines a possibly infinite trajectory
