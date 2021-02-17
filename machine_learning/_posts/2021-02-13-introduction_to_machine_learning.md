@@ -101,7 +101,7 @@ A Markov Decision Process (MDP) consists, in general, of
 Here is an example of a finite MDP (<a href="https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-3-the-markov-decision-process-9f5066e073a2">source</a>):
 - The yellow nodes are states $$s$$
 - The blue diamonds are actions $$a$$,  with stochastic outcomes labeled with $$P(s' \vert s, a)$$
-- The ribbons (and bombs) are the rewards $$r(s, a)$$
+- The ribbons (and bombs) are the rewards $$r$$
 <p align="center">
 <img src="/src/images/example_mdp.jpg">
 </p>
