@@ -124,8 +124,8 @@ $$
 
 The disadvantages of DP are:
 - All state values need to be computed with each improvement of the policy $$\pi$$
-- The model $$P(s' \vert s, a)$$ needs to be known in advance, and is used in steps 2 and 5.
-- Thus, DP is an *on-policy* algorithm (i.e., it needs to know the model).
+- The model dynamics $$P(s' \vert s, a)$$ need to be known in advance, and are used in steps 2 and 5.
+- Thus, DP is a *model-based* algorithm.
 
 
 #### Generalized Policy Interaction (GPI)
@@ -161,9 +161,11 @@ $$~~~~~~~~~~~~~~$$ 7: Take action $$a_t$$, observe $$r(s_t, a_t)$$, $$s_{t+1}$$
 $$~~~~~~~~~~~~~~$$ 8: Set $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$  
 $$~~~~~~~~~~~~~~$$ 9: Set $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$  
 
-$$~~~~$$ 10: Policy Update of $$\pi$$: Same as for DP  
+$$~~~~$$ 10: Policy Update of $$\pi$$: Same as for DP
 
 In step 9, the value $$V_\pi(s_t)$$ is updated with a weighted average between itself and the discounted value of the next step. At the end of steps 1-9, we get an estimate of $$V_\pi(s)$$ for the policy $$\pi$$, and can update $$\pi$$ using the same Policy Improvement algorithm from DP, switching back and forth between Policy Evaluation and Policy Improvement until the policy $$\pi$$ stops changing.
+
+The Policy Evaluation stage of TD is model-free. The GPI stage is not, because DT feeds in the state-vaue function $$V(s)$$ to the Policy Update step.
 
 #### TD(n) Algorithm
 A variant TD(n) of the TD algorithm changes step 5 to sample the entire trajectory at once, and changes step 8 to use the weighted average with the discounted value of the next $$n$$ steps:
@@ -180,7 +182,7 @@ Another variant TD($$\epsilon$$) of TD changes the Policy Evaluation stage to ap
 
 ## Q-Learning and SARSA
 
-The Policy Improvement step for these algorithms is also same as for DP. But, rather than learn the value function $$V_\pi(s)$$, the Q-Learning and SARSA algorithms learn directly the action-vaue function $$Q_\pi(s, a)$$.
+The Policy Improvement step for these algorithms is also same as for DP. But, rather than learn the value function $$V_\pi(s)$$, the Q-Learning and SARSA algorithms learn directly the action-vaue function $$Q_\pi(s, a)$$, and pass that as input to the Policy Improvement stage.
 
 These algorithms can be thought to update the action-value table below, based on the policy $$\pi$$; then, they update the policy $$\pi$$ based on the table, and iterate the process until the policy $$\pi$$ stops changing.
 
