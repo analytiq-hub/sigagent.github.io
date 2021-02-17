@@ -233,9 +233,7 @@ However, Q-learning could be used even when the trajectory $$\tau$$ was sampled 
 
 Since Q-learning could be performed on data gathered earlier by another policy, it is an *off-policy* algorithm.
 
-## SARSA: The NN Version
-
-## DQN
+## ML algorithms: SARSA, DQN
 
 The algorithms above still assume a small number of states. When the number of states is large, neural networks come to the rescue to approximate the action-value functions $$Q_\pi(s, a)$$.
 
