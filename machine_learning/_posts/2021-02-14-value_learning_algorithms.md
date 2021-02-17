@@ -142,7 +142,7 @@ For the TD0 algorithm, $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\p
 $$~~~~$$ 1: Policy Evaluation for $$\pi$$:  
 $$~~~~~~~~$$  2: Initialize all $$V_\pi(s)$$ to random values  
 $$~~~~~~~~$$  3: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
-$$~~~~~~~~~~~~$$ 4: Pick $$s_0 \eps \mathcal{S}$$
+$$~~~~~~~~~~~~$$ 4: Pick $$s_0 \in \mathcal{S}$$
 $$~~~~~~~~~~~~$$ 5: For $$t=0, ..., T-1$$
 $$~~~~~~~~~~~~~~$$ 6: Set $$a_t \leftarrow$$ action given by $$\pi$$ for $$s_t$$
 $$~~~~~~~~~~~~~~$$ 7: Take action $$a_t$$, observe $$r(s_t, a_t)$$, $$s_{t+1}$$
