@@ -126,6 +126,8 @@ P(s' \vert s, a) = Pr(s_{t+1} = s' \vert s_t = s, a_t = a) = \int_{r \in \mathbf
 \end{align}
 $$
 
+and call this the *state transition model* of the MDP.
+
 In the Workday Model example, $$P(s' \vert s, a)$$ is known for all states $$s$$ and actions $$a$$. In this case, we say that the model is known. Agents do not always have direct access to the model $$P(s' \vert s, a)$$, but it can, however, be sampled.
 
 ## Expected reward functions
