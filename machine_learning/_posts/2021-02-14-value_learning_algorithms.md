@@ -227,7 +227,7 @@ This algorithm is same as SARSA but $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, 
 
 Notice that $$G_{\tau, \pi}(s_t, a_t)$$ for Q-Learning is not policy-specific. The only step depending on the policy is the choice of trajectory $$\tau$$.
 
-However, Q-learning could be used even when the trajectory $$\tau$$ was sampled with a different policy (as long as it is not 'much too different' from the policy being learned).
+However, Q-learning could be used even when the trajectory $$\tau$$ was sampled with a different policy (as long as it is not 'much too different' from the policy being learned, loosely speaking).
 
 Since Q-learning could be performed on data gathered earlier by another policy, it is an *off-policy* algorithm.
 
