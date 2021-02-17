@@ -89,7 +89,7 @@ s_{t+1}, r_{t+1} \sim P(s_{t+1}, r_{t+1} \vert s_t,a_t)
 \end{align}
 $$
 
-This is a slightly more general formulation where the rewards are seen as a conditional distribution over $$s_t, a_t$$.
+This is a slightly more general formulation where the rewards are seen as a conditional distribution over $$s_t, a_t$$ unrelated to the next state $$s_{t+1}$$.
 
 In an MDP, $$P(s_{t+1}, r_{t+1} \vert s_t,a_t)$$ represents the state transition distribution.
 
