@@ -237,19 +237,25 @@ Since Q-learning could be performed on data gathered earlier by another policy, 
 
 The algorithms above still assume a small number of states. When the number of states is large, neural networks come to the rescue to approximate the action-value functions $$Q_\pi(s, a)$$.
 
-We construct a deep neural network with states $$s \in \mathcal{S}$$ as input, and action-value functions $$Q(s, a)$$ outputs for all actions $$a \in \mathcal{A}$$.
+The setup is the same for the ML version of SARSA and for DQN. We construct a deep neural network with states $$s \in \mathcal{S}$$ as input, and action-value functions $$Q(s, a)$$ outputs for all actions $$a \in \mathcal{A}$$.
 
 <p align="center">
 <img width="350" height="250" src="/src/diagrams/dqn.png">
 </p>
 
-Denote $$w$$ the weights of the NN, and $$Q_w(s, a)$$ the output of the NN. The loss function is defined as
+Denote $$w$$ the weights of the NN, and $$Q_w(s, a)$$ the output of the NN. Initialize a learning rate $$\alpha$$.
 
-$$
-\begin{align}
-\mathcal{L}_w(s) =\big( \big)^2
-\end{align}
-$$
+### ML SARSA
+
+$$~~~~$$ 1: Initialize $$\epsilon > 0$$
+$$~~~~$$ 1: Randomly initialize the network weights $$w$$
+$$~~~~~~$$ 3: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
+$$~~~~~~~~$$ 4: Pick N trajectories $$s_i, a_i, s'_i, a'_i$$ using the current policy $$\pi_\eps$$
+$$~~~~~~~~$$ 3: # Calculate NN loss
+$$~~~~~~~~$$ 3: $$L(w) \leftarrow \frac{1}{N}\sum_{i=0}^{N-1} (Q_w(s_i, a_i) - r(s_i, a_i) - \gamma Q_w(s'_i, a'_i))^2$$
+$$~~~~~~~~$$ 3: # Update the network parameters using gradient descent
+$$~~~~~~~~$$ 3: $$w \rightarrow w - \alpha \nabla_{w} L(w)$$
+$$~~~~~~~~$$ 3: Decay $$\epsilon$$
 
 ## TO DO: continue. And add section on Monte Carlo algorithms.
 
