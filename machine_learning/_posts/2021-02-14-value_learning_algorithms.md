@@ -112,7 +112,7 @@ $$~~~~~~~~$$ 2: For each state $$s$$, set $$V(s) \leftarrow r(s, a) + \gamma \in
 $$~~~~~~~~$$ 3: Repeat 2 until $$\vert \delta_s \vert \lt \delta $$ for all $$s$$.
 
 $$~~~~$$ 4: Policy Improvement:  
-$$~~~~~~~~$$ 5: For each state $$s$$, compute $$Q(s, a) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V(s') ds'$$
+$$~~~~~~~~$$ 5: For each state $$s$$, compute $$Q(s, a) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V(s') ds'$$  
 $$~~~~~~~~$$ 6: For each state $$s$$, set $$\pi \leftarrow \pi_{greedy}(Q)$$ defined by $$\pi_{greedy}(Q)(s) \leftarrow \underset{a \in {\mathcal{A}}}{argmax} \, Q(s, a)$$  
 $$~~~~~~~~$$ 7: If at least one action changed, go back to 1   
 $$~~~~~~~~$$ 8: Else, stop. The policy $$\pi$$ is optimal.  
