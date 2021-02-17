@@ -261,6 +261,22 @@ Like its non-ML counterpart, ML SARSA is *on-policy* because at step 6 it employ
 
 To improve the performce, ML-SARSA can save in step 8 the adjusted weights $$w$$, and only apply an average adjustment after a batch of episodes. This technique is an example of *on-policy batched memory replay*. Aternatively, the weight adjustments for a batch of episodes can be applied all at once.
 
-## TO DO: continue. And add section on Monte Carlo algorithms.
+Instead of an $$\epsilon$$-greedy policy $$\pi_\epsilon$$ in step 4, one can use a Boltzmann policy $$\pi_{boltzmann}$$ which, in state $$s$$, favors random selection of states $$s'$$ sampled by higher action-valie $$Q_\pi(s', a')$$. With the Bolzmann policy, actions are sampled according to the distribution
+
+$$
+\begin{align}
+p_{bolzmann}(a \vert s) = \frac{e^{Q_\pi(s, a)/\tau}}{\sum_{a'}e^{Q_\pi(s, a)/\tau}}
+\end{align}
+$$
+
+The *temperature* factor $$\tau$$ in the Bolzmann policy is decayed in step 9 of the algorithm. As $$\tau$$ approaches 0, $$p_{bolzmann}(a \vert s)$$ converges to 1 for actions $$a$$ that maximize $$Q_\pi(s, a)$$.
+
+### The DQN algorithm
+
+It is similar to SARSA, except that
+- In step 4, we pick only a trajectory $$s_i, a_i, s'_i$$
+- In step 6, the network loss function is updated according to the Q-learning method $$L(w) \leftarrow \frac{1}{N}\sum_{i=0}^{N-1} \big(Q_w(s_i, a_i) - r(s_i, a_i) - \gamma \underset{a'_i}Q_w(s'_i, a'_i)\big)^2$$
+
+Furthermore, batch memory replay for DQN can emply a much larger buffer of weight updates - between 10,000 and 1,000,000 - because DQN is off policy, and does not have to only use recent memory replays like SARSA.
 
 
