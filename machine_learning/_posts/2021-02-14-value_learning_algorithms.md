@@ -218,7 +218,9 @@ $$~~~~~~~~~~$$ 7: Set $$Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G_{
 
 $$~~~~$$ 8: Policy Update of $$\pi$$: Same as for DP
 
-It is called SARSA because the update step 6 depends on $$s_t, a_t, r, s_{t+1}, a_{t+1}$$. This algorithm is *model-free* but *on-policy*, because step 4 depends on $$Q_\pi(s_{t+1}, a_{t+1})$$, which is policy-specific.
+It is called SARSA because the update step 6 depends on $$s_t, a_t, r, s_{t+1}, a_{t+1}$$. We could always use $$T = 2$$ in SARSA.
+
+This algorithm is *model-free* but *on-policy*, because step 4 depends on $$Q_\pi(s_{t+1}, a_{t+1})$$, which is policy-specific.
 
 The n-step method TD(n) idea - having the function $$G_{\tau, \pi}(s_t, a_t)$$ estimate use n forward steps instead of one - can be extended to SARSA as well.
 
@@ -230,6 +232,8 @@ Notice that $$G_{\tau, \pi}(s_t, a_t)$$ for Q-Learning is not policy-specific. T
 However, Q-learning could be used even when the trajectory $$\tau$$ was sampled with a different policy (as long as it is not 'much too different' from the policy being learned, loosely speaking).
 
 Since Q-learning could be performed on data gathered earlier by another policy, it is an *off-policy* algorithm.
+
+## SARSA: The NN Version
 
 ## DQN
 
