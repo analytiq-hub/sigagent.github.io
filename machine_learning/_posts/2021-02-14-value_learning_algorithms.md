@@ -154,7 +154,7 @@ $$~~~~$$ 10: Policy Update of $$\pi$$: Same as for DP
 In step 9, the value $$V_\pi(s_t)$$ is updated with a weighted average between itself and the discounted value of the next step. At the end of steps 1-9, we get an estimate of $$V_\pi(s)$$ for the policy $$\pi$$, and can update $$\pi$$ using the same Policy Improvement algorithm from DP, switching back and forth between Policy Evaluation and Policy Improvement until the policy $$\pi$$ stops changing.
 
 #### TD(n) Algorithm
-A variant TD(n) of the TD algorithm changes step 5 use the weighted average with the discounted value of the next $$n$$ steps:
+A variant TD(n) of the TD algorithm changes step 5 to sample the entire trajectory at once, and changes step 8 to use the weighted average with the discounted value of the next $$n$$ steps:
 
 $$
 \begin{align}
