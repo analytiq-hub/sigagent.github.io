@@ -52,7 +52,7 @@ In reinforcement learning (RL), an agent in state $$s_t$$ acts with action $$a_t
 
 <p align="center">
 <img width="350" height="250" src="/src/diagrams/reinforce_learning_control_loop.png"><br>
-(<a href="https://www.analyticsvidhya.com/blog/2020/11/reinforce-algorithm-taking-baby-steps-in-reinforcement-learning/">Image source</a>)
+The agent-environmeny interation in a Markov Decision Process
 </p>
 
 The process can end after a finite number of steps $$T$$, or can continue indefinitely. The agent's goal is to learn a policy $$\pi(a_t \vert s_t)$$ that defines the distribution of actions $$a_t$$ conditioned by state $$s_t$$, with the goal of maximizing the sum of all rewards for the next steps $$r(s_t, a_t) + r(s_{t+1}, a_{t+1}) + ... + r(s_T, a_T)$$.
