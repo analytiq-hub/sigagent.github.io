@@ -109,15 +109,17 @@ Here is an example of a finite MDP (<a href="https://medium.com/ai%C2%B3-theory-
 Workday Model (<a href="https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-3-the-markov-decision-process-9f5066e073a2">source</a>)
 </p>
 
-## Three-argument state transition probability distribution
+## Three-argument state transition distribution
 
 The state transition distribution $$P(s', r \vert s, a)$$ satisfies
+
 $$
 \begin{align*}
-\int_{s' \in \mathcal S} \int_{r \in \mathbf{R}} P(s', r \vert s, a) = 1
+\int_{s' \in \mathcal S} \int_{r \in \mathbf{R}} P(s', r \vert s, a) = 1 \textrm{ for all } s \in \mathcal{S} \textrm{ and } a \in \mathcal{A}
 \end{align*}
 $$
-for all $$s \in \mathcal{S}$$ and $$a \in \mathcal{A}$$. We define a partial probability
+
+We define a partial probability
 $$
 \begin{align}
 P(s' \vert s, a) = Pr(s_{t+1} = s' \vert s_t = s, a_t = a) = \int_{r \in \mathbf{R}} P(s', r \vert s, a)
@@ -125,6 +127,8 @@ P(s' \vert s, a) = Pr(s_{t+1} = s' \vert s_t = s, a_t = a) = \int_{r \in \mathbf
 $$
 
 In the Workday Model example, $$P(s' \vert s, a)$$ is known for all states $$s$$ and actions $$a$$, and we say that the model is known. Agents do not always have direct access to $$P(s' \vert s, a)$$, but it can, however, be sampled.
+
+## Expected reward functions
 
 ## Trajectories
 
