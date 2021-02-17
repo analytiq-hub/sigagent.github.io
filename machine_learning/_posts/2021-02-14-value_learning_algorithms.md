@@ -142,14 +142,16 @@ For the TD0 algorithm, $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\p
 $$~~~~$$ 1: Policy Evaluation for $$\pi$$:  
 $$~~~~~~~~$$  2: Initialize all $$V_\pi(s)$$ to random values  
 $$~~~~~~~~$$  3: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
-$$~~~~~~~~~~~~$$ 4: Pick a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$ using policy $$\pi$$  
-$$~~~~~~~~~~~~$$ 5: For each $$0 \le t \lt T$$  
-$$~~~~~~~~~~~~~~$$ 6: Set $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$  
-$$~~~~~~~~~~~~~~$$ 7: Set $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$
+$$~~~~~~~~~~~~$$ 4: Pick $$s_0 \eps \mathcal{S}$$
+$$~~~~~~~~~~~~$$ 5: For $$t=0, ..., T-1$$
+$$~~~~~~~~~~~~~~$$ 6: Set $$a_t \leftarrow$$ action given by $$\pi$$ for $$s_t$$
+$$~~~~~~~~~~~~~~$$ 7: Take action $$a_t$$, observe $$r(s_t, a_t)$$, $$s_{t+1}$$
+$$~~~~~~~~~~~~~~$$ 8: Set $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$  
+$$~~~~~~~~~~~~~~$$ 9: Set $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$
 
-$$~~~~$$ 8: Policy Update of $$\pi$$: Same as for DP  
+$$~~~~$$ 10: Policy Update of $$\pi$$: Same as for DP  
 
-In step 6, the value $$V_\pi(s_t)$$ is updated with a weighted average between itself and the discounted value of the next step. At the end of steps 1-6, we get an estimate of $$V_\pi(s)$$ for the policy $$\pi$$, and can update $$\pi$$ using the same Policy Improvement algorithm from DP, switching back and forth between Policy Evaluation and Policy Improvement until the policy $$\pi$$ stops changing.
+In step 9, the value $$V_\pi(s_t)$$ is updated with a weighted average between itself and the discounted value of the next step. At the end of steps 1-9, we get an estimate of $$V_\pi(s)$$ for the policy $$\pi$$, and can update $$\pi$$ using the same Policy Improvement algorithm from DP, switching back and forth between Policy Evaluation and Policy Improvement until the policy $$\pi$$ stops changing.
 
 #### TD(n) Algorithm
 A variant TD(n) of the TD algorithm changes step 5 use the weighted average with the discounted value of the next $$n$$ steps:
