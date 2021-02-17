@@ -109,7 +109,7 @@ Here is an example of a finite MDP (<a href="https://medium.com/ai%C2%B3-theory-
 Workday Model (<a href="https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-3-the-markov-decision-process-9f5066e073a2">source</a>)
 </p>
 
-## Three-argument state transition distribution
+## The state transition model
 
 The state transition distribution $$P(s', r \vert s, a)$$ satisfies
 
