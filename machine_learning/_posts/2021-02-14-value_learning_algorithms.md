@@ -257,7 +257,9 @@ $$~~~~~~$$ 7: # Update the network parameters using gradient descent
 $$~~~~~~$$ 8: $$w \leftarrow w - \alpha \nabla_{w} L(w)$$  
 $$~~~~~~$$ 9: Decay $$\epsilon$$  
 
-Like its non-ML counterpart, ML SARSA is *on-policy* because at step 6 it employ $$Q_w(s'_i, a'_i)$$ which depends on the policy implied by the NN weights $$w$$. 
+Like its non-ML counterpart, ML SARSA is *on-policy* because at step 6 it employ $$Q_w(s'_i, a'_i)$$ which depends on the policy implied by the NN weights $$w$$.
+
+To improve the performce, ML-SARSA can save in step 8 the adjusted weights $$w$$, and only apply an average adjustment after a batch of episodes. This technique is an example of *on-policy batched memory replay*. Aternatively, the weight adjustments for a batch of episodes can be applied all at once.
 
 ## TO DO: continue. And add section on Monte Carlo algorithms.
 
