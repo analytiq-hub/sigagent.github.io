@@ -137,7 +137,7 @@ Other algorithms below will define their own Policy Evaluation stage, and reuse 
 </p>
 
 
-In DP, the Policy Improvement used state-value $$V(s)$$ as input, and needed to know the model in step 5. Other algorithms, e.g.  $$SARSA, Q$$-learning, will feed action-values $$Q(s, a)$$ to the Policy Improvement stage, and thus are *model-free* in their Policy Improvement.
+In DP, the Policy Improvement used state-value $$V(s)$$ as input, and needed to know the model $$P(s' \vert s, a)$$ in step 5. Other algorithms, e.g.  $$SARSA, Q$$-learning, will feed action-values $$Q(s, a)$$ to the Policy Improvement stage, and thus are *model-free* in their Policy Improvement.
 
 $$Q$$-learning, as we will see, is model-free in the Policy Evaluation stage as well, but $$SARSA$$ is not.
 
