@@ -146,6 +146,8 @@ r(s, a, s') = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s'] = \int_{r
 \end{align}
 $$
 
+For example, in the Workday Model $$r(s, a, s')$$ is given. In most models, we can define our own choice of reward functions. Some papers assume that $$r(s, a)$$ is known (e.g., the S. Levine Tutorial mentiined at the top).
+
 ## Trajectories
 
 A sequence of states and actions defines a possibly infinite trajectory
