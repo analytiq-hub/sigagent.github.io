@@ -249,13 +249,13 @@ Denote $$w$$ the weights of the NN, and $$Q_w(s, a)$$ the output of the NN. Init
 
 $$~~~~$$ 1: Initialize $$\epsilon > 0$$  
 $$~~~~$$ 2: Randomly initialize the network weights $$w$$  
-$$~~~~~~$$ 3: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
-$$~~~~~~~~$$ 4: Pick N trajectories $$s_i, a_i, s'_i, a'_i$$ using the current policy $$\pi_\epsilon$$  
-$$~~~~~~~~$$ 5: # Calculate NN loss  
-$$~~~~~~~~$$ 6: $$L(w) \leftarrow \frac{1}{N}\sum_{i=0}^{N-1} \big(Q_w(s_i, a_i) - r(s_i, a_i) - \gamma Q_w(s'_i, a'_i)\big)^2$$  
-$$~~~~~~~~$$ 7: # Update the network parameters using gradient descent  
-$$~~~~~~~~$$ 8: $$w \leftarrow w - \alpha \nabla_{w} L(w)$$  
-$$~~~~~~~~$$ 9: Decay $$\epsilon$$  
+$$~~~~$$ 3: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
+$$~~~~~~$$ 4: Pick N trajectories $$s_i, a_i, s'_i, a'_i$$ using the current policy $$\pi_\epsilon$$  
+$$~~~~~~$$ 5: # Calculate NN loss  
+$$~~~~~~$$ 6: $$L(w) \leftarrow \frac{1}{N}\sum_{i=0}^{N-1} \big(Q_w(s_i, a_i) - r(s_i, a_i) - \gamma Q_w(s'_i, a'_i)\big)^2$$  
+$$~~~~~~$$ 7: # Update the network parameters using gradient descent  
+$$~~~~~~$$ 8: $$w \leftarrow w - \alpha \nabla_{w} L(w)$$  
+$$~~~~~~$$ 9: Decay $$\epsilon$$  
 
 ## TO DO: continue. And add section on Monte Carlo algorithms.
 
