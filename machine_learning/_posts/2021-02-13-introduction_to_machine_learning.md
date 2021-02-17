@@ -130,7 +130,21 @@ In the Workday Model example, $$P(s' \vert s, a)$$ is known for all states $$s$$
 
 ## Expected reward functions
 
-We can compute an expected reward for a state-action pair as a function $$r \, : \, \mathcal{S} \times  \mathcal{A} \rightarrow \mathbb{R}$$
+We can compute an expected reward for a state-action pair as a function $$r \, : \, \mathcal{S} \times  \mathcal{A} \rightarrow \mathbb{R}$$ given by
+
+$$
+\begin{align}
+r(s, a) = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a] = \int_{r \in \mathbf{R}} r \int_{s' \in \mathcal{S}} P(s', r \vert s, a)
+\end{align}
+$$
+
+and an expected reward for a state-action-state as a function $$r \, : \, \mathcal{S} \times  \mathcal{A} \times \mathcal{S} \rightarrow \mathbb{R}$$ given by
+
+$$
+\begin{align}
+r(s, a, s') = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s'] = \int_{r \in \mathbf{R}} r \, \frac{P(s', r \vert s, a)}{P(s' \vert s, a)}
+\end{align}
+$$
 
 ## Trajectories
 
