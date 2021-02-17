@@ -227,7 +227,11 @@ The n-step method TD(n) idea - having the function $$G_{\tau, \pi}(s_t, a_t)$$ e
 #### Q-Learning
 This algorithm is same as SARSA but $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \underset{a \in \mathcal{A}}{max} \, Q_\pi(s_{t+1}, a)$$.
 
-Notice that $$G_{\tau, \pi}(s_t, a_t)$$ for Q-Learning does not depend on the policy; the only step during Policy Evaluation depending on the policy is the choice of trajectory $$\tau$$. This is a weak dependency on policy, and, in practice, this means which depends even if the expression $$Q_\pi(s_t, a)$$ shows on the right side, this is merely an approximation of the action-value function for $$\pi$$. 
+Notice that $$G_{\tau, \pi}(s_t, a_t)$$ for Q-Learning does not depend on the policy. The only step during Policy Evaluation depending on the policy is the choice of trajectory $$\tau$$.
+
+However, Q-learning could be used even when the trajectory $$\tau$$ was sampled with a different policy (as long as it is not 'much too different' from the policy being learned).
+
+Since Q-learning could be performed on data gathered earlier by another policy, it is an *off-policy* algorithm.
 
 ## DQN
 
