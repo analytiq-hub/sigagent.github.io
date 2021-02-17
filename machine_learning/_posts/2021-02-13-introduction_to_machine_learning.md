@@ -96,7 +96,7 @@ In an MDP, $$P(s_{t+1}, r_{t+1} \vert s_t,a_t)$$ represents the state transition
 A Markov Decision Process (MDP) consists, in general, of
 * A set of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$
 * A distribution of the initial state $$d(s_0)$$
-* A state transition distribution $$P(s_{t+1}, r_{t+1} \vert s_t, a_t)$$ representing the probability of arriving to state ($$s_{t+1}, r_{t+1})$$ fron $$s_{t}$$ when applying action $$a_t$$
+* A state transition probability distribution $$P(s_{t+1}, r_{t+1} \vert s_t, a_t)$$ representing the probability of arriving to state ($$s_{t+1}, r_{t+1})$$ fron $$s_{t}$$ when applying action $$a_t$$
 
 The successor state of a state $$s$$ when applying action $$a$$ is also denoted $$s'$$.
 
@@ -111,9 +111,21 @@ Workday Model (<a href="https://medium.com/ai%C2%B3-theory-practice-business/rei
 
 In the Workday Model example, $$P(s' \vert s, a)$$ is known for all states $$s$$ and actions $$a$$, and we say that the model is known. Agents do not always have direct access to $$P(s' \vert s, a)$$, but it can, however, be sampled.
 
-## Reward functions
+## Three-argument state transition probability distribution
 
-Even though the reward is defined as a probability distribution, its expected value is a function of states and actions. 
+The state transition distribution $$P(s', r \vert s, a)$$ satisfies
+$$
+\begin{align*}
+\int_{s' \in \mathcal S} \int_{r \in \mathbf{R}} P(s', r \vert s, a) = 1
+\end{align*}
+$$
+for all $$s \in \mathcal{S}$$ and $$a \in \mathcal{A}$$. We define a partial probability
+$$
+\begin{align}
+P(s' \vert s, a) = Pr(s_{t+1} = s' \vert s_t = s, a_t = a) = \int_{r \in \mathbf{R}} P(s', r \vert s, a)
+\end{align}
+$$
+
 
 ## Trajectories
 
