@@ -50,6 +50,7 @@ title: Machine Learning
 * Open AI: [Safety Gym] (https://openai.com/blog/safety-gym/) (2019)
 * [OpenAI Baselines](https://github.com/openai/baselines/), a set of high-quality implementations of reinforcement learning algorithms
 * [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/), C. Olah (2014)
+* [ConvnetJS](https://cs.stanford.edu/people/karpathy/convnetjs/) demo: [Toy 2d classification with 2-layer neural network](https://cs.stanford.edu/people/karpathy/convnetjs//demo/classify2d.html), A. Karpathy
 
 ### Articles
 * [Offline Reinforcement Learning: Tutorial, Review,and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf), Sergey Levine et al (2020)
