@@ -8,6 +8,9 @@ title: Topology of Neural Nets
 * [Topological Deep Learning: Classification Neural Networks](https://arxiv.org/pdf/2102.08354.pdf), M. Hajij, K. Istvan (2020)
 * [Reviews: Topological Distances and Losses for Brain Networks](https://arxiv.org/pdf/2102.08623.pdf), M. K. Chang, A. Smith, G. Siu (2021)
 
+#### Posts
+* Wikipedia: [Persistent homology](https://en.wikipedia.org/wiki/Persistent_homology). Gives definition of persistent homology on filtered simplicial complexes $$\emptyset = K_0 \subseteq K_1 \subseteq ... \subseteq K_n = X$$ as images of the simplicial homology maps $$H_p(K_i) \rightarrow H_p(K_j)$$, and gives a list of software packages that compute persistent homology.
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cognitive Science](cognitive_science.md)
