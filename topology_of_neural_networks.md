@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 mathjax: true
 title: Topology of Neural Nets
 ---
