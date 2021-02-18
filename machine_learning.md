@@ -1,5 +1,6 @@
 ---
 layout: page
+mathjax: true
 title: Machine Learning
 ---
 #### Books, Lecture Notes
