@@ -48,6 +48,8 @@ title: Machine Learning
 * [SuperVize Me: What’s the Difference Between Supervised, Unsupervised, Semi-Supervised and Reinforcement Learning?](https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/) by Isha Salian (2018)
 * [McGill COMP-424 Intro to AI Lecture Notes](https://www.cs.mcgill.ca/~dprecup/courses/AI/Lectures) (Doina Precup, 2013), [Lecture 16, Why does a finite MDP optimal policy exist?](https://www.cs.mcgill.ca/~dprecup/courses/AI/Lectures/ai-lecture16.pdf)
 * Open AI: [Safety Gym] (https://openai.com/blog/safety-gym/) (2019)
+* [OpenAI Baselines](https://github.com/openai/baselines/), a set of high-quality implementations of reinforcement learning algorithms
+* [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/), C. Olah (2014)
 
 ### Articles
 * [Offline Reinforcement Learning: Tutorial, Review,and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf), Sergey Levine et al (2020)
