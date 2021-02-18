@@ -5,7 +5,7 @@ title: Topology of Neural Nets
 #### Articles
 * [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/), C. Olah (2014)
 * [Universal Function Approximation by Deep Neural Networks with Bounded Width and RELU Activations](https://arxiv.org/pdf/1708.02691.pdf), B. Hanin (2017)
-* [Topological Deep Learning: Classification Neural Networks](https://arxiv.org/pdf/2102.08354.pdf), M. Hajij, K. Istvan (2020)
+* [Topological Deep Learning: Classification Neural Networks](https://arxiv.org/pdf/2102.08354.pdf), M. Hajij, K. Istvan (2020) - very basic explanation of how NNs are approvximator functions, but good bibliography
 * [Reviews: Topological Distances and Losses for Brain Networks](https://arxiv.org/pdf/2102.08623.pdf), M. K. Chang, A. Smith, G. Siu (2021). This is a survey of loss functions for Neural Nets used in brain imaging - showing how persistent homology can be used in loss functions to detect topological features of the NN input image.
 
 #### Posts
