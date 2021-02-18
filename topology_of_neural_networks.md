@@ -4,7 +4,6 @@ title: Topology of Neural Nets
 ---
 #### Articles
 * [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/), C. Olah (2014)
-* [Topological Graph Neural Networks](https://arxiv.org/pdf/2102.07835.pdf), M. Horn et al (2021)
 * [Topological Deep Learning: Classification Neural Networks](https://arxiv.org/pdf/2102.08354.pdf), M. Hajij, K. Istvan (2020)
 
 #### Other
