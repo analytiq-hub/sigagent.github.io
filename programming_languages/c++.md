@@ -4,8 +4,6 @@ mathjax: true
 title: C++ Programming Language
 ---
 
-#### Articles
-* [The universal six-functor formalism](https://arxiv.org/abs/2009.13610)
+#### Books
+* [Modern C++ Design](https://www.amazon.com/Modern-Design-Generic-Programming-Patterns/dp/0201704315), A. Alexandrescu (2001)
 
-#### Other
-* [Computational Topology](computational_topology.md), B. Drew, M. Gallagher (2021)
