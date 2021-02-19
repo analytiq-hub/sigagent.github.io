@@ -243,7 +243,7 @@ ensuring that $$r(\overline{\tau})$$ remains finite:
 
 $$
 \begin{equation}
--M \frac{1}{1-\gamma} \lt r(\overine{\tau}) \lt M \frac{1}{1-\gamma}
+-M \frac{1}{1-\gamma} \lt r(\overline{\tau}) \lt M \frac{1}{1-\gamma}
 \end{equation}
 $$
 
