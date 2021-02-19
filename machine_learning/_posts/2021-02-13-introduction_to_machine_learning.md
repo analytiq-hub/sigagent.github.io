@@ -217,7 +217,7 @@ as
 
 $$
 \begin{equation} \label{eq:traj_return}
-r(\overine{\tau}) = r_{1} + {\gamma}r_{2} + {\gamma^2}r_{3} + ... + {\gamma^{T-1}}r_{T}
+r(\overline{\tau}) = r_{1} + {\gamma}r_{2} + {\gamma^2}r_{3} + ... + {\gamma^{T-1}}r_{T}
 \end{equation}
 $$
 
