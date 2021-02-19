@@ -300,7 +300,7 @@ $$
 J_\pi & = \int_\tau \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
 & = \sum_{t=0}^{T-1} \int_{\tau}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (bring \, sum \, out) \\
 & = \sum_{t=0}^{T-1} \int_{\tau_{\le a_t}} \int_{\tau_{> a_t}} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} d\tau_{>a_t} \hspace{1cm} & (product \, of \, truncated \, densities \, d\tau = d\tau_{\le a_t} d\tau_{>a_t}) \\
-& = \sum_{t=0}^{T-1} \{ \int_{\tau_{\le a_t}} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \}\{\int_{\tau_{> a_t}} d\tau_{>a_t}\} \hspace{1cm} & (Fubini \, for \, d\tau = d\tau_{\le a_t} d\tau_{>a_t}) \\
+& = \sum_{t=0}^{T-1} \big( \int_{\tau_{\le a_t}} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \big)\big(\int_{\tau_{> a_t}} d\tau_{>a_t}\big) \hspace{1cm} & (Fubini \, for \, d\tau = d\tau_{\le a_t} d\tau_{>a_t}) \\
 & = \sum_{t=0}^{T-1} \int_{\tau_{\le a_t} = s_0, a_0, ... , a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \hspace{1cm} & (density \, d\tau_{>a_t} \, has \, \int_{\tau_{> a_t}} d\tau_{>a_t}=1) \\
 \end{align}
 $$
@@ -332,7 +332,7 @@ $$
 \begin{align}
 J_\pi & = \int_\tau \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
 & = \int_{\tau = (s_0, a_0, s_1, ...)} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) d(s_0) \prod_{t'=0}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau \hspace{1cm} & (expand \, p_\pi(s_t, a_t \vert \tau)) \\
-& = \int_{s_0} \{ \int_{\tau_{>s_0} = (a_0, s_1, ...)} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) \prod_{t'=0}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>s_0} \} ds_0 \hspace{1cm} & (Fubini \, for \, d\tau = d\tau_{>s_0} ds_0) \\
+& = \int_{s_0} \big( \int_{\tau_{>s_0} = (a_0, s_1, ...)} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) \prod_{t'=0}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>s_0} \big) ds_0 \hspace{1cm} & (Fubini \, for \, d\tau = d\tau_{>s_0} ds_0) \\
 & =   \int_{s_0} V_\pi(s_0) ds_0 & (definition \, of \,  V_\pi(s_0)) \\
 & =   \int_{s} V_\pi(s) ds& (relabel \, s_0) \\
 \end{align}
@@ -343,7 +343,7 @@ This says that $$J_\pi$$ is the expected value of $$V_\pi(s)$$ over all states $
 $$
 \begin{align} 
 V_\pi(s_0) & = \int_{\tau_{>s_0} = a_0, s_1, a_1, ...} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, expectation) \\
-& = \int_{a_0} \{ \int_{\tau_{>a_0} = s_1, a_1, ...} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>a_0} \} da_0 \hspace{1cm} & (Fubini \, for \, d \tau_{>s_0} = d \tau_{>a_0} da_0) \\
+& = \int_{a_0} \big( \int_{\tau_{>a_0} = s_1, a_1, ...} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>a_0} \big) da_0 \hspace{1cm} & (Fubini \, for \, d \tau_{>s_0} = d \tau_{>a_0} da_0) \\
 & = \int_{a_0} Q_\pi(s_0, a_0) da_0 \hspace{1cm} & (definition \, of \, Q_\pi(s_0, a_0)) \\
 \end{align}
 $$
@@ -382,16 +382,16 @@ The equations (\ref{eq:v_bellman}), (\ref{eq:q_bellman}) are the Bellman equatio
 $$
 \begin{align} 
 V_\pi(s) & = \int_a Q_\pi(s, a) da & \\
-& = \int_a \{ r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q_\pi(s',a') ds'da'\}da & (expand \, Q_\pi(s, a))\\
-& = \int_a \{ r(s, a) + \gamma \int_{s'} p(s' \vert s, a) \{ \int_{a'}  Q_\pi(s',a') da' \} ds'\}da & (Fubini \, for \, da'ds')\\
-& = \int_a \{ r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\}da & (regroup \, V_\pi(s')) \\
+& = \int_a \big( r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q_\pi(s',a') ds'da'\big)da & (expand \, Q_\pi(s, a))\\
+& = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) \big( \int_{a'}  Q_\pi(s',a') da' \big) ds'\big)da & (Fubini \, for \, da'ds')\\
+& = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\big)da & (regroup \, V_\pi(s')) \\
 \end{align}
 $$
 
 This gives us the Bellman equation for $$V_\pi(s)$$:
 $$
 \begin{align} \label{eq:v_bellman}
-V_\pi(s) = \int_a \{ r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\} da \\
+V_\pi(s) = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\big) da \\
 \end{align}
 $$
 
