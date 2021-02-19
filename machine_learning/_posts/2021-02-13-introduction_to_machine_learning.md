@@ -153,11 +153,11 @@ For example, in the Workday Model $$r(s, a, s')$$ is given. In most models, we c
 
 ## Trajectories
 
-A sequence of states and actions defines a possibly infinite trajectory
+A sequence of states and actions defines a possibly infinite state-action trajectory
 
 $$
 \begin{equation} \label{eq:tau}
-\tau = (s_0, a_0, s_{1}, a_{1}, ... , s_T, a_T)
+\tau = (s_0, a_0, s_{1}, a_{1}, ... , s_{T-1}, a_{T-1}, s_T)
 \end{equation}
 $$
 
@@ -165,7 +165,7 @@ The trajectory probability with a given policy $$\pi$$ is given by
 
 $$
 \begin{equation} \label{eq:taudist1}
-p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) \prod_{t=0}^{T-1} p(s_{t+1} \vert s_t, a_t, s_{t-1}, a_{t-1}, ..., s_0, a_0)
+p_\pi(\tau) = d(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t) \prod_{t=0}^{T-1} p(s_{t+1} \vert s_t, a_t, s_{t-1}, a_{t-1}, ..., s_0, a_0)
 \end{equation}
 $$
 
@@ -173,21 +173,21 @@ which, by the Markov assumption, reduces to
 
 $$
 \begin{equation} \label{eq:taudist}
-p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1} \vert s_t, a_t)
+p_\pi(\tau) = d(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1} \vert s_t, a_t)
 \end{equation}
 $$
 
-If we pick rewards along a trajectory, we get an extended trajectory
+If we pick rewards along a state-action trajectory, we get a state-action-reward trajectory
 $$
 \begin{align}
-\overline{\tau} = (s_0, a_0, r_1, s_1, a_1, r_2, ..., s_T, a_T, r_{T+1})
+\overline{\tau} = (s_0, a_0, r_1, s_1, a_1, r_2, ..., s_{T-1}, a_{T-1}, r_T)
 \end{align}
 $$
 
-The extended trajectory probability becomes
+The state-action-reward trajectory probability becomes
 $$
 \begin{align}
-p_\pi(\overline{\tau}) & = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1},r_{t+1} \vert s_t, a_t)
+p_\pi(\overline{\tau}) & = d(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1},r_{t+1} \vert s_t, a_t)
 \end{align}
 $$
 
