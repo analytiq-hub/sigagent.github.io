@@ -39,9 +39,9 @@ We will use of the Bellman equations for $$V_\pi(s)$$ and $$Q_\pi(s, a)$$:
 $$
 \begin{align}
 V_\pi(s) & = \int_a  Q_\pi(s, a) da \\
- & = \int_a \big( r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'\big) da \\
-Q_\pi(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds' \\
- & = r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'da' \\
+ & = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\big) da \\
+Q_\pi(s, a) & = r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds' \\
+ & = r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q_\pi(s',a') ds'da' \\
 \end{align}
 $$
 
@@ -54,9 +54,9 @@ We denote $$V_\star(s)=V_\pi(s)$$ and $$Q_\star(s, a)=Q_\pi(s, a)$$ for this opt
 $$
 \begin{align}
 V_\star(s) & = \underset{a \in \mathcal{A}}{max} \, Q_\star(s, a) \\
- & = \underset{a \in \mathcal{A}}{max} \big( r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\star(s') ds'\big) \\
-Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, V_\star(s') ds' \\
- & = r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \, \underset{a' \in \mathcal{A}}{max} \, Q_\star(s',a') ds' \\
+ & = \underset{a \in \mathcal{A}}{max} \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\star(s') ds'\big) \\
+Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} p(s' \vert s, a) \, V_\star(s') ds' \\
+ & = r(s, a) + \gamma \int_{s'} p(s' \vert s, a) \, \underset{a' \in \mathcal{A}}{max} \, Q_\star(s',a') ds' \\
 \end{align}
 $$
 
@@ -64,11 +64,11 @@ These are called the Bellman optimality equations. The integrals $$\int$$ are in
 
 ## Solving the optimal policy using a system of equations
 
-When the number of states $$\mathcal{S}$$ is very small, and the model $$P(s' \vert s, a)$$ is known, it becomes practical to solve the system of equations given by the Bellman optimality equations
+When the number of states $$\mathcal{S}$$ is very small, and the model $$p(s' \vert s, a)$$ is known, it becomes practical to solve the system of equations given by the Bellman optimality equations
 
 $$
 \begin{align*}
-V_\star(s) = \int_a \big( r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'\big) da
+V_\star(s) = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\big) da
 \end{align*}
 $$
 
@@ -80,7 +80,7 @@ This method is not practical when the number of states is larger.
 
 ## Dynamic Programming (DP)
 
-In this method, we assume that the model $$P(s' \vert s, a)$$ is known. We build a value table
+In this method, we assume that the model $$p(s' \vert s, a)$$ is known. We build a value table
 
 |       | Value Function |  
 |:-----:|:-------------:|
@@ -89,7 +89,7 @@ In this method, we assume that the model $$P(s' \vert s, a)$$ is known. We build
 |...    |...            |
 |$$s_{m-1}$$|$$V(s_{m-1})$$|
 
-and continuously update it for a given policy $$\pi$$ with $$V(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V(s') ds'$$, the expected reward plus the discounted value of the next state, until $$V(s)$$ has converged and approximates $$V_\pi(s)$$.
+and continuously update it for a given policy $$\pi$$ with $$V(s) \leftarrow r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V(s') ds'$$, the expected reward plus the discounted value of the next state, until $$V(s)$$ has converged and approximates $$V_\pi(s)$$.
 
 Once $$V$$ is a good approximations for $$V_\pi$$, the Bellman equations give us action-values $$Q(s, a)$$. We then update the policy $$\pi \rightarrow \pi_{greedy}(Q)$$, the greedy policy based on $$Q$$, picking in state $$s$$ the action $$a$$ that maximizes $$Q(s, a)$$, and repeat the entire process,
 
@@ -104,11 +104,11 @@ until the policy $$\pi$$ stops changing.
 The initial policy $$\pi(s) \in \mathcal{A}$$ and values $$V(s)$$ are random, for all $$s \in \mathcal{S}$$. We pick a small positive number $$\delta > 0$$. The algorithm has two stages:
 
 $$~~~~$$ 1: Policy Evaluation:  
-$$~~~~~~~~$$ 2: For each state $$s$$, set $$V(s) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V(s') ds'$$, denoting the $$\delta_s$$ the change in $$V(s)$$  
+$$~~~~~~~~$$ 2: For each state $$s$$, set $$V(s) \leftarrow r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V(s') ds'$$, denoting the $$\delta_s$$ the change in $$V(s)$$  
 $$~~~~~~~~$$ 3: Repeat 2 until $$\vert \delta_s \vert \lt \delta $$ for all $$s$$.
 
 $$~~~~$$ 4: Policy Improvement:  
-$$~~~~~~~~$$ 5: For each state $$s$$, compute $$Q(s, a) \leftarrow r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V(s') ds'$$  
+$$~~~~~~~~$$ 5: For each state $$s$$, compute $$Q(s, a) \leftarrow r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V(s') ds'$$  
 $$~~~~~~~~$$ 6: For each state $$s$$, set $$\pi \leftarrow \pi_{greedy}(Q)$$ defined by $$\pi_{greedy}(Q)(s) \leftarrow \underset{a \in {\mathcal{A}}}{argmax} \, Q(s, a)$$  
 $$~~~~~~~~$$ 7: If at least one action changed, go back to 1   
 $$~~~~~~~~$$ 8: Else, stop. The policy $$\pi$$ is optimal.  
@@ -124,7 +124,7 @@ $$
 
 The disadvantages of DP are:
 - All state values need to be computed with each improvement of the policy $$\pi$$
-- The model dynamics $$P(s' \vert s, a)$$ need to be known in advance, and are used in steps 2 and 5.
+- The model dynamics $$p(s' \vert s, a)$$ need to be known in advance, and are used in steps 2 and 5.
 - Thus, DP is a *model-based* algorithm.
 
 
@@ -137,12 +137,12 @@ Other algorithms below will define their own Policy Evaluation stage, and reuse 
 </p>
 
 
-In DP, the Policy Improvement used state-value $$V(s)$$ as input, and needed to know the model $$P(s' \vert s, a)$$ in step 5. Other algorithms, e.g.  SARSA, Q-learning, will feed action-values $$Q(s, a)$$ to the Policy Improvement stage, and thus are *model-free* in their Policy Improvement.
+In DP, the Policy Improvement used state-value $$V(s)$$ as input, and needed to know the model $$p(s' \vert s, a)$$ in step 5. Other algorithms, e.g.  SARSA, Q-learning, will feed action-values $$Q(s, a)$$ to the Policy Improvement stage, and thus are *model-free* in their Policy Improvement.
 
 ## Temporal Difference Algorithms
 
 This is a family of algorithms: TD0, TD(n), TD($$\epsilon$$). For Temporal Dif
-ference algorithms, we do not assume that the model $$P(s' \vert s, a)$$ is known. The Policy Improvement step is same as for DP. The Policy Evaluation step for $$V_\pi(s)$$ is different.
+ference algorithms, we do not assume that the model $$p(s' \vert s, a)$$ is known. The Policy Improvement step is same as for DP. The Policy Evaluation step for $$V_\pi(s)$$ is different.
 
 We pick a weight factor $$0 \lt \alpha \le 1$$ and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$V_\pi(s_t)$$ at each step with a value $$G_{\tau, \pi}(s_t)$$, and replacing $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$.
 
