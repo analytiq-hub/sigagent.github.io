@@ -176,7 +176,8 @@ $$
 \end{align}
 $$
 
-The state-action-reward trajectory probability becomes
+with probability
+
 $$
 \begin{align}
 p_\pi(\overline{\tau}) & = d(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1},r_{t+1} \vert s_t, a_t)
