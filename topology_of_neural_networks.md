@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: Topology of Neural Nets
+title: Computational Topology
 ---
 #### Articles
 * [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/), C. Olah (2014), blog post explaining graphically how Neural Net layers separate inputs
