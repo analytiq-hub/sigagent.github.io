@@ -26,6 +26,8 @@ layout: home
 * [Open Source](open_source.md)
 * [Other](other.md)
 * [Probabilities and Statistics](probabilities_and_statistics.md)
+* Programming Languages
+  * [C++](programming_languages/c++.md)
 * [Robotics](robotics.md)
 * [Self Driving Cars](self_driving_cars.md)
 * [Computational Topology](computational_topology.md)
