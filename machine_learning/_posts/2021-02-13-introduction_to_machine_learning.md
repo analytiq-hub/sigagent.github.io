@@ -205,15 +205,21 @@ Trajectories can also be truncated down: $$\tau_{\le a_t} = (s_0, a_0, ... , s_{
 
 ## Rewards and the Agent Objective
 
-In RL problems, action $$a_t$$ is picked not just to maximize next reward $r_{t+1}$, but the sum of all future rewards $$r_{t+1} + r_{t+2} + ...$$. If the number of steps is infinite, even if all rewards are bounded, the sum may not converge. It is convenient, then, to discount rewards by a factor $$0 \le \gamma \le 1$$, which is $$\lt 1$$ if the number of steps is infinite, and define the *return* of a trajectory $$\tau = s_t, a_t, ... , s_T, a_T$$ that starts at step $$t$$ as:
+In RL problems, action $$a_t$$ is picked not just to maximize next reward $r_{t+1}$, but the sum of all future rewards $$r_{t+1} + r_{t+2} + ...$$. If the number of steps is infinite, even if all rewards are bounded, the sum may not converge. It is convenient, then, to discount rewards by a factor $$0 \le \gamma \le 1$$, which is $$\lt 1$$ if the number of steps is infinite, and define the *return* of a trajectory
+
+$$
+\begin{align}
+\overline{\tau} = (s_0, a_0, r_1, ... , s_{T-1}, a_{T-1}, r_T, s_T)
+\end{align}
+$$
+
+as
 
 $$
 \begin{equation} \label{eq:traj_return}
-r_t(\tau) = r_{t+1} + {\gamma}r_{t+2} + {\gamma^2}r_{t+3} + ... + {\gamma^{T-t}}r_{T+1}
+r(\overine{\tau}) = r_{1} + {\gamma}r_{2} + {\gamma^2}r_{3} + ... + {\gamma^{T-1}}r_{T}
 \end{equation}
 $$
-
-where $$r_{t+1}, r_{t+2}, ...$$ are sampled along the trajectory. We also write $r_0(\tau) = r(\tau)$, for convenience.
 
 The larger the discount factor $$\gamma$$, the larger the effect of later steps. The smaller the discount factor, the bigger weight is given to actions taken for the immediate next steps.
 
@@ -221,7 +227,7 @@ When the number of steps is infinite, and rewards are bounded by $$-M \le r_t \l
 
 $$
 \begin{equation}
--M(1 +{\gamma} + {\gamma^2} + ... + {\gamma^{T-1}}) \lt r_0(\tau) \lt M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^{T-1}})
+-M(1 +{\gamma} + {\gamma^2} + ... + {\gamma^{T-1}}) \lt r(\tau) \lt M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^{T-1}})
 \end{equation}
 $$
 
@@ -229,19 +235,17 @@ or
 
 $$
 \begin{equation}
--M \frac{1-\gamma^{T}}{1-\gamma \phantom{(9)}} \lt r_0(\tau) \lt M \frac{1-\gamma^{T}}{1-\gamma \phantom{(9)}}
+-M \frac{1-\gamma^{T}}{1-\gamma \phantom{(9)}} \lt r(\tau) \lt M \frac{1-\gamma^{T}}{1-\gamma \phantom{(9)}}
 \end{equation}
 $$
 
-ensuring that $$r_0(\tau)$$ remains finite:
+ensuring that $$r(\tau)$$ remains finite:
 
 $$
 \begin{equation}
--M \frac{1}{1-\gamma} \lt r_0(\tau) \lt M \frac{1}{1-\gamma}
+-M \frac{1}{1-\gamma} \lt r(\tau) \lt M \frac{1}{1-\gamma}
 \end{equation}
 $$
-
-Same bounds hold for $$r_t(\tau)$$. 
 
 ## The Agent Objective and the Value Functions
 
