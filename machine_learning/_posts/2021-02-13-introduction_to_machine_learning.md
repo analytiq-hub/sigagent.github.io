@@ -180,7 +180,7 @@ $$
 If we pick rewards along a state-action trajectory, we get a state-action-reward trajectory
 $$
 \begin{align}
-\overline{\tau} = (s_0, a_0, r_1, s_1, a_1, r_2, ..., s_{T-1}, a_{T-1}, r_T)
+\overline{\tau} = (s_0, a_0, r_1, s_1, a_1, r_2, ..., s_{T-1}, a_{T-1}, r_T, s_T)
 \end{align}
 $$
 
