@@ -161,7 +161,7 @@ $$
 \end{equation}
 $$
 
-The trajectory distribution for a given policy $$\pi$$ is given by
+The trajectory probability with a given policy $$\pi$$ is given by
 
 $$
 \begin{equation} \label{eq:taudist1}
@@ -180,9 +180,17 @@ $$
 If we pick rewards along a trajectory, we get an extended trajectory
 $$
 \begin{align}
-\overline{\tau} = (s_0, a_0, r_1, s_1, a_1, r_2, ..., s_T, a_t, r_{T+1})
+\overline{\tau} = (s_0, a_0, r_1, s_1, a_1, r_2, ..., s_T, a_T, r_{T+1})
 \end{align}
 $$
+
+The extended trajectory probability becomes
+$$
+\begin{align}
+p_\pi(\overline{\tau}) & = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1},r_{t+1} \vert s_t, a_t)
+\end{align}
+$$
+
 
 ## Truncated trajectories
 
