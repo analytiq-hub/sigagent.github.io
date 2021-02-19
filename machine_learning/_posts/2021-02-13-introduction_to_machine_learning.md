@@ -201,19 +201,19 @@ In RL problems, action $$a_t$$ is picked not just to maximize next reward $r_{t+
 
 $$
 \begin{equation} \label{eq:traj_return}
-r_t(\tau) = r_{t+1} + {\gamma}r_{t+2} + {\gamma^2}r_{t+3} + ... + {\gamma^{T-t-1}}r_T
+r_t(\tau) = r_{t+1} + {\gamma}r_{t+2} + {\gamma^2}r_{t+3} + ... + {\gamma^{T-t}}r_{T+1}
 \end{equation}
 $$
 
-We write $r_0(\tau) = r(\tau)$, for convenience.
+where $$r_{t+1}, r_{t+2}, ...$$ are sampled along the trajectory. We also write $r_0(\tau) = r(\tau)$, for convenience.
 
 The larger the discount factor $$\gamma$$, the larger the effect of later steps. The smaller the discount factor, the bigger weight is given to actions taken for the immediate next steps.
 
-When the number of steps is infinite, and rewards are bounded by $$-M \le r(s_t, a_t) \le M$$ for all $$t$$, then
+When the number of steps is infinite, and rewards are bounded by $$-M \le r_t \le M$$ for all $$t$$, then
 
 $$
 \begin{equation}
--M(1 +{\gamma} + {\gamma^2} + ... + {\gamma^{T}}) \lt r_0(\tau) \lt M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^{T}})
+-M(1 +{\gamma} + {\gamma^2} + ... + {\gamma^{T-1}}) \lt r_0(\tau) \lt M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^{T-1}})
 \end{equation}
 $$
 
@@ -221,7 +221,7 @@ or
 
 $$
 \begin{equation}
--M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}} \lt r_0(\tau) \lt M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}
+-M \frac{1-\gamma^{T}}{1-\gamma \phantom{(9)}} \lt r_0(\tau) \lt M \frac{1-\gamma^{T}}{1-\gamma \phantom{(9)}}
 \end{equation}
 $$
 
