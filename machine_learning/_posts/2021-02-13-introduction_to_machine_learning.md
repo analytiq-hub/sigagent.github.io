@@ -177,6 +177,13 @@ p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+
 \end{equation}
 $$
 
+If we pick rewards along a trajectory, we get an extended trajectory
+$$
+\begin{align}
+\overline{\tau} = (s_0, a_0, r_1, s_1, a_1, r_2, ..., s_T, a_t, r_{T+1})
+\end{align}
+$$
+
 ## Truncated trajectories
 
 The formulas in this section are necessary for later deriving the Bellman equations. Trajectories can be truncated to $$\tau_{>s_t} = (a_t, s_{t+1}, ... , s_T, a_T)$$ and $$\tau_{>a_t} = (s_{t+1}, a_{t+1}, ... , s_T, a_T)$$. The probabilities of the truncated trajectories are:
