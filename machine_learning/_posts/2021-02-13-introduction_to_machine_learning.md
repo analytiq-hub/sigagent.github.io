@@ -161,15 +161,7 @@ $$
 \end{equation}
 $$
 
-The trajectory probability with a given policy $$\pi$$ is given by
-
-$$
-\begin{equation} \label{eq:taudist1}
-p_\pi(\tau) = d(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t) \prod_{t=0}^{T-1} p(s_{t+1} \vert s_t, a_t, s_{t-1}, a_{t-1}, ..., s_0, a_0)
-\end{equation}
-$$
-
-which, by the Markov assumption, reduces to
+The trajectory probability with a given policy $$\pi$$, under the Markov assumption, is given by
 
 $$
 \begin{equation} \label{eq:taudist}
@@ -194,17 +186,17 @@ $$
 
 ## Truncated trajectories
 
-The formulas in this section are necessary for later deriving the Bellman equations. Trajectories can be truncated to $$\tau_{>s_t} = (a_t, s_{t+1}, ... , s_T, a_T)$$ and $$\tau_{>a_t} = (s_{t+1}, a_{t+1}, ... , s_T, a_T)$$. The probabilities of the truncated trajectories are:
+The formulas in this section are necessary for later deriving the Bellman equations. Trajectories can be truncated to $$\tau_{>s_t} = (a_t, s_{t+1}, ... , s_T)$$ and $$\tau_{>a_t} = (s_{t+1}, a_{t+1}, ... , s_T)$$. The probabilities of the truncated trajectories are:
 
 $$
 \begin{align} \label{eq:taudists}
-p_\pi(\tau_{>s_t} \vert s_t) = \prod_{t'=t}^T \pi(a_{t'} \vert s_{t'}) \prod_{t'=t}^{T-1}  p(s_{t'+1} \vert s_{t'}, a_{t'}) \\
+p_\pi(\tau_{>s_t} \vert s_t) = \prod_{t'=t}^{T-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=t}^{T-1}  p(s_{t'+1} \vert s_{t'}, a_{t'}) \\
 \end{align}
 $$
 
 $$
 \begin{align} \label{eq:taudistsa}
-p_\pi(\tau_{>a_t} \vert s_t, a_t) = \prod_{t'=t+1}^T \pi(a_{t'} \vert s_{t'}) \prod_{t'=t}^{T-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) \\
+p_\pi(\tau_{>a_t} \vert s_t, a_t) = \prod_{t'=t+1}^{T-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=t}^{T-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) \\
 \end{align}
 $$
 
