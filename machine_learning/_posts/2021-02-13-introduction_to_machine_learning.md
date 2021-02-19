@@ -94,12 +94,12 @@ This is a slightly more general formulation where the rewards are seen as a cond
 
 In an MDP, $$p(s_{t+1}, r_{t+1} \vert s_t,a_t)$$ represents the state transition distribution.
 
+To simplify notations, we denote $$s'$$ the successor state of a state $$s$$ when applying action $$a$$. The state transition distribution then can be written as $$p(s',r \vert s,a)$$.
+
 A Markov Decision Process (MDP) consists, in general, of
 * A set of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$
 * A distribution of the initial state $$d(s_0)$$
-* A state transition probability distribution $$p(s_{t+1}, r_{t+1} \vert s_t, a_t)$$ representing the probability of arriving to state ($$s_{t+1}, r_{t+1})$$ fron $$s_{t}$$ when applying action $$a_t$$
-
-The successor state of a state $$s$$ when applying action $$a$$ is also denoted $$s'$$.
+* A state transition probability distribution $$p(s', r \vert s, a)$$ representing the probability of arriving to state $$(s', r)$$ fron $$s_{t}$$ when applying action $$a$$
 
 Here is an example of a finite MDP (<a href="https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-3-the-markov-decision-process-9f5066e073a2">source</a>):
 - The yellow nodes are states $$s$$
@@ -129,7 +129,7 @@ $$
 
 and call this the *state transition model* of the MDP.
 
-In the Workday Model example, $$p(s' \vert s, a)$$ is known for all states $$s$$ and actions $$a$$. In this case, we say that the model is known. Agents do not always have direct access to the model $$p(s' \vert s, a)$$, but it can, however, be sampled.
+In the Workday Model example, $$p(s' \vert s, a)$$ is known for all states $$s$$ and actions $$a$$. In this case, we say that the model is known. Agents do not always have direct access to the model $$p(s' \vert s, a)$$, but they may, however, sample it.
 
 ## Expected reward functions
 
