@@ -68,7 +68,7 @@ The states $$s_{t+1}$$, in practice, can only be estimated, stocastically, up to
 
 $$
 \begin{equation}
-s_{t+1} \sim P(s_{t+1} \vert s_0,a_0,s_1,a_1,...,s_t,a_t)
+s_{t+1} \sim p(s_{t+1} \vert s_0,a_0,s_1,a_1,...,s_t,a_t)
 \end{equation}
 $$
 
@@ -76,7 +76,7 @@ At each step, the state $s_{t+1}$ is sampled from a probability distribution $$P
 
 $$
 \begin{equation} \label{eq:state_transition_dist}
-s_{t+1} \sim P(s_{t+1} \vert s_t,a_t)
+s_{t+1} \sim p(s_{t+1} \vert s_t,a_t)
 \end{equation}
 $$
 
@@ -86,24 +86,24 @@ The reward $$r_{t+1} \in \mathbb{R}$$ is assigned for transitioning from state $
 
 $$
 \begin{align}
-s_{t+1}, r_{t+1} \sim P(s_{t+1}, r_{t+1} \vert s_t,a_t)
+s_{t+1}, r_{t+1} \sim p(s_{t+1}, r_{t+1} \vert s_t,a_t)
 \end{align}
 $$
 
 This is a slightly more general formulation where the rewards are seen as a conditional distribution over $$s_t, a_t$$ unrelated to the next state $$s_{t+1}$$.
 
-In an MDP, $$P(s_{t+1}, r_{t+1} \vert s_t,a_t)$$ represents the state transition distribution.
+In an MDP, $$p(s_{t+1}, r_{t+1} \vert s_t,a_t)$$ represents the state transition distribution.
 
 A Markov Decision Process (MDP) consists, in general, of
 * A set of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$
 * A distribution of the initial state $$d(s_0)$$
-* A state transition probability distribution $$P(s_{t+1}, r_{t+1} \vert s_t, a_t)$$ representing the probability of arriving to state ($$s_{t+1}, r_{t+1})$$ fron $$s_{t}$$ when applying action $$a_t$$
+* A state transition probability distribution $$p(s_{t+1}, r_{t+1} \vert s_t, a_t)$$ representing the probability of arriving to state ($$s_{t+1}, r_{t+1})$$ fron $$s_{t}$$ when applying action $$a_t$$
 
 The successor state of a state $$s$$ when applying action $$a$$ is also denoted $$s'$$.
 
 Here is an example of a finite MDP (<a href="https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-3-the-markov-decision-process-9f5066e073a2">source</a>):
 - The yellow nodes are states $$s$$
-- The blue diamonds are actions $$a$$,  with stochastic outcomes and rewards labeled with $$P(s' , r \vert s, a)$$
+- The blue diamonds are actions $$a$$,  with stochastic outcomes and rewards labeled with $$p(s' , r \vert s, a)$$
 - The ribbons (and bombs) are the rewards $$r$$
 <p align="center">
 <img src="/src/images/example_mdp.jpg">
@@ -112,24 +112,24 @@ Workday Model (<a href="https://medium.com/ai%C2%B3-theory-practice-business/rei
 
 ## The state transition model
 
-The state transition distribution $$P(s', r \vert s, a)$$ satisfies
+The state transition distribution $$p(s', r \vert s, a)$$ satisfies
 
 $$
 \begin{align*}
-\int_{s' \in \mathcal S} \int_{r \in \mathbb{R}} P(s', r \vert s, a) = 1 \textrm{ for all } s \in \mathcal{S} \textrm{ and } a \in \mathcal{A}
+\int_{s' \in \mathcal S} \int_{r \in \mathbb{R}} p(s', r \vert s, a) = 1 \textrm{ for all } s \in \mathcal{S} \textrm{ and } a \in \mathcal{A}
 \end{align*}
 $$
 
 We define a partial probability
 $$
 \begin{align}
-P(s' \vert s, a) = Pr(s_{t+1} = s' \vert s_t = s, a_t = a) = \int_{r \in \mathbb{R}} P(s', r \vert s, a)
+p(s' \vert s, a) = Pr(s_{t+1} = s' \vert s_t = s, a_t = a) = \int_{r \in \mathbb{R}} p(s', r \vert s, a)
 \end{align}
 $$
 
 and call this the *state transition model* of the MDP.
 
-In the Workday Model example, $$P(s' \vert s, a)$$ is known for all states $$s$$ and actions $$a$$. In this case, we say that the model is known. Agents do not always have direct access to the model $$P(s' \vert s, a)$$, but it can, however, be sampled.
+In the Workday Model example, $$p(s' \vert s, a)$$ is known for all states $$s$$ and actions $$a$$. In this case, we say that the model is known. Agents do not always have direct access to the model $$p(s' \vert s, a)$$, but it can, however, be sampled.
 
 ## Expected reward functions
 
@@ -137,7 +137,7 @@ We can compute an expected reward for a state-action pair as a function $$r \, :
 
 $$
 \begin{align}
-r(s, a) = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a] = \int_{r \in \mathbb{R}} r \int_{s' \in \mathcal{S}} P(s', r \vert s, a)
+r(s, a) = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a] = \int_{r \in \mathbb{R}} r \int_{s' \in \mathcal{S}} p(s', r \vert s, a)
 \end{align}
 $$
 
@@ -145,7 +145,7 @@ and an expected reward for a state-action-state as a function $$r \, : \, \mathc
 
 $$
 \begin{align}
-r(s, a, s') = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s'] = \int_{r \in \mathbb{R}} r \, \frac{P(s', r \vert s, a)}{P(s' \vert s, a)}
+r(s, a, s') = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s'] = \int_{r \in \mathbb{R}} r \, \frac{p(s', r \vert s, a)}{p(s' \vert s, a)}
 \end{align}
 $$
 
@@ -165,7 +165,7 @@ The trajectory distribution for a given policy $$\pi$$ is given by
 
 $$
 \begin{equation} \label{eq:taudist1}
-p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) \prod_{t=0}^{T-1} P(s_{t+1} \vert s_t, a_t, s_{t-1}, a_{t-1}, ..., s_0, a_0)
+p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) \prod_{t=0}^{T-1} p(s_{t+1} \vert s_t, a_t, s_{t-1}, a_{t-1}, ..., s_0, a_0)
 \end{equation}
 $$
 
@@ -173,7 +173,7 @@ which, by the Markov assumption, reduces to
 
 $$
 \begin{equation} \label{eq:taudist}
-p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} P(s_{t+1} \vert s_t, a_t)
+p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1} \vert s_t, a_t)
 \end{equation}
 $$
 
@@ -185,13 +185,13 @@ The formulas in this section are necessary for later deriving the Bellman equati
 
 $$
 \begin{align} \label{eq:taudists}
-p_\pi(\tau_{>s_t} \vert s_t) = \prod_{t'=t}^T \pi(a_{t'} \vert s_{t'}) \prod_{t'=t}^{T-1}  P(s_{t'+1} \vert s_{t'}, a_{t'}) \\
+p_\pi(\tau_{>s_t} \vert s_t) = \prod_{t'=t}^T \pi(a_{t'} \vert s_{t'}) \prod_{t'=t}^{T-1}  p(s_{t'+1} \vert s_{t'}, a_{t'}) \\
 \end{align}
 $$
 
 $$
 \begin{align} \label{eq:taudistsa}
-p_\pi(\tau_{>a_t} \vert s_t, a_t) = \prod_{t'=t+1}^T \pi(a_{t'} \vert s_{t'}) \prod_{t'=t}^{T-1} P(s_{t'+1} \vert s_{t'}, a_{t'}) \\
+p_\pi(\tau_{>a_t} \vert s_t, a_t) = \prod_{t'=t+1}^T \pi(a_{t'} \vert s_{t'}) \prod_{t'=t}^{T-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) \\
 \end{align}
 $$
 
@@ -319,8 +319,8 @@ The objective $$J_\pi$$, the state-value $$V_\pi(s)$$ and the action-value $$Q_\
 $$
 \begin{align}
 J_\pi & = \int_\tau \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
-& = \int_{\tau = (s_0, a_0, s_1, ...)} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) d(s_0) \prod_{t'=0}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} P(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau \hspace{1cm} & (expand \, p_\pi(s_t, a_t \vert \tau)) \\
-& = \int_{s_0} \{ \int_{\tau_{>s_0} = (a_0, s_1, ...)} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t'=0}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} P(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>s_0} \} ds_0 \hspace{1cm} & (Fubini \, for \, d\tau = d\tau_{>s_0} ds_0) \\
+& = \int_{\tau = (s_0, a_0, s_1, ...)} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) d(s_0) \prod_{t'=0}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau \hspace{1cm} & (expand \, p_\pi(s_t, a_t \vert \tau)) \\
+& = \int_{s_0} \{ \int_{\tau_{>s_0} = (a_0, s_1, ...)} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) \prod_{t'=0}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>s_0} \} ds_0 \hspace{1cm} & (Fubini \, for \, d\tau = d\tau_{>s_0} ds_0) \\
 & =   \int_{s_0} V_\pi(s_0) ds_0 & (definition \, of \,  V_\pi(s_0)) \\
 & =   \int_{s} V_\pi(s) ds& (relabel \, s_0) \\
 \end{align}
@@ -349,11 +349,11 @@ $$
 \begin{align}
 Q_\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>a_0}) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, expectation) \\
 & = r(s_0,a_0) + \sum_{t=1}^{T} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (as \, shown \, before) \\
-& = r(s_0, a_0) + \gamma \sum_{t=1}^{T} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t-1} r(s_t, a_t) \prod_{t'=1}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^t P(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (definition \, of \, p_\pi(\tau_{>a_0 \le a_t})) \\
-& = r(s_0, a_0) + \gamma \sum_{t=1}^{T} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} P(s_{1} \vert s_0, a_0) \gamma^{t-1} r(s_t, a_t) \prod_{t'=1}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=1}^t P(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (bring \, P(s_1 \vert s_0,a_0) \, out \, of \, \prod_{t'=0}^t) \\
-& = r(s_0, a_0) + \gamma \sum_{t=1}^{T} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} P(s_{1} \vert s_0, a_0) \gamma^{t-1} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0 \le a_t}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (replace \, with \, p_\pi(s_t, a_t \vert \tau_{>a_0 \le a_t})) \\
-& \approx r(s_0, a_0) + \gamma \int_{s_1} P(s_{1} \vert s_0, a_0) V_\pi(s_1) ds_1 \hspace{1cm} & (definition \, of \, V_\pi(s_1) \, for \, T-1) \\
-& = r(s_0, a_0) + \gamma \int_{s_1, a_1} P(s_{1} \vert s_0, a_0) Q_\pi(s_1, a_1) ds_1 da_1 \hspace{1cm} & (V_\pi(s_1) \, as \, expected \, value \, of \, Q_\pi(s_1, a_1) \, over \, a_1) \\
+& = r(s_0, a_0) + \gamma \sum_{t=1}^{T} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t-1} r(s_t, a_t) \prod_{t'=1}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^t p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (definition \, of \, p_\pi(\tau_{>a_0 \le a_t})) \\
+& = r(s_0, a_0) + \gamma \sum_{t=1}^{T} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} p(s_{1} \vert s_0, a_0) \gamma^{t-1} r(s_t, a_t) \prod_{t'=1}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=1}^t p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (bring \, p(s_1 \vert s_0,a_0) \, out \, of \, \prod_{t'=0}^t) \\
+& = r(s_0, a_0) + \gamma \sum_{t=1}^{T} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} p(s_{1} \vert s_0, a_0) \gamma^{t-1} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0 \le a_t}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (replace \, with \, p_\pi(s_t, a_t \vert \tau_{>a_0 \le a_t})) \\
+& \approx r(s_0, a_0) + \gamma \int_{s_1} p(s_{1} \vert s_0, a_0) V_\pi(s_1) ds_1 \hspace{1cm} & (definition \, of \, V_\pi(s_1) \, for \, T-1) \\
+& = r(s_0, a_0) + \gamma \int_{s_1, a_1} p(s_{1} \vert s_0, a_0) Q_\pi(s_1, a_1) ds_1 da_1 \hspace{1cm} & (V_\pi(s_1) \, as \, expected \, value \, of \, Q_\pi(s_1, a_1) \, over \, a_1) \\
 \end{align}
 $$
 
@@ -361,7 +361,7 @@ The result is an approximation because the sum and product under the integral ar
 
 $$
 \begin{align} \label{eq:q_bellman}
-Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'da' \\
+Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q_\pi(s',a') ds'da' \\
 \end{align}
 $$
 
@@ -370,16 +370,16 @@ The equations (\ref{eq:v_bellman}), (\ref{eq:q_bellman}) are the Bellman equatio
 $$
 \begin{align} 
 V_\pi(s) & = \int_a Q_\pi(s, a) da & \\
-& = \int_a \{ r(s, a) + \gamma \int_{s',a'} P(s' \vert s, a) Q_\pi(s',a') ds'da'\}da & (expand \, Q_\pi(s, a))\\
-& = \int_a \{ r(s, a) + \gamma \int_{s'} P(s' \vert s, a) \{ \int_{a'}  Q_\pi(s',a') da' \} ds'\}da & (Fubini \, for \, da'ds')\\
-& = \int_a \{ r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'\}da & (regroup \, V_\pi(s')) \\
+& = \int_a \{ r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q_\pi(s',a') ds'da'\}da & (expand \, Q_\pi(s, a))\\
+& = \int_a \{ r(s, a) + \gamma \int_{s'} p(s' \vert s, a) \{ \int_{a'}  Q_\pi(s',a') da' \} ds'\}da & (Fubini \, for \, da'ds')\\
+& = \int_a \{ r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\}da & (regroup \, V_\pi(s')) \\
 \end{align}
 $$
 
 This gives us the Bellman equation for $$V_\pi(s)$$:
 $$
 \begin{align} \label{eq:v_bellman}
-V_\pi(s) = \int_a \{ r(s, a) + \gamma \int_{s'} P(s' \vert s, a) V_\pi(s') ds'\} da \\
+V_\pi(s) = \int_a \{ r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\} da \\
 \end{align}
 $$
 
@@ -412,9 +412,9 @@ These algorithms learn a policy $$\pi$$ that maximizes the agent objective $$J_\
 In this class of algorithms, the space of actions $$\mathcal{A}$$ can be either continuous or discrete. The disadvantage is that these algorithms have high variance and are sample inefficient.
 
 ### Model based algorithms
-These algorithms either know the environment dynamics $$P(s' \vert s, a)$$, or learn it.
-- Monte Carlo Tree Search (MCTS) is used when the space of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$ are finite, and the transition functions $$P(s' \vert s, a)$$ are known. In the past, MCTS was used for board games (Chess, Go).
-- Linear Quadratic Regulators (iLQR), Model Predictve Control (MPC) involve learning $$P(s' \vert s, a)$$.
+These algorithms either know the environment dynamics $$p(s' \vert s, a)$$, or learn it.
+- Monte Carlo Tree Search (MCTS) is used when the space of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$ are finite, and the transition functions $$p(s' \vert s, a)$$ are known. In the past, MCTS was used for board games (Chess, Go).
+- Linear Quadratic Regulators (iLQR), Model Predictve Control (MPC) involve learning $$p(s' \vert s, a)$$.
 
 Models are often unavailable, or can't be learned. If they are, however, and if the number of states and actions is small, then model-based algorithms are an order of magnitude more efficient than value or policiy based algorithms.
 
