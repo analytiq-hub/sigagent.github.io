@@ -184,7 +184,6 @@ p_\pi(\overline{\tau}) & = d(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t
 \end{align}
 $$
 
-
 ## Truncated trajectories
 
 The formulas in this section are necessary for later deriving the Bellman equations. Trajectories can be truncated to $$\tau_{>s_t} = (a_t, s_{t+1}, ... , s_T)$$ and $$\tau_{>a_t} = (s_{t+1}, a_{t+1}, ... , s_T)$$. The probabilities of the truncated trajectories are:
@@ -249,11 +248,14 @@ $$
 
 ## The Agent Objective and the Value Functions
 
-When trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the agent *objective* is defined as the expected value of the return function, sampled over the policy distribution $$p_\pi(\tau)$$ defined by ($$\ref{eq:taudist}$$):
+Any state-action-reward trajectory $$\overline{\tau}$$ has an undelying state-action trajectory $$\tau$$. We use this in the notations below.
+
+
+When trajectories $$\overline{\tau}$$ are sampled according to a policy $$\pi$$, the agent *objective* is defined as the expected value of the return function, sampled over the policy distribution $$p_\pi(\tau)$$ defined by ($$\ref{eq:taudist}$$):
 
 $$
 \begin{equation} \label{eq:objective}
-J_\pi = \mathbb{E}_{\tau \sim \pi}[r(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
+J_\pi = \mathbb{E}_{\overline{\tau} \sim \pi}[r(\overline{\tau})] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
@@ -261,7 +263,7 @@ The goal of the agent is to find a policy $$\pi$$ that maximizes the objective $
 
 $$
 \begin{equation} \label{eq:value_state}
-V_\pi(s) = \mathbb{E}_{s_0=s, \tau \sim \pi}[r(\tau)] = \mathbb{E}_{s_0=s, \tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
+V_\pi(s) = \mathbb{E}_{s_0=s, \overline{\tau} \sim \pi}[r(\overline{\tau})] = \mathbb{E}_{s_0=s, \tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
@@ -269,7 +271,7 @@ and the *action-value* function
 
 $$
 \begin{equation} \label{eq:value_state_action}
-Q_\pi(s, a) = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[r(\tau)] = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
+Q_\pi(s, a) = \mathbb{E}_{s_0=s, a_0=a, \overline{\tau} \sim \pi}[r(\overline{\tau})] = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
