@@ -331,8 +331,8 @@ The objective $$J_\pi$$, the state-value $$V_\pi(s)$$ and the action-value $$Q_\
 $$
 \begin{align}
 J_\pi & = \int_\tau \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
-& = \int_{\tau = (s_0, a_0, s_1, ...)} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) d(s_0) \prod_{t'=0}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau \hspace{1cm} & (expand \, p_\pi(s_t, a_t \vert \tau)) \\
-& = \int_{s_0} \big( \int_{\tau_{>s_0} = (a_0, s_1, ...)} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) \prod_{t'=0}^t \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>s_0} \big) ds_0 \hspace{1cm} & (Fubini \, for \, d\tau = d\tau_{>s_0} ds_0) \\
+& = \int_{\tau = (s_0, a_0, s_1, ...)} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) d(s_0) \prod_{t'=0}^{t-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau \hspace{1cm} & (expand \, p_\pi(s_t, a_t \vert \tau)) \\
+& = \int_{s_0} \big( \int_{\tau_{>s_0} = (a_0, s_1, ...)} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) \prod_{t'=0}^{t-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>s_0} \big) ds_0 \hspace{1cm} & (Fubini \, for \, d\tau = d\tau_{>s_0} ds_0) \\
 & =   \int_{s_0} V_\pi(s_0) ds_0 & (definition \, of \,  V_\pi(s_0)) \\
 & =   \int_{s} V_\pi(s) ds& (relabel \, s_0) \\
 \end{align}
