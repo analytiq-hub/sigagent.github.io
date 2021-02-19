@@ -21,6 +21,7 @@ layout: home
 * [Entrepreneurship](entrepreneurship.md)
 * [Machine Learning](machine_learning.md)
 * [Market Trading](market_trading.md)
+* [Math (Abstract Nonsense)](math_abstract_nonsense.md)
 * [Network Tools](network_tools.md)
 * [Open Source](open_source.md)
 * [Other](other.md)
