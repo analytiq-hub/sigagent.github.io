@@ -149,7 +149,7 @@ r(s, a, s') = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s'] = \int_{r
 \end{align}
 $$
 
-For example, in the Workday Model $$r(s, a, s')$$ is given. In most models, we can define our own choice of reward functions. Some papers assume that $$r(s, a)$$ is known (e.g., the S. Levine [tutorial](https://arxiv.org/pdf/2005.01643.pdf)).
+For example, in the Workday Model $$r(s, a, s')$$ is given. In most models, we can define our own choice of reward functions. Some papers assume that $$r(s, a)$$ is known (e.g., the S. Levine [tutorial](https://arxiv.org/pdf/2005.01643.pdf)), in which case $$r(s, a, s')$$ can be derived.
 
 ## Trajectories
 
@@ -197,15 +197,15 @@ Trajectories can also be truncated down: $$\tau_{\le a_t} = (s_0, a_0, ... , s_{
 
 ## Rewards and the Agent Objective
 
-In RL problems, action $$a_t$$ is picked not just to maximize next reward $r(s_t, a_t)$, but the sum of all future rewards $$r(s_{t}, a_{t}) + r(s_{t+1}, a_{t+1}) + ...$$. If the number of steps is infinite, even if all rewards are bounded, the sum may not converge. It is convenient, then, to discount rewards by a factor $$0 \le \gamma \le 1$$, which is $$\lt 1$$ if the number of steps is infinite, and define the *return* of a trajectory $$\tau = (s_t, a_t), ... , (s_T, a_T)$$ that starts at step $$t$$ as:
+In RL problems, action $$a_t$$ is picked not just to maximize next reward $r_{t+1}$, but the sum of all future rewards $$r_{t+1} + r_{t+2} + ...$$. If the number of steps is infinite, even if all rewards are bounded, the sum may not converge. It is convenient, then, to discount rewards by a factor $$0 \le \gamma \le 1$$, which is $$\lt 1$$ if the number of steps is infinite, and define the *return* of a trajectory $$\tau = s_t, a_t, ... , s_T, a_T$$ that starts at step $$t$$ as:
 
 $$
 \begin{equation} \label{eq:traj_return}
-R_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + {\gamma^2}r(s_{t+2}, a_{t+2}) + ... + {\gamma^{T-t}}r(s_{T}, a_{T})
+r_t(\tau) = r_{t+1} + {\gamma}r_{t+2} + {\gamma^2}r_{t+3} + ... + {\gamma^{T-t-1}}r_T
 \end{equation}
 $$
 
-We write $R_0(\tau) = R(\tau)$, for convenience.
+We write $r_0(\tau) = r(\tau)$, for convenience.
 
 The larger the discount factor $$\gamma$$, the larger the effect of later steps. The smaller the discount factor, the bigger weight is given to actions taken for the immediate next steps.
 
@@ -213,7 +213,7 @@ When the number of steps is infinite, and rewards are bounded by $$-M \le r(s_t,
 
 $$
 \begin{equation}
--M(1 +{\gamma} + {\gamma^2} + ... + {\gamma^{T}}) \lt R_0(\tau) \lt M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^{T}})
+-M(1 +{\gamma} + {\gamma^2} + ... + {\gamma^{T}}) \lt r_0(\tau) \lt M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^{T}})
 \end{equation}
 $$
 
@@ -221,19 +221,19 @@ or
 
 $$
 \begin{equation}
--M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}} \lt R_0(\tau) \lt M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}
+-M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}} \lt r_0(\tau) \lt M \frac{1-\gamma^{T+1}}{1-\gamma \phantom{(9)}}
 \end{equation}
 $$
 
-ensuring that $$R_0(\tau)$$ remains finite:
+ensuring that $$r_0(\tau)$$ remains finite:
 
 $$
 \begin{equation}
--M \frac{1}{1-\gamma} \lt R_0(\tau) \lt M \frac{1}{1-\gamma}
+-M \frac{1}{1-\gamma} \lt r_0(\tau) \lt M \frac{1}{1-\gamma}
 \end{equation}
 $$
 
-Same bounds hold for $$R_t(\tau)$$. 
+Same bounds hold for $$r_t(\tau)$$. 
 
 ## The Agent Objective and the Value Functions
 
@@ -241,7 +241,7 @@ When trajectories $$\tau$$ are sampled according to a policy $$\pi$$, the agent 
 
 $$
 \begin{equation} \label{eq:objective}
-J_\pi = \mathbb{E}_{\tau \sim \pi}[R(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
+J_\pi = \mathbb{E}_{\tau \sim \pi}[r(\tau)] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
@@ -249,7 +249,7 @@ The goal of the agent is to find a policy $$\pi$$ that maximizes the objective $
 
 $$
 \begin{equation} \label{eq:value_state}
-V_\pi(s) = \mathbb{E}_{s_0=s, \tau \sim \pi}[R(\tau)] = \mathbb{E}_{s_0=s, \tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
+V_\pi(s) = \mathbb{E}_{s_0=s, \tau \sim \pi}[r(\tau)] = \mathbb{E}_{s_0=s, \tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
@@ -257,7 +257,7 @@ and the *action-value* function
 
 $$
 \begin{equation} \label{eq:value_state_action}
-Q_\pi(s, a) = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[R(\tau)] = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
+Q_\pi(s, a) = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[r(\tau)] = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
