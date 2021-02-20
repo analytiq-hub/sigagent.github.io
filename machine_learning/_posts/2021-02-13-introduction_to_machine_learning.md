@@ -99,7 +99,7 @@ To simplify notations, we denote $$s'$$ the successor state of a state $$s$$ whe
 A Markov Decision Process (MDP) consists, in general, of
 * A set of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$
 * A distribution of the initial state $$d(s_0)$$
-* A state transition probability distribution $$p(s', r \vert s, a)$$ representing the probability of arriving to state $$(s', r)$$ fron $$s_{t}$$ when applying action $$a$$
+* A state transition probability distribution $$p(s', r \vert s, a)$$ representing the probability of arriving to state $$(s', r)$$ fron $$s$$ when applying action $$a$$
 
 Here is an example of a finite MDP (<a href="https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-3-the-markov-decision-process-9f5066e073a2">source</a>):
 - The yellow nodes are states $$s$$
