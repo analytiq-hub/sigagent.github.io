@@ -150,7 +150,7 @@ r(s, a, s') = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s'] = \int_{r
 \end{align}
 $$
 
-For example, in the Workday Model $$r(s, a, s')$$ is given. In most models, we can define our own choice of reward functions. Some papers assume that $$r(s, a)$$ is known (e.g., the S. Levine [tutorial](https://arxiv.org/pdf/2005.01643.pdf)), in which case $$r(s, a, s')$$ can be derived<sup>[1](#equivalent-mdp)</sup>.
+In most models, we often define our own choice of reward functions. For example, in the Workday Model the reward is a function of state-action-states.  Some papers assume that the reward is a function of the states-actions (e.g., the S. Levine [tutorial](https://arxiv.org/pdf/2005.01643.pdf)), in which case the state-action-state reward can be derived<sup>[1](#equivalent-mdp)</sup>.
 
 ## State-Action Trajectories
 
