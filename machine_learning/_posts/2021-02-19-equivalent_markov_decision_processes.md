@@ -22,7 +22,7 @@ TO DO: under construction
 - Explain what are equivalent MDPs
 - Why formulations using stochastic state-action-state rewards, or state-action reward functions, or state reward functions are equivalent
 - What are morphisms of MDPs
-- Why $$J^\pi$$, $$V^\pi(s)$$ and $$Q^\pi(s, a)$$ in an MDP can each be interpreted as action-value, value and goal, if we change the underlying MDP
+- Why $$J_\pi$$, $$V^\pi(s)$$ and $$Q^\pi(s, a)$$ in an MDP can each be interpreted as action-value, value and goal, if we change the underlying MDP
 - How an MDP $$(\mathcal{S}, \mathcal{A}, d(s_0), p(s',r \vert s, a))$$ with reward $$r$$ and a discount factor $$\gamma$$ is equivalent to an MDP with states $$\mathcal{S} \times \mathbb{N}$$, reward $$r$$ and discount factor $$1$$, and how formally we can replace $$r_n$$ with $$\gamma^{n-1}r_n$$ formally in a suitable sense in MDP formulas like the Bellman equations or the policy gradient used in REINFORCE.
 
 Open issues:
