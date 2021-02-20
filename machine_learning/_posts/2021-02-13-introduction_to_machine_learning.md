@@ -405,7 +405,7 @@ Deep learning algorithms for RL problems fall into three main classes:
 - Model based (algorithms that know the environment dynamics $$p(s' \vert s, a)$$, or learn it.
 
 <p align="center">
-<img src="/src/diagrams/rl_algo_types.jpg">
+<img src="/src/diagrams/rl_algo_types.png">
 Algorithm Types (<a href="https://www.davidsilver.uk/wp-content/uploads/2020/03/intro_RL.pdf">source</a>)
 </p>
 
