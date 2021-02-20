@@ -404,6 +404,11 @@ Deep learning algorithms for RL problems fall into three main classes:
 - Policy based (algorithms learning the policy $$\pi$$ directly)
 - Model based (algorithms that know the environment dynamics $$p(s' \vert s, a)$$, or learn it.
 
+<p align="center">
+<img src="/src/diagrams/rl_algo_types.jpg">
+Algorithm Types (<a href="https://www.davidsilver.uk/wp-content/uploads/2020/03/intro_RL.pdf">source</a>)
+</p>
+
 The taxonomy below is from [Foundations of Deep RL](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381). See Sec. 1.4 in there for a more in depth discussion.
 
 ### Value based algorithms
