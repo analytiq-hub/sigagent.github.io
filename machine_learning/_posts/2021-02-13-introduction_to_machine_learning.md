@@ -399,10 +399,11 @@ $$
 
 ## Deep learning RL algorithms
 
-Deep learning algorithms for RL problems fall into three main classes:
+Deep learning algorithms for RL problems can be classified as:
 - Value based (algorithms learning value functions $$V_\pi(s)$$ or $$Q_\pi(s, a$$, then deriving the policy $$\pi$$)
 - Policy based (algorithms learning the policy $$\pi$$ directly)
 - Model based (algorithms that know the environment dynamics $$p(s' \vert s, a)$$, or learn it.
+- Or combinations thereof.
 
 <p align="center">
 <img src="/src/diagrams/rl_algo_types.png">
