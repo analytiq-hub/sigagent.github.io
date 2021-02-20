@@ -150,7 +150,7 @@ r(s, a, s') = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s'] = \int_{r
 \end{align}
 $$
 
-For example, in the Workday Model $$r(s, a, s')$$ is given. In most models, we can define our own choice of reward functions. Some papers assume that $$r(s, a)$$ is known (e.g., the S. Levine [tutorial](https://arxiv.org/pdf/2005.01643.pdf)), in which case $$r(s, a, s')$$ can be derived.
+For example, in the Workday Model $$r(s, a, s')$$ is given. In most models, we can define our own choice of reward functions. Some papers assume that $$r(s, a)$$ is known (e.g., the S. Levine [tutorial](https://arxiv.org/pdf/2005.01643.pdf)), in which case $$r(s, a, s')$$ can be derived<sup>[1](#equivalent-mdp)</sup>.
 
 ## Trajectories
 
@@ -434,4 +434,6 @@ Model-based algorithms, effectively, simulate the environment. If the estimation
 ### Combined algoritms
 - Actor-Critic methods use value and policy based methods. The policy (the 'actor') is learned using feedback from a learned action-value function (the 'critic').
 - AphaGo, AlphaZero use a combination of supervised learning, RL model, value and policy based algorithms, and self-play.
+
+<a name="equivalent-mdp">1</a>: Each MDP $$(\mathcal{S}, \mathcal{A}, d(s_0), p(s',r \vert s, a))$$is equivalent to an MDP $(\mathcal{S}, \mathcal{A}, d(s_0), p(s', \mathcal{r} \vert s, a))$$ where $$\mathcal{r}$$ is induced by a function also denoted $$\mathcal{r} \, : \, \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}$$. See [Equivalent Markov Decision Processes](/machine_learning/2021/02/19/equivalent_markov_decision_processes/).
 
