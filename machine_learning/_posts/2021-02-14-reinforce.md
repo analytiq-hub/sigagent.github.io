@@ -28,7 +28,7 @@ In the REINFORCE algorithm, a policy $$\pi$$ is lerned that maximizes the agent 
 A trajectory $$\tau$$ denotes a sequence of states and actions
 $$
 \begin{equation} \label{eq:tau}
-\tau = (s_0, a_0), (s_{1}, a_{1}), ... , (s_T, a_T)
+\tau = s_0, a_0, ... , s_{T-1}, a_{T-1}, s_T
 \end{equation}
 $$
 
@@ -36,7 +36,7 @@ The return of a trajectory $$\tau$$ that starts at step $$t$$ is denoted:
 
 $$
 \begin{equation} \label{eq:trajret}
-R_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + ... + {\gamma^{T-t}}r(s_{T}, a_{T}) = \sum_{t'=t}^T \gamma^{t'-t}r(s_{t'},a_{t'})
+R_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + ... + {\gamma^{T-t-1}}r(s_{T-1}, a_{T-1}) = \sum_{t'=t}^{T-1} \gamma^{t'-t}r(s_{t'},a_{t'})
 \end{equation}
 $$
 
@@ -95,7 +95,7 @@ $$
 \end{align}
 $$
 
-Recall that $$p_\pi(\tau) = d(s_0) \prod_{t=0}^T \pi(a_t \vert s_t) p(s_{t+1} \vert s_t, a_t)$$. We can expand the term $$\nabla_\theta ln \, p_\pi(\tau_{\le a_t} \vert \theta)$$ as follows:
+Recall that $$p_\pi(\tau) = d(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t) p(s_{t+1} \vert s_t, a_t)$$. We can expand the term $$\nabla_\theta ln \, p_\pi(\tau_{\le a_t} \vert \theta)$$ as follows:
 
 $$
 \begin{align}
@@ -113,9 +113,9 @@ $$
 & = \sum_{t=0}^{T} \gamma^{t} \mathbb{E}_{\tau \sim \pi_\theta}[r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'})] & (expectation \, remains \, same \, when \, using \, \tau \, instead \, of \, \tau_{\le a_t})\\
 & = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t=0}^{T} \{ \gamma^{t} r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (bring \, outer \, sum \, in)\\
 & = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{0 \le t' \le t \le T} \{\gamma^{t} r(s_t, a_t) \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (convert \, from \, double \, sum) \\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t'=0}^T \{\nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \sum_{t=t'}^T \gamma^{t} r(s_t, a_t)  \}] & (convert \, to \, reverse \, double \, sum) \\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t'=0}^T \{\gamma^{t'} R_{t'}(\tau) \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (definition \, of \, R_t(\tau)) \\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t=0}^T \{\gamma^t R_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}] & (rename \, t' \, as \, t) \\
+& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t'=0}^{T-1} \{\nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \sum_{t=t'}^{T-1} \gamma^{t} r(s_t, a_t)  \}] & (convert \, to \, reverse \, double \, sum) \\
+& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t'=0}^{T-1} \{\gamma^{t'} R_{t'}(\tau) \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (definition \, of \, R_t(\tau)) \\
+& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t=0}^{T-1} \{\gamma^t R_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}] & (rename \, t' \, as \, t) \\
 \end{align}
 $$
 
@@ -125,7 +125,7 @@ $$~~~~$$ 1: Initialize learning rate $$\alpha$$
 $$~~~~$$ 2: Initialize policy network weights $$\theta$$  
 $$~~~~$$ 3: for $$episode = 0,..., MAX\_EPISODE$$ do  
 $$~~~~~~$$ 4: Sample a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$  
-$$~~~~~~$$ 5: Set $$\nabla_\theta J_{\pi_{\theta}} = \sum_{t=0}^T \{\gamma^t R_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}$$  
+$$~~~~~~$$ 5: Set $$\nabla_\theta J_{\pi_{\theta}} = \sum_{t=0}^{T-1} \{\gamma^t R_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}$$  
 $$~~~~~~$$ 6: $$\theta = \theta + \alpha \nabla_\theta J_{\pi_{\theta}}$$  
 
 The algorithm REINFORCE learns the policy directly, thus cannot be trained on previously collected samples. REINFORCE is a *model-free*, *on-policy* algorithm.
