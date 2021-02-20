@@ -282,9 +282,7 @@ $$V_\pi(s)$$ evaluates how good the state $$s$$ is, and $$Q_\pi(s, a)$$ evaluate
 
 ## Expressing value functions as integrals
 
-Recall that $$\tau$$ denotes a trajectory $$s_0, a_0, ...$$
-
-When $$s_0$$ is fixed, we denote for convenience $$\tau_{>s_t}$$ for the truncated data set $$a_t, s_{t+1}, ...$$ and $$\tau_{>a_t}$$ for the truncated trajectory $$s_{t+1}, a_{t+1}, ...$$
+Recall that $$\tau$$ denotes a trajectory $$s_0, a_0, ...$$. We denote for convenience $$\tau_{>s_t}$$ for the truncated data set $$a_t, s_{t+1}, ...$$ and $$\tau_{>a_t}$$ for the truncated trajectory $$s_{t+1}, a_{t+1}, ...$$
 
 The expectation of a function $$f(x)$$ over a probability density $$p(x)$$ is defined as
 
