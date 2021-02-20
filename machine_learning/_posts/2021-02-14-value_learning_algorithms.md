@@ -23,7 +23,7 @@ This post is part of a series dealing with Reinforcement Learning:
 ## Introduction
 The sets of states $$\mathcal{S}$$  and actions $$\mathcal{A}$$ are assumed to be finite.
 
-The idea in value learning algorithms is to maximize the action-value function $$Q_\pi(s, a)$$, and to pick policies $$s \rightarrow \pi(a \vert s)$$ which maximize $$Q_\pi(s, a)$$. This can be accomplished when, for example, in state $$s$$ we pick $$\underset{a \in \mathcal{A}}{argmax} \, Q_\pi(s, a)$$, which is the action $$a$$ that maximizes $$Q_\pi(s, a)$$.
+The idea in value learning algorithms is to maximize the action-value function $$Q^\pi(s, a)$$, and to pick policies $$s \rightarrow \pi(a \vert s)$$ which maximize $$Q^\pi(s, a)$$. This can be accomplished when, for example, in state $$s$$ we pick $$\underset{a \in \mathcal{A}}{argmax} \, Q^\pi(s, a)$$, which is the action $$a$$ that maximizes $$Q^\pi(s, a)$$.
 
 ## Greedy and $$\epsilon$$-greedy policies
 More generally, if the action-value function $$Q$$ is given, the $$Q$$-greedy policy, by definition, for all $$s \in \mathcal{S}$$ picks with probability 1 the action that maximizes $$Q(s, a)$$.
@@ -36,21 +36,21 @@ If $$\epsilon \in [0, 1]$$ is a number, and $$\pi$$ is a policy, the $$\epsilon$
 
 ## Bellman Equations
 
-We will use of the Bellman equations for $$V_\pi(s)$$ and $$Q_\pi(s, a)$$:
+We will use of the Bellman equations for $$V^\pi(s)$$ and $$Q^\pi(s, a)$$:
 $$
 \begin{align}
-V_\pi(s) & = \int_a  Q_\pi(s, a) da \\
- & = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\big) da \\
-Q_\pi(s, a) & = r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds' \\
- & = r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q_\pi(s',a') ds'da' \\
+V^\pi(s) & = \int_a  Q^\pi(s, a) da \\
+ & = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V^\pi(s') ds'\big) da \\
+Q^\pi(s, a) & = r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V^\pi(s') ds' \\
+ & = r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q^\pi(s',a') ds'da' \\
 \end{align}
 $$
 
 ## Bellman Optimality Equations
 
-Suppose the policy $$\pi$$ is optimal. Then $$V_\pi(s)$$ is maximal for each state $$s$$. Also, each state $$s$$ picks an action $$a$$ such that $$Q_\pi(s, a)$$ is maximal. The policy will be the $$Q$$-greedy policy given by $$\pi(a \vert s)=1$$, for the action $$a$$, and $$\pi(a' \vert s)=0$$ for all other actions $$a' \neq a$$. 
+Suppose the policy $$\pi$$ is optimal. Then $$V^\pi(s)$$ is maximal for each state $$s$$. Also, each state $$s$$ picks an action $$a$$ such that $$Q^\pi(s, a)$$ is maximal. The policy will be the $$Q$$-greedy policy given by $$\pi(a \vert s)=1$$, for the action $$a$$, and $$\pi(a' \vert s)=0$$ for all other actions $$a' \neq a$$. 
 
-We denote $$V_\star(s)=V_\pi(s)$$ and $$Q_\star(s, a)=Q_\pi(s, a)$$ for this optimal policy $$\pi$$. The Bellman equations give us:
+We denote $$V_\star(s)=V^\pi(s)$$ and $$Q_\star(s, a)=Q^\pi(s, a)$$ for this optimal policy $$\pi$$. The Bellman equations give us:
 
 $$
 \begin{align}
@@ -69,7 +69,7 @@ When the number of states $$\mathcal{S}$$ is very small, and the model $$p(s' \v
 
 $$
 \begin{align*}
-V_\star(s) = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\big) da
+V_\star(s) = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V^\pi(s') ds'\big) da
 \end{align*}
 $$
 
@@ -90,9 +90,9 @@ In this method, we assume that the model $$p(s' \vert s, a)$$ is known. We build
 |...    |...            |
 |$$s_{m-1}$$|$$V(s_{m-1})$$|
 
-and continuously update it for a given policy $$\pi$$ with $$V(s) \leftarrow r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V(s') ds'$$, the expected reward plus the discounted value of the next state, until $$V(s)$$ has converged and approximates $$V_\pi(s)$$.
+and continuously update it for a given policy $$\pi$$ with $$V(s) \leftarrow r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V(s') ds'$$, the expected reward plus the discounted value of the next state, until $$V(s)$$ has converged and approximates $$V^\pi(s)$$.
 
-Once $$V$$ is a good approximations for $$V_\pi$$, the Bellman equations give us action-values $$Q(s, a)$$. We then update the policy $$\pi \rightarrow \pi_{greedy}(Q)$$, the greedy policy based on $$Q$$, picking in state $$s$$ the action $$a$$ that maximizes $$Q(s, a)$$, and repeat the entire process,
+Once $$V$$ is a good approximations for $$V^\pi$$, the Bellman equations give us action-values $$Q(s, a)$$. We then update the policy $$\pi \rightarrow \pi_{greedy}(Q)$$, the greedy policy based on $$Q$$, picking in state $$s$$ the action $$a$$ that maximizes $$Q(s, a)$$, and repeat the entire process,
 
 $$
 \begin{align*}
@@ -115,7 +115,7 @@ $$~~~~~~~~$$ 7: If at least one action changed, go back to 1
 $$~~~~~~~~$$ 8: Else, stop. The policy $$\pi$$ is optimal.  
 
 
-The policy $$\pi$$ is guaranteed to eventually stabilize because and the state values $$V_\pi(s)$$ converge to the optimal state values:
+The policy $$\pi$$ is guaranteed to eventually stabilize because and the state values $$V^\pi(s)$$ converge to the optimal state values:
 
 $$
 \begin{align*}
@@ -143,26 +143,26 @@ In DP, the Policy Improvement used state-value $$V(s)$$ as input, and needed to 
 ## Temporal Difference Algorithms
 
 This is a family of algorithms: TD0, TD(n), TD($$\epsilon$$). For Temporal Dif
-ference algorithms, we do not assume that the model $$p(s' \vert s, a)$$ is known. The Policy Improvement step is same as for DP. The Policy Evaluation step for $$V_\pi(s)$$ is different.
+ference algorithms, we do not assume that the model $$p(s' \vert s, a)$$ is known. The Policy Improvement step is same as for DP. The Policy Evaluation step for $$V^\pi(s)$$ is different.
 
-We pick a weight factor $$0 \lt \alpha \le 1$$ and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$V_\pi(s_t)$$ at each step with a value $$G_{\tau, \pi}(s_t)$$, and replacing $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$.
+We pick a weight factor $$0 \lt \alpha \le 1$$ and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$V^\pi(s_t)$$ at each step with a value $$G_{\tau, \pi}(s_t)$$, and replacing $$V^\pi(s_t) \leftarrow V^\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V^\pi(s_t))$$.
 
 #### TD Algorithm
-For the TD0 algorithm, $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$. The algorithm is:
+For the TD0 algorithm, $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V^\pi(s_{t+1})$$. The algorithm is:
 
 $$~~~~$$ 1: Policy Evaluation for $$\pi$$:  
-$$~~~~~~~~$$  2: Initialize all $$V_\pi(s)$$ to random values  
+$$~~~~~~~~$$  2: Initialize all $$V^\pi(s)$$ to random values  
 $$~~~~~~~~$$  3: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
 $$~~~~~~~~~~~~$$ 4: Pick $$s_0 \in \mathcal{S}$$  
 $$~~~~~~~~~~~~$$ 5: For $$t=0, ..., T-1$$  
 $$~~~~~~~~~~~~~~$$ 6: Set $$a_t \leftarrow$$ action given by $$\pi$$ for $$s_t$$  
 $$~~~~~~~~~~~~~~$$ 7: Take action $$a_t$$, observe $$r(s_t, a_t)$$, $$s_{t+1}$$  
-$$~~~~~~~~~~~~~~$$ 8: Set $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1})$$  
-$$~~~~~~~~~~~~~~$$ 9: Set $$V_\pi(s_t) \leftarrow V_\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V_\pi(s_t))$$  
+$$~~~~~~~~~~~~~~$$ 8: Set $$G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V^\pi(s_{t+1})$$  
+$$~~~~~~~~~~~~~~$$ 9: Set $$V^\pi(s_t) \leftarrow V^\pi(s_t) + \alpha (G_{\tau, \pi}(s_t) - V^\pi(s_t))$$  
 
 $$~~~~$$ 10: Policy Update of $$\pi$$: Same as for DP
 
-In step 9, the value $$V_\pi(s_t)$$ is updated with a weighted average between itself and the discounted value of the next step. At the end of steps 1-9, we get an estimate of $$V_\pi(s)$$ for the policy $$\pi$$, and can update $$\pi$$ using the same Policy Improvement algorithm from DP, switching back and forth between Policy Evaluation and Policy Improvement until the policy $$\pi$$ stops changing.
+In step 9, the value $$V^\pi(s_t)$$ is updated with a weighted average between itself and the discounted value of the next step. At the end of steps 1-9, we get an estimate of $$V^\pi(s)$$ for the policy $$\pi$$, and can update $$\pi$$ using the same Policy Improvement algorithm from DP, switching back and forth between Policy Evaluation and Policy Improvement until the policy $$\pi$$ stops changing.
 
 The Policy Evaluation stage of TD is model-free. The GPI stage is not, because DT feeds in the state-vaue function $$V(s)$$ to the Policy Update step.
 
@@ -171,7 +171,7 @@ A variant TD(n) of the TD algorithm changes step 5 to sample the entire trajecto
 
 $$
 \begin{align}
-G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V_\pi(s_{t+1}) + ... + \gamma^{n-1} V_\pi(s_{t+n})
+G_{\tau, \pi}(s_t) \leftarrow r(s_t, a_t) + \gamma V^\pi(s_{t+1}) + ... + \gamma^{n-1} V^\pi(s_{t+n})
 \end{align}
 $$
 
@@ -181,7 +181,7 @@ Another variant TD($$\epsilon$$) of TD changes the Policy Evaluation stage to ap
 
 ## Q-Learning and SARSA
 
-The Policy Improvement step for these algorithms is also same as for DP. But, rather than learn the value function $$V_\pi(s)$$, the Q-Learning and SARSA algorithms learn directly the action-vaue function $$Q_\pi(s, a)$$, and pass that as input to the Policy Improvement stage.
+The Policy Improvement step for these algorithms is also same as for DP. But, rather than learn the value function $$V^\pi(s)$$, the Q-Learning and SARSA algorithms learn directly the action-vaue function $$Q^\pi(s, a)$$, and pass that as input to the Policy Improvement stage.
 
 These algorithms can be thought to update the action-value table below, based on the policy $$\pi$$; then, they update the policy $$\pi$$ based on the table, and iterate the process until the policy $$\pi$$ stops changing.
 
@@ -196,37 +196,37 @@ The policy $$\pi$$ can be immediately be updated from the table, because $$Q(s, 
 
 In both algorithms, the table is randomly initialized with numbers $$Q(s, a)$$.
 
-We pick a weight factor $$0 \lt \alpha \le 1$$, a small number $$0\le \epsilon <1 $$, and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$Q_\pi(s_t, a_t)$$ at each step with a value $$G_{\tau, \pi}(s_t, a_t)$$, replacing
+We pick a weight factor $$0 \lt \alpha \le 1$$, a small number $$0\le \epsilon <1 $$, and a number of episodes $$MAX\_EPISODES$$. We will iterate over tragectories $$\tau = s_0, a_0, ..., s_T, a_T$$, estimating $$Q^\pi(s_t, a_t)$$ at each step with a value $$G_{\tau, \pi}(s_t, a_t)$$, replacing
 $$
 \begin{align}
-Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q_\pi(s_{t+1}, a_{t+1}))
+Q^\pi(s_t, a_t) \leftarrow Q^\pi(s_t, a_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q^\pi(s_{t+1}, a_{t+1}))
 \end{align}
 $$
 
-For SARSA, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma Q_\pi(s_t, a_t)$$.
+For SARSA, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma Q^\pi(s_t, a_t)$$.
 
-For Q-Learning, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \underset{a \in \mathcal{A}}{max} \, Q_\pi(s_{t+1}, a)$$.
+For Q-Learning, $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \underset{a \in \mathcal{A}}{max} \, Q^\pi(s_{t+1}, a)$$.
 
 #### SARSA
 
-$$~~~~$$ 1: Initialize all $$Q_\pi(s, a)$$ to random values  
+$$~~~~$$ 1: Initialize all $$Q^\pi(s, a)$$ to random values  
 $$~~~~$$ 2: Policy Evaluation for $$\pi$$:  
 $$~~~~~~$$ 3: For each episode $$0, 1, ..., MAX\_EPISODES-1$$:  
 $$~~~~~~~~$$ 4: Pick a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$ using $$\pi$$ (or $$\pi_\epsilon$$)  
 $$~~~~~~~~$$ 5: For each $$0 \le t \lt T$$  
-$$~~~~~~~~~~$$ 6: Set $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma Q_\pi(s_{t+1}, a_{t+1})$$  
-$$~~~~~~~~~~$$ 7: Set $$Q_\pi(s_t, a_t) \leftarrow Q_\pi(s_t, a_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q_\pi(s_t, a_t))$$
+$$~~~~~~~~~~$$ 6: Set $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma Q^\pi(s_{t+1}, a_{t+1})$$  
+$$~~~~~~~~~~$$ 7: Set $$Q^\pi(s_t, a_t) \leftarrow Q^\pi(s_t, a_t) + \alpha (G_{\tau, \pi}(s_t, a_t) - Q^\pi(s_t, a_t))$$
 
 $$~~~~$$ 8: Policy Update of $$\pi$$: Same as for DP
 
 It is called SARSA because the update step 6 depends on $$s_t, a_t, r, s_{t+1}, a_{t+1}$$. We could always use $$T = 2$$ in SARSA.
 
-This algorithm is *model-free* but *on-policy*, because step 4 depends on $$Q_\pi(s_{t+1}, a_{t+1})$$, which is policy-specific.
+This algorithm is *model-free* but *on-policy*, because step 4 depends on $$Q^\pi(s_{t+1}, a_{t+1})$$, which is policy-specific.
 
 The n-step method TD(n) idea - having the function $$G_{\tau, \pi}(s_t, a_t)$$ estimate use n forward steps instead of one - can be extended to SARSA as well.
 
 #### Q-Learning
-This algorithm is same as SARSA but $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \underset{a \in \mathcal{A}}{max} \, Q_\pi(s_{t+1}, a)$$.
+This algorithm is same as SARSA but $$G_{\tau, \pi}(s_t, a_t) \leftarrow r(s_t, a_t) + \gamma \, \underset{a \in \mathcal{A}}{max} \, Q^\pi(s_{t+1}, a)$$.
 
 Notice that $$G_{\tau, \pi}(s_t, a_t)$$ for Q-Learning is not policy-specific. The only step depending on the policy is the choice of trajectory $$\tau$$.
 
@@ -236,7 +236,7 @@ Since Q-learning could be performed on data gathered earlier by another policy, 
 
 ## ML algorithms: SARSA, DQN
 
-The algorithms above still assume a small number of states. When the number of states is large, neural networks come to the rescue to approximate the action-value functions $$Q_\pi(s, a)$$.
+The algorithms above still assume a small number of states. When the number of states is large, neural networks come to the rescue to approximate the action-value functions $$Q^\pi(s, a)$$.
 
 The setup is the same for the ML version of SARSA and for DQN. We construct a deep neural network with states $$s \in \mathcal{S}$$ as input, and action-value functions $$Q(s, a)$$ outputs for all actions $$a \in \mathcal{A}$$.
 
@@ -262,15 +262,15 @@ Like its non-ML counterpart, ML SARSA is *on-policy* because at step 6 it employ
 
 To improve the performce, ML-SARSA can save in step 8 the adjusted weights $$w$$, and only apply an average adjustment after a batch of episodes. This technique is an example of *on-policy batched memory replay*. Aternatively, the weight adjustments for a batch of episodes can be applied all at once.
 
-Instead of an $$\epsilon$$-greedy policy $$\pi_\epsilon$$ in step 4, one can use a Boltzmann policy $$\pi_{boltzmann}$$ which, in state $$s$$, favors random selection of states $$s'$$ sampled by higher action-valie $$Q_\pi(s', a')$$. With the Bolzmann policy, actions are sampled according to the distribution
+Instead of an $$\epsilon$$-greedy policy $$\pi_\epsilon$$ in step 4, one can use a Boltzmann policy $$\pi_{boltzmann}$$ which, in state $$s$$, favors random selection of states $$s'$$ sampled by higher action-valie $$Q^\pi(s', a')$$. With the Bolzmann policy, actions are sampled according to the distribution
 
 $$
 \begin{align}
-p_{bolzmann}(a \vert s) = \frac{e^{Q_\pi(s, a)/\tau}}{\sum_{a'}e^{Q_\pi(s, a)/\tau}}
+p_{bolzmann}(a \vert s) = \frac{e^{Q^\pi(s, a)/\tau}}{\sum_{a'}e^{Q^\pi(s, a)/\tau}}
 \end{align}
 $$
 
-The *temperature* factor $$\tau$$ in the Bolzmann policy is decayed in step 9 of the algorithm. As $$\tau$$ approaches 0, $$p_{bolzmann}(a \vert s)$$ converges to 1 for actions $$a$$ that maximize $$Q_\pi(s, a)$$.
+The *temperature* factor $$\tau$$ in the Bolzmann policy is decayed in step 9 of the algorithm. As $$\tau$$ approaches 0, $$p_{bolzmann}(a \vert s)$$ converges to 1 for actions $$a$$ that maximize $$Q^\pi(s, a)$$.
 
 ### The DQN algorithm
 

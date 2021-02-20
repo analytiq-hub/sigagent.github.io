@@ -23,7 +23,7 @@ This post is part of a series on Reinforcement Learning:
 
 ## Introduction
 
-In the REINFORCE algorithm, a policy $$\pi$$ is lerned that maximizes the agent objective $$J_\pi$$. Some prerequisites from [Introduction to Machine Learning](2021-02-13-introduction_to_machine_learning.md):
+In the REINFORCE algorithm, a policy $$\pi$$ is lerned that maximizes the agent objective $$J^\pi$$. Some prerequisites from [Introduction to Machine Learning](2021-02-13-introduction_to_machine_learning.md):
 
 A trajectory $$\tau$$ denotes a sequence of states and actions
 $$
@@ -42,11 +42,11 @@ $$
 
 ## The agent objective
 
-The agent needs to learn a policy that maximizes the agent objective $$J_\pi$$:
+The agent needs to learn a policy that maximizes the agent objective $$J^\pi$$:
 
 $$
 \begin{align}
-J_\pi & = \sum_{t=0}^{T}[R(\tau)] & (definition \, of J_\pi)\\
+J^\pi & = \sum_{t=0}^{T}[R(\tau)] & (definition \, of J^\pi)\\
  & = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)] & (expand\, R(\tau))\\
 & = \sum_{t=0}^{T} \int_{\tau_{\le a_t} = s_0, a_0, ... , a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \hspace{1cm} & (as \, shown \, previously) \\
 & = \sum_{t=0}^{T} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi}[r(s_t, a_t)] & (definition \, of \, expectation)

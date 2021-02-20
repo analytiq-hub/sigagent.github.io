@@ -258,15 +258,15 @@ When trajectories $$\overline{\tau}$$ are sampled according to a policy $$\pi$$,
 
 $$
 \begin{equation} \label{eq:objective}
-J_\pi = \mathbb{E}_{\overline{\tau} \sim \pi}[r(\overline{\tau})] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
+J^\pi = \mathbb{E}_{\overline{\tau} \sim \pi}[r(\overline{\tau})] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
-The goal of the agent is to find a policy $$\pi$$ that maximizes the objective $$J_\pi$$. If we fix the initial state $$s$$, or the pair $$(s, a)$$ of initial state and initial action, we define the *state-value* function 
+The goal of the agent is to find a policy $$\pi$$ that maximizes the objective $$J^\pi$$. If we fix the initial state $$s$$, or the pair $$(s, a)$$ of initial state and initial action, we define the *state-value* function 
 
 $$
 \begin{equation} \label{eq:value_state}
-V_\pi(s) = \mathbb{E}_{s_0=s, \overline{\tau} \sim \pi}[r(\overline{\tau})] = \mathbb{E}_{s_0=s, \tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
+V^\pi(s) = \mathbb{E}_{s_0=s, \overline{\tau} \sim \pi}[r(\overline{\tau})] = \mathbb{E}_{s_0=s, \tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
@@ -274,11 +274,11 @@ and the *action-value* function
 
 $$
 \begin{equation} \label{eq:value_state_action}
-Q_\pi(s, a) = \mathbb{E}_{s_0=s, a_0=a, \overline{\tau} \sim \pi}[r(\overline{\tau})] = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
+Q^\pi(s, a) = \mathbb{E}_{s_0=s, a_0=a, \overline{\tau} \sim \pi}[r(\overline{\tau})] = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
-$$V_\pi(s)$$ evaluates how good the state $$s$$ is, and $$Q_\pi(s, a)$$ evaluates how good action $$a$$ is in state $$s$$, according to the policy $$\pi$$. $$V$$ stands for value, and $$Q$$ for quality.
+$$V^\pi(s)$$ evaluates how good the state $$s$$ is, and $$Q^\pi(s, a)$$ evaluates how good action $$a$$ is in state $$s$$, according to the policy $$\pi$$. $$V$$ stands for value, and $$Q$$ for quality.
 
 ## Expressing value functions as integrals
 
@@ -294,11 +294,11 @@ $$
 
 In most examples, the sample space for $$x$$ is finite, in which case the integral $$\int$$ becomes a sum $$\sum$$. 
 
-Applying the definition of density to objective $$J_\pi$$, the state-value $$V_\pi(s)$$ and the action-value $$Q_\pi(s, a)$$ functions, we get:
+Applying the definition of density to objective $$J^\pi$$, the state-value $$V^\pi(s)$$ and the action-value $$Q^\pi(s, a)$$ functions, we get:
 
 $$
 \begin{align}
-J_\pi & = \int_\tau \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
+J^\pi & = \int_\tau \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
 & = \sum_{t=0}^{T-1} \int_{\tau}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (bring \, sum \, out) \\
 & = \sum_{t=0}^{T-1} \int_{\tau_{\le a_t}} \int_{\tau_{> a_t}} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} d\tau_{>a_t} \hspace{1cm} & (product \, of \, truncated \, densities \, d\tau = d\tau_{\le a_t} d\tau_{>a_t}) \\
 & = \sum_{t=0}^{T-1} \big( \int_{\tau_{\le a_t}} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \big)\big(\int_{\tau_{> a_t}} d\tau_{>a_t}\big) \hspace{1cm} & (Fubini \, for \, d\tau = d\tau_{\le a_t} d\tau_{>a_t}) \\
@@ -310,7 +310,7 @@ Same arguments give:
 
 $$
 \begin{align} 
-V_\pi(s_0) & = \int_{\tau_{>s_0} = a_0, s_1, a_1, ...} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, expectation) \\
+V^\pi(s_0) & = \int_{\tau_{>s_0} = a_0, s_1, a_1, ...} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, expectation) \\
 & = \sum_{t=0}^{T-1}\int_{\tau_{>s_0 \le a_t} = a_0, s_1, a_1, ... , a_t}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>s_0 \le a_t} \hspace{1cm} & (integration \, over \, truncated \, trajectories \, \tau_{>s_0 \le a_t} = a_0, s_1, a_1, ... , a_t) \\
 \end{align}
 $$
@@ -319,7 +319,7 @@ And:
 
 $$
 \begin{align} 
-Q_\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>a_0}) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, expectation) \\
+Q^\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>a_0}) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, expectation) \\
 & = \sum_{t=0}^{T-1} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (integration \, over \, truncated \, trajectories \, \tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t) \\
 & = r(s_0,a_0) + \sum_{t=1}^{T-1} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (s_0, a_0 \, independent \, of \tau_{>a_0 \le a_t} \, and \, density \, d\tau_{>a_0 \le a_t} \, has \int d\tau_{>a_0 \le a_t} = 1) \\
 \end{align}
@@ -327,46 +327,46 @@ $$
 
 ## The Bellman Equations
 
-The objective $$J_\pi$$, the state-value $$V_\pi(s)$$ and the action-value $$Q_\pi(s, a)$$ functions  are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
+The objective $$J^\pi$$, the state-value $$V^\pi(s)$$ and the action-value $$Q^\pi(s, a)$$ functions  are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
 
 $$
 \begin{align}
-J_\pi & = \int_\tau \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
+J^\pi & = \int_\tau \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
 & = \int_{\tau = (s_0, a_0, s_1, ...)} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) d(s_0) \prod_{t'=0}^{t-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau \hspace{1cm} & (expand \, p_\pi(s_t, a_t \vert \tau)) \\
 & = \int_{s_0} \big( \int_{\tau_{>s_0} = (a_0, s_1, ...)} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) \prod_{t'=0}^{t-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>s_0} \big) ds_0 \hspace{1cm} & (Fubini \, for \, d\tau = d\tau_{>s_0} ds_0) \\
-& =   \int_{s_0} V_\pi(s_0) ds_0 & (definition \, of \,  V_\pi(s_0)) \\
-& =   \int_{s} V_\pi(s) ds& (relabel \, s_0) \\
+& =   \int_{s_0} V^\pi(s_0) ds_0 & (definition \, of \,  V^\pi(s_0)) \\
+& =   \int_{s} V^\pi(s) ds& (relabel \, s_0) \\
 \end{align}
 $$
 
-This says that $$J_\pi$$ is the expected value of $$V_\pi(s)$$ over all states $$s$$. We also have:
+This says that $$J^\pi$$ is the expected value of $$V^\pi(s)$$ over all states $$s$$. We also have:
 
 $$
 \begin{align} 
-V_\pi(s_0) & = \int_{\tau_{>s_0} = a_0, s_1, a_1, ...} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, expectation) \\
+V^\pi(s_0) & = \int_{\tau_{>s_0} = a_0, s_1, a_1, ...} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, expectation) \\
 & = \int_{a_0} \big( \int_{\tau_{>a_0} = s_1, a_1, ...} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>a_0} \big) da_0 \hspace{1cm} & (Fubini \, for \, d \tau_{>s_0} = d \tau_{>a_0} da_0) \\
-& = \int_{a_0} Q_\pi(s_0, a_0) da_0 \hspace{1cm} & (definition \, of \, Q_\pi(s_0, a_0)) \\
+& = \int_{a_0} Q^\pi(s_0, a_0) da_0 \hspace{1cm} & (definition \, of \, Q^\pi(s_0, a_0)) \\
 \end{align}
 $$
 
 Relabeled, this says that 
 $$
 \begin{align} \label{eq:vq_bellman}
-V_\pi(s) = \int_a Q_\pi(s, a) da
+V^\pi(s) = \int_a Q^\pi(s, a) da
 \end{align}
 $$
 
-which means that $$V_\pi(s)$$ is the expected value of $$Q_\pi(s, a)$$ over all actions $$a$$ in state $$s$$. And we can also express $$Q_\pi(s, a)$$ in terms of $$V_\pi$$:
+which means that $$V^\pi(s)$$ is the expected value of $$Q^\pi(s, a)$$ over all actions $$a$$ in state $$s$$. And we can also express $$Q^\pi(s, a)$$ in terms of $$V^\pi$$:
 
 $$
 \begin{align}
-Q_\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>a_0}) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, expectation) \\
+Q^\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>a_0}) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, expectation) \\
 & = r(s_0,a_0) + \sum_{t=1}^{T-1} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (as \, shown \, before) \\
 & = r(s_0, a_0) + \gamma \sum_{t=1}^{T-1} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t-1} r(s_t, a_t) \prod_{t'=1}^{t-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (definition \, of \, p_\pi(\tau_{>a_0 \le a_t})) \\
 & = r(s_0, a_0) + \gamma \sum_{t=1}^{T-1} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} p(s_{1} \vert s_0, a_0) \gamma^{t-1} r(s_t, a_t) \prod_{t'=1}^{t-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=1}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (bring \, p(s_1 \vert s_0,a_0) \, out \, of \, \prod_{t'=0}^{t-1}) \\
 & = r(s_0, a_0) + \gamma \sum_{t=1}^{T-1} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} p(s_{1} \vert s_0, a_0) \gamma^{t-1} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0 \le a_t}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (replace \, with \, p_\pi(s_t, a_t \vert \tau_{>a_0 \le a_t})) \\
-& \approx r(s_0, a_0) + \gamma \int_{s_1} p(s_{1} \vert s_0, a_0) V_\pi(s_1) ds_1 \hspace{1cm} & (definition \, of \, V_\pi(s_1) \, for \, T-1) \\
-& = r(s_0, a_0) + \gamma \int_{s_1, a_1} p(s_{1} \vert s_0, a_0) Q_\pi(s_1, a_1) ds_1 da_1 \hspace{1cm} & (V_\pi(s_1) \, as \, expected \, value \, of \, Q_\pi(s_1, a_1) \, over \, a_1) \\
+& \approx r(s_0, a_0) + \gamma \int_{s_1} p(s_{1} \vert s_0, a_0) V^\pi(s_1) ds_1 \hspace{1cm} & (definition \, of \, V^\pi(s_1) \, for \, T-1) \\
+& = r(s_0, a_0) + \gamma \int_{s_1, a_1} p(s_{1} \vert s_0, a_0) Q^\pi(s_1, a_1) ds_1 da_1 \hspace{1cm} & (V^\pi(s_1) \, as \, expected \, value \, of \, Q^\pi(s_1, a_1) \, over \, a_1) \\
 \end{align}
 $$
 
@@ -374,25 +374,25 @@ The result is an approximation because the sum and product under the integral ar
 
 $$
 \begin{align} \label{eq:q_bellman}
-Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q_\pi(s',a') ds'da' \\
+Q^\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q^\pi(s',a') ds'da' \\
 \end{align}
 $$
 
-The equations (\ref{eq:v_bellman}), (\ref{eq:q_bellman}) are the Bellman equations for $$J_\pi$$ and $$Q_\pi(s, a)$$. Plugging back into the equation for $$V_\pi(s)$$ we get
+The equations (\ref{eq:v_bellman}), (\ref{eq:q_bellman}) are the Bellman equations for $$J^\pi$$ and $$Q^\pi(s, a)$$. Plugging back into the equation for $$V^\pi(s)$$ we get
 
 $$
 \begin{align} 
-V_\pi(s) & = \int_a Q_\pi(s, a) da & \\
-& = \int_a \big( r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q_\pi(s',a') ds'da'\big)da & (expand \, Q_\pi(s, a))\\
-& = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) \big( \int_{a'}  Q_\pi(s',a') da' \big) ds'\big)da & (Fubini \, for \, da'ds')\\
-& = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\big)da & (regroup \, V_\pi(s')) \\
+V^\pi(s) & = \int_a Q^\pi(s, a) da & \\
+& = \int_a \big( r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q^\pi(s',a') ds'da'\big)da & (expand \, Q^\pi(s, a))\\
+& = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) \big( \int_{a'}  Q^\pi(s',a') da' \big) ds'\big)da & (Fubini \, for \, da'ds')\\
+& = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V^\pi(s') ds'\big)da & (regroup \, V^\pi(s')) \\
 \end{align}
 $$
 
-This gives us the Bellman equation for $$V_\pi(s)$$:
+This gives us the Bellman equation for $$V^\pi(s)$$:
 $$
 \begin{align} \label{eq:v_bellman}
-V_\pi(s) = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\big) da \\
+V^\pi(s) = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V^\pi(s') ds'\big) da \\
 \end{align}
 $$
 
@@ -406,7 +406,7 @@ Deep learning algorithms for RL problems fall into three main classes:
 The taxonomy below is from [Foundations of Deep RL](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381). See Sec. 1.4 in there for a more in depth discussion.
 
 ### Value based algorithms
-This class of algorithms learn the action-value functions $$Q_\pi(s, a)$$. A policy $$\pi(a \vert s)$$ could be picked, for example, to  maximizes the action-value $$Q_\pi(s, a)$$ in all states $$s$$. It is less common to lear $$V_\pi(s)$$ and infer the policy $$\pi$$.
+This class of algorithms learn the action-value functions $$Q^\pi(s, a)$$. A policy $$\pi(a \vert s)$$ could be picked, for example, to  maximizes the action-value $$Q^\pi(s, a)$$ in all states $$s$$. It is less common to lear $$V^\pi(s)$$ and infer the policy $$\pi$$.
 
 Example value based algorithms:
 - Q-Learning
@@ -416,10 +416,10 @@ Example value based algorithms:
 
 In the algorithms above, the set of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$  must be finite. More recently, value based algorithms like QT-OPT have become available and can be applied to continuous action spaces $$\mathcal{A}$$.
 
-This class of algorithms are more sample efficient. They work well if $$Q_\pi(s, a)$$ can be maximized without having to look ahead many action steps.
+This class of algorithms are more sample efficient. They work well if $$Q^\pi(s, a)$$ can be maximized without having to look ahead many action steps.
 
 ### Policy based algorithms
-These algorithms learn a policy $$\pi$$ that maximizes the agent objective $$J_\pi$$. Example algorithm:
+These algorithms learn a policy $$\pi$$ that maximizes the agent objective $$J^\pi$$. Example algorithm:
 - REINFORCE
 
 In this class of algorithms, the space of actions $$\mathcal{A}$$ can be either continuous or discrete. The disadvantage is that these algorithms have high variance and are sample inefficient.
