@@ -46,7 +46,7 @@ The agent needs to learn a policy that maximizes the agent objective $$J_\pi$$:
 
 $$
 \begin{align}
-J_\pi & = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)] & (expand\, R(\tau))\\
+J_\pi & = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)] & \\
 & = \sum_{t=0}^{T-1} \int_{\tau_{\le a_t} = s_0, a_0, ... , a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \hspace{1cm} & \\
 & = \sum_{t=0}^{T-1} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi}[r(s_t, a_t)] & (definition \, of \, expectation)
 \end{align}
