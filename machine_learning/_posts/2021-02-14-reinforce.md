@@ -36,7 +36,7 @@ The return of a trajectory $$\tau$$ that starts at step $$t$$ is denoted:
 
 $$
 \begin{equation} \label{eq:trajret}
-R_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + ... + {\gamma^{T-t-1}}r(s_{T-1}, a_{T-1}) = \sum_{t'=t}^{T-1} \gamma^{t'-t}r(s_{t'},a_{t'})
+r_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + ... + {\gamma^{T-t-1}}r(s_{T-1}, a_{T-1}) = \sum_{t'=t}^{T-1} \gamma^{t'-t}r(s_{t'},a_{t'})
 \end{equation}
 $$
 
@@ -113,8 +113,8 @@ $$
 & = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t=0}^{T-1} \{ \gamma^{t} r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (bring \, outer \, sum \, in)\\
 & = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{0 \le t' \le t \le T} \{\gamma^{t} r(s_t, a_t) \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (convert \, from \, double \, sum) \\
 & = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t'=0}^{T-1} \{\nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \sum_{t=t'}^{T-1} \gamma^{t} r(s_t, a_t)  \}] & (convert \, to \, reverse \, double \, sum) \\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t'=0}^{T-1} \{\gamma^{t'} R_{t'}(\tau) \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (definition \, of \, R_t(\tau)) \\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t=0}^{T-1} \{\gamma^t R_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}] & (rename \, t' \, as \, t) \\
+& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t'=0}^{T-1} \{\gamma^{t'} r_{t'}(\tau) \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (definition \, of \, r_t(\tau)) \\
+& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t=0}^{T-1} \{\gamma^t r_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}] & (rename \, t' \, as \, t) \\
 \end{align}
 $$
 
@@ -124,7 +124,7 @@ $$~~~~$$ 1: Initialize learning rate $$\alpha$$
 $$~~~~$$ 2: Initialize policy network weights $$\theta$$  
 $$~~~~$$ 3: for $$episode = 0,..., MAX\_EPISODE$$ do  
 $$~~~~~~$$ 4: Sample a trajectory $$\tau = s_0, a_0, ..., s_T, a_T$$  
-$$~~~~~~$$ 5: Set $$\nabla_\theta J_{\pi_{\theta}} = \sum_{t=0}^{T-1} \{\gamma^t R_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}$$  
+$$~~~~~~$$ 5: Set $$\nabla_\theta J_{\pi_{\theta}} = \sum_{t=0}^{T-1} \{\gamma^t r_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}$$  
 $$~~~~~~$$ 6: $$\theta = \theta + \alpha \nabla_\theta J_{\pi_{\theta}}$$  
 
 The algorithm REINFORCE learns the policy directly, thus cannot be trained on previously collected samples. REINFORCE is a *model-free*, *on-policy* algorithm.
