@@ -435,5 +435,5 @@ Model-based algorithms, effectively, simulate the environment. If the estimation
 - Actor-Critic methods use value and policy based methods. The policy (the 'actor') is learned using feedback from a learned action-value function (the 'critic').
 - AphaGo, AlphaZero use a combination of supervised learning, RL model, value and policy based algorithms, and self-play.
 
-<a name="equivalent-mdp">1</a>: Each MDP $$(\mathcal{S}, \mathcal{A}, d(s_0), p(s',r \vert s, a))$$is equivalent to an MDP $(\mathcal{S}, \mathcal{A}, d(s_0), p(s', \mathcal{r} \vert s, a))$$ where $$\mathcal{r}$$ is induced by a function also denoted $$\mathcal{r} \, : \, \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}$$. See [Equivalent Markov Decision Processes](/machine_learning/2021/02/19/equivalent_markov_decision_processes/).
+<a name="equivalent-mdp">1</a>: Each MDP $$(\mathcal{S}, \mathcal{A}, d(s_0), p(s',r \vert s, a))$$ is equivalent to an MDP $$(\mathcal{S}, \mathcal{A}, d(s_0), p(s', \mathcal{r} \vert s, a))$$ where $$\mathcal{r}$$ is induced by a function also denoted $$\mathcal{r} \, : \, \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}$$. See [Equivalent Markov Decision Processes](/machine_learning/2021/02/19/equivalent_markov_decision_processes/).
 
