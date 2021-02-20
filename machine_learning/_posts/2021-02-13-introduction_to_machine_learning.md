@@ -175,9 +175,7 @@ $$
 \overline{\tau} = (s_0, a_0, r_1, s_1, a_1, r_2, ..., s_{T-1}, a_{T-1}, r_T, s_T)
 \end{align}
 $$
-
 with probability
-
 $$
 \begin{align}
 p_\pi(\overline{\tau}) & = d(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1},r_{t+1} \vert s_t, a_t)
