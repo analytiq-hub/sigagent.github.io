@@ -406,7 +406,7 @@ Deep learning algorithms for RL problems can be classified as:
 - Or combinations thereof.
 
 <p align="center">
-<img src="/src/diagrams/rl_algo_types.png">
+<img src="/src/diagrams/rl_algo_types.png"><br>
 Algorithm Types (<a href="https://www.davidsilver.uk/wp-content/uploads/2020/03/intro_RL.pdf">source</a>)
 </p>
 
