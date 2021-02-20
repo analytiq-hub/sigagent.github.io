@@ -46,10 +46,10 @@ The agent needs to learn a policy that maximizes the agent objective $$J^\pi$$:
 
 $$
 \begin{align}
-J^\pi & = \sum_{t=0}^{T}[R(\tau)] & (definition \, of J^\pi)\\
- & = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T} \gamma^{t} r(s_t, a_t)] & (expand\, R(\tau))\\
-& = \sum_{t=0}^{T} \int_{\tau_{\le a_t} = s_0, a_0, ... , a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \hspace{1cm} & (as \, shown \, previously) \\
-& = \sum_{t=0}^{T} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi}[r(s_t, a_t)] & (definition \, of \, expectation)
+J^\pi & = \sum_{t=0}^{T-1}[R(\tau)] & (definition \, of J^\pi)\\
+ & = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)] & (expand\, R(\tau))\\
+& = \sum_{t=0}^{T-1} \int_{\tau_{\le a_t} = s_0, a_0, ... , a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \hspace{1cm} & (as \, shown \, previously) \\
+& = \sum_{t=0}^{T-1} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi}[r(s_t, a_t)] & (definition \, of \, expectation)
 \end{align}
 $$
 
@@ -89,9 +89,9 @@ In view of this,
 
 $$
 \begin{align}
-\nabla_\theta J_{\pi_\theta} & = \nabla_\theta \sum_{t=0}^{T} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t)] & (express \, J_{\pi_\theta} \, as \, sum \, of \, expectations) \\
-& = \sum_{t=0}^{T} \gamma^{t} \nabla_\theta \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t)] & (bring \, \nabla_\theta \, inside \, sum) \\
-& = \sum_{t=0}^{T} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t) \nabla_\theta (ln \, p_{\pi_\theta}(\tau_{\le a_t} \vert \theta))] & (bring \, \nabla_\theta \, inside \, \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta})\\
+\nabla_\theta J_{\pi_\theta} & = \nabla_\theta \sum_{t=0}^{T-1} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t)] & (express \, J_{\pi_\theta} \, as \, sum \, of \, expectations) \\
+& = \sum_{t=0}^{T-1} \gamma^{t} \nabla_\theta \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t)] & (bring \, \nabla_\theta \, inside \, sum) \\
+& = \sum_{t=0}^{T-1} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t) \nabla_\theta (ln \, p_{\pi_\theta}(\tau_{\le a_t} \vert \theta))] & (bring \, \nabla_\theta \, inside \, \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta})\\
 \end{align}
 $$
 
@@ -109,9 +109,9 @@ Applying that:
 
 $$
 \begin{align}
-\nabla_\theta J_{\pi_\theta} & = \sum_{t=0}^{T} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'})] & \\
-& = \sum_{t=0}^{T} \gamma^{t} \mathbb{E}_{\tau \sim \pi_\theta}[r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'})] & (expectation \, remains \, same \, when \, using \, \tau \, instead \, of \, \tau_{\le a_t})\\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t=0}^{T} \{ \gamma^{t} r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (bring \, outer \, sum \, in)\\
+\nabla_\theta J_{\pi_\theta} & = \sum_{t=0}^{T-1} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'})] & \\
+& = \sum_{t=0}^{T-1} \gamma^{t} \mathbb{E}_{\tau \sim \pi_\theta}[r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'})] & (expectation \, remains \, same \, when \, using \, \tau \, instead \, of \, \tau_{\le a_t})\\
+& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t=0}^{T-1} \{ \gamma^{t} r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (bring \, outer \, sum \, in)\\
 & = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{0 \le t' \le t \le T} \{\gamma^{t} r(s_t, a_t) \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (convert \, from \, double \, sum) \\
 & = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t'=0}^{T-1} \{\nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \sum_{t=t'}^{T-1} \gamma^{t} r(s_t, a_t)  \}] & (convert \, to \, reverse \, double \, sum) \\
 & = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t'=0}^{T-1} \{\gamma^{t'} R_{t'}(\tau) \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (definition \, of \, R_t(\tau)) \\
