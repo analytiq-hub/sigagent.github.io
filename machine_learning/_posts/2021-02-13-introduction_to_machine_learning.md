@@ -65,7 +65,7 @@ The *objective* of RL problems is to maximize the sum of future rewards, *learni
 
 ## Markov Decision Process
 
-The states $$s_{t+1}$$, in practice, can only be estimated, stocastically, up to a measurement error:
+The states $$s_{t+1}$$, in practice, can only be estimated, stochastically, up to a measurement error:
 
 $$
 \begin{equation}
