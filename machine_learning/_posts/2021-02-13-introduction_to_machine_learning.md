@@ -258,11 +258,11 @@ When trajectories $$\overline{\tau}$$ are sampled according to a policy $$\pi$$,
 
 $$
 \begin{equation} \label{eq:objective}
-J^\pi = \mathbb{E}_{\overline{\tau} \sim \pi}[r(\overline{\tau})] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
+J_\pi = \mathbb{E}_{\overline{\tau} \sim \pi}[r(\overline{\tau})] = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
-The goal of the agent is to find a policy $$\pi$$ that maximizes the objective $$J^\pi$$. If we fix the initial state $$s$$, or the pair $$(s, a)$$ of initial state and initial action, we define the *state-value* function 
+The goal of the agent is to find a policy $$\pi$$ that maximizes the objective $$J_\pi$$. If we fix the initial state $$s$$, or the pair $$(s, a)$$ of initial state and initial action, we define the *state-value* function 
 
 $$
 \begin{equation} \label{eq:value_state}
@@ -294,11 +294,11 @@ $$
 
 In most examples, the sample space for $$x$$ is finite, in which case the integral $$\int$$ becomes a sum $$\sum$$. 
 
-Applying the definition of density to objective $$J^\pi$$, the state-value $$V^\pi(s)$$ and the action-value $$Q^\pi(s, a)$$ functions, we get:
+Applying the definition of density to objective $$J_\pi$$, the state-value $$V^\pi(s)$$ and the action-value $$Q^\pi(s, a)$$ functions, we get:
 
 $$
 \begin{align}
-J^\pi & = \int_\tau \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
+J_\pi & = \int_\tau \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
 & = \sum_{t=0}^{T-1} \int_{\tau}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (bring \, sum \, out) \\
 & = \sum_{t=0}^{T-1} \int_{\tau_{\le a_t}} \int_{\tau_{> a_t}} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} d\tau_{>a_t} \hspace{1cm} & (product \, of \, truncated \, densities \, d\tau = d\tau_{\le a_t} d\tau_{>a_t}) \\
 & = \sum_{t=0}^{T-1} \big( \int_{\tau_{\le a_t}} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \big)\big(\int_{\tau_{> a_t}} d\tau_{>a_t}\big) \hspace{1cm} & (Fubini \, for \, d\tau = d\tau_{\le a_t} d\tau_{>a_t}) \\
@@ -327,11 +327,11 @@ $$
 
 ## The Bellman Equations
 
-The objective $$J^\pi$$, the state-value $$V^\pi(s)$$ and the action-value $$Q^\pi(s, a)$$ functions  are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
+The objective $$J_\pi$$, the state-value $$V^\pi(s)$$ and the action-value $$Q^\pi(s, a)$$ functions  are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
 
 $$
 \begin{align}
-J^\pi & = \int_\tau \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
+J_\pi & = \int_\tau \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
 & = \int_{\tau = (s_0, a_0, s_1, ...)} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) d(s_0) \prod_{t'=0}^{t-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau \hspace{1cm} & (expand \, p_\pi(s_t, a_t \vert \tau)) \\
 & = \int_{s_0} \big( \int_{\tau_{>s_0} = (a_0, s_1, ...)} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) \prod_{t'=0}^{t-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>s_0} \big) ds_0 \hspace{1cm} & (Fubini \, for \, d\tau = d\tau_{>s_0} ds_0) \\
 & =   \int_{s_0} V^\pi(s_0) ds_0 & (definition \, of \,  V^\pi(s_0)) \\
@@ -339,7 +339,7 @@ J^\pi & = \int_\tau \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert
 \end{align}
 $$
 
-This says that $$J^\pi$$ is the expected value of $$V^\pi(s)$$ over all states $$s$$. We also have:
+This says that $$J_\pi$$ is the expected value of $$V^\pi(s)$$ over all states $$s$$. We also have:
 
 $$
 \begin{align} 
@@ -378,7 +378,7 @@ Q^\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q^\pi(s',a') ds'd
 \end{align}
 $$
 
-The equations (\ref{eq:v_bellman}), (\ref{eq:q_bellman}) are the Bellman equations for $$J^\pi$$ and $$Q^\pi(s, a)$$. Plugging back into the equation for $$V^\pi(s)$$ we get
+The equations (\ref{eq:v_bellman}), (\ref{eq:q_bellman}) are the Bellman equations for $$J_\pi$$ and $$Q^\pi(s, a)$$. Plugging back into the equation for $$V^\pi(s)$$ we get
 
 $$
 \begin{align} 
@@ -419,7 +419,7 @@ In the algorithms above, the set of states $$\mathcal{S}$$ and actions $$\mathca
 This class of algorithms are more sample efficient. They work well if $$Q^\pi(s, a)$$ can be maximized without having to look ahead many action steps.
 
 ### Policy based algorithms
-These algorithms learn a policy $$\pi$$ that maximizes the agent objective $$J^\pi$$. Example algorithm:
+These algorithms learn a policy $$\pi$$ that maximizes the agent objective $$J_\pi$$. Example algorithm:
 - REINFORCE
 
 In this class of algorithms, the space of actions $$\mathcal{A}$$ can be either continuous or discrete. The disadvantage is that these algorithms have high variance and are sample inefficient.
