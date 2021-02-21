@@ -230,10 +230,21 @@ $$
 \end{equation}
 $$
 
+## Recall: Probability sample, Expected value
+
+In general, if $$p$$ is a probability distribution, we denote $$x \sim p$$ for a sample selected with that probability. The expectation of a function $$f(x)$$ over a probability density $$p(x)$$ is defined as
+
+$$
+\begin{align}
+\mathbb{E}_p (f) = \int_{x \sim p} f(x) p(x) dx
+\end{align}
+$$
+
+In most examples, the sample space for $$x$$ is finite, in which case the integral $$\int$$ becomes a sum $$\sum$$.
+
 ## The Agent Objective and the Value Functions
 
-Any state-action-reward trajectory $$\overline{\tau}$$ has an undelying state-action trajectory $$\tau$$. We use this in the notations below.
-
+Recall that we denote $$\overline{\tau}$$ for an state-action-reward trajectory, and $$\tau$$ for a state-action trajectory. 
 
 When trajectories $$\overline{\tau}$$ are sampled according to a policy $$\pi$$, the agent *objective* is defined as the expected value of the return function, sampled over the policy distribution $$p_\pi(\tau)$$ defined by ($$\ref{eq:taudist}$$):
 
@@ -264,16 +275,6 @@ $$V_\pi(s)$$ evaluates how good the state $$s$$ is, and $$Q_\pi(s, a)$$ evaluate
 ## Expressing value functions as integrals
 
 Recall that $$\tau$$ denotes a trajectory $$s_0, a_0, ...$$. We denote for convenience $$\tau_{>s_t}$$ for the truncated data set $$a_t, s_{t+1}, ...$$ and $$\tau_{>a_t}$$ for the truncated trajectory $$s_{t+1}, a_{t+1}, ...$$
-
-The expectation of a function $$f(x)$$ over a probability density $$p(x)$$ is defined as
-
-$$
-\begin{align}
-\mathbb{E}_p (f) = \int_x f(x) p(x) dx
-\end{align}
-$$
-
-In most examples, the sample space for $$x$$ is finite, in which case the integral $$\int$$ becomes a sum $$\sum$$. 
 
 Applying the definition of density to objective $$J_\pi$$, the state-value $$V_\pi(s)$$ and the action-value $$Q_\pi(s, a)$$ functions, we get:
 
