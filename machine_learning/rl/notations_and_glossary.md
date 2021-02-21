@@ -13,6 +13,7 @@ This post is part of a [Series dealing with Reinforcement Learning](/machine_lea
 This is a list of notations and definitions used throughout the series.
 
 | Symbol | Meaning |
+|--------|---------|
 | $$s \in \mathcal{S}$$ | States |
 | $$a \in \mathcal{A}$$ | Actions |
 | $$d_0(s)$$ | Initial distribution of states |
@@ -20,5 +21,6 @@ This is a list of notations and definitions used throughout the series.
 | $$p(s' \vert s, a)$$ | State transition probability $$Pr(s_{t+1} = s' \vert s_t = s, a_t = a)$$ |
 | $$r(s, a, s')$$ | State-action-state reward $$\mathbb{E}[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s']$$ |
 | $$r(s, a')$$ | State-action reward $$\mathbb{E}[r_{t+1} \vert s_t = s, a_t = a]$$ |
+|$$x ~ P$$| $$x$$ sampled with probability $$P$$|
 
 | $$\mathbb{N}, \mathbb{Z}, \mathbb{R}$$ | The sets of nonnegative integers, integers, and real numbers|
