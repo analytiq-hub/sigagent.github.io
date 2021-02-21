@@ -111,7 +111,7 @@ $$
 
 and call this the *state transition model* of the MDP.
 
-In the Workday Model example, $$p(s' \vert s, a)$$ is known for all states $$s$$ and actions $$a$$. In this case, we say that the model is known. Agents do not always have direct access to the model $$p(s' \vert s, a)$$, but they may, however, sample it.
+In the Workday Model example, $$p(s' \vert s, a)$$ is known for all states $$s$$ and actions $$a$$. In this case, we say that *the model is known*. Agents do not always have direct access to the model $$p(s' \vert s, a)$$, but they may, however, sample it.
 
 ## Expected reward functions
 
@@ -206,7 +206,7 @@ $$
 
 The larger the discount factor $$\gamma$$, the larger the effect of later steps. The smaller the discount factor, the bigger weight is given to actions taken for the immediate next steps.
 
-When the number of steps is infinite, and rewards are bounded by $$-M \le r_t \le M$$ for all $$t$$, then
+In what follows, we assume that rewards are bounded by $$-M \le r_t \le M$$ for all $$t$$. When the number of steps is infinite, then
 
 $$
 \begin{equation}
