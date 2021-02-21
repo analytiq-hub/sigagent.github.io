@@ -10,7 +10,7 @@ This post is part of a series dealing with Reinforcement Learning:
 - [Introduction to Reinforcement Learning](/machine_learning/2021/02/13/introduction_to_machine_learning/)
 - [RL: Value Learning Algorithms](/machine_learning/2021/02/14/value_learning_algorithms/)
 - [RL: The REINFORCE Algorithm](/machine_learning/2021/02/14/reinforce/)
-- [Equivalent Markov Decision Processes](/machine_learning/2021/02/19/equivalent_markov_decision_processes/)
+- [MDP Transforms](/machine_learning/2021/02/19/mdp-transforms/)
 
 ## Sources
 * [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), L. Graesser and W. L. Keng (2019). 
