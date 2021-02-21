@@ -43,4 +43,12 @@ $$
 \end{align} \le \underset{n, n' \rightarrow \infty}{lim} \, (\gamma^{n-1} \frac{M}{1-\gamma}) = 0
 $$
 
-This means that the series 
+This means that, for an infinite state-action-reward trajectory
+
+$$
+\begin{align}
+\overline{\tau} = (s_0, a_0, r_1, ... , s_{T-1}, a_{T-1}, r_T, s_T)
+\end{align}
+$$
+
+the return of the trajectory $$r(\overline{\tau}) = \sum_{t=0}^{\infty} \gamma^{t-1} r_t$$ is convergent.
