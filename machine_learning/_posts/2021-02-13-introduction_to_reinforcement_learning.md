@@ -230,18 +230,6 @@ $$
 \end{equation}
 $$
 
-## Recall: Probability sample, Expected value
-
-In general, if $$p$$ is a probability distribution, we denote $$x \sim p$$ for a sample selected with that probability. The expectation of a function $$f(x)$$ over a probability density $$p(x)$$ is defined as
-
-$$
-\begin{align}
-\mathbb{E}_p (f) = \int_{x \sim p} f(x) p(x) dx
-\end{align}
-$$
-
-In most examples, the sample space for $$x$$ is finite, in which case the integral $$\int$$ becomes a sum $$\sum$$.
-
 ## The Agent Objective and the Value Functions
 
 Recall that we denote $$\overline{\tau}$$ for an state-action-reward trajectory, and $$\tau$$ for a state-action trajectory. 
@@ -271,6 +259,8 @@ Q_\pi(s, a) = \mathbb{E}_{s_0=s, a_0=a, \overline{\tau} \sim \pi}[r(\overline{\t
 $$
 
 $$V_\pi(s)$$ evaluates how good the state $$s$$ is, and $$Q_\pi(s, a)$$ evaluates how good action $$a$$ is in state $$s$$, according to the policy $$\pi$$. $$V$$ stands for value, and $$Q$$ for quality.
+
+The uniform bound $$-M \lt r_t < M$$ for all $$t$$ ensures that $$\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)$$ uniformly converges to $$\sum_{t=0}^{\infty} \gamma^{t} r(s_t, a_t)$$ as $$T \rightarrow \infty$$
 
 ## Expressing value functions as integrals
 

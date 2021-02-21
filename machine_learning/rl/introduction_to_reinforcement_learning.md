@@ -10,5 +10,6 @@ Posts on Reinforcement Learning:
 - [RL: The REINFORCE Algorithm](/machine_learning/2021/02/14/reinforce/)
 - [MDP Transforms](/machine_learning/rl/mdp_transforms) (Under construction)
 - [Notations](/machine_learning/rl/notations_and_glossary)
+- [Math Appendix](/machine_learning/rl/math_appendix)
 - [Bibliography](/machine_learning/rl/bibliography)
 
