@@ -28,7 +28,7 @@ This is a list of notations and definitions used throughout the series.
 | $$\gamma$$ | Discount factor $$0 \le \gamma \le 1$$, always $$\lt 1$$ for infinite trajectories |
 |$$r(\overline{\tau})$$ | Return of the state-action-reward trajectory $$
 |$$J_\pi$$ | Agent objective $$\mathbb{E}_{\overline{\tau} \sim \pi}[r(\overline{\tau})]$$ when we follow policy $$\pi$$|
-|$$V_\pi(s)$$| State value function $$\mathbb{E}_{s_0=s, \overline{\tau}$$ when we follow policy $$\pi$$ |
+|$$V_\pi(s)$$| State value function $$\mathbb{E}_{s_0=s, \overline{\tau} \sim \pi}[r(\overline{\tau})]$$ when we follow policy $$\pi$$ |
 |$$Q_\pi(s, a)$$| Action value function $$\mathbb{E}_{s_0=s, a_0=a, \overline{\tau} \sim \pi}[r(\overline{\tau})]$$ when we follow policy $$\pi$$ |
 |$$A_\pi(s, a)$$| Advantage function $$Q_\pi(s, a) - V_\pi(s)$$ |
 |$$V_*(s), Q_*(s, a)$$ | Optimal state and action value functions|
