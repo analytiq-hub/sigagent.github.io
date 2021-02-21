@@ -151,6 +151,23 @@ p_\pi(\tau) = d(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s
 \end{equation}
 $$
 
+## State-Action-Rewards Trajectories
+
+If we pick rewards along a trajectory $$\tau$$, we get a state-action-reward trajectory
+$$
+\begin{align}
+\overline{\tau} = (s_0, a_0, r_1, s_1, a_1, r_2, ..., s_{T-1}, a_{T-1}, r_T, s_T)
+\end{align}
+$$
+with probability
+$$
+\begin{align}
+p_\pi(\overline{\tau}) & = d(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1},r_{t+1} \vert s_t, a_t)
+\end{align}
+$$
+
+Each state-action-reward trajectory $$\overline{\tau}$$ has an underlying state-action trajectory $$\tau$$ obtained by forgetting the rewards.
+
 ## Truncated trajectories
 
 The formulas in this section are necessary for later deriving the Bellman equations. Trajectories can be truncated to $$\tau_{>s_t} = (a_t, s_{t+1}, ... , s_T)$$ and $$\tau_{>a_t} = (s_{t+1}, a_{t+1}, ... , s_T)$$. The probabilities of the truncated trajectories are:
@@ -167,24 +184,8 @@ p_\pi(\tau_{>a_t} \vert s_t, a_t) = \prod_{t'=t+1}^{T-1} \pi(a_{t'} \vert s_{t'}
 \end{align}
 $$
 
-Trajectories can also be truncated down: $$\tau_{\le a_t} = (s_0, a_0, ... , s_{t}, a_{t})$$.
-
-## State-Action-Rewards Trajectories
-
-If we pick rewards along a trajectory $$\tau$$, we get a state-action-reward trajectory
-$$
-\begin{align}
-\overline{\tau} = (s_0, a_0, r_1, s_1, a_1, r_2, ..., s_{T-1}, a_{T-1}, r_T, s_T)
-\end{align}
-$$
-with probability
-$$
-\begin{align}
-p_\pi(\overline{\tau}) & = d(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1},r_{t+1} \vert s_t, a_t)
-\end{align}
-$$
-
-Naturally, each state-action-reward trajectory $$\overline{\tau}$$ has an underlying state-action trajectory $$\tau$$ obtained by forgetting the rewards.
+Trajectories can also be truncated down: $$\tau_{\le a_t} = (s_0, a_0, ... , s_{t}, a_{t})$$. If $$\overline{\tau}$$ is a state-action-reward trajectory, it can also be truncated up $$\overline{\tau}_{>s_t}, \overline{\tau}_{>a_t}$$ or down
+$$\overline{\tau}_{><_t}$$, with probability formulas similar to the ones above (where we replace $$p(s_{t'+1}|s_{t'},a_{t'})$$ with $$p(s_{t'+1}, r_{t'+1}|s_{t'},a_{t'})$$).
 
 ## Rewards and the Return of a Trajectory
 
