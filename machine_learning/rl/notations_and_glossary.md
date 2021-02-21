@@ -10,7 +10,7 @@ This post is part of a [Series dealing with Reinforcement Learning](/machine_lea
 
 #### Notations
 
-This is a list of notations used throughout the series.
+This is a list of notations and definitions used throughout the series.
 
 | Symbol | Meaning |
 | $$s \in \mathcal{S}$$ | States |
