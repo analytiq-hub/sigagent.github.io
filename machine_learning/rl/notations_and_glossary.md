@@ -21,8 +21,15 @@ This is a list of notations and definitions used throughout the series.
 | $$p(s' \vert s, a)$$ | State transition probability $$Pr(s_{t+1} = s' \vert s_t = s, a_t = a)$$ |
 | $$r(s, a, s')$$ | State-action-state reward $$\mathbb{E}[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s']$$ |
 | $$r(s, a')$$ | State-action reward $$\mathbb{E}[r_{t+1} \vert s_t = s, a_t = a]$$ |
+|$$\pi(a \vert a)$$ | Policy |
 |$$x ~ P$$| $$x$$ sampled with probability $$P$$|
 |$$\tau$$| State-action trajectory $$s_0, a_0, s_1, ..., a_{T-1}, s_T$$ for $$T$$ possibly infinite|
 |$$\overline{\tau}$$| State-action-reward trajectory $$s_0, a_0, r_1, s_1,..., a_{T-1}, r_{T-1}, s_T$$ |
-
+| $$\gamma$$ | Discount factor $$0 \le \gamma \le 1$$, always $$\lt 1$$ for infinite trajectories |
+|$$r(\overline{\tau})$$ | Return of the state-action-reward trajectory $$
+|$$J_\pi$$ | Agent objective $$\mathbb{E}_{\overline{\tau} \sim \pi}[r(\overline{\tau})]$$ when we follow policy $$\pi$$|
+|$$V_\pi(s)$$| State value function $$\mathbb{E}_{s_0=s, \overline{\tau}$$ when we follow policy $$\pi$$ |
+|$$Q_\pi(s, a)$$| Action value function $$\mathbb{E}_{s_0=s, a_0=a, \overline{\tau} \sim \pi}[r(\overline{\tau})]$$ when we follow policy $$\pi$$ |
+|$$A_\pi(s, a)$$| Advantage function $$Q_\pi(s, a) - V_\pi(s)$$ |
+|$$V_*(s), Q_*(s, a)$$ | Optimal state and action value functions|
 | $$\mathbb{N}, \mathbb{Z}, \mathbb{R}$$ | The sets of nonnegative integers, integers, and real numbers|
