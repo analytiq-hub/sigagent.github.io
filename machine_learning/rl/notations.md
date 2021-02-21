@@ -36,5 +36,5 @@ This is a list of notations and definitions used throughout the series.
 
 | Term | Meaning |
 |--------|---------|
-| the MDP model | $$p(s' \vert s, a)$$, sometimes known in advance (e.g. in a simulated environment), other times learned through sampling |
-| the MDP policy | $$\pi(a \vert s)$$ |
+| the model | $$p(s' \vert s, a)$$ in an MDP - sometimes known in advance (e.g. in a simulated environment), other times learned through sampling |
+| the policy | $$\pi(a \vert s)$$ in an MDP |
