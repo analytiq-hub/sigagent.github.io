@@ -206,27 +206,11 @@ $$
 
 The larger the discount factor $$\gamma$$, the larger the effect of later steps. The smaller the discount factor, the bigger weight is given to actions taken for the immediate next steps.
 
-In what follows, we assume that rewards are bounded by $$-M \le r_t \le M$$ for all $$t$$. When the number of steps is infinite, then
+In what follows, we assume that rewards are bounded by $$-M \le r_t \le M$$ for all $$t$$. When the number of steps is infinite, then $$r(\overline{\tau})$$ [is convergent](/machine_learning/rl/math_appendix#Convergence-for-Return-of-a-Trajectory) (and, actually, uniformly convergent for all choices of infinite trajectories).
 
 $$
 \begin{equation}
--M(1 +{\gamma} + {\gamma^2} + ... + {\gamma^{T-1}}) \lt r(\overline{\tau}) \lt M(1 + {\gamma} + {\gamma^2} + ... + {\gamma^{T-1}})
-\end{equation}
-$$
-
-or
-
-$$
-\begin{equation}
--M \frac{1-\gamma^{T}}{1-\gamma \phantom{(9)}} \lt r(\overline{\tau}) \lt M \frac{1-\gamma^{T}}{1-\gamma \phantom{(9)}}
-\end{equation}
-$$
-
-ensuring that $$r(\overline{\tau})$$ remains finite:
-
-$$
-\begin{equation}
--M \frac{1}{1-\gamma} \lt r(\overline{\tau}) \lt M \frac{1}{1-\gamma}
+r(\overline{\tau}) = \sum_{t=1}^{\infty} \gamma^{t-1}r_t
 \end{equation}
 $$
 
