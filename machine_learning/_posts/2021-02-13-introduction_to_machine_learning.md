@@ -6,12 +6,7 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-This post is part of a series dealing with Reinforcement Learning:
-- [Introduction to Reinforcement Learning](/machine_learning/2021/02/13/introduction_to_machine_learning/)
-- [RL: Value Learning Algorithms](/machine_learning/2021/02/14/value_learning_algorithms/)
-- [RL: The REINFORCE Algorithm](/machine_learning/2021/02/14/reinforce/)
-- [MDP Transforms](/machine_learning/2021/02/19/mdp-transforms/)
-
+This post is part of a [Series dealing with Reinforcement Learning](/machine_learning/rl/introduction_to_reinforcement_learning.md)
 
 ## Sources
 * [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), L. Graesser and W. L. Keng (2019). Theory and examples, with implementations using [OpenAI Gym](https://gym.openai.com/), pytorch, tensorflow, and [SLM Lab](https://github.com/andrei-radulescu-banu/SLM-Lab)

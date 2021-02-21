@@ -6,11 +6,7 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-This post is part of a series dealing with Reinforcement Learning:
-- [Introduction to Reinforcement Learning](/machine_learning/2021/02/13/introduction_to_machine_learning/)
-- [RL: Value Learning Algorithms](/machine_learning/2021/02/14/value_learning_algorithms/)
-- [RL: The REINFORCE Algorithm](/machine_learning/2021/02/14/reinforce/)
-- [MDP Transforms](/machine_learning/2021/02/19/mdp-transforms/)
+This post is part of a [Series dealing with Reinforcement Learning](/machine_learning/rl/introduction_to_reinforcement_learning.md)
 
 ## Sources
 * [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf), Sutton and Barto (2nd edition, 2018). Clear presentation, builds up from simple example. Authors are major contributors in the field. David Silver (AlphaZero architect) says he read their 1st edition as a first step to learn about RL.
