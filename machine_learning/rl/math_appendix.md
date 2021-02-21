@@ -22,4 +22,4 @@ In most examples, the sample space for $$x$$ is finite, in which case the integr
 
 ## Convergence
 
-A sequence $$(x_n)_{n >= 0}$$ converges to a limit $$x$$ (we write: $$\underline{n \rightarrow \infty}{lim \, x_n} = x$$), by definition, if for any $$\eps > 0$$ there exists $$n_0$$ such that for any $$n \ge n_0$$ we have $$x - \eps < x_n < x + \eps$$.
+A sequence $$(x_n)_{n >= 0}$$ converges to a limit $$x$$ (we write: $$\underline{n \rightarrow \infty}{lim \, x_n} = x$$), by definition, if for any $$\epsilon > 0$$ there exists $$n_0$$ such that for any $$n \ge n_0$$ we have $$x - \epsilon < x_n < x + \epsilon$$.
