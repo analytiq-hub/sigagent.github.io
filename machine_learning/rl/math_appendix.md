@@ -22,7 +22,13 @@ In most examples, the sample space for $$x$$ is finite, in which case the integr
 
 ## Convergence
 
-A sequence $$(x_n)_{n >= 0}$$ converges to limit $$x$$ (we write: $$\underset{n \rightarrow \infty}{lim} \, x_n = x$$), by definition, if for any $$\epsilon > 0$$ there exists $$n_0$$ such that for any $$n \ge n_0$$ we have $$x - \epsilon < x_n < x + \epsilon$$.
+A sequence $$(x_n)_{n >= 0}$$ converges to limit $$x$$ if, for any $$\epsilon > 0$$, there exists $$n_0$$ such that, for any $$n \ge n_0$$, we have $$x - \epsilon < x_n < x + \epsilon$$. We write
+
+$$
+\begin{align}
+\underset{n \rightarrow \infty}{lim} \, x_n = x
+\end{align}
+$$
 
 A sequence has the $$Cauchy property$$ if for any $$\epsilon > 0$$ there exists $$n_0$$ such that for any $$n, n' \ge n_0$$ we have $$\vert x_n - x_{n'} \vert \lt \epsilon$$, in other words, if $$\underset{n, n' \rightarrow \infty}{lim} \, (x_n - x_{n'}) = 0$$.
 
@@ -35,6 +41,7 @@ The Cauchy property of the series can be written as: for any $$\epsilon > 0$$ th
 Since the series is a sequence, a series has the Cauchy property if and only if it is convergent.
 
 ## Convergence for Return of a Trajectory
+<a name="convergence-for-return-of-a-trajectory"></a>
 
 When MDP returns are bounded $$-M \lt r_t \lt M$$ for all $$t \ge 0$$, and the discount factor $$\gamma \in [0, 1)$$, the return of a trajectory $$r_1 + \gamma r_2 + ... + \gamma^{t-1}r_t$$ has the Cauchy property because
 $$
