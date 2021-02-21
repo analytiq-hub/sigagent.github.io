@@ -39,8 +39,8 @@ Since the series is a sequence, a series has the Cauchy property if and only if 
 When MDP returns are bounded $$-M \lt r_t \lt M$$ for all $$t \ge 0$$, and the discount factor $$\gamma \in [0, 1)$$, the return of a trajectory $$r_1 + \gamma r_2 + ... + \gamma^{t-1}r_t$$ has the Cauchy property because
 $$
 \begin{align}
-\underset{n, n' \rightarrow \infty}{lim} \, \vert \sum_{t=n}^{n'} \gamma^{t-1} r_t\vert\le  \underset{n, n' \rightarrow \infty}{lim} \, (\sum_{t=n}^{n'} \gamma^{t-1} M)
-\end{align} \le \underset{n, n' \rightarrow \infty}{lim} \, (\gamma^{n-1} \frac{M}{1-\gamma}) = 0
+\underset{n, n' \rightarrow \infty}{lim} \, \vert \sum_{t=n}^{n'} \gamma^{t-1} r_t\vert\le  \underset{n, n' \rightarrow \infty}{lim} \, (\sum_{t=n}^{n'} \gamma^{t-1} M) \le \underset{n, n' \rightarrow \infty}{lim} \, (\gamma^{n-1} \frac{M}{1-\gamma}) = 0
+\end{align}
 $$
 
 This means that, for an infinite state-action-reward trajectory
