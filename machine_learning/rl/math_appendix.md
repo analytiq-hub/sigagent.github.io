@@ -30,7 +30,7 @@ $$
 \end{align}
 $$
 
-A sequence has the $$Cauchy property$$ if for any $$\epsilon > 0$$ there exists $$n_0$$ such that for any $$n, n' \ge n_0$$ we have $$\vert x_n - x_{n'} \vert \lt \epsilon$$, in other words, if $$\underset{n, n' \rightarrow \infty}{lim} \, (x_n - x_{n'}) = 0$$.
+A sequence has the *Cauchy property* if for any $$\epsilon > 0$$ there exists $$n_0$$ such that for any $$n, n' \ge n_0$$ we have $$\vert x_n - x_{n'} \vert \lt \epsilon$$, in other words, if $$\underset{n, n' \rightarrow \infty}{lim} \, (x_n - x_{n'}) = 0$$.
 
 A sequence has the Cauchy property if and only if it is covergent.
 
