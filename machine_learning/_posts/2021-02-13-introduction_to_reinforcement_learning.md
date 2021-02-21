@@ -6,7 +6,7 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-This post is part of a [Series dealing with Reinforcement Learning](/machine_learning/rl/introduction_to_reinforcement_learning).
+[Contents](/machine_learning/rl/introduction_to_reinforcement_learning) | [Notations](/machine_learning/rl/notations_and_glossary)
 
 ## Sources
 * [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), L. Graesser and W. L. Keng (2019). Theory and examples, with implementations using [OpenAI Gym](https://gym.openai.com/), pytorch, tensorflow, and [SLM Lab](https://github.com/andrei-radulescu-banu/SLM-Lab)
@@ -51,7 +51,7 @@ In reinforcement learning (RL), an agent reads state $$s_t$$ from the environmen
 
 <p align="center">
 <img width="350" height="250" src="/src/diagrams/reinforce_learning_control_loop.png"><br>
-The agent-environmeny interation in a Markov Decision Process
+The agent-environment interation in a Markov Decision Process
 </p>
 
 The process can end after a finite number of steps $$T$$, or can continue indefinitely. The agent's goal is to learn a policy $$\pi(a_t \vert s_t)$$ that defines the distribution of actions $$a_t$$ conditioned by state $$s_t$$, with the goal of maximizing the sum of all rewards for the next steps $$r_{t+1} + r_{t+2} + ...$$.
