@@ -22,5 +22,7 @@ This is a list of notations and definitions used throughout the series.
 | $$r(s, a, s')$$ | State-action-state reward $$\mathbb{E}[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s']$$ |
 | $$r(s, a')$$ | State-action reward $$\mathbb{E}[r_{t+1} \vert s_t = s, a_t = a]$$ |
 |$$x ~ P$$| $$x$$ sampled with probability $$P$$|
+|$$\tau$$| State-action trajectory $$s_0, a_0, s_1, ..., a_{T-1}, s_T$$ for $$T$$ possibly infinite|
+|$$\overline{\tau}$$| State-action-reward trajectory $$s_0, a_0, r_1, s_1,..., a_{T-1}, r_{T-1}, s_T$$ |
 
 | $$\mathbb{N}, \mathbb{Z}, \mathbb{R}$$ | The sets of nonnegative integers, integers, and real numbers|
