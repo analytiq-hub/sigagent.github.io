@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: Introduction to Reinforcement Learning...
+title: Introduction to Reinforcement Learning
 ---
 
 Posts on Reinforcement Learning:
