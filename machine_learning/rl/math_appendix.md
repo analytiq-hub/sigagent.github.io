@@ -58,4 +58,4 @@ $$
 \end{align}
 $$
 
-the return of the trajectory $$r(\overline{\tau}) = \sum_{t=0}^{\infty} \gamma^{t-1} r_t$$ is convergent.
+the return of the trajectory $$r(\overline{\tau}) = \sum_{t=0}^{\infty} \gamma^{t-1} r_t$$ is convergent (and, in fact, uniformly convergent for any choice of trajectory $$\overline{\tau}$$, meaning that for any $$\epsilon > 0$$ the choice of $$n_0$$ such that for any $$n_0 \le t \le t'$$ we have $\vert \gamma^{t-1} r_t + ... + \gamma^{t'-1} r_{t'} \lt \epsilon$$ is independent of the trajectory.
