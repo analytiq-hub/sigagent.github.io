@@ -185,7 +185,7 @@ p_\pi(\tau_{>a_t} \vert s_t, a_t) = \prod_{t'=t+1}^{T-1} \pi(a_{t'} \vert s_{t'}
 $$
 
 Trajectories can also be truncated down: $$\tau_{\le a_t} = (s_0, a_0, ... , s_{t}, a_{t})$$. If $$\overline{\tau}$$ is a state-action-reward trajectory, it can also be truncated up $$\overline{\tau}_{>s_t}, \overline{\tau}_{>a_t}$$ or down
-$$\overline{\tau}_{><_t}$$, with probability formulas similar to the ones above (where we replace $$p(s_{t'+1}|s_{t'},a_{t'})$$ with $$p(s_{t'+1}, r_{t'+1}|s_{t'},a_{t'})$$).
+$$\overline{\tau}_{><_t}$$, with probability formulas similar to the ones above, replacing $$p(s_{t'+1}|s_{t'},a_{t'})$$ with $$p(s_{t'+1}, r_{t'+1}|s_{t'},a_{t'})$$.
 
 ## Rewards and the Return of a Trajectory
 
