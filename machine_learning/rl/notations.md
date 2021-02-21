@@ -33,3 +33,8 @@ This is a list of notations and definitions used throughout the series.
 |$$A_\pi(s, a)$$| Advantage function $$Q_\pi(s, a) - V_\pi(s)$$ |
 |$$V_*(s), Q_*(s, a)$$ | Optimal state and action value functions|
 | $$\mathbb{N}, \mathbb{Z}, \mathbb{R}$$ | The sets of nonnegative integers, integers, and real numbers|
+
+| Term | Meaning |
+|--------|---------|
+| the MDP model | $$p(s' \vert s, a)$$, sometimes known in advance (e.g. in a simulated environment), other times learned through sampling |
+| the MDP policy | $$\pi(a \vert s)$$ |
