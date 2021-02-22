@@ -41,7 +41,6 @@ The Cauchy property of the series can be written as: for any $$\epsilon > 0$$ th
 Since the series is a sequence, a series has the Cauchy property if and only if it is convergent.
 
 ## Convergence for Return of a Trajectory
-<a name="convergence-for-return-of-a-trajectory"></a>
 
 When MDP returns are bounded $$-M \lt r_t \lt M$$ for all $$t \ge 0$$, and the discount factor $$\gamma \in [0, 1)$$, the return of a trajectory $$r_1 + \gamma r_2 + ... + \gamma^{t-1}r_t$$ has the Cauchy property because
 $$
