@@ -6,7 +6,7 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-This post is part of a [Series dealing with Reinforcement Learning](/machine_learning/rl/introduction_to_reinforcement_learning).
+[Top](/machine_learning/rl/introduction_to_reinforcement_learning/) \| [Notations](/machine_learning/rl/notations/) \| [Bibliography](/machine_learning/rl/bibliography/)
 
 ## Sources
 * [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf), Sutton and Barto (2nd edition, 2018). Clear presentation, builds up from simple example. Authors are major contributors in the field. David Silver (AlphaZero architect) says he read their 1st edition as a first step to learn about RL.

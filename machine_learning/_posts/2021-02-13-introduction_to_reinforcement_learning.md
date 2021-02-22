@@ -6,7 +6,7 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-[Top](/machine_learning/rl/introduction_to_reinforcement_learning) \| [Notations](/machine_learning/rl/notations) \| [Math Appendix](/machine_learning/rl/math_appendix) \| [Bibliography](/machine_learning/rl/bibliography)
+[Top](/machine_learning/rl/introduction_to_reinforcement_learning/) \| [Notations](/machine_learning/rl/notations/) \| [Bibliography](/machine_learning/rl/bibliography/)
 
 ## What is Reinforcement Learning?
 In machine learning, there are three types of learning tasks:
