@@ -38,3 +38,4 @@ This is a list of notations and definitions used throughout the series.
 |--------|---------|
 | the model | $$p(s' \vert s, a)$$ in an MDP - sometimes known in advance (e.g. in a simulated environment), other times learned through sampling |
 | the policy | $$\pi(a \vert s)$$ in an MDP |
+| bootstrapping | an algorithm is *bootstrapping* if it uses predicted output as targets |
