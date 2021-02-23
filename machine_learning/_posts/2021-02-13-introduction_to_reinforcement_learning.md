@@ -277,7 +277,7 @@ Q_\pi(s_0, a_0) & = \underset{T \rightarrow \infty}{lim}  \sum_{t=0}^{T-1} \int_
 \end{align}
 $$
 
-## The Bellman Equations
+## The Bellman Expectation Equations
 
 The objective $$J_\pi$$, the state-value $$V_\pi(s)$$ and the action-value $$Q_\pi(s, a)$$ functions  are interrelated. To show that, we express them in terms of the trajectory distribution $$p_\pi(\tau)$$ of ($$\ref{eq:taudist}$$).
 
@@ -330,7 +330,7 @@ Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q_\pi(s',a') ds'd
 \end{align}
 $$
 
-The equations (\ref{eq:v_bellman}), (\ref{eq:q_bellman}) are the Bellman equations for $$J_\pi$$ and $$Q_\pi(s, a)$$. Plugging back into the equation for $$V_\pi(s)$$ we get
+The equations (\ref{eq:v_bellman}), (\ref{eq:q_bellman}) are the Bellman expectation equations for $$J_\pi$$ and $$Q_\pi(s, a)$$. Plugging back into the equation for $$V_\pi(s)$$ we get
 
 $$
 \begin{align} 
@@ -341,7 +341,7 @@ V_\pi(s) & = \int_a Q_\pi(s, a) da & \\
 \end{align}
 $$
 
-This gives us the Bellman equation for $$V_\pi(s)$$:
+This gives us the Bellman expectation equation for $$V_\pi(s)$$:
 $$
 \begin{align} \label{eq:v_bellman}
 V_\pi(s) = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\big) da \\
