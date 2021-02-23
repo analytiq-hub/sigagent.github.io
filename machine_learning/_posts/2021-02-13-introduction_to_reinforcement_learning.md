@@ -248,7 +248,7 @@ The goal of the agent is to find a policy $$\pi$$ that maximizes the objective $
 
 $$
 \begin{equation} \label{eq:value_state}
-V_\pi(s) = \mathbb{E}_{s_0=s, \overline{\tau} \sim \pi}[r(\overline{\tau})] = \mathbb{E}_{s_0=s, \tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
+V_\pi(s) = \underset{T \rightarrow \infty}{lim} \mathbb{E}_{s_0=s, \tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
@@ -256,7 +256,7 @@ and the *action-value* function
 
 $$
 \begin{equation} \label{eq:value_state_action}
-Q_\pi(s, a) = \mathbb{E}_{s_0=s, a_0=a, \overline{\tau} \sim \pi}[r(\overline{\tau})] = \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
+Q_\pi(s, a) = \underset{T \rightarrow \infty}{lim} \mathbb{E}_{s_0=s, a_0=a, \tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
