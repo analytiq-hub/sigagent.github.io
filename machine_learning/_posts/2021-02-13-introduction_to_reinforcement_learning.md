@@ -240,7 +240,7 @@ is uniformly convergent for all trajectories. Thus, we can define the agent *obj
 
 $$
 \begin{equation} \label{eq:objective}
-J_\pi = \underset{T \rightarrow \infty}{lim} \mathbb{E}_{\tau_{< a_T} \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
+J_\pi = \underset{T \rightarrow \infty}{lim} \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
@@ -262,8 +262,6 @@ $$
 
 $$V_\pi(s)$$ evaluates how good the state $$s$$ is, and $$Q_\pi(s, a)$$ evaluates how good action $$a$$ is in state $$s$$, according to the policy $$\pi$$. $$V$$ stands for value, and $$Q$$ for quality.
 
-The uniform bound $$-M \lt r_t < M$$ for all $$t$$ ensures that $$\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)$$ uniformly converges to $$\sum_{t=0}^{\infty} \gamma^{t} r(s_t, a_t)$$ as $$T \rightarrow \infty$$
-
 ## Expressing value functions as integrals
 
 Recall that $$\tau$$ denotes a trajectory $$s_0, a_0, ...$$. We denote for convenience $$\tau_{>s_t}$$ for the truncated data set $$a_t, s_{t+1}, ...$$ and $$\tau_{>a_t}$$ for the truncated trajectory $$s_{t+1}, a_{t+1}, ...$$
@@ -271,31 +269,11 @@ Recall that $$\tau$$ denotes a trajectory $$s_0, a_0, ...$$. We denote for conve
 Applying the definition of density to objective $$J_\pi$$, the state-value $$V_\pi(s)$$ and the action-value $$Q_\pi(s, a)$$ functions, we get:
 
 $$
-\begin{align}
-J_\pi & = \int_\tau \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (definition \, of \, expectation) \\
-& = \sum_{t=0}^{T-1} \int_{\tau}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau \hspace{1cm} & (bring \, sum \, out) \\
-& = \sum_{t=0}^{T-1} \int_{\tau_{\le a_t}} \int_{\tau_{> a_t}} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} d\tau_{>a_t} \hspace{1cm} & (product \, of \, truncated \, densities \, d\tau = d\tau_{\le a_t} d\tau_{>a_t}) \\
-& = \sum_{t=0}^{T-1} \big( \int_{\tau_{\le a_t}} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \big)\big(\int_{\tau_{> a_t}} d\tau_{>a_t}\big) \hspace{1cm} & (Fubini \, for \, d\tau = d\tau_{\le a_t} d\tau_{>a_t}) \\
-& = \sum_{t=0}^{T-1} \int_{\tau_{\le a_t} = s_0, a_0, ... , a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \hspace{1cm} & (density \, d\tau_{>a_t} \, has \, \int_{\tau_{> a_t}} d\tau_{>a_t}=1) \\
-\end{align}
-$$
-
-Same arguments give:
-
-$$
 \begin{align} 
-V_\pi(s_0) & = \int_{\tau_{>s_0} = a_0, s_1, a_1, ...} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>s_0} \hspace{1cm} & (definition \, of \, expectation) \\
-& = \sum_{t=0}^{T-1}\int_{\tau_{>s_0 \le a_t} = a_0, s_1, a_1, ... , a_t}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>s_0 \le a_t} \hspace{1cm} & (integration \, over \, truncated \, trajectories \, \tau_{>s_0 \le a_t} = a_0, s_1, a_1, ... , a_t) \\
-\end{align}
-$$
-
-And:
-
-$$
-\begin{align} 
-Q_\pi(s_0, a_0) & = \int_{s_1, a_1, ...} \sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t) p_\pi(\tau_{>a_0}) d\tau_{>a_0} \hspace{1cm} & (definition \, of \, expectation) \\
-& = \sum_{t=0}^{T-1} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (integration \, over \, truncated \, trajectories \, \tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t) \\
-& = r(s_0,a_0) + \sum_{t=1}^{T-1} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (s_0, a_0 \, independent \, of \tau_{>a_0 \le a_t} \, and \, density \, d\tau_{>a_0 \le a_t} \, has \int d\tau_{>a_0 \le a_t} = 1) \\
+J_\pi & = \underset{T \rightarrow \infty}{lim} \sum_{t=0}^{T-1} \int_{\tau_{\le a_t} = s_0, a_0, ... , a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \hspace{1cm} \\
+V_\pi(s_0) & = \underset{T \rightarrow \infty}{lim}  \sum_{t=0}^{T-1}\int_{\tau_{>s_0 \le a_t} = a_0, s_1, a_1, ... , a_t}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>s_0 \le a_t} \hspace{1cm} & \\
+Q_\pi(s_0, a_0) & = \underset{T \rightarrow \infty}{lim}  \sum_{t=0}^{T-1} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0}) d\tau_{>a_0 \le a_t} \hspace{1cm} & \\
+& = r(s_0,a_0) + \underset{T \rightarrow \infty}{lim}  \sum_{t=1}^{T-1} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0}) d\tau_{>a_0 \le a_t} \hspace{1cm} & \\
 \end{align}
 $$
 
