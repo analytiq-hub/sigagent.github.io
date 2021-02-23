@@ -235,7 +235,7 @@ $$
 \end{align}
 $$
 
-is uniformly convergent for all trajectories. Thus, we can define the agent *objective$ as
+is uniformly convergent for all trajectories. Thus, we can define the agent *objective* as
 
 
 $$
