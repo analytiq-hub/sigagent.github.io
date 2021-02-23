@@ -217,9 +217,26 @@ $$
 
 ## The Agent Objective and the Value Functions
 
-Recall that we denote $$\overline{\tau}$$ for an state-action-reward trajectory, and $$\tau$$ for a state-action trajectory. 
+Recall that we denote $$\overline{\tau}$$ for an state-action-reward trajectory, and $$\tau$$ for a state-action trajectory.
 
-When trajectories $$\overline{\tau}$$ are sampled according to a policy $$\pi$$, the agent *objective* is defined as the expected value of the return function, sampled over the policy distribution $$p_\pi(\tau)$$ defined by ($$\ref{eq:taudist}$$):
+When trajectories $$\overline{\tau}$$ are sampled according to a policy $$\pi$$, we would like to define the agent *objective* as the expected value of the return function of infinite trajectories $$\overline{\tau}$$, sampled over the policy distribution $$p_\pi(\tau)$$ defined by ($$\ref{eq:taudist}$$):
+
+$$
+\begin{equation} 
+"J_\pi = \mathbb{E} \big[\big( \sum_{t=1}^{\infty} \gamma^{t-1}r_t \big) \, \vert \, s_0, a_0, r_1, s_1, a_1, r_1, ... \sim \pi\big] "
+\end{equation}
+$$
+
+We place this between double quotes, because, mathematically, these entities are not yet well defined. The probability of an infinite trajectory, however, is not well defined. We can work around that, however, using the fact that the discounted reward series
+
+$$
+\begin{align}
+\sum_{t=1}^{\infty} \gamma^{t-1}r_t
+\end{align}
+$$
+
+is uniformly convergent for all trajectories. Thus, we can define
+
 
 $$
 \begin{equation} \label{eq:objective}
