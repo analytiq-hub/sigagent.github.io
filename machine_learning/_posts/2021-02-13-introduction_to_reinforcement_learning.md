@@ -227,7 +227,7 @@ $$
 \end{equation}
 $$
 
-We place this between double quotes, because, mathematically, these entities are not yet well defined. The probability of an infinite trajectory is not well defined. We can work around that, however, using the fact that the discounted reward series
+We place this between double quotes, because, mathematically, these entities are not yet well defined. The probability of an infinite trajectory is not defined. We can work around that, however, using the fact that the discounted reward series
 
 $$
 \begin{align}
@@ -240,7 +240,7 @@ is uniformly convergent for all trajectories. Thus, we can define the agent *obj
 
 $$
 \begin{equation} \label{eq:objective}
-J_\pi = \underset{lim}{T \rightarrow \infty} \mathbb{E}_{\tau_{< a_T} \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
+J_\pi = \underset{T \rightarrow \infty}{lim} \mathbb{E}_{\tau_{< a_T} \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)]
 \end{equation}
 $$
 
