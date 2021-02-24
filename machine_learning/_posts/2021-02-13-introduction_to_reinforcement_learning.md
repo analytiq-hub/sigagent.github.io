@@ -355,7 +355,7 @@ V_\pi(s) = \int_{a, s'} \big( r(s, a, s') + \gamma p(s' \vert s, a) V_\pi(s') \b
 \end{align}
 $$
 
-This can be visualized though the following diagram, where states are represented by white circles, and actions by black circles, state values $$V_\pi(s)$$ being represented as the expected value (over $$\pi(a \vert s)$$) of the expected rewards (over $$p(s' \vert s, a)$$):
+This can be visualized though the following diagram, where states are represented by white circles, and actions by black circles, state values $$V_\pi(s)$$ being represented as the expected value (over $$\pi(a \vert s)$$) of the expected rewards $$r(s, a, s')$$ plus discounted values $$\gamma V_\pi(s')$$ (over $$p(s' \vert s, a)$$):
 
 <p align="center">
 <img width="100" height="200" src="/src/diagrams/state_action_state_backup.png"><br>
