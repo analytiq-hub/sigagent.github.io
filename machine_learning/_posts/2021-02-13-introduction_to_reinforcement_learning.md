@@ -98,14 +98,14 @@ The state transition distribution $$p(s', r \vert s, a)$$ satisfies
 
 $$
 \begin{align*}
-\int_{s' \in \mathcal S} \int_{r \in \mathbb{R}} p(s', r \vert s, a) = 1 \textrm{ for all } s \in \mathcal{S} \textrm{ and } a \in \mathcal{A}
+\int_{s' \in \mathcal S} \int_{r \in \mathbb{R}} p(s', r \vert s, a) drds'= 1 \textrm{ for all } s \in \mathcal{S} \textrm{ and } a \in \mathcal{A}
 \end{align*}
 $$
 
 We define a partial probability
 $$
 \begin{align}
-p(s' \vert s, a) = Pr(s_{t+1} = s' \vert s_t = s, a_t = a) = \int_{r \in \mathbb{R}} p(s', r \vert s, a)
+p(s' \vert s, a) = Pr(s_{t+1} = s' \vert s_t = s, a_t = a) = \int_{r \in \mathbb{R}} p(s', r \vert s, a) dr
 \end{align}
 $$
 
