@@ -9,6 +9,7 @@ title: Robotics
 #### Videos
 * Matlab videos: [Understanding Kalman Filters](https://www.youtube.com/watch?v=mwn8xhgNpFY) (7 videos)
 *  Michel van Biezen: The Kalman Filter [ilectureonline.com](http://www.ilectureonline.com/lectures/subject/SPECIAL%20TOPICS/26/190), [youtube](https://www.youtube.com/watch?v=CaCcOwJPytQ) (55 videos)
+* Frank Dellaert: [Factor Graphs for Fast and Scalable 3D Reconstruction and Mapping](http://videolectures.net/bmvc2013_dellaert_factor_graphs/) (2013), and [tutorial](https://gtsam.org/tutorials/intro.html)
 
 #### Classes
 * Udacity: [Artificial Intelligence for Robotics](https://classroom.udacity.com/courses/cs271), [youtube videos](https://www.youtube.com/watch?v=Uqt_pRbR8rI)
