@@ -22,9 +22,9 @@ If $$\epsilon \in [0, 1]$$ is a number, and $$\pi$$ is a policy, the $$\epsilon$
 - action $$a$$ with probablity $$(1-\epsilon) \pi(a \vert s)$$
 - a uniformly distributed random action, with probability $$\epsilon$$
 
-## Bellman Equations
+## Bellman Expectation Equations
 
-We will use of the Bellman equations for $$V_\pi(s)$$ and $$Q_\pi(s, a)$$:
+We will use of the Bellman expectation equations for $$V_\pi(s)$$ and $$Q_\pi(s, a)$$:
 $$
 \begin{align}
 V_\pi(s) & = \int_a  Q_\pi(s, a) da \\
@@ -38,7 +38,7 @@ $$
 
 Suppose the policy $$\pi$$ is optimal. Then $$V_\pi(s)$$ is maximal for each state $$s$$. Also, each state $$s$$ picks an action $$a$$ such that $$Q_\pi(s, a)$$ is maximal. The policy will be the $$Q$$-greedy policy given by $$\pi(a \vert s)=1$$, for the action $$a$$, and $$\pi(a' \vert s)=0$$ for all other actions $$a' \neq a$$. 
 
-We denote $$V_\star(s)=V_\pi(s)$$ and $$Q_\star(s, a)=Q_\pi(s, a)$$ for this optimal policy $$\pi$$. The Bellman equations give us:
+We denote $$V_\star(s)=V_\pi(s)$$ and $$Q_\star(s, a)=Q_\pi(s, a)$$ for this optimal policy $$\pi$$. The Bellman expectation equations give us:
 
 $$
 \begin{align}
@@ -80,7 +80,7 @@ In this method, we assume that the model $$p(s' \vert s, a)$$ is known. We build
 
 and continuously update it for a given policy $$\pi$$ with $$V(s) \leftarrow r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V(s') ds'$$, the expected reward plus the discounted value of the next state, until $$V(s)$$ has converged and approximates $$V_\pi(s)$$.
 
-Once $$V$$ is a good approximations for $$V_\pi$$, the Bellman equations give us action-values $$Q(s, a)$$. We then update the policy $$\pi \rightarrow \pi_{greedy}(Q)$$, the greedy policy based on $$Q$$, picking in state $$s$$ the action $$a$$ that maximizes $$Q(s, a)$$, and repeat the entire process,
+Once $$V$$ is a good approximations for $$V_\pi$$, the Bellman expectation equations give us action-values $$Q(s, a)$$. We then update the policy $$\pi \rightarrow \pi_{greedy}(Q)$$, the greedy policy based on $$Q$$, picking in state $$s$$ the action $$a$$ that maximizes $$Q(s, a)$$, and repeat the entire process,
 
 $$
 \begin{align*}
