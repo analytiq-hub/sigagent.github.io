@@ -15,7 +15,7 @@ In the REINFORCE algorithm, a policy $$\pi$$ is lerned that maximizes the agent 
 A trajectory $$\tau$$ denotes a sequence of states and actions
 $$
 \begin{equation} \label{eq:tau}
-\tau = s_0, a_0, ... , s_{T-1}, a_{T-1}, s_T
+\tau = s_0, a_0, s_1, a_1, ...
 \end{equation}
 $$
 
@@ -23,7 +23,7 @@ The return of a trajectory $$\tau$$ that starts at step $$t$$ is denoted:
 
 $$
 \begin{equation} \label{eq:trajret}
-r_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + ...  = \underset{T \rightarrow \infty}{lim} \sum_{t'=t}^{T-1} \gamma^{t'-t}r(s_{t'},a_{t'})
+r_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + ...  = \sum_{t=0}^{\infty} \sum_{t'=t}^{T-1} \gamma^{t'-t}r(s_{t'},a_{t'})
 \end{equation}
 $$
 
@@ -33,9 +33,9 @@ The agent needs to learn a policy that maximizes the agent objective $$J_\pi$$:
 
 $$
 \begin{align}
-J_\pi & = \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)] & \\
-& = \sum_{t=0}^{T-1} \int_{\tau_{\le a_t} = s_0, a_0, ... , a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \hspace{1cm} & \\
-& = \sum_{t=0}^{T-1} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi}[r(s_t, a_t)] & (definition \, of \, expectation)
+J_\pi & = \underset{T \rightarrow \infty}{lim} \mathbb{E}_{\tau \sim \pi}[\sum_{t=0}^{T-1} \gamma^{t} r(s_t, a_t)] & \\
+& = \sum_{t=0}^{\infty} \int_{\tau_{\le a_t} = s_0, a_0, ... , a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \hspace{1cm} & \\
+& = \sum_{t=0}^{\infty} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi}[r(s_t, a_t)] & (definition \, of \, expectation)
 \end{align}
 $$
 
