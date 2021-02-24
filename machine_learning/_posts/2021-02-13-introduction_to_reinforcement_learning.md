@@ -358,7 +358,7 @@ $$
 This can be visualized though the following diagram, where states are represented by white circles, and actions by black circles, state values $$V_\pi(s)$$ being represented as the expected value (over $$\pi(a \vert s)$$) of the expected rewards $$r(s, a, s')$$ plus discounted values $$\gamma V_\pi(s')$$ (over $$p(s' \vert s, a)$$):
 
 <p align="center">
-<img width="200" height="300" src="/src/diagrams/state_action_state_backup.png"><br>
+<img src="/src/diagrams/state_action_state_backup.png"><br>
 Backup diagram for state-action-state Bellman equation
 </p>
 
