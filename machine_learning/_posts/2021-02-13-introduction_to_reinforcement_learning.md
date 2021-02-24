@@ -355,6 +355,13 @@ V_\pi(s) = \int_{a, s'} \big( r(s, a, s') + \gamma p(s' \vert s, a) V_\pi(s') \b
 \end{align}
 $$
 
+This can be visualized though the following diagram, where states are represented by white circles, and actions by black circles, state values $$V_\pi(s)$$ being represented as the expected value (over $$\pi(a \vert s)$$) of the expected rewards (over $$p(s' \vert s, a)$$):
+
+<p align="center">
+<img width="400" height="200" src="/src/diagrams/state_action_state_backup.png"><br>
+Backup diagram for state-action-state Bellman equation
+</p>
+
 ## Deep learning RL algorithms
 
 Deep learning algorithms for RL problems can be classified as:
