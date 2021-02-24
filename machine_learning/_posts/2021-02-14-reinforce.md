@@ -26,7 +26,6 @@ $$
 r_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + ...  = \sum_{t'=t}^{\infty} \gamma^{t'-t}r(s_{t'},a_{t'})
 \end{equation}
 $$
-
 ## The agent objective
 
 The agent needs to learn a policy that maximizes the agent objective $$J_\pi$$:
@@ -95,13 +94,13 @@ Applying that:
 
 $$
 \begin{align}
-\nabla_\theta J_{\pi_\theta} & = \sum_{t=0}^{T-1} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'})] & \\
-& = \sum_{t=0}^{T-1} \gamma^{t} \mathbb{E}_{\tau \sim \pi_\theta}[r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'})] & (expectation \, remains \, same \, when \, using \, \tau \, instead \, of \, \tau_{\le a_t})\\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t=0}^{T-1} \{ \gamma^{t} r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (bring \, outer \, sum \, in)\\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{0 \le t' \le t \le T} \{\gamma^{t} r(s_t, a_t) \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (convert \, from \, double \, sum) \\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t'=0}^{T-1} \{\nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \sum_{t=t'}^{T-1} \gamma^{t} r(s_t, a_t)  \}] & (convert \, to \, reverse \, double \, sum) \\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t'=0}^{T-1} \{\gamma^{t'} r_{t'}(\tau) \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (definition \, of \, r_t(\tau)) \\
-& = \mathbb{E}_{\tau \sim \pi_\theta}[\sum_{t=0}^{T-1} \{\gamma^t r_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}] & (rename \, t' \, as \, t) \\
+\nabla_\theta J_{\pi_\theta} & = \underset{T \rightarrow \infty}{lim} \sum_{t=0}^{T-1} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'})] & \\
+& = \underset{T \rightarrow \infty}{lim} \sum_{t=0}^{T-1} \gamma^{t} \mathbb{E}_{\tau_{\le a_T} \sim \pi_\theta}[r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'})] & (expectation \, remains \, same \, when \, using \, \tau_{\le a_T} \, instead \, of \, \tau_{\le a_t})\\
+& = \underset{T \rightarrow \infty}{lim} \mathbb{E}_{\tau_{\le a_T} \sim \pi_\theta}[\sum_{t=0}^{T-1} \{ \gamma^{t} r(s_t, a_t) \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (bring \, outer \, sum \, in)\\
+& = \underset{T \rightarrow \infty}{lim} \mathbb{E}_{\tau_{\le a_T} \sim \pi_\theta}[\sum_{0 \le t' \le t \le T} \{\gamma^{t} r(s_t, a_t) \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (convert \, from \, double \, sum) \\
+& = \underset{T \rightarrow \infty}{lim} \mathbb{E}_{\tau_{\le a_T} \sim \pi_\theta}[\sum_{t'=0}^{T-1} \{\nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \sum_{t=t'}^{T-1} \gamma^{t} r(s_t, a_t)  \}] & (convert \, to \, reverse \, double \, sum) \\
+& = \underset{T \rightarrow \infty}{lim} \mathbb{E}_{\tau_{\le a_T} \sim \pi_\theta}[\sum_{t'=0}^{T-1} \{\gamma^{t'} r_{t'}(\tau) \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) \}] & (definition \, of \, r_t(\tau)) \\
+& = \underset{T \rightarrow \infty}{lim} \mathbb{E}_{\tau_{\le a_T} \sim \pi_\theta}[\sum_{t=0}^{T-1} \{\gamma^t r_t(\tau) \nabla_\theta ln \, \pi_\theta(a_{t} \vert s_{t}) \}] & (rename \, t' \, as \, t) \\
 \end{align}
 $$
 
