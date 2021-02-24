@@ -348,6 +348,8 @@ V_\pi(s) = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds
 \end{align}
 $$
 
+## Backup diagrams
+
 The Bellman equations in this section were expressed in terms of state-action reward expectations $$r(s, a)$$. We can express the same Bellman equations in terms of state-action-state reward expectations $$r(s, a, s')$$, for example:
 $$
 \begin{align}
@@ -361,6 +363,13 @@ This can be visualized though the following diagram, where states are represente
 <img src="/src/diagrams/state_action_state_backup.png"><br>
 Backup diagram for state-action-state Bellman equation
 </p>
+
+We can express the Bellman equation for state-action values in terms of state-action-state reward expectations $$r(s, a, s')$$ as follows:
+$$
+\begin{align}
+Q_\pi(s, a) & = \int_{s'} r(s, a, s') ds' + \gamma \int_{s',a'} p(s' \vert s, a) Q_\pi(s',a') ds'da'
+\end{align}
+$$
 
 ## Deep learning RL algorithms
 
