@@ -348,6 +348,13 @@ V_\pi(s) = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds
 \end{align}
 $$
 
+The Bellman equations in this section were expressed in terms of state-action reward expectations $$r(s, a)$$. We can express the same Bellman equations in terms of state-action-state reward expectations $$r(s, a, s')$$, for example:
+$$
+\begin{align}
+V_\pi(s) = \int_{a, s'} \big( r(s, a, s') + \gamma p(s' \vert s, a) V_\pi(s') \big) ds' da \\
+\end{align}
+$$
+
 ## Deep learning RL algorithms
 
 Deep learning algorithms for RL problems can be classified as:
