@@ -75,13 +75,13 @@ In view of this,
 
 $$
 \begin{align}
-\nabla_\theta J_{\pi_\theta} & = \nabla_\theta \sum_{t=0}^{T-1} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t)] & (express \, J_{\pi_\theta} \, as \, sum \, of \, expectations) \\
-& = \sum_{t=0}^{T-1} \gamma^{t} \nabla_\theta \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t)] & (bring \, \nabla_\theta \, inside \, sum) \\
-& = \sum_{t=0}^{T-1} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t) \nabla_\theta (ln \, p_{\pi_\theta}(\tau_{\le a_t} \vert \theta))] & (bring \, \nabla_\theta \, inside \, \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta})\\
+\nabla_\theta J_{\pi_\theta} & = \nabla_\theta \sum_{t=0}^{\infty} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t)] & (express \, J_{\pi_\theta} \, as \, sum \, of \, expectations) \\
+& = \sum_{t=0}^{\infty} \gamma^{t} \nabla_\theta \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t)] & (bring \, \nabla_\theta \, inside \, sum) \\
+& = \sum_{t=0}^{\infty} \gamma^{t} \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta}[r(s_t, a_t) \nabla_\theta (ln \, p_{\pi_\theta}(\tau_{\le a_t} \vert \theta))] & (bring \, \nabla_\theta \, inside \, \mathbb{E}_{\tau_{\le a_t} \sim \pi_\theta})\\
 \end{align}
 $$
 
-Recall that $$p_\pi(\tau) = d(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t) p(s_{t+1} \vert s_t, a_t)$$. We can expand the term $$\nabla_\theta ln \, p_\pi(\tau_{\le a_t} \vert \theta)$$ as follows:
+Recall that $$p_\pi(\tau_{\le a_t}) = d(s_0) \prod_{t'=0}^{t-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'})$$. We can expand the term $$\nabla_\theta ln \, p_\pi(\tau_{\le a_t} \vert \theta)$$ as follows:
 
 $$
 \begin{align}
