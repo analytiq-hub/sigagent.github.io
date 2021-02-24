@@ -119,7 +119,7 @@ We can compute an expected reward for a state-action pair as a function $$r \, :
 
 $$
 \begin{align}
-r(s, a) = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a] = \int_{r \in \mathbb{R}} r \int_{s' \in \mathcal{S}} p(s', r \vert s, a)
+r(s, a) = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a] = \int_{r \in \mathbb{R}} r \int_{s' \in \mathcal{S}} p(s', r \vert s, a) ds' dr
 \end{align}
 $$
 
@@ -127,7 +127,7 @@ and an expected reward for a state-action-state as a function $$r \, : \, \mathc
 
 $$
 \begin{align}
-r(s, a, s') = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s'] = \int_{r \in \mathbb{R}} r \, \frac{p(s', r \vert s, a)}{p(s' \vert s, a)}
+r(s, a, s') = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s'] = \int_{r \in \mathbb{R}} r \, \frac{p(s', r \vert s, a)}{p(s' \vert s, a)} dr
 \end{align}
 $$
 
