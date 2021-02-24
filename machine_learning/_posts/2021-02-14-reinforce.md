@@ -23,7 +23,7 @@ The return of a trajectory $$\tau$$ that starts at step $$t$$ is denoted:
 
 $$
 \begin{equation} \label{eq:trajret}
-r_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + ...  = \sum_{t=0}^{\infty} \sum_{t'=t}^{T-1} \gamma^{t'-t}r(s_{t'},a_{t'})
+r_t(\tau) = r(s_{t}, a_{t}) + {\gamma}r(s_{t+1}, a_{t+1}) + ...  = \sum_{t=0}^{\infty} \gamma^{t'-t}r(s_{t'},a_{t'})
 \end{equation}
 $$
 
