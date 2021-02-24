@@ -85,7 +85,7 @@ Recall that $$p_\pi(\tau_{\le a_t}) = d(s_0) \prod_{t'=0}^{t-1} \pi(a_{t'} \vert
 
 $$
 \begin{align}
-\nabla_\theta ln \, p_{\pi_\theta}(\tau_{\le a_t} \vert \theta) &= \nabla_\theta ln \, \{d(s_0) \prod_{t'=0}^t \pi_\theta(a_{t'} \vert s_{t'}) \prod_{t'=0}^t p(s_{t'+1} \vert s_{t'}, a_{t'}) \vert \theta)\} & (expand \, p_{\pi_\theta}(\tau_{\le a_t} \vert \theta)) \\
+\nabla_\theta ln \, p_{\pi_\theta}(\tau_{\le a_t} \vert \theta) &= \nabla_\theta ln \, \{d(s_0) \prod_{t'=0}^t \pi_\theta(a_{t'} \vert s_{t'}) \prod_{t'=0}^t p(s_{t'+1} \vert s_{t'}, a_{t'}) \vert \theta)\} & (expand \, p_{\pi_\theta}(\tau_{\le a_t}) \\
 & = \nabla_\theta ln \, d(s_0) + \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) + \sum_{t'=0}^t \nabla_\theta ln \, p(s_{t'+1} \vert s_{t'}, a_{t'}) & (log \, of \, product \, is \, sum \, of \, logs)) \\
 & = \sum_{t'=0}^t \nabla_\theta ln \, \pi_\theta(a_{t'} \vert s_{t'}) & (\nabla_\theta \, of \, terms \, that \, do \, not \, depend \, on \, \theta \, is \, 0)) \\
 \end{align}
