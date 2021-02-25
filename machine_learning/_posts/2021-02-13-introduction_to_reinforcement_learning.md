@@ -388,11 +388,11 @@ We attempt to construct a maximal policy as follows: for all states $$s$$ and ac
 $$
 \begin{align}
 Q_\star(s, a) = \underset{\pi}{sup} Q_\pi(s, a) \\
-V_\star(s) = \underset{a \eps \mathcal{A}}{sup} V_\star(s) \\
+V_\star(s) = \underset{a \in \mathcal{A}}{sup} V_\star(s) \\
 \end{align}
 $$
 
-Since rewards are bounded, $$Q_\pi(s, a), V_\pi(a)$$ are bounded for all $$a, \pi$$, and $$Q_\star(s, a), V_\star(a)$$ are well defined. Furthermore, the Bellman equation $$V_\pi(s) & = \int_a Q_\pi(s, a) da$$ implies $$V_\star(s) = \underset{a \eps \mathcal{A}, \pi}{sup} Q_\pi(s, a)$$.
+Since rewards are bounded, $$Q_\pi(s, a), V_\pi(a)$$ are bounded for all $$a, \pi$$, and $$Q_\star(s, a), V_\star(a)$$ are well defined. Furthermore, the Bellman equation $$V_\pi(s) & = \int_a Q_\pi(s, a) da$$ implies $$V_\star(s) = \underset{a \in \mathcal{A}, \pi}{sup} Q_\pi(s, a)$$.
 
 Pick $$\epsilon > 0$$. Define $$\pi_\epsilon$$ to be a policy that picks for $$s$$ an action that maximizes $$Q_{\pi_\epsilon}(s, a)$$ (if such an action exists, e.g. if $$\mathcal{A}$$ is finite), or at least comes within $$\epsilon$$ of $$Q_\star(s, a)$$ uniformly for all states $$s$$ and actions $$a$$:
 
@@ -402,8 +402,7 @@ Q_{\pi_\epsilon}(s, a) \gt Q_\star(s, a) - \epsilon
 \end{align}
 $$
 
-
-Then, using the Bellman equation $$V_\pi(s) & = \int_a Q_\pi(s, a) da$$, it is immediate that $$V_{\pi_epsilon}(s) \gt \underset{a \eps \mathcal{A}, \pi}{sup} Q_\pi(s, a) - \epsilon$$, so $$V_\star(s) \gt \underset{a \eps \mathcal{A}, \pi}{sup} Q_\pi(s, a)$$ for all $$\epsilon \gt 0$$.
+Then, using the Bellman equation $$V_\pi(s) & = \int_a Q_\pi(s, a) da$$, it is immediate that $$V_{\pi_epsilon}(s) \gt \underset{a \eps \mathcal{A}, \pi}{sup} Q_\pi(s, a) - \epsilon$$, so $$V_\star(s) \gt \underset{a \in \mathcal{A}, \pi}{sup} Q_\pi(s, a)$$ for all $$\epsilon \gt 0$$.
 
 
 ## Deep learning RL algorithms
