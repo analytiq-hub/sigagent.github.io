@@ -148,7 +148,7 @@ The trajectory probability with a given policy $$\pi$$, under the Markov assumpt
 
 $$
 \begin{equation} \label{eq:taudist}
-p_\pi(\tau) = d(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1} \vert s_t, a_t)
+p_\pi(\tau) = p_0(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1} \vert s_t, a_t)
 \end{equation}
 $$
 
@@ -163,7 +163,7 @@ $$
 with probability
 $$
 \begin{align}
-p_\pi(\overline{\tau}) & = d(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1},r_{t+1} \vert s_t, a_t)
+p_\pi(\overline{\tau}) & = p_0(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1},r_{t+1} \vert s_t, a_t)
 \end{align}
 $$
 
@@ -427,5 +427,5 @@ Model-based algorithms, effectively, simulate the environment. If the estimation
 - AphaGo, AlphaZero use a combination of supervised learning, RL model, value and policy based algorithms, and self-play.
 
 ---
-<a name="equivalent-mdp">1</a>: Each MDP $$(\mathcal{S}, \mathcal{A}, d(s_0), p(s',r \vert s, a))$$ is equivalent to an MDP $$(\mathcal{S}, \mathcal{A}, d(s_0), p(s', \rho \vert s, a))$$ where $$\rho$$ is induced by a function also denoted $$\rho \, : \, \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}$$ as $$p(\rho \vert s, a) = \delta_{\rho(s, a)}$$ where $$\delta_{\rho(s, a)}$$ is the Dirac probability with value 1 for $$\rho(s, a)$$ and 0. See [Equivalent Markov Decision Processes](/machine_learning/2021/02/19/equivalent_markov_decision_processes/).
+<a name="equivalent-mdp">1</a>: Each MDP $$(\mathcal{S}, \mathcal{A}, p_0(s_0), p(s',r \vert s, a))$$ is equivalent to an MDP $$(\mathcal{S}, \mathcal{A}, p_0(s_0), p(s', \rho \vert s, a))$$ where $$\rho$$ is induced by a function also denoted $$\rho \, : \, \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}$$ as $$p(\rho \vert s, a) = \delta_{\rho(s, a)}$$ where $$\delta_{\rho(s, a)}$$ is the Dirac probability with value 1 for $$\rho(s, a)$$ and 0. See [Equivalent Markov Decision Processes](/machine_learning/2021/02/19/equivalent_markov_decision_processes/).
 
