@@ -382,7 +382,7 @@ Backup diagram for action-state-action Bellman equation
 ## Deep learning RL algorithms
 
 Deep learning algorithms for RL problems can be classified as:
-- Value based (algorithms learning value functions $$V_\pi(s)$$ or $$Q_\pi(s, a$$, then deriving the policy $$\pi$$)
+- Value based (algorithms learning value functions $$V_\pi(s)$$ or $$Q_\pi(s, a$$), then deriving the policy $$\pi$$)
 - Policy based (algorithms learning the policy $$\pi$$ directly)
 - Model based (algorithms that know the environment dynamics $$p(s' \vert s, a)$$, or learn it.
 - Or combinations thereof.
