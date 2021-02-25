@@ -387,8 +387,8 @@ Policies have a partial order $$\pi_1 \le \pi_2$$ defined by $$Q_{\pi_1}(s, a) \
 We attempt to construct a maximal policy as follows: for all states $$s$$ and actions $$a$$, define
 $$
 \begin{align}
-Q_\star(s, a) = \underset{\pi}{sup} \, Q_\pi(s, a) \\
-V_\star(s) = \underset{a \in \mathcal{A}}{sup} \, V_\star(s) \\
+Q_\star(s, a) & = \underset{\pi}{sup} \, Q_\pi(s, a) \\
+V_\star(s) & = \underset{a \in \mathcal{A}}{sup} \, V_\star(s) \\
 \end{align}
 $$
 
