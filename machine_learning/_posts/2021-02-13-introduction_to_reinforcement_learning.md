@@ -106,7 +106,7 @@ $$
 We define a partial probability
 $$
 \begin{align}
-p(s' \vert s, a) = Pr(s_{t+1} = s' \vert s_t = s, a_t = a) = \int_{r \in \mathbb{R}} p(s', r \vert s, a) dr
+p(s' \vert s, a) = Pr\big(s_{t+1} = s' \vert s_t = s, a_t = a\big) = \int_{r \in \mathbb{R}} p(s', r \vert s, a) dr
 \end{align}
 $$
 
@@ -120,7 +120,7 @@ We can compute an expected reward for a state-action pair as a function $$r \, :
 
 $$
 \begin{align}
-r(s, a) = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a] = \int_{r \in \mathbb{R}} r \int_{s' \in \mathcal{S}} p(s', r \vert s, a) ds' dr
+r(s, a) = \mathbb{E}\big[r_{t+1} \vert s_t = s, a_t = a\big] = \int_{r \in \mathbb{R}} r \int_{s' \in \mathcal{S}} p(s', r \vert s, a) ds' dr
 \end{align}
 $$
 
@@ -128,7 +128,7 @@ and an expected reward for a state-action-state as a function $$r \, : \, \mathc
 
 $$
 \begin{align}
-r(s, a, s') = \mathbb{E}[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s'] = \int_{r \in \mathbb{R}} r \, \frac{p(s', r \vert s, a)}{p(s' \vert s, a)} dr
+r(s, a, s') = \mathbb{E}\big[r_{t+1} \vert s_t = s, a_t = a, s_{t+1} = s'\big] = \int_{r \in \mathbb{R}} r \, \frac{p(s', r \vert s, a)}{p(s' \vert s, a)} dr
 \end{align}
 $$
 
