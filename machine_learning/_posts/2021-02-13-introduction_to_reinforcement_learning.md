@@ -419,7 +419,7 @@ Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} p(s' \vert s, a) \, V_\star(s') ds'
 \end{align}
 $$
 
-These are called the Bellman optimality equations. For finite $$\mathcal{A}$$, we have effectively constructed a maximal policy $$\pi$$, picking in state $$s$$ the *greedy* action $$a$$ that maximizes $$Q_\star(s, a)$$ - while for infinite $$\mathcal{A}$$, such a maximal policy may not exist, but can be uniformly approximated, for any $$\epsilon \gt 0$$ by policies $$\pi_\epsilon$$ such that $$Q_{\pi_\epsilon}(s, a) \gt Q_\star(s, a) - \epsilon$$ and $$V_{\pi_\epsilon}(s) \gt V_\star(s) - \epsilon$$.
+These are called the *Bellman optimality equations*. For finite $$\mathcal{A}$$, we have effectively constructed a maximal policy $$\pi$$, picking in state $$s$$ the *greedy* action $$a$$ that maximizes $$Q_\star(s, a)$$ - while for infinite $$\mathcal{A}$$, such a maximal policy may not exist, but can be uniformly approximated, for any $$\epsilon \gt 0$$ by policies $$\pi_\epsilon$$ such that $$Q_{\pi_\epsilon}(s, a) \gt Q_\star(s, a) - \epsilon$$ and $$V_{\pi_\epsilon}(s) \gt V_\star(s) - \epsilon$$ for all states $$s$$ and actions $$a$$.
 
 
 ## Deep learning RL algorithms
