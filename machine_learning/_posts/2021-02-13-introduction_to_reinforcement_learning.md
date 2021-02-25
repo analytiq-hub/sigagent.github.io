@@ -378,6 +378,13 @@ This can be visualized on the following backup diagram:
 Backup diagram for action-state-action Bellman equation
 </p>
 
+## Optimal policies
+
+The goal of RL is to find policies $$\pi$$ that maximize the objective $$J_\pi$$.
+
+Policies have a partial ordered $$\pi_1 \le \pi_2$$ defined by $$Q_{\pi_1}(s, a) \le Q_{\pi_2}(s, a)$$ for all states $$s$$ and actions $$a$$. From the Bellman expectation equations, if $$\pi_1 \le \pi_2$$, then $$J_{\pi_1} \le J_{\pi_2}$$.
+
+
 
 ## Deep learning RL algorithms
 
