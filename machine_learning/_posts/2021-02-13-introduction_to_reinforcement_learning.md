@@ -402,7 +402,7 @@ Q_{\pi_\epsilon}(s, a) \gt Q_\star(s, a) - \epsilon
 \end{align}
 $$
 
-Then, using the Bellman equation $$V_\pi(s) & = \int_a Q_\pi(s, a) da$$, it is immediate that $$V_{\pi_epsilon}(s) \gt \underset{a \eps \mathcal{A}, \pi}{sup} \, Q_\pi(s, a) - \epsilon$$, so $$V_\star(s) \gt \underset{a \in \mathcal{A}, \pi}{sup} \, Q_\pi(s, a)$$ for all $$\epsilon \gt 0$$.
+Then, using the Bellman equation $$V_\pi(s) = \int_a Q_\pi(s, a) da$$, it is immediate that $$V_{\pi_epsilon}(s) \gt \underset{a \eps \mathcal{A}, \pi}{sup} \, Q_\pi(s, a) - \epsilon$$, so $$V_\star(s) \gt \underset{a \in \mathcal{A}, \pi}{sup} \, Q_\pi(s, a)$$ for all $$\epsilon \gt 0$$.
 
 
 ## Deep learning RL algorithms
