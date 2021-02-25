@@ -81,7 +81,7 @@ To simplify notations, we denote $$s'$$ the successor state of a state $$s$$ whe
 A Markov Decision Process (MDP) consists, in general, of
 * A set of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$
 * Probability measures $$ds$$ and $$da$$ on $$\mathcal{S}$$ and $$\mathcal{A}$$
-* A distribution of the initial state $$p_0(s)$$
+* A distribution of the initial state $$p(s)$$
 * A state transition probability distribution $$p(s', r \vert s, a)$$ representing the probability of arriving to state $$(s', r)$$ fron $$s$$ when applying action $$a$$
 
 Here is an example of a finite MDP (<a href="https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-3-the-markov-decision-process-9f5066e073a2">source</a>):
@@ -148,7 +148,7 @@ The trajectory probability with a given policy $$\pi$$, under the Markov assumpt
 
 $$
 \begin{equation} \label{eq:taudist}
-p_\pi(\tau) = p_0(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1} \vert s_t, a_t)
+p_\pi(\tau) = p(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1} \vert s_t, a_t)
 \end{equation}
 $$
 
@@ -163,7 +163,7 @@ $$
 with probability
 $$
 \begin{align}
-p_\pi(\overline{\tau}) & = p_0(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1},r_{t+1} \vert s_t, a_t)
+p_\pi(\overline{\tau}) & = p(s_0) \prod_{t=0}^{T-1} \pi(a_t \vert s_t)  \prod_{t=0}^{T-1} p(s_{t+1},r_{t+1} \vert s_t, a_t)
 \end{align}
 $$
 
@@ -286,9 +286,9 @@ $$
 \begin{align}
 J_\pi & = \underset{T \rightarrow \infty}{lim} \sum_{t=0}^{T-1} \int_{\tau_{\le a_t} = s_0, a_0, ... , a_t} \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau) d\tau_{\le a_t} \hspace{1cm} \\
 & = \underset{T \rightarrow \infty}{lim} \sum_{t=0}^{T-1} \int_{\tau_{\le a_t} = s_0, a_0, ... , a_t} \gamma^{t} r(s_t, a_t)  \prod_{t'=0}^{t-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{\le a_t} \hspace{1cm} & (expand \, p_\pi(s_t, a_t \vert \tau)) \\
-& = \underset{T \rightarrow \infty}{lim} \sum_{t=0}^{T-1} \int_{s_0} \big( \int_{\tau_{>s_0 \le a_t} = (a_0, s_1, ..., a_t)} \gamma^{t} r(s_t, a_t) \prod_{t'=0}^{t-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>s_0\le a_t} \big) p_0(s_0)ds_0 \hspace{1cm} & (Fubini \, for \, d\tau_{\le a_t} = d\tau_{>s_0\le a_t} ds_0) \\
-& = \int_{s_0} \big( \underset{T \rightarrow \infty}{lim} \sum_{t=0}^{T-1} \int_{\tau_{>s_0 \le a_t} = (a_0, s_1, ..., a_t)} \gamma^{t} r(s_t, a_t) \prod_{t'=0}^{t-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>s_0\le a_t} \big) p_0(s_0) ds_0 \hspace{1cm} & (uniform \, convergence) \\
-& =   \int_{s} V_\pi(s) p_0(s) ds & (definition \, of \,  V_\pi(s)) \\
+& = \underset{T \rightarrow \infty}{lim} \sum_{t=0}^{T-1} \int_{s_0} \big( \int_{\tau_{>s_0 \le a_t} = (a_0, s_1, ..., a_t)} \gamma^{t} r(s_t, a_t) \prod_{t'=0}^{t-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>s_0\le a_t} \big) p(s_0)ds_0 \hspace{1cm} & (Fubini \, for \, d\tau_{\le a_t} = d\tau_{>s_0\le a_t} ds_0) \\
+& = \int_{s_0} \big( \underset{T \rightarrow \infty}{lim} \sum_{t=0}^{T-1} \int_{\tau_{>s_0 \le a_t} = (a_0, s_1, ..., a_t)} \gamma^{t} r(s_t, a_t) \prod_{t'=0}^{t-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=0}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>s_0\le a_t} \big) p(s_0) ds_0 \hspace{1cm} & (uniform \, convergence) \\
+& =   \int_{s} V_\pi(s) p(s) ds & (definition \, of \,  V_\pi(s)) \\
 \end{align}
 $$
 
@@ -464,5 +464,5 @@ Model-based algorithms, effectively, simulate the environment. If the estimation
 - AphaGo, AlphaZero use a combination of supervised learning, RL model, value and policy based algorithms, and self-play.
 
 ---
-<a name="equivalent-mdp">1</a>: Each MDP $$(\mathcal{S}, \mathcal{A}, p_0(s_0), p(s',r \vert s, a))$$ is equivalent to an MDP $$(\mathcal{S}, \mathcal{A}, p_0(s_0), p(s', \rho \vert s, a))$$ where $$\rho$$ is induced by a function also denoted $$\rho \, : \, \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}$$ as $$p(\rho \vert s, a) = \delta_{\rho(s, a)}$$ where $$\delta_{\rho(s, a)}$$ is the Dirac probability with value 1 for $$\rho(s, a)$$ and 0. See [Equivalent Markov Decision Processes](/machine_learning/2021/02/19/equivalent_markov_decision_processes/).
+<a name="equivalent-mdp">1</a>: Each MDP $$(\mathcal{S}, \mathcal{A}, p(s_0), p(s',r \vert s, a))$$ is equivalent to an MDP $$(\mathcal{S}, \mathcal{A}, p(s_0), p(s', \rho \vert s, a))$$ where $$\rho$$ is induced by a function also denoted $$\rho \, : \, \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}$$ as $$p(\rho \vert s, a) = \delta_{\rho(s, a)}$$ where $$\delta_{\rho(s, a)}$$ is the Dirac probability with value 1 for $$\rho(s, a)$$ and 0. See [Equivalent Markov Decision Processes](/machine_learning/2021/02/19/equivalent_markov_decision_processes/).
 
