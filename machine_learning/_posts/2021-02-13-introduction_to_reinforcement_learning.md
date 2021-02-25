@@ -402,7 +402,18 @@ Q_{\pi_\epsilon}(s, a) \gt Q_\star(s, a) - \epsilon
 \end{align}
 $$
 
-Then, using the Bellman equation $$V_\pi(s) = \int_a Q_\pi(s, a) da$$, it is immediate that $$V_{\pi_\epsilon}(s) \gt \underset{a \in \mathcal{A}}{sup} Q_\star(s, a) - \epsilon$$ for all $$\epsilon \gt 0$$, so $$V_\star(s) \ge \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a)$$. The inequality in the opposite direction $$V_\star(s) \lt \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a)$$ is obvious, so $$V_\star(s) = \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a)$$.
+Then, using the Bellman equation $$V_\pi(s) = \int_a Q_\pi(s, a) da$$, it is immediate that $$V_{\pi_\epsilon}(s) \gt \underset{a \in \mathcal{A}}{sup} Q_\star(s, a) - \epsilon$$ for all $$\epsilon \gt 0$$, so $$V_\star(s) \ge \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a)$$. The inequality in the opposite direction $$V_\star(s) \lt \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a)$$ is obvious, so $$V_\star(s) = \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a)$$. It is then straightforward to derive the entire set of equations below:
+
+$$
+\begin{align}
+V_\star(s) & = \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a) \\
+ & = \underset{a \in \mathcal{A}}{sup} \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\star(s') ds'\big) \\
+Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} p(s' \vert s, a) \, V_\star(s') ds' \\
+ & = r(s, a) + \gamma \int_{s'} p(s' \vert s, a) \, \underset{a' \in \mathcal{A}}{sup} \, Q_\star(s',a') ds' \\
+\end{align}
+$$
+
+These are called the Bellman optimality equations. For finite $$\mathcal{A}$$, we have effectively constructed a maximal policy $$\pi$$, while for infinite $$\mathcal{A}$$, such a policy may not exist, but can be uniformly approximated by policies $$\pi_\eps$$.
 
 
 ## Deep learning RL algorithms
