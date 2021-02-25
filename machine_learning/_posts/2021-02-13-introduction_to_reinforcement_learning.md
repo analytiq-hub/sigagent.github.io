@@ -384,6 +384,26 @@ The goal of RL is to find policies $$\pi$$ that maximize the objective $$J_\pi$$
 
 Policies have a partial ordered $$\pi_1 \le \pi_2$$ defined by $$Q_{\pi_1}(s, a) \le Q_{\pi_2}(s, a)$$ for all states $$s$$ and actions $$a$$. From the Bellman expectation equations, if $$\pi_1 \le \pi_2$$, then $$J_{\pi_1} \le J_{\pi_2}$$.
 
+We attempt to construct a maximal policy as follows: for all states $$s$$ and actions $$a$$, define
+$$
+\begin{align}
+Q_\star(s, a) = \underset{\pi}{sup} Q_\pi(s, a) \\
+V_\star(s) = \underset{a \eps \mathcal{A}}{sup} V_\star(s) \\
+\end{align}
+$$
+
+Since rewards are bounded, $$Q_\pi(s, a), V_\pi(a)$$ are bounded for all $$a, \pi$$, and $$Q_\star(s, a), V_\star(a)$$ are well defined. Furthermore, the Bellman equation $$V_\pi(s) & = \int_a Q_\pi(s, a) da$$ implies $$V_\star(s) = \underset{a \eps \mathcal{A}, \pi}{sup} Q_\pi(s, a)$$.
+
+Pick $$\epsilon > 0$$. Define $$\pi_\epsilon$$ to be a policy that picks for $$s$$ an action that maximizes $$Q_{\pi_\epsilon}(s, a)$$ (if such an action exists, e.g. if $$\mathcal{A}$$ is finite), or at least comes within $$\epsilon$$ of $$Q_\star(s, a)$$ uniformly for all states $$s$$ and actions $$a$$:
+
+$$
+\begin{align}
+Q_{\pi_\epsilon}(s, a) \gt Q_\star(s, a) - \epsilon
+\end{align}
+$$
+
+
+Then, using the Bellman equation $$V_\pi(s) & = \int_a Q_\pi(s, a) da$$, it is immediate that $$V_{\pi_epsilon}(s) \gt \underset{a \eps \mathcal{A}, \pi}{sup} Q_\pi(s, a) - \epsilon$$, so $$V_\star(s) \gt \underset{a \eps \mathcal{A}, \pi}{sup} Q_\pi(s, a)$$ for all $$\epsilon \gt 0$$.
 
 
 ## Deep learning RL algorithms
