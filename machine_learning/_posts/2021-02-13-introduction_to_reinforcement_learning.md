@@ -394,11 +394,11 @@ $$
 
 Since rewards are bounded, $$Q_\pi(s, a), V_\pi(a)$$ are bounded for all $$a, \pi$$, and $$Q_\star(s, a), V_\star(a)$$ are well defined. 
 
-Pick $$\epsilon > 0$$. Define $$\pi_\epsilon$$ to be a policy that picks for $$s$$ an action that maximizes $$Q_{\pi_\epsilon}(s, a)$$ (if such an action exists, e.g. if $$\mathcal{A}$$ is finite), or at least comes within $$\epsilon$$ of $$Q_\star(s, a)$$ uniformly for all states $$s$$ and actions $$a$$:
+Pick $$\epsilon > 0$$. Define  to be a policy that picks for $$s$$ an action that maximizes $$Q_{\pi_{\epsilon\star}}(s, a)$$ (if such an action exists, e.g. if $$\mathcal{A}$$ is finite), or at least comes within $$\epsilon$$ of $$Q_\star(s, a)$$ uniformly for all states $$s$$ and actions $$a$$ (in which case we denote the policy $$\pi_{\star}$$):
 
 $$
 \begin{align}
-Q_{\pi_\epsilon}(s, a) \gt Q_\star(s, a) - \epsilon
+Q_{\pi_{\epsilon\star}}(s, a) \gt Q_\star(s, a) - \epsilon
 \end{align}
 $$
 
@@ -408,7 +408,7 @@ $$
 V_\pi(s) = \int_a Q_\pi(s, a) da
 \end{align}
 $$
-it is immediate that $$V_{\pi_\epsilon}(s) \gt \underset{a \in \mathcal{A}}{sup} Q_\star(s, a) - \epsilon$$ for all $$\epsilon \gt 0$$, so $$V_\star(s) \ge \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a)$$. The inequality in the opposite direction $$V_\star(s) \le \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a)$$ is obvious, so $$V_\star(s) = \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a)$$. It is then straightforward to derive the entire set of equations below:
+it is immediate that $$V_{\pi_{\epsilon\star}}(s) \gt \underset{a \in \mathcal{A}}{sup} Q_\star(s, a) - \epsilon$$ for all $$\epsilon \gt 0$$, so $$V_\star(s) \ge \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a)$$. The inequality in the opposite direction $$V_\star(s) \le \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a)$$ is obvious, so $$V_\star(s) = \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a)$$. It is then straightforward to derive the entire set of equations below:
 
 $$
 \begin{align}
@@ -419,7 +419,7 @@ Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} p(s' \vert s, a) \, V_\star(s') ds'
 \end{align}
 $$
 
-These are called the *Bellman optimality equations*. For finite $$\mathcal{A}$$, we have effectively constructed a maximal policy $$\pi$$, picking in state $$s$$ the *greedy* action $$a$$ that maximizes $$Q_\star(s, a)$$ - while for infinite $$\mathcal{A}$$, such a maximal policy may not exist, but can be uniformly approximated, for any $$\epsilon \gt 0$$, by policies $$\pi_\epsilon$$ such that $$Q_{\pi_\epsilon}(s, a) \gt Q_\star(s, a) - \epsilon$$ and $$V_{\pi_\epsilon}(s) \gt V_\star(s) - \epsilon$$ for all states $$s$$ and actions $$a$$.
+These are called the *Bellman optimality equations*. For finite $$\mathcal{A}$$, we have effectively constructed a maximal policy $$\pi_\star$$, picking in state $$s$$ the *greedy* action $$a$$ that maximizes $$Q_\star(s, a)$$ - while for infinite $$\mathcal{A}$$, such a maximal policy may not exist, but can be uniformly approximated, for any $$\epsilon \gt 0$$, by policies $$\pi_{\epsilon\star}$$ such that $$Q_{\pi_{\epsilon\star}}(s, a) \gt Q_\star(s, a) - \epsilon$$ and $$V_{\pi_{\epsilon\star}}(s) \gt V_\star(s) - \epsilon$$ for all states $$s$$ and actions $$a$$.
 
 
 ## Deep learning RL algorithms
