@@ -413,7 +413,7 @@ Q_\star(s, a) & = r(s, a) + \gamma \int_{s'} p(s' \vert s, a) \, V_\star(s') ds'
 \end{align}
 $$
 
-These are called the Bellman optimality equations. For finite $$\mathcal{A}$$, we have effectively constructed a maximal policy $$\pi$$, while for infinite $$\mathcal{A}$$, such a policy may not exist, but can be uniformly approximated by policies $$\pi_\eps$$.
+These are called the Bellman optimality equations. For finite $$\mathcal{A}$$, we have effectively constructed a maximal policy $$\pi$$, while for infinite $$\mathcal{A}$$, such a policy may not exist, but can be uniformly approximated by policies $$\pi_\epsilon$$.
 
 
 ## Deep learning RL algorithms
