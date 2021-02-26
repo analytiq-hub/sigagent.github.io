@@ -297,16 +297,16 @@ This says that $$J_\pi$$ is the expected value of $$V_\pi(s)$$ over all states $
 $$
 \begin{align} 
 V_\pi(s_0) & = \underset{T \rightarrow \infty}{lim}  \sum_{t=0}^{T-1}\int_{\tau_{>s_0 \le a_t} = a_0, s_1, a_1, ... , a_t}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>s_0 \le a_t} \hspace{1cm} & (definition \, of \, expectation) \\
-& = \underset{T \rightarrow \infty}{lim}  \sum_{t=0}^{T-1} \int_{a_0} \big( \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>a_0 \le a_t} \big) da_0 \hspace{1cm} & (Fubini \, for \, d \tau_{>s_0} = d \tau_{>a_0 \le a_t} da_0) \\
-& = \int_{a_0} \big( \underset{T \rightarrow \infty}{lim}  \sum_{t=0}^{T-1} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>a_0 \le a_t} \big) da_0 \hspace{1cm} & (uniform \, convergence) \\
-& = \int_{a_0} Q_\pi(s_0, a_0) da_0 \hspace{1cm} & (definition \, of \, Q_\pi(s_0, a_0)) \\
+& = \underset{T \rightarrow \infty}{lim}  \sum_{t=0}^{T-1} \int_{a_0} \pi(a_0 \vert s_0) \big( \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>a_0 \le a_t} \big) da_0 \hspace{1cm} & (Fubini \, for \, d \tau_{>s_0} = d \tau_{>a_0 \le a_t} da_0) \\
+& = \int_{a_0} \pi(a_0 \vert s_0) \big( \underset{T \rightarrow \infty}{lim}  \sum_{t=0}^{T-1} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t}  \gamma^{t} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>s_0}) d\tau_{>a_0 \le a_t} \big) da_0 \hspace{1cm} & (uniform \, convergence) \\
+& = \int_{a_0} \pi(a_0 \vert s_0)  Q_\pi(s_0, a_0) da_0 \hspace{1cm} & (definition \, of \, Q_\pi(s_0, a_0)) \\
 \end{align}
 $$
 
 Relabeled, this says that 
 $$
 \begin{align} \label{eq:vq_bellman}
-V_\pi(s) = \int_a Q_\pi(s, a) da
+V_\pi(s) = \int_a \pi(a \vert s) Q_\pi(s, a) da
 \end{align}
 $$
 
