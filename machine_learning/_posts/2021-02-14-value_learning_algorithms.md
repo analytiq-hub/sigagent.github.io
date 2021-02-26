@@ -11,7 +11,17 @@ author:
 ## Introduction
 The sets of states $$\mathcal{S}$$  and actions $$\mathcal{A}$$ are assumed to be finite.
 
-The idea in value learning algorithms is to maximize the action-value function $$Q_\pi(s, a)$$, and to pick policies $$s \rightarrow \pi(a \vert s)$$ which maximize $$Q_\pi(s, a)$$. This can be accomplished when, for example, in state $$s$$ we pick $$\underset{a \in \mathcal{A}}{argmax} \, Q_\pi(s, a)$$, which is the action $$a$$ that maximizes $$Q_\pi(s, a)$$.
+The idea in value learning algorithms is to find an optimal policy $$\pi$$ that maximize the action-value function $$Q_\pi(s, a)$$ for all states $$s$$ and actions $$a$$. Using the Bellman expectation equation
+
+$$
+\begin{align}
+V_\pi(s) & = \int_a  \pi(a \vert s) Q_\pi(s, a) da
+\end{align}
+$$
+
+we notice that $$Q_\pi(s, a)$$ is maximal for all $$s, a$$ if and only if $$V_\pi(s)$$ is maximal for all $$s$$.
+
+The process by which we find the optimal policy is iterative. We start with policy $$\\pi_1$$, estimate $$Q_{\pi_1}(s, a)$$ or $$V_{\pi_1}(s)$$ for some or all states $$s$$ and actions $$a$$, find a more optimal policy $$\pi_2 \gt \pi_1$$, and iterate the process until either we find *the* optimal policy $$\pi$$ (which is possible to do case the number of states and actions is small), ot a sufficiently good *approximation* of the optimal policy $$\pi$$ (in case the number of states and actions is still finite, but too large to permit us to arrive at the actual optimal policy).
 
 ## Greedy and $$\epsilon$$-greedy policies
 More generally, if the action-value function $$Q$$ is given, the $$Q$$-greedy policy, by definition, for all $$s \in \mathcal{S}$$ picks with probability 1 the action that maximizes $$Q(s, a)$$.
