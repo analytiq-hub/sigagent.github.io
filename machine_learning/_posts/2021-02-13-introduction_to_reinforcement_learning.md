@@ -336,7 +336,7 @@ The equations (\ref{eq:v_bellman}), (\ref{eq:q_bellman}) are the Bellman expecta
 $$
 \begin{align} 
 V_\pi(s) & = \int_a \pi(a \vert s) Q_\pi(s, a) da & \\
-& = \int_a \big( r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q_\pi(s',a') ds'da'\big)da & (expand \, Q_\pi(s, a))\\
+& = \int_a \pi(a \vert s) \big( r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q_\pi(s',a') ds'da'\big)da & (expand \, Q_\pi(s, a))\\
 & = \int_a \pi(a \vert s) \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) \big( \int_{a'}  Q_\pi(s',a') da' \big) ds'\big)da & (Fubini \, for \, da'ds')\\
 & = \int_a \pi(a \vert s) \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\big)da & (regroup \, V_\pi(s')) \\
 \end{align}
