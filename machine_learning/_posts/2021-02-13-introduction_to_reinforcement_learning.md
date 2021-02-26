@@ -319,7 +319,7 @@ Q_\pi(s_0, a_0) & = r(s_0,a_0) + \underset{T \rightarrow \infty}{lim} \sum_{t=1}
 & = r(s_0, a_0) + \gamma \underset{T \rightarrow \infty}{lim} \sum_{t=1}^{T-1} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} p(s_{1} \vert s_0, a_0) \gamma^{t-1} r(s_t, a_t) \prod_{t'=1}^{t-1} \pi(a_{t'} \vert s_{t'}) \prod_{t'=1}^{t-1} p(s_{t'+1} \vert s_{t'}, a_{t'}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (bring \, p(s_1 \vert s_0,a_0) \, out \, of \, \prod_{t'=0}^{t-1}) \\
 & = r(s_0, a_0) + \gamma \underset{T \rightarrow \infty}{lim} \sum_{t=1}^{T-1} \int_{\tau_{>a_0 \le a_t} = s_1, a_1, ..., a_t} p(s_{1} \vert s_0, a_0) \gamma^{t-1} r(s_t, a_t) p_\pi(s_t, a_t \vert \tau_{>a_0 \le a_t}) d\tau_{>a_0 \le a_t} \hspace{1cm} & (replace \, with \, p_\pi(s_t, a_t \vert \tau_{>a_0 \le a_t})) \\
 & = r(s_0, a_0) + \gamma \int_{s_1} p(s_{1} \vert s_0, a_0) V_\pi(s_1) ds_1 \hspace{1cm} & (definition \, of \, V_\pi(s_1) \, for \, T-1) \\
-& = r(s_0, a_0) + \gamma \int_{s_1, a_1} p(s_{1} \vert s_0, a_0) Q_\pi(s_1, a_1) ds_1 da_1 \hspace{1cm} & (V_\pi(s_1) \, as \, expected \, value \, of \, Q_\pi(s_1, a_1) \, over \, a_1) \\
+& = r(s_0, a_0) + \gamma \int_{s_1, a_1} \pi(a_1 \vert s_1) p(s_{1} \vert s_0, a_0) Q_\pi(s_1, a_1) ds_1 da_1 \hspace{1cm} & (V_\pi(s_1) \, as \, expected \, value \, of \, Q_\pi(s_1, a_1) \, over \, a_1) \\
 \end{align}
 $$
 
@@ -327,7 +327,7 @@ Relabeling notations, we get:
 
 $$
 \begin{align} \label{eq:q_bellman}
-Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q_\pi(s',a') ds'da' \\
+Q_\pi(s, a) & = r(s, a) + \gamma \int_{s',a'} \pi(a' \vert s') p(s' \vert s, a) Q_\pi(s',a') ds'da' \\
 \end{align}
 $$
 
@@ -335,17 +335,17 @@ The equations (\ref{eq:v_bellman}), (\ref{eq:q_bellman}) are the Bellman expecta
 
 $$
 \begin{align} 
-V_\pi(s) & = \int_a Q_\pi(s, a) da & \\
+V_\pi(s) & = \int_a \pi(a \vert s) Q_\pi(s, a) da & \\
 & = \int_a \big( r(s, a) + \gamma \int_{s',a'} p(s' \vert s, a) Q_\pi(s',a') ds'da'\big)da & (expand \, Q_\pi(s, a))\\
-& = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) \big( \int_{a'}  Q_\pi(s',a') da' \big) ds'\big)da & (Fubini \, for \, da'ds')\\
-& = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\big)da & (regroup \, V_\pi(s')) \\
+& = \int_a \pi(a \vert s) \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) \big( \int_{a'}  Q_\pi(s',a') da' \big) ds'\big)da & (Fubini \, for \, da'ds')\\
+& = \int_a \pi(a \vert s) \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\big)da & (regroup \, V_\pi(s')) \\
 \end{align}
 $$
 
 This gives us the Bellman expectation equation for $$V_\pi(s)$$:
 $$
 \begin{align} \label{eq:v_bellman}
-V_\pi(s) = \int_a \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\big) da \\
+V_\pi(s) = \int_a \pi(a \vert s) \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\big) da \\
 \end{align}
 $$
 
