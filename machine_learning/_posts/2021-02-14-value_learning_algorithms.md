@@ -34,8 +34,10 @@ $$
 \end{align}
 $$
 
+This is called the *greedy action* $$a$$ in state $$s$$ with respect to the policy $$Q$$.
+
 If $$\epsilon \in [0, 1]$$ is a number, and $$\pi$$ is a policy, the $$\epsilon$$-greedy policy $$\pi_{\epsilon-Q-greedy}$$ picks, for all $$s \in \mathcal{S}$$,
-- action $$a$$ with probablity $$(1-\epsilon) \pi(a \vert s)$$
+- the greedy action $$\underset{a \in \mathcal{A}}{argmax} \, Q(s, a)$$ with probablity $$(1-\epsilon)$$
 - a uniformly distributed random action, with probability $$\epsilon$$
 
 We denote this policy $$\pi_{\epsilon-greedy}$$ when $$Q$$ is clear from the context.
