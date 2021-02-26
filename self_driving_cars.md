@@ -11,6 +11,9 @@ title: Self Driving Cars
 * Engineering Autonomous Vehicle and Robots, by Shaoshan Liu et al, new edition 2020
 * [Creating Autonomous Vehicle Systems](https://innovate.ieee.org/wp-content/uploads/2020/03/MC-CAVS.pdf), by Shaoshan Liu et al, new edition 2020
 
+#### Papers
+* [A Survey of Motion Planning and ControlTechniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf), M. Cap et al (2016)
+
 #### 2007 Darpa Challenge
 * [Towards Fully Autonomous Driving: Systems and  Algorithms](https://cs.stanford.edu/people/teichman/papers/iv2011.pdf), by Jesse Levinson et. al. (2011 IEEE Intelligent Vehicles Symposium (IV), Baden-Baden, Germany, June 5-9, 2011). Describes the Stanford entry at the 2007 DARPA Challenge, and follow-up work.
 
