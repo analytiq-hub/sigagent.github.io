@@ -29,8 +29,8 @@ $$
 \begin{align}
 V_\pi(s) & = \int_a  \pi(a \vert s) Q_\pi(s, a) da \\
  & = \int_a \pi(a \vert s) \big( r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds'\big) da \\
-Q_\pi(s, a) & = r(s, a) + \gamma \int_{s'} \pi(a \vert s) p(s' \vert s, a) V_\pi(s') ds' \\
- & = r(s, a) + \gamma \int_{s',a'} \pi(a \vert s) p(s' \vert s, a) Q_\pi(s',a') ds'da' \\
+Q_\pi(s, a) & = r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds' \\
+ & = r(s, a) + \gamma \int_{s',a'} \pi(a' \vert s') p(s' \vert s, a) Q_\pi(s',a') ds'da' \\
 \end{align}
 $$
 
