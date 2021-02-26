@@ -21,10 +21,10 @@ $$
 
 we notice that $$Q_\pi(s, a)$$ is maximal for all $$s, a$$ if and only if $$V_\pi(s)$$ is maximal for all $$s$$.
 
-The process by which we find the optimal policy is iterative. We start with policy $$\pi_1$$, estimate $$Q_{\pi_1}(s, a)$$ or $$V_{\pi_1}(s)$$ for some or all states $$s$$ and actions $$a$$, find a more optimal policy $$\pi_2 \ge \pi_1$$, and iterate the process
+The process by which we find the optimal policy is iterative. We start with policy $$\pi_1$$, estimate $$Q_{\pi_1}(s, a)$$ or $$V_{\pi_1}(s)$$ for some or all states $$s$$ and actions $$a$$, find a more optimal policy $$\pi_2 \gt \pi_1$$, and iterate the process
 $$
 \begin{align}
-\pi_1 \le \pi_2 \le ... \le \pi_n \le ..
+\pi_1 \lt \pi_2 \lt ... \lt \pi_n \lt ...
 \end{align}
 $$
 
