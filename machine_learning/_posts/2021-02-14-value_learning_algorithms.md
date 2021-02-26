@@ -26,17 +26,19 @@ The process by which we find the optimal policy is iterative. We start with poli
 ## Greedy and $$\epsilon$$-greedy policies
 If an action-value function $$Q$$ is given, the $$Q$$-greedy policy, by definition, is the deterministic policy that picks, for all $$s \in \mathcal{S}$$ picks the action $$a$$ that maximizes $$Q(s, a)$$.
 
-We denote this policy $$\pi_{greedy}(Q)$$. Formally, we have
+We denote this policy $$\pi_{Q-greedy}$$, or simply $$\pi_{greedy}$$, when the action-value function $$Q$$ is clear in the context. Formally, we have
 
 $$
 \begin{align}
-\pi_greedy(Q)(s)  =  \underset{a \in \mathcal{A}}{argmax} \, Q(s, a)
+\pi_{Q-greedy}(s)  =  \underset{a \in \mathcal{A}}{argmax} \, Q(s, a)
 \end{align}
 $$
 
-If $$\epsilon \in [0, 1]$$ is a number, and $$\pi$$ is a policy, the $$\epsilon$$-greedy policy $$\pi_\epsilon$$ picks, for all $$s \in \mathcal{S}$$,
+If $$\epsilon \in [0, 1]$$ is a number, and $$\pi$$ is a policy, the $$\epsilon$$-greedy policy $$\pi_{\epsilon-Q-greedy}$$ picks, for all $$s \in \mathcal{S}$$,
 - action $$a$$ with probablity $$(1-\epsilon) \pi(a \vert s)$$
 - a uniformly distributed random action, with probability $$\epsilon$$
+
+We denote this policy $$\pi_{\epsilon-greedy}$$ when $$Q$$ is clear from the context.
 
 ## Bellman Expectation Equations
 
