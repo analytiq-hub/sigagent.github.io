@@ -24,9 +24,15 @@ we notice that $$Q_\pi(s, a)$$ is maximal for all $$s, a$$ if and only if $$V_\p
 The process by which we find the optimal policy is iterative. We start with policy $$\pi_1$$, estimate $$Q_{\pi_1}(s, a)$$ or $$V_{\pi_1}(s)$$ for some or all states $$s$$ and actions $$a$$, find a more optimal policy $$\pi_2 \gt \pi_1$$, and iterate the process until either we find *the* optimal policy $$\pi$$ (which is possible to do case the number of states and actions is small), or a sufficiently good *approximation* of the optimal policy $$\pi$$ (in case the number of states and actions is still finite, but too large to permit us to arrive at the actual optimal policy).
 
 ## Greedy and $$\epsilon$$-greedy policies
-More generally, if the action-value function $$Q$$ is given, the $$Q$$-greedy policy, by definition, for all $$s \in \mathcal{S}$$ picks with probability 1 the action that maximizes $$Q(s, a)$$.
+If an action-value function $$Q$$ is given, the $$Q$$-greedy policy, by definition, is the deterministic policy that picks, for all $$s \in \mathcal{S}$$ picks the action $$a$$ that maximizes $$Q(s, a)$$.
 
-We denote this policy $$\pi_{greedy}(Q)$$. Formally, $$\pi_{greedy}(Q)(s) = \underset{a \in \mathcal{A}}{max} Q(s, a)$$.
+We denote this policy $$\pi_{greedy}(Q)$$. Formally, we have
+
+$$
+\begin{align}
+\pi_greedy(Q)(s)  =  \underset{a \in \mathcal{A}}{argmax} \, Q(s, a)$$
+\end{align}
+$$
 
 If $$\epsilon \in [0, 1]$$ is a number, and $$\pi$$ is a policy, the $$\epsilon$$-greedy policy $$\pi_\epsilon$$ picks, for all $$s \in \mathcal{S}$$,
 - action $$a$$ with probablity $$(1-\epsilon) \pi(a \vert s)$$
