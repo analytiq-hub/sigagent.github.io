@@ -368,7 +368,7 @@ Backup diagram for state-action-state Bellman equation
 We can express the Bellman equation for state-action values in terms of state-action-state reward expectations $$r(s, a, s')$$ as follows:
 $$
 \begin{align}
-Q_\pi(s, a) & = \int_{s'} r(s, a, s') ds' + \gamma \int_{s',a'} \pi(a \vert s) p(s' \vert s, a) Q_\pi(s',a') ds'da'
+Q_\pi(s, a) & = \int_{s'} r(s, a, s') ds' + \gamma \int_{s',a'} \pi(a' \vert s') p(s' \vert s, a) Q_\pi(s',a') ds'da'
 \end{align}
 $$
 
