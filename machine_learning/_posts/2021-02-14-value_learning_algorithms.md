@@ -26,11 +26,11 @@ The process by which we find the optimal policy is iterative. We start with poli
 ## Greedy and $$\epsilon$$-greedy policies
 If an action-value function $$Q$$ is given, the $$Q$$-greedy policy, by definition, is the deterministic policy that picks, for all $$s \in \mathcal{S}$$ picks the action $$a$$ that maximizes $$Q(s, a)$$.
 
-We denote this policy $$\pi_{Q-greedy}$$, or simply $$\pi_{greedy}$$, when the action-value function $$Q$$ is clear in the context. Formally, we have
+We denote this policy $$\pi_{Q-greedy}$$, or simply $$\pi_{greedy}$$, when the action-value function $$Q$$ is clear in the context. We have
 
 $$
 \begin{align}
-\pi_{Q-greedy}(s)  =  \underset{a \in \mathcal{A}}{argmax} \, Q(s, a)
+\pi_{greedy}(s)  =  \underset{a \in \mathcal{A}}{argmax} \, Q(s, a)
 \end{align}
 $$
 
