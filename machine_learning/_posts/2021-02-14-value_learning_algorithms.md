@@ -30,7 +30,7 @@ We denote this policy $$\pi_{greedy}(Q)$$. Formally, we have
 
 $$
 \begin{align}
-\pi_greedy(Q)(s)  =  \underset{a \in \mathcal{A}}{argmax} \, Q(s, a)$$
+\pi_greedy(Q)(s)  =  \underset{a \in \mathcal{A}}{argmax} \, Q(s, a)
 \end{align}
 $$
 
