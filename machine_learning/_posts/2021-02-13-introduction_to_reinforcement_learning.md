@@ -354,7 +354,7 @@ $$
 The Bellman equations in this section were expressed in terms of state-action reward expectations $$r(s, a)$$. We can express the same Bellman equations in terms of state-action-state reward expectations $$r(s, a, s')$$, for example:
 $$
 \begin{align}
-V_\pi(s) = \int_{a, s'} \big( r(s, a, s') + \gamma p(s' \vert s, a) V_\pi(s') \big) ds' da \\
+V_\pi(s) = \int_{a, s'} \pi(a \vert s) \big( r(s, a, s') + \gamma p(s' \vert s, a) V_\pi(s') \big) ds' da \\
 \end{align}
 $$
 
@@ -368,7 +368,7 @@ Backup diagram for state-action-state Bellman equation
 We can express the Bellman equation for state-action values in terms of state-action-state reward expectations $$r(s, a, s')$$ as follows:
 $$
 \begin{align}
-Q_\pi(s, a) & = \int_{s'} r(s, a, s') ds' + \gamma \int_{s',a'} p(s' \vert s, a) Q_\pi(s',a') ds'da'
+Q_\pi(s, a) & = \int_{s'} r(s, a, s') ds' + \gamma \int_{s',a'} \pi(a \vert s) p(s' \vert s, a) Q_\pi(s',a') ds'da'
 \end{align}
 $$
 
@@ -405,7 +405,7 @@ $$
 Then, using the Bellman equation
 $$
 \begin{align}
-V_\pi(s) = \int_a Q_\pi(s, a) da
+V_\pi(s) = \int_a \pi(a \vert s) Q_\pi(s, a) da
 \end{align}
 $$
 it is immediate that $$V_{\pi_{\epsilon\star}}(s) \gt \underset{a \in \mathcal{A}}{sup} Q_\star(s, a) - \epsilon$$ for all $$\epsilon \gt 0$$, so $$V_\star(s) \ge \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a)$$. The inequality in the opposite direction $$V_\star(s) \le \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a)$$ is obvious, so $$V_\star(s) = \underset{a \in \mathcal{A}}{sup} \, Q_\star(s, a)$$. It is then straightforward to derive the entire set of equations below:
