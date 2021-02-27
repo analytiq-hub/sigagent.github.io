@@ -63,6 +63,7 @@ title: Machine Learning
 * [If MaxEnt RL is the Answer, What is the Question?](https://arxiv.org/abs/1910.01913), B Eysenbach, S. Levine (2019)
 * [Benchmarking Model-Based Reinforcement Learning](https://arxiv.org/pdf/1907.02057.pdf), T. Wang et al (2019)
 * [MaxEnt RL and Robust Control](https://drive.google.com/file/d/1fENhHpd2PQYRX0Dt2PggeMP9cyTNoR8k/view), B. Eysenbach, S. Levine (2019), [talk](https://slideslive.com/38941344/maxent-rl-and-robust-control?ref=account-folder-62083-folders)
+* [OpenSpiel: A Framework for ReinforcementLearning in Games](https://arxiv.org/pdf/1908.09453.pdf), M. Lanctor et al (2020)
 * [How to Train Your Robot with DeepReinforcement Learning – LessonsWe’ve Learned](https://arxiv.org/pdf/2102.02915.pdf), J. Ibarz et al (2021)
 
 
