@@ -13,6 +13,7 @@ title: Self Driving Cars
 
 #### Papers
 * [A Survey of Motion Planning and ControlTechniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf), M. Cap et al (2016)
+* [Learning to Drive in a Day](https://arxiv.org/pdf/1807.00412.pdf), Alex Kendall et al (2019)
 * [Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf), C. Badue et al (2019)
 
 #### 2007 Darpa Challenge
