@@ -10,6 +10,7 @@ title: Self Driving Cars
 #### Books
 * Engineering Autonomous Vehicle and Robots, by Shaoshan Liu et al, new edition 2020
 * [Creating Autonomous Vehicle Systems](https://innovate.ieee.org/wp-content/uploads/2020/03/MC-CAVS.pdf), by Shaoshan Liu et al, new edition 2020
+* [Computational Geometry: Algorithms and Applications](https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736), Mark de Berg et al (2018)
 
 #### Survey Papers
 * [Autonomous Agents Modelling Other Agents:A Comprehensive Survey and Open Problems](https://arxiv.org/pdf/1709.08071.pdf), S.V. Albrecht(2018)
