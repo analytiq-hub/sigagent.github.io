@@ -14,7 +14,9 @@ title: Self Driving Cars
 #### Papers
 * [A Survey of Motion Planning and ControlTechniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf), M. Cap et al (2016)
 * [Stochastic Functional Gradient for Motion Planning in Continuous Occupancy Maps](https://arxiv.org/pdf/1703.00194.pdf), G. Francis (2017)
+* [Combining Neural Networks and Tree Search for Task and MotionPlanning in Challenging  Environments](https://arxiv.org/pdf/1703.07887.pdf), C. Paxton et al (2017)
 * [Lazy Receding Horizon A* forEfficient Path Planning in Graphs with Expensive-to-Evaluate Edges](https://arxiv.org/pdf/1803.04998.pdf), A. Mandalika et al (2018)
+* [Multiple Futures Prediction](https://arxiv.org/pdf/1911.00997.pdf), Y.C. Tang, R. Salakhutdinov (2019)
 * [Learning to Drive in a Day](https://arxiv.org/pdf/1807.00412.pdf), Alex Kendall et al (2019)
 * [A path planning and path-following control frameworkfor a general 2-trailer with a car-like tractor](https://arxiv.org/pdf/1904.01651.pdf), O. Ljungqvist et al (2019)
 * [Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf), C. Badue et al (2019)
