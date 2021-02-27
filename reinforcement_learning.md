@@ -15,8 +15,8 @@ title: Reinforcement Learning
 * [MIT 6.S091: Introduction to Deep Reinforcement Learning](https://www.youtube.com/watch?v=zR11FLZ-O9M&t=2130s), Lex Fridman (2019)
 * [RL Course by David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver), [youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0) (2015)
 
-
 #### Posts
+* [Introduction to Reinforcement Learning](/machine_learning/2021/02/13/introduction_to_reinforcement_learning/), Andrei Radulescu-Banu (2021)
 * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html), L. Weng (2018)
 * [SuperVize Me: What’s the Difference Between Supervised, Unsupervised, Semi-Supervised and Reinforcement Learning?](https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/) by Isha Salian (2018)
 
