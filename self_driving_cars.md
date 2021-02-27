@@ -21,6 +21,7 @@ title: Self Driving Cars
 * [Deep Imitative Models for Flexible Inference, Planning, and Control](https://arxiv.org/pdf/1810.06544v2.pdf), N. Rhinehart et al (2019)
 * [LeTS-Drive: Driving in a Crowd by Learning from Tree Search](https://arxiv.org/pdf/1905.12197.pdf), P. Cai et al (2019)
 * [ML-based Fault Injection for Autonomous Vehicles:A Case for Bayesian Fault Injection](https://arxiv.org/pdf/1907.01051.pdf), S. Jha et al (2019)
+* [Agent Prioritization for Autonomous Navigation](https://arxiv.org/pdf/1909.08792.pdf), K. Refaat et al (2019)
 * [VectorNet: Encoding HD Maps and Agent Dynamics fromVectorized Representation](https://arxiv.org/pdf/2005.04259.pdf), J. Gao et al (2020)
 * [End-to-end Autonomous Driving Perception with Sequential LatentRepresentation Learning](https://arxiv.org/pdf/2003.12464v1.pdf), J. Chen et al (2020)
 * [Autonomous Driving at Intersections:A Critical-Turning-Point Approach for Left Turns](https://arxiv.org/pdf/2003.02409.pdf), K. Shu et al (2020)
