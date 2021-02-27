@@ -49,6 +49,8 @@ title: Machine Learning
 #### Articles
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
 * [Neural networks and physical systems with emergent collective computational abilities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC346238/pdf/pnas00447-0135.pdf), J. J. Hopfield (1982)
+* [Simple, Distributed, and AcceleratedProbabilistic Programming](https://arxiv.org/pdf/1811.02091.pdf), D. Tran et al (2018)
+* [Machine Theory of Mind](https://arxiv.org/pdf/1802.07740.pdf), N.C. Rabinowitz et al (2018)
 * [Recent Advances in Deep Learning for Object Detection](https://arxiv.org/pdf/1908.03673.pdf), X. Wu (2019)
 * [Online Bayesian Goal Inference forBoundedly-Rational Planning Agents](https://arxiv.org/pdf/2006.07532.pdf), T. Zhi-Xuan et al (2020)
 
