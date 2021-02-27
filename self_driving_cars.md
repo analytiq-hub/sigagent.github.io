@@ -11,11 +11,16 @@ title: Self Driving Cars
 * Engineering Autonomous Vehicle and Robots, by Shaoshan Liu et al, new edition 2020
 * [Creating Autonomous Vehicle Systems](https://innovate.ieee.org/wp-content/uploads/2020/03/MC-CAVS.pdf), by Shaoshan Liu et al, new edition 2020
 
+#### Survey Papers
+* [Autonomous Agents Modelling Other Agents:A Comprehensive Survey and Open Problems](https://arxiv.org/pdf/1709.08071.pdf), S.V. Albrecht(2018)
+* [A Survey of Motion Planning and ControlTechniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf), M. Cap et al (2016)
+* [Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf), C. Badue et al (2019)
+
 #### Papers
 * [A Unifying Formalism for Shortest Path Problems with ExpensiveEdge Evaluations via Lazy Best-First Search over Paths with Edge Selectors](https://arxiv.org/pdf/1603.03490.pdf), C.M. Dellin and S. Srinivasa (2016)
-* [A Survey of Motion Planning and ControlTechniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf), M. Cap et al (2016)
 * [Stochastic Functional Gradient for Motion Planning in Continuous Occupancy Maps](https://arxiv.org/pdf/1703.00194.pdf), G. Francis (2017)
 * [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/pdf/1708.06374.pdf), S. Shalev-Schwartz et al (2018)
+* [Planning, Fast and Slow:A Framework for Adaptive Real-Time Safe Trajectory Planning](https://arxiv.org/pdf/1710.04731.pdf), D. Fridovich-Keil et al (2018)
 * [Combining Neural Networks and Tree Search for Task and MotionPlanning in Challenging  Environments](https://arxiv.org/pdf/1703.07887.pdf), C. Paxton et al (2017)
 * [Lazy Receding Horizon A* forEfficient Path Planning in Graphs with Expensive-to-Evaluate Edges](https://arxiv.org/pdf/1803.04998.pdf), A. Mandalika et al (2018)
 * [Deep Reinforcement Learning in a Handful of Trialsusing Probabilistic Dynamics Models](https://arxiv.org/pdf/1805.12114.pdf), K. Chua et al (2018)
@@ -23,7 +28,6 @@ title: Self Driving Cars
 * [Multiple Futures Prediction](https://arxiv.org/pdf/1911.00997.pdf), Y.C. Tang, R. Salakhutdinov (2019)
 * [Learning to Drive in a Day](https://arxiv.org/pdf/1807.00412.pdf), Alex Kendall et al (2019)
 * [A path planning and path-following control frameworkfor a general 2-trailer with a car-like tractor](https://arxiv.org/pdf/1904.01651.pdf), O. Ljungqvist et al (2019)
-* [Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf), C. Badue et al (2019)
 * [Deep Imitative Models for Flexible Inference, Planning, and Control](https://arxiv.org/pdf/1810.06544v2.pdf), N. Rhinehart et al (2019)
 * [LeTS-Drive: Driving in a Crowd by Learning from Tree Search](https://arxiv.org/pdf/1905.12197.pdf), P. Cai et al (2019)
 * [ML-based Fault Injection for Autonomous Vehicles:A Case for Bayesian Fault Injection](https://arxiv.org/pdf/1907.01051.pdf), S. Jha et al (2019)
