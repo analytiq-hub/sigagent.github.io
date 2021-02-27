@@ -18,6 +18,7 @@ title: Self Driving Cars
 * [Learning to Drive in a Day](https://arxiv.org/pdf/1807.00412.pdf), Alex Kendall et al (2019)
 * [A path planning and path-following control frameworkfor a general 2-trailer with a car-like tractor](https://arxiv.org/pdf/1904.01651.pdf), O. Ljungqvist et al (2019)
 * [Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf), C. Badue et al (2019)
+* [End-to-end Autonomous Driving Perception with Sequential LatentRepresentation Learning](https://arxiv.org/pdf/2003.12464v1.pdf), J. Chen et al (2020)
 * [Autonomous Driving at Intersections:A Critical-Turning-Point Approach for Left Turns](https://arxiv.org/pdf/2003.02409.pdf), K. Shu et al (2020)
 
 #### 2007 Darpa Challenge
