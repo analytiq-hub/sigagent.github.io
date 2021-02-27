@@ -48,7 +48,7 @@ title: Machine Learning
 #### Articles
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
 * [Neural networks and physical systems with emergent collective computational abilities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC346238/pdf/pnas00447-0135.pdf), J. J. Hopfield (1982)
-
+* [Recent Advances in Deep Learning for Object Detection](https://arxiv.org/pdf/1908.03673.pdf), X. Wu (2019)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)

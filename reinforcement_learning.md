@@ -25,7 +25,7 @@ title: Reinforcement Learning
 * [Benchmarking Model-Based Reinforcement Learning](https://arxiv.org/pdf/1907.02057.pdf), T. Wang et al (2019)
 * [OpenSpiel: A Framework for ReinforcementLearning in Games](https://arxiv.org/pdf/1908.09453.pdf), M. Lanctor et al (2020)
 * [How to Train Your Robot with DeepReinforcement Learning – LessonsWe’ve Learned](https://arxiv.org/pdf/2102.02915.pdf), J. Ibarz et al (2021)
-
+* [Social Influence as Intrinsic Motivationfor Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1810.08647.pdf), N. Jaques et al (2019)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
