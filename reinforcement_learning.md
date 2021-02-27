@@ -17,6 +17,7 @@ title: Reinforcement Learning
 * [SuperVize Me: What’s the Difference Between Supervised, Unsupervised, Semi-Supervised and Reinforcement Learning?](https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/) by Isha Salian (2018)
 
 #### Articles
+* [Schema Networks: Zero-shot Transfer with a Generative Causal Model ofIntuitive Physics](https://arxiv.org/pdf/1706.04317.pdf), K. Kansky et al (2017)
 * [Offline Reinforcement Learning: Tutorial, Review,and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf), Sergey Levine et al (2020)
 * [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/pdf/2006.04779.pdf), Aviral Kumar et al (2020)
 * [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](link.springer.com/content/pdf/10.1007/BF00992696.pdf), Ronald J. Williams (1992), describes REINFORCE algorithm
@@ -25,6 +26,9 @@ title: Reinforcement Learning
 * [Benchmarking Model-Based Reinforcement Learning](https://arxiv.org/pdf/1907.02057.pdf), T. Wang et al (2019)
 * [Social Influence as Intrinsic Motivationfor Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1810.08647.pdf), N. Jaques et al (2019)
 * [Worst Cases Policy Gradients](https://arxiv.org/pdf/1911.03618.pdf), Y.C. Tang et al (2019)
+* [An Investigation of Model-Free Planning](https://arxiv.org/pdf/1901.03559.pdf), A. Guez (2019)
+* [Learning to Navigate in Cities Without a Map](https://arxiv.org/pdf/1804.00168.pdf), P.Mirowski et al (2019)
+* [Towards General and Autonomous Learning of CoreSkills: A Case Study in Locomotion](https://arxiv.org/pdf/2008.12228.pdf), R. Hafner et al (2020)
 * [OpenSpiel: A Framework for ReinforcementLearning in Games](https://arxiv.org/pdf/1908.09453.pdf), M. Lanctor et al (2020)
 * [How to Train Your Robot with DeepReinforcement Learning – LessonsWe’ve Learned](https://arxiv.org/pdf/2102.02915.pdf), J. Ibarz et al (2021)
 
