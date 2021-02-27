@@ -8,13 +8,20 @@ title: Reinforcement Learning
   * SLM-Lab [sources](https://github.com/kengz/SLM-Lab), [docs](https://slm-lab.gitbook.io/slm-lab/)
 * [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf), Sutton and Barto (2nd edition, in progress, 2014-2015)
 * [Deep Reinforcement Learning Hands-On](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks/dp/1788834240), Maxim Lapan (2018)
+* [Algorithms of Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html), C. Szepesvári (2015), recommended by David Silver as more mathematical and faster paced than the Sutton and Barto book
 
 #### Videos
 * [Offline Reinforcement Learning](https://www.youtube.com/watch?v=IUAePhU0E7Y) - Sergey Levine, 2020
 * [MIT 6.S091: Introduction to Deep Reinforcement Learning](https://www.youtube.com/watch?v=zR11FLZ-O9M&t=2130s), Lex Fridman (2019)
+* [RL Course by David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver), [youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0) (2015)
+
 
 #### Posts
+* [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html), L. Weng (2018)
 * [SuperVize Me: What’s the Difference Between Supervised, Unsupervised, Semi-Supervised and Reinforcement Learning?](https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/) by Isha Salian (2018)
+
+#### Surveys
+* [Offline Reinforcement Learning: Tutorial, Review,and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf), Sergey Levine et al (2020). Explains how RL is modified for offline learning.
 
 #### Articles
 * [Schema Networks: Zero-shot Transfer with a Generative Causal Model ofIntuitive Physics](https://arxiv.org/pdf/1706.04317.pdf), K. Kansky et al (2017)
