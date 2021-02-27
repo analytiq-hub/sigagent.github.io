@@ -22,6 +22,7 @@ title: Reinforcement Learning
 
 #### Surveys
 * [Offline Reinforcement Learning: Tutorial, Review,and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf), Sergey Levine et al (2020). Explains how RL is modified for offline learning.
+* [How to Train Your Robot with DeepReinforcement Learning – LessonsWe’ve Learned](https://arxiv.org/pdf/2102.02915.pdf), J. Ibarz et al (2021)
 
 #### Articles
 * [Schema Networks: Zero-shot Transfer with a Generative Causal Model ofIntuitive Physics](https://arxiv.org/pdf/1706.04317.pdf), K. Kansky et al (2017)
@@ -39,7 +40,6 @@ title: Reinforcement Learning
 * [Learning to Navigate in Cities Without a Map](https://arxiv.org/pdf/1804.00168.pdf), P.Mirowski et al (2019)
 * [Towards General and Autonomous Learning of CoreSkills: A Case Study in Locomotion](https://arxiv.org/pdf/2008.12228.pdf), R. Hafner et al (2020)
 * [OpenSpiel: A Framework for ReinforcementLearning in Games](https://arxiv.org/pdf/1908.09453.pdf), M. Lanctor et al (2020)
-* [How to Train Your Robot with DeepReinforcement Learning – LessonsWe’ve Learned](https://arxiv.org/pdf/2102.02915.pdf), J. Ibarz et al (2021)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
