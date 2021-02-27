@@ -28,6 +28,7 @@ layout: home
 * [Probabilities and Statistics](probabilities_and_statistics.md)
 * Programming Languages
   * [C++](programming_languages/c++.md)
+* [Reinforcement Learning](reinforcement_learning.md)
 * [Robotics](robotics.md)
 * [Self Driving Cars](self_driving_cars.md)
 * [Computational Topology](computational_topology.md)

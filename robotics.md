@@ -27,5 +27,6 @@ title: Robotics
 #### Links
 * [Machine Learning](machine_learning.md)
 * [Probabilities and Statistics](probabilities_and_statistics.md)
+* [Reinforcement Learning](reinforcement_learning.md)
 * [Robotics](robotics.md)
 * [Self Driving Cars](self_driving_cars.md)
