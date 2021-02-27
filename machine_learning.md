@@ -61,6 +61,7 @@ title: Machine Learning
 * [If MaxEnt RL is the Answer,What is the Question?](https://arxiv.org/pdf/1910.01913.pdf), B. Eysenbach, S. Levine (2019)
 * [MaxEnt RL and Robust Control](https://doc-08-as-apps-viewer.googleusercontent.com/viewer/secure/pdf/34ahbcq9ulq0h0udi9th4nr3h5lev0ld/9g48iv1mo7gpbhpdraapnopsdbl2dq2e/1612976175000/drive/14022114771187177209/ACFrOgDbpLtyid-lrex27XrwS-DMmTd93-9p03pmOcP_NlmQ-opyllXom8eOnEx8LxNAK_doQFt-r12yEwGdyfXs-NBdW-pX2_5xrOfK02InUk1dr8zL67p0rdh5HQWZeNEURFt3T55nUFrMpq4m?print=true&nonce=mvff0all33uvs&user=14022114771187177209&hash=6dmp5m45iogonga1rneen5csmod6ujdq), B. Eysenbach, S. Levine (2020)
 * [If MaxEnt RL is the Answer, What is the Question?](https://arxiv.org/abs/1910.01913), B Eysenbach, S. Levine (2019)
+* [Benchmarking Model-Based Reinforcement Learning](https://arxiv.org/pdf/1907.02057.pdf), T. Wang et al (2019)
 * [MaxEnt RL and Robust Control](https://drive.google.com/file/d/1fENhHpd2PQYRX0Dt2PggeMP9cyTNoR8k/view), B. Eysenbach, S. Levine (2019), [talk](https://slideslive.com/38941344/maxent-rl-and-robust-control?ref=account-folder-62083-folders)
 * [How to Train Your Robot with DeepReinforcement Learning – LessonsWe’ve Learned](https://arxiv.org/pdf/2102.02915.pdf), J. Ibarz et al (2021)
 
