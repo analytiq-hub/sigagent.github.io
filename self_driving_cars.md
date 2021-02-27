@@ -12,6 +12,7 @@ title: Self Driving Cars
 * [Creating Autonomous Vehicle Systems](https://innovate.ieee.org/wp-content/uploads/2020/03/MC-CAVS.pdf), by Shaoshan Liu et al, new edition 2020
 
 #### Papers
+* [A Unifying Formalism for Shortest Path Problems with ExpensiveEdge Evaluations via Lazy Best-First Search over Paths with Edge Selectors](https://arxiv.org/pdf/1603.03490.pdf), C.M. Dellin and S. Srinivasa (2016)
 * [A Survey of Motion Planning and ControlTechniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf), M. Cap et al (2016)
 * [Stochastic Functional Gradient for Motion Planning in Continuous Occupancy Maps](https://arxiv.org/pdf/1703.00194.pdf), G. Francis (2017)
 * [Combining Neural Networks and Tree Search for Task and MotionPlanning in Challenging  Environments](https://arxiv.org/pdf/1703.07887.pdf), C. Paxton et al (2017)
