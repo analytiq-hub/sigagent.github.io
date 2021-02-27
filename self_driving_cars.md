@@ -25,6 +25,7 @@ title: Self Driving Cars
 
 #### Blogs
 * [Pixelopolis, a self-driving car demo from Google I/O built with TF-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html) (July 13, 2020)
+* Alex Kendall: [Now is the Time for Reinforcement Learning on Real Robots](https://alexgkendall.com/reinforcement_learning/now_is_the_time_for_reinforcement_learning_on_real_robots/)
 
 #### Other
 * [Machine Learning](machine_learning.md)
