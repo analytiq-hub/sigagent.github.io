@@ -6,7 +6,7 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-[Top](/machine_learning/rl/introduction_to_reinforcement_learning/) \| [Notations](/machine_learning/rl/notations/) \| [Bibliography](/machine_learning/rl/bibliography/)
+[Top](/machine_learning/introduction_to_reinforcement_learning/) \| [Notations](/machine_learning/notations/) \| [Bibliography](/machine_learning/bibliography/)
 
 ## Probability sample, Expected value
 
