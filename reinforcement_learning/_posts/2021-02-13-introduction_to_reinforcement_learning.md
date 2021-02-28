@@ -6,7 +6,7 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-[Top](/machine_learning/introduction_to_reinforcement_learning/) \| [Notations](/machine_learning/notations/) \| [Bibliography](/machine_learning/bibliography/)
+[Top](/reinforcement_learning/introduction_to_reinforcement_learning/) \| [Notations](/reinforcement_learning/notations/) \| [Bibliography](/reinforcement_learning/bibliography/)
 
 ## What is Reinforcement Learning?
 In machine learning, there are three types of learning tasks:
@@ -208,7 +208,7 @@ $$
 
 The larger the discount factor $$\gamma$$, the larger the effect of later steps. The smaller the discount factor, the bigger weight is given to actions taken for the immediate next steps.
 
-In what follows, we assume that rewards are bounded by $$-M \le r_t \le M$$ for all $$t$$, and $$\gamma \lt 1$$. When the number of steps is infinite, then $$r(\overline{\tau})$$ is [uniformly convergent](/machine_learning/math_appendix#convergence-for-return-of-a-trajectory) with respect to all choices of infinite trajectories:
+In what follows, we assume that rewards are bounded by $$-M \le r_t \le M$$ for all $$t$$, and $$\gamma \lt 1$$. When the number of steps is infinite, then $$r(\overline{\tau})$$ is [uniformly convergent](/reinforcement_learning/math_appendix#convergence-for-return-of-a-trajectory) with respect to all choices of infinite trajectories:
 
 $$
 \begin{equation}
@@ -470,5 +470,5 @@ Model-based algorithms, effectively, simulate the environment. If the estimation
 - AphaGo, AlphaZero use a combination of supervised learning, RL model, value and policy based algorithms, and self-play.
 
 ---
-<a name="equivalent-mdp">1</a>: Each MDP $$(\mathcal{S}, \mathcal{A}, p(s_0), p(s',r \vert s, a))$$ is equivalent to an MDP $$(\mathcal{S}, \mathcal{A}, p(s_0), p(s', \rho \vert s, a))$$ where $$\rho$$ is induced by a function also denoted $$\rho \, : \, \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}$$ as $$p(\rho \vert s, a) = \delta_{\rho(s, a)}$$ where $$\delta_{\rho(s, a)}$$ is the Dirac probability with value 1 for $$\rho(s, a)$$ and 0. See [Equivalent Markov Decision Processes](/machine_learning/2021/02/19/equivalent_markov_decision_processes/).
+<a name="equivalent-mdp">1</a>: Each MDP $$(\mathcal{S}, \mathcal{A}, p(s_0), p(s',r \vert s, a))$$ is equivalent to an MDP $$(\mathcal{S}, \mathcal{A}, p(s_0), p(s', \rho \vert s, a))$$ where $$\rho$$ is induced by a function also denoted $$\rho \, : \, \mathcal{S} \times \mathcal{A} \rightarrow \mathbb{R}$$ as $$p(\rho \vert s, a) = \delta_{\rho(s, a)}$$ where $$\delta_{\rho(s, a)}$$ is the Dirac probability with value 1 for $$\rho(s, a)$$ and 0. See [Equivalent Markov Decision Processes](/reinforcement_learning/2021/02/19/equivalent_markov_decision_processes/).
 

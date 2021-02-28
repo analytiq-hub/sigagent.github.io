@@ -6,7 +6,7 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-[Top](/machine_learning/introduction_to_reinforcement_learning/) \| [Notations](/machine_learning/notations/) \| [Bibliography](/machine_learning/bibliography/)
+[Top](/reinforcement_learning/introduction_to_reinforcement_learning/) \| [Notations](/reinforcement_learning/notations/) \| [Bibliography](/reinforcement_learning/bibliography/)
 
 ## Introduction
 The sets of states $$\mathcal{S}$$  and actions $$\mathcal{A}$$ are assumed to be finite.

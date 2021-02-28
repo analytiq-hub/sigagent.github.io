@@ -6,7 +6,7 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-[Top](/machine_learning/introduction_to_reinforcement_learning) \| [Notations](/machine_learning/notations) \| [Bibliography](/machine_learning/bibliography)
+[Top](/reinforcement_learning/introduction_to_reinforcement_learning) \| [Notations](/reinforcement_learning/notations) \| [Bibliography](/reinforcement_learning/bibliography)
 
 ## General Sources
 * [Foundations of Deep Reinforcement Learning](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381), L. Graesser and W. L. Keng (2019). Theory and examples, with implementations using [OpenAI Gym](https://gym.openai.com/), pytorch, tensorflow, and [SLM Lab](https://github.com/andrei-radulescu-banu/SLM-Lab)
