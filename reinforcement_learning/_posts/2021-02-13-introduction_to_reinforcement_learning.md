@@ -388,7 +388,7 @@ We attempt to construct a maximal policy as follows: for all states $$s$$ and ac
 $$
 \begin{align}
 Q_\star(s, a) & = \underset{\pi}{sup} \, Q_\pi(s, a) \\
-V_\star(s) & = \underset{a \in \mathcal{A}}{sup} \, V_\star(s) \\
+V_\star(s) & = \underset{\pi}{sup} \, V_\pi(s) \\
 \end{align}
 $$
 
