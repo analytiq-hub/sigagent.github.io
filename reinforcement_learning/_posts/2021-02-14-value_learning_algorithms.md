@@ -11,17 +11,21 @@ author:
 ## Introduction
 The sets of states $$\mathcal{S}$$  and actions $$\mathcal{A}$$ are assumed to be finite.
 
-The idea in value learning algorithms is to find an optimal policy $$\pi$$ that maximize the action-value function $$Q_\pi(s, a)$$ for all states $$s$$ and actions $$a$$. Using the Bellman expectation equation
+[We have defined](/reinforcement_learning/2021/02/13/introduction_to_reinforcement_learning/) a partial order on policies, saying that $$\pi_1 \le \pi_2$$ when $$Q_{\pi_1}(s, a) \le Q_{\pi_2}(s, a)$$ for all states $$s$$ and actions $$a$$. From the Bellman expectation equations
 
 $$
 \begin{align}
-V_\pi(s) & = \int_a  \pi(a \vert s) Q_\pi(s, a) da
-\end{align}
+V_\pi(s) & = \int_a  \pi(a \vert s) Q_\pi(s, a) da \\
 $$
+Q_\pi(s, a) & = r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds' \\
+\end{align}
 
-we notice that $$Q_\pi(s, a)$$ is maximal for all $$s, a$$ if and only if $$V_\pi(s)$$ is maximal for all $$s$$.
+notice that if $$\pi_1 \le \pi_2$$ if and only if $$V_{\pi_1}(s) \le V_{\pi_2}(s)$$ for all states $$s$$. 
 
-The process by which we find the optimal policy is iterative. We start with policy $$\pi_1$$, estimate $$Q_{\pi_1}(s, a)$$ or $$V_{\pi_1}(s)$$ for some or all states $$s$$ and actions $$a$$, find a more optimal policy $$\pi_2 \gt \pi_1$$, and iterate the process
+
+The idea in value learning algorithms is to find an optimal policy $$\pi$$ that maximizes the action-value function $$Q_\pi(s, a)$$ for all states $$s$$ and actions $$a$$ - or, if that is not possible, for example because the sets of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$, while still finite, are very large, at least find a policy $$\pi$$ that approximates sufficiently well the optimal policy.
+
+The process is iterative. We start with policy $$\pi_1$$, estimate $$Q_{\pi_1}(s, a)$$ or $$V_{\pi_1}(s)$$ for some or all states $$s$$ and actions $$a$$, find a more optimal policy $$\pi_2 \gt \pi_1$$, and iterate the process
 $$
 \begin{align}
 \pi_1 \lt \pi_2 \lt ... \lt \pi_n
