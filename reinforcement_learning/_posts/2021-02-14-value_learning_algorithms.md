@@ -16,9 +16,9 @@ The sets of states $$\mathcal{S}$$  and actions $$\mathcal{A}$$ are assumed to b
 $$
 \begin{align}
 V_\pi(s) & = \int_a  \pi(a \vert s) Q_\pi(s, a) da \\
-$$
 Q_\pi(s, a) & = r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds' \\
 \end{align}
+$$
 
 notice that if $$\pi_1 \le \pi_2$$ if and only if $$V_{\pi_1}(s) \le V_{\pi_2}(s)$$ for all states $$s$$. 
 
