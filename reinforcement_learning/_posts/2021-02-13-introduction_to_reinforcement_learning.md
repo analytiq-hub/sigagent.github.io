@@ -394,7 +394,7 @@ $$
 
 Since rewards are bounded, $$Q_\pi(s, a), V_\pi(a)$$ are bounded for all $$a, \pi$$, and $$Q_\star(s, a), V_\star(a)$$ are well defined. 
 
-Pick $$\epsilon > 0$$. Define  to be a policy that picks for $$s$$ an action that maximizes $$Q_{\pi_{\epsilon\star}}(s, a)$$ (if such an action exists, e.g. if $$\mathcal{A}$$ is finite), or at least comes within $$\epsilon$$ of $$Q_\star(s, a)$$ uniformly for all states $$s$$ and actions $$a$$ (in which case we denote the policy $$\pi_{\star}$$):
+Pick $$\epsilon > 0$$. Define $$\pi_{\epsilon\star}$$ to be a policy that picks for $$s$$ an action that maximizes $$Q_{\pi_{\epsilon\star}}(s, a)$$ (if such an action exists, e.g. if $$\mathcal{A}$$ is finite), or at least comes within $$\epsilon$$ of $$Q_\star(s, a)$$ uniformly for all states $$s$$ and actions $$a$$ (in which case we denote the policy $$\pi_{\star}$$):
 
 $$
 \begin{align}
