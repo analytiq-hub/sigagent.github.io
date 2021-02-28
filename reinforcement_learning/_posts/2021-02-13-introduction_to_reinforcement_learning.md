@@ -394,15 +394,15 @@ $$
 
 Since rewards are bounded, $$Q_\pi(s, a), V_\pi(a)$$ are uniformly bounded for all $$a, \pi$$, and $$Q_\star(s, a), V_\star(a)$$ are well defined as $$sup$$ of a bounded set of real numbers.
 
-Pick $$\epsilon > 0$$. Define $$\pi_{\epsilon\star s}$$ to be a policy that satisfies
+Pick $$\epsilon > 0$$. Define a policy $$\pi_{\epsilon\star}$$ that picks, in any state $$s$$, an action $$a$$ such that there exists a policy $$\pi_{\epsilon, s, a}$$ satisfying
 
 $$
 \begin{align}
-V_{\pi_{\epsilon\star s}}(s) \gt V_\star(s) - \epsilon
+Q_{\pi_{\epsilon,s,a}}(s, a) \gt Q_\star(s, a) - \epsilon
 \end{align}
 $$
 
-And define a policy $$\pi_{\epsilon\star}$$ that acts like $$\pi_{\epsilon\star s}$$ in state $$s$$, for all states $$s$$. This is possible to do because policies can be defined state by state.
+This is possible to do because policies can be defined state by state.
 
 
 Then, using the Bellman equation
