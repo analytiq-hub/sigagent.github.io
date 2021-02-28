@@ -392,9 +392,9 @@ V_\star(s) & = \underset{a \in \mathcal{A}}{sup} \, V_\star(s) \\
 \end{align}
 $$
 
-Since rewards are bounded, $$Q_\pi(s, a), V_\pi(a)$$ are bounded for all $$a, \pi$$, and $$Q_\star(s, a), V_\star(a)$$ are well defined. 
+Since rewards are bounded, $$Q_\pi(s, a), V_\pi(a)$$ are bounded for all $$a, \pi$$, and $$Q_\star(s, a), V_\star(a)$$ are well defined as $$sup$$ of a bounded set of real numbers.
 
-Pick $$\epsilon > 0$$. Define $$\pi_{\epsilon\star}$$ to be a policy that picks for $$s$$ an action that maximizes $$Q_{\pi_{\epsilon\star}}(s, a)$$ (if such an action exists, e.g. if $$\mathcal{A}$$ is finite), or at least comes within $$\epsilon$$ of $$Q_\star(s, a)$$ uniformly for all states $$s$$ and actions $$a$$ (in which case we denote the policy $$\pi_{\star}$$):
+Pick $$\epsilon > 0$$. Define $$\pi_{\epsilon\star}$$ to be a policy that, for all states $$s$$ and actions $$a$$, satisfies
 
 $$
 \begin{align}
@@ -402,7 +402,7 @@ Q_{\pi_{\epsilon\star}}(s, a) \gt Q_\star(s, a) - \epsilon
 \end{align}
 $$
 
-Then, using the Bellman equation
+This is possible to do because policies can be defined picking an action state by state. Then, using the Bellman equation
 $$
 \begin{align}
 V_\pi(s) = \int_a \pi(a \vert s) Q_\pi(s, a) da
