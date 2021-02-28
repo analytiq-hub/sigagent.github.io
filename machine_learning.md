@@ -31,6 +31,7 @@ title: Machine Learning
 * [Stephen Wolfram: Cellular Automata, Computation, and Physics](https://www.youtube.com/watch?v=ez773teNFYA&t=2539s), Lex Fridman Podcast #89 (2020)
 * [David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning](https://www.youtube.com/watch?v=uPUEq8d73JI&t=2499s), Lex Fridman Podcast #86 (2020)
 * [Ian Goodfellow: Generative Adversarial Networks (GANs)](https://www.youtube.com/watch?v=Z6rxFNMGdn0&t=979s), Lex Fridman Podcast #19 (2019)
+* [Yann LeCun: Deep Learning, ConvNets, and Self-Supervised Learning](https://www.youtube.com/watch?v=SGSOCuByo24), Lex Firdman Podcast #36
 * MIT 6.5191 [Introduction to Deep Learning](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) (2020)
   * [Convolutional Neural Networks](https://www.youtube.com/watch?v=iaSUYvmCekI), Alexander Amini
   * [Deep Generative Modeling](https://www.youtube.com/watch?v=rZufA635dq4&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4), Ava Soleimany
