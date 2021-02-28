@@ -23,7 +23,7 @@ $$
 we notice that $$\pi_1 \le \pi_2$$ if and only if $$V_{\pi_1}(s) \le V_{\pi_2}(s)$$ for all states $$s$$. 
 
 
-The idea in value learning algorithms is to find an optimal policy $$\pi$$ that maximizes the action-value function $$Q_\pi(s, a)$$ for all states $$s$$ and actions $$a$$ - or, if that is not possible, for example because the sets of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$, while still finite, are very large, at least find a policy $$\pi$$ that approximates sufficiently well the optimal policy.
+The idea in value learning algorithms is to look for an optimal policy $$\pi$$ that maximizes the action-value function $$Q_\pi(s, a)$$ for all states $$s$$ and actions $$a$$.
 
 The process is iterative. We start with policy $$\pi_1$$, estimate $$Q_{\pi_1}(s, a)$$ or $$V_{\pi_1}(s)$$ for some or all states $$s$$ and actions $$a$$, find a more optimal policy $$\pi_2 \gt \pi_1$$, and iterate the process
 $$
