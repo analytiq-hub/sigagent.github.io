@@ -11,7 +11,7 @@ author:
 ## Introduction
 The sets of states $$\mathcal{S}$$  and actions $$\mathcal{A}$$ are assumed to be finite.
 
-[We have defined](/reinforcement_learning/2021/02/13/introduction_to_reinforcement_learning/) a partial order on policies, saying that $$\pi_1 \le \pi_2$$ when $$Q_{\pi_1}(s, a) \le Q_{\pi_2}(s, a)$$ for all states $$s$$ and actions $$a$$. From the Bellman expectation equations
+[We have defined](/reinforcement_learning/2021/02/13/introduction_to_reinforcement_learning/#optimal_policies) a partial order on policies, saying that $$\pi_1 \le \pi_2$$ when $$Q_{\pi_1}(s, a) \le Q_{\pi_2}(s, a)$$ for all states $$s$$ and actions $$a$$. From the Bellman expectation equations
 
 $$
 \begin{align}
