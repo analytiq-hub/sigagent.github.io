@@ -392,7 +392,7 @@ V_\star(s) & = \underset{a \in \mathcal{A}}{sup} \, V_\star(s) \\
 \end{align}
 $$
 
-Since rewards are bounded, $$Q_\pi(s, a), V_\pi(a)$$ are bounded for all $$a, \pi$$, and $$Q_\star(s, a), V_\star(a)$$ are well defined as $$sup$$ of a bounded set of real numbers.
+Since rewards are bounded, $$Q_\pi(s, a), V_\pi(a)$$ are uniformly bounded for all $$a, \pi$$, and $$Q_\star(s, a), V_\star(a)$$ are well defined as $$sup$$ of a bounded set of real numbers.
 
 Pick $$\epsilon > 0$$. Define $$\pi_{\epsilon\star}$$ to be a policy that, for all states $$s$$ and actions $$a$$, satisfies
 
