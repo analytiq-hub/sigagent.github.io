@@ -20,7 +20,7 @@ Q_\pi(s, a) & = r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds' \\
 \end{align}
 $$
 
-notice that if $$\pi_1 \le \pi_2$$ if and only if $$V_{\pi_1}(s) \le V_{\pi_2}(s)$$ for all states $$s$$. 
+we notice that $$\pi_1 \le \pi_2$$ if and only if $$V_{\pi_1}(s) \le V_{\pi_2}(s)$$ for all states $$s$$. 
 
 
 The idea in value learning algorithms is to find an optimal policy $$\pi$$ that maximizes the action-value function $$Q_\pi(s, a)$$ for all states $$s$$ and actions $$a$$ - or, if that is not possible, for example because the sets of states $$\mathcal{S}$$ and actions $$\mathcal{A}$$, while still finite, are very large, at least find a policy $$\pi$$ that approximates sufficiently well the optimal policy.
