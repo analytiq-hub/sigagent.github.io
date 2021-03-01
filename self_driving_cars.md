@@ -20,6 +20,7 @@ title: Self Driving Cars
 #### Papers
 * [A Unifying Formalism for Shortest Path Problems with ExpensiveEdge Evaluations via Lazy Best-First Search over Paths with Edge Selectors](https://arxiv.org/pdf/1603.03490.pdf), C.M. Dellin and S. Srinivasa (2016)
 * [Stochastic Functional Gradient for Motion Planning in Continuous Occupancy Maps](https://arxiv.org/pdf/1703.00194.pdf), G. Francis (2017)
+* [Autonomous Parking for Articulated Vehicles](https://www.researchgate.net/publication/321748359_Autonomous_Parking_for_Articulated_Vehicles), R. Kusumakatar et al (2017)
 * [On a Formal Model of Safe and Scalable Self-driving Cars](https://arxiv.org/pdf/1708.06374.pdf), S. Shalev-Schwartz et al (2018)
 * [Planning, Fast and Slow:A Framework for Adaptive Real-Time Safe Trajectory Planning](https://arxiv.org/pdf/1710.04731.pdf), D. Fridovich-Keil et al (2018)
 * [Combining Neural Networks and Tree Search for Task and MotionPlanning in Challenging  Environments](https://arxiv.org/pdf/1703.07887.pdf), C. Paxton et al (2017)
