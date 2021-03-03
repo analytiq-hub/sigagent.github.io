@@ -5,6 +5,7 @@ title: Robotics
 #### Books
 * [Probabilistic Robots](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf), by Thurn, Burgard, Fox (2005)
 * [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction-dp-1449323898/dp/1449323898/ref=mt_other?_encoding=UTF8&me=&qid=), by Quigley, Gerkey, Smart (2015)
+* [Handbook of Discrete and Computational Geometry](https://www.amazon.com/Handbook-Discrete-Computational-Mathematics-Applications/dp/1498711391), 3rd edition, [online version](http://www.csun.edu/~ctoth/Handbook/HDCG3.html), C.D Toth et al (2017). This is a survey of the latest in computational geometry, including collision checking algorithms.
 
 #### Videos
 * Matlab videos: [Understanding Kalman Filters](https://www.youtube.com/watch?v=mwn8xhgNpFY) (7 videos)
