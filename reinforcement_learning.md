@@ -38,6 +38,7 @@ title: Reinforcement Learning
 * [Worst Cases Policy Gradients](https://arxiv.org/pdf/1911.03618.pdf), Y.C. Tang et al (2019)
 * [An Investigation of Model-Free Planning](https://arxiv.org/pdf/1901.03559.pdf), A. Guez (2019)
 * [Learning to Navigate in Cities Without a Map](https://arxiv.org/pdf/1804.00168.pdf), P.Mirowski et al (2019)
+* [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf), D. Hafer et al (2019)
 * [Towards General and Autonomous Learning of CoreSkills: A Case Study in Locomotion](https://arxiv.org/pdf/2008.12228.pdf), R. Hafner et al (2020)
 * [OpenSpiel: A Framework for ReinforcementLearning in Games](https://arxiv.org/pdf/1908.09453.pdf), M. Lanctor et al (2020)
 * [Mastering Atari With Discrete World Models](https://arxiv.org/pdf/2010.02193.pdf), D. Hafner et al (2020)
