@@ -382,9 +382,22 @@ Backup diagram for action-state-action Bellman equation
 
 The goal of RL is to find policies $$\pi$$ that maximize the objective $$J_\pi$$.
 
-Policies have a partial order $$\pi_1 \le \pi_2$$ defined by $$Q_{\pi_1}(s, a) \le Q_{\pi_2}(s, a)$$ for all states $$s$$ and actions $$a$$. From the Bellman expectation equations:
-- $$\pi_1 \le \pi_2$$ if and only if $$V_{\pi_1}(s) \le V_{\pi_2}(s)$$ for all states $$s$$
-- If $$\pi_1 \le \pi_2$$, then $$J_{\pi_1} \le J_{\pi_2}$$.
+Policies have a partial order $$\pi_1 \le \pi_2$$ defined by $$V_{\pi_1}(s) \le V_{\pi_2}(s)$$ for all states $$s$$ and actions $$a$$. From the Bellman expectation equation
+$$
+\begin{align}
+Q_\pi(s, a) & = r(s, a) + \gamma \int_{s'} p(s' \vert s, a) V_\pi(s') ds' 
+\end{align}
+$$
+we see that $$\pi_1 \le \pi_2$$ implies $$Q_{\pi_1}(s, a) \le Q_{\pi_2}(s, a)$$ for all states $$s$$ and actions $$a$$. (But if $$Q_{\pi_1}(s, a) \le Q_{\pi_2}(s, a)$$ for all states $$s$$ and actions $$a$$, it is not necessarily true that $$\pi_1 \le \pi_2$$, because the Bellman equation that expresses $$V$$ in terms of $$Q$$ involves not just the model $$p$$ but also the policies $$\pi_1, \pi_2$$). And from the Bellman expectation equation
+$$
+\begin{align}
+J_\pi & = \int_{s} V_\pi(s) p(s) ds 
+\end{align}
+$$
+we see that $$\pi_1 \le \pi_2$$ implies $$J_{\pi_1} \le J_{\pi_2}$$.
+
+
+TO DO: Fix this below:
 
 We attempt to construct a maximal policy as follows: for all states $$s$$ and actions $$a$$, define
 $$
