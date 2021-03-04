@@ -40,6 +40,7 @@ title: Reinforcement Learning
 * [Learning to Navigate in Cities Without a Map](https://arxiv.org/pdf/1804.00168.pdf), P.Mirowski et al (2019)
 * [Towards General and Autonomous Learning of CoreSkills: A Case Study in Locomotion](https://arxiv.org/pdf/2008.12228.pdf), R. Hafner et al (2020)
 * [OpenSpiel: A Framework for ReinforcementLearning in Games](https://arxiv.org/pdf/1908.09453.pdf), M. Lanctor et al (2020)
+* [Mastering Atari With Discrete World Models](https://arxiv.org/pdf/2010.02193.pdf), D. Hafner et al (2020)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
