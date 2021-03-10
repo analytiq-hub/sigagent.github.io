@@ -27,6 +27,7 @@ title: Reinforcement Learning
 * [How to Train Your Robot with DeepReinforcement Learning – LessonsWe’ve Learned](https://arxiv.org/pdf/2102.02915.pdf), J. Ibarz et al (2021)
 
 #### Articles
+* [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476), J. Ho, S. Ermon (2016)
 * [Schema Networks: Zero-shot Transfer with a Generative Causal Model ofIntuitive Physics](https://arxiv.org/pdf/1706.04317.pdf), K. Kansky et al (2017)
 * [Value Prediction Network](https://arxiv.org/pdf/1707.03497.pdf), J. Oh et al (2017)
 * [Offline Reinforcement Learning: Tutorial, Review,and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf), Sergey Levine et al (2020)
