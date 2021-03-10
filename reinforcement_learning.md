@@ -1,3 +1,5 @@
+
+
 ---
 layout: page
 mathjax: true
@@ -33,6 +35,7 @@ title: Reinforcement Learning
 * [If MaxEnt RL is the Answer,What is the Question?](https://arxiv.org/pdf/1910.01913.pdf), B. Eysenbach, S. Levine (2019)
 * [MaxEnt RL and Robust Control](https://doc-08-as-apps-viewer.googleusercontent.com/viewer/secure/pdf/34ahbcq9ulq0h0udi9th4nr3h5lev0ld/9g48iv1mo7gpbhpdraapnopsdbl2dq2e/1612976175000/drive/14022114771187177209/ACFrOgDbpLtyid-lrex27XrwS-DMmTd93-9p03pmOcP_NlmQ-opyllXom8eOnEx8LxNAK_doQFt-r12yEwGdyfXs-NBdW-pX2_5xrOfK02InUk1dr8zL67p0rdh5HQWZeNEURFt3T55nUFrMpq4m?print=true&nonce=mvff0all33uvs&user=14022114771187177209&hash=6dmp5m45iogonga1rneen5csmod6ujdq), B. Eysenbach, S. Levine (2020)
 * [Multi-Agent Generative Adversarial Imitation Learning](https://arxiv.org/pdf/1807.09936.pdf), J. Song et al (2018)
+* [Learning Robust Rewards with Adversarial Inverse Reinforcement Learning](https://arxiv.org/abs/1710.11248), J. Fu et al (2018)
 * [Benchmarking Model-Based Reinforcement Learning](https://arxiv.org/pdf/1907.02057.pdf), T. Wang et al (2019)
 * [Social Influence as Intrinsic Motivationfor Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1810.08647.pdf), N. Jaques et al (2019)
 * [Worst Cases Policy Gradients](https://arxiv.org/pdf/1911.03618.pdf), Y.C. Tang et al (2019)
