@@ -43,10 +43,11 @@ title: Self Driving Cars
 #### 2007 Darpa Challenge
 * [Towards Fully Autonomous Driving: Systems and  Algorithms](https://cs.stanford.edu/people/teichman/papers/iv2011.pdf), by Jesse Levinson et. al. (2011 IEEE Intelligent Vehicles Symposium (IV), Baden-Baden, Germany, June 5-9, 2011). Describes the Stanford entry at the 2007 DARPA Challenge, and follow-up work.
 
-#### Interviews
+#### Interviews, Presentations
 * [Dmitri Dolgov (Waymo CTO): Waymo and the Future of Self-Driving Cars](https://www.youtube.com/watch?v=P6prRXkI5HM&t=3632s) (Dec 2020)
 * [George Hotz: Hacking the Simulation & Learning to Drive with Neural Nets](https://www.youtube.com/watch?v=_L3gNaAVjQ4) (Oct 2020)
 * Sertac Karaman (MIT, Optimus Ride) on <a href="https://www.youtube.com/watch?v=0fLSf3NO0-s&list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq">Motion Planning in a Complex World</a> (2018). Describes the MIT entry at the 2007 DARPA Challenge.
+* Deva Ramanan (CMU / Argo AI) :[Embodied Perception In the Wild](https://www.youtube.com/watch?v=3AqUBNtuku0) (June 2020)
 
 #### Blogs
 * [Pixelopolis, a self-driving car demo from Google I/O built with TF-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html) (July 13, 2020)
