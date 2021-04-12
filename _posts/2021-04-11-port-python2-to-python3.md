@@ -25,6 +25,7 @@ Thus, our solution is to clone the ROS python2 source code to a different folder
 Easy steps:
 * Run 2to3 tool to convert ROS sources to python3
   * This breaks python2 compatibility
+  * However, since we are working on a clone of the python2 sources, this is not an issue
 * Hand-fix what 2to3 tool did not get right
 * Change shell magic to ```#!/usr/bin/env python3``
 
@@ -40,12 +41,12 @@ More difficult:
 
 If your operating system distribution supports both python2 and python3, e.g. as is the case on Ubuntu 18, you must change the shell magic in python scripts.
 
-### For Python2: ```#!/usr/bin/env python```
-### For Python3: ```#!/usr/bin/env python3```
+* For Python2: ```#!/usr/bin/env python```
+* For Python3: ```#!/usr/bin/env python3```
 
 ## print statements
 
 For Python2, print statements don't necessarily use parents. For python3, parents are required.
 
-### For Python2: ```print “hello world”```
-### For Python3: ```print(“hello world”)```
+* For Python2: ```print “hello world”```
+* For Python3: ```print(“hello world”)```
