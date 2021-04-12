@@ -56,7 +56,7 @@ For Python2, print statements don't necessarily use parents. For python3, parent
 ## Binary vs unicode
 
 * In Python2, ```strings``` are ```bytes```, and ```unicode``` is a separate type
-* In Python3, ```strings``` are ```unicode``, and ```bytes``` is a separate type
+* In Python3, ```strings``` are ```unicode```, and ```bytes``` is a separate type
 
 To convert from ```string``` to ```bytes``` in python3, use ```str.encode("utf-8")```. To convert in the other direction, from ```bytes``` to ```string```, use ```bytes.decode("utf-8")```.
 
