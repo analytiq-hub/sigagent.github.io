@@ -14,7 +14,7 @@ Recently, I worked to port [Apollo ROS](https://github.com/ApolloAuto/apollo-pla
 
 The specific python version we are porting from is 2.7, and the target python version is 3.6. Our operating system distribution is Ubuntu 18.
 
-# Python3 port strategy
+# Porting strategy
 
 If the project is small, or is already close to working on python3, you have the option to port it to python3 in-place, supporting both python2 and python3 in the same source code.
 
@@ -22,22 +22,24 @@ In our case, however, the amount of changes is considerable, and we have to make
 
 Thus, our solution is to clone the ROS python2 source code to a different folder, and work on the copy. We have to also ensure that the python2 & python3 code gets installed in different locations, so it may be run in parallel.
 
-# What are the Python3 porting steps?
+# What are the porting steps?
 
-Easy steps:
+The easy steps:
 * Run 2to3 tool to convert ROS sources to python3
   * This breaks python2 compatibility
   * However, since we are working on a clone of the python2 sources, this is not an issue
 * Hand-fix what 2to3 tool did not get right
 * Change shell magic to ```#!/usr/bin/env python3``
 
-More difficult:
+More difficult steps:
 * Hand-fix all bytes <-> unicode conversions
 * Port all C modules to use python3 C interface
 * Tricky fixes had to be implemented in specific code modules that deal with message passing and threading (specifically, the Apollo ROS eprosima transport, boost threads, and swig wrappers)
   * Python3 links against different pthread implementation, and this necessitated changes in the thread exit mechanism in some of the C-based Apollo ROS modules
 
-# What are the differences between Python2 and Python3?
+# Differences between Python2 and Python3
+
+What are the differences between the two versions of Python?
 
 ## Linux shell script shebang
 
