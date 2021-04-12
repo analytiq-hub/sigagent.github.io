@@ -108,7 +108,7 @@ from .base import BaseThing
 
 ## String formatting
 
-In Python 2&3, we can use %-formatting, for example:
+In Python 2&3, we can use ```%-formatting```, for example:
 ```
 name = “World”
 "Hello, %s" % name
@@ -122,4 +122,37 @@ This formatting has two problems:
 
 ```
 “Hello %s %s %s %s %s” % “World”, “from”, “out”, “of”, “space”
+```
+
+We can also use ```str.format()``` in Python 2&3:
+```
+name = “World”
+"Hello, {}".format(name)
+```
+* We don't need to know the type of ```name```!
+* It is easy to keep track of positions:
+```
+“Hello {world=w} {from=f} out of space”.format(w=”world”, f=”from”)
+```
+
+There is a problem though with ```str.format()```: It does not support lazy evaluation. In the example below, when the log level is higher than debug, we don't want the string format to be evaluated:
+```
+logger.debug(“Hello, {}”.format(name)) # Evaluated even if log level > debug
+logger.debug(“Hello %s”, name) # Lazy evaluation - better!
+```
+
+Thus, for performance reasons, sometimes ```%-formatting``` is better than ```str.format()```.
+
+Python3 offers a new way to do formatting: ```f-strings```
+```
+name = “World”
+f"Hello, {name}"
+```
+
+This format is preferred, because it keeps it easy to track argument positions, and it supports lazy evaluation:
+```
+name=”World”
+logger.debug(“Hello, {}”.format(name)) # Immediate evaluation
+logger.debug(“Hello %s”, name) # Lazy evaluation 
+logger.debug(f“Hello {name}”) # Lazy evaluation
 ```
