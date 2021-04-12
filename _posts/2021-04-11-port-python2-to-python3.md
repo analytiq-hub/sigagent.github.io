@@ -106,9 +106,9 @@ from base import BaseThing
 from .base import BaseThing
 ```
 
-## String formatting
+## String %-formatting
 
-In Python 2&3, we can use ```%-formatting```, for example:
+In Python 2&3, we can use string ```%-formatting```, for example:
 ```
 name = “World”
 "Hello, %s" % name
@@ -123,6 +123,8 @@ This formatting has two problems:
 ```
 “Hello %s %s %s %s %s” % “World”, “from”, “out”, “of”, “space”
 ```
+
+## String str.format()
 
 We can also use ```str.format()``` in Python 2&3:
 ```
@@ -142,6 +144,8 @@ logger.debug(“Hello %s”, name) # Lazy evaluation - better!
 ```
 
 Thus, for performance reasons, sometimes ```%-formatting``` is better than ```str.format()```.
+
+## f-string formatting
 
 Python3 offers a new way to do formatting: ```f-strings```
 ```
