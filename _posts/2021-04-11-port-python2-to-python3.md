@@ -33,3 +33,19 @@ More difficult:
 * Port all C modules to use python3 C interface
 * Tricky fixes had to be implemented in specific code modules that deal with message passing and threading (specifically, the Apollo ROS eprosima transport, boost threads, and swig wrappers)
   * Python3 links against different pthread implementation, and this necessitated changes in the thread exit mechanism in some of the C-based Apollo ROS modules
+
+# What are the differences between Python2 and Python3?
+
+## Shell magic
+
+If your operating system distribution supports both python2 and python3, e.g. as is the case on Ubuntu 18, you must change the shell magic in python scripts.
+
+### For Python2: ```#!/usr/bin/env python```
+### For Python3: ```#!/usr/bin/env python3```
+
+## print statements
+
+For Python2, print statements don't necessarily use parents. For python3, parents are required.
+
+### For Python2: ```print “hello world”```
+### For Python3: ```print(“hello world”)```
