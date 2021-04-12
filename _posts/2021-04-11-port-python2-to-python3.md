@@ -61,7 +61,7 @@ For Python2, print statements don't necessarily use parents. For python3, parent
 To convert from ```string``` to ```bytes``` in python3, use ```str.encode("utf-8")```. To convert in the other direction, from ```bytes``` to ```string```, use ```bytes.decode("utf-8")```.
 
 <p align="center">
-<img width="350" height="250" src="/src/diagrams/string_bytes.png"><br>
+<img width="350" height="200" src="/src/diagrams/string_bytes.png"><br>
 Convert between string and bytes in Python3
 </p>
 
