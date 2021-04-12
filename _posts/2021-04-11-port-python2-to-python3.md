@@ -37,9 +37,9 @@ More difficult:
 
 # What are the differences between Python2 and Python3?
 
-## Shell magic
+## Linux shell script shebang
 
-If your operating system distribution supports both python2 and python3, e.g. as is the case on Ubuntu 18, you must change the shell magic in python scripts.
+If your operating system distribution supports both python2 and python3, e.g. as is the case on Ubuntu 18, you must change the shell shebang in the python scripts.
 
 * For Python2: ```#!/usr/bin/env python```
 * For Python3: ```#!/usr/bin/env python3```
