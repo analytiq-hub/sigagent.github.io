@@ -87,3 +87,21 @@ dict_keys([1, 2, 3])
 [1, 2, 3]
 ```
 
+## Relative imports
+
+* In Python2, relative imports can be implicit.
+* In Python3, no implicit relative imports are allowed within a package.
+
+For example, assume this package file layout:
+
+```
+mypkg
+├── base.py
+└── derived.py
+
+# Python2, in derived.py:
+from base import BaseThing
+
+# Python3, in derived.py:
+from .base import BaseThing
+```
