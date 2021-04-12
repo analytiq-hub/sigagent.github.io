@@ -61,3 +61,22 @@ For Python2, print statements don't necessarily use parents. For python3, parent
 To convert from ```string``` to ```bytes``` in python3, use ```str.encode("utf-8")```. To convert in the other direction, from ```bytes``` to ```string```, use ```bytes.decode("utf-8")```.
 
 The only good way to determine, in the code, which python3 strings beed to be decoded from bytes, is to run the code. Thus, good code coverage tools are essential for the porting work.
+
+## Dictionary keys
+
+* In Python2, dictionary ```keys()``` are a list:
+```
+>>> newdict = {1:0, 2:0, 3:0}
+>>> newdict.keys()
+[1, 2, 3]
+```
+
+* In Python3, dictionary ```keys()``` are not a list. You have to cast them to a list, to obtain backward compatible code:
+```
+>>> newdict = {1:0, 2:0, 3:0}
+>>> newdict.keys()
+dict_keys([1, 2, 3])
+>>> list(newdict.keys())
+[1, 2, 3]
+```
+
