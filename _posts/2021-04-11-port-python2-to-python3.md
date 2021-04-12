@@ -105,3 +105,21 @@ from base import BaseThing
 # Python3, in derived.py:
 from .base import BaseThing
 ```
+
+## String formatting
+
+In Python 2&3, we can use %-formatting, for example:
+```
+name = “World”
+"Hello, %s" % name
+```
+This formatting has two problems:
+* We need to know type of name argument, and use
+  * %s for string
+  * %d for int
+  * %f for float, etc
+* It's hard to keep track of positions:
+
+```
+“Hello %s %s %s %s %s” % “World”, “from”, “out”, “of”, “space”
+```
