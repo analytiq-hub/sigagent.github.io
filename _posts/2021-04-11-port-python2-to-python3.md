@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Porting Python2 code to Python3"
+title: "Porting Python2.7 code to Python3.6"
 categories: python
 author:
 - Andrei Radulescu-Banu
@@ -11,6 +11,8 @@ Python2 has been [obsoleted on Jan 1, 2020](https://www.python.org/doc/sunset-py
 Large code projects that were implemented on top of python2 need to be ported to python3. But how can that be done?
 
 Recently, I worked to port [Apollo ROS](https://github.com/ApolloAuto/apollo-platform/tree/1.5.5), a self driving middleware stack, from Python2 to Python3. This post shows the steps.
+
+The specific python version we are porting from is 2.7, and the target python version is 3.6. Our operating system distribution is Ubuntu 18.
 
 # Python3 port strategy
 
@@ -50,3 +52,10 @@ For Python2, print statements don't necessarily use parents. For python3, parent
 
 * For Python2: ```print “hello world”```
 * For Python3: ```print(“hello world”)```
+
+## Binary vs unicode
+
+* In Python2, ```strings``` are ```bytes```, and ```unicode``` is a separate type
+* In Python3, ```strings``` are ```unicode``, and ```bytes``` is a separate type
+
+To convert from ```string``` to ```bytes``` in python3, use ```str.encode("utf-8")```. To convert in the other direction, from ```bytes``` to ```string```, use ```bytes.decode("utf-8")```.
