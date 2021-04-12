@@ -46,7 +46,7 @@ If your operating system distribution supports both python2 and python3, e.g. as
 * For Python2: ```#!/usr/bin/env python```
 * For Python3: ```#!/usr/bin/env python3```
 
-## print statements
+## Print statements
 
 For Python2, print statements don't necessarily use parents. For python3, parents are required.
 
@@ -59,6 +59,11 @@ For Python2, print statements don't necessarily use parents. For python3, parent
 * In Python3, ```strings``` are ```unicode``, and ```bytes``` is a separate type
 
 To convert from ```string``` to ```bytes``` in python3, use ```str.encode("utf-8")```. To convert in the other direction, from ```bytes``` to ```string```, use ```bytes.decode("utf-8")```.
+
+<p align="center">
+<img width="350" height="250" src="/src/diagrams/string_bytes.png"><br>
+Convert between string and bytes in Python3
+</p>
 
 The only good way to determine, in the code, which python3 strings beed to be decoded from bytes, is to run the code. Thus, good code coverage tools are essential for the porting work.
 
