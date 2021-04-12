@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to port Python2 code to Python3"
+title: "Porting Python2 code to Python3"
 categories: python
 author:
 - Andrei Radulescu-Banu
@@ -11,3 +11,25 @@ Python2 has been [obsoleted on Jan 1, 2020](https://www.python.org/doc/sunset-py
 Large code projects that were implemented on top of python2 need to be ported to python3. But how can that be done?
 
 Recently, I worked to port [Apollo ROS](https://github.com/ApolloAuto/apollo-platform/tree/1.5.5), a self driving middleware stack, from Python2 to Python3. This post shows the steps.
+
+# Python3 port strategy
+
+If the project is small, or is already close to working on python3, you have the option to port it to python3 in-place, supporting both python2 and python3 in the same source code.
+
+In our case, however, the amount of changes is considerable, and we have to make changes incremetally, maintaining backward compatibility with python2 until we're ready to swicth over to python3.
+
+Thus, our solution is to clone the ROS python2 source code to a different folder, and work on the copy. We have to also ensure that the python2 & python3 code gets installed in different locations, so it may be run in parallel.
+
+# What are the Python3 porting steps?
+
+Easy steps:
+* Run 2to3 tool to convert ROS sources to python3
+  * This breaks python2 compatibility
+* Hand-fix what 2to3 tool did not get right
+* Change shell magic to ```#!/usr/bin/env python3``
+
+More difficult:
+* Hand-fix all bytes <-> unicode conversions
+* Port all C modules to use python3 C interface
+* Tricky fixes had to be implemented in specific code modules that deal with message passing and threading (specifically, the Apollo ROS eprosima transport, boost threads, and swig wrappers)
+  * Python3 links against different pthread implementation, and this necessitated changes in the thread exit mechanism in some of the C-based Apollo ROS modules
