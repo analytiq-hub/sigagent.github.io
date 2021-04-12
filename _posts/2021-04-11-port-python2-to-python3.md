@@ -37,9 +37,9 @@ More difficult steps:
 * Tricky fixes had to be implemented in specific code modules that deal with message passing and threading (specifically, the Apollo ROS eprosima transport, boost threads, and swig wrappers)
   * Python3 links against different pthread implementation, and this necessitated changes in the thread exit mechanism in some of the C-based Apollo ROS modules
 
-# Differences between Python2 and Python3
+# What are differences between Python versions?
 
-What are the differences between the two versions of Python?
+We're listing here the most important differences between Python versions 2 and 3.
 
 ## Linux shell script shebang
 
