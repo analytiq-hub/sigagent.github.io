@@ -15,6 +15,7 @@ title: Robotics
 #### ROSCON Talks
 * Ingo Lütkebohle: [Determinism in ROS - or when things break /sometimes / and how to fix it](https://www.ros.org/news/2018/09/roscon-2017-determinism-in-ros---or-when-things-break-sometimes-and-how-to-fix-it----ingo-lutkebohle.html) (2017)
 * Nicolo Valigi, Cruise: [Lessons learned building a self-driving car on ROS](https://vimeo.com/292693011) (2018), [slides](https://roscon.ros.org/2018/presentations/ROSCon2018_LessonsLearnedSelfDriving.pdf)
+* [Doing Real-Time with ROS 2: Capabilities and Challenges](https://www.apex.ai/roscon2019)
 See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 
 #### Classes
