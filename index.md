@@ -16,6 +16,7 @@ layout: home
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cognitive Science](cognitive_science.md)
 * [Computation Theory](computation_theory.md)
+* [Crypto Currencies](crypto_currencies.md)
 * [Dev/Ops](devops.md)
 * [Embedded Programming](embedded_programming.md)
 * [Entrepreneurship](entrepreneurship.md)

@@ -33,6 +33,7 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 * [ROS on DDS](https://design.ros2.org/articles/ros_on_dds.html). This article was written at a time before decisions were made to use DDS and RTPS as the underlying communication standards for ROS 2. 
 
 #### Links
+* [Crypto Currencies](crypto_currencies.md)
 * [Machine Learning](machine_learning.md)
 * [Probabilities and Statistics](probabilities_and_statistics.md)
 * [Reinforcement Learning](reinforcement_learning.md)
