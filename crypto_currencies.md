@@ -10,7 +10,7 @@ title: Crypto Currencies
 * Robert Breedlove: [Philosophy of Bitcoin from First Principles](https://www.youtube.com/watch?v=HrehEWYj16s), Lex Fridman Podcast #176 (Apr 2021)
 
 #### Articles
-* London Review of Books: [The Satoshi Affair](https://www.lrb.co.uk/the-paper/v38/n13/andrew-o-hagan/the-satoshi-affair), by Andrew O’Hagan (June 2016)
+* London Review of Books: [The Satoshi Affair](https://www.lrb.co.uk/the-paper/v38/n13/andrew-o-hagan/the-satoshi-affair), by Andrew O’Hagan (June 2016), and [Why Craig Wright failed to prove he invented Bitcoin](https://www.lrb.co.uk/podcasts-and-videos/videos/lrb-films-interviews/why-craig-wright-failed-to-prove-he-invented-bitcoin)
 
 #### Links
 * [Crypto Currencies](crypto_currencies.md)
