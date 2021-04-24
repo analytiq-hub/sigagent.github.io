@@ -11,6 +11,7 @@ title: Robotics
 * Matlab videos: [Understanding Kalman Filters](https://www.youtube.com/watch?v=mwn8xhgNpFY) (7 videos)
 *  Michel van Biezen: The Kalman Filter [ilectureonline.com](http://www.ilectureonline.com/lectures/subject/SPECIAL%20TOPICS/26/190), [youtube](https://www.youtube.com/watch?v=CaCcOwJPytQ) (55 videos)
 * Frank Dellaert: [Factor Graphs for Fast and Scalable 3D Reconstruction and Mapping](http://videolectures.net/bmvc2013_dellaert_factor_graphs/) (2013), and [tutorial](https://gtsam.org/tutorials/intro.html)
+* Gavin Suddrey: [ROS1 vs ROS2](https://www.youtube.com/watch?v=g2QLZcItSMM), June 2020
 
 #### ROSCON Talks
 * Ingo Lütkebohle: [Determinism in ROS - or when things break /sometimes / and how to fix it](https://www.ros.org/news/2018/09/roscon-2017-determinism-in-ros---or-when-things-break-sometimes-and-how-to-fix-it----ingo-lutkebohle.html) (2017)
