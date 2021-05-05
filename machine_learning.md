@@ -55,6 +55,7 @@ title: Machine Learning
 * [Machine Theory of Mind](https://arxiv.org/pdf/1802.07740.pdf), N.C. Rabinowitz et al (2018)
 * [Recent Advances in Deep Learning for Object Detection](https://arxiv.org/pdf/1908.03673.pdf), X. Wu (2019)
 * [Online Bayesian Goal Inference forBoundedly-Rational Planning Agents](https://arxiv.org/pdf/2006.07532.pdf), T. Zhi-Xuan et al (2020)
+* [Open Problems in Cooperative AI](https://arxiv.org/pdf/2012.08630.pdf), A. Dafoe et al (2020)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
