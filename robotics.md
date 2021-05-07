@@ -31,7 +31,8 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 
 ### Middleware
 * [CyberRT vs ROS Differences](https://github.com/ApolloAuto/apollo/issues/6529)
-* [ROS on DDS](https://design.ros2.org/articles/ros_on_dds.html). This article was written at a time before decisions were made to use DDS and RTPS as the underlying communication standards for ROS 2. 
+* [ROS on DDS](https://design.ros2.org/articles/ros_on_dds.html). This article was written at a time before decisions were made to use DDS and RTPS as the underlying communication standards for ROS 2.
+* [EEROS](https://wiki.eeros.org)
 
 #### Links
 * [Crypto Currencies](crypto_currencies.md)
