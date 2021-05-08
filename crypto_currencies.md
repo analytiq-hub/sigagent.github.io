@@ -11,6 +11,7 @@ title: Crypto Currencies
 
 #### Articles
 * London Review of Books: [The Satoshi Affair](https://www.lrb.co.uk/the-paper/v38/n13/andrew-o-hagan/the-satoshi-affair), by Andrew O’Hagan (June 2016), and [Why Craig Wright failed to prove he invented Bitcoin](https://www.lrb.co.uk/podcasts-and-videos/videos/lrb-films-interviews/why-craig-wright-failed-to-prove-he-invented-bitcoin)
+* Pete Rizzo: [The last days of Satoshi: What happened when Bitcoin's creator disappeared](https://bitcoinmagazine.com/technical/what-happened-when-bitcoin-creator-satoshi-nakamoto-disappeared), Apr 2021
 
 #### Links
 * [Crypto Currencies](crypto_currencies.md)
