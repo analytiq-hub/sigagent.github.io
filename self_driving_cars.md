@@ -49,6 +49,7 @@ title: Self Driving Cars
 * [George Hotz: Hacking the Simulation & Learning to Drive with Neural Nets](https://www.youtube.com/watch?v=_L3gNaAVjQ4) (Oct 2020)
 * Sertac Karaman (MIT, Optimus Ride) on <a href="https://www.youtube.com/watch?v=0fLSf3NO0-s&list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq">Motion Planning in a Complex World</a> (2018). Describes the MIT entry at the 2007 DARPA Challenge.
 * Deva Ramanan (CMU / Argo AI) [Embodied Perception In the Wild](https://www.youtube.com/watch?v=3AqUBNtuku0) (June 2020)
+* Chris Urmson: [Delivering the benefits of self-driving technology: Aurora's approach to development](https://www.youtube.com/watch?v=_zz2k6XOidI) (Apr 2021)
 
 #### Blogs
 * [Pixelopolis, a self-driving car demo from Google I/O built with TF-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html) (July 13, 2020)
