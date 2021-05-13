@@ -28,6 +28,7 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 #### Papers
 * [Benchmarking Model-Based Reinforcement Learning](https://arxiv.org/pdf/1907.02057.pdf), by Wang et al (2019)
 * [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114), by Chua et al (2018)
+* [A Survey of Behavior Trees in Robotics and AI](https://arxiv.org/abs/2005.05842), M. Iovino et al (May 13, 2020)
 
 ### Middleware
 * [CyberRT vs ROS Differences](https://github.com/ApolloAuto/apollo/issues/6529)
