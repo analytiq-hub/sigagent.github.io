@@ -37,6 +37,7 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 ### Behavior Trees
 * [Behavior Trees in Robotics and AI: An Introduction](https://arxiv.org/abs/1709.00084), v4, by M. Colledanchise, P. Ögren (2020)
 * [A Survey of Behavior Trees in Robotics and AI](https://arxiv.org/abs/2005.05842), M. Iovino et al (May 13, 2020)
+* ROSDevCon19: [Finite State Machines are dead. Long life Behavior Trees](https://www.youtube.com/watch?v=22KUPktetzg), Davide Faconti (Jul 2019)
 
 #### Links
 * [Crypto Currencies](crypto_currencies.md)
