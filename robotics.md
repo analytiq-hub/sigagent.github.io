@@ -28,12 +28,15 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 #### Papers
 * [Benchmarking Model-Based Reinforcement Learning](https://arxiv.org/pdf/1907.02057.pdf), by Wang et al (2019)
 * [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114), by Chua et al (2018)
-* [A Survey of Behavior Trees in Robotics and AI](https://arxiv.org/abs/2005.05842), M. Iovino et al (May 13, 2020)
 
 ### Middleware
 * [CyberRT vs ROS Differences](https://github.com/ApolloAuto/apollo/issues/6529)
 * [ROS on DDS](https://design.ros2.org/articles/ros_on_dds.html). This article was written at a time before decisions were made to use DDS and RTPS as the underlying communication standards for ROS 2.
 * [EEROS](https://wiki.eeros.org)
+
+### Behavior Trees
+* [Behavior Trees in Robotics and AI: An Introduction](https://arxiv.org/abs/1709.00084), v4, by M. Colledanchise, P. Ögren (2020)
+* [A Survey of Behavior Trees in Robotics and AI](https://arxiv.org/abs/2005.05842), M. Iovino et al (May 13, 2020)
 
 #### Links
 * [Crypto Currencies](crypto_currencies.md)
