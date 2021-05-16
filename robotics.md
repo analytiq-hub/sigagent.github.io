@@ -37,7 +37,7 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 
 ### ROS modules
 * [rosserial](http://wiki.ros.org/rosserial) wraps standard ROS serialized messages and multiplexes topics and services over a character device such as a serial port or network socket
-* [rosbridge](http://wiki.ros.org/rosbridge_suite) provides a JSON API to ROS functionality for non-ROS programs.
+* [rosbridge](http://wiki.ros.org/rosbridge_suite) provides a JSON API to ROS functionality for non-ROS programs. 
 
 ### Behavior Trees
 * [Behavior Trees in Robotics and AI: An Introduction](https://arxiv.org/abs/1709.00084), v4, by M. Colledanchise, P. Ögren (2020)
