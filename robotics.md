@@ -19,6 +19,7 @@ title: Robotics
 * Ingo Lütkebohle: [ROS 2 Tracing Performance Analysis and Execution Monitoring](https://www.youtube.com/watch?v=PEBJU7bFf-o)
 * [Doing Real-Time with ROS 2: Capabilities and Challenges](https://www.apex.ai/roscon2019)
 See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
+* ROS World 2020: [Navigation2: The Next Generation Navigation System](https://vimeo.com/showcase/7812155/video/480604621), using Behavior Tree navigation
 
 #### Classes
 * Udacity: [Artificial Intelligence for Robotics](https://classroom.udacity.com/courses/cs271), [youtube videos](https://www.youtube.com/watch?v=Uqt_pRbR8rI)
