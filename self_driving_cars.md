@@ -50,7 +50,7 @@ title: Self Driving Cars
 * [George Hotz: Hacking the Simulation & Learning to Drive with Neural Nets](https://www.youtube.com/watch?v=_L3gNaAVjQ4) (Oct 2020)
 * Sertac Karaman (MIT, Optimus Ride) on <a href="https://www.youtube.com/watch?v=0fLSf3NO0-s&list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq">Motion Planning in a Complex World</a> (2018). Describes the MIT entry at the 2007 DARPA Challenge.
 * Deva Ramanan (CMU / Argo AI) [Embodied Perception In the Wild](https://www.youtube.com/watch?v=3AqUBNtuku0) (June 2020)
-* ROS World 2020: [Autoware Parallel Session](https://vimeo.com/showcase/7812155/video/480450941)
+* ROS World 2020: [Autoware Parallel Session](https://vimeo.com/showcase/7812155/video/480450941). Documentation: [Autoware.Auto](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/index.html)
 * Chris Urmson: [Delivering the benefits of self-driving technology: Aurora's approach to development](https://www.youtube.com/watch?v=_zz2k6XOidI) (Apr 2021)
 
 #### Blogs
