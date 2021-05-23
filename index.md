@@ -20,6 +20,7 @@ layout: home
 * [Dev/Ops](devops.md)
 * [Embedded Programming](embedded_programming.md)
 * [Entrepreneurship](entrepreneurship.md)
+* [Game Theory](game_theory.md)
 * [Machine Learning](machine_learning.md)
 * [Market Trading](market_trading.md)
 * [Math (Abstract Nonsense)](math_abstract_nonsense.md)
