@@ -8,6 +8,7 @@ title: Game Theory
 
 #### Books
 * P Dutta: [Strategies and Games: Theory and Practice](https://www.amazon.com/Strategies-Games-Practice-Prajit-Dutta/dp/0262041693)
+* J. Watson: [Strategy: An Introduction to Game Theory](https://www.amazon.com/Strategy-Introduction-Game-Theory-Third/dp/0393918386/ref=sr_1_1?dchild=1&keywords=joel+watson&qid=1621732661&s=books&sr=1-1)
 
 #### Other
 * [Machine Learning](machine_learning.md)
