@@ -29,6 +29,7 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 #### Papers
 * [Benchmarking Model-Based Reinforcement Learning](https://arxiv.org/pdf/1907.02057.pdf), by Wang et al (2019)
 * [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114), by Chua et al (2018)
+* [Inferring Human Intent from Video by Sampling Hierarchical Plans](https://web.cs.ucla.edu/~sholtzen/assets/IROS_2016_camera.pdf), S. Holtzen, Y. Zhao et al (2016)
 
 ### Middleware
 * [CyberRT vs ROS Differences](https://github.com/ApolloAuto/apollo/issues/6529)
