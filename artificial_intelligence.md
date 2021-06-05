@@ -5,6 +5,7 @@ title: Artificial Intelligence
 ### Links
 * [Eliezer Yudkowsky](https://www.yudkowsky.net/)
 * [Hutter Prize ](https://en.wikipedia.org/wiki/Hutter_Prize)
+* [Why AI is Harder Than We Think](https://arxiv.org/pdf/2104.12871.pdf)
 
 #### Other
 * [Cognitive Science](cognitive_science.md)
