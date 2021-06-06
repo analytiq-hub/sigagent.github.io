@@ -51,6 +51,8 @@ title: Machine Learning
 #### Articles
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
 * [Neural networks and physical systems with emergent collective computational abilities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC346238/pdf/pnas00447-0135.pdf), J. J. Hopfield (1982)
+* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf), C. Finn, P. Abbeel, S. Levine (2017)
+  * Deep Learning Explainer: [Toward Efficient Learning: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://www.youtube.com/watch?v=tGTNplKgt6Q) (2020)
 * [Simple, Distributed, and AcceleratedProbabilistic Programming](https://arxiv.org/pdf/1811.02091.pdf), D. Tran et al (2018)
 * [Machine Theory of Mind](https://arxiv.org/pdf/1802.07740.pdf), N.C. Rabinowitz et al (2018)
 * [Recent Advances in Deep Learning for Object Detection](https://arxiv.org/pdf/1908.03673.pdf), X. Wu (2019)
