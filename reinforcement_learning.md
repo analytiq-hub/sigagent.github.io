@@ -23,6 +23,7 @@ title: Reinforcement Learning
 * [SuperVize Me: What’s the Difference Between Supervised, Unsupervised, Semi-Supervised and Reinforcement Learning?](https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/) by Isha Salian (2018)
 
 #### Surveys
+* [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/pdf/1708.05866.pdf), K. Arulkumaran et al (2017)
 * [Offline Reinforcement Learning: Tutorial, Review,and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf), Sergey Levine et al (2020). Explains how RL is modified for offline learning.
 * [How to Train Your Robot with DeepReinforcement Learning – LessonsWe’ve Learned](https://arxiv.org/pdf/2102.02915.pdf), J. Ibarz et al (2021)
 
