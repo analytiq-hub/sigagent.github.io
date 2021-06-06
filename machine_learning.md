@@ -54,6 +54,7 @@ title: Machine Learning
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf), C. Finn, P. Abbeel, S. Levine (2017)
   * S. Khodadadeh: [Model Agnostic Meta Learning](https://www.youtube.com/watch?v=wT45v8sIMDM) (2018)
   * Deep Learning Explainer: [Toward Efficient Learning: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://www.youtube.com/watch?v=tGTNplKgt6Q) (2020)
+* [Meta-Learning with Implicit Gradients](https://arxiv.org/pdf/1909.04630.pdf), A. Rajeswaran et al (2019), [video](https://www.youtube.com/watch?v=u5BkO8XMS2I)
 * [Simple, Distributed, and AcceleratedProbabilistic Programming](https://arxiv.org/pdf/1811.02091.pdf), D. Tran et al (2018)
 * [Machine Theory of Mind](https://arxiv.org/pdf/1802.07740.pdf), N.C. Rabinowitz et al (2018)
 * [Recent Advances in Deep Learning for Object Detection](https://arxiv.org/pdf/1908.03673.pdf), X. Wu (2019)
