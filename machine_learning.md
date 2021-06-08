@@ -60,6 +60,7 @@ title: Machine Learning
 * [Recent Advances in Deep Learning for Object Detection](https://arxiv.org/pdf/1908.03673.pdf), X. Wu (2019)
 * [Online Bayesian Goal Inference for Boundedly-Rational Planning Agents](https://arxiv.org/pdf/2006.07532.pdf), T. Zhi-Xuan et al (2020)
 * [Open Problems in Cooperative AI](https://arxiv.org/pdf/2012.08630.pdf), A. Dafoe et al (2020)
+* [Rethinking the maturity of artificial intelligence in safety-critical settings](http://hal.pratt.duke.edu/sites/hal.pratt.duke.edu/files/u36/reality%20check%20final_compressed.pdf), M.L. Cummings, 2019
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
