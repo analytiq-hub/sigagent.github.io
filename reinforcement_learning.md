@@ -49,6 +49,10 @@ title: Reinforcement Learning
 * [OpenSpiel: A Framework for ReinforcementLearning in Games](https://arxiv.org/pdf/1908.09453.pdf), M. Lanctor et al (2020)
 * [Mastering Atari With Discrete World Models](https://arxiv.org/pdf/2010.02193.pdf), D. Hafner et al (2020)
 
+#### Libraries
+* [PFRL](https://github.com/pfnet/pfrl)
+* [ChainerRL](https://github.com/chainer/chainerrl)
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cognitive Science](cognitive_science.md)
