@@ -29,6 +29,8 @@ title: Self Driving Cars
 * [Lazy Receding Horizon A* forEfficient Path Planning in Graphs with Expensive-to-Evaluate Edges](https://arxiv.org/pdf/1803.04998.pdf), A. Mandalika et al (2018)
 * [Deep Reinforcement Learning in a Handful of Trialsusing Probabilistic Dynamics Models](https://arxiv.org/pdf/1805.12114.pdf), K. Chua et al (2018)
 * [Probabilistically Safe Robot Planning with Confidence-Based Human Predictions](https://arxiv.org/abs/1806.00109), J.F. Fisac et al (2018)
+* [End-to-end Driving via Conditional Imitation Learning](https://arxiv.org/pdf/1710.02410.pdf), Codevilla et al (2018)
+* [On Offline Evaluation of Vision-based Driving Models](https://arxiv.org/pdf/1809.04843.pdf), Codevilla et al (2018)
 * [Multiple Futures Prediction](https://arxiv.org/pdf/1911.00997.pdf), Y.C. Tang, R. Salakhutdinov (2019)
 * [Learning to Drive in a Day](https://arxiv.org/pdf/1807.00412.pdf), Alex Kendall et al (2019)
 * [A path planning and path-following control frameworkfor a general 2-trailer with a car-like tractor](https://arxiv.org/pdf/1904.01651.pdf), O. Ljungqvist et al (2019)
