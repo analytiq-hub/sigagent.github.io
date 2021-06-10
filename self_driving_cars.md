@@ -63,6 +63,9 @@ title: Self Driving Cars
 * [Pixelopolis, a self-driving car demo from Google I/O built with TF-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html) (July 13, 2020)
 * Alex Kendall: [Now is the Time for Reinforcement Learning on Real Robots](https://alexgkendall.com/reinforcement_learning/now_is_the_time_for_reinforcement_learning_on_real_robots/)
 
+#### Libraries
+* [COiLTRAiNE: Conditional Imitation Learning Training Framework](https://github.com/felipecode/coiltraine)
+
 #### Other
 * [Machine Learning](machine_learning.md)
 * [Probabilities and Statistics](probabilities_and_statistics.md)
