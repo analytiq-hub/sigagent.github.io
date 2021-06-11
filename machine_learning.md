@@ -12,6 +12,7 @@ title: Machine Learning
 * [Bio-Inspired Artificial Intelligence: Theories, Methods, and Technologies](https://www.amazon.com/Bio-Inspired-Artificial-Intelligence-Technologies-Intelligent/dp/0262062712), D. Floreano, C. Mattiussi (2008)
 * [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/), I. Goodfellow, Y. Bengio, A. Courville (2016)
 * [The Mechanics ofn-Player Differentiable Games](https://arxiv.org/pdf/1802.05642.pdf), D. Balduzzi et al (2018)
+* [Deep Learning Systems: Algorithms, Compilers, and Processors for Large-Scale Production](https://deeplearningsystems.ai/), Andres Rodriguez (2020)
 
 #### Videos
 * 3Blue1Brown Series
