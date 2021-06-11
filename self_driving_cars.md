@@ -45,6 +45,7 @@ title: Self Driving Cars
 * [Autonomous Driving at Intersections:A Critical-Turning-Point Approach for Left Turns](https://arxiv.org/pdf/2003.02409.pdf), K. Shu et al (2020)
 * [LiRaNet: End-to-End Trajectory Prediction usingSpatio-Temporal Radar Fusion](https://arxiv.org/pdf/2010.00731.pdf), M. Shah et al (2020)
 * [Towards Streaming Image Understanding](https://arxiv.org/pdf/2005.10420v1.pdf), M. Li, Y.-X. Wang, D. Ramanan (2020)
+* [Action-based Representation Learning forAutonomous Driving](https://arxiv.org/pdf/2008.09417.pdf), Y. Xiao et al (2020)
 
 #### 2007 Darpa Challenge
 * [Towards Fully Autonomous Driving: Systems and  Algorithms](https://cs.stanford.edu/people/teichman/papers/iv2011.pdf), by Jesse Levinson et. al. (2011 IEEE Intelligent Vehicles Symposium (IV), Baden-Baden, Germany, June 5-9, 2011). Describes the Stanford entry at the 2007 DARPA Challenge, and follow-up work.
