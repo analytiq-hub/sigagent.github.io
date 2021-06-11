@@ -49,6 +49,7 @@ title: Machine Learning
 * [OpenAI Baselines](https://github.com/openai/baselines/), a set of high-quality implementations of reinforcement learning algorithms
 * [ConvnetJS](https://cs.stanford.edu/people/karpathy/convnetjs/) demo: [Toy 2d classification with 2-layer neural network](https://cs.stanford.edu/people/karpathy/convnetjs//demo/classify2d.html), A. Karpathy
 * [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/) (2017)
+  * [Evolving Michelangelo Model Representation for Flexibility at Scale](https://eng.uber.com/michelangelo-machine-learning-model-representation/) (2019)
 
 #### Articles
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
