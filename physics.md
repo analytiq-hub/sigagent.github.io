@@ -1,0 +1,17 @@
+---
+layout: page
+mathjax: true
+title: Physics
+---
+#### Videos
+* Sean Carroll: [The biggest ideas in the universe](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
+
+#### Other
+* [Artificial Intelligence](artificial_intelligence.md)
+* [Cognitive Science](cognitive_science.md)
+* [Computation Theory](computation_theory.md)
+* [Meta Learning](meta_learning.md)
+* [Probabilities and Statistics](probabilities_and_statistics.md)
+* [Robotics](robotics.md)
+* [Self Driving Cars](self_driving_cars.md)
+* [Computational Topology](computational_topology.md)

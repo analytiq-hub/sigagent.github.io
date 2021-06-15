@@ -28,6 +28,7 @@ layout: home
 * [Network Tools](network_tools.md)
 * [Open Source](open_source.md)
 * [Other](other.md)
+* [Physics](physics.md)
 * [Probabilities and Statistics](probabilities_and_statistics.md)
 * Programming Languages
   * [C++](programming_languages/c++.md)
