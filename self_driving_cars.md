@@ -48,7 +48,7 @@ title: Self Driving Cars
 * [Autonomous Driving at Intersections:A Critical-Turning-Point Approach for Left Turns](https://arxiv.org/pdf/2003.02409.pdf), K. Shu et al (2020)
 * [LiRaNet: End-to-End Trajectory Prediction using Spatio-Temporal Radar Fusion](https://arxiv.org/pdf/2010.00731.pdf), M. Shah et al (2020)
 * [Towards Streaming Image Understanding](https://arxiv.org/pdf/2005.10420v1.pdf), M. Li, Y.-X. Wang, D. Ramanan (2020)
-* [Action-based Representation Learning for Autonomous Driving](https://arxiv.org/pdf/2008.09417.pdf), Y. Xiao et al (2020)
+* [Action-based Representation Learning for Autonomous Driving](https://arxiv.org/pdf/2008.09417.pdf), Y. Xiao et al (2020), [code](https://www.codevilla.info/post/action-based-representation-learning-for-autonomous-driving)
 
 #### 2007 Darpa Challenge
 * [Towards Fully Autonomous Driving: Systems and  Algorithms](https://cs.stanford.edu/people/teichman/papers/iv2011.pdf), by Jesse Levinson et. al. (2011 IEEE Intelligent Vehicles Symposium (IV), Baden-Baden, Germany, June 5-9, 2011). Describes the Stanford entry at the 2007 DARPA Challenge, and follow-up work.
@@ -69,6 +69,9 @@ title: Self Driving Cars
 #### Blogs
 * [Pixelopolis, a self-driving car demo from Google I/O built with TF-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html) (July 13, 2020)
 * Alex Kendall: [Now is the Time for Reinforcement Learning on Real Robots](https://alexgkendall.com/reinforcement_learning/now_is_the_time_for_reinforcement_learning_on_real_robots/)
+
+#### People
+* [Felipe Codevilla](https://www.codevilla.info/)
 
 #### Libraries
 * [COiLTRAiNE: Conditional Imitation Learning Training Framework](https://github.com/felipecode/coiltraine)
