@@ -19,6 +19,13 @@ title: Self Driving Cars
 * [A Survey of Motion Planning and ControlTechniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf), M. Cap et al (2016)
 * [Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf), C. Badue et al (2019)
 
+#### Papers - Immitation Learning
+* [End-to-end Driving via Conditional Imitation Learning](https://arxiv.org/pdf/1710.02410.pdf), Codevilla et al (2018). [Code](https://github.com/carla-simulator/imitation-learning)
+* [On Offline Evaluation of Vision-based Driving Models](https://arxiv.org/pdf/1809.04843.pdf), Codevilla et al (2018)
+* [Deep Imitative Models for Flexible Inference, Planning, and Control](https://arxiv.org/pdf/1810.06544v2.pdf), N. Rhinehart et al (2019)
+* [End-to-end Autonomous Driving Perception with Sequential LatentRepresentation Learning](https://arxiv.org/pdf/2003.12464v1.pdf), J. Chen et al (2020)
+* [Urban Driving with Conditional Imitation Learning](https://ml4ad.github.io/files/papers/Urban%20Driving%20With%20Conditional%20Imitation%20Learning.pdf), J. Hawke et al (2019). Also see [https://wayve.ai/](https://wayve.ai/)
+
 #### Papers
 * [A Unifying Formalism for Shortest Path Problems with ExpensiveEdge Evaluations via Lazy Best-First Search over Paths with Edge Selectors](https://arxiv.org/pdf/1603.03490.pdf), C.M. Dellin and S. Srinivasa (2016)
 * [Stochastic Functional Gradient for Motion Planning in Continuous Occupancy Maps](https://arxiv.org/pdf/1703.00194.pdf), G. Francis (2017)
@@ -29,23 +36,18 @@ title: Self Driving Cars
 * [Lazy Receding Horizon A* forEfficient Path Planning in Graphs with Expensive-to-Evaluate Edges](https://arxiv.org/pdf/1803.04998.pdf), A. Mandalika et al (2018)
 * [Deep Reinforcement Learning in a Handful of Trialsusing Probabilistic Dynamics Models](https://arxiv.org/pdf/1805.12114.pdf), K. Chua et al (2018)
 * [Probabilistically Safe Robot Planning with Confidence-Based Human Predictions](https://arxiv.org/abs/1806.00109), J.F. Fisac et al (2018)
-* [End-to-end Driving via Conditional Imitation Learning](https://arxiv.org/pdf/1710.02410.pdf), Codevilla et al (2018). [Code](https://github.com/carla-simulator/imitation-learning)
-* [On Offline Evaluation of Vision-based Driving Models](https://arxiv.org/pdf/1809.04843.pdf), Codevilla et al (2018)
 * [Multiple Futures Prediction](https://arxiv.org/pdf/1911.00997.pdf), Y.C. Tang, R. Salakhutdinov (2019)
 * [Learning to Drive in a Day](https://arxiv.org/pdf/1807.00412.pdf), Alex Kendall et al (2019)
 * [A path planning and path-following control frameworkfor a general 2-trailer with a car-like tractor](https://arxiv.org/pdf/1904.01651.pdf), O. Ljungqvist et al (2019)
-* [Deep Imitative Models for Flexible Inference, Planning, and Control](https://arxiv.org/pdf/1810.06544v2.pdf), N. Rhinehart et al (2019)
 * [LeTS-Drive: Driving in a Crowd by Learning from Tree Search](https://arxiv.org/pdf/1905.12197.pdf), P. Cai et al (2019)
 * [ML-based Fault Injection for Autonomous Vehicles:A Case for Bayesian Fault Injection](https://arxiv.org/pdf/1907.01051.pdf), S. Jha et al (2019)
 * [Agent Prioritization for Autonomous Navigation](https://arxiv.org/pdf/1909.08792.pdf), K. Refaat et al (2019)
 * [Scalable End-to-End Autonomous Vehicle Testingvia Rare-event Simulation](https://arxiv.org/pdf/1811.00145.pdf), M. O'Kelley et al (2019)
-* [Urban Driving with Conditional Imitation Learning](https://ml4ad.github.io/files/papers/Urban%20Driving%20With%20Conditional%20Imitation%20Learning.pdf), J. Hawke et al (2019). Also see [https://wayve.ai/](https://wayve.ai/)
 * [VectorNet: Encoding HD Maps and Agent Dynamics fromVectorized Representation](https://arxiv.org/pdf/2005.04259.pdf), J. Gao et al (2020)
-* [End-to-end Autonomous Driving Perception with Sequential LatentRepresentation Learning](https://arxiv.org/pdf/2003.12464v1.pdf), J. Chen et al (2020)
 * [Autonomous Driving at Intersections:A Critical-Turning-Point Approach for Left Turns](https://arxiv.org/pdf/2003.02409.pdf), K. Shu et al (2020)
-* [LiRaNet: End-to-End Trajectory Prediction usingSpatio-Temporal Radar Fusion](https://arxiv.org/pdf/2010.00731.pdf), M. Shah et al (2020)
+* [LiRaNet: End-to-End Trajectory Prediction using Spatio-Temporal Radar Fusion](https://arxiv.org/pdf/2010.00731.pdf), M. Shah et al (2020)
 * [Towards Streaming Image Understanding](https://arxiv.org/pdf/2005.10420v1.pdf), M. Li, Y.-X. Wang, D. Ramanan (2020)
-* [Action-based Representation Learning forAutonomous Driving](https://arxiv.org/pdf/2008.09417.pdf), Y. Xiao et al (2020)
+* [Action-based Representation Learning for Autonomous Driving](https://arxiv.org/pdf/2008.09417.pdf), Y. Xiao et al (2020)
 
 #### 2007 Darpa Challenge
 * [Towards Fully Autonomous Driving: Systems and  Algorithms](https://cs.stanford.edu/people/teichman/papers/iv2011.pdf), by Jesse Levinson et. al. (2011 IEEE Intelligent Vehicles Symposium (IV), Baden-Baden, Germany, June 5-9, 2011). Describes the Stanford entry at the 2007 DARPA Challenge, and follow-up work.
