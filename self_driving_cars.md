@@ -18,6 +18,7 @@ title: Self Driving Cars
 * [Autonomous Agents Modelling Other Agents:A Comprehensive Survey and Open Problems](https://arxiv.org/pdf/1709.08071.pdf), S.V. Albrecht(2018)
 * [A Survey of Motion Planning and ControlTechniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf), M. Cap et al (2016)
 * [Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf), C. Badue et al (2019)
+* [A Survey of Deep Learning Techniques for Autonomous Driving](https://arxiv.org/pdf/1910.07738.pdf), S. Grigorescu et al (2019)
 
 #### Papers - Immitation Learning
 * [End-to-end Driving via Conditional Imitation Learning](https://arxiv.org/pdf/1710.02410.pdf), Codevilla et al (2018). [Code](https://github.com/carla-simulator/imitation-learning)
