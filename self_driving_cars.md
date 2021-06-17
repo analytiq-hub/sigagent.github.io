@@ -25,6 +25,7 @@ title: Self Driving Cars
 * [Deep Imitative Models for Flexible Inference, Planning, and Control](https://arxiv.org/pdf/1810.06544v2.pdf), N. Rhinehart et al (2019)
 * [End-to-end Autonomous Driving Perception with Sequential LatentRepresentation Learning](https://arxiv.org/pdf/2003.12464v1.pdf), J. Chen et al (2020)
 * [Urban Driving with Conditional Imitation Learning](https://ml4ad.github.io/files/papers/Urban%20Driving%20With%20Conditional%20Imitation%20Learning.pdf), J. Hawke et al (2019). Also see [https://wayve.ai/](https://wayve.ai/)
+* [Conditional Imitation Learning for AutonomousDriving: Comparing two approaches](https://www.diva-portal.org/smash/get/diva2:1540120/FULLTEXT01.pdf), Jesper Hagstrom master thesis (2021)
 
 #### Papers
 * [A Unifying Formalism for Shortest Path Problems with ExpensiveEdge Evaluations via Lazy Best-First Search over Paths with Edge Selectors](https://arxiv.org/pdf/1603.03490.pdf), C.M. Dellin and S. Srinivasa (2016)
