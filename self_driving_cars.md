@@ -39,7 +39,7 @@ title: Self Driving Cars
 * [ML-based Fault Injection for Autonomous Vehicles:A Case for Bayesian Fault Injection](https://arxiv.org/pdf/1907.01051.pdf), S. Jha et al (2019)
 * [Agent Prioritization for Autonomous Navigation](https://arxiv.org/pdf/1909.08792.pdf), K. Refaat et al (2019)
 * [Scalable End-to-End Autonomous Vehicle Testingvia Rare-event Simulation](https://arxiv.org/pdf/1811.00145.pdf), M. O'Kelley et al (2019)
-* [Urban Driving with Conditional Imitation Learning](https://ml4ad.github.io/files/papers/Urban%20Driving%20With%20Conditional%20Imitation%20Learning.pdf), J. Hawke et al (1999). Also see [https://wayve.ai/](https://wayve.ai/)
+* [Urban Driving with Conditional Imitation Learning](https://ml4ad.github.io/files/papers/Urban%20Driving%20With%20Conditional%20Imitation%20Learning.pdf), J. Hawke et al (2019). Also see [https://wayve.ai/](https://wayve.ai/)
 * [VectorNet: Encoding HD Maps and Agent Dynamics fromVectorized Representation](https://arxiv.org/pdf/2005.04259.pdf), J. Gao et al (2020)
 * [End-to-end Autonomous Driving Perception with Sequential LatentRepresentation Learning](https://arxiv.org/pdf/2003.12464v1.pdf), J. Chen et al (2020)
 * [Autonomous Driving at Intersections:A Critical-Turning-Point Approach for Left Turns](https://arxiv.org/pdf/2003.02409.pdf), K. Shu et al (2020)
