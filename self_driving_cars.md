@@ -72,7 +72,10 @@ title: Self Driving Cars
 * Alex Kendall: [Now is the Time for Reinforcement Learning on Real Robots](https://alexgkendall.com/reinforcement_learning/now_is_the_time_for_reinforcement_learning_on_real_robots/)
 
 #### Products
-* [Autoware.ai](https://www.autoware.ai/) project, [documentation](https://autoware.readthedocs.io/en/feature-documentation_rtd/)
+* [Autoware.ai](https://www.autoware.ai/) project
+  * [Source code](https://github.com/Autoware-AI)
+  * [Documentation](https://autoware.readthedocs.io/en/feature-documentation_rtd/)
+   * [Open Source Integrated Planner for Autonomous Navigation in Highly Dynamic Environments](https://www.fujipress.jp/jrm/rb/robot002900040668/), H. Darweesh et al (2017)
 
 #### People
 * [Felipe Codevilla](https://www.codevilla.info/)
