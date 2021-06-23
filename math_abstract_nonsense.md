@@ -9,3 +9,4 @@ title: Math (Abstract Nonsense)
 
 #### Other
 * [Computational Topology](computational_topology.md), B. Drew, M. Gallagher (2021)
+* [Computational Geometry Algorithms and Applications](https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736/), Mark de Berg et al (2008)
