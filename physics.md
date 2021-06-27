@@ -3,6 +3,9 @@ layout: page
 mathjax: true
 title: Physics
 ---
+#### Books
+* [Quantum Field Theory for the Gifted Amateur](https://www.amazon.com/Quantum-Field-Theory-Gifted-Amateur/dp/019969933X), T. Lancaster, S. J. Blundell (2014)
+
 #### Lecture Notes
 * [Intermediate Classical Mechanics](http://www.physics.usu.edu/torre/3550_Fall_2013/), Charles Torre (2013)
 
