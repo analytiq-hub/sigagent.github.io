@@ -4,9 +4,9 @@ mathjax: true
 title: Physics
 ---
 #### Books
-* [Classical Mechanics](https://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/B003I03F42), Charles Taylor (2005)
+* [Classical Mechanics](https://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/B003I03F42), Charles Taylor (2005). Easy to read, well explained, at the level of 2nd undergrad course in mechanics. Reputed to have the best explanation of the Lagrangian. Replete with well picked exercises. Requires a bit of calculus - derivatives, integrals, very basic PDEs. No differential geometry required.
 * [Quantum Field Theory for the Gifted Amateur](https://www.amazon.com/Quantum-Field-Theory-Gifted-Amateur/dp/019969933X), T. Lancaster, S. J. Blundell (2014)
-* [The Road to Reality](https://www.amazon.com/Road-Reality-Complete-Guide-Universe/dp/0679776311), Roger Penrose (2007)
+* [The Road to Reality](https://www.amazon.com/Road-Reality-Complete-Guide-Universe/dp/0679776311), Roger Penrose (2007). Great companion to other more in-depth books, explains how all the parts of physics 'fit together' in the larger theory. Requires simple understanding of differential geometry (and is in fact a great companion to any rigorous book on differential geometry). I've started with the chapter on Lagrangian and Hamiltonian mechanics, and paired it with the Taylor textbook.
 
 #### Lecture Notes
 * [Intermediate Classical Mechanics](http://www.physics.usu.edu/torre/3550_Fall_2013/), Charles Torre (2013)
