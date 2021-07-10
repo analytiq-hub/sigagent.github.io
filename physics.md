@@ -12,7 +12,7 @@ title: Physics
 * [Intermediate Classical Mechanics](http://www.physics.usu.edu/torre/3550_Fall_2013/), Charles Torre (2013)
 
 #### Surveys
-* K. Mallick: [Thermodynamics and Information Theory](http://www.bourbaphy.fr/mallick.pdf), Seminaire Poincare, 2018
+* K. Mallick: [Thermodynamics and Information Theory](http://www.bourbaphy.fr/mallick.pdf), [Seminaire Poincare - Information, 2018](http://www.bourbaphy.fr/novembre2018.html)
 
 #### Videos
 * Sean Carroll: [The biggest ideas in the universe](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
