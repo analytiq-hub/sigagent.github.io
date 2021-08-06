@@ -53,6 +53,7 @@ title: Machine Learning
 * [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/) (2017)
   * [Evolving Michelangelo Model Representation for Flexibility at Scale](https://eng.uber.com/michelangelo-machine-learning-model-representation/) (2019)
 * Adrian Rosebrock [tutorials](https://www.pyimagesearch.com/author/adrian/)
+* The [Important Definitions](https://github.com/rafaelpadilla/Object-Detection-Metrics) of Rafael Padilla repo is a very good introduction to the relationship between IOU, precision/recall, PR curve, average precision
 
 #### Articles
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
