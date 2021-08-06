@@ -52,6 +52,7 @@ title: Machine Learning
 * [ConvnetJS](https://cs.stanford.edu/people/karpathy/convnetjs/) demo: [Toy 2d classification with 2-layer neural network](https://cs.stanford.edu/people/karpathy/convnetjs//demo/classify2d.html), A. Karpathy
 * [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/) (2017)
   * [Evolving Michelangelo Model Representation for Flexibility at Scale](https://eng.uber.com/michelangelo-machine-learning-model-representation/) (2019)
+* Adrian Rosebrock [tutorials](https://www.pyimagesearch.com/author/adrian/)
 
 #### Articles
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
