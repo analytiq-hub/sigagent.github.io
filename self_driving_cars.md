@@ -70,6 +70,10 @@ title: Self Driving Cars
 #### Blogs
 * [Pixelopolis, a self-driving car demo from Google I/O built with TF-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html) (July 13, 2020)
 * Alex Kendall: [Now is the Time for Reinforcement Learning on Real Robots](https://alexgkendall.com/reinforcement_learning/now_is_the_time_for_reinforcement_learning_on_real_robots/)
+* [Tesla AI Day 2021](https://www.youtube.com/watch?v=fdtC1AxFNkk)
+  * Vincent Feng: [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
+  * Jonathan Hui: [Understanding Feature Pyramid Networks for object detection (FPN)](https://jonathan-hui.medium.com/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c) (2018)
+
 
 #### Products
 * [Autoware.ai](https://www.autoware.ai/) project
