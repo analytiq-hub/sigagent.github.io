@@ -54,6 +54,7 @@ title: Machine Learning
   * [Evolving Michelangelo Model Representation for Flexibility at Scale](https://eng.uber.com/michelangelo-machine-learning-model-representation/) (2019)
 * Adrian Rosebrock [tutorials](https://www.pyimagesearch.com/author/adrian/)
 * The [Important Definitions](https://github.com/rafaelpadilla/Object-Detection-Metrics) of Rafael Padilla repo is a very good introduction to the relationship between IOU, precision/recall, PR curve, average precision
+* [Ben Dickson](https://bdtechtalks.com/author/bendee983/): [The challenges of applied machine learning](https://bdtechtalks.com/2021/04/19/applied-machine-learning-challenges/) (2021)
 
 #### Articles
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
