@@ -72,6 +72,9 @@ title: Machine Learning
 * [Rethinking the maturity of artificial intelligence in safety-critical settings](http://hal.pratt.duke.edu/sites/hal.pratt.duke.edu/files/u36/reality%20check%20final_compressed.pdf), M.L. Cummings, 2019
 * Sendtex tutorials at https://pythonprogramming.net
 
+#### MLOps
+* D. Sculley et al: [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) (2015)
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cognitive Science](cognitive_science.md)
