@@ -34,6 +34,7 @@ layout: home
 * Programming Languages
   * [C++](programming_languages/c++.md)
 * [Reinforcement Learning](reinforcement_learning.md)
+* [Religion](religion.md)
 * [Robotics](robotics.md)
 * [Self Driving Cars](self_driving_cars.md)
 * [Computational Topology](computational_topology.md)
