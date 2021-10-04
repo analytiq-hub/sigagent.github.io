@@ -36,6 +36,7 @@ layout: home
 * [Reinforcement Learning](reinforcement_learning.md)
 * [Religion](religion.md)
 * [Robotics](robotics.md)
+* [Romania](romania.md)
 * [Self Driving Cars](self_driving_cars.md)
 * [Computational Topology](computational_topology.md)
 * [Writing Blog Posts](writing_blog_posts.md)

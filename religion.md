@@ -9,5 +9,8 @@ title: Philosophy
 * [Nicolae Steinhardt - Infernul unui om fericit](https://www.youtube.com/watch?v=SV6vLTZ34aI)
 
 #### Links
+* [Philosophy](philosophy.md)
 * [Physics](physics.md)
 * [Religion](religion.md)
+* [Romania](romania.md)
+
