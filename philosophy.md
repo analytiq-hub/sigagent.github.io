@@ -9,6 +9,9 @@ title: Philosophy
 * [Petre Tutea - Cuvantul care Zideste](https://www.youtube.com/watch?v=TlrH42G2Q8c) (1990)
 * Emil Cioran - exercitiu de admiratie (Gabriel Liiceanu) [1](https://www.youtube.com/watch?v=RCOW3cIzR_g) [2](https://www.youtube.com/watch?v=oyjvedVCPYw) [3](https://www.youtube.com/watch?v=ak8NVlX77Ao) [4](https://www.youtube.com/watch?v=WVYVjOYdmiU&t=2s) [5](https://www.youtube.com/watch?v=QxQGHGEOfLo) (1990)
 
+#### Essays
+* [Costica Bradatan](https://lareviewofbooks.org/contributor/costica-bradatan): [The Philosopher of Failure: Emil Cioran’s Heights of Despair](https://lareviewofbooks.org/article/philosopher-failure-emil-ciorans-heights-despair/#!) (2016)
+
 #### Links
 * [Physics](physics.md)
 * [Religion](religion.md)
