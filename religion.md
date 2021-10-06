@@ -7,7 +7,7 @@ title: Religion
 
 #### Videos
 * [Nicolae Steinhardt - Infernul unui om fericit](https://www.youtube.com/watch?v=SV6vLTZ34aI)
-* Mircea Eliade, [Doua Interviuri Istoria Religiilor, Europa Libera](https://www.youtube.com/watch?v=SDa59i1P36I), cu Monica Lovinescu (al doilea in 1961)
+* Mircea Eliade, [Interviuri, Istoria Religiior](https://www.youtube.com/watch?v=SDa59i1P36I), Europa Libera, cu Monica Lovinescu
 
 #### Links
 * [Philosophy](philosophy.md)
