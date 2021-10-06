@@ -3,7 +3,7 @@ layout: page
 title: Philosophy
 ---
 #### Books
-* 
+* Epicur si Epicureismul Antic - Andrei Cornea (2nd ed, 2021). I like this book with its long, clear, substantial introduction with references directly into the original text.
 
 #### Videos
 * [Petre Tutea - Cuvantul care Zideste](https://www.youtube.com/watch?v=TlrH42G2Q8c) (1990)
