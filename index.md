@@ -25,6 +25,7 @@ layout: home
 * [Market Trading](market_trading.md)
 * [Math (Abstract Nonsense)](math_abstract_nonsense.md)
 * [Math (High School Problems)](math_high_school.md)
+* [Math (High School Problem Hints and Solutions)](math_high_school_solutions.md)
 * [Meta Learning](meta_learning.md)
 * [Network Tools](network_tools.md)
 * [Open Source](open_source.md)
