@@ -67,6 +67,13 @@ title: Self Driving Cars
   * [Behavioral and Motion Planning in Autoware](https://vimeo.com/showcase/7812155/video/480450941#t=0h55m55s)
 * Chris Urmson: [Delivering the benefits of self-driving technology: Aurora's approach to development](https://www.youtube.com/watch?v=_zz2k6XOidI) (Apr 2021)
 
+#### Lidar Calibration
+* [BALM: Bundle Adjustment for Lidar Mapping](https://arxiv.org/pdf/2010.08215.pdf), Zheng Liu and Fu Zhang (2010)
+* Livox Automatic Calibration Tools [github](https://github.com/Livox-SDK/Livox_automatic_calibration)
+* [Automatic Calibration of Multiple 3D LiDARs in Urban Environments](https://gogojjh.github.io/slide/2019_jjiao_iros_presentation.pdf), J. Jiao et al (2019)
+* [LiDAR and Camera Calibration using Motion Estimated by Sensor Fusion Odometry](https://arxiv.org/pdf/1804.05178.pdf), Ishikawa et al (2018)
+* [Automatic Extrinsic Calibration of a Camera and a 3D LiDAR using Line and Plane Correspondences](https://www.cs.cmu.edu/~kaess/pub/Zhou18iros.pdf), Zhou et al (2018)
+
 #### Blogs
 * [Pixelopolis, a self-driving car demo from Google I/O built with TF-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html) (July 13, 2020)
 * Alex Kendall: [Now is the Time for Reinforcement Learning on Real Robots](https://alexgkendall.com/reinforcement_learning/now_is_the_time_for_reinforcement_learning_on_real_robots/)
