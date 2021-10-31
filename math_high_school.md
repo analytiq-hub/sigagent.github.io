@@ -8,7 +8,7 @@ This is a collection of problems from an old notebook from my high school years.
 
 Notations:
 - $$\mathbb{N}$$ is the set of non negative integers
-- $$\mathbb{Z}}$$ is the set of integers
+- $$\mathbb{Z}$$ is the set of integers
 - $$\mathbb{Q}$$ is the set of rational numbers
 - $$\mathbb{R}$$ is the set of real numbers
 - $$\mathbb{C}$$ is the set of complex numbers
