@@ -33,7 +33,7 @@ Notations:
 
 7. The base of a convex pyramid is a polygon with an odd number of edges. The side edges from the top vertex are congruent, and so are the angles between adjacent side edges from the top vertex. Show that the base polygon is regular.
 
-8. Find the function $$f \; : \; \mathbb{R} \rightarrow \mathbb{R}$$ if, for any $$x, y \in \mathbb{R}$$, we have $$f(x) \le x$$ and $$f(x+y) \le f(x) + f(y)$$.
+8. Find the function $$f \, : \, \mathbb{R} \rightarrow \mathbb{R}$$ if, for any $$x, y \in \mathbb{R}$$, we have $$f(x) \le x$$ and $$f(x+y) \le f(x) + f(y)$$.
 
 
 #### Other
