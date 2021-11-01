@@ -10,6 +10,15 @@ This is a collection of problems from an old notebook from my high school years.
 
 3. See https://mathoverflow.net/questions/16721/egz-theorem-erd%C5%91s-ginzburg-ziv
 
+### J. Kurschak Competition (Hungary)
+#### 1978
+
+4. Let $$a, b \in \mathbb{Q}$$. If the equation $$ax^2 + by^2 = 1$$ has a solution in $$\mathbb{Q} \times \mathbb{Q}$$, then it has an infinity of solutions.
+
+5. The vertices of a convex polygon with $$2n+1$$ edges are colored such that adjacent vertices have different colors. Show that, using diagonals that do not intersect in the interior of the polygon, the polygon can be decomposed into triangles with vertices of each triangle having distinct colors. 
+
+6 If the triangle $$A, B, C$$ has acute angles, then the longest height is greater or equal than $$R + r$$, the sum of the circumscribed and inscribed circle radiuses. For which triangle do we have equality?
+
 #### Other
 * [Math (Abstract Nonsense)](math_abstract_nonsense.md)
 * [Math (High School Problems)](math_high_school.md)
