@@ -19,6 +19,13 @@ This is a collection of problems from an old notebook from my high school years.
 
 6 If the triangle $$A, B, C$$ has acute angles, then the longest height is greater or equal than $$R + r$$, the sum of the circumscribed and inscribed circle radiuses. For which triangle do we have equality?
 
+#### 1979
+
+7. The base of a convex pyramid is a polygon with an odd number of edges. The side edges from the top vertex are congruent, and so are the angles between adjacent side edges from the top vertex. Show that the base polygon is regular.
+
+8. Find the function $$f \; : \; \mathbb{R} \ra \mathbb{R}$$ if, for any $$x, y \in \mathbb{R}$$, we have $$f(x) \le x$$ and $$f(x+y) \le f(x) + f(y)$$.
+
+
 #### Other
 * [Math (Abstract Nonsense)](math_abstract_nonsense.md)
 * [Math (High School Problems)](math_high_school.md)
