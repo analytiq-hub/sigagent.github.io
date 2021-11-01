@@ -20,6 +20,22 @@ Notations:
 
 3. From any $$2n-1$$ integers, we can find $$n$$ whose sum is divisible by $$n$$.
 
+### J. Kurschak Competition (Hungary)
+#### 1978
+
+4. Let $$a, b \in \mathbb{Q}$$. If the equation $$ax^2 + by^2 = 1$$ has a solution in $$\mathbb{Q} \times \mathbb{Q}$$, then it has an infinity of solutions.
+
+5. The vertices of a convex polygon with $$2n+1$$ edges are colored such that adjacent vertices have different colors. Show that, using diagonals that do not intersect in the interior of the polygon, the polygon can be decomposed into triangles with vertices of each triangle having distinct colors. 
+
+6 If the triangle $$A, B, C$$ has acute angles, then the longest height is greater or equal than $$R + r$$, the sum of the circumscribed and inscribed circle radiuses. For which triangle do we have equality?
+
+#### 1979
+
+7. The base of a convex pyramid is a polygon with an odd number of edges. The side edges from the top vertex are congruent, and so are the angles between adjacent side edges from the top vertex. Show that the base polygon is regular.
+
+8. Find the function $$f \; : \; \mathbb{R} \ra \mathbb{R}$$ if, for any $$x, y \in \mathbb{R}$$, we have $$f(x) \le x$$ and $$f(x+y) \le f(x) + f(y)$$.
+
+
 #### Other
 * [Math (Abstract Nonsense)](math_abstract_nonsense.md)
 * [Math (High School Problems)](math_high_school.md)
