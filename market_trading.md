@@ -18,6 +18,7 @@ title: Market Trading
 * MIT IAP 2020: The business of quant: <a href="http://bitdribble.com/home/doc/finance/TBQI-Lecture-Slides/TBQI- Lec 1.pdf">Lecture 1</a> <a href="http://bitdribble.com/home/doc/finance/TBQI-Lecture-Slides/TBQI- Lec 2.pdf">2</a> <a href="http://bitdribble.com/home/doc/finance/TBQI-Lecture-Slides/TBQI- Lec 3.pdf">3</a> <a href="http://bitdribble.com/home/doc/finance/TBQI-Lecture-Slides/TBQI- Lec 4.pdf">4</a>, by Rohit Singh
 * <a href="http://www.dartmouth.edu/~cushman/courses/engs41/Mark%20Borsuk's%20version%20of%20course/Lectures/Lecture11_ENGS41_post.pdf">Value and Utility Functions</a>, lecture slides from Darthmouth ENGS41 class
 * Medium.com: Trade Sizing & Kelly Fraction <a href="https://medium.com/lxdx/trade-sizing-fb546bc3b1aa">I</a>, <a href="https://medium.com/lxdx/trade-sizing-ii-of-iv-a9ce33de5ae4">I</a>, <a href="https://medium.com/lxdx/trade-sizing-iii-of-iv-706e342dda43">III</a>, by Joshua Greenwald
+* [The Man Who Solved the Market](https://www.amazon.com/Man-Who-Solved-Market-Revolution/dp/073521798X), by G. Zuckerman (2019)
 
 * Podcasts at <a href="https://chatwithtraders.com">chatwithtraders.com</a>
   * <a href="https://chatwithtraders.com/ep-054-rishi-narang/">EP 054: Components of a black box, humans versus computers, and high frequency trading w/ @RishiKNarang</a>
