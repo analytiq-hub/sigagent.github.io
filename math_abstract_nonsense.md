@@ -15,7 +15,7 @@ title: Math (Abstract Nonsense)
 * Philosophy
   * Fernando Zalamea: Synthetic Philosophy of Contemporary Mathematics
 * Popularization
-  * [Love and Math - The Heart of Hidden Reality](https://www.amazon.com/Love-Math-Heart-Hidden-Reality/dp/0465064957), Edward Frenkel (2013)
+  * [Love and Math - The Heart of Hidden Reality](https://www.amazon.com/Love-Math-Heart-Hidden-Reality/dp/0465064957), Edward Frenkel (2013), about the Langlands program and its connection to particle physics
 
 #### Other
 * [Computational Topology](computational_topology.md), B. Drew, M. Gallagher (2021)
