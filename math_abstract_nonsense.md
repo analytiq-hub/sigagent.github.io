@@ -14,6 +14,8 @@ title: Math (Abstract Nonsense)
   * W. Rudin: [Real and Complex Analysis](https://www.amazon.com/Real-Complex-Analysis-Higher-Mathematics/dp/0070542341/ref=sr_1_3?dchild=1&keywords=rudin+complex+analysis&qid=1625362705&s=books&sr=1-3)
 * Philosophy
   * Fernando Zalamea: Synthetic Philosophy of Contemporary Mathematics
+* Popularization
+  * [Love and Math - The Heart of Hidden Reality](https://www.amazon.com/Love-Math-Heart-Hidden-Reality/dp/0465064957), Edward Frenkel (2013)
 
 #### Other
 * [Computational Topology](computational_topology.md), B. Drew, M. Gallagher (2021)
