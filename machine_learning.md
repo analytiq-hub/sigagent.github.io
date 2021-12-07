@@ -75,6 +75,9 @@ title: Machine Learning
 * [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/pdf/1802.09941.pdf), Bel-Nun, Hoefler (2018), [video](https://www.youtube.com/watch?v=xtxxLWZznBI)
 * Medium: [RegNet or How to methodologically design effective networks](https://medium.com/analytics-vidhya/regnet-or-how-to-methodologically-design-effective-networks-c3560c1cf436), Chris Ha (2000)
 
+#### Web sites
+* [Papers with Code](https://paperswithcode.com/)
+
 #### MLOps
 * D. Sculley et al: [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) (2015)
 
