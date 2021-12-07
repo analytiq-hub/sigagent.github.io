@@ -77,6 +77,7 @@ title: Machine Learning
 
 #### Object Detection from Point Clouds
 * PapersWithCode: [PointPillars](https://paperswithcode.com/search?q_meta=&q_type=&q=pointpillars)
+  * [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/pdf/1812.05784v2.pdf), Alex H. Lang et al (2019)
   * [Optimisation of the PointPillars network for 3D object detection in point clouds](https://arxiv.org/pdf/2007.00493v1.pdf), J. Stanisz et al (2020)
 
 #### Object Detection from Images
