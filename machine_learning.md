@@ -81,7 +81,10 @@ title: Machine Learning
   * [Optimisation of the PointPillars network for 3D object detection in point clouds](https://arxiv.org/pdf/2007.00493v1.pdf), J. Stanisz et al (2020)
 
 #### Object Detection from Images
-* [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf), J. Redmon et al (2016), [http://pjreddie.com/yolo/](http://pjreddie.com/yolo/)
+* [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf), J. Redmon et al (2016), [http://pjreddie.com/yolo/](http://pjreddie.com/yolo/), Y Liao et al (2021)
+
+#### Datasets
+* [KITTI-360: A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D](https://arxiv.org/pdf/2109.13410v1.pdf)
 
 #### Web sites
 * [Papers with Code](https://paperswithcode.com/)
