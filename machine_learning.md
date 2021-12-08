@@ -57,6 +57,7 @@ title: Machine Learning
 * The [Important Definitions](https://github.com/rafaelpadilla/Object-Detection-Metrics) of Rafael Padilla repo is a very good introduction to the relationship between IOU, precision/recall, PR curve, average precision
 * [Ben Dickson](https://bdtechtalks.com/author/bendee983/): [The challenges of applied machine learning](https://bdtechtalks.com/2021/04/19/applied-machine-learning-challenges/) (2021)
 * Jonathan Hui: [How to start a Deep Learning project?](https://jonathan-hui.medium.com/how-to-start-a-deep-learning-project-d9e1db90fa72) (2018)
+* Towards Data Science: [Distributed Neural Network Training In Pytorch](https://towardsdatascience.com/distributed-neural-network-training-in-pytorch-5e766e2a9e62), Nilesh Vijayrania (2020)
 
 #### Articles
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
