@@ -54,7 +54,11 @@ title: Self Driving Cars
 * [Action-based Representation Learning for Autonomous Driving](https://arxiv.org/pdf/2008.09417.pdf), Y. Xiao et al (2020), [code](https://www.codevilla.info/post/action-based-representation-learning-for-autonomous-driving)
 * [Automatic Calibration of Multiple 3D LiDARs in Urban Environments](https://arxiv.org/pdf/1905.04912.pdf), J. JIao et al (2019)
 * [On complementing end-to-end human behavior predictors with planning](https://arxiv.org/abs/2103.05661), L. Sun et al (2021)
+* [Learning to Predict Vehicle Trajectories with Model-based Planning](Learning to Predict Vehicle Trajectories with Model-based Planning), Haoran Song et al (2021)
 * [PiP: Planning-informed Trajectory Prediction for Autonomous Driving](https://arxiv.org/abs/2003.11476), H. Song el al (2000)
+* [Point Cloud Labeling using 3D Convolutional Neural Network](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Huang2016ICPR.pdf), J Huang et al (2016)
+* [Vehicle Detection from 3D Lidar Using Fully Convolutional Network](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Li2016RSS.pdf), Bo Li et al (2016)
+* [Review: Deep Learning on 3D Point Clouds](https://www.mdpi.com/2072-4292/12/11/1729/htm), S.A.Bello et al (2020)
 
 #### 2007 Darpa Challenge
 * [Towards Fully Autonomous Driving: Systems and  Algorithms](https://cs.stanford.edu/people/teichman/papers/iv2011.pdf), by Jesse Levinson et. al. (2011 IEEE Intelligent Vehicles Symposium (IV), Baden-Baden, Germany, June 5-9, 2011). Describes the Stanford entry at the 2007 DARPA Challenge, and follow-up work.
