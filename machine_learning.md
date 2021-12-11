@@ -65,6 +65,7 @@ title: Machine Learning
 
 #### Notebooks
 * [Deep Learning With PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
+  * [Chap 3 notebook](https://colab.research.google.com/drive/1fBOnexT_67V1wVaHB-3UQrkuIy3tyndL)
   * [Chap 5 notebook](https://colab.research.google.com/drive/1ouky-tdUJ-bXjVL2HSOW69vKHknwhQdf)
 
 #### Articles
