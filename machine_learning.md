@@ -14,6 +14,9 @@ title: Machine Learning
 * [The Mechanics ofn-Player Differentiable Games](https://arxiv.org/pdf/1802.05642.pdf), D. Balduzzi et al (2018)
 * [Deep Learning Systems: Algorithms, Compilers, and Processors for Large-Scale Production](https://deeplearningsystems.ai/), Andres Rodriguez (2020)
 * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf), Stevens, Antiga, Viehmann (2020), [github]((https://github.com/deep-learning-with-pytorch/dlwpt-code)
+  * [Chap 3 notebook](https://colab.research.google.com/drive/1fBOnexT_67V1wVaHB-3UQrkuIy3tyndL)
+  * [Chap 5 notebook](https://colab.research.google.com/drive/1ouky-tdUJ-bXjVL2HSOW69vKHknwhQdf)
+  * [Chap 6 notebook](https://colab.research.google.com/drive/1RXFudMCOCVSCzOd9xXyCLLmliBzRYRxv?usp=sharing)
 * [Python Machine Learning Cookbook](https://www.amazon.com/Machine-Learning-Python-Cookbook-Preprocessing/dp/1491989386/ref=asc_df_1491989386/), Chris Albon (2018)
 
 #### Videos
@@ -65,8 +68,6 @@ title: Machine Learning
 
 #### Notebooks
 * [Deep Learning With PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
-  * [Chap 3 notebook](https://colab.research.google.com/drive/1fBOnexT_67V1wVaHB-3UQrkuIy3tyndL)
-  * [Chap 5 notebook](https://colab.research.google.com/drive/1ouky-tdUJ-bXjVL2HSOW69vKHknwhQdf)
 
 #### Articles
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
