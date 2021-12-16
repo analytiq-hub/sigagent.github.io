@@ -95,6 +95,10 @@ title: Machine Learning
 
 #### Datasets
 * [KITTI-360: A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D](https://arxiv.org/pdf/2109.13410v1.pdf)
+* [Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset](https://arxiv.org/pdf/2104.10133.pdf), S. Ettinger et al (2021)
+
+#### Auto Labeling Data
+* [Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/pdf/2103.05073.pdf), Ch. Qi et al, Waymo (2021), [video](https://www.youtube.com/watch)
 
 #### Web sites
 * [Papers with Code](https://paperswithcode.com/)
