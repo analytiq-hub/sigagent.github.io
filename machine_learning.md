@@ -93,13 +93,6 @@ title: Machine Learning
 #### Object Detection from Images
 * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf), J. Redmon et al (2016), [http://pjreddie.com/yolo/](http://pjreddie.com/yolo/), Y Liao et al (2021)
 
-#### Datasets
-* [KITTI-360: A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D](https://arxiv.org/pdf/2109.13410v1.pdf)
-* [Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset](https://arxiv.org/pdf/2104.10133.pdf), S. Ettinger et al (2021)
-
-#### Auto Labeling Data
-* [Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/pdf/2103.05073.pdf), Ch. Qi et al, Waymo (2021), [video](https://www.youtube.com/watch)
-
 #### Web sites
 * [Papers with Code](https://paperswithcode.com/)
 

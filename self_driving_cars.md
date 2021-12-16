@@ -76,6 +76,13 @@ title: Self Driving Cars
   * [Behavioral and Motion Planning in Autoware](https://vimeo.com/showcase/7812155/video/480450941#t=0h55m55s)
 * Chris Urmson: [Delivering the benefits of self-driving technology: Aurora's approach to development](https://www.youtube.com/watch?v=_zz2k6XOidI) (Apr 2021)
 
+#### Datasets
+* [KITTI-360: A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D](https://arxiv.org/pdf/2109.13410v1.pdf)
+* [Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset](https://arxiv.org/pdf/2104.10133.pdf), S. Ettinger et al (2021)
+
+#### Auto Labeling Data
+* [Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/pdf/2103.05073.pdf), Ch. Qi et al, Waymo (2021), [video](https://www.youtube.com/watch)
+
 #### Lidar Calibration
 * [BALM: Bundle Adjustment for Lidar Mapping](https://arxiv.org/pdf/2010.08215.pdf), Zheng Liu and Fu Zhang (2010)
 * Livox Automatic Calibration Tools [github](https://github.com/Livox-SDK/Livox_automatic_calibration)
