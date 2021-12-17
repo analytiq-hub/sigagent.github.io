@@ -17,6 +17,7 @@ title: Machine Learning
   * [Chap 3 notebook](https://colab.research.google.com/drive/1fBOnexT_67V1wVaHB-3UQrkuIy3tyndL)
   * [Chap 5 notebook](https://colab.research.google.com/drive/1ouky-tdUJ-bXjVL2HSOW69vKHknwhQdf)
   * [Chap 6 notebook](https://colab.research.google.com/drive/1RXFudMCOCVSCzOd9xXyCLLmliBzRYRxv?usp=sharing)
+  * Chap 7 notebooks: [datasets](https://colab.research.google.com/drive/1IUKCMi2sMXw0pX3R1MZt6vy8UiBcWEco?usp=sharing)
 * [Python Machine Learning Cookbook](https://www.amazon.com/Machine-Learning-Python-Cookbook-Preprocessing/dp/1491989386/ref=asc_df_1491989386/), Chris Albon (2018)
 
 #### Videos
@@ -66,8 +67,8 @@ title: Machine Learning
 * Medium: [Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255), Thomas Wolf (2018)
 * Towards Data Science: [Distributed Neural Network Training In Pytorch](https://towardsdatascience.com/distributed-neural-network-training-in-pytorch-5e766e2a9e62), Nilesh Vijayrania (2020)
 
-#### Notebooks
-* [Deep Learning With PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
+#### Optimizers
+* [optim.Adam vs optim.SGD. Let’s dive in](https://medium.com/@Biboswan98/optim-adam-vs-optim-sgd-lets-dive-in-8dbf1890fbdc)
 
 #### Articles
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
