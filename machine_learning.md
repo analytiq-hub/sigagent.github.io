@@ -19,6 +19,7 @@ title: Machine Learning
   * [Chap 6 notebook](https://colab.research.google.com/drive/1RXFudMCOCVSCzOd9xXyCLLmliBzRYRxv?usp=sharing)
   * [Chap 7 notebook](https://colab.research.google.com/drive/1IUKCMi2sMXw0pX3R1MZt6vy8UiBcWEco?usp=sharing)
 * [Python Machine Learning Cookbook](https://www.amazon.com/Machine-Learning-Python-Cookbook-Preprocessing/dp/1491989386/ref=asc_df_1491989386/), Chris Albon (2018)
+* [fast.ai](https://www.fast.ai/)
 
 #### Videos
 * 3Blue1Brown Series
