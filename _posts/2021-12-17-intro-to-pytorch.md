@@ -11,3 +11,4 @@ Here are a chapter notebooks for [Deep Learning with PyTorch](https://pytorch.or
 * [Chap 5 notebook](https://colab.research.google.com/drive/1ouky-tdUJ-bXjVL2HSOW69vKHknwhQdf)
 * [Chap 6 notebook](https://colab.research.google.com/drive/1RXFudMCOCVSCzOd9xXyCLLmliBzRYRxv?usp=sharing)
 * [Chap 7 notebook](https://colab.research.google.com/drive/1IUKCMi2sMXw0pX3R1MZt6vy8UiBcWEco?usp=sharing)
+* [Chap 8 notebook](https://colab.research.google.com/drive/1AS1Z1JfvjKODejy0G57lem5Y86JIK5Yh?usp=sharing)
