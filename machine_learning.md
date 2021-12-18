@@ -45,6 +45,7 @@ MZt6vy8UiBcWEco?usp=sharing)
 * Yann LeCun [Deep Learning](https://www.youtube.com/watch?v=ChLEJA6J2b8&list=PL80I41oVxglJ0kTDV7i3aHBIXe65nTxE7&index=6) course at College de France (2016)
 * Michael Bronstein: [Geometric Deep Learning: the Erlangen Programme of ML](https://iclr.cc/virtual/2021/invited-talk/3717) (2021)
   * [Geometric Deep LearningGrids, Groups, Graphs,Geodesics, and Gauges](https://arxiv.org/pdf/2104.13478.pdf), M. Bronstein et al (2021)
+* J. Frankle, M. Carbin:[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) (2019)
 
 #### Posts
 * [Colah's blog](http://colah.github.io/)
