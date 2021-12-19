@@ -19,7 +19,7 @@ MZt6vy8UiBcWEco?usp=sharing)
 * [fast.ai](https://www.fast.ai/)
 
 #### Courses
-* MIT 9.520/6.860 [Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall19/), Fall 2019
+* MIT 9.520/6.860 Statistical Learning Theory and Applications, [Fall 2019](http://www.mit.edu/~9.520/fall19/), [Fall 2021](https://cbmm.mit.edu/9-520), [videos](https://cbmm.mit.edu/9-520/videos)
 
 #### Videos
 * 3Blue1Brown Series
