@@ -18,6 +18,9 @@ MZt6vy8UiBcWEco?usp=sharing)
 * [Python Machine Learning Cookbook](https://www.amazon.com/Machine-Learning-Python-Cookbook-Preprocessing/dp/1491989386/ref=asc_df_1491989386/), Chris Albon (2018)
 * [fast.ai](https://www.fast.ai/)
 
+#### Courses
+* MIT 9.520/6.860 [Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall19/), Fall 2019
+
 #### Videos
 * 3Blue1Brown Series
   * [What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)
