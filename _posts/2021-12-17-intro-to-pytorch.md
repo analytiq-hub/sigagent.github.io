@@ -12,3 +12,6 @@ Here are a chapter notebooks for [Deep Learning with PyTorch](https://pytorch.or
 * [Chap 6 notebook](https://colab.research.google.com/drive/1RXFudMCOCVSCzOd9xXyCLLmliBzRYRxv?usp=sharing) - Using the Neural Network to Fit the Data
 * [Chap 7 notebook](https://colab.research.google.com/drive/1IUKCMi2sMXw0pX3R1MZt6vy8UiBcWEco?usp=sharing) - Telling Birds from Airplanes - Learning from Images
 * [Chap 8 notebook](https://colab.research.google.com/drive/1AS1Z1JfvjKODejy0G57lem5Y86JIK5Yh?usp=sharing) - Using Convolutions to Generalize
+  * [Model Width](https://colab.research.google.com/drive/1Qw4Rtta3-7flR1ozMaHLmESc-CUUbwFp?usp=sharing)
+  * [Model Regularization](https://colab.research.google.com/drive/1A7sl36qPDQxDxbw0rPonDvo167bpW-6a?usp=sharing)
+  * [Model Dropout](https://colab.research.google.com/drive/1Qw4Rtta3-7flR1ozMaHLmESc-CUUbwFp?usp=sharing)
