@@ -22,7 +22,9 @@ layout: home
 * [Entrepreneurship](entrepreneurship.md)
 * [Game Theory](game_theory.md)
 * [Intellectual History](intellectual_history.md)
-* [Linux Kernel](linux_kernel.md)
+* Kernel & System Programming
+  * [Linux Kernel](linux_kernel.md)
+  * [System Programming](system_programming.md)
 * [Machine Learning](machine_learning.md)
 * [Market Trading](market_trading.md)
 * [Math (Abstract Nonsense)](math_abstract_nonsense.md)
