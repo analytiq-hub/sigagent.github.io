@@ -112,6 +112,7 @@ title: Self Driving Cars
 
 #### Other
 * [Machine Learning](machine_learning.md)
+* [MLOps](mlops.md)
 * [Probabilities and Statistics](probabilities_and_statistics.md)
 * [Reinforcement Learning](reinforcement_learning.md)
 * [Robotics](robotics.md)
