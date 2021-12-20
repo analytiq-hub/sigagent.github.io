@@ -37,6 +37,7 @@ layout: home
 * [Physics](physics.md)
 * [Probabilities and Statistics](probabilities_and_statistics.md)
 * Programming Languages
+  * [C](programming_languages/c.md)
   * [C++](programming_languages/c++.md)
 * [Reinforcement Learning](reinforcement_learning.md)
 * [Religion](religion.md)
