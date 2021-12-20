@@ -7,7 +7,8 @@ title: MLOps
 
 #### Companies
 * NVIDIA
-  * [Inside NVIDIA’s AI Infrastructure for Self-driving Cars](https://www.usenix.org/conference/opml20/presentation/farabet) (2020), OPML '20 presentation
+  * [Inside NVIDIA’s AI Infrastructure for Self-driving Cars](https://www.usenix.org/conference/opml20/presentation/farabet) (2020), OPML '20 presentation of Maglev, NVIDIA's infrastructure for learning
+  * [Scalable Active Learning for Autonomous Driving](https://medium.com/nvidia-ai/scalable-active-learning-for-autonomous-driving-a-practical-implementation-and-a-b-test-4d315ed04b5f), a practical implementation and A/B Test (2019)
 * Tesla
   * [Tesla AI Day 2021](https://www.youtube.com/watch?v=fdtC1AxFNkk)
 * Waymo
