@@ -40,6 +40,7 @@ layout: home
 * Programming Languages
   * [C](programming_languages/c.md)
   * [C++](programming_languages/c++.md)
+  * [Python](programming_languages/python.md)
 * [Reinforcement Learning](reinforcement_learning.md)
 * [Religion](religion.md)
 * [Robotics](robotics.md)
