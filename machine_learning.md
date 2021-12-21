@@ -84,6 +84,7 @@ MZt6vy8UiBcWEco?usp=sharing)
 #### Articles
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
 * [Neural networks and physical systems with emergent collective computational abilities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC346238/pdf/pnas00447-0135.pdf), J. J. Hopfield (1982)
+* [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf), G. E. Hinton and R. R. Salakhutdinov (2006), using Bolzmann machines to initialize weights close to a good solution
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf), C. Finn, P. Abbeel, S. Levine (2017)
   * S. Khodadadeh: [Model Agnostic Meta Learning](https://www.youtube.com/watch?v=wT45v8sIMDM) (2018)
   * Deep Learning Explainer: [Toward Efficient Learning: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://www.youtube.com/watch?v=tGTNplKgt6Q) (2020)
