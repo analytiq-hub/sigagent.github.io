@@ -21,7 +21,7 @@ MZt6vy8UiBcWEco?usp=sharing)
 #### Courses
 * MIT
   * 9.520/6.860 Statistical Learning Theory and Applications, [Fall 2019](http://www.mit.edu/~9.520/fall19/), [Fall 2021](https://cbmm.mit.edu/9-520), [videos](https://cbmm.mit.edu/9-520/videos)
-  * 6.S191 Introduction to Deep Learning, [IAP 2022](http://introtodeeplearning.com/)
+  * 6.S191 Introduction to Deep Learning, [IAP 2022](http://introtodeeplearning.com/) [upcoming videos](https://www.youtube.com/channel/UCtslD4DGH6PKyG_1gFAX7sg)
 * Stanford
   * [CS221](https://stanford-cs221.github.io): Artificial Intelligence: Principles and Techniques (Autumn 2019), [syllabus](https://stanford-cs221.github.io/autumn2019/),[video](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
   * [CS231n](http://cs231n.stanford.edu/): Convolutional Neural Networks for Visual Recognition (Spring 2017), [syllabus](https://cs231n.github.io/), [videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
