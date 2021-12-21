@@ -12,7 +12,7 @@ Review of [Learning Deep Learning](https://www.amazon.com/Learning-Deep-Processi
 * Book examples are written with TensorFlow, but online Jupyter Notebooks [are available](https://github.com/NVDLI/LDL/tree/main/pt_framework) for both PyTorch and TensorFlow with permissive MIT license
 * While I would have preferred to see PyTorch in the printed book, I need to do the hands-on PyTorch examples anyhow, so it might be even better that I'm forced to use the Jupyter Notebooks.
 * Book explains the differences between TensorFlow and PyTorch.
-* Comprehensive coverage of DL techniques that are industry standards for the past 2-3 years, but have not been collected in one place in book form until this book.
+* Comprehensive coverage of DL techniques that are industry standards for the past 2-3 years, but have rarely been collected in one place in book form until this book. See "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurelien Geron for another book that encyclopedically covers DL tricks and techniques, also using TensorFlow (but w/o PyTorch examples)
 * Pointers to research papers throughout.
 * Nice charts at the end with the algorithms and 'tricks of the trade' for both vision and natural language processing applications. Some tricks work for some, not all applications. Engineers usually work in one field, not both - and have a difficult time sorting out what techniques are specific to their field.
 
