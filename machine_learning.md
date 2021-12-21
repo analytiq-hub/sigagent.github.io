@@ -61,8 +61,6 @@ MZt6vy8UiBcWEco?usp=sharing)
 * Open AI: [Safety Gym] (https://openai.com/blog/safety-gym/) (2019)
 * [OpenAI Baselines](https://github.com/openai/baselines/), a set of high-quality implementations of reinforcement learning algorithms
 * [ConvnetJS](https://cs.stanford.edu/people/karpathy/convnetjs/) demo: [Toy 2d classification with 2-layer neural network](https://cs.stanford.edu/people/karpathy/convnetjs//demo/classify2d.html), A. Karpathy
-* [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/) (2017)
-  * [Evolving Michelangelo Model Representation for Flexibility at Scale](https://eng.uber.com/michelangelo-machine-learning-model-representation/) (2019)
 * Adrian Rosebrock [tutorials](https://www.pyimagesearch.com/author/adrian/)
 * The [Important Definitions](https://github.com/rafaelpadilla/Object-Detection-Metrics) of Rafael Padilla repo is a very good introduction to the relationship between IOU, precision/recall, PR curve, average precision
 * [Ben Dickson](https://bdtechtalks.com/author/bendee983/): [The challenges of applied machine learning](https://bdtechtalks.com/2021/04/19/applied-machine-learning-challenges/) (2021)
