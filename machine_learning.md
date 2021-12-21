@@ -13,6 +13,7 @@ title: Machine Learning
 * [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/), I. Goodfellow, Y. Bengio, A. Courville (2016)
 * [The Mechanics of n-Player Differentiable Games](https://arxiv.org/pdf/1802.05642.pdf), D. Balduzzi et al (2018)
 * [Deep Learning Systems: Algorithms, Compilers, and Processors for Large-Scale Production](https://deeplearningsystems.ai/), Andres Rodriguez (2020)
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/14920326461): Concepts, Tools, and Techniques to Build Intelligent Systems, by Aurelien Geron (2nd ed, 2019). Very complete, but using TensorFlow.
 * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf), Stevens, Antiga, Viehmann (2020), [github]((https://github.com/deep-learning-with-pytorch/dlwpt-code)
 MZt6vy8UiBcWEco?usp=sharing)
 * [Python Machine Learning Cookbook](https://www.amazon.com/Machine-Learning-Python-Cookbook-Preprocessing/dp/1491989386/ref=asc_df_1491989386/), Chris Albon (2018)
