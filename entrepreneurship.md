@@ -9,3 +9,4 @@ title: Entrepreneurship
 
 #### Pitching in Boston
 * [Startupalooza: Pitch Angel VCs at CIC Boston](https://cic.com/new-events/https/wwweventbritecom/e/pitch-angel-vcs-at-cic-boston-free-capital-raising-workshop-tickets-54868682707discountcic), [meetup](https://www.meetup.com/startupalooza/)
+* [Angel Investors in MA](https://www.angelinvestmentnetwork.us/angel-investors-massachusetts)
