@@ -16,5 +16,5 @@ Review of [Learning Deep Learning](https://www.amazon.com/Learning-Deep-Processi
 * Pointers to research papers throughout.
 * Nice charts at the end with the algorithms and 'tricks of the trade' for both vision and natural language processing applications. Some tricks work for some, not all applications. Engineers usually work in one field, not both - and have a difficult time sorting out what techniques are specific to their field.
 
-* While reading this book, I also read "Deep Learning with PyTorch", E. Stevens et al (2020), and I follow Stanford's CS231n course: Convolutional Neural Networks for Visual Recognition (Spring 2017), both freely available online.
-* The "Deep Learning with PyTorch" has its own Jupyter notebooks (check out [my own edited version of the notebooks](https://bitdribble.github.io/python/2021/12/17/intro-to-pytorch/)).
+* While reading this book, I also read [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf), and I follow Stanford's [CS231n](http://cs231n.stanford.edu/) course: Convolutional Neural Networks for Visual Recognition (Spring 2017), both freely available online.
+* [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) has its own Jupyter notebooks (check out [my own edited version of the notebooks](https://bitdribble.github.io/python/2021/12/17/intro-to-pytorch/)).
