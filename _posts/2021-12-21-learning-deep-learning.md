@@ -7,7 +7,7 @@ author:
 ---
 
 * Don't have to be a researcher to read the book. It's perfectly fine for a sharp Python engineer.
-* Book examples are written with TensorFlow, but online Jupyter Notebooks are available for both PyTorch and TensorFlow with permissive MIT license (https://github.com/NVDLI/LDL/tree/main/pt_framework)
+* Book examples are written with TensorFlow, but online Jupyter Notebooks [are available](https://github.com/NVDLI/LDL/tree/main/pt_framework) for both PyTorch and TensorFlow with permissive MIT license
 * While I would have preferred to see PyTorch in the printed book, I need to do the hands-on PyTorch examples anyhow, so it might be even better that I'm forced to use the Jupyter Notebooks.
 * Book explains the differences between TensorFlow and PyTorch.
 * Comprehensive coverage of DL techniques that are industry standards for the past 2-3 years, but have not been collected in one place in book form until this book.
