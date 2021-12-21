@@ -34,6 +34,7 @@ layout: home
 * [Meta Learning](meta_learning.md)
 * [MLOps](mlops.md)
 * [Natural Language Processing](natural_language_processing.md)
+* [Neuroscience](neuroscience.md)
 * [Open Source](open_source.md)
 * [Other](other.md)
 * [Philosophy](philosophy.md)
