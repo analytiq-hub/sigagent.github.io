@@ -7,6 +7,8 @@ title: MLOps
 * [OPML '20](https://www.usenix.org/conference/opml20)
 
 #### Companies
+* Google
+  * [How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://www.usenix.org/conference/opml20/presentation/papasian)
 * Netflix
   * [Runway - Model Management at Netflix](https://www.usenix.org/conference/opml20/presentation/cepoi) (2020)
 * NVIDIA
