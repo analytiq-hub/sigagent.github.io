@@ -16,6 +16,7 @@ title: Machine Learning
 * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf), Stevens, Antiga, Viehmann (2020), [github]((https://github.com/deep-learning-with-pytorch/dlwpt-code)
 MZt6vy8UiBcWEco?usp=sharing)
 * [Python Machine Learning Cookbook](https://www.amazon.com/Machine-Learning-Python-Cookbook-Preprocessing/dp/1491989386/ref=asc_df_1491989386/), Chris Albon (2018)
+* [Learning Machine Learning](https://www.informit.com/store/learning-deep-learning-theory-and-practice-of-neural-9780137470358), M. Ekman (2021), [github](https://github.com/NVDLI/LDL/tree/main/pt_framework)
 * [fast.ai](https://www.fast.ai/)
 
 #### Courses
