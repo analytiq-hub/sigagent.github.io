@@ -6,6 +6,8 @@ author:
 - Andrei Radulescu-Banu
 ---
 
+Review of [Learning Deep Learning](https://www.amazon.com/Learning-Deep-Processing-Transformers-TensorFlow/dp/0137470355): Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers Using TensorFlow, by Magnus Ekman (2021)
+
 * Don't have to be a researcher to read the book. It's perfectly fine for a sharp Python engineer.
 * Book examples are written with TensorFlow, but online Jupyter Notebooks [are available](https://github.com/NVDLI/LDL/tree/main/pt_framework) for both PyTorch and TensorFlow with permissive MIT license
 * While I would have preferred to see PyTorch in the printed book, I need to do the hands-on PyTorch examples anyhow, so it might be even better that I'm forced to use the Jupyter Notebooks.
