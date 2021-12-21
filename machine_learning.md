@@ -11,7 +11,7 @@ title: Machine Learning
 * [Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond](https://www.amazon.com/Learning-Kernels-Regularization-Optimization-Computation/dp/0262194759), B. Scholkopf, A. Smola (2001)
 * [Bio-Inspired Artificial Intelligence: Theories, Methods, and Technologies](https://www.amazon.com/Bio-Inspired-Artificial-Intelligence-Technologies-Intelligent/dp/0262062712), D. Floreano, C. Mattiussi (2008)
 * [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/), I. Goodfellow, Y. Bengio, A. Courville (2016)
-* [The Mechanics ofn-Player Differentiable Games](https://arxiv.org/pdf/1802.05642.pdf), D. Balduzzi et al (2018)
+* [The Mechanics of n-Player Differentiable Games](https://arxiv.org/pdf/1802.05642.pdf), D. Balduzzi et al (2018)
 * [Deep Learning Systems: Algorithms, Compilers, and Processors for Large-Scale Production](https://deeplearningsystems.ai/), Andres Rodriguez (2020)
 * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf), Stevens, Antiga, Viehmann (2020), [github]((https://github.com/deep-learning-with-pytorch/dlwpt-code)
 MZt6vy8UiBcWEco?usp=sharing)
