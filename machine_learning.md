@@ -69,6 +69,7 @@ MZt6vy8UiBcWEco?usp=sharing)
 * The [Important Definitions](https://github.com/rafaelpadilla/Object-Detection-Metrics) of Rafael Padilla repo is a very good introduction to the relationship between IOU, precision/recall, PR curve, average precision
 * [Ben Dickson](https://bdtechtalks.com/author/bendee983/): [The challenges of applied machine learning](https://bdtechtalks.com/2021/04/19/applied-machine-learning-challenges/) (2021)
 * Jonathan Hui: [How to start a Deep Learning project?](https://jonathan-hui.medium.com/how-to-start-a-deep-learning-project-d9e1db90fa72) (2018)
+* Georgii Evtushenko: [Multi-GPU Programming](https://medium.com/gpgpu/multi-gpu-programming-6768eeb42e2c)
 
 #### Conferences
 * [OpML '20](https://www.usenix.org/conference/opml20/conference-program)
