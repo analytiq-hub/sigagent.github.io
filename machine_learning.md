@@ -85,7 +85,6 @@ MZt6vy8UiBcWEco?usp=sharing)
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
 * [Neural networks and physical systems with emergent collective computational abilities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC346238/pdf/pnas00447-0135.pdf), J. J. Hopfield (1982)
 * [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf), G. E. Hinton and R. R. Salakhutdinov (2006), using Bolzmann machines to initialize weights close to a good solution
-* [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf), L. Gatys et al (2016)
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf), C. Finn, P. Abbeel, S. Levine (2017)
   * S. Khodadadeh: [Model Agnostic Meta Learning](https://www.youtube.com/watch?v=wT45v8sIMDM) (2018)
   * Deep Learning Explainer: [Toward Efficient Learning: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://www.youtube.com/watch?v=tGTNplKgt6Q) (2020)
@@ -100,6 +99,10 @@ MZt6vy8UiBcWEco?usp=sharing)
 * [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/pdf/1802.09941.pdf), Bel-Nun, Hoefler (2018), [video](https://www.youtube.com/watch?v=xtxxLWZznBI)
 * Medium: [RegNet or How to methodologically design effective networks](https://medium.com/analytics-vidhya/regnet-or-how-to-methodologically-design-effective-networks-c3560c1cf436), Chris Ha (2000)
 * [Hands-on Bayesian Neural Networks - a Tutorial for Deep Learning Users](https://arxiv.org/pdf/2007.06823.pdf), L. V. Jospin et al (2021)
+
+#### Image style transfer
+* [Texture Synthesis Using Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2015/file/a5e00132373a7031000fd987a3c9f87b-Paper.pdf), L.A.Gatys et al (2016)
+* [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf), L.A.Gatys et al (2016)
 
 #### Object Detection from Point Clouds
 * PapersWithCode: [PointPillars](https://paperswithcode.com/search?q_meta=&q_type=&q=pointpillars)
