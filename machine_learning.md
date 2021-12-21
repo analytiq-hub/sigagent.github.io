@@ -101,7 +101,7 @@ MZt6vy8UiBcWEco?usp=sharing)
 * [Hands-on Bayesian Neural Networks - a Tutorial for Deep Learning Users](https://arxiv.org/pdf/2007.06823.pdf), L. V. Jospin et al (2021)
 
 #### Image style transfer
-* [Texture Synthesis Using Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2015/file/a5e00132373a7031000fd987a3c9f87b-Paper.pdf), L.A.Gatys et al (2016)
+* [Texture Synthesis Using Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2015/file/a5e00132373a7031000fd987a3c9f87b-Paper.pdf), L.A.Gatys et al (2016) [code](https://github.com/leongatys/DeepTextures)
 * [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf), L.A.Gatys et al (2016)
 
 #### Object Detection from Point Clouds
