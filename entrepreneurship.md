@@ -8,4 +8,4 @@ title: Entrepreneurship
 * Patrick Campbell's <a href="https://www.profitwell.com/blog/all">blog</a> on freemium, SAAS revenue, marketing and sales strategy. If Patrick was not running a <a href="https://www.profitwell.com">business</a>, he could be an economics professor.
 
 #### Pitching in Boston
-* [Startupalooza: Pitch Angel VCs at CIC Boston](https://cic.com/new-events/https/wwweventbritecom/e/pitch-angel-vcs-at-cic-boston-free-capital-raising-workshop-tickets-54868682707discountcic)
+* [Startupalooza: Pitch Angel VCs at CIC Boston](https://cic.com/new-events/https/wwweventbritecom/e/pitch-angel-vcs-at-cic-boston-free-capital-raising-workshop-tickets-54868682707discountcic), [meetup](https://www.meetup.com/startupalooza/)
