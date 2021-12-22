@@ -102,7 +102,7 @@ MZt6vy8UiBcWEco?usp=sharing)
 
 #### Image style transfer
 * [Texture Synthesis Using Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2015/file/a5e00132373a7031000fd987a3c9f87b-Paper.pdf), L.A.Gatys et al (2016) [code](https://github.com/leongatys/DeepTextures)
-* [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf), L.A.Gatys et al (2016)
+* [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf), L.A.Gatys et al (2016), [torch code](https://github.com/jcjohnson/neural-style)
 
 #### Object Detection from Point Clouds
 * PapersWithCode: [PointPillars](https://paperswithcode.com/search?q_meta=&q_type=&q=pointpillars)
