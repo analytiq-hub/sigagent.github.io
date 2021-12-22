@@ -118,6 +118,9 @@ MZt6vy8UiBcWEco?usp=sharing)
 #### MLOps
 * D. Sculley et al: [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) (2015)
 
+#### People
+* [Justin Johnson](https://web.eecs.umich.edu/~justincj/)
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cognitive Science](cognitive_science.md)
