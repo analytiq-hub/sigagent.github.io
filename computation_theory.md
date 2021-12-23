@@ -14,6 +14,11 @@ title: Computation Theory
 
 #### Posts
 * Stephen Wolfram: [Finally We May Have a Path to the Fundamental Theory of Physics… and It’s Beautiful](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/) (2020)
+* Julie Rehmeyer: [Voevodsky’s Mathematical Revolution](https://blogs.scientificamerican.com/guest-blog/voevodskye28099s-mathematical-revolution/) (2013)
+
+#### People
+* [Klaus Sutner](http://www.cs.cmu.edu/~sutner/papers.html), [Google scholar](https://scholar.google.com/citations?user=jA7e-WkAAAAJ&hl=en)
+* [Stephen Wolfram]
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
