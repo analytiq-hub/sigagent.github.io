@@ -57,6 +57,7 @@ MZt6vy8UiBcWEco?usp=sharing)
 * Michael Bronstein: [Geometric Deep Learning: the Erlangen Programme of ML](https://iclr.cc/virtual/2021/invited-talk/3717) (2021)
   * [Geometric Deep LearningGrids, Groups, Graphs,Geodesics, and Gauges](https://arxiv.org/pdf/2104.13478.pdf), M. Bronstein et al (2021)
 * J. Frankle, M. Carbin:[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) (2019)
+* G. Hinton: [What is wrong with convolutional neural nets ?](https://www.youtube.com/watch?v=rTawFwUvnLE) (2017)
 
 #### Posts
 * [Colah's blog](http://colah.github.io/)
