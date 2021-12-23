@@ -58,6 +58,7 @@ MZt6vy8UiBcWEco?usp=sharing)
   * [Geometric Deep LearningGrids, Groups, Graphs,Geodesics, and Gauges](https://arxiv.org/pdf/2104.13478.pdf), M. Bronstein et al (2021)
 * J. Frankle, M. Carbin:[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) (2019)
 * G. Hinton: [What is wrong with convolutional neural nets ?](https://www.youtube.com/watch?v=rTawFwUvnLE) (2017)
+* G. Hinton: [Artificial Intelligence: Turning our understanding of the mind right side up](https://www.youtube.com/watch?v=fDR1I2Shw_E) (2017)
 
 #### Posts
 * [Colah's blog](http://colah.github.io/)
