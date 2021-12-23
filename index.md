@@ -10,6 +10,7 @@ layout: home
 … robotics, fintech, and distributed systems.
 
 * [Andrei's posts on Medium](medium.md)
+* [Andrei's Amazon reviews](https://www.amazon.com/gp/profile/amzn1.account.AH2JFOWQ673YGWLX22JI2BKYOUXA/ref=cm_cr_dp_d_gw_tr?ie=UTF8)
 
 ## Things I read, watch or listen
 
