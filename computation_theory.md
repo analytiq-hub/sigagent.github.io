@@ -18,6 +18,7 @@ title: Computation Theory
 
 #### People
 * [Klaus Sutner](http://www.cs.cmu.edu/~sutner/papers.html), [Google scholar](https://scholar.google.com/citations?user=jA7e-WkAAAAJ&hl=en)
+  * [Turing vs. Bourbaki](https://www.cs.cmu.edu/~sutner/CDM/papers/bloomington14-6up.pdf) - Teaching Mathematics to CS Majors (Intro to CMS math class for Computer Science, 2021)
 * [Stephen Wolfram]
 
 #### Other
