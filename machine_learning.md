@@ -80,7 +80,9 @@ MZt6vy8UiBcWEco?usp=sharing)
 * Medium: [Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255), Thomas Wolf (2018)
 * Towards Data Science: [Distributed Neural Network Training In Pytorch](https://towardsdatascience.com/distributed-neural-network-training-in-pytorch-5e766e2a9e62), Nilesh Vijayrania (2020)
 
-#### Optimizers
+#### Optimization
+* [CS231n](http://cs231n.stanford.edu/) [Lecture 7](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7&t=13s) (2017)
+* [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](https://arxiv.org/pdf/1406.2572.pdf), Y. Dauphin et al (2014)
 * [optim.Adam vs optim.SGD. Let’s dive in](https://medium.com/@Biboswan98/optim-adam-vs-optim-sgd-lets-dive-in-8dbf1890fbdc)
 
 #### Articles
@@ -103,9 +105,6 @@ MZt6vy8UiBcWEco?usp=sharing)
 * [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/pdf/1802.09941.pdf), Bel-Nun, Hoefler (2018), [video](https://www.youtube.com/watch?v=xtxxLWZznBI)
 * Medium: [RegNet or How to methodologically design effective networks](https://medium.com/analytics-vidhya/regnet-or-how-to-methodologically-design-effective-networks-c3560c1cf436), Chris Ha (2000)
 * [Hands-on Bayesian Neural Networks - a Tutorial for Deep Learning Users](https://arxiv.org/pdf/2007.06823.pdf), L. V. Jospin et al (2021)
-
-#### Optimization
-* [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](https://arxiv.org/pdf/1406.2572.pdf), Y. Dauphin et al (2014)
 
 #### Image style transfer
 * [Texture Synthesis Using Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2015/file/a5e00132373a7031000fd987a3c9f87b-Paper.pdf), L.A.Gatys et al (2016) [code](https://github.com/leongatys/DeepTextures)
