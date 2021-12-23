@@ -90,13 +90,14 @@ title: Self Driving Cars
 * [LiDAR and Camera Calibration using Motion Estimated by Sensor Fusion Odometry](https://arxiv.org/pdf/1804.05178.pdf), Ishikawa et al (2018)
 * [Automatic Extrinsic Calibration of a Camera and a 3D LiDAR using Line and Plane Correspondences](https://www.cs.cmu.edu/~kaess/pub/Zhou18iros.pdf), Zhou et al (2018)
 
-#### Blogs
+#### Blogs, Videos
 * [Pixelopolis, a self-driving car demo from Google I/O built with TF-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html) (July 13, 2020)
 * Alex Kendall: [Now is the Time for Reinforcement Learning on Real Robots](https://alexgkendall.com/reinforcement_learning/now_is_the_time_for_reinforcement_learning_on_real_robots/)
 * [Tesla AI Day 2021](https://www.youtube.com/watch?v=fdtC1AxFNkk)
   * Vincent Feng: [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
   * Jonathan Hui: [Understanding Feature Pyramid Networks for object detection (FPN)](https://jonathan-hui.medium.com/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c) (2018)
-
+* Waymo
+  * WSJ: [The Race for Self-Driving Taxis: Waymo Puts Urban Terrain to the Test](https://www.wsj.com/video/series/in-depth-features/the-race-for-self-driving-taxis-waymo-puts-urban-terrain-to-the-test/F0A447AB-6ED9-4EB3-B7A8-1EE00682BB50?page=1) (2021)
 
 #### Products
 * [Autoware.ai](https://www.autoware.ai/) project
