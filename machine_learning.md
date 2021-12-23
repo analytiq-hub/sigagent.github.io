@@ -21,6 +21,7 @@ MZt6vy8UiBcWEco?usp=sharing)
 * [fast.ai](https://www.fast.ai/)
 
 #### Courses
+* [Neural Networks for Machine Learning](https://www.cs.toronto.edu/~hinton/coursera_lectures.html), G. Hinton, 2012 (Coursera Lectures)
 * MIT
   * 9.520/6.860 Statistical Learning Theory and Applications, [Fall 2019](http://www.mit.edu/~9.520/fall19/), [Fall 2021](https://cbmm.mit.edu/9-520), [videos](https://cbmm.mit.edu/9-520/videos)
   * 6.S191 Introduction to Deep Learning, [IAP 2022](http://introtodeeplearning.com/) [upcoming videos](https://www.youtube.com/channel/UCtslD4DGH6PKyG_1gFAX7sg)
@@ -28,6 +29,7 @@ MZt6vy8UiBcWEco?usp=sharing)
   * [CS221](https://stanford-cs221.github.io): Artificial Intelligence: Principles and Techniques (Autumn 2019), [syllabus](https://stanford-cs221.github.io/autumn2019/),[video](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
   * [CS231n](http://cs231n.stanford.edu/): Convolutional Neural Networks for Visual Recognition (Spring 2017), [syllabus](https://cs231n.github.io/), [videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
     * Karpathy's [ConvNetJS CIFAR-10 demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
+* Yann LeCun [Deep Learning](https://www.youtube.com/watch?v=ChLEJA6J2b8&list=PL80I41oVxglJ0kTDV7i3aHBIXe65nTxE7&index=6) course at College de France (2016)
 
 #### Videos
 * 3Blue1Brown Series
@@ -52,8 +54,6 @@ MZt6vy8UiBcWEco?usp=sharing)
   * [Convolutional Neural Networks](https://www.youtube.com/watch?v=iaSUYvmCekI), Alexander Amini
   * [Deep Generative Modeling](https://www.youtube.com/watch?v=rZufA635dq4&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4), Ava Soleimany
   * [Deep Reinforcement Learning](https://www.youtube.com/watch?v=i6Mi2_QM3rA), Alexander Amini
-* [Neural Networks for Machine Learning](https://www.cs.toronto.edu/~hinton/coursera_lectures.html), G. Hinton, 2012 (Coursera Lectures)
-* Yann LeCun [Deep Learning](https://www.youtube.com/watch?v=ChLEJA6J2b8&list=PL80I41oVxglJ0kTDV7i3aHBIXe65nTxE7&index=6) course at College de France (2016)
 * Michael Bronstein: [Geometric Deep Learning: the Erlangen Programme of ML](https://iclr.cc/virtual/2021/invited-talk/3717) (2021)
   * [Geometric Deep LearningGrids, Groups, Graphs,Geodesics, and Gauges](https://arxiv.org/pdf/2104.13478.pdf), M. Bronstein et al (2021)
 * J. Frankle, M. Carbin:[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) (2019)
