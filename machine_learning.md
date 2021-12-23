@@ -30,6 +30,9 @@ MZt6vy8UiBcWEco?usp=sharing)
   * 6.S191 Introduction to Deep Learning, [IAP 2022](http://introtodeeplearning.com/) [upcoming videos](https://www.youtube.com/channel/UCtslD4DGH6PKyG_1gFAX7sg)
   * 9.520/6.860 Statistical Learning Theory and Applications, [Fall 2019](http://www.mit.edu/~9.520/fall19/), [Fall 2021](https://cbmm.mit.edu/9-520), [videos](https://cbmm.mit.edu/9-520/videos)
 
+#### Conferences
+* [NeurIPS](https://nips.cc/)
+
 #### Videos
 * 3Blue1Brown Series
   * [What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)
