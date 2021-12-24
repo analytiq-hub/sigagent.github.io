@@ -124,6 +124,7 @@ title: Self Driving Cars
 
 #### People
 * [Felipe Codevilla](https://www.codevilla.info/)
+* [Dragomir Anguelov](https://scholar.google.com/citations?user=T04c3fwAAAAJ&hl=en) (Waymo)
 
 #### Libraries
 * [COiLTRAiNE: Conditional Imitation Learning Training Framework](https://github.com/felipecode/coiltraine)
