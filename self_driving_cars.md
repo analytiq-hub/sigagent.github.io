@@ -119,12 +119,13 @@ title: Self Driving Cars
     * [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/pdf/1812.03079.pdf), with Alex Krizhevsky and Abhijit Ogale (2018)
     * [Learning to Drive: Beyond Pure Imitation](https://medium.com/waymo/learning-to-drive-beyond-pure-imitation-465499f8bcb2)
     * [Teaching a Car to Drive Itself by Imitation and Imagination](https://www.youtube.com/watch?v=mxqdVO462HU) (Google I/O'19)
+  * [Dragomir Anguelov](https://scholar.google.com/citations?user=T04c3fwAAAAJ&hl=en)
+    * [Machine Learning for Autonomous Driving at Scale](https://www.youtube.com/watch?v=BV4EXwlb3yo) (CVPR 2020 invited talk)
   * [Waymo Public Road Safety Performance Data](https://storage.googleapis.com/sdc-prod/v1/safety-report/Waymo-Public-Road-Safety-Performance-Data.pdf) (2020)
   * [Simulation City: Introducing Waymo's most advanced simulation system yet for autonomous driving](https://blog.waymo.com/2021/06/SimulationCity.html?m=1) (2020)
 
 #### People
 * [Felipe Codevilla](https://www.codevilla.info/)
-* [Dragomir Anguelov](https://scholar.google.com/citations?user=T04c3fwAAAAJ&hl=en) (Waymo)
 
 #### Libraries
 * [COiLTRAiNE: Conditional Imitation Learning Training Framework](https://github.com/felipecode/coiltraine)
