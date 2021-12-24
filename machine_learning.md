@@ -86,6 +86,11 @@ MZt6vy8UiBcWEco?usp=sharing)
 * Towards Data Science: [Distributed Neural Network Training In Pytorch](https://towardsdatascience.com/distributed-neural-network-training-in-pytorch-5e766e2a9e62), Nilesh Vijayrania (2020)
 * Serge-Paul Carrasco: [Distributed and Declarative Deep Learning Systems](https://asiliconvalleyinsider.com/2021/09/12/distributed-and-declarative-deep-learning-systems/) (2021)
 * [Ludwig: A type-based declarative deep learning toolbox](https://arxiv.org/pdf/1909.07930.pdf)
+* Horovod
+  * [Docs](https://horovod.readthedocs.io/en/stable/)
+  * [Horovod: Multi-GPU and multi-node data parallelism](http://www.idris.fr/eng/jean-zay/gpu/jean-zay-gpu-hvd-tf-multi-eng.html)
+* [determined.ai](http://determined.ai)
+  * [Why Slurm Makes Deep Learning Engineers Squirm](https://www.determined.ai/blog/slurm-lacking-deep-learning)
 
 #### Optimization
 * [CS231n](http://cs231n.stanford.edu/) [Lecture 7](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7&t=13s) (2017)
