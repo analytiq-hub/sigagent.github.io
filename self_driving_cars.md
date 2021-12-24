@@ -115,7 +115,10 @@ title: Self Driving Cars
 * Waymo
   * WSJ: [The Race for Self-Driving Taxis: Waymo Puts Urban Terrain to the Test](https://www.wsj.com/video/series/in-depth-features/the-race-for-self-driving-taxis-waymo-puts-urban-terrain-to-the-test/F0A447AB-6ED9-4EB3-B7A8-1EE00682BB50?page=1) (2021)
   * Waymo Team: [Riding with Waymo One today](https://medium.com/waymo/riding-with-waymo-one-today-9ac8164c5c0e) (2018)
-  * [Mayank Bansal](https://mayban.firebaseapp.com/): [Teaching a Car to Drive Itself by Imitation and Imagination](https://www.youtube.com/watch?v=mxqdVO462HU) (Google I/O'19)
+  * [Mayank Bansal](https://mayban.firebaseapp.com/):
+    * [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/pdf/1812.03079.pdf), with Alex Krizhevsky and Abhijit Ogale (2018)
+    * [Learning to Drive: Beyond Pure Imitation](https://medium.com/waymo/learning-to-drive-beyond-pure-imitation-465499f8bcb2)
+    * [Teaching a Car to Drive Itself by Imitation and Imagination](https://www.youtube.com/watch?v=mxqdVO462HU) (Google I/O'19)
   * [Waymo Public Road Safety Performance Data](https://storage.googleapis.com/sdc-prod/v1/safety-report/Waymo-Public-Road-Safety-Performance-Data.pdf) (2020)
   * [Simulation City: Introducing Waymo's most advanced simulation system yet for autonomous driving](https://blog.waymo.com/2021/06/SimulationCity.html?m=1) (2020)
 
