@@ -93,7 +93,9 @@ title: Self Driving Cars
 #### Blogs, Videos
 * [Pixelopolis, a self-driving car demo from Google I/O built with TF-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html) (July 13, 2020)
 * Alex Kendall: [Now is the Time for Reinforcement Learning on Real Robots](https://alexgkendall.com/reinforcement_learning/now_is_the_time_for_reinforcement_learning_on_real_robots/)
-* Serge-Paul Carrasco: [Machine Learning Models for Autonomous Vehicles](https://asiliconvalleyinsider.com/2020/08/22/modeling-for-automous-vehicles/) (2020)
+* Serge-Paul Carrasco
+  * [Waymo (ChauffeurNet) versus Telsa (HydraNet)](https://asiliconvalleyinsider.com/2020/03/08/waymo-chauffeurnet-versus-telsa-hydranet/) (2020)
+  * [Machine Learning Models for Autonomous Vehicles](https://asiliconvalleyinsider.com/2020/08/22/modeling-for-automous-vehicles/) (2020)
 
 #### Products, Companies
 * [Autoware.ai](https://www.autoware.ai/) project
