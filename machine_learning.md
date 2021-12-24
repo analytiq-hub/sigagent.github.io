@@ -97,6 +97,8 @@ MZt6vy8UiBcWEco?usp=sharing)
 
 #### Optimization
 * [CS231n](http://cs231n.stanford.edu/) [Lecture 7](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7&t=13s) (2017)
+* [Practical Recommendations for Gradient-Based Training of Deep
+Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [On the importance of initialization and momentum in deep learning](https://www.cs.toronto.edu/~fritz/absps/momentum.pdf), I. Sutskever et al (2013)
 * [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](https://arxiv.org/pdf/1406.2572.pdf), Y. Dauphin et al (2014)
 * [optim.Adam vs optim.SGD. Let’s dive in](https://medium.com/@Biboswan98/optim-adam-vs-optim-sgd-lets-dive-in-8dbf1890fbdc)
