@@ -85,6 +85,7 @@ MZt6vy8UiBcWEco?usp=sharing)
 * Medium: [Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255), Thomas Wolf (2018)
 * Towards Data Science: [Distributed Neural Network Training In Pytorch](https://towardsdatascience.com/distributed-neural-network-training-in-pytorch-5e766e2a9e62), Nilesh Vijayrania (2020)
 * Serge-Paul Carrasco: [Distributed and Declarative Deep Learning Systems](https://asiliconvalleyinsider.com/2021/09/12/distributed-and-declarative-deep-learning-systems/) (2021)
+* [Ludwig: A type-based declarative deep learning toolbox](https://arxiv.org/pdf/1909.07930.pdf)
 
 #### Optimization
 * [CS231n](http://cs231n.stanford.edu/) [Lecture 7](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7&t=13s) (2017)
