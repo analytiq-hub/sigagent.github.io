@@ -91,6 +91,7 @@ MZt6vy8UiBcWEco?usp=sharing)
   * [Horovod: Multi-GPU and multi-node data parallelism](http://www.idris.fr/eng/jean-zay/gpu/jean-zay-gpu-hvd-tf-multi-eng.html)
 * [determined.ai](http://determined.ai)
   * [Why Slurm Makes Deep Learning Engineers Squirm](https://www.determined.ai/blog/slurm-lacking-deep-learning)
+* [DRAGON: A Dynamic Scheduling and Scaling Controller for Managing Distributed Deep Learning Jobs in Kubernetes Cluster](https://www.scitepress.org/Papers/2019/77076/77076.pdf), C. Lin et al (2019)
 
 #### Optimization
 * [CS231n](http://cs231n.stanford.edu/) [Lecture 7](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7&t=13s) (2017)
