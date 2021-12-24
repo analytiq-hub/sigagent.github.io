@@ -106,10 +106,12 @@ title: Self Driving Cars
   * [Tesla AI Day 2021](https://www.youtube.com/watch?v=fdtC1AxFNkk)
     * Vincent Feng: [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
     * Jonathan Hui: [Understanding Feature Pyramid Networks for object detection (FPN)](https://jonathan-hui.medium.com/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c) (2018)
-  * [Andrej Karpathy on the visionary AI in Tesla's autonomous driving](https://shows.acast.com/the-robot-brains/episodes/andrej-karpathy-on-the-visionary-ai-in-teslas-autonomous-dri) (2021)
-  * Andrej Karpathy: [Multi-Task Learning in the Wilderness](https://slideslive.com/38917690/multitask-learning-in-the-wilderness), ICML 2019, about Tesla Autopilot's hierarchical model that detecs moving objects, static objects, signs, traffic lights. References:
-    * [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/pdf/1901.02985.pdf), C. Liu et al (2019)
-    * [Which Tasks Should Be Learned Together in Multi-task Learning?](https://arxiv.org/pdf/1905.07553.pdf), T. Standley et al (2020)
+  * Andrej Karpathy
+    * [On the visionary AI in Tesla's autonomous driving](https://shows.acast.com/the-robot-brains/episodes/andrej-karpathy-on-the-visionary-ai-in-teslas-autonomous-dri) (2021)
+    * [PyTorch at Tesla](https://www.youtube.com/watch?v=oBklltKXtDE) (2019)
+    * [Multi-Task Learning in the Wilderness](https://slideslive.com/38917690/multitask-learning-in-the-wilderness), ICML 2019, about Tesla Autopilot's hierarchical model that detecs moving objects, static objects, signs, traffic lights. References:
+      * [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/pdf/1901.02985.pdf), C. Liu et al (2019)
+      * [Which Tasks Should Be Learned Together in Multi-task Learning?](https://arxiv.org/pdf/1905.07553.pdf), T. Standley et al (2020)
 * Waymo
   * WSJ: [The Race for Self-Driving Taxis: Waymo Puts Urban Terrain to the Test](https://www.wsj.com/video/series/in-depth-features/the-race-for-self-driving-taxis-waymo-puts-urban-terrain-to-the-test/F0A447AB-6ED9-4EB3-B7A8-1EE00682BB50?page=1) (2021)
   * Waymo Team: [Riding with Waymo One today](https://medium.com/waymo/riding-with-waymo-one-today-9ac8164c5c0e) (2018)
