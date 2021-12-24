@@ -9,6 +9,9 @@ title: Theater
 #### Essays
 * Anne Quinney: [Excess and Identity: The Franco-Romanian Ionesco Combats Rhinoceritis](https://www.jstor.org/stable/40040007): South Central Review Vol. 24, No. 3 (Fall, 2007), pp. 36-52
 
+#### Interviews
+* [Profesioniştii cu regizorul Andrei Şerban](https://www.youtube.com/watch?v=ZkExNbsj7lg) (2019)
+
 #### Links
 * [Philosophy](philosophy.md)
 * [Religion](religion.md)

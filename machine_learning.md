@@ -91,6 +91,7 @@ MZt6vy8UiBcWEco?usp=sharing)
   * [Horovod: Multi-GPU and multi-node data parallelism](http://www.idris.fr/eng/jean-zay/gpu/jean-zay-gpu-hvd-tf-multi-eng.html)
 * [determined.ai](http://determined.ai)
   * [Why Slurm Makes Deep Learning Engineers Squirm](https://www.determined.ai/blog/slurm-lacking-deep-learning)
+  * [Distributed Training using Apache MXNet with Horovod](https://medium.com/apache-mxnet/distributed-training-using-apache-mxnet-with-horovod-44f98bf0e7b7)
   * [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/): [How to run distributed training using Horovod and MXNet on AWS DL Containers and AWS  Deep Learning AMIs](https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/)
 * [DRAGON: A Dynamic Scheduling and Scaling Controller for Managing Distributed Deep Learning Jobs in Kubernetes Cluster](https://www.scitepress.org/Papers/2019/77076/77076.pdf), C. Lin et al (2019)
 
