@@ -11,6 +11,7 @@ title: Theater
 
 #### Interviews
 * [Profesioniştii cu regizorul Andrei Şerban](https://www.youtube.com/watch?v=ZkExNbsj7lg) (2019)
+* [Profesioniştii cu Ion Caramitru](https://www.youtube.com/watch?v=Qy4dvRl3FNU) (2020)
 
 #### Links
 * [Philosophy](philosophy.md)
