@@ -112,6 +112,8 @@ title: Self Driving Cars
     * [Multi-Task Learning in the Wilderness](https://slideslive.com/38917690/multitask-learning-in-the-wilderness), ICML 2019, about Tesla Autopilot's hierarchical model that detecs moving objects, static objects, signs, traffic lights. References:
       * [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/pdf/1901.02985.pdf), C. Liu et al (2019)
       * [Which Tasks Should Be Learned Together in Multi-task Learning?](https://arxiv.org/pdf/1905.07553.pdf), T. Standley et al (2020)
+    * [AI for Full-Self Driving at Tesla](https://www.youtube.com/watch?v=hx7BXih7zx8) (ScaledML 2020)
+    * [Workshop on autonomous driving](https://www.youtube.com/watch?v=g6bOwQdCJrc) (CVPR 2021)
 * Waymo
   * WSJ: [The Race for Self-Driving Taxis: Waymo Puts Urban Terrain to the Test](https://www.wsj.com/video/series/in-depth-features/the-race-for-self-driving-taxis-waymo-puts-urban-terrain-to-the-test/F0A447AB-6ED9-4EB3-B7A8-1EE00682BB50?page=1) (2021)
   * Waymo Team: [Riding with Waymo One today](https://medium.com/waymo/riding-with-waymo-one-today-9ac8164c5c0e) (2018)
