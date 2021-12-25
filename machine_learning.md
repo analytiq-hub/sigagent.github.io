@@ -13,8 +13,6 @@ title: Machine Learning
 * [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/), I. Goodfellow, Y. Bengio, A. Courville (2016)
 * [Deep Learning Systems: Algorithms, Compilers, and Processors for Large-Scale Production](https://deeplearningsystems.ai/), Andres Rodriguez (2020)
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/14920326461): Concepts, Tools, and Techniques to Build Intelligent Systems, by Aurelien Geron (2nd ed, 2019) ([Jupyter notebooks](https://github.com/ageron/handson-ml2)). Very complete, but using TensorFlow. 
-* [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf), Stevens, Antiga, Viehmann (2020), [github]((https://github.com/deep-learning-with-pytorch/dlwpt-code)
-MZt6vy8UiBcWEco?usp=sharing)
 * [Python Machine Learning Cookbook](https://www.amazon.com/Machine-Learning-Python-Cookbook-Preprocessing/dp/1491989386/ref=asc_df_1491989386/), Chris Albon (2018)
 * [Learning Machine Learning](https://www.informit.com/store/learning-deep-learning-theory-and-practice-of-neural-9780137470358), M. Ekman (2021), [github](https://github.com/NVDLI/LDL/tree/main/pt_framework)
 * [fast.ai](https://www.fast.ai/)
@@ -29,6 +27,12 @@ MZt6vy8UiBcWEco?usp=sharing)
 * MIT
   * 6.S191 Introduction to Deep Learning, [IAP 2022](http://introtodeeplearning.com/) [upcoming videos](https://www.youtube.com/channel/UCtslD4DGH6PKyG_1gFAX7sg)
   * 9.520/6.860 Statistical Learning Theory and Applications, [Fall 2019](http://www.mit.edu/~9.520/fall19/), [Fall 2021](https://cbmm.mit.edu/9-520), [videos](https://cbmm.mit.edu/9-520/videos)
+
+#### Languages
+* PyTorch
+  * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf), Stevens, Antiga, Viehmann (2020), [github]((https://github.com/deep-learning-with-pytorch/dlwpt-code)
+* TensorFlow
+  * [CS231_n](http://cs231n.stanford.edu) [Lecture 8, Deep Learning Software](https://www.youtube.com/watch?v=6SlgtELqOWc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=8&t=3s), [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf) compares TensorFlow, PyTorch, Caffe
 
 #### Conferences
 * [CVPR](https://cvpr2020.thecvf.com/)
