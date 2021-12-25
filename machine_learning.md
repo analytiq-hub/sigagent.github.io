@@ -19,7 +19,7 @@ title: Machine Learning
 
 #### Courses
 * [Neural Networks for Machine Learning](https://www.cs.toronto.edu/~hinton/coursera_lectures.html), G. Hinton, 2012 (Coursera Lectures)
-* Stanford
+* [Stanford](https://www.youtube.com/user/stanfordonline/playlists)
   * [CS221](https://stanford-cs221.github.io): Artificial Intelligence: Principles and Techniques (Autumn 2019), [syllabus](https://stanford-cs221.github.io/autumn2019/),[video](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
   * CS229 - Machine Learning, Autumn 2018 [video](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) , [slides](http://cs229.stanford.edu/syllabus-autumn2018.html), Summer 2021 [video, slides](http://cs229.stanford.edu/syllabus-summer2019.html)
   * [CS231n](http://cs231n.stanford.edu/): Convolutional Neural Networks for Visual Recognition (Spring 2017), [syllabus](https://cs231n.github.io/), [videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [2017 slides](http://cs231n.stanford.edu/slides/2017), [2021 slides](http://cs231n.stanford.edu/slides/2021)
