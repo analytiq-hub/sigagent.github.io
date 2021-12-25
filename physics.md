@@ -17,6 +17,10 @@ title: Physics
   * K. Mallick: [Thermodynamics and Information Theory](http://www.bourbaphy.fr/mallick.pdf), [video](https://www.youtube.com/watch?v=pXyONXaqqP8)
   * O. Rioul: [This is IT: A Primer on Shannon’s Entropy and Information](http://www.bourbaphy.fr/rioul.pdf), [video](https://www.youtube.com/watch?v=vinCEpee-tc)
 
+#### Courses
+* MIT
+  * [8-04 Quantum Physics I](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/) (2014)
+
 #### Videos
 * Sean Carroll: [The biggest ideas in the universe](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
 * Lex Fridman:
