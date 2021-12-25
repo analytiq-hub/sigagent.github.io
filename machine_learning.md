@@ -33,6 +33,7 @@ title: Machine Learning
   * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf), Stevens, Antiga, Viehmann (2020), [github]((https://github.com/deep-learning-with-pytorch/dlwpt-code)
 * TensorFlow
   * [CS231_n](http://cs231n.stanford.edu) [Lecture 8, Deep Learning Software](https://www.youtube.com/watch?v=6SlgtELqOWc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=8&t=3s), [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf) compares TensorFlow, PyTorch, Caffe, discusses static and dynamic computation graphs
+* Others: Caffe(Berkeley), Caffe2(Facebook), MXNet(Amazon), CNTK(Microsoft), Paddle(Baidu)
 
 #### Conferences
 * [CVPR '20](https://cvpr2020.thecvf.com/)
