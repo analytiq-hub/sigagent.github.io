@@ -35,10 +35,10 @@ title: Machine Learning
   * [CS231_n](http://cs231n.stanford.edu) [Lecture 8, Deep Learning Software](https://www.youtube.com/watch?v=6SlgtELqOWc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=8&t=3s), [slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf) compares TensorFlow, PyTorch, Caffe, discusses static and dynamic computation graphs
 
 #### Conferences
-* [CVPR](https://cvpr2020.thecvf.com/)
+* [CVPR '20](https://cvpr2020.thecvf.com/)
 * [ICLR](https://iclr.cc/)
 * [ICML](https://icml.cc/)
-* [NAACL](https://2021.naacl.org/)
+* [NAACL '21](https://2021.naacl.org/)
 * [NeurIPS](https://nips.cc/)
 * [OpML '20](https://www.usenix.org/conference/opml20/conference-program)
 
