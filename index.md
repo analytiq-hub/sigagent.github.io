@@ -31,6 +31,7 @@ layout: home
 * [Market Trading](market_trading.md)
 * Math
   * [Abstract Nonsense](math/abstract_nonsense.md)
+  * [Automated Theorem Proving](math/automated_theorem_proving.md)
   * [High School Problems](math/high_school.md)
   * [High School Problem Hints and Solutions](math/high_school_solutions.md)
 * [Meta Learning](meta_learning.md)

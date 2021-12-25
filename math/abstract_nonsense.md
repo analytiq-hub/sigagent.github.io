@@ -23,6 +23,3 @@ title: Math (Abstract Nonsense)
 
 #### Blogs
 * Peter Woit: [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/)
-
-#### Posts
-* [Building the Mathematical Library of the Future](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/), Kevin Hartnett (2020)
