@@ -31,8 +31,8 @@ layout: home
 * [Market Trading](market_trading.md)
 * Math
   * [Abstract Nonsense](math/abstract_nonsense.md)
-  * [High School Problems](math_high_school.md)
-  * [High School Problem Hints and Solutions](math_high_school_solutions.md)
+  * [High School Problems](math/high_school.md)
+  * [High School Problem Hints and Solutions](math/high_school_solutions.md)
 * [Meta Learning](meta_learning.md)
 * [MLOps](mlops.md)
 * [Natural Language Processing](natural_language_processing.md)
