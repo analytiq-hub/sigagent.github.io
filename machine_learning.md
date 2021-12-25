@@ -21,10 +21,12 @@ title: Machine Learning
 * [Neural Networks for Machine Learning](https://www.cs.toronto.edu/~hinton/coursera_lectures.html), G. Hinton, 2012 (Coursera Lectures)
 * Stanford
   * [CS221](https://stanford-cs221.github.io): Artificial Intelligence: Principles and Techniques (Autumn 2019), [syllabus](https://stanford-cs221.github.io/autumn2019/),[video](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+  * CS229 - Machine Learning, Autumn 2018 [video](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) , [slides](http://cs229.stanford.edu/syllabus-autumn2018.html), Summer 2021 [video, slides](http://cs229.stanford.edu/syllabus-summer2019.html)
   * [CS231n](http://cs231n.stanford.edu/): Convolutional Neural Networks for Visual Recognition (Spring 2017), [syllabus](https://cs231n.github.io/), [videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [2017 slides](http://cs231n.stanford.edu/slides/2017), [2021 slides](http://cs231n.stanford.edu/slides/2021)
     * Karpathy's [ConvNetJS CIFAR-10 demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
 * Yann LeCun [Deep Learning](https://www.youtube.com/watch?v=ChLEJA6J2b8&list=PL80I41oVxglJ0kTDV7i3aHBIXe65nTxE7&index=6) course at College de France (2016)
   * [CS224n](http://web.stanford.edu/class/cs224n/):Natural Language Processing with Deep Learning [Winter 2017 video](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6), [Winter 2019 video](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+  * [CS224W](): Machine Learning with Graphs [Spring 2021 video](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 * MIT
   * 6.S191 Introduction to Deep Learning, [IAP 2022](http://introtodeeplearning.com/) [upcoming videos](https://www.youtube.com/channel/UCtslD4DGH6PKyG_1gFAX7sg)
   * 9.520/6.860 Statistical Learning Theory and Applications, [Fall 2019](http://www.mit.edu/~9.520/fall19/), [Fall 2021](https://cbmm.mit.edu/9-520), [videos](https://cbmm.mit.edu/9-520/videos)
