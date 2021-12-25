@@ -7,6 +7,7 @@ title: Automated Theorem Proving
 * Coq
 * Lean
   * [Lean for the Curious Mathematician '20](https://www.youtube.com/watch?v=8mVOIGW5US4&list=PLlF-CfQhukNlxexiNJErGJd2dte_J1t1N&index=1)
+* [Metamath](http://us.metamath.org/downloads/metamath.pdf), by Norman Megill, revised by David A. Wheeler (2019)
 
 #### People
 * [Christian Szegedy](https://research.google/people/ChristianSzegedy/)
