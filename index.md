@@ -30,7 +30,7 @@ layout: home
 * [Machine Learning](machine_learning.md)
 * [Market Trading](market_trading.md)
 * Math
-  * [Abstract Nonsense](math_abstract_nonsense.md)
+  * [Abstract Nonsense](math/abstract_nonsense.md)
   * [High School Problems](math_high_school.md)
   * [High School Problem Hints and Solutions](math_high_school_solutions.md)
 * [Meta Learning](meta_learning.md)

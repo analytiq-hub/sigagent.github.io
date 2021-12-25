@@ -37,6 +37,6 @@ Notations:
 
 
 #### Other
-* [Math (Abstract Nonsense)](math_abstract_nonsense.md)
+* [Math (Abstract Nonsense)](math/abstract_nonsense.md)
 * [Math (High School Problems)](math_high_school.md)
 * [Math (High School Problem Hints and Solutions)](math_high_school_solutions.md)
