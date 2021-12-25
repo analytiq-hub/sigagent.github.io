@@ -5,6 +5,7 @@ title: Theater
 
 #### Videos
 * Eugene Ionesco: [Rhiniceros](https://www.youtube.com/watch?v=jFmNG0lSQ2g) (2002, Peepolykus production). [Play outline](https://en.wikipedia.org/wiki/Rhinoceros_(play)).
+* I.L.Caragiale: [O scrisoare pierdută](https://www.youtube.com/watch?v=vGpXOdgNa9s), Teatrul National (1982)
 
 #### Essays
 * Anne Quinney: [Excess and Identity: The Franco-Romanian Ionesco Combats Rhinoceritis](https://www.jstor.org/stable/40040007): South Central Review Vol. 24, No. 3 (Fall, 2007), pp. 36-52

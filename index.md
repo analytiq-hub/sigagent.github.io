@@ -29,9 +29,10 @@ layout: home
   * [System Tools](system_tools.md)
 * [Machine Learning](machine_learning.md)
 * [Market Trading](market_trading.md)
-* [Math (Abstract Nonsense)](math_abstract_nonsense.md)
-* [Math (High School Problems)](math_high_school.md)
-* [Math (High School Problem Hints and Solutions)](math_high_school_solutions.md)
+* Math
+  * [Abstract Nonsense](math_abstract_nonsense.md)
+  * [High School Problems](math_high_school.md)
+  * [High School Problem Hints and Solutions](math_high_school_solutions.md)
 * [Meta Learning](meta_learning.md)
 * [MLOps](mlops.md)
 * [Natural Language Processing](natural_language_processing.md)
