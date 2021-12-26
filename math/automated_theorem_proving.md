@@ -17,10 +17,6 @@ title: Automated Theorem Proving
     * [Mathematics in Lean introduction - Patrick Massot](https://www.youtube.com/watch?v=lw8EfTmWzRU&list=PLlF-CfQhukNlxexiNJErGJd2dte_J1t1N&index=4)
 * [Metamath](http://us.metamath.org/downloads/metamath.pdf), by Norman Megill, revised by David A. Wheeler (2019)
 
-#### People
-* [Christian Szegedy](https://research.google/people/ChristianSzegedy/)
-* [Vladimir Voevodsky](https://www.math.ias.edu/vladimir/home) (1966-2017)
-
 #### Posts
 * [Building the Mathematical Library of the Future](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/), Kevin Hartnett (2020)
 * Julie Rehmeyer: [Voevodsky’s Mathematical Revolution](https://blogs.scientificamerican.com/guest-blog/voevodskye28099s-mathematical-revolution/) (2013)
@@ -36,6 +32,8 @@ title: Automated Theorem Proving
 
 #### People
 * [Thierry Coquand](http://www.cse.chalmers.se/~coquand/)
+* [Christian Szegedy](https://research.google/people/ChristianSzegedy/)
+* [Vladimir Voevodsky](https://www.math.ias.edu/vladimir/home) (1966-2017)
 
 
 #### Other
