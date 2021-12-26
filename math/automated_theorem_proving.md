@@ -15,3 +15,7 @@ title: Automated Theorem Proving
 
 #### Posts
 * [Building the Mathematical Library of the Future](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/), Kevin Hartnett (2020)
+
+#### Other
+* [Computation Theory](computation_theory.md)
+
