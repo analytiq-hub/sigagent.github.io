@@ -7,7 +7,7 @@ title: Automated Theorem Proving
 * [Homotopy Type Theory](https://hott.github.io/book/nightly/hott-online-1274-gd98a32f.pdf) - Univalent Foundations of Mathematics
 
 #### Languages
-* Coq
+* [Coq](https://coq.inria.fr/)
   * [Coq in a hurry](https://cel.archives-ouvertes.fr/inria-00001173v6/document), Yves Bertot (2017)
   * [Spartan Martin-Löf Type Theory](https://unimath.github.io/Schools/2019-04-Birmingham/Part1_Spartan_Type_Theory/Spartan-Type-Theory.pdf), Andrej Bauer (2019)
   * Video
