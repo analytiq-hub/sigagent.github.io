@@ -25,7 +25,9 @@ title: Automated Theorem Proving
 * Julie Rehmeyer: [Voevodsky’s Mathematical Revolution](https://blogs.scientificamerican.com/guest-blog/voevodskye28099s-mathematical-revolution/) (2013)
 
 #### Talks
-* V. Voevodsky: [Univalent Foundations: New Foundations of Mathematics](https://www.youtube.com/watch?v=E9RiR9AcXeE), IAS Faculty Lecture (2014), [outline](https://www.ias.edu/ideas/2014/voevodsky-origins)
+* V. Voevodsky
+  * [HLF Lecture on Univalent Foundations](https://www.youtube.com/watch?v=gOBqROtRoPA) (2016)
+  * [Univalent Foundations: New Foundations of Mathematics](https://www.youtube.com/watch?v=E9RiR9AcXeE), IAS Faculty Lecture (2014), [outline](https://www.ias.edu/ideas/2014/voevodsky-origins)
 
 #### Summer Schools
 * [School on Univalent Mathematics '22](https://unimath.github.io/cortona2022/), ['19](https://unimath.github.io/Schools/)
