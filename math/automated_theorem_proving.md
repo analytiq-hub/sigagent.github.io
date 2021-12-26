@@ -25,7 +25,7 @@ title: Automated Theorem Proving
 * V. Voevodsky: [Univalent Foundations: New Foundations of Mathematics](https://www.youtube.com/watch?v=E9RiR9AcXeE), IAS Faculty Lecture (2014), [outline](https://www.ias.edu/ideas/2014/voevodsky-origins)
 
 #### Summer Schools
-* [School on Univalent Mathematics '22](https://unimath.github.io/cortona2022/)
+* [School on Univalent Mathematics '22](https://unimath.github.io/cortona2022/), ['19](https://unimath.github.io/Schools/)
 
 #### People
 * [Thierry Coquand](http://www.cse.chalmers.se/~coquand/)
