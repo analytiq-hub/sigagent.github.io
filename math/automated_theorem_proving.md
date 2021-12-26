@@ -23,6 +23,7 @@ title: Automated Theorem Proving
 #### Posts
 * [Building the Mathematical Library of the Future](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/), Kevin Hartnett (2020)
 * Julie Rehmeyer: [Voevodsky’s Mathematical Revolution](https://blogs.scientificamerican.com/guest-blog/voevodskye28099s-mathematical-revolution/) (2013)
+* Peter Woit: [Interview(s) with Vladimir Voevodsky](http://www.math.columbia.edu/~woit/wordpress/?p=4975) (2012)
 
 #### Talks
 * V. Voevodsky
