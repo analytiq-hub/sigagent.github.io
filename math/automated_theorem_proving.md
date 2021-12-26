@@ -3,6 +3,9 @@ layout: page
 mathjax: true
 title: Automated Theorem Proving
 ---
+#### Books
+* [Homotopy Type Theory](https://hott.github.io/book/nightly/hott-online-1274-gd98a32f.pdf) - Univalent Foundations of Mathematics
+
 #### Languages
 * Coq
 * [Lean](https://en.wikipedia.org/wiki/Lean_(proof_assistant))
@@ -15,6 +18,11 @@ title: Automated Theorem Proving
 
 #### Posts
 * [Building the Mathematical Library of the Future](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/), Kevin Hartnett (2020)
+* Julie Rehmeyer: [Voevodsky’s Mathematical Revolution](https://blogs.scientificamerican.com/guest-blog/voevodskye28099s-mathematical-revolution/) (2013)
+
+#### Talks
+* V. Voevodsky: [Univalent Foundations: New Foundations of Mathematics](https://www.youtube.com/watch?v=E9RiR9AcXeE), IAS Faculty Lecture (2014)
+
 
 #### Other
 * [Computation Theory](computation_theory.md)
