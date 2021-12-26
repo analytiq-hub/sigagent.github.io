@@ -8,6 +8,7 @@ title: Automated Theorem Proving
 
 #### Languages
 * Coq
+  * [Coq in a hurry](https://cel.archives-ouvertes.fr/inria-00001173v6/document), Yves Bertot (2017)
 * [Lean](https://en.wikipedia.org/wiki/Lean_(proof_assistant))
   * [Lean for the Curious Mathematician '20](https://www.youtube.com/watch?v=8mVOIGW5US4&list=PLlF-CfQhukNlxexiNJErGJd2dte_J1t1N&index=1)
     * [Mathematics in Lean introduction - Patrick Massot](https://www.youtube.com/watch?v=lw8EfTmWzRU&list=PLlF-CfQhukNlxexiNJErGJd2dte_J1t1N&index=4)
