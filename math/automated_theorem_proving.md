@@ -19,6 +19,7 @@ title: Automated Theorem Proving
 
 #### People
 * [Christian Szegedy](https://research.google/people/ChristianSzegedy/)
+* [Vladimir Voevodsky](https://www.math.ias.edu/vladimir/home) (1966-2017)
 
 #### Posts
 * [Building the Mathematical Library of the Future](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/), Kevin Hartnett (2020)
