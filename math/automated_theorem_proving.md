@@ -26,7 +26,7 @@ title: Automated Theorem Proving
 
 #### Talks
 * V. Voevodsky
-  * [HLF Lecture on Univalent Foundations](https://www.youtube.com/watch?v=gOBqROtRoPA) (2016)
+  * [UniMath](https://www.youtube.com/watch?v=gOBqROtRoPA), Heidelberg (2016), [slides](https://www.math.ias.edu/vladimir/sites/math.ias.edu.vladimir/files/2016_09_22_HLF_Heidelberg.pdf)
   * [Univalent Foundations: New Foundations of Mathematics](https://www.youtube.com/watch?v=E9RiR9AcXeE), IAS Faculty Lecture (2014), [outline](https://www.ias.edu/ideas/2014/voevodsky-origins)
 
 #### Summer Schools
