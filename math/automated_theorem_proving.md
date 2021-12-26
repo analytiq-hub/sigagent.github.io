@@ -11,7 +11,7 @@ title: Automated Theorem Proving
   * [Coq in a hurry](https://cel.archives-ouvertes.fr/inria-00001173v6/document), Yves Bertot (2017)
   * [Spartan Martin-Löf Type Theory](https://unimath.github.io/Schools/2019-04-Birmingham/Part1_Spartan_Type_Theory/Spartan-Type-Theory.pdf), Andrej Bauer (2019)
   * Video
-    * [How to use Coq with Proof General](https://www.youtube.com/watch?v=l6zqLJQCnzo), Andrej Bauer (2011)
+    * [How to use Coq with Proof General](https://www.youtube.com/watch?v=l6zqLJQCnzo), Andrej Bauer (2011). I had to create `pierce_lem.v` in a subfolder under `UniMath/UniMath`, and had to `Require Export UniMath.Foundations.Propositions.` at the top. Also, I had to place `etags` in the `PATH`.
 * [Lean](https://en.wikipedia.org/wiki/Lean_(proof_assistant))
   * [Lean for the Curious Mathematician '20](https://www.youtube.com/watch?v=8mVOIGW5US4&list=PLlF-CfQhukNlxexiNJErGJd2dte_J1t1N&index=1)
     * [Mathematics in Lean introduction - Patrick Massot](https://www.youtube.com/watch?v=lw8EfTmWzRU&list=PLlF-CfQhukNlxexiNJErGJd2dte_J1t1N&index=4)
