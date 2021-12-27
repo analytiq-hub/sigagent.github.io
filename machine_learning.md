@@ -61,10 +61,6 @@ title: Machine Learning
 * Welch Labs
   * [Learning To See](https://www.youtube.com/watch?v=i8D90DkCLhI)
   * [Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs)
-* [Stephen Wolfram: Cellular Automata, Computation, and Physics](https://www.youtube.com/watch?v=ez773teNFYA&t=2539s), Lex Fridman Podcast #89 (2020)
-* [David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning](https://www.youtube.com/watch?v=uPUEq8d73JI&t=2499s), Lex Fridman Podcast #86 (2020)
-* [Ian Goodfellow: Generative Adversarial Networks (GANs)](https://www.youtube.com/watch?v=Z6rxFNMGdn0&t=979s), Lex Fridman Podcast #19 (2019)
-* [Yann LeCun: Deep Learning, ConvNets, and Self-Supervised Learning](https://www.youtube.com/watch?v=SGSOCuByo24), Lex Firdman Podcast #36
 * MIT 6.5191 [Introduction to Deep Learning](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) (2020)
   * [Convolutional Neural Networks](https://www.youtube.com/watch?v=iaSUYvmCekI), Alexander Amini
   * [Deep Generative Modeling](https://www.youtube.com/watch?v=rZufA635dq4&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4), Ava Soleimany
@@ -74,6 +70,14 @@ title: Machine Learning
 * J. Frankle, M. Carbin:[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) (2019)
 * G. Hinton: [What is wrong with convolutional neural nets ?](https://www.youtube.com/watch?v=rTawFwUvnLE) (2017)
 * G. Hinton: [Artificial Intelligence: Turning our understanding of the mind right side up](https://www.youtube.com/watch?v=fDR1I2Shw_E) (2017)
+
+#### Interviews
+* Lex Fridman
+  * [Stephen Wolfram: Cellular Automata, Computation, and Physics](https://www.youtube.com/watch?v=ez773teNFYA&t=2539s), Lex Fridman Podcast #89 (2020)
+  * [David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning](https://www.youtube.com/watch?v=uPUEq8d73JI&t=2499s), Lex Fridman Podcast #86 (2020)
+  * [Ian Goodfellow: Generative Adversarial Networks (GANs)](https://www.youtube.com/watch?v=Z6rxFNMGdn0&t=979s), Lex Fridman Podcast #19 (2019)
+  * [Yann LeCun: Deep Learning, ConvNets, and Self-Supervised Learning](https://www.youtube.com/watch?v=SGSOCuByo24), Lex Firdman Podcast #36
+  * [Andrew Ng: Deep Learning, Education, and Real-World AI](https://www.youtube.com/watch?v=0jspaMLxBig), Lex Fridman Podcast #73
 
 #### Posts
 * [Colah's blog](http://colah.github.io/)
