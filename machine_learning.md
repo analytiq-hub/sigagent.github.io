@@ -109,6 +109,7 @@ title: Machine Learning
 * [DRAGON: A Dynamic Scheduling and Scaling Controller for Managing Distributed Deep Learning Jobs in Kubernetes Cluster](https://www.scitepress.org/Papers/2019/77076/77076.pdf), C. Lin et al (2019)
 * [Analysis and Comparison of Distributed Training Techniques for Deep Neural Networks in a Dynamic Environment](http://kth.diva-portal.org/smash/get/diva2:1224181/FULLTEXT01.pdf), E. Gebremeskel (2018)
 * [Bringing HPC Techniques to Deep Learning](https://andrew.gibiansky.com/blog/machine-learning/baidu-allreduce/), Andrew Gibiansky (2017)
+* [Fast Multi-GPU collectives with NCCL](https://developer.nvidia.com/blog/fast-multi-gpu-collectives-nccl/), Nathan Luehr, NVidia (2016)
 
 #### Optimization
 * [CS231n](http://cs231n.stanford.edu/) [Lecture 7](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7&t=13s) (2017)
