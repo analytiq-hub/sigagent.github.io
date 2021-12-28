@@ -107,6 +107,7 @@ title: Machine Learning
   * [Distributed Training using Apache MXNet with Horovod](https://medium.com/apache-mxnet/distributed-training-using-apache-mxnet-with-horovod-44f98bf0e7b7)
   * [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/): [How to run distributed training using Horovod and MXNet on AWS DL Containers and AWS  Deep Learning AMIs](https://aws.amazon.com/blogs/machine-learning/horovod-mxnet-distributed-training/)
 * [DRAGON: A Dynamic Scheduling and Scaling Controller for Managing Distributed Deep Learning Jobs in Kubernetes Cluster](https://www.scitepress.org/Papers/2019/77076/77076.pdf), C. Lin et al (2019)
+* [Analysis and Comparison of Distributed Training Techniques for Deep Neural Networks in a Dynamic Environment](http://kth.diva-portal.org/smash/get/diva2:1224181/FULLTEXT01.pdf), E. Gebremeskel (2018)
 
 #### Optimization
 * [CS231n](http://cs231n.stanford.edu/) [Lecture 7](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7&t=13s) (2017)
