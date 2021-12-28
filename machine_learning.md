@@ -101,6 +101,7 @@ title: Machine Learning
 * Horovod
   * [Docs](https://horovod.readthedocs.io/en/stable/)
   * [Horovod: Multi-GPU and multi-node data parallelism](http://www.idris.fr/eng/jean-zay/gpu/jean-zay-gpu-hvd-tf-multi-eng.html)
+  * [Deep Learning at Scale with Horovod feat. Travis Addair](https://www.youtube.com/watch?v=DB7oOZ5hyrE&t=222s), Stanford MLSys Seminar Episode 10 (2021)
 * [determined.ai](http://determined.ai)
   * [Why Slurm Makes Deep Learning Engineers Squirm](https://www.determined.ai/blog/slurm-lacking-deep-learning)
   * [Distributed Training using Apache MXNet with Horovod](https://medium.com/apache-mxnet/distributed-training-using-apache-mxnet-with-horovod-44f98bf0e7b7)
