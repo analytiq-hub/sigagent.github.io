@@ -126,6 +126,9 @@ title: Self Driving Cars
   * [Waymo Public Road Safety Performance Data](https://storage.googleapis.com/sdc-prod/v1/safety-report/Waymo-Public-Road-Safety-Performance-Data.pdf) (2020)
   * [Simulation City: Introducing Waymo's most advanced simulation system yet for autonomous driving](https://blog.waymo.com/2021/06/SimulationCity.html?m=1) (2020)
 
+#### Frameworks
+* [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
+
 #### People
 * [Felipe Codevilla](https://www.codevilla.info/)
 
