@@ -81,7 +81,7 @@ title: Self Driving Cars
 * [Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset](https://arxiv.org/pdf/2104.10133.pdf), S. Ettinger et al (2021)
 
 #### Auto Labeling Data
-* [Auto4d: Learning to label 4d objects from sequential point clouds](https://arxiv.org/pdf/2101.06586.pdf), B. Yang et al (2021)
+* [Auto4d: Learning to label 4d objects from sequential point clouds](https://arxiv.org/pdf/2101.06586.pdf), B. Yang et al, Uber (2021)
 * [Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/pdf/2103.05073.pdf), Ch. Qi et al, Waymo (2021), [video](https://www.youtube.com/watch)
 * Talks
   * Stanford Seminar: [Self-Supervised Pseudo-Lidar Networks](https://www.youtube.com/watch?v=SLEK2vAgjOI), Adrien Gaidon, Toyota Research Institute (2019)
@@ -109,7 +109,7 @@ title: Self Driving Cars
   * [Tesla AI Day 2021](https://www.youtube.com/watch?v=fdtC1AxFNkk)
     * Vincent Feng: [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
     * Jonathan Hui: [Understanding Feature Pyramid Networks for object detection (FPN)](https://jonathan-hui.medium.com/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c) (2018)
-    * Yu Huang: [Twelve Questions about Tesla Autopilot Technologies Exposed at 2021 AI Day](https://yuhuang-63908.medium.com/questions-about-tesla-autopilot-technologies-exposed-at-2021-ai-day-a5859faaac4d), Medium (2021)
+    * [Yu Huang](https://yuhuang-63908.medium.com/): [Twelve Questions about Tesla Autopilot Technologies Exposed at 2021 AI Day](https://yuhuang-63908.medium.com/questions-about-tesla-autopilot-technologies-exposed-at-2021-ai-day-a5859faaac4d), Medium (2021)
   * Andrej Karpathy
     * [On the visionary AI in Tesla's autonomous driving](https://shows.acast.com/the-robot-brains/episodes/andrej-karpathy-on-the-visionary-ai-in-teslas-autonomous-dri) (2021)
     * [PyTorch at Tesla](https://www.youtube.com/watch?v=oBklltKXtDE) (2019)
@@ -118,6 +118,8 @@ title: Self Driving Cars
       * [Which Tasks Should Be Learned Together in Multi-task Learning?](https://arxiv.org/pdf/1905.07553.pdf), T. Standley et al (2020)
     * [AI for Full-Self Driving at Tesla](https://www.youtube.com/watch?v=hx7BXih7zx8) (ScaledML 2020)
     * [Workshop on autonomous driving](https://www.youtube.com/watch?v=g6bOwQdCJrc) (CVPR 2021)
+* Uber
+  * [PnPNet: End-to-End Perception and Prediction with Tracking in the Loop](https://arxiv.org/pdf/2005.14711.pdf), M. Liang et al (2020)
 * Waymo
   * WSJ: [The Race for Self-Driving Taxis: Waymo Puts Urban Terrain to the Test](https://www.wsj.com/video/series/in-depth-features/the-race-for-self-driving-taxis-waymo-puts-urban-terrain-to-the-test/F0A447AB-6ED9-4EB3-B7A8-1EE00682BB50?page=1) (2021)
   * Waymo Team: [Riding with Waymo One today](https://medium.com/waymo/riding-with-waymo-one-today-9ac8164c5c0e) (2018)
