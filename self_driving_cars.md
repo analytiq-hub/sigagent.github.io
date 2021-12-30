@@ -109,6 +109,7 @@ title: Self Driving Cars
   * [Tesla AI Day 2021](https://www.youtube.com/watch?v=fdtC1AxFNkk)
     * Vincent Feng: [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
     * Jonathan Hui: [Understanding Feature Pyramid Networks for object detection (FPN)](https://jonathan-hui.medium.com/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c) (2018)
+    * Yu Huang: [Twelve Questions about Tesla Autopilot Technologies Exposed at 2021 AI Day](https://yuhuang-63908.medium.com/questions-about-tesla-autopilot-technologies-exposed-at-2021-ai-day-a5859faaac4d), Medium (2021)
   * Andrej Karpathy
     * [On the visionary AI in Tesla's autonomous driving](https://shows.acast.com/the-robot-brains/episodes/andrej-karpathy-on-the-visionary-ai-in-teslas-autonomous-dri) (2021)
     * [PyTorch at Tesla](https://www.youtube.com/watch?v=oBklltKXtDE) (2019)
