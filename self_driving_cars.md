@@ -81,6 +81,7 @@ title: Self Driving Cars
 * [Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset](https://arxiv.org/pdf/2104.10133.pdf), S. Ettinger et al (2021)
 
 #### Auto Labeling Data
+* [Auto4d: Learning to label 4d objects from sequential point clouds](https://arxiv.org/pdf/2101.06586.pdf), B. Yang et al (2021)
 * [Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/pdf/2103.05073.pdf), Ch. Qi et al, Waymo (2021), [video](https://www.youtube.com/watch)
 
 #### Lidar Calibration
