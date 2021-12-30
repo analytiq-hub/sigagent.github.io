@@ -127,7 +127,7 @@ title: Self Driving Cars
   * [Simulation City: Introducing Waymo's most advanced simulation system yet for autonomous driving](https://blog.waymo.com/2021/06/SimulationCity.html?m=1) (2020)
 
 #### Frameworks
-* [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
+* [mmdetection3d](https://github.com/open-mmlab/mmdetection3d), [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
 
 #### People
 * [Felipe Codevilla](https://www.codevilla.info/)
