@@ -26,7 +26,9 @@ title: Tools
 !/content/LDL/data/mnist/download_mnist.sh
 ```
 * Run the rest of the notebook, and fix any remaining issues
-* When done, click `File->Save a Copy in GitHub`. I save notebooks in a separate top-level folder called `colab`, so I don't break the source notebooks. You need to grant Colab permission to your GitHub account.
+* When done, click `File->Save a Copy in GitHub`. Add a `Open in Colab` badge.
+  * I save notebooks in a separate top-level folder called `colab`, so I don't break the source notebooks.
+  * You need to grant Colab permission to your GitHub account.
 
 
 #### Notes
