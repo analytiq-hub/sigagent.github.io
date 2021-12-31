@@ -29,6 +29,7 @@ title: Tools
 * When done, click `File->Save a Copy in GitHub`. Add a `Open in Colab` badge.
   * I save notebooks in a separate top-level folder called `colab`, so I don't break the source notebooks.
   * You need to grant Colab permission to your GitHub account.
+* For an example setup, see [https://github.com/bitdribble/LDL](https://github.com/bitdribble/LDL)
 
 
 #### Notes
