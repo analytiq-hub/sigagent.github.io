@@ -54,6 +54,7 @@ layout: home
 * [Romania](romania.md)
 * [Self Driving Cars](self_driving_cars.md)
 * [Theater](theater.md)
+* [Tools](tools.md)
 * [Computational Topology](computational_topology.md)
 * [Writing Blog Posts](writing_blog_posts.md)
 * [Writing Documentation](writing_documentation.md)
