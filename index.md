@@ -63,5 +63,5 @@ layout: home
 * <a href="http://lex-wiki.org" class="menu_link">lex-wiki.org</a>, Andrei's local wiki for Lexington
 
 ## Way back links
-* <a href="https://web.archive.org/web/20150103052312/https://sites.google.com/site/lexington4languages/" class="menu_link">lex4lang.org</a> - advocacy for Foreign Languages in Lexington, MA Elementary Schools
-* <a href="http://andrei4schools.com" class="menu_link">andrei4schools.com</a> - Andrei's School Committee campaign web site from Spring 2012
+* [lex4lang.org](https://web.archive.org/web/20150103052312/https://sites.google.com/site/lexington4languages/) - advocacy for Foreign Languages in Lexington, MA Elementary Schools
+* [andrei4schools.com<](https://web.archive.org/web/20130817181328/http://andrei4schools.com/) - Andrei's School Committee campaign web site from Spring 2012
