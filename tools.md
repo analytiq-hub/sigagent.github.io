@@ -4,4 +4,5 @@ title: Tools
 ---
 
 #### Blogs
+* [How to Deal With Files in Google Colab: Everything You Need to Know](https://neptune.ai/blog/google-colab-dealing-with-files), S. Sadangi (2021)
 * [How to use Google Colaboratory to clone a GitHub Repository to your Google Drive?](https://medium.com/@ashwindesilva/how-to-use-google-colaboratory-to-clone-a-github-repository-e07cf8d3d22b), A. DeSilva (2019)
