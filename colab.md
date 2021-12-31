@@ -19,11 +19,15 @@ title: Tools
 ```
 * Sometimes you need extra python modules installed. Create a `colab_requirements.txt` in your git repo, and load it from the notebook:
 ```
-%pip install -r /content/LDL/colab_requirements.txt
+!pip install -r /content/LDL/colab_requirements.txt
 ```
 * Sometimes you need to download data. Invoke a shell command from your git repo to do that:
 ```
 !/content/LDL/data/mnist/download_mnist.sh
+```
+* Before running the rest of the notebook, sometimes you need to `cd` to a folder. We use `%` so the command is executed in the notebook environment, using `!` would execute it in its own environment:
+```
+%cd /content/LDL/stand_alone
 ```
 * Run the rest of the notebook, and fix any remaining issues
 * When done, click `File->Save a Copy in GitHub`. Add a `Open in Colab` badge.
