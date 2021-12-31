@@ -55,6 +55,7 @@ layout: home
 * [Self Driving Cars](self_driving_cars.md)
 * [Theater](theater.md)
 * Tools
+  * [Altair Charts](altair.md)
   * [Colab](colab.md)
 * [Computational Topology](computational_topology.md)
 * [Writing Blog Posts](writing_blog_posts.md)
