@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Docker for Deep Learning"
-categories: python, deep_learning, machine_learning, docker
+categories: python machine_learning docker
 author:
 - Andrei Radulescu-Banu
 ---

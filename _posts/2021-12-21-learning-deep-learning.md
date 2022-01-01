@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning Deep Learning (book review)"
-categories: python, deep_learning, machine_learning
+categories: python deep_learning
 author:
 - Andrei Radulescu-Banu
 ---
