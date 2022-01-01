@@ -20,7 +20,7 @@ layout: default
 
   {%- if posts.size > 0 -%}
     {%- if page.blog_posts_title -%}
-      <h3 class="post-list-heading">{{ page.blog_posts_title }}</h2>
+      <h2 class="post-list-heading">{{ page.blog_posts_title }}</h2>
     {%- endif -%}
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -64,5 +64,16 @@ layout: default
     {%- if page.posts_category_title -%}
       <h3 class="post-list-heading">{{ page.posts_category_title }}</h2>
     {%- endif -%}
+    <ul>
+      {% for category in site.categories %}
+      <li><a name="{{ category | first }}">{{ category | first }}</a>
+	<ul>
+	  {% for post in category.last %}
+	  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
+      </li>
+      {% endfor %}
+    </ul>
   {%- endif -%}
 </div>
