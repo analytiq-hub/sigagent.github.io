@@ -11,6 +11,7 @@ layout: home
 
 * [Andrei's posts on Medium](medium.md)
 * [Andrei's Amazon reviews](https://www.amazon.com/gp/profile/amzn1.account.AH2JFOWQ673YGWLX22JI2BKYOUXA/ref=cm_cr_dp_d_gw_tr?ie=UTF8)
+* [Andrei's blog](blog)
 
 ## Things I read, watch or listen
 
