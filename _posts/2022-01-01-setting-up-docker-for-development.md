@@ -98,6 +98,8 @@ RUN pip3 install --default-timeout=300 -r /tmp/requirements.txt && \
     rm -f /tmp/requirements.txt
 ```
 
+Tip: don't place any spaces after the trailing `\`.
+
 The list of `deb` packages can be customized; as can be the list of python modules in `requirements.txt`. It is good practice to list exact python module versions in `requirements.txt`.
 
 ### docker_build.sh
