@@ -18,15 +18,19 @@ Here is how your development environment can be set up. I'm using the example at
 * [docker/docker_start.sh](https://github.com/Bitdribble/LDL/blob/main/docker/docker_start.sh)
 * [docker/docker_stop.sh](https://github.com/Bitdribble/LDL/blob/main/docker/docker_stop.sh)
 
-To create the Docker file, run
+To create the Docker image, run
 ```
 docker/docker_build.sh
 ```
 
-To start the container (or to enter it from a 2nd shell):
+You can see the list of docker images with `docker images`. Ours will be named `ldl`.
+
+To start the container from the `ldl` image (or to enter it from a 2nd shell):
 ```
 docker/docker_start.sh
 ```
+
+You can see the running containers with `docker ps`, and all containers, including the stopped ones, with `docker ps -a`.
 
 To stop the container:
 ```
