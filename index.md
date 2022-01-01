@@ -7,7 +7,9 @@
 #
 layout: home
 blog_posts_title: Last Blog Posts
-blog_posts_limit: 0
+blog_posts_limit: 3
+posts_category_title: Blog Posts by Category
+posts_categories: all
 ---
 … robotics, fintech, and distributed systems.
 
