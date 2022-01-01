@@ -6,7 +6,7 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-It is often good practice to run the development environment in a docker container. This is useful when doing distributed development among multiple developers, who may each use a different version of Linux on their desktop.
+It is often good practice to run the development environment in a docker container. This is useful when doing distributed development with multiple engineers, who may each use a different version of Linux on their desktop.
 
 For machine learning, when GPUs are used, the docker environment needs to have CUDA installed. And that takes a bit of care to set up:
 * The CUDA version on the host side needs to match the CUDA version installed on the container.
