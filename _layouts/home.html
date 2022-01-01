@@ -59,34 +59,17 @@ layout: default
 
   {%- endif -%}
 
-
-  {%- if posts.size > 0 -%}
-    {%- if page.posts_category_title -%}
-      <h3 class="post-list-heading">{{ page.posts_category_title }}</h2>
-    {%- endif -%}
-    <ul>
-      {% for category in site.categories %}
-      <li><a name="{{ category | first }}">{{ category | first }}</a>
-	<ul>
-	  {% for post in category.last %}
-	  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
-      </li>
-      {% endfor %}
-    </ul>
-  {%- endif -%}
-
+ <h2 class="post-list-heading">Blog Posts by category</h2>
  {% comment %}
     #
-    #  Change date order by adding '| reversed'
+    #  Change date order by adding '| reverse' to 'sorted_posts'
     #  To sort by title or other variables use {% assign sorted_posts = category[1] | sort: 'title' %}
     #
  {% endcomment %}
  {% assign sorted_cats = site.categories | sort %}
  <ul>
  {% for category in sorted_cats %}
-    {% assign sorted_posts = category[1] | reverse %}
+    {% assign sorted_posts = category[1] %}
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <li>{{category[0] | capitalize}}
       <ul>
