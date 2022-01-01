@@ -122,6 +122,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [On the importance of initialization and momentum in deep learning](https://www.cs.toronto.edu/~fritz/absps/momentum.pdf), I. Sutskever et al (2013)
 * [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](https://arxiv.org/pdf/1406.2572.pdf), Y. Dauphin et al (2014)
 * [optim.Adam vs optim.SGD. Let’s dive in](https://medium.com/@Biboswan98/optim-adam-vs-optim-sgd-lets-dive-in-8dbf1890fbdc)
+* [fast.ai](https://www.fast.ai): [AdamW and Super-convergence is now the fastest way to train neural nets ](https://www.fast.ai/2018/07/02/adam-weight-decay/), by S. Gugger and J. Howard (2018)
 
 #### Articles
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
