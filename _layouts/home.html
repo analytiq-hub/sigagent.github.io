@@ -76,14 +76,23 @@ layout: default
       {% endfor %}
     </ul>
   {%- endif -%}
- 
-  <h1>Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
-  <ul class="posts">
-    {% for post in page.posts %}
-    <li>
-      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
+
+ {% comment %}
+    #
+    #  Change date order by adding '| reversed'
+    #  To sort by title or other variables use {% assign sorted_posts = category[1] | sort: 'title' %}
+    #
+ {% endcomment %}
+ {% assign sorted_cats = site.categories | sort %}
+ {% for category in sorted_cats %}
+    {% assign sorted_posts = category[1] | reverse %}
+    <h2 id="{{category[0] | uri_escape | downcase }}">{{category[0] | capitalize}}</H2>
+    <ul>
+      {% for post in sorted_posts %}
+      <li>
+	<a href="{{ site.url }}{{ site.baseurl }}{{  post.url }}">{{  post.title }}</a><small>{{ post.date }}</small>
+      </li>
+      {% endfor %}
+    </ul>
+ {% endfor %}    
 </div>
