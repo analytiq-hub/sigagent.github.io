@@ -91,3 +91,12 @@ COPY requirements.txt /tmp
 RUN pip3 install --default-timeout=300 -r /tmp/requirements.txt && \
     rm -f /tmp/requirements.txt
 ```
+
+### docker_build.sh
+
+```
+#!/bin/bash
+
+cd "$(dirname "$0")"/..                  # Change dir to root of sandbox
+docker build -t ldl --progress=plain .   # Build the docker image
+```
