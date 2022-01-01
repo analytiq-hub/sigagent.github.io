@@ -59,7 +59,7 @@ layout: default
 
   {%- endif -%}
 
- <h2 class="post-list-heading">Blog Posts by category</h2>
+ <h2 class="post-list-heading">Blog Posts by Category</h2>
  {% comment %}
     #
     #  Change date order by adding '| reverse' to 'sorted_posts'
@@ -71,7 +71,7 @@ layout: default
  {% for category in sorted_cats %}
     {% assign sorted_posts = category[1] %}
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    <li>{{category[0] | capitalize}}
+    <li>{{category[0]}}
       <ul>
 	{% for post in sorted_posts %}
 	<li>
