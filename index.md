@@ -6,7 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-list_title: Blog Posts
+blog_posts_title: Last Blog Posts
+blog_posts_limit: 3
 ---
 … robotics, fintech, and distributed systems.
 
