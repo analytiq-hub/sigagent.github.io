@@ -34,6 +34,14 @@ title: Machine Learning
 #### Seminars
 * [Stanford MLSys Seminars](https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ/videos)
 
+#### Conferences
+* [CVPR '20](https://cvpr2020.thecvf.com/)
+* [ICLR](https://iclr.cc/)
+* [ICML](https://icml.cc/)
+* [NAACL '21](https://2021.naacl.org/)
+* [NeurIPS](https://nips.cc/)
+* [OpML '20](https://www.usenix.org/conference/opml20/conference-program)
+
 #### Languages
 * PyTorch
   * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf), Stevens, Antiga, Viehmann (2020), [github]((https://github.com/deep-learning-with-pytorch/dlwpt-code)
@@ -42,13 +50,8 @@ title: Machine Learning
   * [Keras Tutorials](https://techvidvan.com/tutorials/keras-introduction-tutorial/)
 * Others: Caffe(Berkeley), Caffe2(Facebook), MXNet(Amazon), CNTK(Microsoft), Paddle(Baidu)
 
-#### Conferences
-* [CVPR '20](https://cvpr2020.thecvf.com/)
-* [ICLR](https://iclr.cc/)
-* [ICML](https://icml.cc/)
-* [NAACL '21](https://2021.naacl.org/)
-* [NeurIPS](https://nips.cc/)
-* [OpML '20](https://www.usenix.org/conference/opml20/conference-program)
+#### Convolutional Nets
+* [Alex Burlacu](https://alexandruburlacu.github.io/): [Speeding up Convolutional Neural Networks](https://towardsdatascience.com/speeding-up-convolutional-neural-networks-240beac5e30f) (2018)
 
 #### Videos
 * 3Blue1Brown Series
