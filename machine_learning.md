@@ -51,7 +51,8 @@ title: Machine Learning
 * Others: Caffe(Berkeley), Caffe2(Facebook), MXNet(Amazon), CNTK(Microsoft), Paddle(Baidu)
 
 #### Convolutional Nets
-* [Alex Burlacu](https://alexandruburlacu.github.io/): [Speeding up Convolutional Neural Networks](https://towardsdatascience.com/speeding-up-convolutional-neural-networks-240beac5e30f) (2018)
+* [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567v1.pdf), C. Szegedy el at (2015)
+* Blog: [Speeding up Convolutional Neural Networks](https://towardsdatascience.com/speeding-up-convolutional-neural-networks-240beac5e30f), [Alex Burlacu](https://alexandruburlacu.github.io/) (2018)
 
 #### Videos
 * 3Blue1Brown Series
