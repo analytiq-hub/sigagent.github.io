@@ -19,7 +19,7 @@ title: Machine Learning
 
 #### Courses
 * Berkeley
-  * [CS294-158-SP20](https://sites.google.com/view/berkeley-cs294-158-sp20/home): Deep Unsuperviser Learning (Spring 2020), ([Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home))
+  * [CS294-158-SP20](https://sites.google.com/view/berkeley-cs294-158-sp20/home): Deep Unsuperviser Learning (Spring 2020), [youtube](https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP&index=1) ([Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home))
 * Coursera
   * [Neural Networks for Machine Learning](https://www.cs.toronto.edu/~hinton/coursera_lectures.html), G. Hinton, 2012 (Coursera Lectures)
 * MIT
