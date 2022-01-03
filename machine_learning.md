@@ -18,11 +18,10 @@ title: Machine Learning
 * [fast.ai](https://www.fast.ai/)
 
 #### Courses
+* P. Abbeel: [Foundations of Deep RL in 6 Lectures](https://www.youtube.com/watch?v=2GwBez0D20A&list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) (2021), [slides](https://www.dropbox.com/s/f9xyrdkpqugtrvq/l1-mdps-exact-methods.pdf?dl=0)
+* G. Hinton: [Neural Networks for Machine Learning](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) (2012)
 * Berkeley
   * [CS294-158-SP20](https://sites.google.com/view/berkeley-cs294-158-sp20/home): Deep Unsuperviser Learning (Spring 2020), [youtube](https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP&index=1) ([Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home))
-  * [Foundations of Deep RL in 6 Lectures](https://www.youtube.com/watch?v=2GwBez0D20A&list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) (2021), [slides](https://www.dropbox.com/s/f9xyrdkpqugtrvq/l1-mdps-exact-methods.pdf?dl=0), by Pieter Abbeel
-* Coursera
-  * [Neural Networks for Machine Learning](https://www.cs.toronto.edu/~hinton/coursera_lectures.html), G. Hinton, 2012 (Coursera Lectures)
 * MIT
   * 6.S191 Introduction to Deep Learning, [IAP 2022](http://introtodeeplearning.com/) [upcoming videos](https://www.youtube.com/channel/UCtslD4DGH6PKyG_1gFAX7sg)
   * 9.520/6.860 Statistical Learning Theory and Applications, [Fall 2019](http://www.mit.edu/~9.520/fall19/), [Fall 2021](https://cbmm.mit.edu/9-520), [videos](https://cbmm.mit.edu/9-520/videos)
