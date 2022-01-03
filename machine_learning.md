@@ -19,6 +19,7 @@ title: Machine Learning
 
 #### Courses
 * P. Abbeel: [Foundations of Deep RL in 6 Lectures](https://www.youtube.com/watch?v=2GwBez0D20A&list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) (2021), [slides](https://www.dropbox.com/s/f9xyrdkpqugtrvq/l1-mdps-exact-methods.pdf?dl=0)
+* Yann LeCun [Deep Learning](https://www.youtube.com/watch?v=ChLEJA6J2b8&list=PL80I41oVxglJ0kTDV7i3aHBIXe65nTxE7&index=6) course at College de France (2016)
 * G. Hinton: [Neural Networks for Machine Learning](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) (2012)
 * Berkeley
   * [CS287-FA19](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/): Advanced Robotics (2020), [youtube](https://www.youtube.com/watch?v=xWPViQ6LI-Q&list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF), P. Abbeel
@@ -32,7 +33,6 @@ title: Machine Learning
   * [CS231n](http://cs231n.stanford.edu/): Convolutional Neural Networks for Visual Recognition (Spring 2017), [syllabus](https://cs231n.github.io/), [2016 video](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC), [2017 videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [2017 slides](http://cs231n.stanford.edu/slides/2017), [2021 slides](http://cs231n.stanford.edu/slides/2021)
     * Karpathy's [ConvNetJS CIFAR-10 demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
   * [CS236](https://deepgenerativemodels.github.io/): Deep Generative Models (slides only)
-* Yann LeCun [Deep Learning](https://www.youtube.com/watch?v=ChLEJA6J2b8&list=PL80I41oVxglJ0kTDV7i3aHBIXe65nTxE7&index=6) course at College de France (2016)
   * [CS224n](http://web.stanford.edu/class/cs224n/):Natural Language Processing with Deep Learning [Winter 2017 video](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6), [Winter 2019 video](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
   * [CS224W](): Machine Learning with Graphs [Spring 2021 video](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
