@@ -26,9 +26,16 @@ title: Automated Theorem Proving
 * V. Voevodsky
   * [UniMath](https://www.youtube.com/watch?v=gOBqROtRoPA), Heidelberg (2016), [slides](https://www.math.ias.edu/vladimir/sites/math.ias.edu.vladimir/files/2016_09_22_HLF_Heidelberg.pdf)
   * [Univalent Foundations: New Foundations of Mathematics](https://www.youtube.com/watch?v=E9RiR9AcXeE), IAS Faculty Lecture (2014), [outline](https://www.ias.edu/ideas/2014/voevodsky-origins)
+* C. Szegedy: [Formal Reasoning, Program Synthesis](https://www.youtube.com/watch?v=ehNGGYFO6ms) (2021)
 
 #### Summer Schools
 * [School on Univalent Mathematics '22](https://unimath.github.io/cortona2022/), ['19](https://unimath.github.io/Schools/)
+
+#### Articles
+* [Learning to Reason in Large Theories without Imitation](https://arxiv.org/pdf/1905.10501.pdf), K. Bansal, C. Szegedy et al (2021)
+
+#### Benchmarks
+* [HOList](https://sites.google.com/view/holist/home)
 
 #### People
 * [Thierry Coquand](http://www.cse.chalmers.se/~coquand/)
