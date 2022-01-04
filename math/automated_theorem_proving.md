@@ -32,7 +32,8 @@ title: Automated Theorem Proving
 * [School on Univalent Mathematics '22](https://unimath.github.io/cortona2022/), ['19](https://unimath.github.io/Schools/)
 
 #### Articles
-* [Learning to Reason in Large Theories without Imitation](https://arxiv.org/pdf/1905.10501.pdf), K. Bansal, C. Szegedy et al (2021)
+* [Mathematical Reasoning via Self-supervised Skip-tree Training](https://arxiv.org/pdf/2006.04757.pdf), M.N. Rabe et al, Google Research (2021)
+* [Learning to Reason in Large Theories without Imitation](https://arxiv.org/pdf/1905.10501.pdf), K. Bansal, C. Szegedy et al, Google Research (2021)
 
 #### Benchmarks
 * [HOList](https://sites.google.com/view/holist/home)
