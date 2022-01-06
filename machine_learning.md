@@ -50,6 +50,7 @@ title: Machine Learning
 #### Languages
 * PyTorch
   * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf), Stevens, Antiga, Viehmann (2020), [github]((https://github.com/deep-learning-with-pytorch/dlwpt-code)
+  * CS224N: [PyTorch Tutorial](https://web.stanford.edu/class/cs224n/materials/CS224N_PyTorch_Tutorial.html), Dilara Soylu (Winter '21)
 * TensorFlow
   * [CS231_n](http://cs231n.stanford.edu) [Lecture 8, Deep Learning Software](https://www.youtube.com/watch?v=6SlgtELqOWc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=8&t=3s), [2017 slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf), [2021 slides](http://cs231n.stanford.edu/slides/2021/lecture_6.pdf) compares TensorFlow, PyTorch, Caffe, discusses static and dynamic computation graphs
   * [Keras Tutorials](https://techvidvan.com/tutorials/keras-introduction-tutorial/)
