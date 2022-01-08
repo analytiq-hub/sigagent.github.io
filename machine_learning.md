@@ -24,6 +24,7 @@ title: Machine Learning
 * Berkeley
   * [CS287-FA19](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/): Advanced Robotics (2020), [youtube](https://www.youtube.com/watch?v=xWPViQ6LI-Q&list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF), P. Abbeel
   * [CS294-158-SP20](https://sites.google.com/view/berkeley-cs294-158-sp20/home): Deep Unsuperviser Learning (Spring 2020), [youtube](https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP&index=1) ([Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home))
+* FastAI: [Practical Deep Learning for Coders](https://course.fast.ai/), Jeremy Howard et al.
 * MIT
   * 6.S191 Introduction to Deep Learning, [IAP 2022](http://introtodeeplearning.com/) [upcoming videos](https://www.youtube.com/channel/UCtslD4DGH6PKyG_1gFAX7sg)
   * 9.520/6.860 Statistical Learning Theory and Applications, [Fall 2019](http://www.mit.edu/~9.520/fall19/), [Fall 2021](https://cbmm.mit.edu/9-520), [videos](https://cbmm.mit.edu/9-520/videos)
