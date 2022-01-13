@@ -16,7 +16,7 @@ What happened, in the end, with Orson Welles? In his middle age, this genius fel
 
 How can such a great man be such a miserable failure?
 
-A few days ago, Peter Bogdanovich died. Also a genius director. He taught himself his craft by interviewing other great directors of his times. And, also, self destructive to the end.
+A few days ago, [Peter Bogdanovich died](https://www.nytimes.com/2022/01/06/movies/peter-bogdanovich-dead.html). Also a genius director. He taught himself his craft by interviewing other great directors of his times. And, also, self destructive to the end.
 
 ----
 
