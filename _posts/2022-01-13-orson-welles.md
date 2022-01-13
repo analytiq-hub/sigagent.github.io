@@ -12,7 +12,7 @@ It's a movie of its time, and in a good way. Not possible to make a movie like t
 
 Every word is in its right place, everything that has to be said is said.
 
-What happened, in the end, with Orson Welles? In his middle age, this genius fell apart. He was shunned, and forgotten. Simon Callow, admirer and biographer, [says] (https://variety.com/2016/film/news/orson-welles-biographer-simon-callow-1201749008/) that his personality "stopped him from making more films. He behaved very badly a lot of the time. He exhibited almost self-destructive behavior. In Hollywood he never recovered from that."
+What happened, in the end, with Orson Welles? In his middle age, this genius fell apart. He was shunned, and forgotten. Simon Callow, admirer and biographer, [says](https://variety.com/2016/film/news/orson-welles-biographer-simon-callow-1201749008/) that his personality "stopped him from making more films. He behaved very badly a lot of the time. He exhibited almost self-destructive behavior. In Hollywood he never recovered from that."
 
 How can such a great man be such a miserable failure?
 
