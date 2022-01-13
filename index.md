@@ -25,6 +25,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Dev/Ops](devops.md)
 * [Embedded Programming](embedded_programming.md)
 * [Entrepreneurship](entrepreneurship.md)
+* [Film](film.md)
 * [Game Theory](game_theory.md)
 * [Intellectual History](intellectual_history.md)
 * Kernel & System Programming

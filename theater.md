@@ -15,6 +15,7 @@ title: Theater
 * [Profesioniştii cu Ion Caramitru](https://www.youtube.com/watch?v=Qy4dvRl3FNU) (2020)
 
 #### Links
+* [Film](film.md)
 * [Philosophy](philosophy.md)
 * [Religion](religion.md)
 
