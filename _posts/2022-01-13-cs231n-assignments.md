@@ -15,10 +15,11 @@ author:
 
 ## Andrei's assignments
 Github: [bitdribble/cs231n](https://github.com/Bitdribble/cs231n)
-* [assignments/2021/assignment1/knn.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/knn.ipynb)
-* [cs231n/assignments/2021/assignment1/cs231n/classifiers/k_nearest_neighbor.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/classifiers/k_nearest_neighbor.py)
-* [assignments/2021/assignment1/svm.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/svm.ipynb)
-* [cs231n/assignments/2021/assignment1/cs231n/classifiers/linear_classifier.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/classifiers/linear_classifier.py)
+* assignments/2021/assignment1
+  * [knn.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/knn.ipynb)
+  * [cs231n/classifiers/k_nearest_neighbor.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/classifiers/k_nearest_neighbor.py)
+  * [svm.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/svm.ipynb)
+  * [cs231n/classifiers/linear_classifier.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/classifiers/linear_classifier.py)
 
 ## Other forks with solutions:
 * [jingxinfu/cs231n](https://github.com/jingxinfu/cs231n)
