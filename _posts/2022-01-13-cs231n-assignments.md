@@ -20,6 +20,8 @@ Github: [bitdribble/cs231n](https://github.com/Bitdribble/cs231n)
   * [cs231n/classifiers/k_nearest_neighbor.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/classifiers/k_nearest_neighbor.py)
   * [svm.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/svm.ipynb)
   * [cs231n/classifiers/linear_classifier.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/classifiers/linear_classifier.py)
+  * [softmax.ipynb](https://github.com/jingxinfu/cs231n/blob/master/assignment1/softmax.ipynb)
+  * [cs231n/classifiers/softmax.py](https://github.com/jingxinfu/cs231n/blob/master/assignment1/cs231n/classifiers/softmax.py)
 
 ## Other forks with solutions:
 * [jingxinfu/cs231n](https://github.com/jingxinfu/cs231n)
