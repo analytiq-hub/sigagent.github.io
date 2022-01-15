@@ -15,7 +15,7 @@ title: Machine Learning
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/14920326461): Concepts, Tools, and Techniques to Build Intelligent Systems, by Aurelien Geron (2nd ed, 2019) ([Jupyter notebooks](https://github.com/ageron/handson-ml2)). Very complete, but using TensorFlow. 
 * [Python Machine Learning Cookbook](https://www.amazon.com/Machine-Learning-Python-Cookbook-Preprocessing/dp/1491989386/ref=asc_df_1491989386/), Chris Albon (2018)
 * [Learning Machine Learning](https://www.informit.com/store/learning-deep-learning-theory-and-practice-of-neural-9780137470358), M. Ekman (2021), [github](https://github.com/NVDLI/LDL/tree/main/pt_framework)
-* [fast.ai](https://www.fast.ai/)
+* [fast.ai](https://www.fast.ai/), [Deep Learning for Coders with Fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527), J. Howard and S. Gugger (2020)
 
 #### Courses
 * P. Abbeel: [Foundations of Deep RL in 6 Lectures](https://www.youtube.com/watch?v=2GwBez0D20A&list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) (2021), [slides](https://www.dropbox.com/s/f9xyrdkpqugtrvq/l1-mdps-exact-methods.pdf?dl=0)
