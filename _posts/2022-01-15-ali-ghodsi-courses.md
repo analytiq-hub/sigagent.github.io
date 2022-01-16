@@ -55,6 +55,7 @@ author:
   * [Lec 9: Regularization, Hard Margin SVM](https://www.youtube.com/watch?v=SHBFk1ULNlE)
   * [Lec 10: SVM, Kernel SVM](https://www.youtube.com/watch?v=rLT4OFy-atc)
   * [Lec 11: Soft Margin SVM](https://www.youtube.com/watch?v=iZ3HF2_vF2c)
+  * [Lec 12: Metric Learning]()https://www.youtube.com/watch?v=GhsHPY3-1zY
 
 * STAT 442/842: Data Visualization, a course on unsupervised learning (2017)
   * [Lec 1: Principal Component Analysis](https://www.youtube.com/watch?v=L-pQtGm3VS8)
