@@ -49,6 +49,7 @@ author:
   * [Lec 19: PAC Learning](https://www.youtube.com/watch?v=qOMOYM0WCzU)
 
 * Deep Learning (2017) [videos, slides](https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017)
+  * [Generative Adversarial Network](https://www.youtube.com/watch?v=7G4_Y5rsvi8), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/oct24generative_models_v2_split.pdf)
 
 * STAT 441/841: Statistical Learning - Classification (2017)
   * [Lec 1: Intro, LDA, PCA](https://www.youtube.com/watch?v=VR5ZRr4QOYk), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sep7_classification.pdf)
