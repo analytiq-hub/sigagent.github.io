@@ -54,6 +54,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [C++](programming_languages/c++.md)
   * [Perl](programming_languages/perl.md)
   * [Python](programming_languages/python.md)
+* [Projects](projects.md)
 * [Reinforcement Learning](reinforcement_learning.md)
 * [Religion](religion.md)
 * [Robotics](robotics.md)
