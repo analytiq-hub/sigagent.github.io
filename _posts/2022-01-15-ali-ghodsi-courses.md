@@ -82,9 +82,6 @@ author:
   * [Lec 17: Boosting method](https://www.youtube.com/watch?v=SEekcR7wdBc)
   * [Lec 18: Bagging](https://www.youtube.com/watch?v=tSee9TSbhJo&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=16)
 
-Other:
-  * [Lec 9: Stein’s unbiased risk estimator (sure)](https://www.youtube.com/watch?v=nqtfl137jio)
-
 * STAT 442/842: Data Visualization, a course on unsupervised learning (2017)
   * [Lec 1: Principal Component Analysis](https://www.youtube.com/watch?v=L-pQtGm3VS8)
   * [Lec 2: PCA (Ordinary, Dual, Kernel)](https://www.youtube.com/watch?v=jeOEXCFK30M)
