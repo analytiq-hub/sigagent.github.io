@@ -48,14 +48,11 @@ author:
   * [Lec 18: Convolutional neural network (Part 2)](https://www.youtube.com/watch?v=8LBmeXKcjRI)
   * [Lec 19: PAC Learning](https://www.youtube.com/watch?v=qOMOYM0WCzU)
 
-* Leftover
-  * [Lec 9, Regularization, Hard Margin SVM](https://www.youtube.com/watch?v=SHBFk1ULNlE)
-
-
 * Deep Learning (2017) [videos, slides](https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017)
 
 * STAT 441/841: Statistical Learning - Classification (2017)
   * [Lec 1: Intro, LDA, PCA](https://www.youtube.com/watch?v=VR5ZRr4QOYk)
+  * [Lec 9, Regularization, Hard Margin SVM](https://www.youtube.com/watch?v=SHBFk1ULNlE)
 
 * STAT 442/842: Data Visualization, a course on unsupervised learning (2017)
   * [Lec 1: Principal Component Analysis](https://www.youtube.com/watch?v=L-pQtGm3VS8)
