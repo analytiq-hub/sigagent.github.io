@@ -10,7 +10,8 @@ blog_posts_title: Latest Blog Posts
 blog_posts_limit: 7
 blog_posts_by_category_title: Blog Posts by Category
 ---
-## … Robotics, AI, and Distributed Systems.
+
+… Robotics, AI, and Distributed Systems.
 
 <img src="src/images/andrei_circle.png" align="right" width="15%" height="1xs5%" />
 
