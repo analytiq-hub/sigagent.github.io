@@ -54,6 +54,7 @@ author:
   * [Lec 1: Intro, LDA, PCA](https://www.youtube.com/watch?v=VR5ZRr4QOYk), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sep7_classification.pdf)
   * [Lec 9: Regularization, Hard Margin SVM](https://www.youtube.com/watch?v=SHBFk1ULNlE)
   * [Lec 10: SVM, Kernel SVM](https://www.youtube.com/watch?v=rLT4OFy-atc)
+  * [Lec 11: Soft Margin SVM](https://www.youtube.com/watch?v=iZ3HF2_vF2c)
 
 * STAT 442/842: Data Visualization, a course on unsupervised learning (2017)
   * [Lec 1: Principal Component Analysis](https://www.youtube.com/watch?v=L-pQtGm3VS8)
@@ -63,7 +64,6 @@ author:
   * [Lec 8: Supervised PCA](https://www.youtube.com/watch?v=DkdrFwevais)
   * [Lec 9: SPCA, Nystrom Approximation, NMF](https://www.youtube.com/watch?v=P5Pu1o7w3TM)
   * [Lec 10: NMF via R1D algorithm](https://www.youtube.com/watch?v=_p72JZPO65E)
-  * [Lec 11: Soft Margin SVM](https://www.youtube.com/watch?v=iZ3HF2_vF2c)
   * [Lec 16: Tree, Boosting method](https://www.youtube.com/watch?v=lTCaEwhnDdw)
 
 * Deep Learning (2017)
