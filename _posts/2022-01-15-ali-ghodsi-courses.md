@@ -11,9 +11,6 @@ I came across Ali Gholdsi's lectures by chance, and some of the [YouTube comment
 After watching his [lecture on GANs](https://www.youtube.com/watch?v=7G4_Y5rsvi8), I sought all of his lectures, and attempted to collect them in one place. Some were already listed on the [U Waterloo data analytics site](https://uwaterloo.ca/data-analytics/teaching), but it was not a complete list.
 
 #### Courses at U Waterloo
-* STAT 946 (2014)
-  * [17Sept14](https://www.youtube.com/watch?v=ognicHQctCU)
-
 * STAT 946 Topics in Probability and Statistics: Deep Learning (Fall 2015) [videos, slides](https://uwaterloo.ca/data-analytics/deep-learning)
   * [Lec 1.1: Introduction](https://www.youtube.com/watch?v=fyAZszlPphs), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/lecture_1_0.pdf)
   * [Lec 1.2: Perceptron, Feedforward Neural Network, Back propagation](https://www.youtube.com/watch?v=AxC40B6KtSQ)
