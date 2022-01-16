@@ -107,4 +107,8 @@ After watching his [lecture on GANs](https://www.youtube.com/watch?v=7G4_Y5rsvi8
   * [Lec 13: Transformer, BERT, GPT](https://www.youtube.com/watch?v=APzuQoScLfc)
 
 
-
+#### Papers
+Ali Ghodsi [Google Scholar](https://scholar.google.ca/citations?hl=th&user=WXbhp_4AAAAJ&view_op=list_works&sortby=pubdate).
+* [Generative Adversarial Networks and Adversarial Autoencoders: Tutorial and Survey](https://arxiv.org/pdf/2111.13282.pdf), B. Ghojogh, A. Ghodsi, F. Karray, M. Crowley (2021)
+* [Restricted Boltzmann Machine and Deep Belief Network: Tutorial and Survey](https://arxiv.org/pdf/2107.12521.pdf), B. Ghojogh, A. Ghodsi, F. Karray, M. Crowley (2021)
+* [Unified Framework for Spectral Dimensionality Reduction, Maximum Variance Unfolding, and Kernel Learning By Semidefinite Programming: Tutorial and Survey](https://arxiv.org/pdf/2106.15379) (2021)
