@@ -48,7 +48,6 @@ author:
   * [Lec 19: PAC Learning](https://www.youtube.com/watch?v=qOMOYM0WCzU)
 
 * Leftover
-  * [Lec 3 FDA](https://www.youtube.com/watch?v=qL1OaF5eBvc)
   * [Lec 9, Regularization, Hard Margin SVM](https://www.youtube.com/watch?v=SHBFk1ULNlE)
 
 
@@ -58,8 +57,9 @@ author:
   * [Lec 1: Intro, LDA, PCA](https://www.youtube.com/watch?v=VR5ZRr4QOYk)
 
 * U. Waterloo, STAT 442/842: Data Visualization, a course on unsupervised learning (2017)
-  * [Lec 1, Principal Component Analysis](https://www.youtube.com/watch?v=L-pQtGm3VS8)
+  * [Lec 1: Principal Component Analysis](https://www.youtube.com/watch?v=L-pQtGm3VS8)
   * [Lec 2: PCA (Ordinary, Dual, Kernel)](https://www.youtube.com/watch?v=jeOEXCFK30M)
+  * [Lec 3: FDA](https://www.youtube.com/watch?v=qL1OaF5eBvc)
   * [Lec 4: MDS, Isomap, LLE](https://www.youtube.com/watch?v=RPjPLlGefzw)
   * [Lec 8: Supervised PCA](https://www.youtube.com/watch?v=DkdrFwevais)
   * [Lec 9: SPCA, Nystrom Approximation, NMF](https://www.youtube.com/watch?v=P5Pu1o7w3TM)
