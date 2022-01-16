@@ -53,6 +53,7 @@ author:
 * STAT 441/841: Statistical Learning - Classification (2017)
   * [Lec 1: Intro, LDA, PCA](https://www.youtube.com/watch?v=VR5ZRr4QOYk), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sep7_classification.pdf)
   * [Lec 9: Regularization, Hard Margin SVM](https://www.youtube.com/watch?v=SHBFk1ULNlE)
+  * [Lec 9: Stein’s unbiased risk estimator (sure)](https://www.youtube.com/watch?v=nqtfl137jio)
   * [Lec 10: SVM, Kernel SVM](https://www.youtube.com/watch?v=rLT4OFy-atc)
   * [Lec 11: Soft Margin SVM](https://www.youtube.com/watch?v=iZ3HF2_vF2c)
   * [Lec 12: Metric Learning]()https://www.youtube.com/watch?v=GhsHPY3-1zY
