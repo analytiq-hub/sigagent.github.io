@@ -45,7 +45,7 @@ author:
   * [Lec 15: Decision Tree, KNN](https://www.youtube.com/watch?v=JG3MPLlyOJg)
   * [Lec 16: Boosting](https://www.youtube.com/watch?v=P76Gy2eg46A)
   * [Lec 17: Bagging, Convolutional Networks (part 1)](https://www.youtube.com/watch?v=uH4FDYv1ARk)
-  * [Lec 18: Convolutional neural network (Part 2)](https://www.youtube.com/watch?v=8LBmeXKcjRI)
+  * [Lec 18: Convolutional neural network (part 2)](https://www.youtube.com/watch?v=8LBmeXKcjRI)
   * [Lec 19: PAC Learning](https://www.youtube.com/watch?v=qOMOYM0WCzU)
 
 * Deep Learning (2017) [videos, slides](https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017)
