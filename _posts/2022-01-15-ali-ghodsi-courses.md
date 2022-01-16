@@ -78,6 +78,8 @@ author:
   * [Lec 13: SPCA, Naive Bayes, K-nearest neighbour](https://www.youtube.com/watch?v=L9YcKclqx6k&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=12)
   * [Lec 14: Convolutional Neural Networks](https://www.youtube.com/watch?v=ZgxroF1Evcc&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=14)
   * [Lec 15: Random features, Tree](https://www.youtube.com/watch?v=7noJSd_7m5M&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=15)
+  * [Lec 16: Tree, Boosting method](https://www.youtube.com/watch?v=lTCaEwhnDdw)
+  * [Lec 17: Boosting method](https://www.youtube.com/watch?v=SEekcR7wdBc)
   * [Lec 18: Bagging](https://www.youtube.com/watch?v=tSee9TSbhJo&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=16)
 
 Other:
@@ -91,7 +93,6 @@ Other:
   * [Lec 8: Supervised PCA](https://www.youtube.com/watch?v=DkdrFwevais)
   * [Lec 9: SPCA, Nystrom Approximation, NMF](https://www.youtube.com/watch?v=P5Pu1o7w3TM)
   * [Lec 10: NMF via R1D algorithm](https://www.youtube.com/watch?v=_p72JZPO65E)
-  * [Lec 16: Tree, Boosting method](https://www.youtube.com/watch?v=lTCaEwhnDdw)
 
 * Deep Learning (2017)
   * [Lec 6.2: Variational Autoencoder](https://www.youtube.com/watch?v=uaaqyVS9-rM)
