@@ -14,6 +14,8 @@ title: Cloud Data Platform
 
 #### Software Stacks
 * [BDAS, the Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/)
+* [neptune.ai](https://neptune.ai/)
+* [Data Version Control](https://dvc.org/)
 
 #### Tutorials
 * Workshop: Managing the Complete Machine Learning Lifecycle with MLflow [1](https://www.youtube.com/watch?v=x3cxvsUFVZA) [2](https://www.youtube.com/watch?v=g5ibwiSH1uA) [3](https://www.youtube.com/watch?v=AxYmj8ufKKY) [2020]
