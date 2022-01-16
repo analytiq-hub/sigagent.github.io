@@ -43,16 +43,16 @@ author:
   * [Lec 14: Supervised PCA, Decision tree](https://www.youtube.com/watch?v=KREsNNjuxag)
   * [Lec 15: Decision Tree, KNN](https://www.youtube.com/watch?v=JG3MPLlyOJg)
   * [Lec 16: Boosting](https://www.youtube.com/watch?v=P76Gy2eg46A)
+  * [Lec 17: Bagging, Convolutional Networks (part 1)](https://www.youtube.com/watch?v=uH4FDYv1ARk)
+  * [Lec 18: Convolutional neural network (Part 2)](https://www.youtube.com/watch?v=8LBmeXKcjRI)
+  * [Lec 19: PAC Learning](https://www.youtube.com/watch?v=qOMOYM0WCzU)
 
 * Leftover
-  * [Lec 11: Soft Margin SVM](https://www.youtube.com/watch?v=iZ3HF2_vF2c)
-  * [Lec 18: Convolutional neural network (Part 2)](https://www.youtube.com/watch?v=8LBmeXKcjRI)
-
   * [Lec 3 FDA](https://www.youtube.com/watch?v=qL1OaF5eBvc)
   * [Lec 9, Regularization, Hard Margin SVM](https://www.youtube.com/watch?v=SHBFk1ULNlE)
 
 
-* [Deep Learning 2017](https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017) with videos, slides
+* Deep Learning (2017) [videos, slides](https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017)
 
 * U. Waterloo, STAT 441/841: Statistical Learning - Classification (2017)
   * [Lec 1: Intro, LDA, PCA](https://www.youtube.com/watch?v=VR5ZRr4QOYk)
@@ -64,6 +64,7 @@ author:
   * [Lec 8: Supervised PCA](https://www.youtube.com/watch?v=DkdrFwevais)
   * [Lec 9: SPCA, Nystrom Approximation, NMF](https://www.youtube.com/watch?v=P5Pu1o7w3TM)
   * [Lec 10: NMF via R1D algorithm](https://www.youtube.com/watch?v=_p72JZPO65E)
+  * [Lec 11: Soft Margin SVM](https://www.youtube.com/watch?v=iZ3HF2_vF2c)
   * [Lec 16: Tree, Boosting method](https://www.youtube.com/watch?v=lTCaEwhnDdw)
 
 * Deep Learning (2017)
