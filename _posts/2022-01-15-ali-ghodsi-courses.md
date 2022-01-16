@@ -69,11 +69,15 @@ author:
   * [Lec 3: FDA](https://www.youtube.com/watch?v=qL1OaF5eBvc&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=4)
   * [Lec 4: Logistic regression](https://www.youtube.com/watch?v=w3xbI-OseCI&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=5)
   * [Lec 5: Model selection, Neural Networks](https://www.youtube.com/watch?v=769aJ5DWn-E&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=6)
+  * [Lec 7: Back Propagation, RBN](https://www.youtube.com/watch?v=db2bTBElhEU&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=7)
+  * [Lec 8: Complexity control for RBN](https://www.youtube.com/watch?v=Wrsb8rywx1U&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=8)
   * [Lec 9: Regularization, Hard Margin SVM](https://www.youtube.com/watch?v=SHBFk1ULNlE)
-  * [Lec 9: Stein’s unbiased risk estimator (sure)](https://www.youtube.com/watch?v=nqtfl137jio)
   * [Lec 10: SVM, Kernel SVM](https://www.youtube.com/watch?v=rLT4OFy-atc)
   * [Lec 11: Soft Margin SVM](https://www.youtube.com/watch?v=iZ3HF2_vF2c)
   * [Lec 12: Metric Learning](https://www.youtube.com/watch?v=GhsHPY3-1zY)
+
+Other:
+  * [Lec 9: Stein’s unbiased risk estimator (sure)](https://www.youtube.com/watch?v=nqtfl137jio)
 
 * STAT 442/842: Data Visualization, a course on unsupervised learning (2017)
   * [Lec 1: Principal Component Analysis](https://www.youtube.com/watch?v=L-pQtGm3VS8)
