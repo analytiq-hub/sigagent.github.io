@@ -69,6 +69,7 @@ author:
   * [Lec 3: FDA](https://www.youtube.com/watch?v=qL1OaF5eBvc&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=4)
   * [Lec 4: Logistic regression](https://www.youtube.com/watch?v=w3xbI-OseCI&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=5)
   * [Lec 5: Model selection, Neural Networks](https://www.youtube.com/watch?v=769aJ5DWn-E&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=6)
+  * [Lec 6: Spectral Clustering, Laplacian Eigenmap, MVU](https://www.youtube.com/watch?v=DW3lSYltfzo)
   * [Lec 7: Back Propagation, RBN](https://www.youtube.com/watch?v=db2bTBElhEU&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=7)
   * [Lec 8: Complexity control for RBN](https://www.youtube.com/watch?v=Wrsb8rywx1U&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=8)
   * [Lec 9: Regularization, Hard Margin SVM](https://www.youtube.com/watch?v=SHBFk1ULNlE)
