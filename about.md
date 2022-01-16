@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 ---
 
 <img src="src/images/andrei_circle.png" align="right" width="15%" height="15%" />
