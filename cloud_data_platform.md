@@ -9,6 +9,7 @@ title: Cloud Data Platform
 * [Data+AI Summit 2022](https://databricks.com/dataaisummit/north-america-2022)
 * [Spark AI Archives](https://databricks.com/sparkaisummit/north-america/sessions)
   * [Introducing MLflow for End-to-End Machine Learning on Databricks](https://databricks.com/session_na20/introducing-mlflow-for-end-to-end-machine-learning-on-databricks), S. Owen (2020)
+  * [Lessons Learned from Using Spark for Evaluating Road Detection at BMW Autonomous Driving](https://www.youtube.com/watch?v=npYCeBzGxCA), Gheorghe Pucea (2019)
 
 #### Seminars
 
