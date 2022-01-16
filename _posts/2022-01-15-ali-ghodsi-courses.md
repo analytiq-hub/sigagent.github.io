@@ -49,6 +49,9 @@ author:
   * [Lec 19: PAC Learning](https://www.youtube.com/watch?v=qOMOYM0WCzU)
 
 * Deep Learning (2017) [videos, slides](https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017)
+  * Introduction [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sept7_dl.pdf)
+  * [Perceptron, FFNN, Backpropagation](https://www.youtube.com/watch?v=5baw_-rpOro), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sep12_dl.pdf)
+  * [Overfitting, Regulatization](https://www.youtube.com/watch?v=ognicHQctCU&list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB)
   * [Weight Decay, Introduction to Keras](https://www.youtube.com/watch?v=XTWPyW2mTUg), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sep19a_dl.pdf)
   * [Regularization, Dropout](https://www.youtube.com/watch?v=R5bt1I0I1Jg&list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sep26_dl.pdf)
   * [Lec 4.1: Batch Normalization, CNN](https://www.youtube.com/watch?v=yeRHFXiYeX4), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sep28_dl.pdf)
