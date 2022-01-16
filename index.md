@@ -14,7 +14,7 @@ blog_posts_by_category_title: Blog Posts by Category
 
 * Andrei's [blog](blog), [posts on Medium](medium.md), [Amazon reviews](https://www.amazon.com/gp/profile/amzn1.account.AH2JFOWQ673YGWLX22JI2BKYOUXA/ref=cm_cr_dp_d_gw_tr?ie=UTF8), [github](https://github.com/bitdribble), [LinkedIn](https://www.linkedin.com/in/andrei-radulescu-banu).
 
-## Things I read, watch or listen
+## Things I read, watch or listen to
 
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cloud Data Platform](cloud_data_platform.md)
