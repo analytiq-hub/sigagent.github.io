@@ -61,7 +61,7 @@ author:
   * [Oct 12 Part 2: Variational Autoencoder](https://www.youtube.com/watch?v=uaaqyVS9-rM)
   * [Oct 17: Sum Product Network](https://www.youtube.com/watch?v=Nm0jNqOnQ2o), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/oct17spn-guest-lecture-stat946-oct17-2017.pdf)
   * [Oct 19: Deep Reinforcement Learning](https://www.youtube.com/watch?v=HEc16L58wDc), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/oct19deep-rl-guest-lecture-stat946-oct19-2017.pdf)
-  * [Oct 24: Generative Adversarial Network](https://www.youtube.com/watch?v=7G4_Y5rsvi8), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/oct24generative_models_v2_split.pdf)
+  * [Oct 24: Generative Adversarial Networks](https://www.youtube.com/watch?v=7G4_Y5rsvi8), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/oct24generative_models_v2_split.pdf)
 
 * STAT 441/841: Statistical Learning - Classification (2017)
   * [Lec 1: Intro, LDA, PCA](https://www.youtube.com/watch?v=VR5ZRr4QOYk), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sep7_classification.pdf)
