@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ali Ghodsi AI Courses"
+title: "Ali Ghodsi U Waterloo AI Courses"
 categories: machine learning, statistics
 author:
 - Andrei Radulescu-Banu
