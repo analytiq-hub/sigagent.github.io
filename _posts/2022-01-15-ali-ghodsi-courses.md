@@ -51,7 +51,7 @@ author:
 * Deep Learning (2017) [videos, slides](https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017)
 
 * STAT 441/841: Statistical Learning - Classification (2017)
-  * [Lec 1: Intro, LDA, PCA](https://www.youtube.com/watch?v=VR5ZRr4QOYk)
+  * [Lec 1: Intro, LDA, PCA](https://www.youtube.com/watch?v=VR5ZRr4QOYk), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sep7_classification.pdf)
   * [Lec 9, Regularization, Hard Margin SVM](https://www.youtube.com/watch?v=SHBFk1ULNlE)
 
 * STAT 442/842: Data Visualization, a course on unsupervised learning (2017)
