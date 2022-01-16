@@ -6,6 +6,8 @@ author:
 - Andrei Radulescu-Banu
 ---
 
+I came across Ali Gholdsi's lectures by chance, and some of the [YouTube comments](https://www.youtube.com/watch?v=7G4_Y5rsvi8) were so positive that I had to watch his lectures: "These lectures are way more informative than the Stanford ones", said one. "One of the patient explanations almost 'a conceptual derivation' of the GAN. Talks few words and slowly so you can process what he is saying and gets foundations clear first. But the depth of his grasp and sharp thought can be seen in many places https://youtu.be/7G4_Y5rsvi8?t=2865 he answers the question 'if the function needs an inverse then does that mean you cant use Relu in the network?' brilliantly! Happy to know this resource," said another
+
 [Courses at U Waterloo](https://uwaterloo.ca/data-analytics/teaching):
 * STAT 946 (2014)
   * [17Sept14](https://www.youtube.com/watch?v=ognicHQctCU)
