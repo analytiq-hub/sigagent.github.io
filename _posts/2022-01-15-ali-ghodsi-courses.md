@@ -6,7 +6,7 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-At U Waterloo.
+[Courses at U Waterloo](https://uwaterloo.ca/data-analytics/teaching):
 * STAT 946 (2014)
   * [17Sept14](https://www.youtube.com/watch?v=ognicHQctCU)
 
