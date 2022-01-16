@@ -11,6 +11,7 @@ blog_posts_limit: 7
 blog_posts_by_category_title: Blog Posts by Category
 ---
 <img src="src/images/andrei_circle.png" align="right" width="15%" height="1xs5%" />
+
 … Robotics, AI, and Distributed Systems.
 
 
