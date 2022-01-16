@@ -49,6 +49,15 @@ author:
   * [Lec 19: PAC Learning](https://www.youtube.com/watch?v=qOMOYM0WCzU)
 
 * Deep Learning (2017) [videos, slides](https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017)
+  * [Weight Decay, Introduction to Keras](https://www.youtube.com/watch?v=XTWPyW2mTUg), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sep19a_dl.pdf)
+  * [Regularization, Dropout](https://www.youtube.com/watch?v=R5bt1I0I1Jg&list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sep26_dl.pdf)
+  * [Lec 4.1: Batch Normalization, CNN](https://www.youtube.com/watch?v=yeRHFXiYeX4), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sep28_dl.pdf)
+  * [Lec 4.2: CNN](https://www.youtube.com/watch?v=poa3dNdMe4o), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/oct03_classification.pdf)
+  * [Lec 5: RNN](https://www.youtube.com/watch?v=CPzxka--IFw), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/oct5_dl.pdf)
+  * [Lec 6.1: Variational Autoencoder](https://www.youtube.com/watch?v=KCm9OdxqGk4)
+  * [Lec 6.2: Variational Autoencoder](https://www.youtube.com/watch?v=uaaqyVS9-rM)
+  * [Sum Product Network](https://www.youtube.com/watch?v=Nm0jNqOnQ2o), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/oct17spn-guest-lecture-stat946-oct17-2017.pdf)
+  * [Deep Reinforcement Learning](https://www.youtube.com/watch?v=HEc16L58wDc), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/oct19deep-rl-guest-lecture-stat946-oct19-2017.pdf)
   * [Generative Adversarial Network](https://www.youtube.com/watch?v=7G4_Y5rsvi8), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/oct24generative_models_v2_split.pdf)
 
 * STAT 441/841: Statistical Learning - Classification (2017)
