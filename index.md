@@ -10,7 +10,7 @@ blog_posts_title: Last Blog Posts
 blog_posts_limit: 7
 blog_posts_by_category_title: Blog Posts by Category
 ---
-… robotics, fintech, and distributed systems.
+… Robotics, AI, and Distributed Systems.
 
 * [Andrei's blog](blog)
 * [Andrei's posts on Medium](medium.md)
