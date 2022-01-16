@@ -15,7 +15,6 @@ author:
 
 
 * U. Waterloo, STAT 441/841, CM 763: Statistical Learning Classification (Fall 2015)
-  * [Lec 1: Intro, LDA, PCA](https://www.youtube.com/watch?v=VR5ZRr4QOYk)
   * [Lec 1: Machine Learning, Introduction](https://www.youtube.com/watch?v=3R2mG7tlbgw)
   * [Lec 3 FDA](https://www.youtube.com/watch?v=qL1OaF5eBvc)
   * [Lec 4: PCA,Fisher's Discriminant Analysis (FDA)](https://www.youtube.com/watch?v=hGKt0yy9q_E)
@@ -24,6 +23,9 @@ author:
   * [Lec 11: Soft Margin SVM](https://www.youtube.com/watch?v=iZ3HF2_vF2c)
   * [Lec 13: Dual PCA, Supervised PCA](https://www.youtube.com/watch?v=ulLgihKiNY0)
   * [Lec 18: Convolutional neural network (Part 2)](https://www.youtube.com/watch?v=8LBmeXKcjRI)
+
+* U. Waterloo, STAT 441/841: Statistical Learning Classification (2017)
+  * [Lec 1: Intro, LDA, PCA](https://www.youtube.com/watch?v=VR5ZRr4QOYk)
 
 * U. Waterloo, STAT 442/842: Data Visualization, a course on unsupervised learning (2017)
   * [Lec 1, Principal Component Analysis](https://www.youtube.com/watch?v=L-pQtGm3VS8)
