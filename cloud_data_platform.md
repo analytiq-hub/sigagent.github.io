@@ -21,6 +21,7 @@ title: Cloud Data Platform
 
 #### Tutorials
 * Workshop: Managing the Complete Machine Learning Lifecycle with MLflow [1](https://www.youtube.com/watch?v=x3cxvsUFVZA) [2](https://www.youtube.com/watch?v=g5ibwiSH1uA) [3](https://www.youtube.com/watch?v=AxYmj8ufKKY) [2020]
+* [Ray on Databricks](https://databricks.com/blog/2021/11/19/ray-on-databricks.html)
 
 #### Videos
 * Ali Ghodsi
