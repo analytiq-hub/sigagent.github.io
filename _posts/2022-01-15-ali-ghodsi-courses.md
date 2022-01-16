@@ -26,19 +26,35 @@ author:
   * [Keras Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
 
 
-* U. Waterloo, STAT 441/841, CM 763: Statistical Learning Classification (Fall 2015)
+* U. Waterloo, STAT 441/841, CM 763: Statistical Learning Classification (Fall 2015) [video, slides](https://uwaterloo.ca/data-analytics/statistical-learning-classification)
   * [Lec 1: Machine Learning, Introduction](https://www.youtube.com/watch?v=3R2mG7tlbgw)
-  * [Lec 3 FDA](https://www.youtube.com/watch?v=qL1OaF5eBvc)
+  * [Lec 2: Formal definition of classification, Linear discriminant analysis (LDA), Quadratic discriminant analysis (QDA)](https://www.youtube.com/watch?v=_m7TMkzZzus)
+  * [Lec 3: QDA, Principal Component Analysis (PCA)](https://www.youtube.com/watch?v=RktIYARW6Rk)
   * [Lec 4: PCA,Fisher's Discriminant Analysis (FDA)](https://www.youtube.com/watch?v=hGKt0yy9q_E)
+  * [Lec 5: Logistic Regression](https://www.youtube.com/watch?v=wgCgYNM-5Cc)
+  * [Lec 6: Logistic Regression, Perceptron](https://www.youtube.com/watch?v=-8Q0h6_r02Y)
   * [Lec 7: Backpropagation](https://www.youtube.com/watch?v=J6hcu87NZWE)
-  * [Lec 9, Regularization, Hard Margin SVM](https://www.youtube.com/watch?v=SHBFk1ULNlE)
-  * [Lec 11: Soft Margin SVM](https://www.youtube.com/watch?v=iZ3HF2_vF2c)
+  * [Lec 8: Radial Basis Function Networks](https://www.youtube.com/watch?v=um5e996SgkM)
+  * [Lec 9: Stein’s unbiased risk estimate (sure)​](https://www.youtube.com/watch?v=nqtfl137jio)
+  * [Lec 10: Weight decay](https://www.youtube.com/watch?v=XsH13rUGvuk)
+  * [Lec 11: Hard margin svm](https://www.youtube.com/watch?v=rHzX9CtjPeg)
+  * [Lec 12: Soft margin svm](https://www.youtube.com/watch?v=L8mpkmQqnyk)
   * [Lec 13: Dual PCA, Supervised PCA](https://www.youtube.com/watch?v=ulLgihKiNY0)
+  * [Lec 14: Supervised PCA, Decision tree](https://www.youtube.com/watch?v=KREsNNjuxag)
+  * [Lec 15: Decision Tree, KNN](https://www.youtube.com/watch?v=JG3MPLlyOJg)
+  * [Lec 16: Boosting](https://www.youtube.com/watch?v=P76Gy2eg46A)
+
+* Leftover
+  * [Lec 11: Soft Margin SVM](https://www.youtube.com/watch?v=iZ3HF2_vF2c)
   * [Lec 18: Convolutional neural network (Part 2)](https://www.youtube.com/watch?v=8LBmeXKcjRI)
+
+  * [Lec 3 FDA](https://www.youtube.com/watch?v=qL1OaF5eBvc)
+  * [Lec 9, Regularization, Hard Margin SVM](https://www.youtube.com/watch?v=SHBFk1ULNlE)
+
 
 * [Deep Learning 2017](https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017) with videos, slides
 
-* U. Waterloo, STAT 441/841: Statistical Learning Classification (2017)
+* U. Waterloo, STAT 441/841: Statistical Learning - Classification (2017)
   * [Lec 1: Intro, LDA, PCA](https://www.youtube.com/watch?v=VR5ZRr4QOYk)
 
 * U. Waterloo, STAT 442/842: Data Visualization, a course on unsupervised learning (2017)
