@@ -6,6 +6,7 @@ author:
 - Andrei Radulescu-Banu
 ---
 
+At U Waterloo.
 * STAT 946 (2014)
   * [17Sept14](https://www.youtube.com/watch?v=ognicHQctCU)
 
@@ -26,7 +27,7 @@ author:
   * [Keras Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
 
 
-* U. Waterloo, STAT 441/841, CM 763: Statistical Learning Classification (Fall 2015) [video, slides](https://uwaterloo.ca/data-analytics/statistical-learning-classification)
+* STAT 441/841, CM 763: Statistical Learning Classification (Fall 2015) [video, slides](https://uwaterloo.ca/data-analytics/statistical-learning-classification)
   * [Lec 1: Machine Learning, Introduction](https://www.youtube.com/watch?v=3R2mG7tlbgw)
   * [Lec 2: Formal definition of classification, Linear discriminant analysis (LDA), Quadratic discriminant analysis (QDA)](https://www.youtube.com/watch?v=_m7TMkzZzus)
   * [Lec 3: QDA, Principal Component Analysis (PCA)](https://www.youtube.com/watch?v=RktIYARW6Rk)
@@ -53,10 +54,10 @@ author:
 
 * Deep Learning (2017) [videos, slides](https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017)
 
-* U. Waterloo, STAT 441/841: Statistical Learning - Classification (2017)
+* STAT 441/841: Statistical Learning - Classification (2017)
   * [Lec 1: Intro, LDA, PCA](https://www.youtube.com/watch?v=VR5ZRr4QOYk)
 
-* U. Waterloo, STAT 442/842: Data Visualization, a course on unsupervised learning (2017)
+* STAT 442/842: Data Visualization, a course on unsupervised learning (2017)
   * [Lec 1: Principal Component Analysis](https://www.youtube.com/watch?v=L-pQtGm3VS8)
   * [Lec 2: PCA (Ordinary, Dual, Kernel)](https://www.youtube.com/watch?v=jeOEXCFK30M)
   * [Lec 3: FDA](https://www.youtube.com/watch?v=qL1OaF5eBvc)
