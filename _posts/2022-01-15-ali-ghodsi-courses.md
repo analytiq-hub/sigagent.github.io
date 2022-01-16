@@ -75,6 +75,10 @@ author:
   * [Lec 10: SVM, Kernel SVM](https://www.youtube.com/watch?v=rLT4OFy-atc)
   * [Lec 11: Soft Margin SVM](https://www.youtube.com/watch?v=iZ3HF2_vF2c)
   * [Lec 12: Metric Learning](https://www.youtube.com/watch?v=GhsHPY3-1zY)
+  * [Lec 13: SPCA, Naive Bayes, K-nearest neighbour](https://www.youtube.com/watch?v=L9YcKclqx6k&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=12)
+  * [Lec 14: Convolutional Neural Networks](https://www.youtube.com/watch?v=ZgxroF1Evcc&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=14)
+  * [Lec 15: Random features, Tree](https://www.youtube.com/watch?v=7noJSd_7m5M&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=15)
+  * [Lec 18: Bagging](https://www.youtube.com/watch?v=tSee9TSbhJo&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=16)
 
 Other:
   * [Lec 9: Stein’s unbiased risk estimator (sure)](https://www.youtube.com/watch?v=nqtfl137jio)
