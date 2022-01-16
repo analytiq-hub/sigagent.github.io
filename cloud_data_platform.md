@@ -29,6 +29,7 @@ title: Cloud Data Platform
   * [Realizing the Vision of the Data Lakehouse](https://www.youtube.com/watch?v=g11y-kJHr3I), Keynote Spark + AI Summit 2020
 
 #### Posts
+* [Spark, Dask, and Ray: A History](https://blog.dominodatalab.com/spark-dask-ray-choosing-the-right-framework?hs_amp=false), N. Manchev (2021)
 
 #### People
 * [Ali Ghodsi](https://people.eecs.berkeley.edu/~alig/)
