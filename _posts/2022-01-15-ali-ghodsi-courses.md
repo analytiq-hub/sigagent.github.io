@@ -102,10 +102,6 @@ After watching his [lecture on GANs](https://www.youtube.com/watch?v=7G4_Y5rsvi8
   * [Lec 15: t-SNE](https://www.youtube.com/watch?v=4GBgqmq0XAY&list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK&index=15)
   * [Lec 16: Variational Autoencoders](https://www.youtube.com/watch?v=weipjHmkCHk&list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK&index=15)
 
-* Deep Learning (2017)
-  * [Lec 6.2: Variational Autoencoder](https://www.youtube.com/watch?v=uaaqyVS9-rM)
-  * [Lec 14: Autoencoders, Clustering, Mixture of Gaussians](https://www.youtube.com/watch?v=Q6U3gpzwnx0)
-
 * Deep learning (Fall 2020)
   * [Lec 10: Attention mechanism](https://www.youtube.com/watch?v=WFcH7kRNEBc)
   * [Lec 13: Transformer, BERT, GPT](https://www.youtube.com/watch?v=APzuQoScLfc)
