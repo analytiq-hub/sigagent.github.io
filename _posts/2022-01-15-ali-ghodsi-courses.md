@@ -111,4 +111,7 @@ After watching his [lecture on GANs](https://www.youtube.com/watch?v=7G4_Y5rsvi8
 Ali Ghodsi [Google Scholar](https://scholar.google.ca/citations?hl=th&user=WXbhp_4AAAAJ&view_op=list_works&sortby=pubdate).
 * [Generative Adversarial Networks and Adversarial Autoencoders: Tutorial and Survey](https://arxiv.org/pdf/2111.13282.pdf), B. Ghojogh, A. Ghodsi, F. Karray, M. Crowley (2021)
 * [Restricted Boltzmann Machine and Deep Belief Network: Tutorial and Survey](https://arxiv.org/pdf/2107.12521.pdf), B. Ghojogh, A. Ghodsi, F. Karray, M. Crowley (2021)
-* [Unified Framework for Spectral Dimensionality Reduction, Maximum Variance Unfolding, and Kernel Learning By Semidefinite Programming: Tutorial and Survey](https://arxiv.org/pdf/2106.15379) (2021)
+* [Unified Framework for Spectral Dimensionality Reduction, Maximum Variance Unfolding, and Kernel Learning By Semidefinite Programming: Tutorial and Survey](https://arxiv.org/pdf/2106.15379), B. Ghojogh, A. Ghodsi, F. Karray, M. Crowley (2021)
+* [Laplacian-Based Dimensionality Reduction Including Spectral Clustering, Laplacian Eigenmap, Locality Preserving Projection, Graph Embedding, and Diffusion Map: Tutorial and Survey](https://arxiv.org/pdf/2106.02154), B. Ghojogh, A. Ghodsi, F. Karray, M. Crowley (2021)
+* [Attention Mechanism, Transformers, BERT, and GPT: Tutorial and Survey](https://osf.io/m6gcn/download), B. Ghojogh, A. Ghodsi (2021)
+* [Locally linear embedding and its variants: Tutorial and survey](https://arxiv.org/pdf/2011.10925), B. Ghojogh, A. Ghodsi, F. Karray, M. Crowley (2020)
