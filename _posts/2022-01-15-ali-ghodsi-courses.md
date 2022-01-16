@@ -10,8 +10,8 @@ author:
   * [17Sept14](https://www.youtube.com/watch?v=ognicHQctCU)
 
 * STAT 946 Topics in Probability and Statistics: Deep Learning (Fall 2015)
-  * [Lec [1,1]: Deep Learning, Introduction](https://www.youtube.com/watch?v=fyAZszlPphs)
-  * [Lec [3,1]: Deep Learning, Word2vec](https://www.youtube.com/watch?v=TsEGsdVJjuA)
+  * [Lec 1,1]: Deep Learning, Introduction](https://www.youtube.com/watch?v=fyAZszlPphs)
+  * [Lec 3,1]: Deep Learning, Word2vec](https://www.youtube.com/watch?v=TsEGsdVJjuA)
 
 
 * U. Waterloo, STAT 441/841, CM 763: Statistical Learning Classification (Fall 2015)
