@@ -6,6 +6,7 @@ title: Cloud Data Platform
 #### Books
 
 #### Conferences
+* [Data+AI Summit 2022](https://databricks.com/dataaisummit/north-america-2022)
 
 #### Seminars
 
