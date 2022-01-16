@@ -7,6 +7,7 @@ title: Cloud Data Platform
 
 #### Conferences
 * [Data+AI Summit 2022](https://databricks.com/dataaisummit/north-america-2022)
+* [Spark AI Archives](https://databricks.com/sparkaisummit/north-america/sessions)
 
 #### Seminars
 
