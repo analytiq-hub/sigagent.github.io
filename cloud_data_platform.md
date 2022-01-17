@@ -34,6 +34,8 @@ title: Cloud Data Platform
   * [How to connect Jupyter Notebook to remote spark clusters and run spark jobs every day?](https://towardsdatascience.com/how-to-connect-jupyter-notebook-to-remote-spark-clusters-and-run-spark-jobs-every-day-2c5a0c1b61df), Teng Peng (2020). This uses Bayesnote to orchestrate notebooks on Spark clusters.
   * [Orchestrate Jupyter Notebooks in 5 minutes](https://towardsdatascience.com/how-to-orcestrate-jupyter-notebooks-752aa8081208), Teng Peng (2020)
   * Reddit: [Simple workflow orchestration tool with Jupyter Notebook support](https://www.reddit.com/r/dataengineering/comments/s3qb5g/simple_workflow_orchestration_tool_with_jupyter/) (2022)
+* Reviews
+  * firebolt.io: [Snowflake vs Databricks vs Firebolt](https://www.firebolt.io/blog/snowflake-vs-databricks-vs-firebolt)
 
 #### People
 * [Ali Ghodsi](https://people.eecs.berkeley.edu/~alig/), Berkeley
