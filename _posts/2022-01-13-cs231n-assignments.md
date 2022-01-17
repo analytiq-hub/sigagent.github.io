@@ -25,3 +25,4 @@ Github: [bitdribble/cs231n](https://github.com/Bitdribble/cs231n)
 
 ## Other forks with solutions:
 * [jingxinfu/cs231n](https://github.com/jingxinfu/cs231n)
+* [haofeixu/cs231n](https://github.com/haofeixu/cs231n)
