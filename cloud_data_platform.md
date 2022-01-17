@@ -32,6 +32,7 @@ title: Cloud Data Platform
 * [Spark, Dask, and Ray: A History](https://blog.dominodatalab.com/spark-dask-ray-choosing-the-right-framework?hs_amp=false), N. Manchev (2021)
 * Jupyter Notebooks, Spark
   * [How to connect Jupyter Notebook to remote spark clusters and run spark jobs every day?](https://towardsdatascience.com/how-to-connect-jupyter-notebook-to-remote-spark-clusters-and-run-spark-jobs-every-day-2c5a0c1b61df), Teng Peng (2020). This uses Bayesnote to orchestrate notebooks on Spark clusters.
+  * [Orchestrate Jupyter Notebooks in 5 minutes](https://towardsdatascience.com/how-to-orcestrate-jupyter-notebooks-752aa8081208), Teng Peng (2020)
 
 #### People
 * [Ali Ghodsi](https://people.eecs.berkeley.edu/~alig/), Berkeley
