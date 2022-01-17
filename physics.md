@@ -9,6 +9,8 @@ title: Physics
 * [The Road to Reality](https://www.amazon.com/Road-Reality-Complete-Guide-Universe/dp/0679776311), Roger Penrose (2007). Great companion to other more in-depth books, explains how all the parts of physics 'fit together' in the larger theory. Requires simple understanding of differential geometry (and is in fact a great companion to any rigorous book on differential geometry). I've started with the chapter on Lagrangian and Hamiltonian mechanics, and paired it with the Taylor textbook.
 * [Quantum Mechanics in Simple Matrix Form](https://www.amazon.com/Quantum-Mechanics-Simple-Matrix-Physics/dp/0486445305), Thomas F. Jordan (1986). An exposition in the simplest operator form, starting from 2x2 matrices, and avoiding any discussion of eigenvalues, hermitian matrices, etc.
 * [A Modern Approach to Quantum Mechanics](https://www.amazon.com/Modern-Approach-Quantum-Mechanics/dp/1891389785), John S. Townsend (2012)
+* [Statistical Mechanics](https://www.amazon.com/Statistical-Mechanics-2nd-Kerson-Huang/dp/0471815187), Kerson Huang (1987)
+* [Statistical Mechanics of Neural Networks](https://www.amazon.com/Statistical-Mechanics-Neural-Networks-Haiping/dp/9811675694), H. Huang (2021)
 
 #### Lecture Notes
 * [Intermediate Classical Mechanics](http://www.physics.usu.edu/torre/3550_Fall_2013/), Charles Torre (2013)
