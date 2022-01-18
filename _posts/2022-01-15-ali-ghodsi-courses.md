@@ -65,7 +65,7 @@ After watching his [lecture on GANs](https://www.youtube.com/watch?v=7G4_Y5rsvi8
   * [Oct 24: Generative Adversarial Networks](https://www.youtube.com/watch?v=7G4_Y5rsvi8), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/oct24generative_models_v2_split.pdf)
 
 * STAT 441/841: Statistical Learning - Classification (Winter 2017), [playlist](https://www.youtube.com/watch?v=VR5ZRr4QOYk&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG)
-  * [Lec 1: Intro, LDA, PCA](https://www.youtube.com/watch?v=VR5ZRr4QOYk), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sep7_classification.pdf)
+  * [Lec 1: Intro to classifiers, Bayesian classifiers, LDA and QDA](https://www.youtube.com/watch?v=VR5ZRr4QOYk), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sep7_classification.pdf)
   * [Lec 2: QDA, PCA](https://www.youtube.com/watch?v=JWozRg_X-Vg&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=3)
   * [Lec 3: FDA](https://www.youtube.com/watch?v=qL1OaF5eBvc&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=4)
   * [Lec 4: Logistic regression](https://www.youtube.com/watch?v=w3xbI-OseCI&list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&index=5)
