@@ -28,7 +28,7 @@ After watching his [lecture on GANs](https://www.youtube.com/watch?v=7G4_Y5rsvi8
   * [Keras Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/keras_tutorial.pdf)
 
 
-* STAT 441/841, CM 763: Statistical Learning Classification (Fall 2015) [video, slides](https://uwaterloo.ca/data-analytics/statistical-learning-classification)
+* STAT 441/841, CM 763: Statistical Learning Classification (Fall 2015) [all videos and slides](https://uwaterloo.ca/data-analytics/statistical-learning-classification)
   * [Lec 1: Machine Learning, Introduction](https://www.youtube.com/watch?v=3R2mG7tlbgw)
   * [Lec 2: Formal definition of classification, Linear discriminant analysis (LDA), Quadratic discriminant analysis (QDA)](https://www.youtube.com/watch?v=_m7TMkzZzus)
   * [Lec 3: QDA, Principal Component Analysis (PCA)](https://www.youtube.com/watch?v=RktIYARW6Rk)
