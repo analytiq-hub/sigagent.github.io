@@ -107,6 +107,7 @@ After watching his [lecture on GANs](https://www.youtube.com/watch?v=7G4_Y5rsvi8
   * [Lec 10: Attention mechanism](https://www.youtube.com/watch?v=WFcH7kRNEBc)
   * [Lec 13: Transformer, BERT, GPT](https://www.youtube.com/watch?v=APzuQoScLfc)
 
+New videos will get posted on Ali Ghodsi's [YouTube channel](https://www.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A).
 
 #### Papers
 Ali Ghodsi on [Google Scholar](https://scholar.google.ca/citations?hl=th&user=WXbhp_4AAAAJ&view_op=list_works&sortby=pubdate). Not to be confused with Ali Ghodsi from U. Berkeley, CEO and founder of Databricks.
