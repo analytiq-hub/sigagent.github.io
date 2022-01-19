@@ -109,6 +109,8 @@ After watching his [lecture on GANs](https://www.youtube.com/watch?v=7G4_Y5rsvi8
 
 New videos will get posted on Ali Ghodsi's [YouTube channel](https://www.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A). One nice feature of his videos is that each is more or less self contained. That is - they depend on earlier material, but it is relatively easy to navigate and find these dependencies.
 
+Among his publications, I am collecting below his recent Tutorials and Surveys. They accompany and expand some of the materials presented in his videos.
+
 #### Papers
 Ali Ghodsi on [Google Scholar](https://scholar.google.ca/citations?hl=th&user=WXbhp_4AAAAJ&view_op=list_works&sortby=pubdate). Not to be confused with Ali Ghodsi from U. Berkeley, CEO and founder of Databricks.
 * [Generative Adversarial Networks and Adversarial Autoencoders: Tutorial and Survey](https://arxiv.org/pdf/2111.13282.pdf), B. Ghojogh, A. Ghodsi, F. Karray, M. Crowley (2021)
