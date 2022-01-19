@@ -12,6 +12,7 @@ After watching his [lecture on GANs](https://www.youtube.com/watch?v=7G4_Y5rsvi8
 
 #### Courses at U Waterloo
 * STAT 946 Topics in Probability and Statistics: Deep Learning (Fall 2015) [all videos and slides](https://uwaterloo.ca/data-analytics/deep-learning)
+  * [Course Outline](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/f15_stat946_deep_learning_outline_1_1.pdf), [list of papers](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/listofpapers1_0.pdf)
   * [Lec 1.1: Introduction](https://www.youtube.com/watch?v=fyAZszlPphs), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/lecture_1_0.pdf)
   * [Lec 1.2: Perceptron, Feedforward Neural Network, Back propagation](https://www.youtube.com/watch?v=AxC40B6KtSQ)
   * [Lec 2.1: Regularization](https://www.youtube.com/watch?v=21jL0I6wbns), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/regularization2.pdf)
