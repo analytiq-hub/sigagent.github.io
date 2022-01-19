@@ -11,7 +11,7 @@ I came across Ali Gholdsi's lectures by chance, and some of the [YouTube comment
 After watching his [lecture on GANs](https://www.youtube.com/watch?v=7G4_Y5rsvi8), I sought all of his lectures, and attempted to collect them in one place. Some were already listed on the [U Waterloo data analytics site](https://uwaterloo.ca/data-analytics/teaching), but it was not a complete list.
 
 #### Courses at U Waterloo
-* STAT 946 Topics in Probability and Statistics: Deep Learning (Fall 2015) [videos, slides](https://uwaterloo.ca/data-analytics/deep-learning)
+* STAT 946 Topics in Probability and Statistics: Deep Learning (Fall 2015) [all videos and slides](https://uwaterloo.ca/data-analytics/deep-learning)
   * [Lec 1.1: Introduction](https://www.youtube.com/watch?v=fyAZszlPphs), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/lecture_1_0.pdf)
   * [Lec 1.2: Perceptron, Feedforward Neural Network, Back propagation](https://www.youtube.com/watch?v=AxC40B6KtSQ)
   * [Lec 2.1: Regularization](https://www.youtube.com/watch?v=21jL0I6wbns), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/regularization2.pdf)
@@ -49,7 +49,7 @@ After watching his [lecture on GANs](https://www.youtube.com/watch?v=7G4_Y5rsvi8
   * [Lec 18: Convolutional neural network (part 2)](https://www.youtube.com/watch?v=8LBmeXKcjRI)
   * [Lec 19: PAC Learning](https://www.youtube.com/watch?v=qOMOYM0WCzU)
 
-* Deep Learning (2017) [videos, slides](https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017)
+* Deep Learning (2017) [all videos and slides](https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017)
   * Sep 7: Introduction (no video), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sept7_dl.pdf)
   * [Sep 12: Perceptron, FFNN, Backpropagation](https://www.youtube.com/watch?v=5baw_-rpOro), [slides](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/sep12_dl.pdf)
   * [Sep 14: Overfitting, Regulatization](https://www.youtube.com/watch?v=ognicHQctCU&list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB)
