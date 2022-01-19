@@ -111,7 +111,7 @@ New videos will get posted on Ali Ghodsi's [YouTube channel](https://www.youtube
 
 Among his publications, I am collecting below his recent Tutorials and Surveys. They accompany and expand some of the materials presented in his videos.
 
-#### Papers
+#### Tutorials and Surveys
 Ali Ghodsi on [Google Scholar](https://scholar.google.ca/citations?hl=th&user=WXbhp_4AAAAJ&view_op=list_works&sortby=pubdate). Not to be confused with Ali Ghodsi from U. Berkeley, CEO and founder of Databricks.
 * [Generative Adversarial Networks and Adversarial Autoencoders: Tutorial and Survey](https://arxiv.org/pdf/2111.13282.pdf), B. Ghojogh, A. Ghodsi, F. Karray, M. Crowley (2021)
 * [Restricted Boltzmann Machine and Deep Belief Network: Tutorial and Survey](https://arxiv.org/pdf/2107.12521.pdf), B. Ghojogh, A. Ghodsi, F. Karray, M. Crowley (2021)
