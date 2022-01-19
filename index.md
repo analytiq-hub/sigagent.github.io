@@ -23,6 +23,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Cloud Data Platform](cloud_data_platform.md)
 * [Cognitive Science](cognitive_science.md)
 * [Computation Theory](computation_theory.md)
+* [Control Theory](control_theory.md)
 * [Crypto Currencies](crypto_currencies.md)
 * [Dev/Ops](devops.md)
 * [Embedded Programming](embedded_programming.md)
