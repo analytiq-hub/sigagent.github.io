@@ -11,6 +11,9 @@ title: Romania
 #### Blogs
 * Dan Alexe: [Cabal in Kabul](https://cabalinkabul.com/)
 
+#### Interviews
+* [Monica Lovinescu - Radio Free Europe Interview 1998](https://www.youtube.com/watch?v=ZO3PBsROZjY&t=2083s), with Mircea Iorgulescuxs
+
 #### Links
 * [Philosophy](philosophy.md)
 * [Physics](physics.md)
