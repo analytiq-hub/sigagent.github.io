@@ -135,6 +135,9 @@ title: Self Driving Cars
 #### Frameworks
 * [mmdetection3d](https://github.com/open-mmlab/mmdetection3d), [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
 
+#### Development platforms
+* [AVA AP1](https://www.adlinktech.com/Products/Connected-Autonomous-Vehicle-Solutions/Arm-Development-Platform/AVA_AP1#tab-35700) (ARM)
+
 #### People
 * [Felipe Codevilla](https://www.codevilla.info/)
 
