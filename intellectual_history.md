@@ -9,8 +9,10 @@ title: Intellectual History
 #### Talks
 * Isaiah Berlin
   * [Two Concepts of Liberty](https://www.youtube.com/watch?v=UCsfT2WsitE) (1958)
+  * Woodbridge Lectures (1965)
+    * 3 of 4: [Lecture on Joseph de Maistre](https://www.youtube.com/watch?v=bB2U9XXpHP4)
   * Origins of Cultural History (1973)
-    * [1 - The Germans vs French](https://www.youtube.com/watch?v=eZinUTb-bWg&t=901s)
+    * 1 of 3: [The Germans vs French](https://www.youtube.com/watch?v=eZinUTb-bWg&t=901s)
 * [Interview with Bertrand Russell](https://www.youtube.com/watch?v=xL_sMXfzzyA) (1972)
 
 #### Links
