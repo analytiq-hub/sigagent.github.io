@@ -11,6 +11,7 @@ title: Intellectual History
   * [Two Concepts of Liberty](https://www.youtube.com/watch?v=UCsfT2WsitE) (1958)
   * Origins of Cultural History (1973)
     * [1 - The Germans vs French](https://www.youtube.com/watch?v=eZinUTb-bWg&t=901s)
+* [Interview with Bertrand Russell](https://www.youtube.com/watch?v=xL_sMXfzzyA) (1972)
 
 #### Links
 * [Philosophy](philosophy.md)
