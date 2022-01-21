@@ -139,6 +139,7 @@ title: Self Driving Cars
 
 #### Development platforms
 * [AVA AP1](https://www.adlinktech.com/Products/Connected-Autonomous-Vehicle-Solutions/Arm-Development-Platform/AVA_AP1#tab-35700) (ARM)
+* [Ambarella](https://www.ambarella.com/news/ambarella-launches-ai-domain-controller-soc-family-for-single-chip-multi-sensor-perception-fusion-and-path-planning-in-adas-to-l4-autonomous-vehicles/)
 
 #### People
 * [Felipe Codevilla](https://www.codevilla.info/)
