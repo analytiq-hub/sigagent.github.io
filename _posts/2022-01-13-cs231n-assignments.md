@@ -15,7 +15,7 @@ author:
 
 ## Andrei's assignments
 Github: [bitdribble/cs231n](https://github.com/Bitdribble/cs231n)
-* assignments/2021/assignment1
+* [Assignment 1](https://cs231n.github.io/assignments2021/assignment1): assignments/2021/assignment1
   * [knn.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/knn.ipynb)
   * [cs231n/classifiers/k_nearest_neighbor.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/classifiers/k_nearest_neighbor.py)
   * [svm.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/svm.ipynb)
@@ -23,6 +23,8 @@ Github: [bitdribble/cs231n](https://github.com/Bitdribble/cs231n)
   * [softmax.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignment1/softmax.ipynb)
   * [cs231n/classifiers/softmax.py](https://github.com/Bitdribble/cs231n/blob/master/assignment1/cs231n/classifiers/softmax.py)
   * [features.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/features.ipynb)
+* [Assignment 2](https://cs231n.github.io/assignments2021/assignment2): assigmnets/2021/assignment2
+* [Assignment 3](https://cs231n.github.io/assignments2021/assignment3): assigmnets/2021/assignment2
 
 ## Other forks with solutions:
 * [jingxinfu/cs231n](https://github.com/jingxinfu/cs231n)
