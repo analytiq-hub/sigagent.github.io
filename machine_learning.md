@@ -5,6 +5,7 @@ title: Machine Learning
 ---
 #### Books, Lecture Notes
 * Michael Nielsen: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738), C. Bishop, [pdf](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 * [Artificial Intelligence: A Modern Approach](repository.unimal.ac.id/1022/1/Artificial%20Intelligence%20-%20A%20Modern%20Approach%203rd%20Ed%20-%20Stuart%20Russell%20and%20Peter%20Norvig%2C%20Berkeley%20%282010%29.pdf), by Russell and Norvig (4th edition, 2020)
 * [Deep learning theory lecture notes](https://mjt.cs.illinois.edu/dlt/), Matus Telgarsky
 * [Fundamentals of Machine Learning for Predictive Data Analytics](https://www.amazon.com/Fundamentals-Machine-Learning-Predictive-Analytics/dp/0262044692/ref=asc_df_0262044692/), J.D. Kelleher et al (2020)
