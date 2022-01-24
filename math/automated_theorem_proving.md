@@ -16,6 +16,7 @@ title: Automated Theorem Proving
   * [Lean for the Curious Mathematician '20](https://www.youtube.com/watch?v=8mVOIGW5US4&list=PLlF-CfQhukNlxexiNJErGJd2dte_J1t1N&index=1)
     * [Mathematics in Lean introduction - Patrick Massot](https://www.youtube.com/watch?v=lw8EfTmWzRU&list=PLlF-CfQhukNlxexiNJErGJd2dte_J1t1N&index=4)
 * [Metamath](http://us.metamath.org/downloads/metamath.pdf), by Norman Megill, revised by David A. Wheeler (2019)
+* [HOL Light](https://www.cl.cam.ac.uk/~jrh13/hol-light/)
 
 #### Posts
 * [Building the Mathematical Library of the Future](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/), Kevin Hartnett (2020)
