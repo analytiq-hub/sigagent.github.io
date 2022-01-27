@@ -89,9 +89,6 @@ title: Machine Learning
   * [Convolutional Neural Networks](https://www.youtube.com/watch?v=iaSUYvmCekI), Alexander Amini
   * [Deep Generative Modeling](https://www.youtube.com/watch?v=rZufA635dq4&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4), Ava Soleimany
   * [Deep Reinforcement Learning](https://www.youtube.com/watch?v=i6Mi2_QM3rA), Alexander Amini
-* Michael Bronstein: [Geometric Deep Learning: the Erlangen Programme of ML](https://iclr.cc/virtual/2021/invited-talk/3717) (2021)
-  * [Geometric Deep LearningGrids, Groups, Graphs,Geodesics, and Gauges](https://arxiv.org/pdf/2104.13478.pdf), M. Bronstein et al (2021)
-  * [#60 Geometric Deep Learning Blueprint](https://www.youtube.com/watch?v=bIZB1hIJ4u8) (2021)
 * J. Frankle, M. Carbin:[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) (2019)
 * G. Hinton: [What is wrong with convolutional neural nets ?](https://www.youtube.com/watch?v=rTawFwUvnLE) (2017)
 * G. Hinton: [Artificial Intelligence: Turning our understanding of the mind right side up](https://www.youtube.com/watch?v=fDR1I2Shw_E) (2017)
@@ -182,6 +179,12 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 
 #### Object Detection from Images
 * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf), J. Redmon et al (2016), [http://pjreddie.com/yolo/](http://pjreddie.com/yolo/), Y Liao et al (2021)
+
+#### Geometric Deep Learning
+* Michael Bronstein: [Geometric Deep Learning: the Erlangen Programme of ML](https://iclr.cc/virtual/2021/invited-talk/3717) (2021)
+  * [Geometric Deep Learning: Grids, Groups, Graphs,Geodesics, and Gauges](https://arxiv.org/pdf/2104.13478.pdf), M. Bronstein et al (2021)
+  * ML Street Talk #60: [Geometric Deep Learning Blueprint](https://www.youtube.com/watch?v=bIZB1hIJ4u8) (2021)
+* ML Street Talk #36: [Max Welling: Quantum, Manifolds & Symmetries in ML](https://www.youtube.com/watch?v=mmDw5glry9w) (2021)
 
 #### Web sites
 * [Papers with Code](https://paperswithcode.com/)
