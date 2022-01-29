@@ -12,7 +12,7 @@ title: Romania
 * Dan Alexe: [Cabal in Kabul](https://cabalinkabul.com/)
 
 #### Interviews
-* [Monica Lovinescu - Radio Free Europe Interview 1998](https://www.youtube.com/watch?v=ZO3PBsROZjY&t=2083s), with Mircea Iorgulescuxs
+* [Monica Lovinescu - Radio Free Europe Interview 1998](https://www.youtube.com/watch?v=ZO3PBsROZjY&t=2083s), with Mircea Iorgulescu
 
 #### Links
 * [Philosophy](philosophy.md)
