@@ -47,7 +47,7 @@ Github: [bitdribble/cs231n](https://github.com/Bitdribble/cs231n)
   * [fc_net.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/cs231n/classifiers/fc_net.py): implementation of fully connected net, with support for:
     * batch normalization
     * layer normalization
-* [Assignment 3](https://cs231n.github.io/assignments2021/assignment3): assigmnets/2021/assignment2
+* [Assignment 3](https://cs231n.github.io/assignments2021/assignment3): assignmets/2021/assignment2
 
 ## Other forks with solutions:
 * [jingxinfu/cs231n](https://github.com/jingxinfu/cs231n)
