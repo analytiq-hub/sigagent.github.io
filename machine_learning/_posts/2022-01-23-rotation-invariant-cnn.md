@@ -25,3 +25,4 @@ Also see these talks:
     * Equivariant graphs are data efficient. In some sense, data efficiency is equivalent to accuracy.
     * Spherical gauge symmetric models can be used to detect storms on earth.
     * They did some, but not many exotic manifolds.
+    * Most exciting work is for molecule property prediction, using the 3D roto-translation equivariant attention networks
