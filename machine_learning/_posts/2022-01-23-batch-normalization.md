@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Batch Normalization
-tags: batch_normalization
+categories: batch_normalization
 author:
 - Andrei Radulescu-Banu
 ---
