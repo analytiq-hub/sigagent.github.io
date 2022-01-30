@@ -22,3 +22,5 @@ Also see these talks:
     * In practice, graph neural nets have at most 5-6 layers. Deeper than that, they saturate. So unlike ResNets, which can have hundreds, or even thousands of layersm graph neural nets are shallow.
     * The subgraphs for the kernel library consist of the entire set of subgraphs.
     * You can do maxpooling between layers of graphs, to shrink the higher layers.
+    * Equivariant graphs are data efficient. In some sense, data efficiency is equivalent to accuracy.
+    * Spherical gauge symmetric models can be used to detect storms on earth.
