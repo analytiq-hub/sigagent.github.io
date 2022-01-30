@@ -19,3 +19,6 @@ Also see these talks:
 * Max Welling
   * ML Street Talk #36: [Max Welling: Quantum, Manifolds & Symmetries in ML](https://www.youtube.com/watch?v=mmDw5glry9w) (2021)
   * IAS Seminar on Theoretical ML: [Graph Nets: The Next Generation](https://www.youtube.com/watch?v=Wx8J-Kw3fTA) (2020)
+    * In practice, graph neural nets have at most 5-6 layers. Deeper than that, they saturate. So unlike ResNets, which can have hundreds, or even thousands of layersm graph neural nets are shallow.
+    * The subgraphs for the kernel library consist of the entire set of subgraphs.
+    * You can do maxpooling between layers of graphs, to shrink the higher layers.
