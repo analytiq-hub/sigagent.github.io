@@ -22,12 +22,31 @@ Github: [bitdribble/cs231n](https://github.com/Bitdribble/cs231n)
   * [cs231n/classifiers/linear_classifier.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/classifiers/linear_classifier.py)
   * [softmax.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignment1/softmax.ipynb)
   * [cs231n/classifiers/softmax.py](https://github.com/Bitdribble/cs231n/blob/master/assignment1/cs231n/classifiers/softmax.py)
-  * [layers.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/layers.py): `affine_forward()`, `affine_backward()`, `relu_forward()`, `relu_backward()`, `softmax_loss()` implementations
+  * [layers.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/layers.py) implementations for:
+    * `affine_forward()`, `affine_backward()`
+    * `relu_forward()`, `relu_backward()`
+    * `softmax_loss()`
+  * [layer_utils.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/layer_utils.py) implementations for:
+    * `affine_relu_forward()`, `affine_relu_backward()`
+  * [fc_net.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/classifiers/fc_net.py): implementation of fully connected net
   * [features.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/features.ipynb)
 * [Assignment 2](https://cs231n.github.io/assignments2021/assignment2): assigmnets/2021/assignment2
   * [FullyConnectedNets.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/FullyConnectedNets.ipynb)
   * [optim.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/cs231n/optim.py): RMSProp, Adam optimizers
   * [layers.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/cs231n/layers.py): `affine_forward()`, `affine_backward()`, `relu_forward()`, `relu_backward()`, `softmax_loss()` implementations
+  * [layers.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/cs231n/layers.py) implementations for:
+    * `affine_forward()`, `affine_backward()`
+    * `relu_forward()`, `relu_backward()`
+    * `batchnorm_forward()`, `batchnorm_backward()`. The backward pass is a good example of gradient descent in the compute graph.
+    * `layernorm_forward()`, `layernorm_backward()`
+    * `softmax_loss()`
+  * [layer_utils.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/cs231n/layer_utils.py) implementations for:
+    * `affine_relu_forward()`, `affine_relu_backward()`
+    * `affine_bn_relu_forward()`, `affine_bn_relu_backward()`
+    * `affine_ln_relu_forward()`, `affine_ln_relu_backward()`
+  * [fc_net.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/cs231n/classifiers/fc_net.py): implementation of fully connected net, with support for:
+    * batch normalization
+    * layer normalization
 * [Assignment 3](https://cs231n.github.io/assignments2021/assignment3): assigmnets/2021/assignment2
 
 ## Other forks with solutions:
