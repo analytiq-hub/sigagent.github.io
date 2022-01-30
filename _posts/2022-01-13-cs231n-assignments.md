@@ -34,3 +34,8 @@ Github: [bitdribble/cs231n](https://github.com/Bitdribble/cs231n)
 * [jingxinfu/cs231n](https://github.com/jingxinfu/cs231n)
 * [haofeixu/cs231n](https://github.com/haofeixu/cs231n)
 * https://www.codeleading.com/article/83371501641/
+
+## Resources
+* Batch Normalization, gradient descent backward pass:
+  * [Flair of Machine Learning](https://kratzert.github.io/) blog: [Understanding the backward pass through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html), Frederik Kratzert (2016)
+  * Kevin Zakka's blog: [Deriving the Gradient for the Backward Pass of Batch Normalization](https://kevinzakka.github.io/2016/09/14/batch_normalization/) (2016)
