@@ -17,18 +17,18 @@ author:
 Github: [bitdribble/cs231n](https://github.com/Bitdribble/cs231n)
 * [Assignment 1](https://cs231n.github.io/assignments2021/assignment1): assignments/2021/assignment1
   * [knn.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/knn.ipynb)
-  * [cs231n/classifiers/k_nearest_neighbor.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/classifiers/k_nearest_neighbor.py)
   * [svm.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/svm.ipynb)
-  * [cs231n/classifiers/linear_classifier.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/classifiers/linear_classifier.py)
   * [softmax.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignment1/softmax.ipynb)
-  * [cs231n/classifiers/softmax.py](https://github.com/Bitdribble/cs231n/blob/master/assignment1/cs231n/classifiers/softmax.py)
+  * [fc_net.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/classifiers/fc_net.py): implementation of fully connected net
+  * [k_nearest_neighbor.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/classifiers/k_nearest_neighbor.py)
+  * [linear_classifier.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/classifiers/linear_classifier.py)
+  * [softmax.py](https://github.com/Bitdribble/cs231n/blob/master/assignment1/cs231n/classifiers/softmax.py)
   * [layers.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/layers.py) implementations for:
     * `affine_forward()`, `affine_backward()`
     * `relu_forward()`, `relu_backward()`
     * `softmax_loss()`
   * [layer_utils.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/layer_utils.py) implementations for:
     * `affine_relu_forward()`, `affine_relu_backward()`
-  * [fc_net.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/classifiers/fc_net.py): implementation of fully connected net
   * [features.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/features.ipynb)
 * [Assignment 2](https://cs231n.github.io/assignments2021/assignment2): assigmnets/2021/assignment2
   * [FullyConnectedNets.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/FullyConnectedNets.ipynb)
