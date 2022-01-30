@@ -24,3 +24,4 @@ Also see these talks:
     * You can do maxpooling between layers of graphs, to shrink the higher layers.
     * Equivariant graphs are data efficient. In some sense, data efficiency is equivalent to accuracy.
     * Spherical gauge symmetric models can be used to detect storms on earth.
+    * They did some, but not many exotic manifolds.
