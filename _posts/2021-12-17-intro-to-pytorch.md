@@ -16,3 +16,4 @@ Here are a chapter notebooks for [Deep Learning with PyTorch](https://pytorch.or
   * [Model Regularization](https://colab.research.google.com/drive/1A7sl36qPDQxDxbw0rPonDvo167bpW-6a?usp=sharing) (Accuracy: train 0.90, val 0.87)
   * [Model Dropout](https://colab.research.google.com/drive/1Qw4Rtta3-7flR1ozMaHLmESc-CUUbwFp?usp=sharing) (Accuracy: train 0.92, val 0.89)
   * [Model Batch Normalization](https://colab.research.google.com/drive/1PCKqKFAFPqxEdqnvP04XUwfv17XiBCaa?usp=sharing) (Accuracy: train 1.00, val 0.88)
+  * [All optimizations](https://github.com/Bitdribble/dlwpt-code/blob/master/colab/PyTorchCh8_Optimization.ipynb)
