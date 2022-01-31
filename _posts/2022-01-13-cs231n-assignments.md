@@ -30,7 +30,7 @@ Github: [bitdribble/cs231n](https://github.com/Bitdribble/cs231n)
   * [layer_utils.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/cs231n/layer_utils.py) implementations for:
     * `affine_relu_forward()`, `affine_relu_backward()`
   * [features.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment1/features.ipynb)
-* [Assignment 2](https://cs231n.github.io/assignments2021/assignment2): assigmnets/2021/assignment2
+* [Assignment 2](https://cs231n.github.io/assignments2021/assignment2): assignments/2021/assignment2
   * [FullyConnectedNets.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/FullyConnectedNets.ipynb)
   * [BatchNormalization.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/BatchNormalization.ipynb)
   * [optim.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/cs231n/optim.py): RMSProp, Adam optimizers
@@ -47,7 +47,7 @@ Github: [bitdribble/cs231n](https://github.com/Bitdribble/cs231n)
   * [fc_net.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/cs231n/classifiers/fc_net.py): implementation of fully connected net, with support for:
     * batch normalization
     * layer normalization
-* [Assignment 3](https://cs231n.github.io/assignments2021/assignment3): assignmets/2021/assignment2
+* [Assignment 3](https://cs231n.github.io/assignments2021/assignment3): assignments/2021/assignment2
 
 ## Other forks with solutions:
 * [jingxinfu/cs231n](https://github.com/jingxinfu/cs231n)
