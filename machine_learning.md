@@ -55,6 +55,10 @@ title: Machine Learning
 * [NeurIPS](https://nips.cc/)
 * [OpML '20](https://www.usenix.org/conference/opml20/conference-program)
 
+#### Paper Archives
+* [arxiv](https://arxiv.org/), [arxiv-sanity](http://www.arxiv-sanity.com), [arxiv-sanity-lite](https://arxiv-sanity-lite.com)
+* [OpenReview](https://openreview.net/)
+
 #### Languages
 * PyTorch
   * [Deep Learning with PyTorch](https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264), Stevens, Antiga, Viehmann (2020), [github](https://github.com/deep-learning-with-pytorch/dlwpt-code)
