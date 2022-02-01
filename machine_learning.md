@@ -57,7 +57,7 @@ title: Machine Learning
 
 #### Languages
 * PyTorch
-  * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf), Stevens, Antiga, Viehmann (2020), [github]((https://github.com/deep-learning-with-pytorch/dlwpt-code)
+  * [Deep Learning with PyTorch](https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264), Stevens, Antiga, Viehmann (2020), [github](https://github.com/deep-learning-with-pytorch/dlwpt-code)
   * [CS224N](https://web.stanford.edu/class/cs224n/): [PyTorch Tutorial](https://web.stanford.edu/class/cs224n/materials/CS224N_PyTorch_Tutorial.html), [ipynb](https://web.stanford.edu/class/cs224n/materials/CS224N PyTorch Tutorial.ipynb), Dilara Soylu (Winter '21), Jupyter notebooks [fork](https://github.com/Bitdribble/cs224n)
 * TensorFlow
   * [CS231_n](http://cs231n.stanford.edu) [Lecture 8, Deep Learning Software](https://www.youtube.com/watch?v=6SlgtELqOWc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=8&t=3s), [2017 slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf), [2021 slides](http://cs231n.stanford.edu/slides/2021/lecture_6.pdf) compares TensorFlow, PyTorch, Caffe, discusses static and dynamic computation graphs
@@ -96,11 +96,12 @@ title: Machine Learning
 
 #### Interviews
 * Lex Fridman
+  * [Ian Goodfellow: Generative Adversarial Networks (GANs)](https://www.youtube.com/watch?v=Z6rxFNMGdn0&t=979s), Lex Fridman Podcast #19 (2019)
+  * [Yann LeCun: Deep Learning, ConvNets, and Self-Supervised Learning](https://www.youtube.com/watch?v=SGSOCuByo24), Lex Firdman Podcast #36 (2019)
   * [Stephen Wolfram: Cellular Automata, Computation, and Physics](https://www.youtube.com/watch?v=ez773teNFYA&t=2539s), Lex Fridman Podcast #89 (2020)
   * [David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning](https://www.youtube.com/watch?v=uPUEq8d73JI&t=2499s), Lex Fridman Podcast #86 (2020)
-  * [Ian Goodfellow: Generative Adversarial Networks (GANs)](https://www.youtube.com/watch?v=Z6rxFNMGdn0&t=979s), Lex Fridman Podcast #19 (2019)
-  * [Yann LeCun: Deep Learning, ConvNets, and Self-Supervised Learning](https://www.youtube.com/watch?v=SGSOCuByo24), Lex Firdman Podcast #36
-  * [Andrew Ng: Deep Learning, Education, and Real-World AI](https://www.youtube.com/watch?v=0jspaMLxBig), Lex Fridman Podcast #73
+  * [Andrew Ng: Deep Learning, Education, and Real-World AI](https://www.youtube.com/watch?v=0jspaMLxBig), Lex Fridman Podcast #73 (2020)
+  * [Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning](https://www.youtube.com/watch?v=SGzMElJ11Cc), Lex Fridman Podcast #258 (2022)
 
 #### Posts
 * [Colah's blog](http://colah.github.io/)
