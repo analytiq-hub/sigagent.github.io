@@ -43,9 +43,11 @@ Github: [bitdribble/cs231n](https://github.com/Bitdribble/cs231n)
     * `affine_relu_forward()`, `affine_relu_backward()`
     * `affine_bn_relu_forward()`, `affine_bn_relu_backward()`
     * `affine_ln_relu_forward()`, `affine_ln_relu_backward()`
+    * `dropout_forward()`, `dropout_backward()`
   * [fc_net.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/cs231n/classifiers/fc_net.py): implementation of fully connected net, with support for:
     * batch normalization
     * layer normalization
+    * dropout
 * [Assignment 3](https://cs231n.github.io/assignments2021/assignment3): assignments/2021/assignment2
 
 ## Other forks with solutions:
