@@ -196,6 +196,10 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
   * ML Street Talk #36: [Max Welling: Quantum, Manifolds & Symmetries in ML](https://www.youtube.com/watch?v=mmDw5glry9w) (2021)
   * IAS Seminar on Theoretical ML: [Graph Nets: The Next Generation](https://www.youtube.com/watch?v=Wx8J-Kw3fTA) (2020)
 
+# Causality
+* [Causality for Machine Learning](https://arxiv.org/pdf/1911.10500.pdf), Bernhard Schölkopf (2019)
+* Y. Bengio talk: [Deep Learning Cognition](https://www.youtube.com/watch?v=GibjI5FoZsE) (2020)
+
 #### Web sites
 * [Papers with Code](https://paperswithcode.com/)
 
