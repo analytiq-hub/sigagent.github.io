@@ -32,6 +32,7 @@ Github: [bitdribble/cs231n](https://github.com/Bitdribble/cs231n)
 * [Assignment 2](https://cs231n.github.io/assignments2021/assignment2): assignments/2021/assignment2
   * [FullyConnectedNets.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/FullyConnectedNets.ipynb)
   * [BatchNormalization.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/BatchNormalization.ipynb)
+  * [Dropout.ipynb](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/Dropout.ipynb)
   * [optim.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/cs231n/optim.py): RMSProp, Adam optimizers
   * [layers.py](https://github.com/Bitdribble/cs231n/blob/master/assignments/2021/assignment2/cs231n/layers.py) implementations for:
     * `affine_forward()`, `affine_backward()`
