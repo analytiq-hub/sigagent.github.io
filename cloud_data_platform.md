@@ -27,6 +27,7 @@ title: Cloud Data Platform
 #### Videos
 * Ali Ghodsi
   * [Realizing the Vision of the Data Lakehouse](https://www.youtube.com/watch?v=g11y-kJHr3I), Keynote Spark + AI Summit 2020
+* Claudiu Barbura: [Video Analytics At Scale: DL, CV, ML On Databricks Platform](https://databricks.com/session_na21/video-analytics-at-scale-dl-cv-ml-on-databricks-platform) (2021)
 
 #### Tools
 * [rclone](https://rclone.org)
