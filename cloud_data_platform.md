@@ -30,6 +30,8 @@ title: Cloud Data Platform
 
 #### Tools
 * [rclone](https://rclone.org)
+* Parquet
+  *  Boudewijn Braams: [The Parquet Format and Performance Optimization Opportunities](https://www.youtube.com/watch?v=1j8SdS7s_NY) (2019)
 
 #### Posts
 * [Spark, Dask, and Ray: A History](https://blog.dominodatalab.com/spark-dask-ray-choosing-the-right-framework?hs_amp=false), N. Manchev (2021)
