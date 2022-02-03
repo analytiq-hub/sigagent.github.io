@@ -26,3 +26,4 @@ Also see these talks:
     * Spherical gauge symmetric models can be used to detect storms on earth.
     * They did some, but not many exotic manifolds.
     * Most exciting work is for molecule property prediction, using the 3D roto-translation equivariant attention networks.
+* W. Wu et al: [PointConv: Deep Convolutional Networks on 3D Point Clouds](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_PointConv_Deep_Convolutional_Networks_on_3D_Point_Clouds_CVPR_2019_paper.pdf)
