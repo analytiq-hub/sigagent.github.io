@@ -44,6 +44,7 @@ title: Cloud Data Platform
 * byteflow: [How to choose between Parquet, ORC and AVRO for S3, Redshift and Snowflake?](https://bryteflow.com/how-to-choose-between-parquet-orc-and-avro/)
 * Reviews
   * firebolt.io: [Snowflake vs Databricks vs Firebolt](https://www.firebolt.io/blog/snowflake-vs-databricks-vs-firebolt)
+* Jim Dowling: [Guide to File Formats for Machine Learning: Columnar, Training, Inferencing, and the Feature Store](https://towardsdatascience.com/guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9) (2019)
 
 #### People
 * [Ali Ghodsi](https://people.eecs.berkeley.edu/~alig/), Berkeley
