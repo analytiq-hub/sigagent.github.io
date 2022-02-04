@@ -39,6 +39,8 @@ title: Cloud Data Platform
 * Parquet
   *  Boudewijn Braams: [The Parquet Format and Performance Optimization Opportunities](https://www.youtube.com/watch?v=1j8SdS7s_NY) (2019)
   * [rosbag2parquet](https://github.com/orm011/rosbag2parquet)
+* Petastorm
+  * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
 
 #### Posts
 * [Spark, Dask, and Ray: A History](https://blog.dominodatalab.com/spark-dask-ray-choosing-the-right-framework?hs_amp=false), N. Manchev (2021)
