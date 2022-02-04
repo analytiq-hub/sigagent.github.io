@@ -38,6 +38,7 @@ title: Cloud Data Platform
 * [rclone](https://rclone.org)
 * Parquet
   *  Boudewijn Braams: [The Parquet Format and Performance Optimization Opportunities](https://www.youtube.com/watch?v=1j8SdS7s_NY) (2019)
+  * [rosbag2parquet](https://github.com/orm011/rosbag2parquet)
 
 #### Posts
 * [Spark, Dask, and Ray: A History](https://blog.dominodatalab.com/spark-dask-ray-choosing-the-right-framework?hs_amp=false), N. Manchev (2021)
@@ -47,8 +48,13 @@ title: Cloud Data Platform
   * Reddit: [Simple workflow orchestration tool with Jupyter Notebook support](https://www.reddit.com/r/dataengineering/comments/s3qb5g/simple_workflow_orchestration_tool_with_jupyter/) (2022)
   * [Deploy Application from Jupyter Lab to a Spark Standalone Cluster](https://dasiyql.medium.com/deploy-application-from-jupyter-lab-to-a-spark-standalone-cluster-d2dcd596fbb8), D. Lin (2020)
 * byteflow: [How to choose between Parquet, ORC and AVRO for S3, Redshift and Snowflake?](https://bryteflow.com/how-to-choose-between-parquet-orc-and-avro/)
+* [Working with large ROS bag files on Hadoop and Spark](https://discourse.ros.org/t/working-with-large-ros-bag-files-on-hadoop-and-spark/2314) (2017)
 * Reviews
   * firebolt.io: [Snowflake vs Databricks vs Firebolt](https://www.firebolt.io/blog/snowflake-vs-databricks-vs-firebolt)
+
+#### Data formats
+* Jim Dowling: [Guide to File Formats for Machine Learning: Columnar, Training, Inferencing, and the Feature Store](https://towardsdatascience.com/guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9) (2019)
+* Chaim Rand: [Data Formats for Training in TensorFlow: Parquet, Petastorm, Feather, and More](https://towardsdatascience.com/data-formats-for-training-in-tensorflow-parquet-petastorm-feather-and-more-e55179eeeb72) (2021)
 
 #### People
 * [Ali Ghodsi](https://people.eecs.berkeley.edu/~alig/), Berkeley
