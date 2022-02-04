@@ -47,6 +47,7 @@ title: Cloud Data Platform
   * [Orchestrate Jupyter Notebooks in 5 minutes](https://towardsdatascience.com/how-to-orcestrate-jupyter-notebooks-752aa8081208), Teng Peng (2020)
   * Reddit: [Simple workflow orchestration tool with Jupyter Notebook support](https://www.reddit.com/r/dataengineering/comments/s3qb5g/simple_workflow_orchestration_tool_with_jupyter/) (2022)
   * [Deploy Application from Jupyter Lab to a Spark Standalone Cluster](https://dasiyql.medium.com/deploy-application-from-jupyter-lab-to-a-spark-standalone-cluster-d2dcd596fbb8), D. Lin (2020)
+* Towards Data Science: [The Fundamentals of Data Warehouse + Data Lake = Lake House](https://towardsdatascience.com/the-fundamentals-of-data-warehouse-data-lake-lake-house-ff640851c832), by G.R. Peternel (2021)
 * byteflow: [How to choose between Parquet, ORC and AVRO for S3, Redshift and Snowflake?](https://bryteflow.com/how-to-choose-between-parquet-orc-and-avro/)
 * [Working with large ROS bag files on Hadoop and Spark](https://discourse.ros.org/t/working-with-large-ros-bag-files-on-hadoop-and-spark/2314) (2017)
 * Reviews
