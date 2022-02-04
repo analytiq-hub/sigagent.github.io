@@ -28,6 +28,11 @@ title: Cloud Data Platform
 * Ali Ghodsi
   * [Realizing the Vision of the Data Lakehouse](https://www.youtube.com/watch?v=g11y-kJHr3I), Keynote Spark + AI Summit 2020
 * Claudiu Barbura: [Video Analytics At Scale: DL, CV, ML On Databricks Platform](https://databricks.com/session_na21/video-analytics-at-scale-dl-cv-ml-on-databricks-platform) (2021)
+* How to Build a Cloud Data Platform (2020)
+  * [Architecture](https://www.youtube.com/watch?v=uhVpLwjEOKU)
+  * [Coding - ETL processing, manage late arrival data, repairing corrupted data](https://www.youtube.com/watch?v=iLP571HBP6g)
+  * [Coding - Ensure data is up-to-date with Structured Streaming. GPDR compliance.](https://www.youtube.com/watch?v=21fgt3tDLb4)
+  * [Coding - Machine Learning and Business Analytics](https://www.youtube.com/watch?v=GUP0YFXajkk)
 
 #### Tools
 * [rclone](https://rclone.org)
