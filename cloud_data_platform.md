@@ -28,6 +28,11 @@ title: Cloud Data Platform
 * Ali Ghodsi
   * [Realizing the Vision of the Data Lakehouse](https://www.youtube.com/watch?v=g11y-kJHr3I), Keynote Spark + AI Summit 2020
 * Claudiu Barbura: [Video Analytics At Scale: DL, CV, ML On Databricks Platform](https://databricks.com/session_na21/video-analytics-at-scale-dl-cv-ml-on-databricks-platform) (2021)
+* How to Build a Cloud Data Platform (2020)
+  * [Architecture](https://www.youtube.com/watch?v=uhVpLwjEOKU)
+  * [Coding - ETL processing, manage late arrival data, repairing corrupted data](https://www.youtube.com/watch?v=iLP571HBP6g)
+  * [Coding - Ensure data is up-to-date with Structured Streaming. GPDR compliance.](https://www.youtube.com/watch?v=21fgt3tDLb4)
+  * [Coding - Machine Learning and Business Analytics](https://www.youtube.com/watch?v=GUP0YFXajkk)
 
 #### Tools
 * [rclone](https://rclone.org)
@@ -42,6 +47,7 @@ title: Cloud Data Platform
   * [Orchestrate Jupyter Notebooks in 5 minutes](https://towardsdatascience.com/how-to-orcestrate-jupyter-notebooks-752aa8081208), Teng Peng (2020)
   * Reddit: [Simple workflow orchestration tool with Jupyter Notebook support](https://www.reddit.com/r/dataengineering/comments/s3qb5g/simple_workflow_orchestration_tool_with_jupyter/) (2022)
   * [Deploy Application from Jupyter Lab to a Spark Standalone Cluster](https://dasiyql.medium.com/deploy-application-from-jupyter-lab-to-a-spark-standalone-cluster-d2dcd596fbb8), D. Lin (2020)
+* Towards Data Science: [The Fundamentals of Data Warehouse + Data Lake = Lake House](https://towardsdatascience.com/the-fundamentals-of-data-warehouse-data-lake-lake-house-ff640851c832), by [G.R. Peternel](https://medium.com/@garrett.r.peternel) (2021)
 * byteflow: [How to choose between Parquet, ORC and AVRO for S3, Redshift and Snowflake?](https://bryteflow.com/how-to-choose-between-parquet-orc-and-avro/)
 * Martin Kleppmann: [Schema evolution in Avro, Protocol Buffers and Thrift](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html) (2012)
 * [Working with large ROS bag files on Hadoop and Spark](https://discourse.ros.org/t/working-with-large-ros-bag-files-on-hadoop-and-spark/2314) (2017)
