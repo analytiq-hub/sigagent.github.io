@@ -58,6 +58,7 @@ title: Cloud Data Platform
 * Jim Dowling: [Guide to File Formats for Machine Learning: Columnar, Training, Inferencing, and the Feature Store](https://towardsdatascience.com/guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9) (2019)
 * Chaim Rand: [Data Formats for Training in TensorFlow: Parquet, Petastorm, Feather, and More](https://towardsdatascience.com/data-formats-for-training-in-tensorflow-parquet-petastorm-feather-and-more-e55179eeeb72) (2021)
 * Thomas Gamauf: [Tensorflow Records? What they are and how to use them](https://medium.com/mostly-ai/tensorflow-records-what-they-are-and-how-to-use-them-c46bc4bbb564) (2018)
+* Lunds U [ML Course](https://canvas.education.lu.se/courses/3766/pages/course-plan-and-setup): [Chapter 13 - Loading and Preprocessing Data with TensorFlow]https://canvas.education.lu.se/courses/3766/pages/chapter-13-loading-and-preprocessing-data-with-tensorflow)
 
 #### People
 * [Ali Ghodsi](https://people.eecs.berkeley.edu/~alig/), Berkeley
