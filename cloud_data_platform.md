@@ -33,6 +33,7 @@ title: Cloud Data Platform
   * [Coding - ETL processing, manage late arrival data, repairing corrupted data](https://www.youtube.com/watch?v=iLP571HBP6g)
   * [Coding - Ensure data is up-to-date with Structured Streaming. GPDR compliance.](https://www.youtube.com/watch?v=21fgt3tDLb4)
   * [Coding - Machine Learning and Business Analytics](https://www.youtube.com/watch?v=GUP0YFXajkk)
+  * [Course Catalog](https://files.training.databricks.com/lms/docebo/course-catalog.pdf)
 
 #### Tools
 * [rclone](https://rclone.org)
