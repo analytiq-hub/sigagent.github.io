@@ -39,6 +39,9 @@ title: Cloud Data Platform
 * Parquet
   *  Boudewijn Braams: [The Parquet Format and Performance Optimization Opportunities](https://www.youtube.com/watch?v=1j8SdS7s_NY) (2019)
   * [rosbag2parquet](https://github.com/orm011/rosbag2parquet)
+* Petastorm
+  * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
+  * [Introducing Petastorm: Uber ATG’s Data Access Library for Deep Learning ](https://eng.uber.com/petastorm/) (2018)
 
 #### Posts
 * [Spark, Dask, and Ray: A History](https://blog.dominodatalab.com/spark-dask-ray-choosing-the-right-framework?hs_amp=false), N. Manchev (2021)
@@ -49,6 +52,7 @@ title: Cloud Data Platform
   * [Deploy Application from Jupyter Lab to a Spark Standalone Cluster](https://dasiyql.medium.com/deploy-application-from-jupyter-lab-to-a-spark-standalone-cluster-d2dcd596fbb8), D. Lin (2020)
 * Towards Data Science: [The Fundamentals of Data Warehouse + Data Lake = Lake House](https://towardsdatascience.com/the-fundamentals-of-data-warehouse-data-lake-lake-house-ff640851c832), by [G.R. Peternel](https://medium.com/@garrett.r.peternel) (2021)
 * byteflow: [How to choose between Parquet, ORC and AVRO for S3, Redshift and Snowflake?](https://bryteflow.com/how-to-choose-between-parquet-orc-and-avro/)
+* Martin Kleppmann: [Schema evolution in Avro, Protocol Buffers and Thrift](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html) (2012)
 * [Working with large ROS bag files on Hadoop and Spark](https://discourse.ros.org/t/working-with-large-ros-bag-files-on-hadoop-and-spark/2314) (2017)
 * Reviews
   * firebolt.io: [Snowflake vs Databricks vs Firebolt](https://www.firebolt.io/blog/snowflake-vs-databricks-vs-firebolt)
@@ -56,6 +60,8 @@ title: Cloud Data Platform
 #### Data formats
 * Jim Dowling: [Guide to File Formats for Machine Learning: Columnar, Training, Inferencing, and the Feature Store](https://towardsdatascience.com/guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9) (2019)
 * Chaim Rand: [Data Formats for Training in TensorFlow: Parquet, Petastorm, Feather, and More](https://towardsdatascience.com/data-formats-for-training-in-tensorflow-parquet-petastorm-feather-and-more-e55179eeeb72) (2021)
+* Thomas Gamauf: [Tensorflow Records? What they are and how to use them](https://medium.com/mostly-ai/tensorflow-records-what-they-are-and-how-to-use-them-c46bc4bbb564) (2018)
+* Lunds U [ML Course](https://canvas.education.lu.se/courses/3766/pages/course-plan-and-setup): [Chapter 13 - Loading and Preprocessing Data with TensorFlow]https://canvas.education.lu.se/courses/3766/pages/chapter-13-loading-and-preprocessing-data-with-tensorflow)
 
 #### People
 * [Ali Ghodsi](https://people.eecs.berkeley.edu/~alig/), Berkeley
