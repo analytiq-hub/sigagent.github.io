@@ -56,6 +56,11 @@ title: Cloud Data Platform
 * [Working with large ROS bag files on Hadoop and Spark](https://discourse.ros.org/t/working-with-large-ros-bag-files-on-hadoop-and-spark/2314) (2017)
 * Reviews
   * firebolt.io: [Snowflake vs Databricks vs Firebolt](https://www.firebolt.io/blog/snowflake-vs-databricks-vs-firebolt)
+  * StackOverflow: [Difference in usecases for AWS Sagemaker vs Databricks?](https://stackoverflow.com/questions/55132599/difference-in-usecases-for-aws-sagemaker-vs-databricks)
+    * Databricks is a better platform for Big data(scala, pyspark) Developing.(unbeatable notebook environment)
+    * SageMaker is better for Deployment. and if you are not working on big data, SageMaker is a perfect choice working with (Jupyter notebook + Sklearn + Mature containers + Super easy deployment).
+    * SageMaker provides "real time inference", very easy to build and deploy, very impressive. you can check the [official SageMaker Github](https://github.com/awslabs/amazon-sagemaker-examples/tree/master/sagemaker-python-sdk/scikit_learn_inference_pipeline). 
+
 
 #### Data formats
 * Jim Dowling: [Guide to File Formats for Machine Learning: Columnar, Training, Inferencing, and the Feature Store](https://towardsdatascience.com/guide-to-file-formats-for-machine-learning-columnar-training-inferencing-and-the-feature-store-2e0c3d18d4f9) (2019)
