@@ -55,6 +55,7 @@ Github: [bitdribble/cs231n](https://github.com/Bitdribble/cs231n)
 * [jingxinfu/cs231n](https://github.com/jingxinfu/cs231n)
 * [haofeixu/cs231n](https://github.com/haofeixu/cs231n)
 * https://www.codeleading.com/article/83371501641/
+* https://bywmm.github.io/categories/cs231n/
 
 ## Resources
 * Batch Normalization, gradient descent backward pass:
