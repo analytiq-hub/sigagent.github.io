@@ -36,11 +36,15 @@ title: Cloud Data Platform
   * [Course Catalog](https://files.training.databricks.com/lms/docebo/course-catalog.pdf)
 
 #### Tools
+* Deltalake
+  * [Docs](https://docs.delta.io/latest/index.html)
 * [rclone](https://rclone.org)
 * Parquet
+  * [Docs](https://parquet.apache.org/documentation/latest/)
   *  Boudewijn Braams: [The Parquet Format and Performance Optimization Opportunities](https://www.youtube.com/watch?v=1j8SdS7s_NY) (2019)
   * [rosbag2parquet](https://github.com/orm011/rosbag2parquet)
 * Petastorm
+  * [Docs](https://petastorm.readthedocs.io/en/latest/index.html)
   * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
   * [Introducing Petastorm: Uber ATG’s Data Access Library for Deep Learning ](https://eng.uber.com/petastorm/) (2018)
 
