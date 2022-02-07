@@ -8,6 +8,9 @@ title: Natural Language Processing
 * [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html), A. Rush et al (2018)
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf), A. Vaswani et al (2017)
 
+#### Posts
+* [Introduction to Spark NLP: Foundations and Basic Components](https://towardsdatascience.com/introduction-to-spark-nlp-foundations-and-basic-components-part-i-c83b7629ed59)
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cognitive Science](cognitive_science.md)
