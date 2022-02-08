@@ -132,6 +132,7 @@ title: Self Driving Cars
   * [Waymo Public Road Safety Performance Data](https://storage.googleapis.com/sdc-prod/v1/safety-report/Waymo-Public-Road-Safety-Performance-Data.pdf) (2020)
   * [Simulation City: Introducing Waymo's most advanced simulation system yet for autonomous driving](https://blog.waymo.com/2021/06/SimulationCity.html?m=1) (2020)
 * [Locomation](https://locomation.ai/)
+  * ArsTechnica: [Autonomous battery-powered rail cars could steal shipments from truckers](https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/), by Tim De Chant (2022)
 
 #### Market Reports
 * McKinsey: [Distraction or disruption? Autonomous trucks gain ground in US logistics](https://www.mckinsey.com/industries/travel-logistics-and-infrastructure/our-insights/distraction-or-disruption-autonomous-trucks-gain-ground-in-us-logistics), by A. Chottani et al (2018)
