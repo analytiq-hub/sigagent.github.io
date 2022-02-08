@@ -50,6 +50,8 @@ title: Cloud Data Platform
   * [Introducing Petastorm: Uber ATG’s Data Access Library for Deep Learning ](https://eng.uber.com/petastorm/) (2018)
 * [Spark ML]
   * Apache Spark ML and Distributed Learning: [1](https://www.youtube.com/watch?v=TeFXA2imXCs) [2](https://www.youtube.com/watch?v=x8qqxYKbIwU) [3](https://www.youtube.com/watch?v=jEyahxFp3ak) [4](https://www.youtube.com/watch?v=rzXmBb_TRsw) [5](https://www.youtube.com/watch?v=9Nrx9vLFQ5)
+* Jupyter lab on Spark
+  * A. Perez: [Apache Spark Cluster on Docker (ft. a JupyterLab Interface)](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445) (2020)
 
 #### Posts
 * [Spark, Dask, and Ray: A History](https://blog.dominodatalab.com/spark-dask-ray-choosing-the-right-framework?hs_amp=false), N. Manchev (2021)
