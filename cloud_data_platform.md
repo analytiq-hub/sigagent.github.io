@@ -21,7 +21,7 @@ title: Cloud Data Platform
   * P. Borges et al: [Enabling Computer Vision Applications With the Data Lakehouse](https://databricks.com/blog/2021/12/17/enabling-computer-vision-applications-with-the-data-lakehouse.html) (2021)
   * Databricks & Embarq: [Ensuring long-haul truck safety with data and AI](https://databricks.com/customers/embark-trucks)
   * I. G. Arnedo: [Building our Data Platform: Why we have chosen Databricks over Snowflake](https://blog.denexus.io/databricks)
-  * Forrester: [Databricks delivers nearly $29 million in economic benefits and pays for itself in less than six months](https://databricks.com/blog/2020/04/28/new-study-databricks-delivers-nearly-29-million-in-economic-benefits-and-pays-for-itself-in-less-than-six-months.html) (2020)
+  * Forrester: [Databricks delivers nearly $29 million in economic benefits and pays for itself in less than six months](https://databricks.com/blog/2020/04/28/new-study-databricks-delivers-nearly-29-million-in-economic-benefits-and-pays-for-itself-in-less-than-six-months.html) (2020) (commissioned by Databricks)
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Neptune.ai](https://neptune.ai/)
 
