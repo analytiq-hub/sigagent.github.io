@@ -137,6 +137,7 @@ title: Self Driving Cars
 #### Market Reports
 * McKinsey: [Distraction or disruption? Autonomous trucks gain ground in US logistics](https://www.mckinsey.com/industries/travel-logistics-and-infrastructure/our-insights/distraction-or-disruption-autonomous-trucks-gain-ground-in-us-logistics), by A. Chottani et al (2018)
 * A. Engholm et al: [Cost Analysis of Driverless Truck Operations](https://journals.sagepub.com/doi/full/10.1177/0361198120930228) (2020)
+* A. Engholm et al: [Impacts of large-scale driverless truck adoption on the freight transport system](https://www.sciencedirect.com/science/article/pii/S0965856421002627) (2021)
 
 #### Frameworks
 * Lidar
