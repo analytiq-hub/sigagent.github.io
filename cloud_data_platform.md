@@ -18,6 +18,8 @@ title: Cloud Data Platform
 * [BDAS, the Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/)
 * [Databricks](https://databricks.com/), [docs](https://docs.databricks.com/applications/machine-learning/index.html#databricks-machine-learning-overview)
   * O. Anomnachi: [Comparing Databricks and Apache Spark](https://blog.anant.us/comparing-databricks-and-apache-spark/) (2020)
+  * P. Borges et al: [Enabling Computer Vision Applications With the Data Lakehouse](https://databricks.com/blog/2021/12/17/enabling-computer-vision-applications-with-the-data-lakehouse.html) (2021)
+  * Databricks & Embarq: [Ensuring long-haul truck safety with data and AI](https://databricks.com/customers/embark-trucks)
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Neptune.ai](https://neptune.ai/)
 
