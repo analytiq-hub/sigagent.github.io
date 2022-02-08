@@ -63,6 +63,9 @@ title: Cloud Data Platform
 * [Working with large ROS bag files on Hadoop and Spark](https://discourse.ros.org/t/working-with-large-ros-bag-files-on-hadoop-and-spark/2314) (2017)
 * Reviews
   * firebolt.io: [Snowflake vs Databricks vs Firebolt](https://www.firebolt.io/blog/snowflake-vs-databricks-vs-firebolt)
+  * M. Schmitt:
+    * [Comparing managed machine learning platforms](https://towardsdatascience.com/dataiku-vs-alteryx-vs-sagemaker-vs-datarobot-vs-databricks-b3870bd34813) (2020)
+    * [Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow) (2020)
   * StackOverflow: [Difference in usecases for AWS Sagemaker vs Databricks?](https://stackoverflow.com/questions/55132599/difference-in-usecases-for-aws-sagemaker-vs-databricks)
     * Databricks is a better platform for Big data(scala, pyspark) Developing.(unbeatable notebook environment)
     * SageMaker is better for Deployment. and if you are not working on big data, SageMaker is a perfect choice working with (Jupyter notebook + Sklearn + Mature containers + Super easy deployment).
