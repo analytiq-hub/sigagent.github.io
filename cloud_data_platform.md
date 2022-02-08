@@ -17,6 +17,7 @@ title: Cloud Data Platform
 #### Software Stacks
 * [BDAS, the Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/)
 * [Databricks](https://databricks.com/), [docs](https://docs.databricks.com/applications/machine-learning/index.html#databricks-machine-learning-overview)
+  * O. Anomnachi: [Comparing Databricks and Apache Spark](https://blog.anant.us/comparing-databricks-and-apache-spark/) (2020)
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Neptune.ai](https://neptune.ai/)
 
