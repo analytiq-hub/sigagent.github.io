@@ -43,6 +43,7 @@ title: Cloud Data Platform
 #### Tools
 * Deltalake
   * [Docs](https://docs.delta.io/latest/index.html)
+  * H. Narula: [5 Key Steps to Successfully Migrate From Hadoop to the Lakehouse Architecture](https://databricks.com/blog/2021/08/06/5-key-steps-to-successfully-migrate-from-hadoop-to-the-lakehouse-architecture.html) (2021)
 * [rclone](https://rclone.org)
 * Parquet
   * [Docs](https://parquet.apache.org/documentation/latest/)
