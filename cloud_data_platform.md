@@ -18,6 +18,10 @@ title: Cloud Data Platform
 * [BDAS, the Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/)
 * [Databricks](https://databricks.com/), [docs](https://docs.databricks.com/applications/machine-learning/index.html#databricks-machine-learning-overview)
   * O. Anomnachi: [Comparing Databricks and Apache Spark](https://blog.anant.us/comparing-databricks-and-apache-spark/) (2020)
+  * P. Borges et al: [Enabling Computer Vision Applications With the Data Lakehouse](https://databricks.com/blog/2021/12/17/enabling-computer-vision-applications-with-the-data-lakehouse.html) (2021)
+  * Databricks & Embarq: [Ensuring long-haul truck safety with data and AI](https://databricks.com/customers/embark-trucks)
+  * I. G. Arnedo: [Building our Data Platform: Why we have chosen Databricks over Snowflake](https://blog.denexus.io/databricks)
+  * Forrester: [Databricks delivers nearly $29 million in economic benefits and pays for itself in less than six months](https://databricks.com/blog/2020/04/28/new-study-databricks-delivers-nearly-29-million-in-economic-benefits-and-pays-for-itself-in-less-than-six-months.html) (2020) (commissioned by Databricks)
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Neptune.ai](https://neptune.ai/)
 
@@ -51,6 +55,8 @@ title: Cloud Data Platform
   * [Introducing Petastorm: Uber ATG’s Data Access Library for Deep Learning ](https://eng.uber.com/petastorm/) (2018)
 * [Spark ML]
   * Apache Spark ML and Distributed Learning: [1](https://www.youtube.com/watch?v=TeFXA2imXCs) [2](https://www.youtube.com/watch?v=x8qqxYKbIwU) [3](https://www.youtube.com/watch?v=jEyahxFp3ak) [4](https://www.youtube.com/watch?v=rzXmBb_TRsw) [5](https://www.youtube.com/watch?v=9Nrx9vLFQ5)
+* Jupyter lab on Spark
+  * A. Perez: [Apache Spark Cluster on Docker (ft. a JupyterLab Interface)](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445) (2020)
 
 #### Posts
 * [Spark, Dask, and Ray: A History](https://blog.dominodatalab.com/spark-dask-ray-choosing-the-right-framework?hs_amp=false), N. Manchev (2021)
