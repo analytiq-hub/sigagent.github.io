@@ -120,6 +120,7 @@ title: Self Driving Cars
     * [Workshop on autonomous driving](https://www.youtube.com/watch?v=g6bOwQdCJrc) (CVPR 2021)
 * Uber
   * [PnPNet: End-to-End Perception and Prediction with Tracking in the Loop](https://arxiv.org/pdf/2005.14711.pdf), M. Liang et al (2020)
+  * [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/) (2017)
 * Waymo
   * WSJ: [The Race for Self-Driving Taxis: Waymo Puts Urban Terrain to the Test](https://www.wsj.com/video/series/in-depth-features/the-race-for-self-driving-taxis-waymo-puts-urban-terrain-to-the-test/F0A447AB-6ED9-4EB3-B7A8-1EE00682BB50?page=1) (2021)
   * Waymo Team: [Riding with Waymo One today](https://medium.com/waymo/riding-with-waymo-one-today-9ac8164c5c0e) (2018)
@@ -136,6 +137,8 @@ title: Self Driving Cars
 * [Locomation](https://locomation.ai/) (Greater Pittsburgh Area)
 
 #### Simulation
+* Uber [simulation](https://www.uber.com/us/en/atg/research-and-development/simulation/)
+  * [Inside Uber ATG’s Data Mining Operation: Identifying Real Road Scenarios at Scale for Machine Learning](https://eng.uber.com/uber-atg-data-mining/)
 * Waabi blog: [How Waabi World works](https://waabi.ai/how-waabi-world-works/) (2022)
   * The Verge: [Welcome to Waabi World, the ‘ultimate simulator’ for autonomous vehicles](https://www.theverge.com/2022/2/9/22923904/waabi-world-virtual-simulation-autonomous-vehicle-urtasun) (2022)
   * S. Manivasagam et al: [LiDARsim: Realistic LiDAR Simulation by Leveraging the Real World](https://arxiv.org/pdf/2006.09348.pdf?uclick_id=2a0830c9-da61-4c14-892e-9a7807588326) (2020)
