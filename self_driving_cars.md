@@ -139,7 +139,9 @@ title: Self Driving Cars
 * Uber [simulation](https://www.uber.com/us/en/atg/research-and-development/simulation/)
   * [Inside Uber ATG’s Data Mining Operation: Identifying Real Road Scenarios at Scale for Machine Learning](https://eng.uber.com/uber-atg-data-mining/)
   * [Engineering Uber’s Self-Driving Car Visualization Platform for the Web](https://eng.uber.com/atg-dataviz/) (2017)
-* Waabi blog: [How Waabi World works](https://waabi.ai/how-waabi-world-works/) (2022)
+* Waabi
+  * Waabi [CVPR 2021](https://waabi.ai/cvpr-2021/)
+  * Waabi blog: [How Waabi World works](https://waabi.ai/how-waabi-world-works/) (2022)
   * The Verge: [Welcome to Waabi World, the ‘ultimate simulator’ for autonomous vehicles](https://www.theverge.com/2022/2/9/22923904/waabi-world-virtual-simulation-autonomous-vehicle-urtasun) (2022)
   * S. Manivasagam et al: [LiDARsim: Realistic LiDAR Simulation by Leveraging the Real World](https://arxiv.org/pdf/2006.09348.pdf?uclick_id=2a0830c9-da61-4c14-892e-9a7807588326) (2020)
   * A. Corso et al: [Adaptive Stress Testing with Reward Augmentation for Autonomous Vehicle Validation](https://arxiv.org/pdf/1908.01046.pdf) (2019)
