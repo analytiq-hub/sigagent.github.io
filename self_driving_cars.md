@@ -135,6 +135,9 @@ title: Self Driving Cars
   * ArsTechnica: [Autonomous battery-powered rail cars could steal shipments from truckers](https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/), by Tim De Chant (2022)
 * [Locomation](https://locomation.ai/) (Greater Pittsburgh Area)
 
+#### Simulation
+* The Verge: [Welcome to Waabi World, the ‘ultimate simulator’ for autonomous vehicles](https://www.theverge.com/2022/2/9/22923904/waabi-world-virtual-simulation-autonomous-vehicle-urtasun) (2022)
+
 #### Market Reports
 * McKinsey: [Distraction or disruption? Autonomous trucks gain ground in US logistics](https://www.mckinsey.com/industries/travel-logistics-and-infrastructure/our-insights/distraction-or-disruption-autonomous-trucks-gain-ground-in-us-logistics), by A. Chottani et al (2018)
 * [A. Engholm](https://scholar.google.com/citations?user=-ixL8CYAAAAJ&hl=sv) et al: [Cost Analysis of Driverless Truck Operations](https://journals.sagepub.com/doi/full/10.1177/0361198120930228) (2020)
