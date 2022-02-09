@@ -58,6 +58,11 @@ title: Cloud Data Platform
 * Jupyter lab on Spark
   * A. Perez: [Apache Spark Cluster on Docker (ft. a JupyterLab Interface)](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445) (2020)
 
+#### Companies
+* Uber
+  * [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/) (2017)
+  * [Introducing Ludwig, a Code-Free Deep Learning Toolbox](https://eng.uber.com/introducing-ludwig/) (2019)
+  
 #### Posts
 * [Spark, Dask, and Ray: A History](https://blog.dominodatalab.com/spark-dask-ray-choosing-the-right-framework?hs_amp=false), N. Manchev (2021)
 * Jupyter Notebooks, Spark
