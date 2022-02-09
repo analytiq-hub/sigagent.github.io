@@ -136,7 +136,8 @@ title: Self Driving Cars
 * [Locomation](https://locomation.ai/) (Greater Pittsburgh Area)
 
 #### Simulation
-* The Verge: [Welcome to Waabi World, the ‘ultimate simulator’ for autonomous vehicles](https://www.theverge.com/2022/2/9/22923904/waabi-world-virtual-simulation-autonomous-vehicle-urtasun) (2022)
+* Waabi blog: [How Waabi World works](https://waabi.ai/how-waabi-world-works/) (2022)
+  * The Verge: [Welcome to Waabi World, the ‘ultimate simulator’ for autonomous vehicles](https://www.theverge.com/2022/2/9/22923904/waabi-world-virtual-simulation-autonomous-vehicle-urtasun) (2022)
   * S. Manivasagam et al: [LiDARsim: Realistic LiDAR Simulation by Leveraging the Real World](https://arxiv.org/pdf/2006.09348.pdf?uclick_id=2a0830c9-da61-4c14-892e-9a7807588326) (2020)
 
 #### Market Reports
