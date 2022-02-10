@@ -11,6 +11,7 @@ title: Cloud Data Platform
   * [Introducing MLflow for End-to-End Machine Learning on Databricks](https://databricks.com/session_na20/introducing-mlflow-for-end-to-end-machine-learning-on-databricks), S. Owen (2020)
   * [A Journey to Building an Autonomous Streaming Data Platform—Scaling to Trillion Events Monthly at Nvidia](https://databricks.com/session/a-journey-to-building-an-autonomous-streaming-data-platform-scaling-to-trillion-events-monthly-at-nvidia), Satish Dandu (2020)
   * [Lessons Learned from Using Spark for Evaluating Road Detection at BMW Autonomous Driving](https://www.youtube.com/watch?v=npYCeBzGxCA), Gheorghe Pucea (2019)
+  * [Apple: Threat Detection and Response at Scale](https://databricks.com/session/keynote-from-apple), D. Brezinski (2018)
 
 #### Seminars
 
