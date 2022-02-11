@@ -59,10 +59,12 @@ title: Cloud Data Platform
   * Databricks docs: [Introducing HorovodRunner for Distributed Deep Learning Training](https://databricks.com/blog/2018/11/19/introducing-horovodrunner-for-distributed-deep-learning-training.html)
   * Databricks docs: [HorovodRunner: distributed deep learning with Horovod ](https://docs.databricks.com/applications/machine-learning/train-model/distributed-training/horovod-runner.html)
   * T. Addair: [End-to-End Deep Learning with Horovod on Apache Spark](https://databricks.com/session_na20/end-to-end-deep-learning-with-horovod-on-apache-spark) (2020)
-* [Spark ML]
-  * Apache Spark ML and Distributed Learning: [1](https://www.youtube.com/watch?v=TeFXA2imXCs) [2](https://www.youtube.com/watch?v=x8qqxYKbIwU) [3](https://www.youtube.com/watch?v=jEyahxFp3ak) [4](https://www.youtube.com/watch?v=rzXmBb_TRsw) [5](https://www.youtube.com/watch?v=9Nrx9vLFQ5)
-* Jupyter lab on Spark
-  * A. Perez: [Apache Spark Cluster on Docker (ft. a JupyterLab Interface)](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445) (2020)
+* Spark
+  * [Spark ML]
+    * Apache Spark ML and Distributed Learning: [1](https://www.youtube.com/watch?v=TeFXA2imXCs) [2](https://www.youtube.com/watch?v=x8qqxYKbIwU) [3](https://www.youtube.com/watch?v=jEyahxFp3ak) [4](https://www.youtube.com/watch?v=rzXmBb_TRsw) [5](https://www.youtube.com/watch?v=9Nrx9vLFQ5)
+  * Jupyter lab on Spark
+    * A. Perez: [Apache Spark Cluster on Docker (ft. a JupyterLab Interface)](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445) (2020)
+  * [Working with large ROS bag files on Hadoop and Spark](https://discourse.ros.org/t/working-with-large-ros-bag-files-on-hadoop-and-spark/2314/13) (2019)
 
 #### Companies
 * Uber
