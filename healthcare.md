@@ -3,6 +3,9 @@ layout: page
 mathjax: true
 title: Healthcare
 ---
+#### Books
+* John Abramson: [Sickening: How Big Pharma Broke American Health Care and How We Can Repair It](https://www.amazon.com/Sickening-Pharma-American-Health-Repair/dp/1328957810) (2020)
+
 #### Interviews
 * [John Abramson: Big Pharma](https://www.youtube.com/watch?v=arrokG3wCdE&t=6511s) (2022), Lex Fridman Podcast #263
 
