@@ -139,7 +139,14 @@ title: Self Driving Cars
   * ArsTechnica: [Autonomous battery-powered rail cars could steal shipments from truckers](https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/), by Tim De Chant (2022)
 * [Locomation](https://locomation.ai/) (Greater Pittsburgh Area)
 * [Scale](https://scale.com/)
-  * [Debugging Model Performance with Scale Nucleus](https://www.youtube.com/watch?v=O20MTRHohPE) (2021)
+  * [Debugging Model Performance with Scale Nucleus](https://www.youtube.com/watch?v=O20MTRHohPE) (2021) Features shown:
+    * Dataset management (the equivalent of our ISEE Tooklit)
+    * Data annotation (done at ISEE by an external contractor)
+    * Scene labeling (i.e., identifying interesting occurrences in a scene), search engine for searching labels (e.g. find me scenes with at least a bus and 3 fire hidrants)
+    * Models can be uploaded to Nucleus. It acts as a model registry.
+    * Model runs can be committed. Inference results for committed models can be analysed for things like detection failures, false positives, etc.
+    * Scenes that failed to be detected correctly can be added to a 'slice', sent to the contractor to be re-annotated, before the model can be re-run.
+    * Retraining can be done on such a slice of failed scenes, for accelerated learning.
 
 #### Simulation
 * Uber [simulation](https://www.uber.com/us/en/atg/research-and-development/simulation/)
