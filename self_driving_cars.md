@@ -86,7 +86,9 @@ title: Self Driving Cars
 * Talks
   * Stanford Seminar: [Self-Supervised Pseudo-Lidar Networks](https://www.youtube.com/watch?v=SLEK2vAgjOI), Adrien Gaidon, Toyota Research Institute (2019)
 * Motional [NuPlan](https://www.nuscenes.org/nuplan), [NuScenes](https://www.nuscenes.org/nuscenes)
-  * Henggang Cui: [Technically Speaking:Predicting the future in realtime for safer autonomousdriving](https://motional.com/news/technically-speaking-predicting-the-future) (2022)
+  * H. Cui: [Technically Speaking: Predicting the future in realtime for safer autonomousdriving](https://motional.com/news/technically-speaking-predicting-the-future) (2022)
+  * H. Cui: [Technically Speaking:Auto-labeling With OfflinePerception](https://motional.com/news/technically-speaking-offline-perception) (2022)
+  * H. Caesar: [Motional's nuPlan DatasetWill Advance AV PlanningResearch](https://motional.com/news/nuplan) (2021)
 
 #### Lidar Calibration
 * [BALM: Bundle Adjustment for Lidar Mapping](https://arxiv.org/pdf/2010.08215.pdf), Zheng Liu and Fu Zhang (2010)
