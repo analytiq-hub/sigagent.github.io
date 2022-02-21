@@ -138,6 +138,8 @@ title: Self Driving Cars
 * [Parallel Systems](https://moveparallel.com/)
   * ArsTechnica: [Autonomous battery-powered rail cars could steal shipments from truckers](https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/), by Tim De Chant (2022)
 * [Locomation](https://locomation.ai/) (Greater Pittsburgh Area)
+* [Scale](https://scale.com/)
+  * [Debugging Model Performance with Scale Nucleus](https://www.youtube.com/watch?v=O20MTRHohPE) (2021)
 
 #### Simulation
 * Uber [simulation](https://www.uber.com/us/en/atg/research-and-development/simulation/)
