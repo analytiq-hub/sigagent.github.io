@@ -85,6 +85,8 @@ title: Self Driving Cars
 * [Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/pdf/2103.05073.pdf), Ch. Qi et al, Waymo (2021), [video](https://www.youtube.com/watch)
 * Talks
   * Stanford Seminar: [Self-Supervised Pseudo-Lidar Networks](https://www.youtube.com/watch?v=SLEK2vAgjOI), Adrien Gaidon, Toyota Research Institute (2019)
+* Motional [NuPlan](https://www.nuscenes.org/nuplan), [NuScenes](https://www.nuscenes.org/nuscenes)
+  * Henggang Cui: [Technically Speaking:Predicting the future in realtime for safer autonomousdriving](https://motional.com/news/technically-speaking-predicting-the-future) (2022)
 
 #### Lidar Calibration
 * [BALM: Bundle Adjustment for Lidar Mapping](https://arxiv.org/pdf/2010.08215.pdf), Zheng Liu and Fu Zhang (2010)
