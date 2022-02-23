@@ -64,7 +64,7 @@ title: Cloud Data Platform
   * T. Addair: [End-to-End Deep Learning with Horovod on Apache Spark](https://databricks.com/session_na20/end-to-end-deep-learning-with-horovod-on-apache-spark) (2020)
 * Spark
   * [Learning Spark: Lightning-Fast Data Analytics](https://www.amazon.com/Learning-Spark-Jules-Damji/dp/1492050040/ref=sr_1_4), 2nd editon, by J. Damji et al (2020)
-  * [Spark ML]
+  * Spark ML
     * Apache Spark ML and Distributed Learning: [1](https://www.youtube.com/watch?v=TeFXA2imXCs) [2](https://www.youtube.com/watch?v=x8qqxYKbIwU) [3](https://www.youtube.com/watch?v=jEyahxFp3ak) [4](https://www.youtube.com/watch?v=rzXmBb_TRsw) [5](https://www.youtube.com/watch?v=9Nrx9vLFQ5)
   * Jupyter lab on Spark
     * A. Perez: [Apache Spark Cluster on Docker (ft. a JupyterLab Interface)](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445) (2020)
