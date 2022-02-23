@@ -109,6 +109,8 @@ title: Self Driving Cars
   * [Source code](https://github.com/Autoware-AI)
   * [Documentation](https://autoware.readthedocs.io/en/feature-documentation_rtd/)
    * [Open Source Integrated Planner for Autonomous Navigation in Highly Dynamic Environments](https://www.fujipress.jp/jrm/rb/robot002900040668/), H. Darweesh et al (2017)
+* Cruise
+  * [75 Minutes of Autonomous Driving with Kyle Vogt and Sam Altman](https://www.youtube.com/watch?v=sliYTyRpRB8&t=994s) (2020)
 * Tesla
   * [Tesla AI Day 2021](https://www.youtube.com/watch?v=fdtC1AxFNkk)
     * Vincent Feng: [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
