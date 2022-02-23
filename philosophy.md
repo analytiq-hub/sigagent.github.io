@@ -4,6 +4,8 @@ title: Philosophy
 ---
 #### Books
 * Epicur si Epicureismul Antic - Andrei Cornea (2nd ed, 2021). I like this book with its long, clear, substantial introduction with references directly into original text by Epicurus and his ancient reviewers.
+* Vladimir Solovyov: [War, Progress, and the End of History](https://www.amazon.com/War-Progress-History-Conversations-Esalen-Lindisfarne/dp/0940262355)
+  * [Malmkrog](https://mubi.com/films/malmkrog/player), film by Cristi Puiu (2021)
 
 #### Videos
 * [Petre Tutea - Cuvantul care Zideste](https://www.youtube.com/watch?v=TlrH42G2Q8c) (1990)
