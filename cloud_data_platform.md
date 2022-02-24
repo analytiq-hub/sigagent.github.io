@@ -23,6 +23,9 @@ title: Cloud Data Platform
   * Databricks & Embarq: [Ensuring long-haul truck safety with data and AI](https://databricks.com/customers/embark-trucks)
   * I. G. Arnedo: [Building our Data Platform: Why we have chosen Databricks over Snowflake](https://blog.denexus.io/databricks)
   * Forrester: [Databricks delivers nearly $29 million in economic benefits and pays for itself in less than six months](https://databricks.com/blog/2020/04/28/new-study-databricks-delivers-nearly-29-million-in-economic-benefits-and-pays-for-itself-in-less-than-six-months.html) (2020) (commissioned by Databricks)
+* AWS
+  * [EMR](https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks.html)
+    * [Amazon EMR Deep Dive and Best Practices - AWS Online Tech Talks](https://www.youtube.com/watch?v=dU40df0Suoo)
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Neptune.ai](https://neptune.ai/)
 
@@ -61,7 +64,7 @@ title: Cloud Data Platform
   * T. Addair: [End-to-End Deep Learning with Horovod on Apache Spark](https://databricks.com/session_na20/end-to-end-deep-learning-with-horovod-on-apache-spark) (2020)
 * Spark
   * [Learning Spark: Lightning-Fast Data Analytics](https://www.amazon.com/Learning-Spark-Jules-Damji/dp/1492050040/ref=sr_1_4), 2nd editon, by J. Damji et al (2020)
-  * [Spark ML]
+  * Spark ML
     * Apache Spark ML and Distributed Learning: [1](https://www.youtube.com/watch?v=TeFXA2imXCs) [2](https://www.youtube.com/watch?v=x8qqxYKbIwU) [3](https://www.youtube.com/watch?v=jEyahxFp3ak) [4](https://www.youtube.com/watch?v=rzXmBb_TRsw) [5](https://www.youtube.com/watch?v=9Nrx9vLFQ5)
   * Jupyter lab on Spark
     * A. Perez: [Apache Spark Cluster on Docker (ft. a JupyterLab Interface)](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445) (2020)
