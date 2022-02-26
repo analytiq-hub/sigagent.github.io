@@ -38,4 +38,4 @@ Mărturia lui - cum a tratat armata de ocupație română Cernăuțiul - cum au 
 
 Nu înțeleg de ce nu se știe mai mult despre acest om curajos, acest Oskar Schindler român, drept între drepți: 
 
-<object data="https://bitdribble.com/home/doc/history/romania/Traian_Popovici_Marturia.pdf" width="1000" height="1000" type='application/pdf'/></object>
+{% pdf "https://bitdribble.com/home/doc/history/romania/Traian_Popovici_Marturia.pdf" %}
