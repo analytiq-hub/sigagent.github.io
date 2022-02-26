@@ -31,6 +31,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Film](film.md)
 * [Game Theory](game_theory.md)
 * [Healthcare](healthcare.md)
+* [History](history.md)
 * [Intellectual History](intellectual_history.md)
 * Kernel & System Programming
   * [Linux Kernel](linux_kernel.md)
