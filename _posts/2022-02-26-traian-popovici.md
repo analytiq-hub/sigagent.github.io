@@ -15,7 +15,7 @@ Cine este Traian Popovici? Citim de la [juridice.ro](https://www.juridice.ro/734
 
 *La comemorare au participat Col. (r.) Dan Prisăcaru de la Muzeului Militar Național „Regele Ferdinand I”, Col. Romeo-Aurelian Popovici, Comandantul Colegiului Național Militar „Ștefan cel Mare” din Câmpulung Moldovenesc, Părintele Constantin Cătălin Cârloanță, Preot militar la colegiu, Tudor Zdrob, Primarul comunei Fundu Moldovei, cadre didactice și credincioși.*
 
-*Potrivit Wikipedia, Traian Popovici s-a născut la 17 octombrie 1892 în satul Rușii-Mănăstioara.*
+*[...] Traian Popovici s-a născut la 17 octombrie 1892 în satul Rușii-Mănăstioara.*
 
 *A studiat la Gimnaziul superior din Suceava (1903-1911).*
 
