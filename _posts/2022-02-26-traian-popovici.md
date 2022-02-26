@@ -6,7 +6,7 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-<img src="https://en.wikipedia.org/wiki/Traian_Popovici#/media/File:Traian_Popovici_1934.jpg"
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Traian_Popovici_1934.jpg"
      alt="Traian Popovici"
      style="float: left; margin-right: 10px;" />
 Cine este Traian Popovici? Citim de la [juridice.ro](https://www.juridice.ro/734839/comemorare-a-avocatului-traian-popovici-primarul-cernautiului-care-a-salvat-20-000-de-evrei-de-la-holocaust.html):
