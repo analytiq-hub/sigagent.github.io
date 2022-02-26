@@ -11,7 +11,7 @@ author:
      style="float: left; margin-right: 10px;" />
 Cine este Traian Popovici? Citim de la [juridice.ro](https://www.juridice.ro/734839/comemorare-a-avocatului-traian-popovici-primarul-cernautiului-care-a-salvat-20-000-de-evrei-de-la-holocaust.html):
 
-*Vineri, 4 iunie 2021, la Biserica din satul Colacu, comuna Fundu Moldovei, județul Suceava, unde se află și mormântul acestuia, a fost oficiată o slujbă de parastas pentru Avocatul Dr. Traian Popovici, fostul Primar al Cernăuțiului, la 75 de ani de la plecarea sa la cele veșnice, în 4 iunie 1946 – a relatat ziarul Basilica.*
+*Vineri, 4 iunie 2021, la Biserica din satul Colacu, comuna Fundu Moldovei, județul Suceava, unde se află și mormântul acestuia, a fost oficiată o slujbă de parastas pentru Avocatul Dr. Traian Popovici, fostul Primar al Cernăuțiului, la 75 de ani de la plecarea sa la cele veșnice, în 4 iunie 1946 [...].*
 
 *La comemorare au participat Col. (r.) Dan Prisăcaru de la Muzeului Militar Național „Regele Ferdinand I”, Col. Romeo-Aurelian Popovici, Comandantul Colegiului Național Militar „Ștefan cel Mare” din Câmpulung Moldovenesc, Părintele Constantin Cătălin Cârloanță, Preot militar la colegiu, Tudor Zdrob, Primarul comunei Fundu Moldovei, cadre didactice și credincioși.*
 
