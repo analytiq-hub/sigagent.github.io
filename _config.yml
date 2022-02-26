@@ -68,4 +68,4 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll-pdf-embed # From https://github.com/MihajloNesic/jekyll-pdf-embed
+# - jekyll-pdf-embed # From https://github.com/MihajloNesic/jekyll-pdf-embed # Not working
