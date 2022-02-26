@@ -28,6 +28,10 @@ title: Cloud Data Platform
     * [Amazon EMR Deep Dive and Best Practices - AWS Online Tech Talks](https://www.youtube.com/watch?v=dU40df0Suoo)
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Neptune.ai](https://neptune.ai/)
+* [Jupyterhub](https://jupyterhub.readthedocs.io)
+  * Amazon EMR
+    * [Create a cluster with JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub-launch.html)
+  
 
 #### Tutorials
 * Workshop: Managing the Complete Machine Learning Lifecycle with MLflow [1](https://www.youtube.com/watch?v=x3cxvsUFVZA) [2](https://www.youtube.com/watch?v=g5ibwiSH1uA) [3](https://www.youtube.com/watch?v=AxYmj8ufKKY) [2020]
