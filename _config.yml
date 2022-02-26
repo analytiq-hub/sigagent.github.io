@@ -68,4 +68,4 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll-pdf-embed
+ - jekyll-pdf-embed # Per example at https://github.com/MihajloNesic/minimal-mistakes-pdf-example/
