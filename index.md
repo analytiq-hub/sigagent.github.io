@@ -46,6 +46,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [High School Problem Hints and Solutions](math/high_school_solutions.md)
 * [Meta Learning](meta_learning.md)
 * [MLOps](mlops.md)
+* [Music](music.md)
 * [Natural Language Processing](natural_language_processing.md)
 * [Neuroscience](neuroscience.md)
 * [Open Source](open_source.md)
