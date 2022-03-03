@@ -122,6 +122,8 @@ title: Machine Learning
 * [Ben Dickson](https://bdtechtalks.com/author/bendee983/): [The challenges of applied machine learning](https://bdtechtalks.com/2021/04/19/applied-machine-learning-challenges/) (2021)
 * Jonathan Hui: [How to start a Deep Learning project?](https://jonathan-hui.medium.com/how-to-start-a-deep-learning-project-d9e1db90fa72) (2018)
 * Georgii Evtushenko: [Multi-GPU Programming](https://medium.com/gpgpu/multi-gpu-programming-6768eeb42e2c)
+* Mihail Eric: [MLOps Is a Mess But That's to be Expected](https://www.mihaileric.com/posts/mlops-is-a-mess/) (2022)
+* Matt Turk: [Red Hot: The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/)
 
 #### Distributed Training
 * Medium: [Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255), Thomas Wolf (2018)
