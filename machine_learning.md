@@ -152,6 +152,11 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [optim.Adam vs optim.SGD. Let’s dive in](https://medium.com/@Biboswan98/optim-adam-vs-optim-sgd-lets-dive-in-8dbf1890fbdc)
 * [fast.ai](https://www.fast.ai): [AdamW and Super-convergence is now the fastest way to train neural nets ](https://www.fast.ai/2018/07/02/adam-weight-decay/), by S. Gugger and J. Howard (2018)
 
+#### GPUs
+* [Tim Dettmers](https://timdettmers.com/)
+  * Quora: [Why are GPUs well-suited to deep learning?](https://www.quora.com/Why-are-GPUs-well-suited-to-deep-learning/answer/Tim-Dettmers-1) (2018)
+  * [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/) (2020)
+
 #### Articles
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
 * [Neural networks and physical systems with emergent collective computational abilities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC346238/pdf/pnas00447-0135.pdf), J. J. Hopfield (1982)
