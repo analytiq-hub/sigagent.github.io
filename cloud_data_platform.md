@@ -77,7 +77,7 @@ title: Cloud Data Platform
   * NetworkChuck: [You need to learn Kubernetes RIGHT NOW!!](https://www.youtube.com/watch?v=7bA0gTroJjw)
 * Kubeflow
   * [A 10 Minute Introduction to Kubeflow: Basics, Architecture & Components](https://www.youtube.com/watch?v=G7zW1Wqym00) (2021)
-  * [MLOps20: Building End-to-End Machine Learning Workflows with Kubeflow in AWS](https://www.youtube.com/watch?v=sRQECN7LsbI) (2021)
+  * [MLOps20: Building End-to-End Machine Learning Workflows with Kubeflow in AWS](https://www.youtube.com/watch?v=sRQECN7LsbI) (2020)
 
 #### Companies
 * Uber
