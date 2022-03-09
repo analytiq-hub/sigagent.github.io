@@ -73,6 +73,8 @@ title: Cloud Data Platform
   * Jupyter lab on Spark
     * A. Perez: [Apache Spark Cluster on Docker (ft. a JupyterLab Interface)](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445) (2020)
   * [Working with large ROS bag files on Hadoop and Spark](https://discourse.ros.org/t/working-with-large-ros-bag-files-on-hadoop-and-spark/2314/13) (2019)
+* Kubernetes
+  * NetworkChuck: [You need to learn Kubernetes RIGHT NOW!!](https://www.youtube.com/watch?v=7bA0gTroJjw)
 
 #### Companies
 * Uber
