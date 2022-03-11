@@ -82,6 +82,7 @@ title: Cloud Data Platform
   * H. Skogstrom
     * [Kubeflow v MLFlow](https://valohai.com/blog/kubeflow-vs-mlflow/)
     * [Kubeflow v Airflow](https://valohai.com/blog/kubeflow-vs-airflow/)
+    * [Kubeflow v Databricks](https://valohai.com/blog/kubeflow-vs-databricks/)
 
 #### Companies
 * Uber
