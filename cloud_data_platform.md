@@ -83,6 +83,8 @@ title: Cloud Data Platform
     * [Kubeflow v MLFlow](https://valohai.com/blog/kubeflow-vs-mlflow/)
     * [Kubeflow v Airflow](https://valohai.com/blog/kubeflow-vs-airflow/)
     * [Kubeflow v Databricks](https://valohai.com/blog/kubeflow-vs-databricks/)
+    * [Kubeflow v Sagemaker](https://valohai.com/blog/kubeflow-vs-sagemaker/)
+    * [Kubeflow v Argo](https://valohai.com/blog/kubeflow-vs-argo/)
 
 #### Companies
 * Uber
