@@ -86,6 +86,8 @@ title: Cloud Data Platform
     * [Kubeflow v Databricks](https://valohai.com/blog/kubeflow-vs-databricks/)
     * [Kubeflow v Sagemaker](https://valohai.com/blog/kubeflow-vs-sagemaker/)
     * [Kubeflow v Argo](https://valohai.com/blog/kubeflow-vs-argo/)
+* Sagemaker
+  * C. Fregly, Antje Barth: [Data Science on AWS](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391)
 
 #### Companies
 * Uber
