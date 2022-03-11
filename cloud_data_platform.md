@@ -79,6 +79,7 @@ title: Cloud Data Platform
   * [A 10 Minute Introduction to Kubeflow: Basics, Architecture & Components](https://www.youtube.com/watch?v=G7zW1Wqym00) (2021)
   * [MLOps20: Building End-to-End Machine Learning Workflows with Kubeflow in AWS](https://www.youtube.com/watch?v=sRQECN7LsbI) (2020)
   * K. Weinmeister: [Tutorial: From Notebook to Kubeflow Pipelines to KFServing](https://www.youtube.com/watch?v=VDINH5WkBhA)
+  * D. Anghel: [Introduction to Kubeflow Pipelines](https://www.youtube.com/watch?v=i8CrqPUWBI4)
   * H. Skogstrom
     * [Kubeflow v MLFlow](https://valohai.com/blog/kubeflow-vs-mlflow/)
     * [Kubeflow v Airflow](https://valohai.com/blog/kubeflow-vs-airflow/)
