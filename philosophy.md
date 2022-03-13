@@ -18,5 +18,7 @@ title: Philosophy
 * [Eugene Ionesco in conversation with Gabriel Liiceanu](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiKnJvEgd3zAhWQq3IEHRRtB0gQFnoECAYQAQ&url=https%3A%2F%2Fjournals.sfu.ca%2Fcapreview%2Findex.php%2Fcapreview%2Farticle%2Fdownload%2F1353%2F1353%2F&usg=AOvVaw0fpmgBl3Xz7vGNJyBxXH63) (1991)
 
 #### Links
+* [History](history.md)
+* [Literature](literature.md)
 * [Physics](physics.md)
 * [Religion](religion.md)

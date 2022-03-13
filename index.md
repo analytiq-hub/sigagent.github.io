@@ -37,6 +37,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Linux Kernel](linux_kernel.md)
   * [System Programming](system_programming.md)
   * [System Tools](system_tools.md)
+* [Literature](literature.md)
 * [Machine Learning](machine_learning.md)
 * [Market Trading](market_trading.md)
 * Math
