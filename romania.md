@@ -7,6 +7,7 @@ title: Romania
 * Ion Ghica: [Scrisori către Vasile Alexandri](https://humanitas.ro/assets/pdf/Ion-Ghica_Scrisori-catre-V-Alecsandri.pdf), [wikisource](https://ro.wikisource.org/wiki/Scrisori_c%C4%83tre_Vasile_Alecsandri)
 * Radu Rosetti: [Amintiri. Ce am auzit de la alţii. Din copilărie. Din prima tinereţe](https://humanitas.ro/assets/pdf/Radu-Rosetti_Amintiri.pdf)
 * Mircea Vulcănescu: [Nae Ionescu așa cum l-am cunoscut](https://www.amazon.com/Nae-Ionescu-l-am-cunoscut-Romanian/dp/9737571843)
+* Iuliu A. Zanne: [Proverbele Românilor](https://upload.wikimedia.org/wikipedia/commons/0/0d/Iuliu_A._Zanne_-_Proverbele_rom%C3%A2nilor_din_Rom%C3%A2nia%2C_Basarabia%2C_Bucovina%2C_Ungaria%2C_Istria_%C8%99i_Macedonia_-_Proverbe%2C_dicetori%2C_pov%C4%83%C8%9Buiri%2C_cuvinte_ade.pdf)
 
 #### Blogs
 * Dan Alexe: [Cabal in Kabul](https://cabalinkabul.com/)
