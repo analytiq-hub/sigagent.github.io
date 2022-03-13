@@ -73,6 +73,21 @@ title: Cloud Data Platform
   * Jupyter lab on Spark
     * A. Perez: [Apache Spark Cluster on Docker (ft. a JupyterLab Interface)](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445) (2020)
   * [Working with large ROS bag files on Hadoop and Spark](https://discourse.ros.org/t/working-with-large-ros-bag-files-on-hadoop-and-spark/2314/13) (2019)
+* Kubernetes
+  * NetworkChuck: [You need to learn Kubernetes RIGHT NOW!!](https://www.youtube.com/watch?v=7bA0gTroJjw)
+* Kubeflow
+  * [A 10 Minute Introduction to Kubeflow: Basics, Architecture & Components](https://www.youtube.com/watch?v=G7zW1Wqym00) (2021)
+  * [MLOps20: Building End-to-End Machine Learning Workflows with Kubeflow in AWS](https://www.youtube.com/watch?v=sRQECN7LsbI) (2020)
+  * K. Weinmeister: [Tutorial: From Notebook to Kubeflow Pipelines to KFServing](https://www.youtube.com/watch?v=VDINH5WkBhA)
+  * D. Anghel: [Introduction to Kubeflow Pipelines](https://www.youtube.com/watch?v=i8CrqPUWBI4)
+  * H. Skogstrom
+    * [Kubeflow v MLFlow](https://valohai.com/blog/kubeflow-vs-mlflow/)
+    * [Kubeflow v Airflow](https://valohai.com/blog/kubeflow-vs-airflow/)
+    * [Kubeflow v Databricks](https://valohai.com/blog/kubeflow-vs-databricks/)
+    * [Kubeflow v Sagemaker](https://valohai.com/blog/kubeflow-vs-sagemaker/)
+    * [Kubeflow v Argo](https://valohai.com/blog/kubeflow-vs-argo/)
+* Sagemaker
+  * C. Fregly, Antje Barth: [Data Science on AWS](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391)
 
 #### Companies
 * Uber
