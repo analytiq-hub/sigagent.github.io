@@ -30,6 +30,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Entrepreneurship](entrepreneurship.md)
 * [Film](film.md)
 * [Game Theory](game_theory.md)
+* [GPUs](gpus.md)
 * [Healthcare](healthcare.md)
 * [History](history.md)
 * [Intellectual History](intellectual_history.md)
