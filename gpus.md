@@ -3,8 +3,9 @@ layout: page
 mathjax: true
 title: GPUs
 ---
-#### Docs
-* [CUDA C/C++ Basics](https://www.olcf.ornl.gov/wp-content/uploads/2013/02/Intro_to_CUDA_C-TS.pdf)
+#### CUDA
+* Nvidia: [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#abstract)
+* Nvidia: [CUDA C/C++ Basics](https://www.olcf.ornl.gov/wp-content/uploads/2013/02/Intro_to_CUDA_C-TS.pdf)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
