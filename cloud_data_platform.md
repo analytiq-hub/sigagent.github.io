@@ -26,6 +26,8 @@ title: Cloud Data Platform
 * AWS
   * [EMR](https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks.html)
     * [Amazon EMR Deep Dive and Best Practices - AWS Online Tech Talks](https://www.youtube.com/watch?v=dU40df0Suoo)
+  * Access Control
+    * [Amazon S3 Access Control - IAM Policies, Bucket Policies and ACLs](https://www.youtube.com/watch?v=xFzJw6wJ8eY)
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Neptune.ai](https://neptune.ai/)
 * [Jupyterhub](https://jupyterhub.readthedocs.io)
