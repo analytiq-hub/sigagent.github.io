@@ -91,6 +91,7 @@ title: Cloud Data Platform
     * [Kubeflow v Argo](https://valohai.com/blog/kubeflow-vs-argo/)
 * Sagemaker
   * C. Fregly, Antje Barth: [Data Science on AWS](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391)
+  * [Label 3D Point Clouds for Machine Learning Training Data with Amazon SageMaker Ground Truth](https://www.youtube.com/watch?v=dQGJZucBPsg) (2020)
 
 #### Companies
 * Uber
