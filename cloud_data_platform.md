@@ -89,6 +89,8 @@ title: Cloud Data Platform
     * [Kubeflow v Databricks](https://valohai.com/blog/kubeflow-vs-databricks/)
     * [Kubeflow v Sagemaker](https://valohai.com/blog/kubeflow-vs-sagemaker/)
     * [Kubeflow v Argo](https://valohai.com/blog/kubeflow-vs-argo/)
+* Metaflow
+  * A. Goblet: [A Review of Netflix’s Metaflow](https://medium.com/bigdatarepublic/a-review-of-netflixs-metaflow-65c6956e168d) (2019)
 * Sagemaker
   * C. Fregly, Antje Barth: [Data Science on AWS](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391)
   * [Label 3D Point Clouds for Machine Learning Training Data with Amazon SageMaker Ground Truth](https://www.youtube.com/watch?v=dQGJZucBPsg) (2020)
