@@ -97,11 +97,14 @@ title: Cloud Data Platform
 * Uber
   * [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/) (2017)
   * [Introducing Ludwig, a Code-Free Deep Learning Toolbox](https://eng.uber.com/introducing-ludwig/) (2019)
-  
-#### Posts
+
+#### Surveys
 * Emerging Architectures for Modern Data Infrastructure:
   * [2020](https://future.a16z.com/emerging-architectures-for-modern-data-infrastructure-2020/)
   * [2022 Update](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/)
+* A. Pandhi: [Modern Data Stack: Looking into the Crystal Ball](https://www.linkedin.com/pulse/modern-data-stack-looking-crystal-ball-apoorva-pandhi/) (2022)
+
+#### Posts
 * [Spark, Dask, and Ray: A History](https://blog.dominodatalab.com/spark-dask-ray-choosing-the-right-framework?hs_amp=false), N. Manchev (2021)
 * Jupyter Notebooks, Spark
   * [How to connect Jupyter Notebook to remote spark clusters and run spark jobs every day?](https://towardsdatascience.com/how-to-connect-jupyter-notebook-to-remote-spark-clusters-and-run-spark-jobs-every-day-2c5a0c1b61df), Teng Peng (2020). This uses Bayesnote to orchestrate notebooks on Spark clusters.
