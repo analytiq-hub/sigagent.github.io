@@ -90,6 +90,7 @@ title: Cloud Data Platform
     * [Kubeflow v Sagemaker](https://valohai.com/blog/kubeflow-vs-sagemaker/)
     * [Kubeflow v Argo](https://valohai.com/blog/kubeflow-vs-argo/)
 * Metaflow
+  * Netflix Tech Blog: [Open-Sourcing Metaflow, a Human-Centric Framework for Data Science](https://medium.com/netflix-techblog/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9) (2019)
   * A. Goblet: [A Review of Netflix’s Metaflow](https://medium.com/bigdatarepublic/a-review-of-netflixs-metaflow-65c6956e168d) (2019)
 * Sagemaker
   * C. Fregly, Antje Barth: [Data Science on AWS](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391)
