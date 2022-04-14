@@ -66,6 +66,7 @@ title: Cloud Data Platform
   * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
   * [Introducing Petastorm: Uber ATG’s Data Access Library for Deep Learning ](https://eng.uber.com/petastorm/) (2018)
   * Databricks docs: [Load data using Petastorm](https://docs.databricks.com/applications/machine-learning/load-data/petastorm.html)
+  * Yevgeni Litvin: [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/) (2019)
 * Horovod
   * Databricks docs: [Introducing HorovodRunner for Distributed Deep Learning Training](https://databricks.com/blog/2018/11/19/introducing-horovodrunner-for-distributed-deep-learning-training.html)
   * Databricks docs: [HorovodRunner: distributed deep learning with Horovod ](https://docs.databricks.com/applications/machine-learning/train-model/distributed-training/horovod-runner.html)
