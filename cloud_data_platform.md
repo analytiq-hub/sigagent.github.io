@@ -101,7 +101,7 @@ title: Cloud Data Platform
   * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
   * [Introducing Petastorm: Uber ATG’s Data Access Library for Deep Learning ](https://eng.uber.com/petastorm/) (2018)
   * Databricks docs: [Load data using Petastorm](https://docs.databricks.com/applications/machine-learning/load-data/petastorm.html)
-  * Yevgeni Litvin: [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/) (2019)
+  * Yevgeni Litvin: [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/) (2019), [slides](https://qcon.ai/system/files/presentation-slides/yevgeni_-_petastorm_16th_apr_2019_.pdf)
 
 #### Companies
 * Uber
