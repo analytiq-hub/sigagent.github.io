@@ -61,6 +61,8 @@ title: Cloud Data Platform
   * [Docs](https://parquet.apache.org/documentation/latest/)
   *  Boudewijn Braams: [The Parquet Format and Performance Optimization Opportunities](https://www.youtube.com/watch?v=1j8SdS7s_NY) (2019)
   * [rosbag2parquet](https://github.com/orm011/rosbag2parquet)
+* Hadoop
+  * W. Crowell: [Spark vs. Hadoop vs. Hive: Key Differences and Use Cases](https://www.openlogic.com/blog/spark-vs-hadoop) (2021)
 * HDF5
   * B. Holländer: [HDF5 Datasets For PyTorch](https://towardsdatascience.com/hdf5-datasets-for-pytorch-631ff1d750f5) (2019)
 * Horovod
