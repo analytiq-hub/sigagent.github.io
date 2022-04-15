@@ -61,12 +61,8 @@ title: Cloud Data Platform
   * [Docs](https://parquet.apache.org/documentation/latest/)
   *  Boudewijn Braams: [The Parquet Format and Performance Optimization Opportunities](https://www.youtube.com/watch?v=1j8SdS7s_NY) (2019)
   * [rosbag2parquet](https://github.com/orm011/rosbag2parquet)
-* Petastorm
-  * [Docs](https://petastorm.readthedocs.io/en/latest/index.html)
-  * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
-  * [Introducing Petastorm: Uber ATG’s Data Access Library for Deep Learning ](https://eng.uber.com/petastorm/) (2018)
-  * Databricks docs: [Load data using Petastorm](https://docs.databricks.com/applications/machine-learning/load-data/petastorm.html)
-  * Yevgeni Litvin: [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/) (2019)
+* HDF5
+  * B. Holländer: [HDF5 Datasets For PyTorch](https://towardsdatascience.com/hdf5-datasets-for-pytorch-631ff1d750f5) (2019)
 * Horovod
   * Databricks docs: [Introducing HorovodRunner for Distributed Deep Learning Training](https://databricks.com/blog/2018/11/19/introducing-horovodrunner-for-distributed-deep-learning-training.html)
   * Databricks docs: [HorovodRunner: distributed deep learning with Horovod ](https://docs.databricks.com/applications/machine-learning/train-model/distributed-training/horovod-runner.html)
@@ -98,6 +94,12 @@ title: Cloud Data Platform
 * Sagemaker
   * C. Fregly, Antje Barth: [Data Science on AWS](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391)
   * [Label 3D Point Clouds for Machine Learning Training Data with Amazon SageMaker Ground Truth](https://www.youtube.com/watch?v=dQGJZucBPsg) (2020)
+* Petastorm
+  * [Docs](https://petastorm.readthedocs.io/en/latest/index.html)
+  * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
+  * [Introducing Petastorm: Uber ATG’s Data Access Library for Deep Learning ](https://eng.uber.com/petastorm/) (2018)
+  * Databricks docs: [Load data using Petastorm](https://docs.databricks.com/applications/machine-learning/load-data/petastorm.html)
+  * Yevgeni Litvin: [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/) (2019)
 
 #### Companies
 * Uber
