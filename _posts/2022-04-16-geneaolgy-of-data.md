@@ -52,7 +52,7 @@ We will be talking about:
 
 # JSon
 
-JSon stands for JavaScript Store Object Notation. It has a lightweight syntax, and it is easy to understand by humans. Here is an example JSon file:
+[JSon](https://en.wikipedia.org/wiki/JSON) stands for JavaScript Store Object Notation. It has a lightweight syntax, and it is easy to understand by humans. Here is an example JSon file:
 
 ```json
 {
@@ -91,7 +91,7 @@ What limitations does JSon have?
 Being schemaless is both an advantage, and a disadvantage of JSon. More precisely - users can define their own schema for JSon files, but they would have to make their own schema implementation, because JSon does not natively support a concept of schema.
 
 # YAML
-The YAML format is...
+The [YAML](https://en.wikipedia.org/wiki/YAML) format is...
 - Used for configuration
 - … Could be used for data serialization
 - Created to solve problems of XML
@@ -124,7 +124,7 @@ A typical difficulty is figuring out the indentation of YAML blocks when the fil
 
 # XML
 
-- XML is often used when data is sent from a web server to a client.
+- [XML](https://en.wikipedia.org/wiki/XML) is often used when data is sent from a web server to a client.
 - It is a Markup language. You can add attributes to entities.
 - HTML was original language of Web. XML is an evolution of HTML.
 - XML supports syntax enforcement through [DTDs](https://en.wikipedia.org/wiki/Document_type_definition) and [Schemas](https://en.wikipedia.org/wiki/XML_schema)
