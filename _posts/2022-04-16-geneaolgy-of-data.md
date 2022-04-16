@@ -76,3 +76,14 @@ JSon stands for JavaScript Store Object Notation. It has a lightweight system, a
 ```
 
 Readers familiar with JSon will immediately recognize that this defines an `employees` list, with each list element an array with two fiels, `firstName` and `lastName`.
+
+Why is JSon popular?
+- Contents is easy to ‘figure out’ without a schema
+- Json is widely used in web and client/server applications. It allows client software to be developed independently of web server software.
+
+What limitations does JSon have?
+- It is schemaless. 
+- JSon is not size efficient.
+- And JSon does not allow comments.
+
+Being schemaless is both an advantage, and a disadvantage of JSon. More precisely - users can define their own schema for JSon files, but they would have to make their own schema implementation, because JSon does not natively support a concept of schema.
