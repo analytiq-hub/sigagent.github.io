@@ -6,8 +6,6 @@ author:
 - Andrei Radulescu-Banu
 ---
 
-# Summary
-
 In this sequence of posts, we will survey data storage formats, and data management. The questions we will be asking are
 - How and where the data is store
 - Ways in which it is accessed
