@@ -86,6 +86,6 @@ Why is JSon popular?
 What limitations does JSon have?
 - It is schemaless. 
 - JSon is not size efficient.
-- And JSon does not allow comments.
+- ... And JSon does not allow comments.
 
 Being schemaless is both an advantage, and a disadvantage of JSon. More precisely - users can define their own schema for JSon files, but they would have to make their own schema implementation, because JSon does not natively support a concept of schema.
