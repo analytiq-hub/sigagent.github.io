@@ -91,3 +91,35 @@ What limitations does JSon have?
 - ... And JSon does not allow comments.
 
 Being schemaless is both an advantage, and a disadvantage of JSon. More precisely - users can define their own schema for JSon files, but they would have to make their own schema implementation, because JSon does not natively support a concept of schema.
+
+# YAML
+The YAML format is...
+- Used for configuration
+- … Could be used for data serialization
+- Created to solve problems of XML
+- Simple to read & write by humans
+
+Here is the same example contents expressed in YAML:
+
+```yaml
+employees:
+  - firstName: John
+    lastName: Doe
+  - firstName: Anna 
+    lastName: Smith
+  - firstName: Peter
+    lastName: Jones
+# Some comment
+```
+
+As you can see, YAML allows comments. Indentation is used to express nested syntax. Basic format is an enumeration of `key: value` elements. List elements are enumerated using a `-` character. 
+
+Why is YAML popular?
+- It is widely used for configuration files for dev/ops
+
+What limitations does it have?
+- It is schemaless
+- Not size efficient
+- When configs large and repetitive, it becomes difficult to read.
+
+A typical difficulty is figuring out the indentation of YAML blocks when the file spans multiple screens that need to be paged-up and paged-down.
