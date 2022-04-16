@@ -54,7 +54,7 @@ We will be talking about:
 
 # JSon
 
-JSon stands for JavaScript Store Object Notation. It has a lightweight system, and it is easy to understand by humans. Here is an example JSon file:
+JSon stands for JavaScript Store Object Notation. It has a lightweight syntax, and it is easy to understand by humans. Here is an example JSon file:
 
 ```json
 {
@@ -80,6 +80,8 @@ Readers familiar with JSon will immediately recognize that this defines an `empl
 Why is JSon popular?
 - Contents is easy to ‘figure out’ without a schema
 - Json is widely used in web and client/server applications. It allows client software to be developed independently of web server software.
+
+!(../src/images/client_server.png)
 
 What limitations does JSon have?
 - It is schemaless. 
