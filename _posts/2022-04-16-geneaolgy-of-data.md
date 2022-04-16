@@ -17,8 +17,10 @@ We will only be looking at open source data formats. Our assumptons are:
 - We are working with a distributed system. Data may be stored in a distributed fashion.
 - The size of data is in hundreds of terabytes.
 - Data is accessed by several consumers during developend lifecycle, for various purposes:
-  - Data creation and ingestion
-  - Analysis
+  - Configuration
+  - Message passing
+  - Data ingestion
+  - Data analysis
   - Machine learning model training
   - Simulation
 
