@@ -156,7 +156,7 @@ XML distinguishes between `blocks` (in our case, `employees` and `person`), and 
 The `person` block is empty and only has attributes. The `employees` block has no attributes, and has multiple `person` subblocks.
 
 When is XML popular?
-- When you want different rendering depending on style
+- When you want different renderings depending on style
 - When you need strong schema support
 - For a long time, XML was used to store configuration (until YAML came along)
 
@@ -164,4 +164,4 @@ Limitations of XML:
 - Difficult to balance end bracket by humans
 - Not size efficient
 
-In robotics, XML is used by ROS (Robot OS), and by the Gazebo simulator.
+In robotics, XML is used by ROS (Robot OS), and by the Gazebo simulator. 
