@@ -123,3 +123,32 @@ What limitations does it have?
 - When configs large and repetitive, it becomes difficult to read.
 
 A typical difficulty is figuring out the indentation of YAML blocks when the file spans multiple screens that need to be paged-up and paged-down.
+
+# XML
+
+- XML is often used when data is sent from a web server to a client.
+- It is a Markup language. You can add attributes to entities.
+- HTML was original language of Web. XML is an evolution of HTML.
+- XML supports syntax enforcement through [DTDs](https://en.wikipedia.org/wiki/Document_type_definition) and [Schemas](https://en.wikipedia.org/wiki/XML_schema)
+
+Here is our document expressed as XML:
+
+```xml
+<employees>
+   <person firstName=”John”
+         lastName=”Doe” />
+   <person firstName=”Anna”
+         lastName=”Smith” />
+   <person firstName=”Peter”
+         lastName=”Jones” />
+</employees>
+<!-- Some comment -->
+
+<!-- DTD schema -->
+<!DOCTYPE employees [
+   <!ELEMENT person (#PCDATA)>
+    <!ATTLIST person firstName CDATA #REQUIRED>
+    <!ATTLIST person lastName CDATA #REQUIRED>
+]>
+
+```
