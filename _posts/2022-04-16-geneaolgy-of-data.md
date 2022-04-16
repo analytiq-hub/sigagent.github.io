@@ -81,7 +81,8 @@ Why is JSon popular?
 - Contents is easy to ‘figure out’ without a schema
 - Json is widely used in web and client/server applications. It allows client software to be developed independently of web server software.
 
-![](../src/images/client_server.png)
+<img src="src/images/client_server.png" />
+     style="float: right; margin-right: 10px;" />
 
 What limitations does JSon have?
 - It is schemaless. 
