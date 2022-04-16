@@ -54,7 +54,7 @@ We will be talking about:
 
 # JSon
 
-JSon stands for JavaScript Store Object Notation. It has a lightweight system, and it is easy to understand by humans. Here is some example JSon:
+JSon stands for JavaScript Store Object Notation. It has a lightweight system, and it is easy to understand by humans. Here is an example JSon file:
 
 ```json
 {
