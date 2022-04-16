@@ -134,11 +134,11 @@ Here is our document expressed as XML:
 ```xml
 <employees>
    <person firstName=”John”
-         lastName=”Doe” />
+           lastName=”Doe” />
    <person firstName=”Anna”
-         lastName=”Smith” />
+           lastName=”Smith” />
    <person firstName=”Peter”
-         lastName=”Jones” />
+           lastName=”Jones” />
 </employees>
 <!-- Some comment -->
 
