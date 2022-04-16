@@ -75,4 +75,4 @@ JSon stands for JavaScript Store Object Notation. It has a lightweight system, a
 }
 ```
 
-Readers familiar with JSon will immediately recognize that this defines a list of `employees`, with each list element an array with two fiels, `firstName` and `lastName`.
+Readers familiar with JSon will immediately recognize that this defines an `employees` list, with each list element an array with two fiels, `firstName` and `lastName`.
