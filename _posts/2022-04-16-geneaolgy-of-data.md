@@ -56,20 +56,21 @@ We will be talking about:
 
 JSon stands for JavaScript Store Object Notation. It has a lightweight system, and it is easy to understand by humans. Here is some example JSon:
 
-```
+```json
 {
-"employees": [
+  "employees": [
     {
-  "firstName":"John",
-       "lastName":"Doe"
-},
+      "firstName":"John",
+      "lastName":"Doe"
+    },
     {
-  "firstName":"Anna", 
-  "lastName":"Smith"
-},
+      "firstName":"Anna", 
+      "lastName":"Smith"
+    },
     {
-       "firstName":"Peter", 
-  "lastName":"Jones"
+      "firstName":"Peter", 
+      "lastName":"Jones"
+    }
   ]
 }
 ```
