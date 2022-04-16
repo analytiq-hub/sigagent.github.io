@@ -13,7 +13,7 @@ In this sequence of posts, we will survey data storage formats, and data managem
 - Ways in which it is accessed
 - Transformations it undergoes
 
-# Assumptions
+## Assumptions
 We will only be looking at open source data formats. Our assumptions are:
 - We are working with a distributed system. Data may be stored in a distributed fashion.
 - The size of data is in hundreds of terabytes.
