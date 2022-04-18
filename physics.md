@@ -17,6 +17,11 @@ title: Physics
 #### Lecture Notes
 * [Intermediate Classical Mechanics](http://www.physics.usu.edu/torre/3550_Fall_2013/), Charles Torre (2013)
 
+#### Courses
+* Leonard Susskind: [All Stanford physics lectures in order](https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e)
+  * Modern Physics: Classical Mechanics
+    * [Lecture 1](https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e)
+
 #### Surveys
 * [Seminaire Poincare - Information, 2018](http://www.bourbaphy.fr/novembre2018.html)
   * K. Mallick: [Thermodynamics and Information Theory](http://www.bourbaphy.fr/mallick.pdf), [video](https://www.youtube.com/watch?v=pXyONXaqqP8)
