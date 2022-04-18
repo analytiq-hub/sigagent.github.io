@@ -80,6 +80,15 @@ title: Self Driving Cars
 * [KITTI-360: A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D](https://arxiv.org/pdf/2109.13410v1.pdf)
 * [Large Scale Interactive Motion Forecasting for Autonomous Driving: The Waymo Open Motion Dataset](https://arxiv.org/pdf/2104.10133.pdf), S. Ettinger et al (2021)
 
+#### Point Cloud and Image Labeling
+* AWS SageMaker GroundTruth
+  * Supports point cloud
+* LATTE [github](https://github.com/bernwang/latte)
+  * [LATTE: Accelerating LiDAR Point Cloud Annotation via Sensor Fusion, One-Click Annotation, and Tracking](https://arxiv.org/abs/1904.09085) (2019)
+* Playment
+* Scale
+
+
 #### Auto Labeling Data
 * [Auto4d: Learning to label 4d objects from sequential point clouds](https://arxiv.org/pdf/2101.06586.pdf), B. Yang et al, Uber (2021)
 * [Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/pdf/2103.05073.pdf), Ch. Qi et al, Waymo (2021), [video](https://www.youtube.com/watch)
