@@ -146,8 +146,8 @@ title: Self Driving Cars
 * [Locomation](https://locomation.ai/) (Greater Pittsburgh Area)
 * [Scale](https://scale.com/)
   * [Debugging Model Performance with Scale Nucleus](https://www.youtube.com/watch?v=O20MTRHohPE) (2021) Features shown:
-    * Dataset management (the equivalent of our ISEE Tooklit)
-    * Data annotation (done at ISEE by an external contractor)
+    * Dataset management
+    * Data annotation
     * Scene labeling (i.e., identifying interesting occurrences in a scene), search engine for searching labels (e.g. find me scenes with at least a bus and 3 fire hidrants)
     * Models can be uploaded to Nucleus. It acts as a model registry.
     * Model runs can be committed. Inference results for committed models can be analysed for things like detection failures, false positives, etc.
