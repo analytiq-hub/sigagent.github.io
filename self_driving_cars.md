@@ -87,6 +87,8 @@ title: Self Driving Cars
   * [LATTE: Accelerating LiDAR Point Cloud Annotation via Sensor Fusion, One-Click Annotation, and Tracking](https://arxiv.org/abs/1904.09085) (2019)
 * Playment
 * Scale
+* Papers
+  * [Single-Click 3D Object Annotation on LiDAR Point Clouds](https://datacentricai.org/neurips21/papers/58_CameraReady_camera_ready_v2.pdf) (2021)
 
 
 #### Auto Labeling Data
