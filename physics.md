@@ -32,6 +32,7 @@ title: Physics
 #### Courses
 * MIT
   * [8-04 Quantum Physics I](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/) (2014)
+* U. Schreiber: [geometry of physics -- perturbative quantum field theory](https://ncatlab.org/nlab/show/geometry+of+physics+--+perturbative+quantum+field+theory) (2017)
 
 #### Videos
 * Sean Carroll: [The biggest ideas in the universe](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
