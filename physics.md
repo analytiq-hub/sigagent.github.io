@@ -22,7 +22,7 @@ title: Physics
   * Modern Physics: Classical Mechanics
     * [Lecture 1](https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e) Newton's laws
     * [Lecture 2](https://www.youtube.com/watch?v=h96SW0PfQcg&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=2) Principle of least action. Lagrangian.
-    * [Lecture 3](https://www.youtube.com/watch?v=3YARPNZrcIY&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=3)
+    * [Lecture 3](https://www.youtube.com/watch?v=3YARPNZrcIY&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=3). Proof of the principle of least action. Equivalence with Newton's laws. Examples.
 
 #### Surveys
 * [Seminaire Poincare - Information, 2018](http://www.bourbaphy.fr/novembre2018.html)
