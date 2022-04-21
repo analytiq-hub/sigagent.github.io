@@ -20,7 +20,9 @@ title: Physics
 #### Courses
 * Leonard Susskind: [All Stanford physics lectures in order](https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e)
   * Modern Physics: Classical Mechanics
-    * [Lecture 1](https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e)
+    * [Lecture 1](https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e) Newton's laws
+    * [Lecture 2](https://www.youtube.com/watch?v=h96SW0PfQcg&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=2) Principle of least action. Lagrangian.
+    * [Lecture 3](https://www.youtube.com/watch?v=3YARPNZrcIY&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=3)
 
 #### Surveys
 * [Seminaire Poincare - Information, 2018](http://www.bourbaphy.fr/novembre2018.html)
