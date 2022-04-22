@@ -14,6 +14,9 @@ title: Computation Theory
 #### Posts
 * Stephen Wolfram: [Finally We May Have a Path to the Fundamental Theory of Physics… and It’s Beautiful](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/) (2020)
 
+#### Papers
+* Geroch, Hartle: [Computability and Physical Theories](https://arxiv.org/pdf/1806.09237.pdf). Referenced in Penrose's 'Road to Reality', Chap. 'The Ladder to Infinity'. Contains in introduction a proof of the Halting Theorem that was missing in Penrose's chapter.
+
 #### People
 * [Klaus Sutner](http://www.cs.cmu.edu/~sutner/papers.html), [Google scholar](https://scholar.google.com/citations?user=jA7e-WkAAAAJ&hl=en)
   * [Turing vs. Bourbaki](https://www.cs.cmu.edu/~sutner/CDM/papers/bloomington14-6up.pdf) - Teaching Mathematics to CS Majors (Intro to CMS math class for Computer Science, 2021)
