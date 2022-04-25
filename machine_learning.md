@@ -20,6 +20,8 @@ title: Machine Learning
 * [fast.ai](https://www.fast.ai/), [Deep Learning for Coders with Fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527), J. Howard and S. Gugger (2020)
 * [Advanced Applied Deep Learning](https://www.amazon.com/Advanced-Applied-Deep-Learning-Convolutional/dp/1484249755), CNNs and Object Detection, by U. Michelucci
 * [Python Deep Learning](https://www.amazon.com/Python-Deep-Learning-techniques-architectures-ebook/dp/B07KQ29CQ3), Exploring deep learning techniques and neural network architectures with PyTorch, Keras, and TensorFlow, I. Vasiliev el al (2019), [github](https://github.com/ivan-vasilev/Python-Deep-Learning-SE)
+* M. Kochenderfer et al: [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf) (2022)
+  * IJCAI keynote talk: [Automated Decision Making for Safety Critical Applications](https://www.youtube.com/watch?v=9b4jryW1JtA) (2021)
 
 #### Courses
 * P. Abbeel: [Foundations of Deep RL in 6 Lectures](https://www.youtube.com/watch?v=2GwBez0D20A&list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) (2021), [slides](https://www.dropbox.com/s/f9xyrdkpqugtrvq/l1-mdps-exact-methods.pdf?dl=0)
