@@ -43,6 +43,7 @@ title: Physics
 * Sean Carroll: [The biggest ideas in the universe](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
 * Lex Fridman:
   * [Peter Woit: Theories of Everything & Why String Theory is Not Even Wrong](https://www.youtube.com/watch?v=nDDJFvuFXdc) (Dec 2021)
+* 3Blue1Brown: [Some light quantum mechanics (with minutephysics)](https://www.youtube.com/watch?v=MzRCDLre1b4)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
