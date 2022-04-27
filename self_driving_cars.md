@@ -76,6 +76,10 @@ title: Self Driving Cars
   * [Behavioral and Motion Planning in Autoware](https://vimeo.com/showcase/7812155/video/480450941#t=0h55m55s)
 * Chris Urmson: [Delivering the benefits of self-driving technology: Aurora's approach to development](https://www.youtube.com/watch?v=_zz2k6XOidI) (Apr 2021)
 
+#### Sensors and Sensor Fusion
+* De Jong Yang et al: [Sensor and Sensor Fusion Technology in Autonomous Vehicles: A Review](https://mdpi-res.com/d_attachment/sensors/sensors-21-02140/article_deploy/sensors-21-02140-v2.pdf?version=1616339580) (2021)
+
+
 #### Datasets
 * [KITTI-360: A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D](https://arxiv.org/pdf/2109.13410v1.pdf)
   * [Vision meets Robotics: The KITTI Dataset](http://www.cvlibs.net/publications/Geiger2013IJRR.pdf)
