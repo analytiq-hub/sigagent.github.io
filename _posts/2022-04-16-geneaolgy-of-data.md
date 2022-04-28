@@ -180,3 +180,8 @@ The setup for serialization is as follows:
 </p>
 
 * ... Or, you could save state to disk across process runs (This is more similar to sending it one time)
+
+<p align="center">
+<img src="/src/diagrams/serialization_to_disk.png" width="350" height="250"/>
+</p>
+
