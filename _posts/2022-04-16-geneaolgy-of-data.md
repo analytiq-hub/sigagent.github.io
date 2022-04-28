@@ -164,4 +164,17 @@ Limitations of XML:
 - Difficult to balance end bracket by humans
 - Not size efficient
 
-In robotics, XML is used by ROS (Robot OS), and by the Gazebo simulator. 
+In robotics, XML is used by ROS (Robot OS), and by the Gazebo simulator.
+
+# Object Serialization
+
+The setup for serialization is as follows:
+* Assume we have an object with embedded pointers
+* We want to pass it to another process
+  * One time
+  * Or, many times, repeatedly
+* The process1 CPU could be big endian, while the process 2 CPU could be little endian
+
+<p align="center">
+<img src="/src/diagrams/serialization.png" width="350" height="250"/>
+</p>
