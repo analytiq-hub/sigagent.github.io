@@ -178,3 +178,5 @@ The setup for serialization is as follows:
 <p align="center">
 <img src="/src/diagrams/serialization.png" width="350" height="250"/>
 </p>
+
+* ... Or, you could save state to disk across process runs (This is more similar to sending it one time)
