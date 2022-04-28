@@ -185,3 +185,33 @@ The setup for serialization is as follows:
 <img src="/src/diagrams/serialization_to_disk.png" width="350" height="250"/>
 </p>
 
+## Pickle
+
+* Used to serialize a python object
+* Can save to disk, restore
+* Relatively compact
+* Self-describing
+
+```python
+# Save a dictionary into a pickle file.
+import pickle
+
+favorite_color = { "lion": "yellow", "kitty": "red" }
+pickle.dump( favorite_color, open( "save.p", "wb" ) )
+
+# Load the dictionary back from the pickle file.
+import pickle
+ 
+favorite_color = pickle.load( open( "save.p", "rb" ) )
+# favorite_color is now { "lion": "yellow", "kitty": "red" }
+```
+
+* Easy to use in python
+* Mostly for saving/restoring objects to disk 
+* Not really for inter-process communication
+* A bit inefficient
+* Python->Python only
+* Careful w/ Python version differences
+
+
+References: [1](https://docs.python.org/3/library/pickle.html) [2](https://pythontic.com/modules/pickle/introduction)
