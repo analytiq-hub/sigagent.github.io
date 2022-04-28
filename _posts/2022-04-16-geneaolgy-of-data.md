@@ -206,6 +206,10 @@ favorite_color = pickle.load( open( "save.p", "rb" ) )
 # favorite_color is now { "lion": "yellow", "kitty": "red" }
 ```
 
+<p align="center">
+<img src="/src/diagrams/pickle.png" width="350" height="250"/>
+</p>
+
 * Easy to use in python
 * Mostly for saving/restoring objects to disk 
 * Not really for inter-process communication
