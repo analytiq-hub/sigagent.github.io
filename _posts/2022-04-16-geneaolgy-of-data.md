@@ -201,7 +201,7 @@ pickle.dump(favorite_color, open("save.pkl", "wb"))
 
 # Load the dictionary back from the pickle file.
 favorite_color1 = pickle.load(open("save.pkl", "rb"))
-# favorite_color1 is now {"lion": "yellow", "kitty": "red"}
+# favorite_color1 is now a clone of favorite_color
 ```
 
 <p align="center">
