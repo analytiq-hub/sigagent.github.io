@@ -25,7 +25,7 @@ We will only be looking at open source data formats. Our assumptions are:
 
 The use case we have in mind is data for robotics and self-driving cars. However, we won't restrict the discussion to these domains. The data storage formats we are considering can apply to many other fields that deal with distributed computing and hundreds of terabytes of data.
 
-# Form follows function
+## Form follows function
 
 There are many uses for data, and storage format is adapted to the function of the data.
 - We make no endorsement of any single storage format!
@@ -50,7 +50,7 @@ We will be talking about:
   - Petastorm (data loader library)
   - Dvc (data repository)
 
-# JSon
+## JSon
 
 [JSon](https://en.wikipedia.org/wiki/JSON) stands for JavaScript Store Object Notation. It has a lightweight syntax, and it is easy to understand by humans. Here is an example JSon file:
 
@@ -90,7 +90,7 @@ What limitations does JSon have?
 
 Being schemaless is both an advantage, and a disadvantage of JSon. More precisely - users can define their own schema for JSon files, but they would have to make their own schema implementation, because JSon does not natively support a concept of schema.
 
-# YAML
+## YAML
 The [YAML](https://en.wikipedia.org/wiki/YAML) format is...
 - Used for configuration
 - … Could be used for data serialization
@@ -122,7 +122,7 @@ What limitations does it have?
 
 A typical difficulty is figuring out the indentation of YAML blocks when the file spans multiple screens that need to be paged-up and paged-down.
 
-# XML
+## XML
 
 - [XML](https://en.wikipedia.org/wiki/XML) is often used when data is sent from a web server to a client.
 - It is a Markup language. You can add attributes to entities.
