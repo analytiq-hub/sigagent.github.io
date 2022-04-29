@@ -126,6 +126,7 @@ title: Machine Learning
 * Georgii Evtushenko: [Multi-GPU Programming](https://medium.com/gpgpu/multi-gpu-programming-6768eeb42e2c)
 * Mihail Eric: [MLOps Is a Mess But That's to be Expected](https://www.mihaileric.com/posts/mlops-is-a-mess/) (2022)
 * Matt Turk: [Red Hot: The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/)
+* A. Kumar, I. Kostrikov, S. Levine: [Should I Use Offline RL or Imitation Learning?](https://bair.berkeley.edu/blog/2022/04/25/rl-or-bc/) (2022)
 
 #### Distributed Training
 * Medium: [Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255), Thomas Wolf (2018)
