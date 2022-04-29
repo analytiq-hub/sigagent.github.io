@@ -188,10 +188,15 @@ The setup for serialization is as follows:
 ## Pickle
 
 * Used to serialize a python object
-* Can save to disk, restore
-* Relatively compact
-* Self-describing
+* Can save to disk, restore from disk
+* Format is relatively compact
+* And format is self-describing
 
+<p align="center">
+<img src="/src/diagrams/pickle.png" width="350" height="250"/>
+</p>
+
+Example:
 ```python
 # Save a dictionary into a pickle file.
 import pickle
@@ -204,10 +209,6 @@ favorite_color1 = pickle.load(open("save.pkl", "rb"))
 # favorite_color1 is now a clone of favorite_color
 ```
 
-<p align="center">
-<img src="/src/diagrams/pickle.png" width="350" height="250"/>
-</p>
-
 The pickle format is
 * Only supported in Python
 * Easy to use
@@ -217,3 +218,28 @@ The pickle format is
 * Be careful when writing from one version of Python, and reading from a different version!
 
 References: [1](https://docs.python.org/3/library/pickle.html) [2](https://pythontic.com/modules/pickle/introduction)
+
+## NPZ
+
+* Available in the Python numpy module only
+* It is similar to pickle, but for saving multiple objects
+
+<p align="center">
+<img src="/src/diagrams/pickle.png" width="350" height="250"/>
+</p>
+
+Example:
+```python
+>>> x = np.arange(10)
+>>> y = np.sin(x)
+>>> outfile = TemporaryFile()
+>>> np.savez(outfile, x=x, y=y)
+>>> outfile.seek(0)
+>>> npzfile = np.load(outfile)
+>>> npzfile.files
+['y', 'x']
+>>> npzfile['x']
+array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])
+```
+
+References: [1](https://docs.scipy.org/doc/numpy-1.9.3/reference/generated/numpy.savez.html)
