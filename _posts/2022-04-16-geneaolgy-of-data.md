@@ -196,16 +196,16 @@ The setup for serialization is as follows:
 # Save a dictionary into a pickle file.
 import pickle
 
-favorite_color = { "lion": "yellow", "kitty": "red" }
-pickle.dump( favorite_color, open( "save.p", "wb" ) )
+favorite_color = {"lion": "yellow", "kitty": "red"}
+pickle.dump(favorite_color, open("save.pkl", "wb"))
 ```
 
 ```python
 # Load the dictionary back from the pickle file.
 import pickle
  
-favorite_color = pickle.load( open( "save.p", "rb" ) )
-# favorite_color is now { "lion": "yellow", "kitty": "red" }
+favorite_color = pickle.load(open("save.pkl", "rb"))
+# favorite_color is now {"lion": "yellow", "kitty": "red"}
 ```
 
 <p align="center">
