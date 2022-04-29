@@ -208,12 +208,12 @@ favorite_color1 = pickle.load(open("save.pkl", "rb"))
 <img src="/src/diagrams/pickle.png" width="350" height="250"/>
 </p>
 
-* Easy to use in python
+The pickle format is
+* Only supported in Python
+* Easy to use
 * Mostly for saving/restoring objects to disk 
 * Not really for inter-process communication
 * A bit inefficient
-* Python->Python only
-* Careful w/ Python version differences
-
+* Be careful when writing from one version of Python, and reading from a different version!
 
 References: [1](https://docs.python.org/3/library/pickle.html) [2](https://pythontic.com/modules/pickle/introduction)
