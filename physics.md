@@ -23,7 +23,7 @@ title: Physics
     * [Lecture 1](https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e) Newton's laws
     * [Lecture 2](https://www.youtube.com/watch?v=h96SW0PfQcg&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=2) Principle of least action. Lagrangian.
     * [Lecture 3](https://www.youtube.com/watch?v=3YARPNZrcIY&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=3). Proof of the principle of least action. Equivalence with Newton's laws. Examples.
-    * [Lecture 4](https://www.youtube.com/watch?v=FZDy_Dccv4s&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=4). Lagrangian in polar coordinates. Continuous symmetries and the Noether Theorem.
+    * [Lecture 4](https://www.youtube.com/watch?v=FZDy_Dccv4s&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=4). Lagrangian in polar coordinates. Continuous symmetries and the Noether Theorem. Conservation of energy. Hamiltonian.
     * [Lecture 5](https://www.youtube.com/watch?v=3YARPNZrcIY&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=5) Three examples: Pendulum, double pendulum and ...
  * Quantum Entanglements, Part 1
    * [Lecture 1](https://www.youtube.com/watch?v=0Eeuqh9QfNI) Classical bits. States in classical Physics. Transformations. Reversibility. Computability of states and transformations. Vectors, matrices.
