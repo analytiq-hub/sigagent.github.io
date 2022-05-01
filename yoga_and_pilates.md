@@ -17,6 +17,8 @@ title: Yoga and Pilates
   * Christine Khuri
     * [30 Min Ab Workout](https://www.youtube.com/watch?v=AdWyo_3KrfA) (2017)
     * [20 Min Ultimate Ab Workout](https://www.youtube.com/watch?v=q6NIWNnvOK0) (2017)
+* Handstand
+  * Celest Pereira: [How to do a Handstand for Beginners Step by Step at Home](https://www.youtube.com/watch?v=8jXiQMh6Sc0) (2017)
 * Pilates
   * Action Jaquelyn: [Full Length Total Body Barre Workout - 40 Minutes](https://www.youtube.com/watch?v=NtwAHL_F2p8&t=1602s)
 * Interviews
