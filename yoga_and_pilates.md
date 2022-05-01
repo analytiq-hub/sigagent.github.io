@@ -7,6 +7,7 @@ title: Yoga and Pilates
 * Kino MacGregor
   * [The Power of Ashtanga Yoga](https://www.amazon.com/Power-Ashtanga-Yoga-Developing-Flexibility-ebook/dp/B019G6NM1W)
   * [The Power of Ashtanga Yoga II: The Intermediate Series](https://www.amazon.com/Power-Ashtanga-Yoga-II-Intermediate/dp/1611801591)
+* Gert van Leeuwen: [Yoga Critical Alignment](https://www.amazon.com/Yoga-Critical-Alignment-Intelligent-Sequencing/dp/1611800633)
 
 #### Videos
 * Hip flexibility
