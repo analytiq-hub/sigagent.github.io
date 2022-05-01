@@ -19,10 +19,13 @@ title: Yoga and Pilates
     * [20 Min Ultimate Ab Workout](https://www.youtube.com/watch?v=q6NIWNnvOK0) (2017)
 * Handstand
   * Celest Pereira: [How to do a Handstand for Beginners Step by Step at Home](https://www.youtube.com/watch?v=8jXiQMh6Sc0) (2017)
+* Knee
+  * Stu Girling: [Yoga and Knee Pain/Injury/Relief Exercises](https://www.youtube.com/watch?v=S6g7M2FDFgA)
 * Pilates
   * Action Jaquelyn: [Full Length Total Body Barre Workout - 40 Minutes](https://www.youtube.com/watch?v=NtwAHL_F2p8&t=1602s)
 * Interviews
   * London Real: [Interview with Kino MacGregor](https://www.youtube.com/watch?v=fjxhW4VnIxA&t=817s)
+  * Stu Girling: [The Yoga Anatomy Interview with David Keil](https://www.youtube.com/watch?v=m0Eq5qmIQgU&t=425s)
 
 #### Other
 * [Philosophy](philosophy.md)
