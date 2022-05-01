@@ -74,7 +74,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Computational Topology](computational_topology.md)
 * [Writing Blog Posts](writing_blog_posts.md)
 * [Writing Documentation](writing_documentation.md)
-* [Yoga and Pilates)[yoga_and_pilates.md]
+* [Yoga and Pilates](yoga_and_pilates.md]
 
 ## My other web sites
 * [lex-wiki.org](http://lex-wiki.org), Andrei's local wiki for Lexington
