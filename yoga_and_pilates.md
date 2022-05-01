@@ -11,6 +11,9 @@ title: Yoga and Pilates
 * Daniel Lacerda: [2,100 Asanas: The Complete Yoga Poses](https://www.amazon.com/100-Asanas-Complete-Yoga-Poses/dp/1631910108)
 
 #### Videos
+* Interviews
+  * London Real: [Interview with Kino MacGregor](https://www.youtube.com/watch?v=fjxhW4VnIxA&t=817s)
+  * Stu Girling: [The Yoga Anatomy Interview with David Keil](https://www.youtube.com/watch?v=m0Eq5qmIQgU&t=425s)
 * Hip flexibility
   * Move with Nicole: [30m stretch routine](https://www.youtube.com/watch?v=RvCntPg7oPE) (2021)
 * Abs
@@ -23,9 +26,6 @@ title: Yoga and Pilates
   * Stu Girling: [Yoga and Knee Pain/Injury/Relief Exercises](https://www.youtube.com/watch?v=S6g7M2FDFgA)
 * Pilates
   * Action Jaquelyn: [Full Length Total Body Barre Workout - 40 Minutes](https://www.youtube.com/watch?v=NtwAHL_F2p8&t=1602s)
-* Interviews
-  * London Real: [Interview with Kino MacGregor](https://www.youtube.com/watch?v=fjxhW4VnIxA&t=817s)
-  * Stu Girling: [The Yoga Anatomy Interview with David Keil](https://www.youtube.com/watch?v=m0Eq5qmIQgU&t=425s)
 
 #### Other
 * [Philosophy](philosophy.md)
