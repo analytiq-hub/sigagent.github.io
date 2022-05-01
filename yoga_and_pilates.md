@@ -8,6 +8,7 @@ title: Yoga and Pilates
   * [The Power of Ashtanga Yoga](https://www.amazon.com/Power-Ashtanga-Yoga-Developing-Flexibility-ebook/dp/B019G6NM1W)
   * [The Power of Ashtanga Yoga II: The Intermediate Series](https://www.amazon.com/Power-Ashtanga-Yoga-II-Intermediate/dp/1611801591)
 * Gert van Leeuwen: [Yoga Critical Alignment](https://www.amazon.com/Yoga-Critical-Alignment-Intelligent-Sequencing/dp/1611800633)
+* Daniel Lacerda: [2,100 Asanas: The Complete Yoga Poses](https://www.amazon.com/100-Asanas-Complete-Yoga-Poses/dp/1631910108)
 
 #### Videos
 * Hip flexibility
