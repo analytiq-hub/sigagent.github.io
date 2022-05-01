@@ -19,6 +19,8 @@ title: Yoga and Pilates
     * [20 Min Ultimate Ab Workout](https://www.youtube.com/watch?v=q6NIWNnvOK0) (2017)
 * Pilates
   * Action Jaquelyn: [Full Length Total Body Barre Workout - 40 Minutes](https://www.youtube.com/watch?v=NtwAHL_F2p8&t=1602s)
+* Interviews
+  * London Real: [Interview with Kino MacGregor](https://www.youtube.com/watch?v=fjxhW4VnIxA&t=817s)
 
 #### Other
 * [Philosophy](philosophy.md)
