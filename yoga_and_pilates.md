@@ -4,6 +4,9 @@ mathjax: true
 title: Yoga and Pilates
 ---
 #### Books
+* Kino MacGregor
+  * [The Power of Ashtanga Yoga](https://www.amazon.com/Power-Ashtanga-Yoga-Developing-Flexibility-ebook/dp/B019G6NM1W)
+  * [The Power of Ashtanga Yoga II: The Intermediate Series](https://www.amazon.com/Power-Ashtanga-Yoga-II-Intermediate/dp/1611801591)
 
 #### Videos
 * Hip flexibility
