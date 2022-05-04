@@ -7,6 +7,7 @@ title: Literature
 
 #### Talks
 * [Cafeneaua filosofică 65: Infernul după Gogol](https://www.youtube.com/watch?v=oUfvL3bnFQM) (2022)
+* [Cafeneaua filosofică 55: Strategii ale subversiunii: Nicolae Steinhardt și Ion D. Sârbu](https://www.youtube.com/watch?v=rmZlWIZCbhc&t=2658s) (2022)
 
 #### Links
 * [Literature](literature.md)
