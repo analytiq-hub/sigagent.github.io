@@ -62,6 +62,8 @@ title: Machine Learning
 * [OpenReview](https://openreview.net/)
 
 #### Languages
+* Jax
+  * EI Seminar: Matthew Johnson: [JAX: accelerated ML research via composable function transformations](https://www.youtube.com/watch?v=mVf3HJ6gNDc)
 * PyTorch
   * [Deep Learning with PyTorch](https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264), Stevens, Antiga, Viehmann (2020), [github](https://github.com/deep-learning-with-pytorch/dlwpt-code)
   * [CS224N](https://web.stanford.edu/class/cs224n/): [PyTorch Tutorial](https://web.stanford.edu/class/cs224n/materials/CS224N_PyTorch_Tutorial.html), [ipynb](https://web.stanford.edu/class/cs224n/materials/CS224N PyTorch Tutorial.ipynb), Dilara Soylu (Winter '21), Jupyter notebooks [fork](https://github.com/Bitdribble/cs224n)
