@@ -346,3 +346,6 @@ This is how AVRO encoding looks like:
 
 
 References: [1](https://en.wikipedia.org/wiki/Protocol_Buffers) [2](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
+
+AVRO pluses and minuses:
+- In Protobuf, every field in a record is tagged, whereas in AVRO, the entire record, file or network connection is tagged with a schema version.
