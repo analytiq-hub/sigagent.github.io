@@ -295,5 +295,11 @@ message Person {
 }
 ```
 
+This image shows how a protobuf message is encoded:
+<p align="center">
+<img src="/src/images/protobuf_encoding.png" width="350" height="250"/>
+</p>
+
+
 References: [1](https://en.wikipedia.org/wiki/Protocol_Buffers) [2](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
 
