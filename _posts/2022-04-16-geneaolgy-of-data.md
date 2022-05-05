@@ -303,3 +303,38 @@ This image shows how a protobuf message is encoded:
 
 References: [1](https://en.wikipedia.org/wiki/Protocol_Buffers) [2](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
 
+Here are the pluses and minuses of protobufs:
+- Efficient encoding
+- Supports schema evolution
+… ... But version changes can be difficult if not properly designed
+
+## AVRO
+
+- Similar to protobuf
+- AVRO from Apache (protobuf from Google)
+- Supports schema evolution
+- You can actually give two different schemas to the Avro parser, and it uses [resolution rules](https://avro.apache.org/docs/1.7.2/api/java/org/apache/avro/io/parsing/doc-files/parsing.html) to translate data from the writer schema into the reader schema.
+- … But version changes can be difficult
+
+<p align="center">
+<img src="/src/diagrams/serialization.png" width="350" height="250"/>
+</p>
+
+Data (in JSON):
+```json
+{
+    "userName": "Martin",
+    "favouriteNumber": 1337,
+    "interests": ["daydreaming", "hacking"]
+}
+```
+
+AVRO Syntax:
+
+```
+record Person {
+    string               userName;
+    union { null, long } favouriteNumber;
+    array<string>        interests;
+}
+```
