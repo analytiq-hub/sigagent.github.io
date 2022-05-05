@@ -349,3 +349,16 @@ References: [1](https://en.wikipedia.org/wiki/Protocol_Buffers) [2](https://mart
 
 AVRO pluses and minuses:
 - In Protobuf, every field in a record is tagged, whereas in AVRO, the entire record, file or network connection is tagged with a schema version.
+
+
+# The Relational Database Architecture
+
+- Tables stored in multiple files
+- Indices for faster table lookup
+- Transaction Log, for atomic transactions
+- Catalog
+- Process Engine (read,write,log,checkpoint)
+
+<p align="center">
+<img src="/src/images/relational_db_architecture.png" width="350" height="250"/>
+</p>
