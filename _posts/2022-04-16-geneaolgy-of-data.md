@@ -288,7 +288,6 @@ For example, to express the following Json object:
 you would define the following protobuf syntax:
 ```
 // Protobuf Syntax:
-
 message Person {
     required string userName        = 1;
     optional int64  favouriteNumber = 2;
