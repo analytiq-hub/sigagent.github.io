@@ -338,3 +338,10 @@ record Person {
     array<string>        interests;
 }
 ```
+
+<p align="center">
+<img src="/src/images/avro_encoding.png" width="350" height="250"/>
+</p>
+
+
+References: [1](https://en.wikipedia.org/wiki/Protocol_Buffers) [2](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
