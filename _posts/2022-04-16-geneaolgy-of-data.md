@@ -254,6 +254,7 @@ This is a serialization technology that has been open sourced by Google.
 <img src="/src/diagrams/serialization.png" width="350" height="250"/>
 </p>
 * Syntax is separate from serialized data. Here is an example syntax:
+
 ```
 //polyline.proto
 syntax = "proto2";
@@ -275,4 +276,25 @@ message Polyline {
   optional string label = 2;
 }
 ```
+
+For example, to express the following Json object:
+```json
+{
+    "userName": "Martin",
+    "favouriteNumber": 1337,
+    "interests": ["daydreaming", "hacking"]
+}
+```
+you would define the following protobuf syntax:
+```
+// Protobuf Syntax:
+
+message Person {
+    required string userName        = 1;
+    optional int64  favouriteNumber = 2;
+    repeated string interests        = 3;
+}
+```
+
+References: [1](https://en.wikipedia.org/wiki/Protocol_Buffers) [2](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
 
