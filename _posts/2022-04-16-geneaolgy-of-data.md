@@ -339,6 +339,7 @@ record Person {
 }
 ```
 
+This is how AVRO encoding looks like:
 <p align="center">
 <img src="/src/images/avro_encoding.png" width="350" height="250"/>
 </p>
