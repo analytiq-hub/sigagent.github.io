@@ -243,3 +243,36 @@ array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])
 ```
 
 References: [1](https://docs.scipy.org/doc/numpy-1.9.3/reference/generated/numpy.savez.html)
+
+## Protobuf
+
+This is a serialization technology that has been open sourced by Google.
+
+* It is language independent
+* Both Process1, Process2 have syntax, and exchange only data.
+<p align="center">
+<img src="/src/diagrams/serialization.png" width="350" height="250"/>
+</p>
+* Syntax is separate from serialized data. Here is an example syntax:
+```
+//polyline.proto
+syntax = "proto2";
+
+message Point {
+  required int32 x = 1;
+  required int32 y = 2;
+  optional string label = 3;
+}
+
+message Line {
+  required Point start = 1;
+  required Point end = 2;
+  optional string label = 3;
+}
+
+message Polyline {
+  repeated Point point = 1;
+  optional string label = 2;
+}
+```
+
