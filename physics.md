@@ -10,6 +10,8 @@ title: Physics
 * [Quantum Mechanics in Simple Matrix Form](https://www.amazon.com/Quantum-Mechanics-Simple-Matrix-Physics/dp/0486445305), Thomas F. Jordan (1986). An exposition in the simplest operator form, starting from 2x2 matrices, and avoiding any discussion of eigenvalues, hermitian matrices, etc.
 * [A Modern Approach to Quantum Mechanics](https://www.amazon.com/Modern-Approach-Quantum-Mechanics/dp/1891389785), John S. Townsend (2012)
 * [Group Theory and Physics](https://www.amazon.com/Group-Theory-Physics-S-Sternberg/dp/0521558859), S. Sternberg (1994)
+* [A Mathematical Companion to Quantum Mechanics](https://www.amazon.com/Mathematical-Companion-Quantum-Mechanics-Physics/dp/0486826899), S. Sternberg (2019)
+* [Physics from Symmetry](https://www.worldcat.org/title/physics-from-symmetry/oclc/910917227), J. Schwichtenberg (2015)
 
 #### Statistical Mechanics
 * [Statistical Mechanics](https://www.amazon.com/Statistical-Mechanics-2nd-Kerson-Huang/dp/0471815187), Kerson Huang (1987)
