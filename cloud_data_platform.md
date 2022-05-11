@@ -103,6 +103,9 @@ title: Cloud Data Platform
     * [Dive deep into Amazon SageMaker Studio Notebooks architecture](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-amazon-sagemaker-studio-notebook-architecture/) (2021)
     * [Simplify data annotation and model training tasks with Amazon Rekognition Custom Labels](https://aws.amazon.com/blogs/machine-learning/simplify-data-annotation-and-model-training-tasks-with-amazon-rekognition-custom-labels/) (2021)
     * [Prepare data from Snowflake for machine learning with Amazon SageMaker Data Wrangler](https://aws.amazon.com/blogs/machine-learning/prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler/) (2021)
+    * [Implementing a custom labeling GUI with built-in processing logic with Amazon SageMaker Ground Truth](https://aws.amazon.com/blogs/machine-learning/implementing-a-custom-labeling-gui-with-built-in-processing-logic-with-amazon-sagemaker-ground-truth/) (2021)
+    * [Chaining Amazon SageMaker Ground Truth jobs to label progressively](https://aws.amazon.com/blogs/machine-learning/chaining-amazon-sagemaker-ground-truth-jobs-to-label-progressively/) (2021)
+    * [Introducing Amazon SageMaker Reinforcement Learning Components for open-source Kubeflow pipelines](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-reinforcement-learning-components-for-open-source-kubeflow-pipelines/) (2021)
 * Petastorm
   * [Docs](https://petastorm.readthedocs.io/en/latest/index.html)
   * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
