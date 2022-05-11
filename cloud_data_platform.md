@@ -106,6 +106,10 @@ title: Cloud Data Platform
     * [Implementing a custom labeling GUI with built-in processing logic with Amazon SageMaker Ground Truth](https://aws.amazon.com/blogs/machine-learning/implementing-a-custom-labeling-gui-with-built-in-processing-logic-with-amazon-sagemaker-ground-truth/) (2021)
     * [Chaining Amazon SageMaker Ground Truth jobs to label progressively](https://aws.amazon.com/blogs/machine-learning/chaining-amazon-sagemaker-ground-truth-jobs-to-label-progressively/) (2021)
     * [Introducing Amazon SageMaker Reinforcement Learning Components for open-source Kubeflow pipelines](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-reinforcement-learning-components-for-open-source-kubeflow-pipelines/) (2021)
+    * [Architect and build the full machine learning lifecycle with AWS: An end-to-end Amazon SageMaker demo](https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/) (2021)
+    * [Managing your machine learning lifecycle with MLflow and Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/) (2021)
+    * [Labeling mixed-source, industrial datasets with Amazon SageMaker Ground Truth](https://aws.amazon.com/blogs/machine-learning/labeling-mixed-source-industrial-datasets-with-amazon-sagemaker-ground-truth/) (2020)
+    * [Labeling data for 3D object tracking and sensor fusion in Amazon SageMaker Ground Truth](https://aws.amazon.com/blogs/machine-learning/labeling-data-for-3d-object-tracking-and-sensor-fusion-in-amazon-sagemaker-ground-truth/) (2021)
 * Petastorm
   * [Docs](https://petastorm.readthedocs.io/en/latest/index.html)
   * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
