@@ -96,6 +96,8 @@ title: Cloud Data Platform
 * Sagemaker
   * C. Fregly, Antje Barth: [Data Science on AWS](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391)
   * [Label 3D Point Clouds for Machine Learning Training Data with Amazon SageMaker Ground Truth](https://www.youtube.com/watch?v=dQGJZucBPsg) (2020)
+  * Blog
+    * Create and manage Amazon EMR Clusters from SageMaker Studio to run interactive Spark and ML workloads [part 1](https://aws.amazon.com/blogs/machine-learning/part-1-create-and-manage-amazon-emr-clusters-from-sagemaker-studio-to-run-interactive-spark-and-ml-workloads/) [part 2](https://aws.amazon.com/blogs/machine-learning/part-2-create-and-manage-amazon-emr-clusters-from-sagemaker-studio-to-run-interactive-spark-and-ml-workloads/) (2021)
 * Petastorm
   * [Docs](https://petastorm.readthedocs.io/en/latest/index.html)
   * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
