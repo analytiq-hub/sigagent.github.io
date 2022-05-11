@@ -99,6 +99,7 @@ title: Cloud Data Platform
   * Blog
     * Create and manage Amazon EMR Clusters from SageMaker Studio to run interactive Spark and ML workloads [part 1](https://aws.amazon.com/blogs/machine-learning/part-1-create-and-manage-amazon-emr-clusters-from-sagemaker-studio-to-run-interactive-spark-and-ml-workloads/) [part 2](https://aws.amazon.com/blogs/machine-learning/part-2-create-and-manage-amazon-emr-clusters-from-sagemaker-studio-to-run-interactive-spark-and-ml-workloads/) (2021)
     * [Chain custom Amazon SageMaker Ground Truth jobs for image processing](https://aws.amazon.com/blogs/machine-learning/chain-custom-amazon-sagemaker-ground-truth-jobs-for-image-processing/) (2021)
+    * [Announcing the Amazon S3 plugin for PyTorch](https://aws.amazon.com/blogs/machine-learning/announcing-the-amazon-s3-plugin-for-pytorch/) (2021)
 * Petastorm
   * [Docs](https://petastorm.readthedocs.io/en/latest/index.html)
   * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
