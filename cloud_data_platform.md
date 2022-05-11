@@ -102,6 +102,7 @@ title: Cloud Data Platform
     * [Announcing the Amazon S3 plugin for PyTorch](https://aws.amazon.com/blogs/machine-learning/announcing-the-amazon-s3-plugin-for-pytorch/) (2021)
     * [Dive deep into Amazon SageMaker Studio Notebooks architecture](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-amazon-sagemaker-studio-notebook-architecture/) (2021)
     * [Simplify data annotation and model training tasks with Amazon Rekognition Custom Labels](https://aws.amazon.com/blogs/machine-learning/simplify-data-annotation-and-model-training-tasks-with-amazon-rekognition-custom-labels/) (2021)
+    * [Prepare data from Snowflake for machine learning with Amazon SageMaker Data Wrangler](https://aws.amazon.com/blogs/machine-learning/prepare-data-from-snowflake-for-machine-learning-with-amazon-sagemaker-data-wrangler/) (2021)
 * Petastorm
   * [Docs](https://petastorm.readthedocs.io/en/latest/index.html)
   * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
