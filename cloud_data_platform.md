@@ -25,6 +25,9 @@ title: Cloud Data Platform
   * Forrester: [Databricks delivers nearly $29 million in economic benefits and pays for itself in less than six months](https://databricks.com/blog/2020/04/28/new-study-databricks-delivers-nearly-29-million-in-economic-benefits-and-pays-for-itself-in-less-than-six-months.html) (2020) (commissioned by Databricks)
   * [Accelerating Data Ingestion with Databricks Autoloader](https://www.youtube.com/watch?v=8a38Fv9cpd8) (2021)
   * [Notebook gallery](https://databricks.com/discover/notebook-gallery)
+  * SSO
+    * [AWS single sign-on (SSO)](https://docs.databricks.com/administration-guide/users-groups/single-sign-on/aws.html)
+    * [Configure your AWS account (cross-account IAM role)](https://docs.databricks.com/administration-guide/account-settings/aws-accounts.html)
 * AWS
   * [EMR](https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks.html)
     * [Amazon EMR Deep Dive and Best Practices - AWS Online Tech Talks](https://www.youtube.com/watch?v=dU40df0Suoo)
