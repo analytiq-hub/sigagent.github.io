@@ -17,6 +17,10 @@ title: Physics
 * [Statistical Mechanics](https://www.amazon.com/Statistical-Mechanics-2nd-Kerson-Huang/dp/0471815187), Kerson Huang (1987)
 * [Statistical Mechanics of Neural Networks](https://www.amazon.com/Statistical-Mechanics-Neural-Networks-Haiping/dp/9811675694), H. Huang (2021)
 
+#### Geometric Quantization
+* Wikipedia: [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization)
+* W.G. Ritter: [Geometric Quantization](https://arxiv.org/pdf/math-ph/0208008.pdf) (2018)
+
 #### Lecture Notes
 * [Intermediate Classical Mechanics](http://www.physics.usu.edu/torre/3550_Fall_2013/), Charles Torre (2013)
 
