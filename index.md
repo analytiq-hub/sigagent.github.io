@@ -46,6 +46,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Automated Theorem Proving](math/automated_theorem_proving.md)
   * [High School Problems](math/high_school.md)
   * [High School Problem Hints and Solutions](math/high_school_solutions.md)
+  * [Representation Theory](math/representation_theory.md)
   * [Topology](math/topology.md)
 * [Meta Learning](meta_learning.md)
 * [MLOps](mlops.md)

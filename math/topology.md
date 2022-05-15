@@ -18,6 +18,7 @@ This is a very limited listing of books I read as a student, and does not includ
 * Math
   * [Abstract Nonsense](math/abstract_nonsense.md)
   * [Automated Theorem Proving](math/automated_theorem_proving.md)
+  * [Representation Theory](math/representation_theory.md)
   * [Topology](math/topology.md)
 * [Physics](physics.md)
 
