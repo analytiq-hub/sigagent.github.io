@@ -1,13 +1,11 @@
 ---
 layout: page
 mathjax: true
-title: Algebraic Topology
+title: Algebra
 ---
 
 #### Books
-* Algebraic Geometry
-  * Robin Hartshorne: [Algebraic Geometry](https://www.amazon.com/Algebraic-Geometry-Graduate-Texts-Mathematics/dp/0387902449), 2nd ed (1997)
-  * David Mumford: [The Red Book of Varieties and Schemes](https://www.amazon.com/Red-Book-Varieties-Schemes-Mathematics/dp/354063293X), 2nd edition
+* M.F. Atiyah, I.G. MacDonald: [Introduction to Commutative Algebra](https://www.amazon.com/Introduction-Commutative-Algebra-Addison-Wesley-Mathematics/dp/0201407515)
 
 #### Links
 * Math
