@@ -43,6 +43,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Market Trading](market_trading.md)
 * Math
   * [Abstract Nonsense](math/abstract_nonsense.md)
+  * [Algebraic Geometry](math/algebraic_geometry.md)
   * [Automated Theorem Proving](math/automated_theorem_proving.md)
   * [High School Problems](math/high_school.md)
   * [High School Problem Hints and Solutions](math/high_school_solutions.md)
