@@ -6,6 +6,8 @@ title: Algebra
 
 #### Books
 * M.F. Atiyah, I.G. MacDonald: [Introduction to Commutative Algebra](https://www.amazon.com/Introduction-Commutative-Algebra-Addison-Wesley-Mathematics/dp/0201407515)
+* Serge Lang: [Algebra](https://www.amazon.com/Algebra-Graduate-Texts-Mathematics-Serge/dp/038795385X/)
+* Hungerford: [Algebra](https://www.amazon.com/Algebra-Graduate-Texts-Mathematics-v/dp/0387905189)
 
 #### Links
 * Math
