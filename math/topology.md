@@ -8,7 +8,7 @@ This is a very limited listing of books I read as a student, and does not includ
 
 #### Books
 * Algebraic Topology
-  * Albrech Dold: [Lectures on Algebraic. Topology](https://www.amazon.com/Lectures-Algebraic-Topology-Classics-Mathematics/dp/3540586601)
+  * Albrech Dold: [Lectures on Algebraic Topology](https://www.amazon.com/Lectures-Algebraic-Topology-Classics-Mathematics/dp/3540586601)
   * Milnor, Stasheff: [Characteristic Classes](https://www.amazon.com/Characteristic-Classes-AM-76-John-Milnor/dp/0691081220/) (1976)
 * Differential Topology, Morse Theory
   * John W. Milnor: [Topology from the Differentiable Viewpoint](https://www.amazon.com/Topology-Differentiable-Viewpoint-Willard-Milnor/dp/0691048339)
