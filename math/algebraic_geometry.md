@@ -8,6 +8,7 @@ title: Algebraic Topology
 * Algebraic Geometry
   * Robin Hartshorne: [Algebraic Geometry](https://www.amazon.com/Algebraic-Geometry-Graduate-Texts-Mathematics/dp/0387902449), 2nd ed (1997)
   * David Mumford: [The Red Book of Varieties and Schemes](https://www.amazon.com/Red-Book-Varieties-Schemes-Mathematics/dp/354063293X), 2nd edition
+  * Igor R. Shafarevich: Basic Algebraic Geometry [1: Varieties in Projective Space](https://www.amazon.com/Basic-Algebraic-Geometry-Varieties-Projective/dp/364242726X/), [2: Schemes and Complex Manifolds](https://www.amazon.com/Basic-Algebraic-Geometry-Schemes-Manifolds/dp/366251401X) (2013)
 
 #### Links
 * Math
