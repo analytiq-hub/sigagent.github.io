@@ -7,19 +7,22 @@ title: Physics
 * [Classical Mechanics](https://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/B003I03F42), Charles Taylor (2005). Easy to read, well explained, at the level of 2nd undergrad course in mechanics. Reputed to have the best explanation of the Lagrangian. Replete with well picked exercises. Requires a bit of calculus - derivatives, integrals, very basic PDEs. No differential geometry required.
 * [Quantum Field Theory for the Gifted Amateur](https://www.amazon.com/Quantum-Field-Theory-Gifted-Amateur/dp/019969933X), T. Lancaster, S. J. Blundell (2014)
 * [The Road to Reality](https://www.amazon.com/Road-Reality-Complete-Guide-Universe/dp/0679776311), Roger Penrose (2007). Great companion to other more in-depth books, explains how all the parts of physics 'fit together' in the larger theory. Requires simple understanding of differential geometry (and is in fact a great companion to any rigorous book on differential geometry). I've started with the chapter on Lagrangian and Hamiltonian mechanics, and paired it with the Taylor textbook.
-* [Quantum Mechanics in Simple Matrix Form](https://www.amazon.com/Quantum-Mechanics-Simple-Matrix-Physics/dp/0486445305), Thomas F. Jordan (1986). An exposition in the simplest operator form, starting from 2x2 matrices, and avoiding any discussion of eigenvalues, hermitian matrices, etc.
-* [A Modern Approach to Quantum Mechanics](https://www.amazon.com/Modern-Approach-Quantum-Mechanics/dp/1891389785), John S. Townsend (2012)
+* [A Modern Approach to Quantum Mechanics](https://www.amazon.com/Modern-Approach-Quantum-Mechanics/dp/1891389785), John S. Townsend (2021)
 * [Group Theory and Physics](https://www.amazon.com/Group-Theory-Physics-S-Sternberg/dp/0521558859), S. Sternberg (1994)
-* [A Mathematical Companion to Quantum Mechanics](https://www.amazon.com/Mathematical-Companion-Quantum-Mechanics-Physics/dp/0486826899), S. Sternberg (2019)
-* [Physics from Symmetry](https://www.worldcat.org/title/physics-from-symmetry/oclc/910917227), J. Schwichtenberg (2015)
 
 #### Statistical Mechanics
 * [Statistical Mechanics](https://www.amazon.com/Statistical-Mechanics-2nd-Kerson-Huang/dp/0471815187), Kerson Huang (1987)
 * [Statistical Mechanics of Neural Networks](https://www.amazon.com/Statistical-Mechanics-Neural-Networks-Haiping/dp/9811675694), H. Huang (2021)
 
+#### Quantum Mechanics
+* [A Mathematical Companion to Quantum Mechanics](https://www.amazon.com/Mathematical-Companion-Quantum-Mechanics-Physics/dp/0486826899), S. Sternberg (2019)
+* [Physics from Symmetry](https://www.worldcat.org/title/physics-from-symmetry/oclc/910917227), J. Schwichtenberg (2015)
+* [Quantum Mechanics in Simple Matrix Form](https://www.amazon.com/Quantum-Mechanics-Simple-Matrix-Physics/dp/0486445305), Thomas F. Jordan (1986). An exposition in the simplest operator form, starting from 2x2 matrices, and avoiding any discussion of eigenvalues, hermitian matrices, etc.
+
 #### Geometric Quantization
 * Wikipedia: [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization)
 * W.G. Ritter: [Geometric Quantization](https://arxiv.org/pdf/math-ph/0208008.pdf) (2018)
+* J. Baez: [Geometric Quantization](https://math.ucr.edu/home/baez/quantization.html) (2018)
 
 #### Lecture Notes
 * [Intermediate Classical Mechanics](http://www.physics.usu.edu/torre/3550_Fall_2013/), Charles Torre (2013)
