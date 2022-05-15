@@ -25,3 +25,10 @@ title: Math (Abstract Nonsense)
 
 #### Blogs
 * Peter Woit: [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/)
+
+#### Links
+* Math
+  * [Abstract Nonsense](math/abstract_nonsense.md)
+  * [Automated Theorem Proving](math/automated_theorem_proving.md)
+  * [Topology](math/topology.md)
+* [Physics](physics.md)
