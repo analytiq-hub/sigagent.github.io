@@ -4,7 +4,7 @@ mathjax: true
 title: Topology
 ---
 
-This is a very limited listing of books I read as a student, and does not include more recent material on combinatorial aspects, simplicial sets, model categories, cofibration categories, $$\inf$$-categories.
+This is a very limited listing of books I read as a student, and does not include more recent material on combinatorial aspects, simplicial sets, model categories, cofibration categories, $$\infty$$-categories.
 
 #### Books
 * Algebraic Topology
