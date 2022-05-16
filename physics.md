@@ -39,11 +39,11 @@ title: Physics
     * [Lecture 7](https://www.youtube.com/watch?v=lQIbcV6dQzw&list=PL47F408D36D4CF129&index=7) The Hamiltonian as energy. Divergence. The Liouville theorem. Definition of Poisson bracket.
     * [Lecture 8](https://www.youtube.com/watch?v=oePbj7yrzUQ&list=PL47F408D36D4CF129&index=8) Poisson brackets $$\{F, G\}$$. Poisson brackets in coordinates $q, p$. Derivation of $$\dot{F} = \{F, H\}$$ for the Hamiltonian $$H$$. Symmetries and conservation seen through the Poisson bracket. Angular momentum $$L_x = yp_z - zp_y$$, $$L_y = zp_x - xp_z$$, $$L_z = xp_y - yp_x$$, its Poisson brackets with $$x, y, z$$ and other angular momentum components $$L_x, L_y, L_z$$. The gyroscope. Not mentioned: Poisson brackets also satisfy a Jacoby identity.
     
- * Quantum Entanglements, Part 1
-   * [Lecture 1](https://www.youtube.com/watch?v=0Eeuqh9QfNI) Classical bits. States in classical Physics. Transformations. Reversibility. Computability of states and transformations. Vectors, matrices.
-   * [Lecture 2](https://www.youtube.com/watch?v=VtBRKw1Ab7E&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=21): Electron spin. Complex vector spaces. Bra-kets. Quantum bit. Hermitian matrices as observables.
-   * [Lecture 3](https://www.youtube.com/watch?v=CaTF4QZ94Fk&list=PLF1A950040024A1ED&index=3) Pauli matrices. Spin. Probabilistic interpretation.
-   * [Lecture 4](https://www.youtube.com/watch?v=5vfo512fvlE&t=3220s) Probabilities between any two spin directions. There always exist a direction for which a vector is an eigenvector of measuring spin in that direction. Quantum entagled pair of electrons. How to create an entangled pair.
+  * Quantum Entanglements, Part 1
+    * [Lecture 1](https://www.youtube.com/watch?v=0Eeuqh9QfNI) Classical bits. States in classical Physics. Transformations. Reversibility. Computability of states and transformations. Vectors, matrices.
+    * [Lecture 2](https://www.youtube.com/watch?v=VtBRKw1Ab7E&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=21): Electron spin. Complex vector spaces. Bra-kets. Quantum bit. Hermitian matrices as observables.
+    * [Lecture 3](https://www.youtube.com/watch?v=CaTF4QZ94Fk&list=PLF1A950040024A1ED&index=3) Pauli matrices. Spin. Probabilistic interpretation.
+    * [Lecture 4](https://www.youtube.com/watch?v=5vfo512fvlE&t=3220s) Probabilities between any two spin directions. There always exist a direction for which a vector is an eigenvector of measuring spin in that direction. Quantum entagled pair of electrons. How to create an entangled pair.
 
 #### Surveys
 * [Seminaire Poincare - Information, 2018](http://www.bourbaphy.fr/novembre2018.html)
