@@ -35,9 +35,9 @@ title: Physics
     * [Lecture 3](https://www.youtube.com/watch?v=3YARPNZrcIY&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=3). Proof of the principle of least action. Equivalence with Newton's laws. Examples.
     * [Lecture 4](https://www.youtube.com/watch?v=FZDy_Dccv4s&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=4). Lagrangian in polar coordinates. Continuous symmetries and the Noether Theorem. Conservation of energy. Hamiltonian.
     * [Lecture 5](https://www.youtube.com/watch?v=3YARPNZrcIY&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=5) Three examples: Pendulum, double pendulum and ...
-    * [Lecture 6]
-    * [Lecture 7]
-    * [Lecture 8](https://www.youtube.com/watch?v=oePbj7yrzUQ&list=PL47F408D36D4CF129&index=8) Poisson brackets. Symmetries and conservation seen through the Poisson bracket. Angular momentum. The gyroscope. Note that Poisson brackets also satisfy a Jacoby identity.
+    * [Lecture 6](https://www.youtube.com/watch?v=7SiW_x3cUBo&list=PL47F408D36D4CF129&index=6) Using Lagrangians to solve simple problems: Object sliding on inclined plane which slides on horizontal plane. Double pendulum. The Hamiltonian. Hamilton's equations. Example: the harmonic oscillator. 
+    * [Lecture 7](https://www.youtube.com/watch?v=lQIbcV6dQzw&list=PL47F408D36D4CF129&index=7) The Hamiltonian as energy. Divergence. The Liouville theorem. Definition of Poisson bracket.
+    * [Lecture 8](https://www.youtube.com/watch?v=oePbj7yrzUQ&list=PL47F408D36D4CF129&index=8) Poisson brackets. Poisson brackets of $q, p$. Symmetries and conservation seen through the Poisson bracket. Angular momentum, its Poisson brackets. The gyroscope. Note that Poisson brackets also satisfy a Jacoby identity.
     
  * Quantum Entanglements, Part 1
    * [Lecture 1](https://www.youtube.com/watch?v=0Eeuqh9QfNI) Classical bits. States in classical Physics. Transformations. Reversibility. Computability of states and transformations. Vectors, matrices.
