@@ -43,7 +43,7 @@ title: Physics
    * [Lecture 1](https://www.youtube.com/watch?v=0Eeuqh9QfNI) Classical bits. States in classical Physics. Transformations. Reversibility. Computability of states and transformations. Vectors, matrices.
    * [Lecture 2](https://www.youtube.com/watch?v=VtBRKw1Ab7E&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=21): Electron spin. Complex vector spaces. Bra-kets. Quantum bit. Hermitian matrices as observables.
    * [Lecture 3](https://www.youtube.com/watch?v=CaTF4QZ94Fk&list=PLF1A950040024A1ED&index=3) Pauli matrices. Spin. Probabilistic interpretation.
-   * [Lecture 4](https://www.youtube.com/watch?v=5vfo512fvlE&t=3220s). Probabilities between any two spin directions. There always exist a direction for which a vector is an eigenvector of measuring spin in that direction. Quantum entagled pair of electrons. How to create an entangled pair.
+   * [Lecture 4](https://www.youtube.com/watch?v=5vfo512fvlE&t=3220s) Probabilities between any two spin directions. There always exist a direction for which a vector is an eigenvector of measuring spin in that direction. Quantum entagled pair of electrons. How to create an entangled pair.
 
 #### Surveys
 * [Seminaire Poincare - Information, 2018](http://www.bourbaphy.fr/novembre2018.html)
