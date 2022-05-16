@@ -35,6 +35,10 @@ title: Physics
     * [Lecture 3](https://www.youtube.com/watch?v=3YARPNZrcIY&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=3). Proof of the principle of least action. Equivalence with Newton's laws. Examples.
     * [Lecture 4](https://www.youtube.com/watch?v=FZDy_Dccv4s&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=4). Lagrangian in polar coordinates. Continuous symmetries and the Noether Theorem. Conservation of energy. Hamiltonian.
     * [Lecture 5](https://www.youtube.com/watch?v=3YARPNZrcIY&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=5) Three examples: Pendulum, double pendulum and ...
+    * [Lecture 6]
+    * [Lecture 7]
+    * [Lecture 8](https://www.youtube.com/watch?v=oePbj7yrzUQ&list=PL47F408D36D4CF129&index=8) Poisson brackets. Symmetries and conservation seen through the Poisson bracket. Angular momentum. The gyroscope. Note that Poisson brackets also satisfy a Jacoby identity.
+    
  * Quantum Entanglements, Part 1
    * [Lecture 1](https://www.youtube.com/watch?v=0Eeuqh9QfNI) Classical bits. States in classical Physics. Transformations. Reversibility. Computability of states and transformations. Vectors, matrices.
    * [Lecture 2](https://www.youtube.com/watch?v=VtBRKw1Ab7E&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=21): Electron spin. Complex vector spaces. Bra-kets. Quantum bit. Hermitian matrices as observables.
