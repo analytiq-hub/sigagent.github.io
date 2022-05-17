@@ -115,7 +115,8 @@ title: Cloud Data Platform
     * [Labeling mixed-source, industrial datasets with Amazon SageMaker Ground Truth](https://aws.amazon.com/blogs/machine-learning/labeling-mixed-source-industrial-datasets-with-amazon-sagemaker-ground-truth/) (2020)
     * [Labeling data for 3D object tracking and sensor fusion in Amazon SageMaker Ground Truth](https://aws.amazon.com/blogs/machine-learning/labeling-data-for-3d-object-tracking-and-sensor-fusion-in-amazon-sagemaker-ground-truth/) (2021)
   * Presentations
-    * [End-to-end ML and data science workflows with Amazon EMR and SageMaker Studio](https://amer.resources.awscloud.com/aws-innovate-data-edition-2022/end-to-end-ml-and-data-science-workflows-with-amazon-emr-and-sagemaker-studio) (2022)
+    * [AWS Innovate - Data Edition](https://amer.resources.awscloud.com/aws-innovate-data-edition-2022) (2022)
+      * [End-to-end ML and data science workflows with Amazon EMR and SageMaker Studio](https://amer.resources.awscloud.com/aws-innovate-data-edition-2022/end-to-end-ml-and-data-science-workflows-with-amazon-emr-and-sagemaker-studio) (2022)
 * Petastorm
   * [Docs](https://petastorm.readthedocs.io/en/latest/index.html)
   * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
