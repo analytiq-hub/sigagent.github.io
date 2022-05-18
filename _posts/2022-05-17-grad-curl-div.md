@@ -109,7 +109,7 @@ This can be seen by expressing div, curl, grad in terms of differentiation of fo
 
 ### Recollection: differential forms
 
-More precisely, denote $$\Omega^k(\mathbb{R}^n)$$ the set of smooth differential forms of degree $$k$$ in $$n$$ variables.
+More precisely, denote $$\Omega^k(\mathbb{R}^n)$$ the set of smooth differential $$k$$-forms in $$n$$ variables.
 
 In coordinates, a differential form of order $$k$$ is given by
 $$
