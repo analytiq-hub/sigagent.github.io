@@ -121,7 +121,7 @@ $$
 and its differential is given by
 $$
 \begin{align}
-d\omega^{(k)}=\sum_{{j=1} \atop \scriptstyle{i_1 \lt ... \lt i_k}}^n\frac{\partial a_{i_1 ... i_k}}{\partial x_j}\,dx_j  dx_{i_1} ... dx_{i_k}
+d\omega^{(k)}=\sum_{1 \le j \le n, i_1 \lt ... \lt i_k}^n\frac{\partial a_{i_1 ... i_k}}{\partial x_j}\,dx_j  dx_{i_1} ... dx_{i_k}
 \end{align}
 $$
 
