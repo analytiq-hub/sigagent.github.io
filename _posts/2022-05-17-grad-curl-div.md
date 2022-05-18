@@ -22,9 +22,9 @@ Another way to write it is $$\vec{\nabla} f = (\frac{\partial f}{\partial x}, \f
 
 Curl is defined for vector fields $$F \colon \mathbb{R}^3 \rightarrow \mathbb{R}^3$$ to be the $$\mathbb{R}^3$$ vector field
 $$
-\begin{center}
+\begin{align}
 curl(F) = (\frac{\partial F_z}{\partial y} - \frac{\partial F_y}{\partial z}, \frac{\partial F_x}{\partial z} - \frac{\partial F_z}{\partial x}, \frac{\partial F_y}{\partial x} - \frac{\partial F_x}{\partial y})
-\end{center}
+\end{align}
 $$
 Here $$F_x, F_y, F_z$$ are the $$x, y, x$$ coordinates of the vector field $$F$$.
 
