@@ -118,4 +118,14 @@ d(F_x dx + F_y dy + F_z dz) = (\frac{\partial F_z}{\partial y} - \frac{\partial 
 \end{align}
 $$
 
-Finally, 
+Finally, functions $$f \colon \mathbb{R}^3 \rightarrow \mathbb{R}$$ can be identified with 3-forms $$fdxdydz$$. With these last two identifications, $$div(F)$$ corresponds again to differentiation:
+
+$$
+\begin{align}
+d(F_x dydz + dx F_y dz + dxdy F_z) = (\frac{\partial F_x}{\partial x} + \frac{\partial F_y}{\partial y} + \frac{\partial F_z}{\partial z})dxdydz
+\end{align}
+$$
+
+The operator $$d$$ is closed and, since $$\mathbb{R}^3$$ is contractible, also exact. (Closed means that $$d^2\omega = 0$$ for any form $$\omega; exact means that any closed form $$\omega$$, i.e. satisfying $$d \omega = 0$$, is in the image of $$d$$, i.e., of the form $$\omega = d \omega^{\prime}$$).
+
+This proves our assertions at the top of this paragraph (by the circuitous but elegant route of assuming knowledge of forms and of $$\mathbb{R}^3$$ being contractible).
