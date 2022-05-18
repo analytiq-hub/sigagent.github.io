@@ -56,6 +56,13 @@ F_x & F_y & F_z
 \end{align}
 $$
 
+Here we abuse somewhat the notation, in that the middle row of the determinant represents operators, not functions (and the operators are applied to the third row). Using the $$\vec{\nabla}$$ notation, we can express this, also by abuse of notation, as the cross product
+$$
+\begin{align}
+curl(F) = \vec{\nabla} \times F
+\end{align}
+$$
+
 At a point $$x, y, z$$, if we draw parallels to the axes at that point, the curl represents rotation of an infinitesimal area around these parallel lines to the x-axis, y-axis, z-axis.
 
 ## Divergence
