@@ -71,10 +71,23 @@ The divergence of a vector field $$F \colon \mathbb{R}^3 \rightarrow \mathbb{R}^
 
 $$
 \begin{align}
-div(F) = frac{\partial F_x}{\partial x} + frac{\partial F_y}{\partial y} + frac{\partial F_z}{\partial z}
+div(F) = \frac{\partial F_x}{\partial x} + \frac{\partial F_y}{\partial y} + \frac{\partial F_z}{\partial z}
 \end{align}
 $$
 
 The divergence at a point represents the extent to which the vector field behaves like a source at that point. If the vector field corresponds to the flow of an incompressible fluid, for example, its divergence will be zero.
 
 [Lecture 7](https://www.youtube.com/watch?v=lQIbcV6dQzw&list=PL47F408D36D4CF129&index=7) in leonard Susskind's classical mechanics course proves that the gradient of motion given by a Hamiltonian in phase space is zero (this is the Liouville Theorem).
+
+In terms of $$\vec{\nabla}$$, again by abuse of notation, we can express the divergence as a dot product
+
+$$
+\begin{align}
+div(F) = \vec{\nabla} \cdot F
+\end{align}
+$$
+
+
+## Relations between gradient, curl, divergence
+
+
