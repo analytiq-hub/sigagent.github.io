@@ -8,11 +8,16 @@ In [Lecture 9](https://www.youtube.com/watch?v=WJn6h-6MMa8&list=PL47F408D36D4CF1
 
 Why is that?
 
-The [wiki page for curl](https://en.wikipedia.org/wiki/Curl_(mathematics)#cite_note-8) explains this indirectly. Let's spell this out.
+The [wiki page for curl](https://en.wikipedia.org/wiki/Curl_(mathematics)#cite_note-8) explains this indirectly. Let's spell it out.
 
-We start with the operator $$\vec{\nabla} = (\frac{\partial}{\partial x}, \frac{\partial}{\partial y}, \frac{\partial}{\partial z})$$. This is an operator on functions $$f \colon \mathbb{R}^3 \rightarrow \mathbb{R}$$.
+We start with the operator
+$$
+\begin{align}
+\vec{\nabla} = (\frac{\partial}{\partial x}, \frac{\partial}{\partial y}, \frac{\partial}{\partial z})
+\end{align}
+$$
 
-The operator $$\vec{\nabla}$$ is called *nabla*, or, abbreviated, *del*, and is written as an upside-down triangle.
+This is an operator on functions $$f \colon \mathbb{R}^3 \rightarrow \mathbb{R}$$. The operator $$\vec{\nabla}$$ is called *nabla*, or, abbreviated, *del*, and is written as an upside-down triangle.
 
 In what follows, we will assume all functions are smooth.
 
