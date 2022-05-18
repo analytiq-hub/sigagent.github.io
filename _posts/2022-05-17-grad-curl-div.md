@@ -28,7 +28,7 @@ $$
 \begin{align}
 curl(F) =
 \begin{vmatrix}
-i & j & j \\ 
+\mathbf{i} & \mathbf{j} & \mathbf{k} \\ 
 \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\
 F_x & F_y & F_z
 \end{vmatrix}
