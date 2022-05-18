@@ -14,7 +14,7 @@ We start with the operator $$\vec{\nabla} = (\frac{\partial}{\partial x}, \frac{
 
 The operator $$\nabla$$ is called *nabla*, or, abbreviated, *del*, and is written as an upside-down triangle.
 
-We will assume all functions are smooth.
+In what follows, we will assume all functions are smooth.
 
 ## Gradient
 
