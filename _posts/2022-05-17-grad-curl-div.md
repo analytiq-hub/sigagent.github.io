@@ -1,5 +1,6 @@
 ---
 layout: post
+mathjax: true
 categories: math
 title: "Gradient. Curl. Divergence."
 ---
