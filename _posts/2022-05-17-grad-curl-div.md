@@ -125,7 +125,7 @@ d\omega^{(k)}=\sum_{1 \le j \le n, \, i_1 \lt ... \lt i_k}^n\frac{\partial a_{i_
 \end{align}
 $$
 
-The product of differential forms is anticommutative, i.e. $$dx_1 dx_2 = - dx_2 dx_1$$.
+The product of differential forms is anticommutative, i.e. $$dx_1 dx_2 = - dx_2 dx_1$$. The sqare of the differential is zero: $$d(d\omega) = 0$$.
 
 The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}$$ are 0-forms, i.e. they are elements in $$\Omega^0(\mathbb{R}^3)$$.
 
