@@ -71,7 +71,7 @@ The divergence of a vector field $$F \colon \mathbb{R}^3 \rightarrow \mathbb{R}^
 
 $$
 \begin{align}
-div(F) = F_x + F_y + F_z
+div(F) = frac{\partial F_x}{\partial x} + frac{\partial F_y}{\partial y} + frac{\partial F_z}{\partial z}
 \end{align}
 $$
 
