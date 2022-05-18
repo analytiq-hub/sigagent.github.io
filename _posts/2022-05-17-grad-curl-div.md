@@ -151,6 +151,6 @@ d(F_x dydz + F_y dzdx + F_z dxdy) = (\frac{\partial F_x}{\partial x} + \frac{\pa
 \end{align}
 $$
 
-The operator $$d$$ is closed and, since $$\mathbb{R}^3$$ is contractible, also exact. (Closed means that $$d^2\omega = 0$$ for any form $$\omega$$; exact means that any closed form $$\omega$$, i.e. satisfying $$d \omega = 0$$, is in the image of $$d$$, i.e., of the form $$\omega = d \omega^{\prime}$$).
+The operator $$d$$ is closed and, since $$\mathbb{R}^3$$ is contractible, also exact in dimensions $$ \gt 1$$. (Closed means that $$d^2\omega = 0$$ for any form $$\omega$$; exact means that any closed form $$\omega^{(k)}$$ with $$k > 1$$, i.e. satisfying $$d \omega^{(k)} = 0$$, is in the image of $$d$$, i.e., of the form $$\omega^{(k)} = d \omega^{\prime}$$).
 
 This proves our assertions at the top of this paragraph (by the circuitous but elegant route of assuming knowledge of forms and of $$\mathbb{R}^3$$ being contractible).
