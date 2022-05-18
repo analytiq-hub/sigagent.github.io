@@ -100,6 +100,8 @@ Bref:
 
 This can be seen by expressing div, curl, grad in terms of differentiation of forms, noting that $$\mathbb{R}^3$$ is contractible, so any closed 1- and 2-form is exact.
 
+### Recollection: differential forms
+
 More precisely, denote $$\Omega^k(\mathbb{R}^n)$$ the set of k-differential forms on $$\mathbb{R}^n$$. 
 
 In coordinates, a differential form of order $$k$$ is given by
@@ -116,9 +118,7 @@ d\omega^{(k)}=\sum_{1 \le j \le n, \, i_1 \lt ... \lt i_k}^n\frac{\partial a_{i_
 \end{align}
 $$
 
-The sqare of the differential is zero: $$d^2 \omega = d(d \omega) = 0$$.
-
-Differentiation of forms $$d$$ gives us a sequence of vector spaces
+The sqare of the differential is zero: $$d^2 \omega = d(d \omega) = 0$$. Differentiation of forms $$d$$ gives us a sequence of vector spaces
 
 $$
 \begin{align}
@@ -132,7 +132,9 @@ $$
 \end{align}
 $$
 
+The composite of consecutive maps in this sequence of vector spaces is zero. Contractibility of $$\mathbb{R}^n$$ ensures, by DeRham theory, that, in $$\Omega^k(\mathbb{R}^n)$$, the image of $$d$$ is the kernel of $$d$$, for $$k \ge 1$$.
 
+In $$\Omega^0(\mathbb{R}^n)$$, the kernel of $$d$$ is the set of functions $$f \colon \mathbb{R}^n \rightarrow \mathbb{R}$$ with zero differential $$df = 0$$, thus is the set of constant functions.
 
 The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}$$ are 0-forms, i.e. they are elements in $$\Omega^0(\mathbb{R}^3)$$.
 
