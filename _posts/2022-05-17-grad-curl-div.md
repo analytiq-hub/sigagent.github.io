@@ -35,7 +35,7 @@ $$
 \end{align}
 $$
 
-The gradient $$\vec{\nabla}$$ can thus be seen as the operator
+The gradient $$\vec{\nabla}$$ can thus be seen as an operator taking functions of three coordinates into vector fields on $$\mathbb{R}^3$$:
 $$
 \begin{align}
 \vec{\nabla}  = (\frac{\partial }{\partial x}, \frac{\partial }{\partial y}, \frac{\partial }{\partial z})
