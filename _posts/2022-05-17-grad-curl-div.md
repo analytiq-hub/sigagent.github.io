@@ -33,17 +33,10 @@ which is a vector field on $$\mathbb{R}^3$$. Here, $$f_x, f_y, f_z$$ are the $$x
 
 The gradient is intepreted as the direction and rate of fastest increase.
 
-Another way to write the gradient is $$grad(f) = \vec{\nabla} f$$, or, using another expresion for the partial derivative notation,
+Another way to write the gradient is $$grad(f) = \vec{\nabla} f$$, as the operator $$\vec{\nabla}$$ applied to $$f$$:
 $$
 \begin{align}
 \vec{\nabla} f = (\frac{\partial f}{\partial x}, \frac{\partial f}{\partial y}, \frac{\partial f}{\partial z})
-\end{align}
-$$
-
-The gradient $$\vec{\nabla}$$ can thus be seen as an operator taking functions of three coordinates into vector fields of $$\mathbb{R}^3$$:
-$$
-\begin{align}
-\vec{\nabla}  = (\frac{\partial }{\partial x}, \frac{\partial }{\partial y}, \frac{\partial }{\partial z})
 \end{align}
 $$
 
