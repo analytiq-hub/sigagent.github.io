@@ -155,7 +155,7 @@ If the manifold is contractible, which is the case of $$\mathbb{R}^n$$, then all
 
 ## Gradient, curl, divergence as differential forms
 
-Denote $$\mathcal{C}^{\infty}(\mathbb{R}^m, \mathbb{R}^n)$$ the set of smooth functions $$\mathbb{R}^m \rightarrow \mathbb{R}^n$$. Let's limit the discussion to dimension $$3$$.
+Let us use the standard notation $$\mathcal{C}^{\infty}(\mathbb{R}^m, \mathbb{R}^n)$$ for the set of smooth functions $$\mathbb{R}^m \rightarrow \mathbb{R}^n$$. Let's limit the discussion to dimension $$3$$.
 
 ### Gradient
 
