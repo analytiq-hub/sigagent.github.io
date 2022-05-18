@@ -146,7 +146,9 @@ By DeRham theory, the quotient vector space of $$k$$-closed over $$k$$-exact for
 
 If the manifold is contractible, which is the case of $$\mathbb{R}^n$$, then all $$k > 0$$ cohomology groups are $$0$$, and the $$0$$-th cohomology group has dimension 1. The closed forms of dimension 0 are, as explained above, the constant functions.
 
-## 
+## Gradient, curl, divergence as differential forms
+
+Denote $$\mathcat{C}^{\infty}(\mathbb{R}^m, \mathbb{R}^n)$$ the set of smooth functions $$\mathbb{R}^m \rightarrow \mathbb{R}^n$$.
 
 The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}$$ are 0-forms, i.e. they are elements in $$\Omega^0(\mathbb{R}^3)$$.
 
