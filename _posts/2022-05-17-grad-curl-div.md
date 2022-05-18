@@ -216,3 +216,8 @@ $$
 $$
 
 Since any exact form is closed, div of curl and curl of grad are zero. And since any form of degree $$1$$ or higher that is closed is also exact, any field with zero divergence is a curl, and any field with zero curl is a gradient, completing our proof.
+
+
+## Higher dimensions
+
+The definition of $$grad$$, $$div$$ extends naturally to $$n$$ dimensions. For $$curl$$, only the definition in terms of $$d$$ of a $$1$$-differential form extends to $$n$$ dimensions.
