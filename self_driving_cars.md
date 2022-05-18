@@ -59,6 +59,7 @@ title: Self Driving Cars
 * [Point Cloud Labeling using 3D Convolutional Neural Network](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Huang2016ICPR.pdf), J Huang et al (2016)
 * [Vehicle Detection from 3D Lidar Using Fully Convolutional Network](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Li2016RSS.pdf), Bo Li et al (2016)
 * [Review: Deep Learning on 3D Point Clouds](https://www.mdpi.com/2072-4292/12/11/1729/htm), S.A.Bello et al (2020)
+* [Towards safe, data-driven autonomy](https://www.youtube.com/watch?v=K2IrAjlzm6s), Marco Pavone, MIT Robotics talk (2022)
 
 #### 2007 Darpa Challenge
 * [Towards Fully Autonomous Driving: Systems and  Algorithms](https://cs.stanford.edu/people/teichman/papers/iv2011.pdf), by Jesse Levinson et. al. (2011 IEEE Intelligent Vehicles Symposium (IV), Baden-Baden, Germany, June 5-9, 2011). Describes the Stanford entry at the 2007 DARPA Challenge, and follow-up work.
@@ -202,6 +203,7 @@ title: Self Driving Cars
 
 #### People
 * [Felipe Codevilla](https://www.codevilla.info/)
+* [Marco Pavone](https://web.stanford.edu/~pavone/)
 
 #### Libraries
 * [COiLTRAiNE: Conditional Imitation Learning Training Framework](https://github.com/felipecode/coiltraine)
