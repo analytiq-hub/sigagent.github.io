@@ -155,7 +155,7 @@ If the manifold is contractible, which is the case of $$\mathbb{R}^n$$, then all
 
 ## Gradient, curl, divergence as differential forms
 
-Let us use the standard notation $$\mathcal{C}^{\infty}(\mathbb{R}^m, \mathbb{R}^n)$$ for the set of smooth functions $$\mathbb{R}^m \rightarrow \mathbb{R}^n$$. Let's limit the discussion to dimension $$3$$.
+Let us use the standard notation $$\mathcal{C}^{\infty}(\mathbb{R}^m, \mathbb{R}^n)$$ for the set of smooth functions $$\mathbb{R}^m \rightarrow \mathbb{R}^n$$. And, furthermore, let's limit the discussion to dimension $$3$$.
 
 ### Gradient
 
@@ -169,7 +169,7 @@ By this identification, the gradient $$(f_x, f_y, f_z)$$ of a function $$f : \ma
 
 The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}^3$$ can also be identified as 2-forms by $$(F_x, F_y, F_z) \rightarrow F_x dydz + dx F_y dy + dxdy F_z$$. This gives us a natural identification $$\mathcal{C}^{\infty}(\mathbb{R}^3, \mathbb{R}^3) \cong \Omega^2(\mathbb{R}^3)$$
 
-With this last two indentifications, $$curl(F)$$ corresponds again to differentiation:
+With this last two indentifications, $$curl(F)$$ corresponds also to differentiation:
 
 $$
 \begin{align}
@@ -181,7 +181,7 @@ $$
 
 Finally, functions $$f \colon \mathbb{R}^3 \rightarrow \mathbb{R}$$ can be identified with 3-forms $$fdxdydz$$. This gives us a natural identification $$\mathcal{C}^{\infty}(\mathbb{R}^3, \mathbb{R}) \cong \Omega^3(\mathbb{R}^3)$$
 
-With these last identifications, $$div(F)$$ corresponds again to differentiation:
+With these last identifications, $$div(F)$$ corresponds also to differentiation:
 
 $$
 \begin{align}
