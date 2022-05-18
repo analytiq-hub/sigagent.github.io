@@ -1,0 +1,1 @@
+This folder contains diagrams created in https://app.diagrams.net.
