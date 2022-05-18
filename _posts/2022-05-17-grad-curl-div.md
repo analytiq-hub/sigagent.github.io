@@ -136,6 +136,18 @@ The composite of consecutive maps in this sequence of vector spaces is zero. Con
 
 In $$\Omega^0(\mathbb{R}^n)$$, the kernel of $$d$$ is the set of functions $$f \colon \mathbb{R}^n \rightarrow \mathbb{R}$$ with zero differential $$df = 0$$, thus is the set of constant functions.
 
+## Closed forms, exact forms
+
+Recall a bit more language: a form $$\omega^{(k)}$$ is called *closed* if its differential is zero: $$d \omega^{(k)} = 0$$. And the form is called *exact* if it is in the image of $$d$$, meaning that there exists a form $$\omega^{(k-1)}$$ with $$d \omega^{(k-1)} = \omega^{(k)}$$.
+
+Forms can, more generally, be defined on smooth manifolds. Exact forms are always closed, because $$d^2 = 0$$. Closed forms are not necessarily exact.
+
+By DeRham theory, the quotient vector space of $$k$$-closed over $$k$$-exact forms is the $$k$$-th cohomology group with real coefficients of the manifold, and depends only on the homotopy type of the manifold.
+
+If the manifold is contractible, which is the case of $$\mathbb{R}^n$$, then all $$k > 0$$ cohomology groups are $$0$$, and the $$0$$-th cohomology group has dimension 1. The closed forms of dimension 0 are, as explained above, the constant functions.
+
+## 
+
 The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}$$ are 0-forms, i.e. they are elements in $$\Omega^0(\mathbb{R}^3)$$.
 
 The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}^3$$ can be identified as 1-forms by $$(F_x, F_y, F_z) \rightarrow F_x dx + F_y dy + F_z dz$$.
