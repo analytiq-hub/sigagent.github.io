@@ -106,11 +106,11 @@ The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}$$ are 0-forms, i.e. they are
 
 The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}^3$$ can be identified as 1-forms by the identification $$(F_x, F_y, F_z) \rightarrow F_x dx + F_y dy + F_z dz$$.
 
-By this identification, the gradient $$(f_x, f_y, f_z)$$ of a function $$f \rightarrow \mathbb{R}^3 \rightarrow \mathbb{R}$$ corresponds to $$df = f_x dx + f_y dy + f_x dz$$.
+By this identification, the gradient $$(f_x, f_y, f_z)$$ of a function $$f \rightarrow \mathbb{R}^3 \rightarrow \mathbb{R}$$ corresponds to differentiation $$df = f_x dx + f_y dy + f_x dz$$.
 
 The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}^3$$ can also be identified as 2-forms by the identification $$(F_x, F_y, F_z) \rightarrow F_x dydz + dx F_y dy + dxdy F_z$$.
 
-With this last two indentifications, $$curl(F)$$ corresponds again to differentiaion:
+With this last two indentifications, $$curl(F)$$ corresponds again to differentiation:
 
 $$
 \begin{align}
