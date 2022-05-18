@@ -26,7 +26,12 @@ which is a vector field on $$\mathbb{R}^3$$. Here, $$f_x, f_y, f_z$$ are the $$x
 
 The gradient is intepreted as the direction and rate of fastest increase.
 
-Another way to write the gradient is $$\vec{\nabla} f$$, or, using another expresion for the partial derivative notation, $$\vec{\nabla} f = (\frac{\partial f}{\partial x}, \frac{\partial f}{\partial y}, \frac{\partial f}{\partial z})$$.
+Another way to write the gradient is $$grad(f) = \vec{\nabla} f$$, or, using another expresion for the partial derivative notation,
+$$
+\begin{align}
+\vec{\nabla} f = (\frac{\partial f}{\partial x}, \frac{\partial f}{\partial y}, \frac{\partial f}{\partial z})
+\end{align}
+$$
 
 ## Curl
 
