@@ -122,7 +122,7 @@ Finally, functions $$f \colon \mathbb{R}^3 \rightarrow \mathbb{R}$$ can be ident
 
 $$
 \begin{align}
-d(F_x dydz + dx F_y dz + dxdy F_z) = (\frac{\partial F_x}{\partial x} + \frac{\partial F_y}{\partial y} + \frac{\partial F_z}{\partial z})dxdydz
+d(F_x dydz + F_y dzdx + F_z dxdy) = (\frac{\partial F_x}{\partial x} + \frac{\partial F_y}{\partial y} + \frac{\partial F_z}{\partial z})dxdydz
 \end{align}
 $$
 
