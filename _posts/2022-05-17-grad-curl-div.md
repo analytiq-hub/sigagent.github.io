@@ -21,3 +21,16 @@ Another way to write it is $$\vec{\nabla} f = (\frac{\partial f}{\partial x}, \f
 ## Curl
 
 Curl is defined for vector fields $$F \colon \mathbb{R}^3 \rightarrow \mathbb{R}^3$$ to be the $$\mathbb{R}^3$$ vector field  $$curl(F) = (\frac{\partial F_z}{\partial y} - \frac{\partial F_y}{\partial z}, \frac{\partial F_x}{\partial z} - \frac{\partial F_z}{\partial x}, \frac{\partial F_y}{\partial x} - \frac{\partial F_x}{\partial y})$$. Here $$F_x, F_y, F_z$$ are the $$x, y, x$$ coordinates of the vector field $$F$$.
+
+Expressed as a determinant of operators $$\frac{\partial}{\partial x}, \frac{\partial}{\partial y}, \frac{\partial}{\partial z}$$, and denoting $$i, j, k$$ the unit vectors along the $$x, y, z$$ axis, the curl can be expressed as:
+
+$$
+\begin{align}
+curl(F) =
+\begin{vmatrix}
+i & j & j \\ 
+\frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\
+F_x & F_y & F_z
+\end{vmatrix}
+\end{align}
+$$
