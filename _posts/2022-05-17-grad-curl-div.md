@@ -12,7 +12,7 @@ The [wiki page for curl](https://en.wikipedia.org/wiki/Curl_(mathematics)#cite_n
 
 ## Gradient
 
-Gradient is defined for functions $$f \colon \mathbb{R}^3 \rightarrow \mathbb{R}$$ as $$\vec{\nabla} f = (f_x, f_y, f_z)$$, which is a vector field on $$\mathbb{R}^3$$.
+Gradient is defined for functions $$f \colon \mathbb{R}^3 \rightarrow \mathbb{R}$$ as $$\vec{\nabla} f = (f_x, f_y, f_z)$$, which is a vector field on $$\mathbb{R}^3$$. Here, $$f_x, f_y, f_z$$ are the $$x, y, z$$ partial derivatives of the function $$f$$.
 
 The operator $$\nabla$$ is called *nabla*, or, abbreviated, *del*, and is written as an upside-down triangle. The gradient is intepreted as the direction and rate of fastest increase.
 
