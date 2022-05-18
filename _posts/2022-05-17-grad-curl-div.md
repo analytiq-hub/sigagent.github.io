@@ -150,13 +150,13 @@ If the manifold is contractible, which is the case of $$\mathbb{R}^n$$, then all
 
 Denote $$\mathcat{C}^{\infty}(\mathbb{R}^m, \mathbb{R}^n)$$ the set of smooth functions $$\mathbb{R}^m \rightarrow \mathbb{R}^n$$.
 
-The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}$$ are 0-forms, i.e. they are elements in $$\Omega^0(\mathbb{R}^3)$$.
+The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}$$ are 0-forms. We can naturally identify $$\mathcat{C}^{\infty}(\mathbb{R}^3, \mathbb{R}) \cong \Omega^0(\mathbb{R}^3)$$.
 
-The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}^3$$ can be identified as 1-forms by $$(F_x, F_y, F_z) \rightarrow F_x dx + F_y dy + F_z dz$$.
+The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}^3$$ can be identified as 1-forms by $$(F_x, F_y, F_z) \rightarrow F_x dx + F_y dy + F_z dz$$. This gives us a natural identification $$\mathcat{C}^{\infty}(\mathbb{R}^3, \mathbb{R}^3) \cong \Omega^1(\mathbb{R}^3)$$
 
 By this identification, the gradient $$(f_x, f_y, f_z)$$ of a function $$f : \mathbb{R}^3 \rightarrow \mathbb{R}$$ corresponds to differentiation $$df = f_x dx + f_y dy + f_x dz$$.
 
-The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}^3$$ can also be identified as 2-forms by $$(F_x, F_y, F_z) \rightarrow F_x dydz + dx F_y dy + dxdy F_z$$.
+The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}^3$$ can also be identified as 2-forms by $$(F_x, F_y, F_z) \rightarrow F_x dydz + dx F_y dy + dxdy F_z$$. This gives us a natural identification $$\mathcat{C}^{\infty}(\mathbb{R}^3, \mathbb{R}^3) \cong \Omega^2(\mathbb{R}^3)$$
 
 With this last two indentifications, $$curl(F)$$ corresponds again to differentiation:
 
@@ -166,7 +166,9 @@ d(F_x dx + F_y dy + F_z dz) = (\frac{\partial F_z}{\partial y} - \frac{\partial 
 \end{align}
 $$
 
-Finally, functions $$f \colon \mathbb{R}^3 \rightarrow \mathbb{R}$$ can be identified with 3-forms $$fdxdydz$$. With these last two identifications, $$div(F)$$ corresponds again to differentiation:
+Finally, functions $$f \colon \mathbb{R}^3 \rightarrow \mathbb{R}$$ can be identified with 3-forms $$fdxdydz$$. This gives us a natural identification $$\mathcat{C}^{\infty}(\mathbb{R}^3, \mathbb{R}) \cong \Omega^3(\mathbb{R}^3)$$
+
+With these last identifications, $$div(F)$$ corresponds again to differentiation:
 
 $$
 \begin{align}
