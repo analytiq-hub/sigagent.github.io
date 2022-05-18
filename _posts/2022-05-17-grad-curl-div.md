@@ -12,7 +12,9 @@ The [wiki page for curl](https://en.wikipedia.org/wiki/Curl_(mathematics)#cite_n
 
 We start with the operator $$\vec{\nabla} = (\frac{\partial}{\partial x}, \frac{\partial}{\partial y}, \frac{\partial}{\partial z})$$. This is an operator on functions $$f \colon \mathbb{R}^3 \rightarrow \mathbb{R}$$.
 
-The operator $$\nabla$$ is called *nabla*, or, abbreviated, *del*, and is written as an upside-down triangle. 
+The operator $$\nabla$$ is called *nabla*, or, abbreviated, *del*, and is written as an upside-down triangle.
+
+We will assume all functions are smooth.
 
 ## Gradient
 
@@ -90,4 +92,12 @@ $$
 
 ## Relations between gradient, curl, divergence
 
+Bref:
+- div of curl is zero
+- curl of grad is zero
+- and, conversely, if div of a field is zero, the field is a curl
+- if curl of a field is zero, the field is a grad
 
+This can be seen by expressing div, curl, grad in terms of differentiation of forms, noting that $$\mathbb{R}^3$$ is contractible, so any closed 2- and 3-form is exact.
+
+More precisely, denote $$\Omega^k(\mathbb{R}^3)$$ the k-differential forms on $$\mathbb{R}^3$$.
