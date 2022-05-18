@@ -125,6 +125,8 @@ d\omega^{(k)}=\sum_{{j=1} \atop \scriptstyle{i_1 \lt ... \lt i_k}}^n\frac{\parti
 \end{align}
 $$
 
+The product of differential forms is anticommutative, i.e. $$dx_1 dx_2 = - dx_2 dx_1$$.
+
 The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}$$ are 0-forms, i.e. they are elements in $$\Omega^0(\mathbb{R}^3)$$.
 
 The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}^3$$ can be identified as 1-forms by $$(F_x, F_y, F_z) \rightarrow F_x dx + F_y dy + F_z dz$$.
