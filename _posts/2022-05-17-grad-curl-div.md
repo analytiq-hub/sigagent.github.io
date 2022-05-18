@@ -100,7 +100,17 @@ Bref:
 
 This can be seen by expressing div, curl, grad in terms of differentiation of forms, noting that $$\mathbb{R}^3$$ is contractible, so any closed 1- and 2-form is exact.
 
-More precisely, denote $$\Omega^k(\mathbb{R}^3)$$ the k-differential forms on $$\mathbb{R}^3$$.
+More precisely, denote $$\Omega^k(\mathbb{R}^3)$$ the k-differential forms on $$\mathbb{R}^3$$. Differentiation of forms $$d$$ gives us a sequence of vector spaces
+
+$$
+\begin{align}
+\bf{0} \longrightarrow \Omega^0(\mathbb{R}^3)
+\overset{d}{\longrightarrow} \Omega^1(\mathbb{R}^3) 
+\overset{d}{\longrightarrow} \Omega^2(\mathbb{R}^3) 
+\overset{d}{\longrightarrow} \Omega^3(\mathbb{R}^3)
+\overset{d}{\longrightarrow} \bf{0}
+\end{align}
+$$
 
 The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}$$ are 0-forms, i.e. they are elements in $$\Omega^0(\mathbb{R}^3)$$.
 
