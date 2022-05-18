@@ -102,8 +102,8 @@ where $$\vec{\nabla}$$ acts on, rather than multiplies with the components of $$
 Bref:
 - div of curl is zero
 - curl of grad is zero
-- and, conversely, if div of a field is zero, the field is a curl
-- if curl of a field is zero, the field is a grad
+- and, conversely, if div of a vector field is zero, the field is a curl
+- if curl of a vector field is zero, the field is a grad
 
 This can be seen by expressing div, curl, grad in terms of differentiation of forms, noting that $$\mathbb{R}^3$$ is contractible, so any closed 1- and 2-form is exact.
 
@@ -155,19 +155,20 @@ If the manifold is contractible, which is the case of $$\mathbb{R}^n$$, then all
 
 ## Gradient, curl, divergence as differential forms
 
-Let us use the standard notation $$\mathcal{C}^{\infty}(\mathbb{R}^m, \mathbb{R}^n)$$ for the set of smooth functions $$\mathbb{R}^m \rightarrow \mathbb{R}^n$$. And, furthermore, let's limit the discussion to dimension $$3$$.
+Let us use the standard notation $$\mathcal{C}^{\infty}(\mathbb{R}^m, \mathbb{R}^n)$$ for the set of smooth functions $$\mathbb{R}^m \rightarrow \mathbb{R}^n$$.
+ And, furthermore, let's limit the discussion to dimension $$3$$.
 
 ### Gradient
 
 The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}$$ are 0-forms. We can naturally identify $$\mathcal{C}^{\infty}(\mathbb{R}^3, \mathbb{R}) \cong \Omega^0(\mathbb{R}^3)$$.
 
-The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}^3$$ can be identified as 1-forms by $$(F_x, F_y, F_z) \rightarrow F_x dx + F_y dy + F_z dz$$. This gives us a natural identification $$\mathcal{C}^{\infty}(\mathbb{R}^3, \mathbb{R}^3) \cong \Omega^1(\mathbb{R}^3)$$
+The vector fields $$\mathbb{R}^3 \rightarrow \mathbb{R}^3$$ can be identified as 1-forms by $$(F_x, F_y, F_z) \rightarrow F_x dx + F_y dy + F_z dz$$. This gives us a natural identification $$\mathcal{C}^{\infty}(\mathbb{R}^3, \mathbb{R}^3) \cong \Omega^1(\mathbb{R}^3)$$
 
 By this identification, the gradient $$(f_x, f_y, f_z)$$ of a function $$f : \mathbb{R}^3 \rightarrow \mathbb{R}$$ corresponds to differentiation $$df = f_x dx + f_y dy + f_x dz$$.
 
 ### Curl
 
-The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}^3$$ can also be identified as 2-forms by $$(F_x, F_y, F_z) \rightarrow F_x dydz + dx F_y dy + dxdy F_z$$. This gives us a natural identification $$\mathcal{C}^{\infty}(\mathbb{R}^3, \mathbb{R}^3) \cong \Omega^2(\mathbb{R}^3)$$
+The fields $$\mathbb{R}^3 \rightarrow \mathbb{R}^3$$ can also be identified as 2-forms by $$(F_x, F_y, F_z) \rightarrow F_x dydz + dx F_y dy + dxdy F_z$$. This gives us a natural identification $$\mathcal{C}^{\infty}(\mathbb{R}^3, \mathbb{R}^3) \cong \Omega^2(\mathbb{R}^3)$$
 
 With this last two indentifications, $$curl(F)$$ corresponds also to differentiation:
 
@@ -215,7 +216,7 @@ $$
 \end{align}
 $$
 
-Since any exact form is closed, div of curl and curl of grad are zero. And since any form of degree $$1$$ or higher that is closed is also exact, any field with zero divergence is a curl, and any field with zero curl is a gradient, completing our proof.
+Since any exact form is closed, div of curl and curl of grad are zero. And since any form of degree $$1$$ or higher that is closed is also exact, any vector field with zero divergence is a curl, and any vector field with zero curl is a gradient, completing our proof.
 
 
 ## Higher dimensions
