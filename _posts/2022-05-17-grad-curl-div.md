@@ -110,6 +110,12 @@ By this identification, the gradient $$(f_x, f_y, f_z)$$ of a function $$f \ra \
 
 The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}^3$$ can also be identified as 2-forms by the identification $$(F_x, F_y, F_z) \rightarrow F_x dydz + dx F_y dy + dxdy F_z$$.
 
-With this last two indentifications, $$curl(F)$$ corresponds (up to a sign) again to differentiaion: $$d(F_x dx + F_y dy + F_z dz)$$
+With this last two indentifications, $$curl(F)$$ corresponds again to differentiaion:
+
+$$
+\being{align}
+d(F_x dx + F_y dy + F_z dz) = (\frac{\partial F_z}{\partial y} - \frac{\partial F_y}{\partial z}) dydz + (\frac{\partial F_x}{\partial z} - \frac{\partial F_z}{\partial x})dzdx + ( \frac{\partial F_y}{\partial x} - \frac{\partial F_x}{\partial y})dxdy
+\end{align}
+$$
 
 Finally, 
