@@ -115,7 +115,7 @@ $$
 In coordinates, a differential function of order $$k$$ is given by
 $$
 \begin{align}
-\omega^{(k)}=\sum_{0 \le i_1 \lt... \lt i_k \le n} a_{i_1,...,i_k} dx_{i_1} ... dx_{i_k}
+\omega^{(k)}=\sum_{1 \le i_1 \lt... \lt i_k \le n} a_{i_1,...,i_k} dx_{i_1} ... dx_{i_k}
 \end{align}
 $$
 and its differential is given by
