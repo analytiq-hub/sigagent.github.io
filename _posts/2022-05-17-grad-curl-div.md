@@ -104,11 +104,24 @@ More precisely, denote $$\Omega^k(\mathbb{R}^3)$$ the k-differential forms on $$
 
 $$
 \begin{align}
-\bf{0} \longrightarrow \Omega^0(\mathbb{R}^3)
+\bf{0} \overset{d}{\longrightarrow} \Omega^0(\mathbb{R}^3)
 \overset{d}{\longrightarrow} \Omega^1(\mathbb{R}^3) 
 \overset{d}{\longrightarrow} \Omega^2(\mathbb{R}^3) 
 \overset{d}{\longrightarrow} \Omega^3(\mathbb{R}^3)
 \overset{d}{\longrightarrow} \bf{0}
+\end{align}
+$$
+
+In coordinates, a differential function of order $$k$$ is given by
+$$
+\begin{align}
+\omega^{(k)}=\sum_{0 \le i_1 \lt... \lt i_k \le n} a_{i_1,...,i_k} dx_{i_1} ... dx_{i_k}
+\end{align}
+$$
+and its differential is given by
+$$
+\begin{align}
+d\omega^{(k)}=\sum_{{j=1} \atop \scriptstyle{i_1 \lt ... \lt i_k}}^n\frac{\partial a_{i_1 ... i_k}}{\partial x_j}\,dx_j  dx_{i_1} ... dx_{i_k}.
 \end{align}
 $$
 
