@@ -98,7 +98,7 @@ Bref:
 - and, conversely, if div of a field is zero, the field is a curl
 - if curl of a field is zero, the field is a grad
 
-This can be seen by expressing div, curl, grad in terms of differentiation of forms, noting that $$\mathbb{R}^3$$ is contractible, so any closed 2- and 3-form is exact.
+This can be seen by expressing div, curl, grad in terms of differentiation of forms, noting that $$\mathbb{R}^3$$ is contractible, so any closed 1- and 2-form is exact.
 
 More precisely, denote $$\Omega^k(\mathbb{R}^3)$$ the k-differential forms on $$\mathbb{R}^3$$.
 
