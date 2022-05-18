@@ -63,7 +63,7 @@ F_x & F_y & F_z
 \end{align}
 $$
 
-Here we abuse somewhat the notation, in that the middle row of the determinant represents operators, not functions (and the operators are applied to the third row). Using the $$\vec{\nabla}$$ notation, we can express this, also by abuse of notation, as the cross product
+Here we abuse somewhat the notation, in that the middle row of the determinant represents operators, not functions (and the operators act on the third row, rather than being multiplied with the third row). Using the $$\vec{\nabla}$$ operator, we can express this, also by abuse of notation, as the cross product
 $$
 \begin{align}
 curl(F) = \vec{\nabla} \times F
