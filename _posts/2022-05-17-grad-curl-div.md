@@ -12,7 +12,7 @@ The [wiki page for curl](https://en.wikipedia.org/wiki/Curl_(mathematics)#cite_n
 
 We start with the operator $$\vec{\nabla} = (\frac{\partial}{\partial x}, \frac{\partial}{\partial y}, \frac{\partial}{\partial z})$$. This is an operator on functions $$f \colon \mathbb{R}^3 \rightarrow \mathbb{R}$$.
 
-The operator $$\nabla$$ is called *nabla*, or, abbreviated, *del*, and is written as an upside-down triangle.
+The operator $$\vec{\nabla}$$ is called *nabla*, or, abbreviated, *del*, and is written as an upside-down triangle.
 
 In what follows, we will assume all functions are smooth.
 
@@ -32,6 +32,13 @@ Another way to write the gradient is $$grad(f) = \vec{\nabla} f$$, or, using ano
 $$
 \begin{align}
 \vec{\nabla} f = (\frac{\partial f}{\partial x}, \frac{\partial f}{\partial y}, \frac{\partial f}{\partial z})
+\end{align}
+$$
+
+The gradient $$\vec{\nabla}$$ can thus be seen as the operator
+$$
+\begin{align}
+\vec{\nabla}  = (\frac{\partial }{\partial x}, \frac{\partial }{\partial y}, \frac{\partial }{\partial z})
 \end{align}
 $$
 
