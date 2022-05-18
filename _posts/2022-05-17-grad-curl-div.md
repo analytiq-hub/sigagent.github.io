@@ -94,6 +94,8 @@ div(F) = \vec{\nabla} \cdot F
 \end{align}
 $$
 
+where $$\vec{\nabla}$$ acts on, rather than multiplies with the components of $$F$$.
+
 
 ## Relations between gradient, curl, divergence
 
