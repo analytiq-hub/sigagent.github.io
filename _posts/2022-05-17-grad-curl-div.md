@@ -188,11 +188,11 @@ The sequence of vector space maps
 
 $$
 \begin{align}
-\bf{0} \overset{d}{\longrightarrow} \mathcal{C}^{\infty} (\mathbb{R}, \mathbb{R})
+\bf{0} \longrightarrow \mathcal{C}^{\infty} (\mathbb{R}, \mathbb{R})
 \overset{grad}{\longrightarrow} \mathcal{C}^{\infty} (\mathbb{R}^3, \mathbb{R})
 \overset{curl}{\longrightarrow} \mathcal{C}^{\infty} (\mathbb{R}^3, \mathbb{R})
 \overset{div}{\longrightarrow} \mathcal{C}^{\infty} (\mathbb{R}, \mathbb{R})
-\overset{d}{\longrightarrow} \bf{0}
+\longrightarrow \bf{0}
 \end{align}
 $$
 
