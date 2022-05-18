@@ -109,26 +109,30 @@ $$
 \end{align}
 $$
 
-The differential operator $$d \colon \Omega^k(\mathbb{R}^n) \rightarrow \Omega^{k+1} (\mathbb{R}^n) $$ is given by
+The product of differential forms is anticommutative, i.e. $$dx_i dx_j = - dx_j dx_i$$. And the differential operator $$d \colon \Omega^k(\mathbb{R}^n) \rightarrow \Omega^{k+1} (\mathbb{R}^n) $$ is given by
 $$
 \begin{align}
 d\omega^{(k)}=\sum_{1 \le j \le n, \, i_1 \lt ... \lt i_k}^n\frac{\partial a_{i_1 ... i_k}}{\partial x_j}\,dx_j  dx_{i_1} ... dx_{i_k}
 \end{align}
 $$
 
-The product of differential forms is anticommutative, i.e. $$dx_i dx_j = - dx_j dx_i$$. The sqare of the differential is zero: $$d^2 \omegad(d \omega) = 0$$.
+The sqare of the differential is zero: $$d^2 \omega = d(d \omega) = 0$$.
 
 Differentiation of forms $$d$$ gives us a sequence of vector spaces
 
 $$
 \begin{align}
-\bf{0} \overset{d}{\longrightarrow} \Omega^0(\mathbb{R}^3)
-\overset{d}{\longrightarrow} \Omega^1(\mathbb{R}^3) 
-\overset{d}{\longrightarrow} \Omega^2(\mathbb{R}^3) 
-\overset{d}{\longrightarrow} \Omega^3(\mathbb{R}^3)
+\bf{0} \overset{d}{\longrightarrow} \Omega^0(\mathbb{R}^n)
+\overset{d}{\longrightarrow} \Omega^1(\mathbb{R}^n) 
+\overset{d}{\longrightarrow} \Omega^2(\mathbb{R}^n) 
+\overset{d}{\longrightarrow} \Omega^3(\mathbb{R}^n)
+...
+\overset{d}{\longrightarrow} \Omega^n(\mathbb{R}^n)
 \overset{d}{\longrightarrow} \bf{0}
 \end{align}
 $$
+
+
 
 The functions $$\mathbb{R}^3 \rightarrow \mathbb{R}$$ are 0-forms, i.e. they are elements in $$\Omega^0(\mathbb{R}^3)$$.
 
