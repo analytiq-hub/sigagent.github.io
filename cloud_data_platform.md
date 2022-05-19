@@ -118,6 +118,8 @@ title: Cloud Data Platform
     * [AWS Innovate - Data Edition](https://amer.resources.awscloud.com/aws-innovate-data-edition-2022) (2022)
       * [Prepare data for ML with ease, speed, and accuracy](https://amer.resources.awscloud.com/aws-innovate-data-edition-2022/prepare-data-for-ml-with-ease-speed-and-accuracy-1)
       * [End-to-end ML and data science workflows with Amazon EMR and SageMaker Studio](https://amer.resources.awscloud.com/aws-innovate-data-edition-2022/end-to-end-ml-and-data-science-workflows-with-amazon-emr-and-sagemaker-studio)
+  * Code
+    * [aws-samples](https://github.com/aws-samples)/[aws-sagemaker-ground-truth-recipe](https://github.com/aws-samples/aws-sagemaker-ground-truth-recipe)
 * Petastorm
   * [Docs](https://petastorm.readthedocs.io/en/latest/index.html)
   * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
