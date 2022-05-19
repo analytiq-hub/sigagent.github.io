@@ -25,7 +25,7 @@ title: Physics
 * [A Mathematical Companion to Quantum Mechanics](https://www.amazon.com/Mathematical-Companion-Quantum-Mechanics-Physics/dp/0486826899), S. Sternberg (2019)
 * [Physics from Symmetry](https://www.worldcat.org/title/physics-from-symmetry/oclc/910917227), J. Schwichtenberg (2015)
 * [Quantum Mechanics in Simple Matrix Form](https://www.amazon.com/Quantum-Mechanics-Simple-Matrix-Physics/dp/0486445305), Thomas F. Jordan (1986). An exposition in the simplest operator form, starting from 2x2 matrices, and avoiding any discussion of eigenvalues, hermitian matrices, etc.
-* [Quantum Theory for Mathematicians](https://www.amazon.com/Quantum-Theory-Mathematicians-Graduate-Mathematics/dp/146147115X), Brian C. Hall (2013)
+* [Quantum Theory for Mathematicians](https://www.amazon.com/Quantum-Theory-Mathematicians-Graduate-Mathematics/dp/146147115X), Brian C. Hall (2013), [review](https://www.amazon.com/gp/customer-reviews/R3Q509T6Z13W5G/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=146147115X)
 
 #### Geometric Quantization
 * Wikipedia: [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization)
