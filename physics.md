@@ -27,6 +27,9 @@ title: Physics
 * W.G. Ritter: [Geometric Quantization](https://arxiv.org/pdf/math-ph/0208008.pdf) (2018)
 * J. Baez: [Geometric Quantization](https://math.ucr.edu/home/baez/quantization.html) (2018)
 
+#### Geometric Mechanics
+* [Melvin Leok](https://mathweb.ucsd.edu/~mleok/): [Foundations of Computational Geometric Mechanics](https://mathweb.ucsd.edu/~mleok/pdf/siam_spp_paper.pdf), written as a student paper. See his homepage for more recent work.
+
 #### Lecture Notes
 * [Intermediate Classical Mechanics](http://www.physics.usu.edu/torre/3550_Fall_2013/), Charles Torre (2013)
 
