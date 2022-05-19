@@ -10,6 +10,9 @@ title: Physics
 * [A Modern Approach to Quantum Mechanics](https://www.amazon.com/Modern-Approach-Quantum-Mechanics/dp/1891389785), John S. Townsend (2021)
 * [Group Theory and Physics](https://www.amazon.com/Group-Theory-Physics-S-Sternberg/dp/0521558859), S. Sternberg (1994)
 
+#### Gravitation
+* [Gravitation](https://www.amazon.com/Gravitation-Charles-W-Misner/dp/0691177791), Misner, Thorne, Wheeler (1973). I have not read it, but it's supposed to be 'the' reference on gravity as of the 1970s. And it's [supposed to have](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.1099&rep=rep1&type=pdf) really clear physical interpretation of differential geometric concepts.
+
 #### Statistical Mechanics
 * [Statistical Mechanics](https://www.amazon.com/Statistical-Mechanics-2nd-Kerson-Huang/dp/0471815187), Kerson Huang (1987)
 * [Statistical Mechanics of Neural Networks](https://www.amazon.com/Statistical-Mechanics-Neural-Networks-Haiping/dp/9811675694), H. Huang (2021)
