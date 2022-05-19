@@ -4,11 +4,15 @@ mathjax: true
 title: Physics
 ---
 #### Books
-* [Classical Mechanics](https://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/B003I03F42), Charles Taylor (2005). Easy to read, well explained, at the level of 2nd undergrad course in mechanics. Reputed to have the best explanation of the Lagrangian. Replete with well picked exercises. Requires a bit of calculus - derivatives, integrals, very basic PDEs. No differential geometry required.
 * [Quantum Field Theory for the Gifted Amateur](https://www.amazon.com/Quantum-Field-Theory-Gifted-Amateur/dp/019969933X), T. Lancaster, S. J. Blundell (2014)
 * [The Road to Reality](https://www.amazon.com/Road-Reality-Complete-Guide-Universe/dp/0679776311), Roger Penrose (2007). Great companion to other more in-depth books, explains how all the parts of physics 'fit together' in the larger theory. Requires simple understanding of differential geometry (and is in fact a great companion to any rigorous book on differential geometry). I've started with the chapter on Lagrangian and Hamiltonian mechanics, and paired it with the Taylor textbook.
 * [A Modern Approach to Quantum Mechanics](https://www.amazon.com/Modern-Approach-Quantum-Mechanics/dp/1891389785), John S. Townsend (2021)
 * [Group Theory and Physics](https://www.amazon.com/Group-Theory-Physics-S-Sternberg/dp/0521558859), S. Sternberg (1994)
+
+#### Classical Mechanics
+* [Classical Mechanics](https://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/B003I03F42), Charles Taylor (2005). Easy to read, well explained, at the level of 2nd undergrad course in mechanics. Reputed to have the best explanation of the Lagrangian. Replete with well picked exercises. Requires a bit of calculus - derivatives, integrals, very basic PDEs. No differential geometry required.
+* [Mathematical Methods of Classical Mechanics](https://www.amazon.com/Mathematical-Classical-Mechanics-Graduate-Mathematics/dp/0387968903/), V.I. Arnold, 2nd ed (1989)
+* [Introduction to Mechanics and Symmetry](https://www.amazon.com/exec/obidos/ASIN/038798643X/melvinleokshomep), J.E. Marsden, T.S.Ratiu, 2nd ed (2010)
 
 #### Gravitation
 * [Gravitation](https://www.amazon.com/Gravitation-Charles-W-Misner/dp/0691177791), Misner, Thorne, Wheeler (1973). I have not read it, but it's supposed to be 'the' reference on gravity as of the 1970s. And it's [supposed to have](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.1099&rep=rep1&type=pdf) really clear physical interpretation of differential geometric concepts.
@@ -21,6 +25,7 @@ title: Physics
 * [A Mathematical Companion to Quantum Mechanics](https://www.amazon.com/Mathematical-Companion-Quantum-Mechanics-Physics/dp/0486826899), S. Sternberg (2019)
 * [Physics from Symmetry](https://www.worldcat.org/title/physics-from-symmetry/oclc/910917227), J. Schwichtenberg (2015)
 * [Quantum Mechanics in Simple Matrix Form](https://www.amazon.com/Quantum-Mechanics-Simple-Matrix-Physics/dp/0486445305), Thomas F. Jordan (1986). An exposition in the simplest operator form, starting from 2x2 matrices, and avoiding any discussion of eigenvalues, hermitian matrices, etc.
+* [Quantum Theory for Mathematicians](https://www.amazon.com/Quantum-Theory-Mathematicians-Graduate-Mathematics/dp/146147115X), Brian C. Hall (2013)
 
 #### Geometric Quantization
 * Wikipedia: [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization)
