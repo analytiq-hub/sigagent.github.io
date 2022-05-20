@@ -40,7 +40,7 @@ title: Physics
 
 #### Courses
 * Leonard Susskind: [All Stanford physics lectures in order](https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e)
-  * Modern Physics: Classical Mechanics
+  * [Classical Mechanics](https://theoreticalminimum.com/courses/classical-mechanics/2011/fall) (Fall 2011)
     * [Lecture 1](https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e) Newton's laws
     * [Lecture 2](https://www.youtube.com/watch?v=h96SW0PfQcg&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=2) Principle of least action. Lagrangian.
     * [Lecture 3](https://www.youtube.com/watch?v=3YARPNZrcIY&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=3). Proof of the principle of least action. Equivalence with Newton's laws. Examples.
@@ -52,11 +52,18 @@ title: Physics
     * [Lecture 9](https://www.youtube.com/watch?v=WJn6h-6MMa8&list=PL47F408D36D4CF129&index=9) Gradient, curl, divergence. Divergence of curl is zero. Fields with zero divergence are curls. Curl of gradient is zero. Fields with zero curl are gradients. Electrostatic field $$\vec{E}$$. Magnetic field $$\vec{B}$$. Comparison of magnetic force with Coriolis force. Zero divergence of magnetic field. Vector potential $$\vec{A}$$ defined so its curl is $$\vec{B}$$. Non-uniqueness of $$\vec{A}$$, up to gauge transformation $$\vec{A} + \vec{\nabla}f$$. Origin of term gauge as historical glitch. Lorenz force $$\vec{F} = e (-\vec{\nabla}V + \frac{\vec{v}}{c} \times \vec{B})$$. Lagrangian for Lorenz force $$\mathcal{L} = \frac{m}{2} \dot{x}^2 - eV + \frac{e}{c} \vec{A} \cdot \dot{x}$$. Gauge invariance of the Lagrangian least action.
     * [Lecture 10](https://www.youtube.com/watch?v=bn5lKYHenSQ&list=PL47F408D36D4CF129&index=11) Lagrangian of a particle in a magnetic field. Gauge invariance. Mechanical vs. canonical momentum. The Hamiltonian. Motion of a charged particle in a uniform magnetic field. Non-existence in practice of magnetic monopoles. Theoretical construction of a magnetic monopole.
     
-  * Quantum Entanglements, Part 1
+  * Quantum Entanglement, Part 1 (2006)
     * [Lecture 1](https://www.youtube.com/watch?v=0Eeuqh9QfNI) Classical bits. States in classical Physics. Transformations. Reversibility. Computability of states and transformations. Vectors, matrices.
     * [Lecture 2](https://www.youtube.com/watch?v=VtBRKw1Ab7E&list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e&index=21): Electron spin. Complex vector spaces. Bra-kets. Quantum bit. Hermitian matrices as observables.
     * [Lecture 3](https://www.youtube.com/watch?v=CaTF4QZ94Fk&list=PLF1A950040024A1ED&index=3) Pauli matrices. Spin. Probabilistic interpretation.
     * [Lecture 4](https://www.youtube.com/watch?v=5vfo512fvlE&t=3220s) Probabilities between any two spin directions. There always exist a direction for which a vector is an eigenvector of measuring spin in that direction. Quantum entagled pair of electrons. How to create an entangled pair.
+
+  * [General Relativity](https://theoreticalminimum.com/courses/general-relativity/2012/fall) (Fall 2012), not yet watched
+  * [Quantum Mechanics](https://theoreticalminimum.com/courses/quantum-mechanics/2012/winter) (Winter 2012), not yet watched
+  * [Special Relativity and Electrodynamics](https://theoreticalminimum.com/courses/special-relativity-and-electrodynamics/2012/spring) (Spring 2012), not yet watched
+  * [Cosmology](https://theoreticalminimum.com/courses/cosmology/2013/winter) (Winter 2013), not yet watched
+  * [Statistical Mechanics](https://theoreticalminimum.com/courses/statistical-mechanics/2013/spring) (Spring 2013), not yet watched
+  * [Supplemental Courses](https://theoreticalminimum.com/courses/supplemental), [Archived Courses](https://theoreticalminimum.com/courses/archive)
 
 #### Surveys
 * [Seminaire Poincare - Information, 2018](http://www.bourbaphy.fr/novembre2018.html)
