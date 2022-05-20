@@ -131,6 +131,7 @@ title: Cloud Data Platform
   * [Using Snowpark As Part Of Your Machine Learning Workflow](https://www.youtube.com/watch?v=2jM7yz2Abd4) (2022)
   * [Large-Scale Machine Learning with Snowflake and RAPIDS](https://medium.com/snowflake/large-scale-machine-learning-with-snowflake-and-rapids-7796b5e979aa), by M. Adkins et al (2022)
   * [Databricks vs Snowflake: 9 Critical Differences](https://hevodata.com/learn/databricks-vs-snowflake/), A. Phaujdar (2021)
+  * [Databricks vs Snowflake: The Definitive Guide](https://hightouch.io/blog/databricks-vs-snowflake-the-definitive-guide/) (2021)
 
 #### Companies
 * Uber
