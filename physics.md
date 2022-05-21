@@ -12,6 +12,7 @@ title: Physics
 #### Classical Mechanics
 * [Classical Mechanics](https://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/B003I03F42), Charles Taylor (2005). Easy to read, well explained, at the level of 2nd undergrad course in mechanics. Reputed to have the best explanation of the Lagrangian. Replete with well picked exercises. Requires a bit of calculus - derivatives, integrals, very basic PDEs. No differential geometry required.
 * [Mathematical Methods of Classical Mechanics](https://www.amazon.com/Mathematical-Classical-Mechanics-Graduate-Mathematics/dp/0387968903/), V.I. Arnold, 2nd ed (1989)
+* [Mechanics: Course of Theoretical Physics](https://www.amazon.com/Mechanics-Course-Theoretical-Physics-Landau/dp/0750628960), Lev Landau, Evgenij M. Lifshitz (1976)
 * [Introduction to Mechanics and Symmetry](https://www.amazon.com/exec/obidos/ASIN/038798643X/melvinleokshomep), J.E. Marsden, T.S.Ratiu, 2nd ed (2010)
 
 #### Gravitation
