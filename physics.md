@@ -76,7 +76,7 @@ title: Physics
 * U. Schreiber: [geometry of physics -- perturbative quantum field theory](https://ncatlab.org/nlab/show/geometry+of+physics+--+perturbative+quantum+field+theory) (2017)
 
 #### Videos
-* Sean Carroll: [The biggest ideas in the universe](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
+* Sean Carroll: [The biggest ideas in the universe](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX). Watched up up and including #12, Scale.
 * Lex Fridman:
   * [Cumrun Vafa: String Theory](https://www.youtube.com/watch?v=j4_VyRDOmN4) (2021). See his explanation of the difference between physics and math.
   * [Peter Woit: Theories of Everything & Why String Theory is Not Even Wrong](https://www.youtube.com/watch?v=nDDJFvuFXdc) (Dec 2021)
