@@ -129,6 +129,9 @@ title: Cloud Data Platform
   * L. Zhang, Databricks: [Simplify Data Conversion from Spark to Deep Learning](https://www.youtube.com/watch?v=lQJO_aKGaFs), [slides](https://www.iteblog.com/ppt/data-ai-summit-2021/simplify-data-conversion-from-spark-to-tensorflow-and-pytorch_iteblog.com.pdf) (2021). This is an example of Petastorm and Horovod on Tensorflow and PyTorch.
 * Snowflake
   * [Using Snowpark As Part Of Your Machine Learning Workflow](https://www.youtube.com/watch?v=2jM7yz2Abd4) (2022)
+  * [Large-Scale Machine Learning with Snowflake and RAPIDS](https://medium.com/snowflake/large-scale-machine-learning-with-snowflake-and-rapids-7796b5e979aa), by M. Adkins et al (2022)
+  * [Databricks vs Snowflake: 9 Critical Differences](https://hevodata.com/learn/databricks-vs-snowflake/), A. Phaujdar (2021)
+  * [Databricks vs Snowflake: The Definitive Guide](https://hightouch.io/blog/databricks-vs-snowflake-the-definitive-guide/) (2021)
 
 #### Companies
 * Uber
