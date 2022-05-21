@@ -78,6 +78,7 @@ title: Physics
 #### Videos
 * Sean Carroll: [The biggest ideas in the universe](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
 * Lex Fridman:
+  * [Cumrun Vafa: String Theory](https://www.youtube.com/watch?v=j4_VyRDOmN4) (2021). See his explanation of the difference between physics and math.
   * [Peter Woit: Theories of Everything & Why String Theory is Not Even Wrong](https://www.youtube.com/watch?v=nDDJFvuFXdc) (Dec 2021)
 * 3Blue1Brown: [Some light quantum mechanics (with minutephysics)](https://www.youtube.com/watch?v=MzRCDLre1b4)
 * Physics with Elliot: [Before You Start On Quantum Mechanics, Learn This](https://www.youtube.com/watch?v=Nd4b0_vJZUk)
