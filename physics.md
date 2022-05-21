@@ -88,6 +88,8 @@ title: Physics
 * Physics with Elliot: [Before You Start On Quantum Mechanics, Learn This](https://www.youtube.com/watch?v=Nd4b0_vJZUk)
 * Gerard 't Hooft
   * [The Cellular Automaton Interpretation of Quantum Mechanics](https://www.youtube.com/watch?v=F3hPvusB0ds) (2016), [slides](https://www.tfc.tohoku.ac.jp/wp-content/uploads/2015/04/CAI_axioms_2015_Sendai.pdf), to be watched... recommended by Leonard Susskind
+* Veritasium
+  * [The Bizarre Behavior of Rotating Bodies](https://www.youtube.com/watch?v=1VPfZ_XzisU) (2019): intuitive explanation of Tennis Racket Theorem
 * Parth G
   * [Spin in Quantum Mechanics: What Is It and Why Are Electrons Spin 1/2? Physics Basics](https://www.youtube.com/watch?v=DCrvanB2UWA) (2020)
 
