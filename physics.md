@@ -85,6 +85,8 @@ title: Physics
   * [Leonard Susskind: Quantum Mechanics, String Theory and Black Holes](https://www.youtube.com/watch?v=s78hvV3QLUE) (2020)
 * 3Blue1Brown: [Some light quantum mechanics (with minutephysics)](https://www.youtube.com/watch?v=MzRCDLre1b4)
 * Physics with Elliot: [Before You Start On Quantum Mechanics, Learn This](https://www.youtube.com/watch?v=Nd4b0_vJZUk)
+* Gerard 't Hooft
+  * [The Cellular Automaton Interpretation of Quantum Mechanics](https://www.youtube.com/watch?v=F3hPvusB0ds) (2016)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
