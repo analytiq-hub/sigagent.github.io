@@ -92,6 +92,12 @@ title: Physics
   * [The Bizarre Behavior of Rotating Bodies](https://www.youtube.com/watch?v=1VPfZ_XzisU) (2019): intuitive explanation of Tennis Racket Theorem
 * Parth G
   * [Spin in Quantum Mechanics: What Is It and Why Are Electrons Spin 1/2? Physics Basics](https://www.youtube.com/watch?v=DCrvanB2UWA) (2020)
+* NoahExplainsPhysics
+  * Quantum Spin
+    * [1 Introduction](https://www.youtube.com/watch?v=r0nDhrAwskU)
+    * [2 Pauli Matrices](https://www.youtube.com/watch?v=qDaoV5S9oTE)
+    * [3 Block Sphere](https://www.youtube.com/watch?v=10qvMocHFZg)
+    * ...
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
