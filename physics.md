@@ -100,6 +100,9 @@ title: Physics
     * ...
  * Eugene Khutoryansky
    * [Quantum Spin - Visualizing the physics and mathematics](https://www.youtube.com/watch?v=3k5IWlVdMbo) (2016)
+ * PBS Space Time
+   * [Noether's Theorem and The Symmetries of Reality](https://www.youtube.com/watch?v=04ERSb06dOg&list=PLsPUh22kYmNAnurqRx9JlDGukZCsYcLhF&index=1) (2018)
+   * [Electrons DO NOT Spin](https://www.youtube.com/watch?v=pWlk1gLkF2Y) (2021)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
