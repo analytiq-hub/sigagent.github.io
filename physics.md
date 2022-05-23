@@ -98,6 +98,8 @@ title: Physics
     * [2 Pauli Matrices](https://www.youtube.com/watch?v=qDaoV5S9oTE)
     * [3 Block Sphere](https://www.youtube.com/watch?v=10qvMocHFZg)
     * ...
+ * Eugene Khutoryansky
+   * [Quantum Spin - Visualizing the physics and mathematics](https://www.youtube.com/watch?v=3k5IWlVdMbo) (2016)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
