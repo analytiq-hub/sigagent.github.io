@@ -77,6 +77,7 @@ title: Cloud Data Platform
   * Vaibhav Satpathy
     * [Setup MLflow on AWS EC2](https://medium.com/analytics-vidhya/setup-mlflow-on-aws-ec2-94b8e473618f) (2021)
     * MLOps deployment on AWS Fargate: [I](https://medium.com/@vaibhavsatpathy/mlops-deployment-into-aws-fargate-i-bd612af5dd7a) [II](https://medium.com/analytics-vidhya/mlops-deployment-in-to-aws-fargate-ii-95321942b9e1) (2021)
+  * [ML-Ops, Part 1: Organise your ML Experiments with ML-Flow on AWS](https://allcloud.io/blog/organise-your-ml-experiments-with-mlflow-on-aws/)
 * Spark
   * [Learning Spark: Lightning-Fast Data Analytics](https://www.amazon.com/Learning-Spark-Jules-Damji/dp/1492050040/ref=sr_1_4), 2nd editon, by J. Damji et al (2020)
   * Spark ML
