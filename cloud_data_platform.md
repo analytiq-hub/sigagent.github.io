@@ -74,7 +74,9 @@ title: Cloud Data Platform
   * Databricks docs: [HorovodRunner: distributed deep learning with Horovod ](https://docs.databricks.com/applications/machine-learning/train-model/distributed-training/horovod-runner.html)
   * T. Addair: [End-to-End Deep Learning with Horovod on Apache Spark](https://databricks.com/session_na20/end-to-end-deep-learning-with-horovod-on-apache-spark) (2020)
 * MLFlow
-  * Vaibhav Satpathy: [Setup MLflow on AWS EC2](https://medium.com/analytics-vidhya/setup-mlflow-on-aws-ec2-94b8e473618f) (2021)
+  * Vaibhav Satpathy
+    * [Setup MLflow on AWS EC2](https://medium.com/analytics-vidhya/setup-mlflow-on-aws-ec2-94b8e473618f) (2021)
+    * MLOps deployment on AWS Fargate: [I](https://medium.com/@vaibhavsatpathy/mlops-deployment-into-aws-fargate-i-bd612af5dd7a) [II](https://medium.com/analytics-vidhya/mlops-deployment-in-to-aws-fargate-ii-95321942b9e1) (2021)
 * Spark
   * [Learning Spark: Lightning-Fast Data Analytics](https://www.amazon.com/Learning-Spark-Jules-Damji/dp/1492050040/ref=sr_1_4), 2nd editon, by J. Damji et al (2020)
   * Spark ML
