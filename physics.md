@@ -104,6 +104,7 @@ title: Physics
  * PBS Space Time - higher level but explains big picture particularly well
    * [Noether's Theorem and The Symmetries of Reality](https://www.youtube.com/watch?v=04ERSb06dOg&list=PLsPUh22kYmNAnurqRx9JlDGukZCsYcLhF&index=1) (2018)
    * [Electrons DO NOT Spin](https://www.youtube.com/watch?v=pWlk1gLkF2Y) (2021)
+* Sabine Hossenfelder [blog](http://backreaction.blogspot.com/), [youtube](https://www.youtube.com/c/SabineHossenfelder)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
