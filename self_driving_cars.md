@@ -81,7 +81,11 @@ title: Self Driving Cars
 * De Jong Yang et al: [Sensor and Sensor Fusion Technology in Autonomous Vehicles: A Review](https://mdpi-res.com/d_attachment/sensors/sensors-21-02140/article_deploy/sensors-21-02140-v2.pdf?version=1616339580) (2021)
 * A. Jain et al: [High-Fidelity Sensor Calibration for Autonomous Vehicles](https://medium.com/wovenplanetlevel5/high-fidelity-sensor-calibration-for-autonomous-vehicles-6af06eba4c26) (2019)
 * P. Meruva: [Sensor Calibration is Critical to the Future of Automated Vehicles](https://medium.com/fot-future-of-transportation-trucks-vc/trucks-fot-research-brief-sensor-calibration-for-automated-vehicles-d21cf446be05) (2020)
-
+* Chen, Xiaozhi, Huimin Ma, Ji Wan, Bo Li, and Tian Xia: [Multi-view 3d object detection network for autonomous driving](https://arxiv.org/abs/1611.07759) (2016)
+* Ku, Jason, Melissa Mozifian, Jungwook Lee, Ali Harakeh, and Steven L. Waslander: [Joint 3d proposal generation and object detection from view aggregation](https://arxiv.org/abs/1712.02294) (2017)
+* Qi, Charles R., Wei Liu, Chenxia Wu, Hao Su, Leonidas J. Guibas: [Frustum pointnets for 3d object detection from rgb-d data](https://arxiv.org/abs/1711.08488) (2018)
+* Vora, Sourabh, Alex H. Lang, Bassam Helou, Oscar Beijbom. [Pointpainting: Sequential fusion for 3d object detection](https://arxiv.org/abs/1911.10150) (2019)
+* Li, Yingwei, Adams Wei Yu, Tianjian Meng, Ben Caine, Jiquan Ngiam, Daiyi Peng, Junyang Shen et al. [Deepfusion: Lidar-camera deep fusion for multi-modal 3d object detection](https://arxiv.org/pdf/2203.08195.pdf) (2022).
 
 #### Datasets
 * [KITTI-360: A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D](https://arxiv.org/pdf/2109.13410v1.pdf)
