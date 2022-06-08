@@ -25,7 +25,7 @@ title: Physics
 * [A Mathematical Companion to Quantum Mechanics](https://www.amazon.com/Mathematical-Companion-Quantum-Mechanics-Physics/dp/0486826899), S. Sternberg (2019)
 * [Physics from Symmetry](https://www.worldcat.org/title/physics-from-symmetry/oclc/910917227), J. Schwichtenberg (2015)
 * [Quantum Mechanics in Simple Matrix Form](https://www.amazon.com/Quantum-Mechanics-Simple-Matrix-Physics/dp/0486445305), Thomas F. Jordan (1986). An exposition in the simplest operator form, starting from 2x2 matrices, and avoiding any discussion of eigenvalues, hermitian matrices, etc.
-* [Quantum Theory for Mathematicians](https://www.amazon.com/Quantum-Theory-Mathematicians-Graduate-Mathematics/dp/146147115X), Brian C. Hall (2013), [review](https://www.amazon.com/gp/customer-reviews/R3Q509T6Z13W5G/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=146147115X)
+* [Quantum Theory for Mathematicians](https://www.amazon.com/Quantum-Theory-Mathematicians-Graduate-Mathematics/dp/146147115X), Brian C. Hall (2013), [homepage](https://www3.nd.edu/~bhall/book/quantum.html), [review](https://www.amazon.com/gp/customer-reviews/R3Q509T6Z13W5G/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=146147115X)
 * [A Modern Approach to Quantum Mechanics](https://www.amazon.com/Modern-Approach-Quantum-Mechanics/dp/1891389785), John S. Townsend (2021)
 * [101 Quantum Questions](https://www.amazon.com/101-Quantum-Questions-About-World/dp/0674066073), Kenneth W. Ford (2011). For some reason, this is an easier read, perhaps because it speaks, at least in the earlier sections, of the experiments that resulted in the discoveries of various elementary particles and quantum effects. This makes it an ideal companion to the more mathematically inclined books.
 
