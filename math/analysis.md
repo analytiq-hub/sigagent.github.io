@@ -7,6 +7,7 @@ title: Analysis
 #### Books
 * P. Halmos: [Measure Theory](https://www.amazon.com/Measure-Theory-Graduate-Texts-Mathematics/dp/0387900888) (1950)
 * W. Rudin: [Real and complex analysis](https://www.amazon.com/Real-Complex-Analysis-Higher-Mathematics/dp/0070542341/), 3rd ed (1987)
+* W. Rudin: [Functional Analysis](https://www.amazon.com/gp/product/0070619883), 2nd ed (1991)
 
 #### Links
 * Math
