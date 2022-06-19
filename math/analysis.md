@@ -16,6 +16,7 @@ title: Analysis
 
 #### Courses
 * [Advanced Real Analysis with Ole Christensen](https://cosmolearning.org/courses/advanced-real-analysis-with-ole-christensen/),[youtube](https://www.youtube.com/playlist?list=PLaLOVNqqD-2FgXrlAPLv-iJRH-SriVqoq) (2015)
+  * Course textbook: O. Christensen: [Functions, Spaces, and Expansions](https://www.amazon.com/Functions-Spaces-Expansions-Mathematical-Engineering/dp/0817649794) (2010)
 
 
 #### Links
