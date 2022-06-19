@@ -14,6 +14,7 @@ title: Algebraic Topology
   * [Abstract Nonsense](math/abstract_nonsense.md)
   * [Algebraic Geometry](math/algebraic_geometry.md)
   * [Automated Theorem Proving](math/automated_theorem_proving.md)
+  * [Linear Algebra](math/linear_algebra.md)
   * [Representation Theory](math/representation_theory.md)
   * [Topology](math/topology.md)
 * [Physics](physics.md)

@@ -47,6 +47,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Algebraic Geometry](math/algebraic_geometry.md)
   * [Analysis](math/analysis.md)
   * [Automated Theorem Proving](math/automated_theorem_proving.md)
+  * [Linear Algebra](math/linear_algebra.md)
   * [High School Problems](math/high_school.md)
   * [High School Problem Hints and Solutions](math/high_school_solutions.md)
   * [Representation Theory](math/representation_theory.md)
