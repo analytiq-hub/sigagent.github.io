@@ -15,6 +15,7 @@ title: Representation Theory
   * [Abstract Nonsense](math/abstract_nonsense.md)
   * [Algebra](math/algebra.md)
   * [Algebraic Geometry](math/algebraic_geometry.md)
+  * [Analysis](math/analysis.md)
   * [Automated Theorem Proving](math/automated_theorem_proving.md)
   * [Topology](math/topology.md)
 * [Physics](physics.md)
