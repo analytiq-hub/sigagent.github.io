@@ -16,7 +16,7 @@ title: Analysis
 * O. Christensen: [Functions, Spaces, and Expansions](https://www.amazon.com/Functions-Spaces-Expansions-Mathematical-Engineering/dp/0817649794) (2010)
 
 #### Courses
-* [Advanced Real Analysis with Ole Christensen](https://cosmolearning.org/courses/advanced-real-analysis-with-ole-christensen/),[youtube](https://www.youtube.com/playlist?list=PLaLOVNqqD-2FgXrlAPLv-iJRH-SriVqoq),[taxtbook](https://www.amazon.com/Functions-Spaces-Expansions-Mathematical-Engineering/dp/0817649794) (2015)
+* [Advanced Real Analysis with Ole Christensen](https://cosmolearning.org/courses/advanced-real-analysis-with-ole-christensen/),[youtube](https://www.youtube.com/playlist?list=PLaLOVNqqD-2FgXrlAPLv-iJRH-SriVqoq),[taxtbook](https://www.amazon.com/Functions-Spaces-Expansions-Mathematical-Engineering/dp/0817649794) (2015). This is a course for engineers and physicists, and may skip some proofs, however, the missing proofs should be found in one of Rudin's books.
 
 
 #### Links
