@@ -60,6 +60,7 @@ title: Self Driving Cars
 * [Vehicle Detection from 3D Lidar Using Fully Convolutional Network](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Li2016RSS.pdf), Bo Li et al (2016)
 * [Review: Deep Learning on 3D Point Clouds](https://www.mdpi.com/2072-4292/12/11/1729/htm), S.A.Bello et al (2020)
 * [Towards safe, data-driven autonomy](https://www.youtube.com/watch?v=K2IrAjlzm6s), Marco Pavone, MIT Robotics talk (2022)
+* [Differentiable Algorithm Networks for Composable Robot Learning](https://arxiv.org/pdf/1905.11602.pdf), P. Karkus et al (2019), [talk](https://www.youtube.com/watch?v=cZ8l_yjFcaQ)
 
 #### 2007 Darpa Challenge
 * [Towards Fully Autonomous Driving: Systems and  Algorithms](https://cs.stanford.edu/people/teichman/papers/iv2011.pdf), by Jesse Levinson et. al. (2011 IEEE Intelligent Vehicles Symposium (IV), Baden-Baden, Germany, June 5-9, 2011). Describes the Stanford entry at the 2007 DARPA Challenge, and follow-up work.
