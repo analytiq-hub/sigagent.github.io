@@ -34,6 +34,8 @@ title: Cloud Data Platform
     * [Amazon EMR Deep Dive and Best Practices - AWS Online Tech Talks](https://www.youtube.com/watch?v=dU40df0Suoo)
   * Access Control
     * [Amazon S3 Access Control - IAM Policies, Bucket Policies and ACLs](https://www.youtube.com/watch?v=xFzJw6wJ8eY)
+  * Step Functions
+    * [AWS Step Functions - The Application Catalyst](https://www.youtube.com/watch?v=Yn4-yugQZ4U) (webinar, 2021)
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Neptune.ai](https://neptune.ai/)
 * [Jupyterhub](https://jupyterhub.readthedocs.io)
