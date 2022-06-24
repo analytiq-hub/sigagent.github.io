@@ -29,6 +29,7 @@ title: Physics
 * [Quantum Theory for Mathematicians](https://www.amazon.com/Quantum-Theory-Mathematicians-Graduate-Mathematics/dp/146147115X), Brian C. Hall (2013), [homepage](https://www3.nd.edu/~bhall/book/quantum.html), [review](https://www.amazon.com/gp/customer-reviews/R3Q509T6Z13W5G/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=146147115X)
 * [A Modern Approach to Quantum Mechanics](https://www.amazon.com/Modern-Approach-Quantum-Mechanics/dp/1891389785), John S. Townsend (2021)
 * [101 Quantum Questions](https://www.amazon.com/101-Quantum-Questions-About-World/dp/0674066073), Kenneth W. Ford (2011). For some reason, this is an easier read, perhaps because it speaks, at least in the earlier sections, of the experiments that resulted in the discoveries of various elementary particles and quantum effects. This makes it an ideal companion to the more mathematically inclined books.
+* G.W. Mackey: [Unitary Group Representations in Physics, Probability, and Number Theory](https://www.amazon.com/Unitary-Representations-Physics-Probability-Mathematics/dp/0805367039) (1978)
 
 ##### Axiomatic Systems for Quantum Mechanics
 * G. Cassinelli, P. Lahti: [Quantum mechanics: why complex Hilbert space?](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2016.0393) (2021)
