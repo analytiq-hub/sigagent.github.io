@@ -40,6 +40,7 @@ title: Physics
 * Wikipedia: [Geometric Quantization](https://en.wikipedia.org/wiki/Geometric_quantization)
 * W.G. Ritter: [Geometric Quantization](https://arxiv.org/pdf/math-ph/0208008.pdf) (2018)
 * J. Baez: [Geometric Quantization](https://math.ucr.edu/home/baez/quantization.html) (2018)
+* M. Blau: [Symplectic Geometry and Geometric Quantization](https://ncatlab.org/nlab/files/BlauGeometricQuantization.pdf)
 
 #### Geometric Mechanics
 * [Melvin Leok](https://mathweb.ucsd.edu/~mleok/): [Foundations of Computational Geometric Mechanics](https://mathweb.ucsd.edu/~mleok/pdf/siam_spp_paper.pdf), written as a student paper. See his homepage for more recent work.
