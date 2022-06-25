@@ -9,6 +9,7 @@ title: Representation Theory
   * T.A.Springer: [Linear Algebraic Groups](https://www.amazon.com/Linear-Algebraic-Groups-Birkh%C3%A4user-Classics/dp/0817648399), 2nd edition
 * Lie Algebras
   * J.E.Humphreys: [Introduction to Lie Algebras and Representation Theory](https://www.amazon.com/Introduction-Algebras-Representation-Graduate-Mathematics/dp/0387900535)
+* A.A. Kirillov: [Elements of the Theory of Representations](https://www.amazon.com/Elements-Representations-Grundlehren-mathematischen-Wissenschaften/dp/3540074767/), translated from Russian (1976)
 
 #### Links
 * Math
