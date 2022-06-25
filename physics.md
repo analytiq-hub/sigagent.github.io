@@ -30,6 +30,7 @@ title: Physics
 * [A Modern Approach to Quantum Mechanics](https://www.amazon.com/Modern-Approach-Quantum-Mechanics/dp/1891389785), John S. Townsend (2021)
 * [101 Quantum Questions](https://www.amazon.com/101-Quantum-Questions-About-World/dp/0674066073), Kenneth W. Ford (2011). For some reason, this is an easier read, perhaps because it speaks, at least in the earlier sections, of the experiments that resulted in the discoveries of various elementary particles and quantum effects. This makes it an ideal companion to the more mathematically inclined books.
 * G.W. Mackey: [Unitary Group Representations in Physics, Probability, and Number Theory](https://www.amazon.com/Unitary-Representations-Physics-Probability-Mathematics/dp/0805367039) (1978)
+* L. Mangiarotti et al: [Geometric and Algebraic Topological Methods in Quantum Mechanics](https://www.amazon.com/Geometric-Algebraic-Topological-Methods-Mechanics/dp/9812561293) (2005)
 
 ##### Axiomatic Systems for Quantum Mechanics
 * G. Cassinelli, P. Lahti: [Quantum mechanics: why complex Hilbert space?](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2016.0393) (2021)
