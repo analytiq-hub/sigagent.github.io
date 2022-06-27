@@ -16,7 +16,7 @@ title: Interview Preparation
 #### Talks
 * H. Fisk: [Large-Scale Low-Latency Storage for the Social Network](https://www.youtube.com/watch?v=5RfFhMwRAic) (2013)
 
-#### Algorithms Youtube Resources
+#### Algorithms
 * [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
 
 #### Blog Posts
