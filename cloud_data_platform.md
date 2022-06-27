@@ -39,6 +39,9 @@ title: Cloud Data Platform
     * [Getting started with Serverless](https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b/en-US)
     * [Build, Secure, Manage Serverless Applications at Scale on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/b34eab03-4ebe-46c1-bc63-cd2d975d8ad4/en-US)
     * [Tutorial: Using AWS Lambda with Amazon Kinesis](https://docs.aws.amazon.com/lambda/latest/dg/with-kinesis-example.html)
+  * Chalice
+    * [github](https://github.com/aws/chalice)
+    * [Tutorials](https://aws.github.io/chalice/tutorials/index.html)
  * Step Functions:
    * [The AWS Step Functions Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/9e0368c0-8c49-4bec-a210-8480b51a34ac/en-US)
    * [AWS Step Functions - The Application Catalyst](https://www.youtube.com/watch?v=Yn4-yugQZ4U) (webinar, 2021)
