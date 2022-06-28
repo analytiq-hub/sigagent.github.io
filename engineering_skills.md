@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Engineering Skills
+mathjax: true
 ---
 
 #### Coding Sites
