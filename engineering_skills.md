@@ -48,8 +48,8 @@ mathjax: true
 
 #### Algorithms - Practice
 
-| Topic | Priority |
-| ----- | -------- |
+| Topic  | Priority  |
+| :----- | :-------- |
 | [Array](engineering_skills/array.md) | High |
 | String | High |
 | Hash Table | Mid |
