@@ -34,6 +34,8 @@ title: Cloud Data Platform
     * [Amazon EMR Deep Dive and Best Practices - AWS Online Tech Talks](https://www.youtube.com/watch?v=dU40df0Suoo)
   * Access Control
     * [Amazon S3 Access Control - IAM Policies, Bucket Policies and ACLs](https://www.youtube.com/watch?v=xFzJw6wJ8eY)
+  * SNS
+    * A. Patel: [AWS — Difference between SQS and SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5) (2019)
   * Serverless 
     * [Operator Guide](https://docs.aws.amazon.com/lambda/latest/operatorguide/intro.html)
     * [Getting started with Serverless](https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b/en-US)
