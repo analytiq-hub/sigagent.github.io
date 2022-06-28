@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Array Exercises
+title: Sorting and Searching Exercises
 mathjax: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Array Exercises
+title: Trie Exercises
 mathjax: true
 ---
 

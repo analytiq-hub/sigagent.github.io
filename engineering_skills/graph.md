@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Array Exercises
+title: Graph Exercises
 mathjax: true
 ---
 
