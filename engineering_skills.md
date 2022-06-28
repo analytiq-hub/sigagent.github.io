@@ -50,7 +50,7 @@ mathjax: true
 
 |Topic|Priority|
 ----------------
-|Array|High|
+|[Array](engineering_skills/array.md)|High|
 |String|High|
 |Hash Table|Mid|
 |Recursion|Mid|
