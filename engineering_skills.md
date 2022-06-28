@@ -25,7 +25,7 @@ mathjax: true
 * [Kahn’s topsort](https://youtu.be/cIBFEhD77b4)
 * [Dijkstra’s shortest path](https://youtu.be/pSqmAO-m7Lk): Given unoriented graph with positive edge costs, find shortest path from vertex $A_1$ to $A_n$.
   * Build array of vertex costs $\mathcal{C} = [c_1, ..., c_n]$ from $A_1$ to $(A_k)_{k \ge 1}$, starting from $A_1$ and walking to all neighbors not visited yet.
-  * Build heap of unvisited elements $\mathcal{H} = {(A_k, cost_from_A_1), ...}$, and keep adding to $\mathcal{C}$ while removing from $\mathcal{H}$.
+  * Build heap of unvisited elements $\mathcal{H} = \{(A_k, cost_from_A_1), ...\}$, and keep adding to $\mathcal{C}$ while removing from $\mathcal{H}$.
   * Most efficient when heap is $E/V$-ary balanced tree. Complexity: $O(E \times log_{E/V}(V))$
   * State of the art uses Fibonacci heap, $O(E + V \times log(V))$
 
