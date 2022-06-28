@@ -20,7 +20,9 @@ mathjax: true
 #### Algorithms - YouTube Presentations
 * [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZhttps://youtu.be/cIBFEhD77b40WU)
 * [Kahn’s topsort](https://youtu.be/cIBFEhD77b4)
-* [Dijkstra’s shortest path](https://youtu.be/pSqmAO-m7Lk). Given unoriented graph with positive edge costs, find shortest path from $A$ to $B$. 
+* [Dijkstra’s shortest path](https://youtu.be/pSqmAO-m7Lk).
+  * Given unoriented graph with positive edge costs, find shortest path from vertex $A_1$ to $A_n$.
+  * Build array of vertex costs $c_1, ..., c_n$ from $A_1$ to $(A_k)_{k \ge 1}$
 
 #### Blog Posts
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
