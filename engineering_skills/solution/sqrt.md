@@ -4,7 +4,7 @@ title: Square Root
 mathjax: true
 ---
 
-* [Square root of x](https://leetcode.com/problems/sqrtx/)
+* [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 ```
 class Solution:
     def check(self, mid, x):
