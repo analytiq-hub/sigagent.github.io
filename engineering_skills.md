@@ -32,6 +32,10 @@ mathjax: true
   * Most efficient when heap is $E/V$-ary balanced tree. Complexity: $O(E \, log_{E/V}(V))$
   * State of the art uses Fibonacci heap, $O(E + V \, log(V))$
 
+
+#### Algorithms - Blog posts
+* [Binary Search](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+
 #### Blog Posts
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 * [1](https://www.teamblind.com/post/7-onsites-7-offers-aAFTykAD)
