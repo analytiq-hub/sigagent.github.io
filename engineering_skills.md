@@ -31,6 +31,7 @@ mathjax: true
   * Build heap of unvisited elements $\mathcal{H} = [(A_k, c(A_1, A_k)), ... ]$, where $c(A_1, A_k)$ is cost from $A_1$ and keep adding to $\mathcal{C}$ while removing from $\mathcal{H}$.
   * Most efficient when heap is $E/V$-ary balanced tree. Complexity: $O(E \, log_{E/V}(V))$
   * State of the art uses Fibonacci heap, $O(E + V \, log(V))$
+* [Kruskal's Algorithm - Minimal Spanning Tree](https://www.youtube.com/watch?v=JZBQLXgSGfs)
 
 
 #### Algorithms - Blog posts
