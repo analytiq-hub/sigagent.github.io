@@ -66,7 +66,7 @@ mathjax: true
 |Interval|Mid|
 |Dynamic programming|Low|
 |Binary|Low|
-|Math|Low|
+|[Math](engineering_skills/math.md)|Low|
 |Geometry|Low|
 
 #### Blog Posts
