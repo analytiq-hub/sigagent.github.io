@@ -41,6 +41,7 @@ mathjax: true
   * Complexity: $O(n)$
 * [Union Find](https://www.youtube.com/watch?v=ibjEGG7ylHk)
   * Same as Kruskal's Algorithm
+* [Dynamic Programming](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 
 #### Algorithms - Blog posts
 * [Binary Search](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
