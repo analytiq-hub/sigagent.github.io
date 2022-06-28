@@ -31,7 +31,13 @@ mathjax: true
   * Build heap of unvisited elements $\mathcal{H} = [(A_k, c(A_1, A_k)), ... ]$, where $c(A_1, A_k)$ is cost from $A_1$ and keep adding to $\mathcal{C}$ while removing from $\mathcal{H}$.
   * Most efficient when heap is $E/V$-ary balanced tree. Complexity: $O(E \, log_{E/V}(V))$
   * State of the art uses Fibonacci heap, $O(E + V \, log(V))$
-* [Kruskal's Algorithm - Minimal Spanning Tree](https://www.youtube.com/watch?v=JZBQLXgSGfs)
+* [Kruskal's Algorithm - Minimal Spanning Tree](https://www.youtube.com/watch?v=JZBQLXgSGfs): Given unoriented graph with edge costs, find minimal cost spanning tree
+  * Sort all edges by cost in list $\mathcal{C} = [[A_1, B_1], [A_2, B_2], ...]$
+  * Build set of minimal spanning subtrees $\mathcal{S} = [\mathcal{S}_1, \mathcal{S}_2, ...]$
+  * Remove edges in order from ${C}$. When removing $[A_k, B_k]$:
+    * If vertices in none of the spanning subtrees, create new spanning subtree
+    * If vertices both in the same spanning subtree, discard edge
+    * If vertices in different spanning subtrees $\mathcal{S}_i$, $\mathcal{S}_j$, replace them both with $\mathcal{S}_i \cup \mathcal{S}_j \cup edge$
 
 
 #### Algorithms - Blog posts
