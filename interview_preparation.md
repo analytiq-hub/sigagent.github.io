@@ -17,7 +17,9 @@ title: Interview Preparation
 * H. Fisk: [Large-Scale Low-Latency Storage for the Social Network](https://www.youtube.com/watch?v=5RfFhMwRAic) (2013)
 
 #### Algorithms - YouTube Presentations
-* [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
+* [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZhttps://youtu.be/cIBFEhD77b40WU)
+* [Kahn’s topsort](https://youtu.be/cIBFEhD77b4)
+* [Dijkstra’s shortest path](https://youtu.be/pSqmAO-m7Lk). Given unoriented graph with positive edge costs, find shortest path from $A$ to $B$. 
 
 #### Blog Posts
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
