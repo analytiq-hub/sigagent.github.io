@@ -18,7 +18,8 @@ mathjax: true
 * H. Fisk: [Large-Scale Low-Latency Storage for the Social Network](https://www.youtube.com/watch?v=5RfFhMwRAic) (2013)
 
 #### Algorithms - YouTube Presentations
-* [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZhttps://youtu.be/cIBFEhD77b40WU)
+* [Graph Algorithms for Technical Interviews](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
+  * Breadth-, depth-first graph traversal. Use stack vs queue of unvisited neighbors.
 * [Kahn’s topsort](https://youtu.be/cIBFEhD77b4)
 * [Dijkstra’s shortest path](https://youtu.be/pSqmAO-m7Lk): Given unoriented graph with positive edge costs, find shortest path from vertex $A_1$ to $A_n$.
   * Build array of vertex costs $\mathcal{C} = [c_1, ..., c_n]$ from $A_1$ to $(A_k)_{k \ge 1}$, starting from $A_1$ and walking to all neighbors not visited yet.
