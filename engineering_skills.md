@@ -22,7 +22,10 @@ mathjax: true
   * Use vertex adjacency list.
   * Breadth-, depth-first graph traversal. Use stack vs queue of unvisited neighbors.
   * Chessboard grid with squares marked land or water. List all islands. Walk and build sets of connected components.
-* [Kahn’s topsort](https://youtu.be/cIBFEhD77b4). For a directed acyclic graph with numbered vertices, 
+* [Kahn’s topological sort](https://youtu.be/cIBFEhD77b4). For a directed acyclic graph, pick an order of vertices so if $A \lt B$ then there is no path $B \rightarrow A$.
+  * Build array of number of incoming nodes into $A_k$: $[k_1, ..., k_n]$
+  * Let $\mathcal{O}$ be empty topological orders
+  * Keep adding nodes with $k_i == 0$ and not in $\mathcal{O}$ to $\mathcal{O}$, decrementing the number of incoming nodes for their successors.
 * [Dijkstra’s shortest path](https://youtu.be/pSqmAO-m7Lk): Given unoriented graph with positive edge costs, find shortest path from vertex $A_1$ to $A_n$.
   * Build array of vertex costs $\mathcal{C} = [c_1, ..., c_n]$ from $A_1$ to $(A_k)_{k \ge 1}$, starting from $A_1$ and walking to all neighbors not visited yet.
   * Build heap of unvisited elements $\mathcal{H} = [(A_k, cost_from_A_1), ... ]$, and keep adding to $\mathcal{C}$ while removing from $\mathcal{H}$.
