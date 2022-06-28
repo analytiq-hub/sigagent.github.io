@@ -27,6 +27,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Crypto Currencies](crypto_currencies.md)
 * [Dev/Ops](devops.md)
 * [Embedded Programming](embedded_programming.md)
+* [Engineering Skills](engineering_skills.md)
 * [Entrepreneurship](entrepreneurship.md)
 * [Film](film.md)
 * [Game Theory](game_theory.md)
@@ -34,7 +35,6 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Healthcare](healthcare.md)
 * [History](history.md)
 * [Intellectual History](intellectual_history.md)
-* [Interview Preparation](interview_preparation.md)
 * Kernel & System Programming
   * [Linux Kernel](linux_kernel.md)
   * [System Programming](system_programming.md)
