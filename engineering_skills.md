@@ -40,6 +40,7 @@ mathjax: true
     * If vertices in different spanning subtrees $\mathcal{S}_i$, $\mathcal{S}_j$, replace them both with $\mathcal{S}_i \cup \mathcal{S}_j \cup edge$
   * Complexity: $O(n)$
 * [Union Find](https://www.youtube.com/watch?v=ibjEGG7ylHk)
+  * Same as Kruskal's Algorithm
 
 #### Algorithms - Blog posts
 * [Binary Search](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
