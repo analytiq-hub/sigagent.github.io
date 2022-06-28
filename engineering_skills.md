@@ -48,26 +48,26 @@ mathjax: true
 
 #### Algorithms - Practice
 
-|Topic|Priority|
-|-----|--------|
-|[Array](engineering_skills/array.md)|High|
-|String|High|
-|Hash Table|Mid|
-|Recursion|Mid|
-|Sorting and searching|High|
-|Matrix|High|
-|Linked List|Mid|
-|Queue|Mid|
-|Stack|Mid|
-|Tree|High|
-|Graph|High|
-|Heap|Mid|
-|Trie|Mid|
-|Interval|Mid|
-|Dynamic programming|Low|
-|Binary|Low|
-|[Math](engineering_skills/math.md)|Low|
-|Geometry|Low|
+| Topic | Priority |
+| ----- | -------- |
+| [Array](engineering_skills/array.md) | High |
+| String | High |
+| Hash Table | Mid |
+| Recursion | Mid |
+| Sorting and searching | High |
+| Matrix | High |
+| Linked List | Mid |
+| Queue | Mid |
+| Stack | Mid |
+| Tree | High |
+| Graph | High |
+| Heap | Mid |
+| Trie | Mid |
+| Interval | Mid |
+| Dynamic programming | Low |
+| Binary | Low |
+| [Math](engineering_skills/math.md) | Low |
+| Geometry | Low |
 
 #### Blog Posts
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
