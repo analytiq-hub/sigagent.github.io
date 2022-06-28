@@ -46,6 +46,29 @@ mathjax: true
 #### Algorithms - Blog posts
 * [Binary Search](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
 
+#### Algorithms - Practice
+
+|Topic|Priority|
+----------------
+|Array|High|
+|String|High|
+|Hash Table|Mid|
+|Recursion|Mid|
+|Sorting and searching|High|
+|Matrix|High|
+|Linked List|Mid|
+|Queue|Mid|
+|Stack|Mid|
+|Tree|High|
+|Graph|High|
+|Heap|Mid|
+|Trie|Mid|
+|Interval|Mid|
+|Dynamic programming|Low|
+|Binary|Low|
+|Math|Low|
+|Geometry|Low|
+
 #### Blog Posts
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 * [1](https://www.teamblind.com/post/7-onsites-7-offers-aAFTykAD)
