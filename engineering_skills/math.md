@@ -4,7 +4,7 @@ title: Math Exercises
 mathjax: true
 ---
 
-* [Pow(x, n)]
+* [Pow(x, n)](https://leetcode.com/problems/powx-n/)
 * [Sqrt(x)](https://leetcode.com/problems/sqrtx/) ([solution](engineering_skills/solutions/sqrt.md))
 
 #### References
