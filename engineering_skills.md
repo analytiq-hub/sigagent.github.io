@@ -46,29 +46,6 @@ mathjax: true
 #### Algorithms - Blog posts
 * [Binary Search](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
 
-#### Algorithms - Practice
-
-| Topic  | Priority  |
-| :----- | :-------- |
-| [Array](engineering_skills/array.md) | High |
-| [String](engineering_skills/string.md) | High |
-| [Hash Table](engineering_skills/hash_table.md) | Mid |
-| [Recursion](engineering_skills/recursion.md) | Mid |
-| [Sorting and searching](engineering_skills/sorting_and_searching.md) | High |
-| [Matrix](engineering_skills/matrix.md) | High |
-| [Linked List](engineering_skills/linked_list.md) | Mid |
-| [Queue](engineering_skills/queue.md) | Mid |
-| [Stack](engineering_skills/stack.md) | Mid |
-| [Tree](engineering_skills/tree.md) | High |
-| [Graph](engineering_skills/graph.md) | High |
-| [Heap](engineering_skills/heap.md) | Mid |
-| [Trie](engineering_skills/trie.md) | Mid |
-| [Interval](engineering_skills/interval.md) | Mid |
-| [Dynamic programming](engineering_skills/dynamic_programming.md) | Low |
-| [Binary](engineering_skills/binary.md) | Low |
-| [Math](engineering_skills/math.md) | Low |
-| [Geometry](engineering_skills/geometry.md) | Low |
-
 #### Blog Posts
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 * [1](https://www.teamblind.com/post/7-onsites-7-offers-aAFTykAD)
