@@ -7,7 +7,7 @@ mathjax: true
 * [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (use sliding window)
 * [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) (use sliding pointers)
 * [Two Sum](https://leetcode.com/problems/two-sum/) (build hash of elem, idx then look up hash)
-* [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ([solution]())
 
 #### References
 * [Tech Interview Handbook - Algorithms](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
