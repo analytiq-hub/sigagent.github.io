@@ -69,6 +69,63 @@ mathjax: true
 | [Math](engineering_skills/math.md) | Low |
 | [Geometry](engineering_skills/geometry.md) | Low |
 
+#### C++ questions
+* What are the differences between C++ and C?
+* What is a vtable? What are virtual functions?
+* How is static different in C vs C++?
+* What options do you have for smart pointers in C++?
+  * std::unique_ptr<X>. The object is disposed of, using the associated deleter when either of the following happens:
+    * the managing unique_ptr object is destroyed
+    * the managing unique_ptr object is assigned another pointer via operator= or reset().
+  * std::shared_ptr<X>
+  * std::weak_ptr<X>: Provides access to an object that is owned by one or more shared_ptr instances, but does not participate in reference counting.
+* Is there an overhead for using exceptions in C++?
+* How are templates different from macros?
+* What is the auto keyword?
+* [When should static_cast, dynamic_cast, const_cast and reinterpret_cast be used](https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used)?
+  * Use dynamic_cast for converting pointers/references within an inheritance hierarchy.
+  * Use static_cast for ordinary type conversions.
+  * Use reinterpret_cast for low-level reinterpreting of bit patterns. Use with extreme caution.
+  * Use const_cast for casting away const/volatile. Avoid this unless you are stuck using a const-incorrect API.
+* Can you overload logical operators &&, || in C++, and what are the pitfalls in doing that?
+
+#### Python
+* Function arguments - [when are they passed by value, and when by reference](https://stackoverflow.com/questions/9696495/python-when-is-a-variable-passed-by-reference-and-when-by-value)?
+* How is global used in python?
+* How is global used in multiple files?
+* How do classes work in python? (Constructor, destructor, private/public data members, private/public functions). 
+* def __init__(self)
+* def __del__(self)
+* How does inheritance work?
+* How are ways to format strings in python?
+  * `"key={}".format(value)`
+  * `"key=%s" % (value)"`
+  * `f"key={value}"`
+* Can a function return multiple values?
+* What are decorators in python?
+```
+def decorator_sample(func):
+    def decorator_hook(*args, **kwargs):
+        print("Before the function call")
+        result = func(*args, **kwargs)
+        print("After the function call")
+        return result
+    return decorator_hook
+
+@decorator_sample
+def product(x, y):
+    return x*y
+```
+* What is pickling and unpickling?
+* What is module and package in Python?
+  * Module is the way to structure program. Each Python program file is a module, which imports other modules like objects and attributes.
+  * The folder of Python program is a package of modules. A package can have modules or subfolders.
+* What are `*args` and `**kwargs` in Python functions?
+  * If you put `*args` in a function's parameter list, all unnamed arguments will be stored in the args array. 
+  * `**kwargs` creates a dictionary of named parameters.
+* What is virtualenv?
+
+
 #### Blog Posts
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 * [1](https://www.teamblind.com/post/7-onsites-7-offers-aAFTykAD)
