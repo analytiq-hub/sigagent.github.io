@@ -8,6 +8,8 @@ mathjax: true
 * [House Robber](https://leetcode.com/problems/house-robber/)
 * [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 
+Use recursion, and build a dynamic hash of partial results to speed up recursion.
+
 #### References
 * [Tech Interview Handbook - Algorithms](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 
