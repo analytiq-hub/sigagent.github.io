@@ -17,7 +17,7 @@ mathjax: true
 #### Talks
 * H. Fisk: [Large-Scale Low-Latency Storage for the Social Network](https://www.youtube.com/watch?v=5RfFhMwRAic) (2013)
 
-#### Algorithms - YouTube Presentations
+#### Algorithms
 * [Graph Algorithms for Technical Interviews](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
   * Use vertex adjacency list.
   * Breadth-, depth-first graph traversal. Use stack vs queue of unvisited neighbors.
@@ -42,8 +42,6 @@ mathjax: true
 * [Union Find](https://www.youtube.com/watch?v=ibjEGG7ylHk)
   * Same as Kruskal's Algorithm
 * [Dynamic Programming](https://www.youtube.com/watch?v=oBt53YbR9Kk)
-
-#### Algorithms - Blog posts
 * [Binary Search](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
 
 #### Algorithms - Practice
