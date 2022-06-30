@@ -17,7 +17,7 @@ mathjax: true
 #### Talks
 * H. Fisk: [Large-Scale Low-Latency Storage for the Social Network](https://www.youtube.com/watch?v=5RfFhMwRAic) (2013)
 
-#### Algorithms - YouTube Presentations
+#### Algorithms
 * [Graph Algorithms for Technical Interviews](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
   * Use vertex adjacency list.
   * Breadth-, depth-first graph traversal. Use stack vs queue of unvisited neighbors.
@@ -42,9 +42,87 @@ mathjax: true
 * [Union Find](https://www.youtube.com/watch?v=ibjEGG7ylHk)
   * Same as Kruskal's Algorithm
 * [Dynamic Programming](https://www.youtube.com/watch?v=oBt53YbR9Kk)
-
-#### Algorithms - Blog posts
 * [Binary Search](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+
+#### Algorithms - Practice
+
+| Topic  | Priority  |
+| :----- | :-------- |
+| [Array](engineering_skills/array.md) | High |
+| [String](engineering_skills/string.md) | High |
+| [Hash Table](engineering_skills/hash_table.md) | Mid |
+| [Recursion](engineering_skills/recursion.md) | Mid |
+| [Sorting and searching](engineering_skills/sorting_and_searching.md) | High |
+| [Matrix](engineering_skills/matrix.md) | High |
+| [Linked List](engineering_skills/linked_list.md) | Mid |
+| [Queue](engineering_skills/queue.md) | Mid |
+| [Stack](engineering_skills/stack.md) | Mid |
+| [Tree](engineering_skills/tree.md) | High |
+| [Graph](engineering_skills/graph.md) | High |
+| [Heap](engineering_skills/heap.md) | Mid |
+| [Trie](engineering_skills/trie.md) | Mid |
+| [Interval](engineering_skills/interval.md) | Mid |
+| [Dynamic programming](engineering_skills/dynamic_programming.md) | Low |
+| [Binary](engineering_skills/binary.md) | Low |
+| [Math](engineering_skills/math.md) | Low |
+| [Geometry](engineering_skills/geometry.md) | Low |
+
+#### C++ questions
+* What are the differences between C++ and C?
+* What is a vtable? What are virtual functions?
+* How is static different in C vs C++?
+* What options do you have for smart pointers in C++?
+  * std::unique_ptr<X>. The object is disposed of, using the associated deleter when either of the following happens:
+    * the managing unique_ptr object is destroyed
+    * the managing unique_ptr object is assigned another pointer via operator= or reset().
+  * std::shared_ptr<X>
+  * std::weak_ptr<X>: Provides access to an object that is owned by one or more shared_ptr instances, but does not participate in reference counting.
+* Is there an overhead for using exceptions in C++?
+* How are templates different from macros?
+* What is the auto keyword?
+* [When should static_cast, dynamic_cast, const_cast and reinterpret_cast be used](https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used)?
+  * Use dynamic_cast for converting pointers/references within an inheritance hierarchy.
+  * Use static_cast for ordinary type conversions.
+  * Use reinterpret_cast for low-level reinterpreting of bit patterns. Use with extreme caution.
+  * Use const_cast for casting away const/volatile. Avoid this unless you are stuck using a const-incorrect API.
+* Can you overload logical operators &&, || in C++, and what are the pitfalls in doing that?
+
+#### Python
+* Function arguments - [when are they passed by value, and when by reference](https://stackoverflow.com/questions/9696495/python-when-is-a-variable-passed-by-reference-and-when-by-value)?
+* How is global used in python?
+* How is global used in multiple files?
+* How do classes work in python? (Constructor, destructor, private/public data members, private/public functions). 
+* def __init__(self)
+* def __del__(self)
+* How does inheritance work?
+* How are ways to format strings in python?
+  * `"key={}".format(value)`
+  * `"key=%s" % (value)"`
+  * `f"key={value}"`
+* Can a function return multiple values?
+* What are decorators in python?
+```
+def decorator_sample(func):
+    def decorator_hook(*args, **kwargs):
+        print("Before the function call")
+        result = func(*args, **kwargs)
+        print("After the function call")
+        return result
+    return decorator_hook
+
+@decorator_sample
+def product(x, y):
+    return x*y
+```
+* What is pickling and unpickling?
+* What is module and package in Python?
+  * Module is the way to structure program. Each Python program file is a module, which imports other modules like objects and attributes.
+  * The folder of Python program is a package of modules. A package can have modules or subfolders.
+* What are `*args` and `**kwargs` in Python functions?
+  * If you put `*args` in a function's parameter list, all unnamed arguments will be stored in the args array. 
+  * `**kwargs` creates a dictionary of named parameters.
+* What is virtualenv?
+
 
 #### Blog Posts
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
