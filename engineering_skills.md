@@ -10,12 +10,17 @@ mathjax: true
 * [LeetCode](https://leetcode.com)
 
 #### Books
-* Alex Xu: [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
-* M. Kleppmann: [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 * W. Larson: [Staff Engineer: Leadership beyond the management track](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG)
 
 #### Talks
 * H. Fisk: [Large-Scale Low-Latency Storage for the Social Network](https://www.youtube.com/watch?v=5RfFhMwRAic) (2013)
+
+### System Design
+* Alex Xu: [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+* M. Kleppmann: [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+* [Consistent hashing](https://en.wikipedia.org/wiki/Consistent_hashing)
+  * [Distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
+  * G. DeCandia et al: [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 
 #### Algorithms
 * [Graph Algorithms for Technical Interviews](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
