@@ -21,6 +21,9 @@ mathjax: true
 * [Consistent hashing](https://en.wikipedia.org/wiki/Consistent_hashing)
 * [Distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
   * G. DeCandia et al: [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf (2007))
+* Tuchar Roy
+  * [System Design: Intro](https://www.youtube.com/watch?v=UzLMhqg3_Wc&list=RDCMUCZLJf_R2sWyUtXSKiKlyvAw&start_radio=1&rv=UzLMhqg3_Wc&t=624)
+  * [System Design : Distributed Database System Key Value Store](https://www.youtube.com/watch?v=UzLMhqg3_Wc&list=RDCMUCZLJf_R2sWyUtXSKiKlyvAw&start_radio=1&rv=UzLMhqg3_Wc&t=624)
 
 #### Algorithms
 * [Graph Algorithms for Technical Interviews](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
