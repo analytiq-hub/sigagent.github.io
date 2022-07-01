@@ -20,7 +20,7 @@ mathjax: true
 * M. Kleppmann: [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 * [Consistent hashing](https://en.wikipedia.org/wiki/Consistent_hashing)
   * [Distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table)
-  * G. DeCandia et al: [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+  * G. DeCandia et al: [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf (2007))
 
 #### Algorithms
 * [Graph Algorithms for Technical Interviews](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
