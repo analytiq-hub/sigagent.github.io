@@ -59,6 +59,10 @@ title: Cloud Data Platform
 * [Jupyterhub](https://jupyterhub.readthedocs.io)
   * Amazon EMR
     * [Create a cluster with JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub-launch.html)
+* Facebook
+  * Andy Yunxin Wu, [Data Observability, Feature Quality at Facebook](https://fb.watch/dZYxdDJSDK/) (2021)
+* Uber
+  * [Data Quality at Uber](https://www.facebook.com/Engineering/videos/1960560874116690) (2021)
   
 
 #### Tutorials
