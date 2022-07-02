@@ -13,6 +13,7 @@ mathjax: true
 * [Consistent Cache](diagrams/consistent_hash.excalidraw.png)
 * Twitter
   * [As relational schema](diagrams/twitter_as_relational_schema.excalidraw.png)
+  * [Fan out approach](diagrams/twitter_fan_out_approach.excalidraw.png)
 
 #### Other
 * [Engineering Skills](..)
