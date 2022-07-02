@@ -53,6 +53,9 @@ title: Cloud Data Platform
    * [AWS CDK Advanced Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d93fec4c-fb0f-4813-ac90-758cb5527f2f/en-US)
    * [Event Driven System with CDK](https://eventbus-cdk.workshop.aws/en/)
    * [Building Serverless Apps with SAM](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/en-US)
+ * Sagemaker
+   * Books
+     * S.S.R. Mengle, M. Gutierrez: [Mastering Machine Learning on AWS](https://www.amazon.com/Mastering-Machine-Learning-AWS-TensorFlow/dp/1789349796) (2019), [github](https://github.com/PacktPublishing/Mastering-Machine-Learning-on-AWS)
 
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Neptune.ai](https://neptune.ai/)
