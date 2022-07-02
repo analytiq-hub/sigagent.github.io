@@ -53,10 +53,6 @@ title: Cloud Data Platform
    * [AWS CDK Advanced Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d93fec4c-fb0f-4813-ac90-758cb5527f2f/en-US)
    * [Event Driven System with CDK](https://eventbus-cdk.workshop.aws/en/)
    * [Building Serverless Apps with SAM](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/en-US)
- * Sagemaker
-   * Books
-     * S.S.R. Mengle, M. Gutierrez: [Mastering Machine Learning on AWS](https://www.amazon.com/Mastering-Machine-Learning-AWS-TensorFlow/dp/1789349796) (2019), [github](https://github.com/PacktPublishing/Mastering-Machine-Learning-on-AWS)
-     * J. Simon, F. Ponchetti: [Learn Amazon SageMaker](https://www.amazon.com/Learn-Amazon-SageMaker-developers-scientists/dp/180020891X) (2020)
 
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Neptune.ai](https://neptune.ai/)
@@ -132,6 +128,8 @@ title: Cloud Data Platform
   * Netflix Tech Blog: [Open-Sourcing Metaflow, a Human-Centric Framework for Data Science](https://medium.com/netflix-techblog/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9) (2019)
   * A. Goblet: [A Review of Netflix’s Metaflow](https://medium.com/bigdatarepublic/a-review-of-netflixs-metaflow-65c6956e168d) (2019)
 * Sagemaker
+  * S.S.R. Mengle, M. Gutierrez: [Mastering Machine Learning on AWS](https://www.amazon.com/Mastering-Machine-Learning-AWS-TensorFlow/dp/1789349796) (2019), [github](https://github.com/PacktPublishing/Mastering-Machine-Learning-on-AWS)
+  * J. Simon, F. Ponchetti: [Learn Amazon SageMaker](https://www.amazon.com/Learn-Amazon-SageMaker-developers-scientists/dp/180020891X) (2020)
   * C. Fregly, Antje Barth: [Data Science on AWS](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391)
   * [Label 3D Point Clouds for Machine Learning Training Data with Amazon SageMaker Ground Truth](https://www.youtube.com/watch?v=dQGJZucBPsg) (2020)
   * Blog
