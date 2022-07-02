@@ -70,7 +70,7 @@ mathjax: true
   * Use static_cast for ordinary type conversions.
   * Use reinterpret_cast for low-level reinterpreting of bit patterns. Use with extreme caution.
   * Use const_cast for casting away const/volatile. Avoid this unless you are stuck using a const-incorrect API.
-* Can you overload logical operators &&, || in C++, and what are the pitfalls in doing that?
+* Can you overload logical operators `&&, ||` in C++, and what are the pitfalls in doing that?
 
 #### Python
 * Function arguments - [when are they passed by value, and when by reference](https://stackoverflow.com/questions/9696495/python-when-is-a-variable-passed-by-reference-and-when-by-value)?
