@@ -34,3 +34,6 @@ mathjax: true
 
 #### Other
 * [Engineering Skills](..)
+* [Algorithms Practice](algorithms_practice.md)
+* [Diagrams Practice](diagrams_practice.md)
+
