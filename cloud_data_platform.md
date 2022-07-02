@@ -61,6 +61,7 @@ title: Cloud Data Platform
     * [Create a cluster with JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub-launch.html)
 * Facebook
   * Andy Yunxin Wu, [Data Observability, Feature Quality at Facebook](https://fb.watch/dZYxdDJSDK/) (2021)
+  * N. Bronson et al: [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/conference/atc13/technical-sessions/presentation/bronsonxs) (2013)
 * Uber
   * [Data Quality at Uber](https://www.facebook.com/Engineering/videos/1960560874116690) (2021)
   
