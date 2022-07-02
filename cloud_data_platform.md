@@ -56,6 +56,7 @@ title: Cloud Data Platform
  * Sagemaker
    * Books
      * S.S.R. Mengle, M. Gutierrez: [Mastering Machine Learning on AWS](https://www.amazon.com/Mastering-Machine-Learning-AWS-TensorFlow/dp/1789349796) (2019), [github](https://github.com/PacktPublishing/Mastering-Machine-Learning-on-AWS)
+     * J. Simon, F. Ponchetti: [Learn Amazon SageMaker](https://www.amazon.com/Learn-Amazon-SageMaker-developers-scientists/dp/180020891X) (2020)
 
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Neptune.ai](https://neptune.ai/)
