@@ -115,3 +115,4 @@ def product(x, y):
 
 #### Other
 * [Algorithms Practice](engineering_skills/algorithms_practice.md)
+* [Diagrams Practice](engineering_skills/diagrams_practice.md)
