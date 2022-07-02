@@ -4,10 +4,8 @@ title: Diagrams Practice
 mathjax: true
 ---
 
-#### Coding Sites
-* [CoderPad](https://coderpad.io)
-* [InterviewBit](https://www.interviewbit.com)
-* [LeetCode](https://leetcode.com)
+#### Tools
+* [Excalidraw](https://excalidraw.com/)
 
 #### Diagrams - Practice
 * [Consistent Cache](diagrams/consistent_hash.excalidraw.png)
