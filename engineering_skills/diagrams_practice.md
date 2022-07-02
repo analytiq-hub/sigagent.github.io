@@ -6,6 +6,7 @@ mathjax: true
 
 #### Tools
 * [Excalidraw](https://excalidraw.com/)
+* [Whiteboard Fox](https://r8.whiteboardfox.com/)
 
 #### Diagrams - Practice
 * [Consistent Cache](diagrams/consistent_hash.excalidraw.png)
