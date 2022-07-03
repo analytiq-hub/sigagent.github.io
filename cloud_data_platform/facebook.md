@@ -6,6 +6,7 @@ title: Cloud Data Platform - Facebook
 * Posts
   * Andy Yunxin Wu, [Data Observability, Feature Quality at Facebook](https://fb.watch/dZYxdDJSDK/) (2021)
   * N. Bronson et al: [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/conference/atc13/technical-sessions/presentation/bronsonxs) (2013)
+  * [Building Timeline: Scaling up to hold your life story](https://engineering.fb.com/2012/01/05/web/building-timeline-scaling-up-to-hold-your-life-story/)
 
 * Talks
   * A. Agarwal: [Scale at Facebook](https://www.infoq.com/presentations/Scale-at-Facebook/) (2010)
