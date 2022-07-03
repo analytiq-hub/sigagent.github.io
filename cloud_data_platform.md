@@ -17,43 +17,8 @@ title: Cloud Data Platform
 
 #### Software Stacks
 * [BDAS, the Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/)
-* [Databricks](https://databricks.com/), [docs](https://docs.databricks.com/applications/machine-learning/index.html#databricks-machine-learning-overview)
-  * O. Anomnachi: [Comparing Databricks and Apache Spark](https://blog.anant.us/comparing-databricks-and-apache-spark/) (2020)
-  * P. Borges et al: [Enabling Computer Vision Applications With the Data Lakehouse](https://databricks.com/blog/2021/12/17/enabling-computer-vision-applications-with-the-data-lakehouse.html) (2021)
-  * Databricks & Embarq: [Ensuring long-haul truck safety with data and AI](https://databricks.com/customers/embark-trucks)
-  * I. G. Arnedo: [Building our Data Platform: Why we have chosen Databricks over Snowflake](https://blog.denexus.io/databricks)
-  * Forrester: [Databricks delivers nearly $29 million in economic benefits and pays for itself in less than six months](https://databricks.com/blog/2020/04/28/new-study-databricks-delivers-nearly-29-million-in-economic-benefits-and-pays-for-itself-in-less-than-six-months.html) (2020) (commissioned by Databricks)
-  * [Accelerating Data Ingestion with Databricks Autoloader](https://www.youtube.com/watch?v=8a38Fv9cpd8) (2021)
-  * [Notebook gallery](https://databricks.com/discover/notebook-gallery)
-  * [Diving Into Delta Lake: Schema Enforcement & Evolution](https://databricks.com/blog/2019/09/24/diving-into-delta-lake-schema-enforcement-evolution.html)
-  * SSO
-    * [AWS single sign-on (SSO)](https://docs.databricks.com/administration-guide/users-groups/single-sign-on/aws.html)
-    * [Configure your AWS account (cross-account IAM role)](https://docs.databricks.com/administration-guide/account-settings/aws-accounts.html)
-* AWS
-  * [EMR](https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks.html)
-    * [Amazon EMR Deep Dive and Best Practices - AWS Online Tech Talks](https://www.youtube.com/watch?v=dU40df0Suoo)
-  * Access Control
-    * [Amazon S3 Access Control - IAM Policies, Bucket Policies and ACLs](https://www.youtube.com/watch?v=xFzJw6wJ8eY)
-  * SNS
-    * A. Patel: [AWS — Difference between SQS and SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5) (2019)
-  * Serverless 
-    * [Operator Guide](https://docs.aws.amazon.com/lambda/latest/operatorguide/intro.html)
-    * [Getting started with Serverless](https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b/en-US)
-    * [Build, Secure, Manage Serverless Applications at Scale on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/b34eab03-4ebe-46c1-bc63-cd2d975d8ad4/en-US)
-    * [Tutorial: Using AWS Lambda with Amazon Kinesis](https://docs.aws.amazon.com/lambda/latest/dg/with-kinesis-example.html)
-    * [Serverless on AWS Lambda: A Comprehensive Comparison Of Approaches (Serverless Framework vs SAM vs Terraform vs CloudFormation)](https://openupthecloud.com/serverless-approaches-comparison/)
-  * Chalice
-    * [github](https://github.com/aws/chalice)
-    * [Tutorials](https://aws.github.io/chalice/tutorials/index.html)
- * Step Functions:
-   * [The AWS Step Functions Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/9e0368c0-8c49-4bec-a210-8480b51a34ac/en-US)
-   * [AWS Step Functions - The Application Catalyst](https://www.youtube.com/watch?v=Yn4-yugQZ4U) (webinar, 2021)
- * CDK or SAM:
-   * [CDK Workshop](https://cdkworkshop.com/)
-   * [AWS CDK Advanced Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d93fec4c-fb0f-4813-ac90-758cb5527f2f/en-US)
-   * [Event Driven System with CDK](https://eventbus-cdk.workshop.aws/en/)
-   * [Building Serverless Apps with SAM](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/en-US)
-
+* [Databricks](cloud_data_platform/databrics.md)
+* [AWS](cloud_data_platform/amazon_web_services.md)
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Neptune.ai](https://neptune.ai/)
 * [Jupyterhub](https://jupyterhub.readthedocs.io)
