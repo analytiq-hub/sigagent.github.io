@@ -313,14 +313,17 @@ Here are the pluses and minuses of protobufs:
 … ... But version changes can be difficult if not properly designed
 
 ## Thrift
-Thrift is very similar to Protobuf. It was open sourced by Facebook, and is now an Apache project.
+Thrift is similar to Protobuf, in that it allows serialization of objects. It was open sourced by Facebook, and is now an Apache project.
+
+More than Protobuf, however, Thrift the development of cross-language services. A `.thrift` file can be compiled into a service implemented in C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml, Delphi and other languages
 
 ## AVRO
 
 - Similar to protobuf and thrift
 - AVRO from Apache (protobuf from Google)
+- Started as a subproject of Hadoop, because thrift did not solve all use cases necessary in that project.
 - Supports schema evolution
-- You can actually give two different schemas to the Avro parser, and it uses [resolution rules](https://avro.apache.org/docs/1.7.2/api/java/org/apache/avro/io/parsing/doc-files/parsing.html) to translate data from the writer schema into the reader schema.
+- You can actually use separate writer and reader schemas with Avro. The parser can use [resolution rules](https://avro.apache.org/docs/1.7.2/api/java/org/apache/avro/io/parsing/doc-files/parsing.html) to translate data from the writer schema into the reader schema.
 - … But version changes can be difficult
 
 <p align="center">
