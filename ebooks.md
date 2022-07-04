@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Free EBooks
+title: EBooks
 ---
 #### Z-Library
 * [z-lib.org](http://z-lib.org) (homepage)
