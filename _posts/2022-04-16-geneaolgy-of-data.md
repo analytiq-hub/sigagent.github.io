@@ -312,9 +312,12 @@ Here are the pluses and minuses of protobufs:
 - Supports schema evolution
 … ... But version changes can be difficult if not properly designed
 
+## Thrift
+Thrift is very similar to Protobuf. It was open sourced by Facebook, and is now an Apache project.
+
 ## AVRO
 
-- Similar to protobuf
+- Similar to protobuf and thrift
 - AVRO from Apache (protobuf from Google)
 - Supports schema evolution
 - You can actually give two different schemas to the Avro parser, and it uses [resolution rules](https://avro.apache.org/docs/1.7.2/api/java/org/apache/avro/io/parsing/doc-files/parsing.html) to translate data from the writer schema into the reader schema.
