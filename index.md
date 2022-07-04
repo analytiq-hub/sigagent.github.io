@@ -30,6 +30,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Engineering Skills](engineering_skills.md)
 * [Entrepreneurship](entrepreneurship.md)
 * [Film](film.md)
+* [Free eBooks](free_ebooks.md)
 * [Game Theory](game_theory.md)
 * [GPUs](gpus.md)
 * [Healthcare](healthcare.md)
