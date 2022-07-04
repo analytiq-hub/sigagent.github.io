@@ -37,7 +37,7 @@ We will be talking about:
   - JSON, YAML, XML
 - Serialization file formats:
   - Pickle, NPZ
-  - Protobuf, AVRO
+  - Protobuf, Thrift, AVRO
 - Databases
   - Relational vs Big Data
   - Row-based, columnar
@@ -185,6 +185,10 @@ The setup for serialization is as follows:
 <img src="/src/diagrams/serialization_to_disk.png" width="350" height="250"/>
 </p>
 
+* ... Or, you could do more complicated things:
+  * Save a set of instances of the same object into a database table, along with the object schema
+  * Convert an entire database table into a set of instances of the same object, creating the object schema dynamically
+
 ## Pickle
 
 * Used to serialize a python object
@@ -249,11 +253,11 @@ References: [1](https://docs.scipy.org/doc/numpy-1.9.3/reference/generated/numpy
 This is a serialization technology that has been open sourced by Google.
 
 * It is language independent
-* Both Process1, Process2 have syntax, and exchange only data.
+* Both Process1, Process2 have a copy of the same object schema, and exchange only data.
 <p align="center">
 <img src="/src/diagrams/serialization.png" width="350" height="250"/>
 </p>
-* Syntax is separate from serialized data. Here is an example syntax:
+* The schema is separate from serialized data. Here is an example schema:
 
 ```
 //polyline.proto
@@ -285,9 +289,9 @@ For example, to express the following Json object:
     "interests": ["daydreaming", "hacking"]
 }
 ```
-you would define the following protobuf syntax:
+you would define the following protobuf schema:
 ```
-// Protobuf Syntax:
+// Protobuf Schema:
 message Person {
     required string userName        = 1;
     optional int64  favouriteNumber = 2;
@@ -329,7 +333,7 @@ Data (in JSON):
 }
 ```
 
-AVRO Syntax:
+AVRO Schema:
 
 ```
 record Person {
