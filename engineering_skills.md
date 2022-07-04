@@ -26,7 +26,9 @@ mathjax: true
   * [System Design : Distributed Database System Key Value Store](https://www.youtube.com/watch?v=UzLMhqg3_Wc&list=RDCMUCZLJf_R2sWyUtXSKiKlyvAw&start_radio=1&rv=UzLMhqg3_Wc&t=624)
 
 #### Storage and Retrieval
-* R. Jain: [System Design: LSM Trees | Data Structure Behind Google and Facebook Storage Engine](https://www.youtube.com/watch?v=P2xtlLymqqI)
+* R. Jain: [System Design from Scratch](https://www.youtube.com/playlist?list=PLfBJlB6T2eOukvc2lrkAbeZBqUS94ji1r)
+  * [System Design: LSM Trees | Data Structure Behind Google and Facebook Storage Engine](https://www.youtube.com/watch?v=P2xtlLymqqI)
+  * [B-Trees, Indexing and TeraBytes of Data](https://www.youtube.com/watch?v=CpCUZRQGkcs&list=PLfBJlB6T2eOukvc2lrkAbeZBqUS94ji1r&index=5)
 
 #### Algorithms
 * [Graph Algorithms for Technical Interviews](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
