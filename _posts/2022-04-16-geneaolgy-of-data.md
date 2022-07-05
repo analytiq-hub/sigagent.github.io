@@ -381,6 +381,9 @@ References: [1](https://en.wikipedia.org/wiki/Protocol_Buffers) [2](https://mart
 AVRO pluses and minuses:
 - In Protobuf, every field in a record is tagged, whereas in AVRO, the entire record, file or network connection is tagged with a schema version.
 
+## Remote Procedure Calls (RPC) with Protobuf, Thrift, AVRO
+
+Thrift, AVRO have RPC support built-in. gRPC extends Protobuf for RPC.
 
 # The Relational Database Architecture
 
