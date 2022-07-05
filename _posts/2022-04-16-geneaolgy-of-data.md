@@ -317,6 +317,26 @@ Thrift is similar to Protobuf, in that it allows serialization of objects. It wa
 
 More than Protobuf, however, Thrift can be used to generate cross-language services. A `.thrift` file can be compiled into a service implemented in C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml, Delphi and other languages
 
+To express the following Json object:
+```json
+{
+    "userName": "Martin",
+    "favouriteNumber": 1337,
+    "interests": ["daydreaming", "hacking"]
+}
+```
+you would define the following Thrift schema:
+```
+// Protobuf Schema:
+struct Person {
+    1: required string       userName,
+    2: optional i64          favouriteNumber,
+    3: optional list<string> interests
+}
+```
+
+Thrift has two encoding protocols: binary, and compact. The binary scheme uses fixed length packing for numeric data types. The compact encoding uses variable length packing, thus being very similar to the Protobuf encoding scheme.
+
 ## AVRO
 
 - Serialization language similar to protobuf and thrift
