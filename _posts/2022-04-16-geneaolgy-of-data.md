@@ -335,7 +335,18 @@ struct Person {
 }
 ```
 
-Thrift has two encoding protocols: binary, and compact. The binary scheme uses fixed length packing for numeric data types. The compact encoding uses variable length packing, thus being very similar to the Protobuf encoding scheme.
+Thrift has two encoding protocols: binary, and compact. The binary scheme uses fixed length packing for numeric data types.
+
+<p align="center">
+<img src="/src/images/thrift_encoding_binary.png" width="350" height="250"/>
+</p>
+
+The compact encoding uses variable length packing, thus being very similar to the Protobuf encoding scheme.
+
+<p align="center">
+<img src="/src/images/thrift_encoding_compact.png" width="350" height="250"/>
+</p>
+
 
 References: [1](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
 
