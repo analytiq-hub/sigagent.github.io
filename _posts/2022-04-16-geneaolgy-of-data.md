@@ -337,6 +337,8 @@ struct Person {
 
 Thrift has two encoding protocols: binary, and compact. The binary scheme uses fixed length packing for numeric data types. The compact encoding uses variable length packing, thus being very similar to the Protobuf encoding scheme.
 
+References: [1](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
+
 ## AVRO
 
 - Serialization language similar to protobuf and thrift
