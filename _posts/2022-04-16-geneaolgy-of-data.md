@@ -327,7 +327,7 @@ To express the following Json object:
 ```
 you would define the following Thrift schema:
 ```
-// Protobuf Schema:
+// Thrift Schema:
 struct Person {
     1: required string       userName,
     2: optional i64          favouriteNumber,
