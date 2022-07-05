@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: Cloud Data Platform - Facebook
+title: Facebook
 ---
 * Posts
   * Andy Yunxin Wu, [Data Observability, Feature Quality at Facebook](https://fb.watch/dZYxdDJSDK/) (2021)

@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: Cloud Data Platform - Amazon Web Services
+title: Amazon Web Services
 ---
 * [EMR](https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks.html)
   * [Amazon EMR Deep Dive and Best Practices - AWS Online Tech Talks](https://www.youtube.com/watch?v=dU40df0Suoo)

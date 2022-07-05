@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: Cloud Data Platform - Databricks
+title: Databricks
 ---
 
 [Databricks](https://databricks.com/), [docs](https://docs.databricks.com/applications/machine-learning/index.html#databricks-machine-learning-overview)
