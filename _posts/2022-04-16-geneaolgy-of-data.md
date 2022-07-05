@@ -39,7 +39,7 @@ We will be talking about:
   - Pickle, NPZ
   - Protobuf, Thrift, AVRO
 - Databases
-  - Relational vs Big Data
+  - SQL (Relational) vs NoSQL (BigData)
   - Row-based, columnar
 - Columnar file formats
   - Parquet, DeltaLake, ORC
