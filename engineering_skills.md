@@ -30,6 +30,9 @@ mathjax: true
   * [LSM Trees](https://www.youtube.com/watch?v=P2xtlLymqqI)
   * [B-Trees](https://www.youtube.com/watch?v=CpCUZRQGkcs&list=PLfBJlB6T2eOukvc2lrkAbeZBqUS94ji1r&index=5)
 
+#### ML System Design
+* P. Halina: [ML Systems Design Interview Guide](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
+
 #### Algorithms
 * [Graph Algorithms for Technical Interviews](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
   * Use vertex adjacency list.
