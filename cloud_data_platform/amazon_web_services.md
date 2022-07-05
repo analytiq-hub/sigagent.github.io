@@ -52,7 +52,7 @@ title: Cloud Data Platform - Amazon Web Services
       * [End-to-end ML and data science workflows with Amazon EMR and SageMaker Studio](https://amer.resources.awscloud.com/aws-innovate-data-edition-2022/end-to-end-ml-and-data-science-workflows-with-amazon-emr-and-sagemaker-studio)
   * Code
     * [aws-samples](https://github.com/aws-samples)/[aws-sagemaker-ground-truth-recipe](https://github.com/aws-samples/aws-sagemaker-ground-truth-recipe)
-
+  * [Sagemaker Workshop](https://sagemaker-workshop.com/)
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
