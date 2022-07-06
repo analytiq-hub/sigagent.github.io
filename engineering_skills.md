@@ -31,6 +31,7 @@ mathjax: true
   * [B-Trees](https://www.youtube.com/watch?v=CpCUZRQGkcs&list=PLfBJlB6T2eOukvc2lrkAbeZBqUS94ji1r&index=5)
 
 #### ML System Design
+* K. Pham: [Machine Learning Design Interview](https://www.amazon.com/Machine-Learning-Design-Interview-System/dp/B09YQWX59Z) (2022)
 * P. Halina: [ML Systems Design Interview Guide](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 
 #### Algorithms
