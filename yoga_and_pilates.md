@@ -15,19 +15,19 @@ title: Yoga and Pilates
   * London Real: [Interview with Kino MacGregor](https://www.youtube.com/watch?v=fjxhW4VnIxA&t=817s)
   * Stu Girling: [The Yoga Anatomy Interview with David Keil](https://www.youtube.com/watch?v=m0Eq5qmIQgU&t=425s)
 * Hip flexibility
-  * Move with Nicole: [30m stretch routine](https://www.youtube.com/watch?v=RvCntPg7oPE) (2021)
+  * [30m stretch routine](https://www.youtube.com/watch?v=RvCntPg7oPE) (2021)
 * Abs
-  * Christine Khuri
-    * [30 Min Ab Workout](https://www.youtube.com/watch?v=AdWyo_3KrfA) (2017)
-    * [20 Min Ultimate Ab Workout](https://www.youtube.com/watch?v=q6NIWNnvOK0) (2017)
+  * [30 Min Ab Workout](https://www.youtube.com/watch?v=AdWyo_3KrfA) (2017)
+  * [20 Min Ultimate Ab Workout](https://www.youtube.com/watch?v=q6NIWNnvOK0) (2017)
 * Arms and legs
-  * Move with Nicole: [30m arms & legs workout - at home Pilates](https://www.youtube.com/watch?v=XM6N1yl3UYw), [40m dancer workout](https://www.youtube.com/watch?v=CxfAULXP8SM)
+  * [30m arms & legs workout - at home Pilates](https://www.youtube.com/watch?v=XM6N1yl3UYw)
 * Handstand
-  * Celest Pereira: [How to do a Handstand for Beginners Step by Step at Home](https://www.youtube.com/watch?v=8jXiQMh6Sc0) (2017)
+  * [How to do a Handstand for Beginners Step by Step at Home](https://www.youtube.com/watch?v=8jXiQMh6Sc0) (2017)
 * Knee
   * Stu Girling: [Yoga and Knee Pain/Injury/Relief Exercises](https://www.youtube.com/watch?v=S6g7M2FDFgA)
 * Pilates
-  * Action Jaquelyn: [Full Length Total Body Barre Workout - 40 Minutes](https://www.youtube.com/watch?v=NtwAHL_F2p8&t=1602s)
+  * [Full Length Total Body Barre Workout - 40 Minutes](https://www.youtube.com/watch?v=NtwAHL_F2p8&t=1602s)
+  * [40m dancer workout](https://www.youtube.com/watch?v=CxfAULXP8SM), [35m full body barre](https://www.youtube.com/watch?v=TC3HV61YoOg)
 
 #### Other
 * [Philosophy](philosophy.md)
