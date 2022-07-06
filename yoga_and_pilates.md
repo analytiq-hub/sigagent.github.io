@@ -21,7 +21,7 @@ title: Yoga and Pilates
     * [30 Min Ab Workout](https://www.youtube.com/watch?v=AdWyo_3KrfA) (2017)
     * [20 Min Ultimate Ab Workout](https://www.youtube.com/watch?v=q6NIWNnvOK0) (2017)
 * Arms and legs
-  * Move with Nicole: [30m arms & legs workout - at home Pilates](https://www.youtube.com/watch?v=XM6N1yl3UYw)
+  * Move with Nicole: [30m arms & legs workout - at home Pilates](https://www.youtube.com/watch?v=XM6N1yl3UYw), [40m dancer workout](https://www.youtube.com/watch?v=CxfAULXP8SM)
 * Handstand
   * Celest Pereira: [How to do a Handstand for Beginners Step by Step at Home](https://www.youtube.com/watch?v=8jXiQMh6Sc0) (2017)
 * Knee
