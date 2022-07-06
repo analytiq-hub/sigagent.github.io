@@ -18,8 +18,7 @@ class Solution:
         maxlen = 1
         
         for i in range(len(s)):
-            setofchars = set()
-            setofchars.add(s[i])
+            setofchars = set([s[i]])
             for j in range(i+1, len(s)):
                 #print(f"i={i}, j={j}, str={s[i:j+1]}")
                 if s[j] in setofchars:
