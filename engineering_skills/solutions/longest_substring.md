@@ -24,9 +24,7 @@ class Solution:
                 if s[j] in setofchars:
                     break
                 setofchars.add(s[j])
-                if (j-i+1) > maxlen:
-                    maxlen = j-i+1
-                    #print(f"Updating maxlen={maxlen}")
+                maxlen = max(maxlen, j-i+1)
 
         return maxlen
 ```
