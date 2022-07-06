@@ -26,7 +26,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Control Theory](control_theory.md)
 * [Crypto Currencies](crypto_currencies.md)
 * [Dev/Ops](devops.md)
-* [EBooks](free_ebooks.md)
+* [EBooks](ebooks.md)
 * [Embedded Programming](embedded_programming.md)
 * [Engineering Skills](engineering_skills.md)
 * [Entrepreneurship](entrepreneurship.md)
