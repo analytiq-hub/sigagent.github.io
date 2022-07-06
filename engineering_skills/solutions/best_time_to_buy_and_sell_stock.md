@@ -12,9 +12,9 @@ class Solution:
         right = 1 # Sell
         max_profit = 0
         while right < len(prices):
-            currentProfit = prices[right] - prices[left] # our current profit
+            profit = prices[right] - prices[left] # our current profit
             if prices[left] < prices[right]:
-                max_profit = max(currentProfit,max_profit)
+                max_profit = max(profit,max_profit)
             else:
                 left = right
             right += 1
