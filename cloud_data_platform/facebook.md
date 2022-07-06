@@ -7,6 +7,9 @@ title: Facebook
   * Andy Yunxin Wu, [Data Observability, Feature Quality at Facebook](https://fb.watch/dZYxdDJSDK/) (2021)
   * N. Bronson et al: [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/conference/atc13/technical-sessions/presentation/bronsonxs) (2013)
   * [Building Timeline: Scaling up to hold your life story](https://engineering.fb.com/2012/01/05/web/building-timeline-scaling-up-to-hold-your-life-story/)
+  * [Scaling Instagram Infrastructure](https://youtu.be/hnpzNAPiC0E) (2017)
+  * [Scaling Facebook Live Videos to Billions of Users](https://youtu.be/IO4teCbHvZw) (2017)
+  * [Building Realtime Infrastructure at Facebook](https://youtu.be/ODkEWsO5I30) (2017)
 
 * Talks
   * A. Agarwal: [Scale at Facebook](https://www.infoq.com/presentations/Scale-at-Facebook/) (2010)
