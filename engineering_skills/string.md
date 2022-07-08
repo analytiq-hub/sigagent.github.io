@@ -15,7 +15,7 @@ Recommended questions:
 * [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
 * [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
 * [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-* [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+* [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) (pad string with invalid chars, walk string one by one and find largest radius of palindrome centered in that spot)
 * [Encode and Decode Strings (LeetCode Premium)](https://leetcode.com/problems/encode-and-decode-strings/)
 
 #### References
