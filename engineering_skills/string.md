@@ -6,7 +6,7 @@ mathjax: true
 
 Essential questions:
 * [Valid Anagram](https://leetcode.com/problems/valid-anagram) ([solution](/engineering_skills/solutions/valid_anagram)) (sort then compare)
-* [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) ([solution](/engineering_skills/solutions/valid_palindrome))
+* [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) ([solution](/engineering_skills/solutions/valid_palindrome)) (for loop)
 * [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([solution](/engineering_skills/solutions/longest_substring)) (use sliding window)
 
 Recommended questions:
