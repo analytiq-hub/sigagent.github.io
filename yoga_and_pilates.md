@@ -29,6 +29,8 @@ title: Yoga and Pilates
   * [Full Length Total Body Barre Workout - 40 Minutes](https://www.youtube.com/watch?v=NtwAHL_F2p8&t=1602s)
 * Full body
   * [40m dancer workout](https://www.youtube.com/watch?v=CxfAULXP8SM), [35m full body barre](https://www.youtube.com/watch?v=TC3HV61YoOg)
+* Stretch
+  * [30m pilates yoga workout - full body stretch and strengthen](https://www.youtube.com/watch?v=lytHuRfbKdg)
 
 #### Other
 * [Philosophy](philosophy.md)
