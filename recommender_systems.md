@@ -8,6 +8,7 @@ title: Recommender Systems
 
 #### Blog Posts
 * B. Rocca: [Introduction to recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada) (2019)
+* Facebook Ads ML team: [Field guide to ML](https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
