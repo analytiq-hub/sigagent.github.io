@@ -11,6 +11,7 @@ title: Facebook
   * [Scaling Facebook Live Videos to Billions of Users](https://youtu.be/IO4teCbHvZw) (2017)
   * [Building Realtime Infrastructure at Facebook](https://youtu.be/ODkEWsO5I30) (2017)
   * [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/2016/05/09/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/) (2016)
+  * [Infrastructure Strategy Team Overview](https://www.linkedin.com/in/alexander-kalinin-217134/overlay/1611694541146/single-media-viewer/?type=DOCUMENT&profileId=ACoAAAAE2zMBsFpTS3VV19qXJ-M_jFmu8nd1ql8)
 
 * Talks
   * A. Agarwal: [Scale at Facebook](https://www.infoq.com/presentations/Scale-at-Facebook/) (2010)
