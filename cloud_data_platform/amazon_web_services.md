@@ -54,6 +54,7 @@ title: Amazon Web Services
     * [Amazon SageMaker Data Wrangler now supports Databricks as a data source](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-databricks-data-source/)
   * VPC
     * Enlear Academy: [AWS VPC - A Crash Course](https://www.youtube.com/watch?v=cEbJZdZxJ5A) (2020)
+    * [VPC sharing: A new approach to multiple accounts and VPC management](https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-sharing-a-new-approach-to-multiple-accounts-and-vpc-management/)
   * Presentations
     * [AWS Innovate - Data Edition](https://amer.resources.awscloud.com/aws-innovate-data-edition-2022) (2022)
       * [Prepare data for ML with ease, speed, and accuracy](https://amer.resources.awscloud.com/aws-innovate-data-edition-2022/prepare-data-for-ml-with-ease-speed-and-accuracy-1)
