@@ -48,6 +48,7 @@ title: Amazon Web Services
     * [Labeling data for 3D object tracking and sensor fusion in Amazon SageMaker Ground Truth](https://aws.amazon.com/blogs/machine-learning/labeling-data-for-3d-object-tracking-and-sensor-fusion-in-amazon-sagemaker-ground-truth/) (2021)
     * [Managing your machine learning lifecycle with MLflow and Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/) (2021)
     * [MLOps with MLFlow and Amazon SageMaker Pipelines](https://towardsdatascience.com/mlops-with-mlflow-and-amazon-sagemaker-pipelines-33e13d43f238) (2021)
+    * [SageMaker's Distributed Data Parallel Library](https://docs.aws.amazon.com/sagemaker/latest/dg/data-parallel.html)
   * VPC
     * Enlear Academy: [AWS VPC - A Crash Course](https://www.youtube.com/watch?v=cEbJZdZxJ5A) (2020)
   * Presentations
