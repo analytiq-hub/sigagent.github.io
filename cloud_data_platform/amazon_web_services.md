@@ -7,6 +7,7 @@ title: Amazon Web Services
   * [Amazon EMR Deep Dive and Best Practices - AWS Online Tech Talks](https://www.youtube.com/watch?v=dU40df0Suoo)
 * Access Control
   * [Amazon S3 Access Control - IAM Policies, Bucket Policies and ACLs](https://www.youtube.com/watch?v=xFzJw6wJ8eY)
+  * [AWS IAM - Crash Course (Learn IAM in 1 hour!)](https://www.youtube.com/watch?v=WYH8SQW6RJQ&t=0s) (2019)
 * SNS
   * A. Patel: [AWS — Difference between SQS and SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5) (2019)
 * Serverless 
