@@ -49,6 +49,7 @@ title: Amazon Web Services
     * [Managing your machine learning lifecycle with MLflow and Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/) (2021)
     * [MLOps with MLFlow and Amazon SageMaker Pipelines](https://towardsdatascience.com/mlops-with-mlflow-and-amazon-sagemaker-pipelines-33e13d43f238) (2021)
     * [SageMaker's Distributed Data Parallel Library](https://docs.aws.amazon.com/sagemaker/latest/dg/data-parallel.html)
+    * [Amazon SageMaker Data Wrangler now supports Databricks as a data source](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-databricks-data-source/)
   * VPC
     * Enlear Academy: [AWS VPC - A Crash Course](https://www.youtube.com/watch?v=cEbJZdZxJ5A) (2020)
   * Presentations
