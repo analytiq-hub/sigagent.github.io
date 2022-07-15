@@ -57,6 +57,7 @@ title: Amazon Web Services
       * Enlear Academy: [AWS VPC - A Crash Course](https://www.youtube.com/watch?v=cEbJZdZxJ5A) (2020)
       * [VPC sharing: A new approach to multiple accounts and VPC management](https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-sharing-a-new-approach-to-multiple-accounts-and-vpc-management/)
     * Route53
+      * AWS Online Tech Talks: [DNS Design Using Amazon Route 53](https://www.youtube.com/watch?v=2y_RBjDkRgY) (2020)
       * [How do I use a Route 53 Resolver inbound endpoint to resolve DNS records in a private hosted zone?](https://www.youtube.com/watch?v=GTwajBL0uzU) (2020)
   * Presentations
     * [AWS Innovate - Data Edition](https://amer.resources.awscloud.com/aws-innovate-data-edition-2022) (2022)
