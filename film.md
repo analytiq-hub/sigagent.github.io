@@ -8,6 +8,7 @@ title: Film
 * [And God created woman](https://en.wikipedia.org/wiki/And_God_Created_Woman_(1956_film)), directed by Roger Vadim (1956)
 * [Leni Riefenstahl](https://www.youtube.com/watch?v=vs7pJaFpxVM), documentary (1993)
 * [The White Hell of Pitz Palu](https://www.youtube.com/watch?v=gJ8B4VH-5gk) (1929)
+* [Das Blaue Licht](https://www.youtube.com/watch?v=m6wnEGQhmQ4&t=238s) (1932)
 
 #### Books
 * Simon Callow's Orson Welles biography
