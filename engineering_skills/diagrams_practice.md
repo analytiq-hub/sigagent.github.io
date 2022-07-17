@@ -9,6 +9,7 @@ mathjax: true
 * [Whiteboard Fox](https://r8.whiteboardfox.com/)
 
 #### Diagrams - Practice
+* [Scaling Out to Millions of Users](scaling_out.png)
 * [Consistent Cache](diagrams/consistent_hash.excalidraw.png)
 * Twitter
   * [As relational schema](diagrams/twitter_as_relational_schema.excalidraw.png)
