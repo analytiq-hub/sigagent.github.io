@@ -10,6 +10,7 @@ mathjax: true
 
 #### Diagrams - Practice
 * [Scaling Out to Millions of Users](diagrams/scaling_out.excalidraw.png)
+* [News Feed System](diagrams/news_feed_system.excalidraw.png)
 * [Consistent Cache](diagrams/consistent_hash.excalidraw.png)
 * Twitter
   * [As relational schema](diagrams/twitter_as_relational_schema.excalidraw.png)
