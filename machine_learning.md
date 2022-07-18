@@ -216,6 +216,9 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [Causality for Machine Learning](https://arxiv.org/pdf/1911.10500.pdf), Bernhard Schölkopf (2019)
 * Y. Bengio talk: [Deep Learning Cognition](https://www.youtube.com/watch?v=GibjI5FoZsE) (2020)
 
+#### Language Models
+* [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) (2021)
+
 #### Identifying Harmful Content
 * Facebook: [Harmful content can evolve quickly. Our new AI system adapts to tackle it.](https://ai.facebook.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/) (2021)
   * S. Wang et al: [Entailment as Few-Shot Learner](https://arxiv.org/pdf/2104.14690.pdf?fbclid=IwAR2ImbTwKdt1thb0pfGVYxQ0D9EgjotlhfOVBeDNyt6Gnn8j7TNwHVve1FA) (2021)
