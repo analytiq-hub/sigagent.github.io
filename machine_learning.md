@@ -222,6 +222,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 #### Identifying Harmful Content
 * Facebook: [Harmful content can evolve quickly. Our new AI system adapts to tackle it.](https://ai.facebook.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/) (2021)
   * S. Wang et al: [Entailment as Few-Shot Learner](https://arxiv.org/pdf/2104.14690.pdf?fbclid=IwAR2ImbTwKdt1thb0pfGVYxQ0D9EgjotlhfOVBeDNyt6Gnn8j7TNwHVve1FA) (2021)
+* Facebook: [How AI is getting better at detecting hate speech](https://ai.facebook.com/blog/how-ai-is-getting-better-at-detecting-hate-speech/) (2020)
 
 #### Web sites
 * [Papers with Code](https://paperswithcode.com/)
