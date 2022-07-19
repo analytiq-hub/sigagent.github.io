@@ -102,6 +102,7 @@ title: Cloud Data Platform
   * [Databricks vs Snowflake: 9 Critical Differences](https://hevodata.com/learn/databricks-vs-snowflake/), A. Phaujdar (2021)
   * [Databricks vs Snowflake: The Definitive Guide](https://hightouch.io/blog/databricks-vs-snowflake-the-definitive-guide/) (2021)
 * Terraform
+  * [Terraform Tutorial for Beginners (State, Import, Modules, Provisioners, Variables, Locals)](https://www.youtube.com/watch?v=PNlx5M3ZbIU&list=PLiMWaCMwGJXnjNhBQF-vR2Xqal0hN9U2-)
   * [How to Create AWS VPC with Terraform Resources](https://www.youtube.com/watch?v=qnkxOwvHNt4)
 
 #### Companies
