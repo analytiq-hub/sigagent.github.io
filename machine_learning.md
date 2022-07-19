@@ -46,9 +46,6 @@ title: Machine Learning
   * [CS224n](http://web.stanford.edu/class/cs224n/):Natural Language Processing with Deep Learning [Winter 2017 video](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6), [Winter 2019 video](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
   * [CS224W](http://web.stanford.edu/class/cs224w): Machine Learning with Graphs [Spring 2021 video](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
-#### Seminars
-* [Stanford MLSys Seminars](https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ/videos)
-
 #### Conferences
 * [CVPR '20](https://cvpr2020.thecvf.com/)
 * [ICLR](https://iclr.cc/)
@@ -56,6 +53,10 @@ title: Machine Learning
 * [NAACL '21](https://2021.naacl.org/)
 * [NeurIPS](https://nips.cc/)
 * [OpML '20](https://www.usenix.org/conference/opml20/conference-program)
+
+#### MLSys
+* [Stanford MLSys Seminars](https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ/videos)
+* [MLSys2021](https://slideslive.com/mlsys-2021)
 
 #### Paper Archives
 * [arxiv](https://arxiv.org/), [arxiv-sanity](http://www.arxiv-sanity.com), [arxiv-sanity-lite](https://arxiv-sanity-lite.com)
