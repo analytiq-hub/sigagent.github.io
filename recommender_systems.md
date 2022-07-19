@@ -11,8 +11,9 @@ title: Recommender Systems
 * Facebook Ads ML team: [Field guide to ML](https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 
 
-#### Clips
+#### Talks/Clips
 * [YouTube Recommendation System](https://www.youtube.com/watch?v=0nu83yWqnNQ) (2020)
+* [Deep Recommender Systems at Facebook feat. Carole-Jean Wu | Stanford MLSys Seminar Episode 24](https://www.youtube.com/watch?v=5xcd0V9m6Xs)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
