@@ -103,6 +103,7 @@ title: Cloud Data Platform
   * [Databricks vs Snowflake: The Definitive Guide](https://hightouch.io/blog/databricks-vs-snowflake-the-definitive-guide/) (2021)
 * Terraform
   * [Terraform Tutorial for Beginners (State, Import, Modules, Provisioners, Variables, Locals)](https://www.youtube.com/watch?v=PNlx5M3ZbIU&list=PLiMWaCMwGJXnjNhBQF-vR2Xqal0hN9U2-)
+  * [Introduction to HashiCorp Terraform with Armon Dadgar](https://www.youtube.com/watch?v=h970ZBgKINg)
   * [How to Create AWS VPC with Terraform Resources](https://www.youtube.com/watch?v=qnkxOwvHNt4)
 
 #### Companies
