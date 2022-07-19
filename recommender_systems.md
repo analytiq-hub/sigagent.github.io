@@ -10,6 +10,10 @@ title: Recommender Systems
 * B. Rocca: [Introduction to recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada) (2019)
 * Facebook Ads ML team: [Field guide to ML](https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 
+
+#### Clips
+* [YouTube Recommendation System](https://www.youtube.com/watch?v=0nu83yWqnNQ) (2020)
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cloud Data Platform](cloud_data_platform.md)
