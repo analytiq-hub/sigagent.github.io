@@ -101,6 +101,8 @@ title: Cloud Data Platform
   * [Large-Scale Machine Learning with Snowflake and RAPIDS](https://medium.com/snowflake/large-scale-machine-learning-with-snowflake-and-rapids-7796b5e979aa), by M. Adkins et al (2022)
   * [Databricks vs Snowflake: 9 Critical Differences](https://hevodata.com/learn/databricks-vs-snowflake/), A. Phaujdar (2021)
   * [Databricks vs Snowflake: The Definitive Guide](https://hightouch.io/blog/databricks-vs-snowflake-the-definitive-guide/) (2021)
+* Terraform
+  * [How to Create AWS VPC with Terraform Resources](https://www.youtube.com/watch?v=qnkxOwvHNt4)
 
 #### Companies
 * Uber
