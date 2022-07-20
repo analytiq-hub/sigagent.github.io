@@ -23,7 +23,8 @@ title: MLOps
   * [Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/pdf/2103.05073.pdf), Ch. Qi et al, Waymo (2021), [video](https://www.youtube.com/watch), explaining Waymo's solution for auto labeling data
 
 #### Talks
-* Stanford MLSys Seminar Episode 2: Matei Zaharia: [Machine Learning at Industrial Scale: Lessons from the MLflow Project](https://www.youtube.com/watch?v=nCQ9WqXPIS4&list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq&index=3) (2020)
+* Stanford MLSys #2: Matei Zaharia: [Machine Learning at Industrial Scale: Lessons from the MLflow Project](https://www.youtube.com/watch?v=nCQ9WqXPIS4&list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq&index=3) (2020)
+* Stanford MLSys #66: Roman Kazinnik: [Machine Learning in Production](https://www.youtube.com/watch?v=eNWeFccrouI) (2022)
 
 #### Other
 * [Machine Learning](machine_learning.md)
