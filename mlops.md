@@ -7,8 +7,12 @@ title: MLOps
 * [OPML '20](https://www.usenix.org/conference/opml20)
 
 #### Companies
+* Databricks
+  * Stanford MLSys #2: Matei Zaharia: [Machine Learning at Industrial Scale: Lessons from the MLflow Project](https://www.youtube.com/watch?v=nCQ9WqXPIS4&list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq&index=3) (2020) 
 * Google
   * [How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://www.usenix.org/conference/opml20/presentation/papasian)
+* META
+  * Stanford MLSys #66: Roman Kazinnik: [Machine Learning in Production](https://www.youtube.com/watch?v=eNWeFccrouI) (2022)
 * Netflix
   * [Runway - Model Management at Netflix](https://www.usenix.org/conference/opml20/presentation/cepoi) (2020)
 * NVIDIA
@@ -21,10 +25,6 @@ title: MLOps
   * [Evolving Michelangelo Model Representation for Flexibility at Scale](https://eng.uber.com/michelangelo-machine-learning-model-representation/) (2019)  
 * Waymo
   * [Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/pdf/2103.05073.pdf), Ch. Qi et al, Waymo (2021), [video](https://www.youtube.com/watch), explaining Waymo's solution for auto labeling data
-
-#### Talks
-* Stanford MLSys #2: Matei Zaharia: [Machine Learning at Industrial Scale: Lessons from the MLflow Project](https://www.youtube.com/watch?v=nCQ9WqXPIS4&list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq&index=3) (2020)
-* Stanford MLSys #66: Roman Kazinnik: [Machine Learning in Production](https://www.youtube.com/watch?v=eNWeFccrouI) (2022)
 
 #### Other
 * [Machine Learning](machine_learning.md)
