@@ -12,6 +12,7 @@ title: MLOps
   * Stanford MLSys #65: Alkis Polyzotis: [What can Data-Centric AI Learn from Data and ML Engineering?](https://www.youtube.com/watch?v=cqDgxP8DcJA) (2022)
 * Google
   * [How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://www.usenix.org/conference/opml20/presentation/papasian)
+  * Stanford MLSys #63: Arjun Akula: [Improving Robustness and Interpretability in Vision and Language Grounding Models](https://www.youtube.com/watch?v=zKKSXQvdCyE) (2022)
 * META
   * OCPSummit19: [Facebook AI Infrastructure](https://www.youtube.com/watch?v=MYlCesArTWk) (2019)
   * Stanford MLSys #66: Roman Kazinnik: [Machine Learning in Production](https://www.youtube.com/watch?v=eNWeFccrouI) (2022)
