@@ -16,6 +16,7 @@ title: MLOps
   * Stanford MLSys #66: Roman Kazinnik: [Machine Learning in Production](https://www.youtube.com/watch?v=eNWeFccrouI) (2022)
 * Netflix
   * [Runway - Model Management at Netflix](https://www.usenix.org/conference/opml20/presentation/cepoi) (2020)
+  * MLsys Stanford Seminar: Savin Goyal: [How Netflix does MLSys](https://www.youtube.com/watch?v=wassHqe_Clg)
 * NVIDIA
   * [Inside NVIDIA’s AI Infrastructure for Self-driving Cars](https://www.usenix.org/conference/opml20/presentation/farabet) (2020), OPML '20 presentation of Maglev (NVIDIA's AI platform)
   * [Scalable Active Learning for Autonomous Driving](https://medium.com/nvidia-ai/scalable-active-learning-for-autonomous-driving-a-practical-implementation-and-a-b-test-4d315ed04b5f), a practical implementation and A/B Test (2019)
