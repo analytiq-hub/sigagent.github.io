@@ -19,7 +19,7 @@ mathjax: true
   * [Fan out approach](diagrams/twitter_fan_out_approach.excalidraw.png)
 
 #### MLSys Diagrams
-* TO DO
+* [Recommender System](recommender_system.excalidraw.png)
 
 #### Other
 * [Engineering Skills](..)
