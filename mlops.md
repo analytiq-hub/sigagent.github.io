@@ -8,7 +8,8 @@ title: MLOps
 
 #### Companies
 * Databricks
-  * Stanford MLSys #2: Matei Zaharia: [Machine Learning at Industrial Scale: Lessons from the MLflow Project](https://www.youtube.com/watch?v=nCQ9WqXPIS4&list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq&index=3) (2020) 
+  * Stanford MLSys #2: Matei Zaharia: [Machine Learning at Industrial Scale: Lessons from the MLflow Project](https://www.youtube.com/watch?v=nCQ9WqXPIS4&list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq&index=3) (2020)
+  * Stanford MLSys #65: Alkis Polyzotis: [What can Data-Centric AI Learn from Data and ML Engineering?](https://www.youtube.com/watch?v=cqDgxP8DcJA) (2022)
 * Google
   * [How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://www.usenix.org/conference/opml20/presentation/papasian)
 * META
