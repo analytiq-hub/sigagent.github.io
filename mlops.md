@@ -12,6 +12,7 @@ title: MLOps
 * Google
   * [How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://www.usenix.org/conference/opml20/presentation/papasian)
 * META
+  * OCPSummit19: [Facebook AI Infrastructure](https://www.youtube.com/watch?v=MYlCesArTWk) (2019)
   * Stanford MLSys #66: Roman Kazinnik: [Machine Learning in Production](https://www.youtube.com/watch?v=eNWeFccrouI) (2022)
 * Netflix
   * [Runway - Model Management at Netflix](https://www.usenix.org/conference/opml20/presentation/cepoi) (2020)
