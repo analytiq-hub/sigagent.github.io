@@ -14,7 +14,7 @@ title: Terraform
 * freeCodeCamp.org: [Terraform Course - Automate your AWS Infrastructure](https://www.youtube.com/watch?v=SLB_c_ayRMo) (2020)
 
 #### Posts
-* Yevgeniy Brikman: [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca) (2016). This evolved in his book [Terraform: Up & Running](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code-dp-1098116747/dp/1098116747)
+* Yevgeniy Brikman: [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca) (2016). This evolved in his book [Terraform: Up & Running](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code-dp-1098116747/dp/1098116747). Repo: [github](https://github.com/gruntwork-io/intro-to-terraform)
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
