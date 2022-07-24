@@ -25,6 +25,7 @@ Our goal is to describe
   * Typically, the controller is a real time, safety critical system.
   * The controller decides if self driving is engaged, or disengaged. The planner can provide to the controller, in addition to the 'driving plan', a 'disengage plan' which can be used to safely stop the vehicle in case a disengagement has occurred.
   * References:
+    * C. Samak et al: [Control Strategies for Autonomous Vehicles](https://arxiv.org/pdf/2011.08729.pdf) (2021)
     * D. Silver: [How Control Works for Self-Driving Cars](https://www.linkedin.com/pulse/how-control-works-self-driving-cars-david-silver/) (2018)
   * TO DO: continue
 * Planner - TO DO
