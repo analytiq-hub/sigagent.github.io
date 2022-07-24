@@ -12,3 +12,13 @@ Our goal is to describe
 * Hardware: 
   * The car hardware itself could be built from scratch. However, a simpler alternative is to start with a car platform that supports extending its driving functions through its CAN bus.
     * [Comma.ai](http://comma.ai) maintains a [list of cars](https://github.com/commaai/openpilot/blob/master/docs/CARS.md) that support self-driving for the device they develop. The comma.ai software is open source. Any of the cars listed as supporting comma.ai's Open Pilot software can support self-driving through its OBD-II port.
+* Controller - TO DO
+* Robotics middleware - TO DO - can use ROS v2
+* Planner - TO DO
+* Perception - TO DO
+* Mapping - TO DO
+* System - TO DO
+* Offboard infrastructure
+  * Fleet management - TO DO
+  * Perception - TO DO
+* Simulation - TO DO
