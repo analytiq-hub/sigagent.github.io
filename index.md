@@ -76,6 +76,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Robotics](robotics.md)
 * [Romania](romania.md)
 * [Self Driving Cars](self_driving_cars.md)
+  * [How to Build a Self Driving Car](self_driving_cars/how_to_build_a_self_driving_car.md)
 * [Theater](theater.md)
 * Tools
   * [Altair Charts](altair.md)
