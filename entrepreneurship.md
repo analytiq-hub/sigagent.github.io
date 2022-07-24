@@ -17,3 +17,6 @@ title: Entrepreneurship
 * [10 Angel Groups Every Boston Entrepreneur Should Know](https://www.builtinboston.com/2016/09/13/angel-groups-boston)
 * MIT's [The Engine](https://www.engine.xyz)
 * [HBS Angels of Boston](https://www.hbsab.org/s/1738/cc/21/page.aspx?sid=1738&gid=8&pgid=71688&crid=0&calpgid=13&calcid=1270)
+
+#### News
+* [After Record Year, Robotics Investment Stays Strong Even In Shaky VC Market](https://news.crunchbase.com/ai-robotics/robotics-vc-funding/) (2022)
