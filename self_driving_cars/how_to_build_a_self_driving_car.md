@@ -19,6 +19,8 @@ Our goal is to describe
 * Controller - TO DO
 * Planner - TO DO
 * Perception - TO DO
+  * Sensors - TO DO
+  * Calibration - TO DO
 * Mapping - TO DO
 * System - TO DO
   * Robotics middleware - TO DO - can use ROS v2
