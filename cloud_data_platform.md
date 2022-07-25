@@ -103,6 +103,7 @@ title: Cloud Data Platform
   * [Databricks vs Snowflake: 9 Critical Differences](https://hevodata.com/learn/databricks-vs-snowflake/), A. Phaujdar (2021)
   * [Databricks vs Snowflake: The Definitive Guide](https://hightouch.io/blog/databricks-vs-snowflake-the-definitive-guide/) (2021)
 * [Terraform](software_stack/terraform.md)
+* [Waymo](software_stack/waymo.md)
 
 #### Surveys
 * Emerging Architectures for Modern Data Infrastructure:
