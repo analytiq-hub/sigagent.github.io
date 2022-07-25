@@ -101,6 +101,8 @@ title: Self Driving Cars
   * [3D BAT: A Semi-Automatic, Web-based 3D Annotation Toolbox for Full-Surround, Multi-Modal Data Streams](https://arxiv.org/pdf/1905.00525.pdf) (2019)
 * LATTE [github](https://github.com/bernwang/latte)
   * [LATTE: Accelerating LiDAR Point Cloud Annotation via Sensor Fusion, One-Click Annotation, and Tracking](https://arxiv.org/abs/1904.09085) (2019)
+* PC-Annotate
+  * [Annotation Tool and Urban Dataset for 3D Point Cloud Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9363898) (2021)
 * Playment
 * Scale
 * SUSTechPOINTS [github](https://github.com/naurril/SUSTechPOINTS)
