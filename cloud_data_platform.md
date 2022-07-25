@@ -25,6 +25,7 @@ title: Cloud Data Platform
   * Amazon EMR
     * [Create a cluster with JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub-launch.html)
 * [Facebook](cloud_data_platform/facebook.md)
+* [Uber](cloud_data_platform/uber.md)
   
 
 #### Tutorials
@@ -102,12 +103,6 @@ title: Cloud Data Platform
   * [Databricks vs Snowflake: 9 Critical Differences](https://hevodata.com/learn/databricks-vs-snowflake/), A. Phaujdar (2021)
   * [Databricks vs Snowflake: The Definitive Guide](https://hightouch.io/blog/databricks-vs-snowflake-the-definitive-guide/) (2021)
 * [Terraform](cloud_data_platform/terraform.md)
-
-#### Companies
-* Uber
-  * [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/) (2017)
-  * [Introducing Ludwig, a Code-Free Deep Learning Toolbox](https://eng.uber.com/introducing-ludwig/) (2019)
-  * [Using Spark Mllib Models in a Production Training and Serving Platform Experiences and Extensions](https://www.youtube.com/watch?v=Pq_DShtUQM0) (2019)
 
 #### Surveys
 * Emerging Architectures for Modern Data Infrastructure:
