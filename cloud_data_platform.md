@@ -17,15 +17,15 @@ title: Cloud Data Platform
 
 #### Software Stacks
 * [BDAS, the Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/)
-* [Databricks](cloud_data_platform/databrics.md)
-* [AWS](cloud_data_platform/amazon_web_services.md)
+* [Databricks](software_stack/databrics.md)
+* [AWS](software_stack/amazon_web_services.md)
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Neptune.ai](https://neptune.ai/)
 * [Jupyterhub](https://jupyterhub.readthedocs.io)
   * Amazon EMR
     * [Create a cluster with JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub-launch.html)
-* [Facebook](cloud_data_platform/facebook.md)
-* [Uber](cloud_data_platform/uber.md)
+* [Facebook](software_stack/facebook.md)
+* [Uber](software_stack/uber.md)
   
 
 #### Tutorials
@@ -102,7 +102,7 @@ title: Cloud Data Platform
   * [Large-Scale Machine Learning with Snowflake and RAPIDS](https://medium.com/snowflake/large-scale-machine-learning-with-snowflake-and-rapids-7796b5e979aa), by M. Adkins et al (2022)
   * [Databricks vs Snowflake: 9 Critical Differences](https://hevodata.com/learn/databricks-vs-snowflake/), A. Phaujdar (2021)
   * [Databricks vs Snowflake: The Definitive Guide](https://hightouch.io/blog/databricks-vs-snowflake-the-definitive-guide/) (2021)
-* [Terraform](cloud_data_platform/terraform.md)
+* [Terraform](software_stack/terraform.md)
 
 #### Surveys
 * Emerging Architectures for Modern Data Infrastructure:
