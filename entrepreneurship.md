@@ -21,5 +21,11 @@ title: Entrepreneurship
 #### News
 * [After Record Year, Robotics Investment Stays Strong Even In Shaky VC Market](https://news.crunchbase.com/ai-robotics/robotics-vc-funding/) (2022)
 
+#### Boston Startup Resources
+* [Startup Boston](https://www.startupbos.org/): community events
+* [VentureFizz](https://venturefizz.com/): tech industry company profiles
+* The Boston Business Jounal’s startup news – though the Globe has occasional startups coverage (and Scott Kirsner’s always-excellent column), for my money the BBJ is the most consistent, best quality Boston startup reporting currently available.
+* Coworking spaces: [CIC](https://cic.com/), [VentureLane](https://theventurelane.com/), and [WorkBar](https://www.workbar.com/)
+
 #### Meetup Calendars
 * [Startup Boston](https://www.startupbos.org): [Calendar](https://www.startupbos.org/events)
