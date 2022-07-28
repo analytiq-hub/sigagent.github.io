@@ -15,6 +15,13 @@ title: Terraform
 
 #### Posts
 * Yevgeniy Brikman: [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca) (2016). This evolved in his book [Terraform: Up & Running](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code-dp-1098116747/dp/1098116747). Repo: [github](https://github.com/gruntwork-io/intro-to-terraform)
+* DigitalOcean: [How To Structure a Terraform Project](https://www.digitalocean.com/community/tutorials/how-to-structure-a-terraform-project) (2021)
+
+#### Talks
+* Yevgeniy Brikman: [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://www.youtube.com/watch?v=RTEgE2lcyk4) (2018)
+
+#### Github integration
+* V. Nagy: [GitOps with GitLab: Infrastructure provisioning with GitLab and Terraform](https://about.gitlab.com/blog/2021/11/04/gitops-with-gitlab-infrastructure-provisioning/) (2021)
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
