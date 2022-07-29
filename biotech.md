@@ -6,6 +6,10 @@ title: Biotech
 #### Surveys
 * A. Glielmo et al: [Unsupervised Learning Methods for Molecular Simulation Data](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c01195), Chem. Review (2021)
 
+#### Forums
+* [Biostars](https://www.biostars.org/)
+* [Neurostars](https://neurostars.org/)
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cloud Data Platform](cloud_data_platform.md)
