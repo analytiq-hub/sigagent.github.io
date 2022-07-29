@@ -18,7 +18,7 @@ title: Terraform
 * DigitalOcean: [How To Structure a Terraform Project](https://www.digitalocean.com/community/tutorials/how-to-structure-a-terraform-project) (2021)
 
 #### Talks
-* Yevgeniy Brikman: [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://www.youtube.com/watch?v=RTEgE2lcyk4) (2018)
+* Yevgeniy Brikman: [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://www.youtube.com/watch?v=RTEgE2lcyk4) (2018) ([transcript](https://www.hashicorp.com/resources/lessons-learned-300000-lines-code))
 
 #### AWS integration
 * HashiCorp: [Use AssumeRole to Provision AWS Resources Across Accounts](https://learn.hashicorp.com/tutorials/terraform/aws-assumerole?_ga=2.130460175.1484426841.1658951487-512028672.1658240950)
