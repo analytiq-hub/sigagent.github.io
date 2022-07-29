@@ -20,6 +20,10 @@ title: Terraform
 #### Talks
 * Yevgeniy Brikman: [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://www.youtube.com/watch?v=RTEgE2lcyk4) (2018)
 
+#### AWS integration
+* HashiCorp: [Use AssumeRole to Provision AWS Resources Across Accounts](https://learn.hashicorp.com/tutorials/terraform/aws-assumerole?_ga=2.130460175.1484426841.1658951487-512028672.1658240950)
+* [Terraform and AWS Multi account Setup](https://jhooq.com/terraform-aws-multi-account/) (2022)
+
 #### Github integration
 * V. Nagy: [GitOps with GitLab: Infrastructure provisioning with GitLab and Terraform](https://about.gitlab.com/blog/2021/11/04/gitops-with-gitlab-infrastructure-provisioning/) (2021)
 
