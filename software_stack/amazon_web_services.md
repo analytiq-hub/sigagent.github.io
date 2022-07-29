@@ -3,6 +3,9 @@ layout: page
 mathjax: true
 title: Amazon Web Services
 ---
+* EC2
+  * Load Balancer
+    *  Cloud With Raj: [AWS Load Balancer HTTPS Setup with Route 53 and Certificate Manager & HTTP Redirect to HTTPS](https://www.youtube.com/watch?v=JQP96EjRM98) (2022)
 * [EMR](https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks.html)
   * [Amazon EMR Deep Dive and Best Practices - AWS Online Tech Talks](https://www.youtube.com/watch?v=dU40df0Suoo)
 * Access Control
