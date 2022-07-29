@@ -9,7 +9,7 @@ title: Film
 * [Leni Riefenstahl](https://www.youtube.com/watch?v=vs7pJaFpxVM), documentary (1993)
 * [The White Hell of Pitz Palu](https://www.youtube.com/watch?v=gJ8B4VH-5gk) (1929), directed by Arnold Fank and G.W.Pabst
 * [Das Blaue Licht](https://www.youtube.com/watch?v=m6wnEGQhmQ4&t=238s) (1932), directed by Leni Riefenstahl
-* [The Garden of the Finzi-Continis](https://www.imdb.com/title/tt0065777/) (1970), directed by Vittorio deSica
+* [The Garden of the Finzi-Continis](https://www.imdb.com/title/tt0065777/) (1970), directed by Vittorio de Sica
 
 #### Books
 * Simon Callow's Orson Welles biography
