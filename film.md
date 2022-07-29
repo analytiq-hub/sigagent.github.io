@@ -7,8 +7,9 @@ title: Film
 * [The Lady from Shanghai](https://en.wikipedia.org/wiki/The_Lady_from_Shanghai) (1947), directed by Orson Welles, with Rita Hayworth and Orson Welles
 * [And God created woman](https://en.wikipedia.org/wiki/And_God_Created_Woman_(1956_film)), directed by Roger Vadim (1956)
 * [Leni Riefenstahl](https://www.youtube.com/watch?v=vs7pJaFpxVM), documentary (1993)
-* [The White Hell of Pitz Palu](https://www.youtube.com/watch?v=gJ8B4VH-5gk) (1929)
-* [Das Blaue Licht](https://www.youtube.com/watch?v=m6wnEGQhmQ4&t=238s) (1932)
+* [The White Hell of Pitz Palu](https://www.youtube.com/watch?v=gJ8B4VH-5gk) (1929), directed by Arnold Fank and G.W.Pabst
+* [Das Blaue Licht](https://www.youtube.com/watch?v=m6wnEGQhmQ4&t=238s) (1932), directed by Leni Riefenstahl
+* [The Garden of the Finzi-Continis](https://www.imdb.com/title/tt0065777/) (1970), directed by Vittorio deSica
 
 #### Books
 * Simon Callow's Orson Welles biography
