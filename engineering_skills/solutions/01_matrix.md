@@ -89,7 +89,6 @@ class Solution:
             self.maybe_enqueue(row+1, col, dist)
             self.maybe_enqueue(row, col-1, dist)
             self.maybe_enqueue(row, col+1, dist)
-
         
         return self.dist_mat
 ```
