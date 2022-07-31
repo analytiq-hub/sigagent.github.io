@@ -16,6 +16,7 @@ title: Facebook/META Software Stack
 * Talks
   * A. Agarwal: [Scale at Facebook](https://www.infoq.com/presentations/Scale-at-Facebook/) (2010)
   * A. Malevich: [Practical Recommendations for Building Recommender Systems with Facebook](https://www.youtube.com/watch?v=RETEn5YLyO4) (2020)
+  * L. Backstrom: [Serving a Billion Personalized News Feeds](https://www.youtube.com/watch?v=Xpx5RYNTQvg) (2016)
 
 * highscalability.com
   * [Snakes in a Facebook Datacenter](http://highscalability.com/blog/2020/9/22/snakes-in-a-facebook-datacenter.html)
