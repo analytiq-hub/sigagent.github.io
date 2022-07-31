@@ -10,7 +10,7 @@ title: Google Software Stack
 * Tools
   * [Cloud Spanner](https://cloud.google.com/spanner)
 
-* Recommender System
+* YouTube
   * [RecSys 2016: Paper Session 6 - Deep Neural Networks for YouTube Recommendations](https://www.youtube.com/watch?v=WK_Nr4tUtl8)
     * P. Covington et al: [Deep Neural Networks for YouTube Recommendations](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf) (2020)
 
