@@ -7,6 +7,7 @@ mathjax: true
 * [Number of Islands](https://leetcode.com/problems/number-of-islands/) ([solution](solutions/number_of_islands.md))
 * [Flood Fill](https://leetcode.com/problems/flood-fill)
 * [01 Matrix](https://leetcode.com/problems/01-matrix/) ([solution](solutions/01_matrix.md))
+* [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
 #### References
 * [Tech Interview Handbook - Algorithms](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
