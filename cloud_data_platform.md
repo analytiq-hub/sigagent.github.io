@@ -20,13 +20,13 @@ title: Cloud Data Platform
 * [Databricks](software_stack/databrics.md)
 * [AWS](software_stack/amazon_web_services.md)
 * [dvc](https://dvc.org/) (Data Version Control)
+* [Google](software_stack/google.md)
 * [Neptune.ai](https://neptune.ai/)
 * [Jupyterhub](https://jupyterhub.readthedocs.io)
   * Amazon EMR
     * [Create a cluster with JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub-launch.html)
 * [Facebook](software_stack/facebook.md)
 * [Uber](software_stack/uber.md)
-* [Waymo](software_stack/waymo.md)
   
 
 #### Tutorials
