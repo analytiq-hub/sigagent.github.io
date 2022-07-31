@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: Waymo Software Stack
+title: Google Software Stack
 ---
 * Posts
   * [FlumeJava: Easy, Efficient Data-Parallel Pipelines](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/35650.pdf) (2010)
@@ -9,6 +9,10 @@ title: Waymo Software Stack
 
 * Tools
   * [Cloud Spanner](https://cloud.google.com/spanner)
+
+* Recommender System
+  * [RecSys 2016: Paper Session 6 - Deep Neural Networks for YouTube Recommendations](https://www.youtube.com/watch?v=WK_Nr4tUtl8)
+    * P. Covington et al: [Deep Neural Networks for YouTube Recommendations](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf) (2020)
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
