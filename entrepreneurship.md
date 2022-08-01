@@ -10,6 +10,7 @@ title: Entrepreneurship
 #### Talks
 * Aaron Harris: [How to Get Meetings with Investors and Raise Money by Aaron Harris](https://www.youtube.com/watch?v=Jzz4AEIddzY) (2018)
 * Blitzscaling 08: [Eric Schmidt on Structuring Teams and Scaling Google](https://www.youtube.com/watch?v=hcRxFRgNpns) (2015)
+* How to Start a Startup 2014: Lecture 13: [How to Be a Great Founder with Reid Hoffman](https://www.youtube.com/watch?v=pkAum45ubWc&list=RDLVhcRxFRgNpns&index=6) (2017)
 
 #### Pitching in Boston
 * [Startupalooza: Pitch Angel VCs at CIC Boston](https://cic.com/new-events/https/wwweventbritecom/e/pitch-angel-vcs-at-cic-boston-free-capital-raising-workshop-tickets-54868682707discountcic), [meetup](https://www.meetup.com/startupalooza/)
