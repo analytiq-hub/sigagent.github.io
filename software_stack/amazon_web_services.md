@@ -32,6 +32,16 @@ title: Amazon Web Services
   * [Event Driven System with CDK](https://eventbus-cdk.workshop.aws/en/)
   * [Building Serverless Apps with SAM](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/en-US)
 
+* Networking
+  * VPC
+    * Enlear Academy: [AWS VPC - A Crash Course](https://www.youtube.com/watch?v=cEbJZdZxJ5A) (2020)
+    * [VPC sharing: A new approach to multiple accounts and VPC management](https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-sharing-a-new-approach-to-multiple-accounts-and-vpc-management/)
+  * Route53
+    * AWS Online Tech Talks: [DNS Design Using Amazon Route 53](https://www.youtube.com/watch?v=2y_RBjDkRgY) (2020)
+    * [How do I use a Route 53 Resolver inbound endpoint to resolve DNS records in a private hosted zone?](https://www.youtube.com/watch?v=GTwajBL0uzU) (2020)
+  * Private Link
+    * Pythoholic: [AWS PrivateLink/VPC Endpoint Service Demo](https://www.youtube.com/watch?v=0bHXWIM4_0o) (2020)
+
 * Sagemaker
   * S.S.R. Mengle, M. Gutierrez: [Mastering Machine Learning on AWS](https://www.amazon.com/Mastering-Machine-Learning-AWS-TensorFlow/dp/1789349796) (2019), [github](https://github.com/PacktPublishing/Mastering-Machine-Learning-on-AWS)
   * J. Simon, F. Ponchetti: [Learn Amazon SageMaker](https://www.amazon.com/Learn-Amazon-SageMaker-developers-scientists/dp/180020891X) (2020)
@@ -55,13 +65,6 @@ title: Amazon Web Services
     * [MLOps with MLFlow and Amazon SageMaker Pipelines](https://towardsdatascience.com/mlops-with-mlflow-and-amazon-sagemaker-pipelines-33e13d43f238) (2021)
     * [SageMaker's Distributed Data Parallel Library](https://docs.aws.amazon.com/sagemaker/latest/dg/data-parallel.html)
     * [Amazon SageMaker Data Wrangler now supports Databricks as a data source](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-databricks-data-source/)
-  * Networking
-    * VPC
-      * Enlear Academy: [AWS VPC - A Crash Course](https://www.youtube.com/watch?v=cEbJZdZxJ5A) (2020)
-      * [VPC sharing: A new approach to multiple accounts and VPC management](https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-sharing-a-new-approach-to-multiple-accounts-and-vpc-management/)
-    * Route53
-      * AWS Online Tech Talks: [DNS Design Using Amazon Route 53](https://www.youtube.com/watch?v=2y_RBjDkRgY) (2020)
-      * [How do I use a Route 53 Resolver inbound endpoint to resolve DNS records in a private hosted zone?](https://www.youtube.com/watch?v=GTwajBL0uzU) (2020)
   * Presentations
     * [AWS Innovate - Data Edition](https://amer.resources.awscloud.com/aws-innovate-data-edition-2022) (2022)
       * [Prepare data for ML with ease, speed, and accuracy](https://amer.resources.awscloud.com/aws-innovate-data-edition-2022/prepare-data-for-ml-with-ease-speed-and-accuracy-1)
