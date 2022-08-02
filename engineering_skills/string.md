@@ -12,7 +12,7 @@ Essential questions:
 
 Recommended questions:
 * [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
-* [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) (sliding window + hash table)
+* [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) (build hash of string {letter=>count}, and use sliding window to check if substring is anagram)
 * [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
 * [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 * [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) (pad string with invalid chars, walk string one by one and find largest radius of palindrome centered in that spot)
