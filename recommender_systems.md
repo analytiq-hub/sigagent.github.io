@@ -4,6 +4,7 @@ mathjax: true
 title: Recommender Systems
 ---
 #### Books, Lecture Notes
+* K. Pham: [Machine Learning Design Interview](https://www.amazon.com/Machine-Learning-Design-Interview-System/dp/B09YQWX59Z) (2022)
 * Kim Falk: [Practical Recommender Systems](https://www.amazon.com/Practical-Recommender-Systems-Kim-Falk/dp/1617292702) (2019)
 
 #### Papers
