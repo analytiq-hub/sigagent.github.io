@@ -6,6 +6,9 @@ title: Recommender Systems
 #### Books, Lecture Notes
 * Kim Falk: [Practical Recommender Systems](https://www.amazon.com/Practical-Recommender-Systems-Kim-Falk/dp/1617292702) (2019)
 
+#### Papers
+* M. Naumov et al: [Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://arxiv.org/abs/1906.00091) (2019), [github](https://github.com/facebookresearch/dlrm)
+
 #### Blog Posts
 * B. Rocca: [Introduction to recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada) (2019)
 * Facebook Ads ML team: [Field guide to ML](https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
