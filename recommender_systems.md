@@ -15,6 +15,7 @@ title: Recommender Systems
 * [YouTube Recommendation System](https://www.youtube.com/watch?v=0nu83yWqnNQ) (2020)
 * Stanford MLSys Seminar Episode 24: [Deep Recommender Systems at Facebook feat. Carole-Jean Wu](https://www.youtube.com/watch?v=5xcd0V9m6Xs) (2021)
 * Stanford MLSys Seminar Episode 27: [How NVIDIA Supports Recommender Systems feat. Even Oldridge](https://www.youtube.com/watch?v=wPso35VkuCs) (2021)
+* A. Malevich: [Practical Recommendations for Building Recommender Systems with Facebook](https://www.youtube.com/watch?v=RETEn5YLyO4) (2020)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
