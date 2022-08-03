@@ -15,7 +15,7 @@ title: Facebook/META Software Stack
 
 * Talks
   * A. Agarwal: [Scale at Facebook](https://www.infoq.com/presentations/Scale-at-Facebook/) (2010)
-  * A. Malevich: [Practical Recommendations for Building Recommender Systems with Facebook](https://www.youtube.com/watch?v=RETEn5YLyO4) (2020)
+  * [A. Malevich](https://openreview.net/profile?id=~Andrey_Malevich1): [Practical Recommendations for Building Recommender Systems with Facebook](https://www.youtube.com/watch?v=RETEn5YLyO4) (2020)
   * L. Backstrom: [Serving a Billion Personalized News Feeds](https://www.youtube.com/watch?v=Xpx5RYNTQvg) (2016)
   * E. Sodomka: [On How Machine Learning and Auction Theory Power Facebook Advertising](https://www.youtube.com/watch?v=94s0yYECeR8) (2015)
 
