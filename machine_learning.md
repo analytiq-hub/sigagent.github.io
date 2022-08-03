@@ -133,6 +133,9 @@ title: Machine Learning
 * Matt Turk: [Red Hot: The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/)
 * A. Kumar, I. Kostrikov, S. Levine: [Should I Use Offline RL or Imitation Learning?](https://bair.berkeley.edu/blog/2022/04/25/rl-or-bc/) (2022)
 
+#### Folding
+* [MIT Robotics - David Held - Perceptual Robot Learning](https://www.youtube.com/watch?v=YSj4cIFxvhc) (2021)
+
 #### Distributed Training
 * Medium: [Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255), Thomas Wolf (2018)
 * Towards Data Science: [Distributed Neural Network Training In Pytorch](https://towardsdatascience.com/distributed-neural-network-training-in-pytorch-5e766e2a9e62), Nilesh Vijayrania (2020)
@@ -222,6 +225,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 
 #### News Ranking
 * X. Ni et al: [Prioritizing Original News on Facebook](https://arxiv.org/pdf/2102.08465.pdf) (2021)
+
 
 #### Identifying Harmful Content
 * Facebook: [Harmful content can evolve quickly. Our new AI system adapts to tackle it.](https://ai.facebook.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/) (2021)
