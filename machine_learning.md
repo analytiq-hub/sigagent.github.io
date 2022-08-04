@@ -107,6 +107,8 @@ title: Machine Learning
 * G. Hinton: [Artificial Intelligence: Turning our understanding of the mind right side up](https://www.youtube.com/watch?v=fDR1I2Shw_E) (2017)
 * Y. LeCun: [Energy-Based Self-Supervised Learning](https://www.youtube.com/watch?v=A7AnCvYDQrU), IPAM (2019), [slides](http://helper.ipam.ucla.edu/publications/mlpws4/mlpws4_15927.pdf)
 * Y. LeCun: [The Epistemology of Deep Learning](https://www.youtube.com/watch?v=gG5NCkMerHU), IAS (2019)
+* [Normalized Nerd](https://www.youtube.com/c/NormalizedNerd)
+  * [Markov Chains Clearly Explained! Part - 1](https://youtu.be/i3AkTO9HLXo)
 
 #### Interviews
 * Lex Fridman
