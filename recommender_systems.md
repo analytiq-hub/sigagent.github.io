@@ -10,6 +10,9 @@ title: Recommender Systems
 #### Papers
 * M. Naumov et al: [Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://arxiv.org/abs/1906.00091) (2019), [github](https://github.com/facebookresearch/dlrm)
 
+#### Courses
+* EdX: UMontreal: Laurent Charlin: [Recommender Systems: Behind the Screen](https://learning.edx.org/course/course-v1:UMontrealX+RECM1EN+1T2021/home)
+
 #### Blog Posts
 * B. Rocca: [Introduction to recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada) (2019)
 * Facebook Ads ML team: [Field guide to ML](https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
