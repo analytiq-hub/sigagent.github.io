@@ -23,6 +23,7 @@ title: Terraform
 #### AWS integration
 * HashiCorp: [Use AssumeRole to Provision AWS Resources Across Accounts](https://learn.hashicorp.com/tutorials/terraform/aws-assumerole?_ga=2.130460175.1484426841.1658951487-512028672.1658240950)
 * [Terraform and AWS Multi account Setup](https://jhooq.com/terraform-aws-multi-account/) (2022)
+* C. Chea: [Cross-Account VPC Peering Connection With Terraform](https://chandarachea.medium.com/vpc-peering-connetion-with-terraform-c4522a24bf3e) (2020)
 
 #### Github integration
 * V. Nagy: [GitOps with GitLab: Infrastructure provisioning with GitLab and Terraform](https://about.gitlab.com/blog/2021/11/04/gitops-with-gitlab-infrastructure-provisioning/) (2021)
