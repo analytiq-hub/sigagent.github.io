@@ -73,7 +73,8 @@ title: Amazon Web Services
     * [aws-samples](https://github.com/aws-samples)/[aws-sagemaker-ground-truth-recipe](https://github.com/aws-samples/aws-sagemaker-ground-truth-recipe)
   * [Sagemaker Workshop](https://sagemaker-workshop.com/)
 * FSx
-  * [Scalable and Cost-Effective Batch Processing for ML workloads with AWS Batch and Amazon FSx](https://aws.amazon.com/blogs/hpc/ml-training-with-aws-batch-and-amazon-fsx/)
+  * [Scalable and Cost-Effective Batch Processing for ML workloads with AWS Batch and Amazon FSx](https://aws.amazon.com/blogs/hpc/ml-training-with-aws-batch-and-amazon-fsx/) (2021)
+  * [Speed up training on Amazon SageMaker using Amazon FSx for Lustre and Amazon EFS file systems](https://aws.amazon.com/blogs/machine-learning/speed-up-training-on-amazon-sagemaker-using-amazon-efs-or-amazon-fsx-for-lustre-file-systems/) (2019)
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
