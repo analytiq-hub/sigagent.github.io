@@ -72,6 +72,8 @@ title: Amazon Web Services
   * Code
     * [aws-samples](https://github.com/aws-samples)/[aws-sagemaker-ground-truth-recipe](https://github.com/aws-samples/aws-sagemaker-ground-truth-recipe)
   * [Sagemaker Workshop](https://sagemaker-workshop.com/)
+* FSx
+  * [Scalable and Cost-Effective Batch Processing for ML workloads with AWS Batch and Amazon FSx](https://aws.amazon.com/blogs/hpc/ml-training-with-aws-batch-and-amazon-fsx/)
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
