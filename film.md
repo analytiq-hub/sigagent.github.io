@@ -20,6 +20,9 @@ title: Film
 #### Interviews
 * [Biographer Simon Callow on Orson Welles: ‘He Was Deeply Insecure’](https://variety.com/2016/film/news/orson-welles-biographer-simon-callow-1201749008/), by Brent Lang (2016)
 
+#### Streaming
+* [Cinessance](https://cinessance.com), use code FREE30
+
 #### Links
 * [Philosophy](philosophy.md)
 * [Religion](religion.md)
