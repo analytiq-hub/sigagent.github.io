@@ -34,7 +34,7 @@ The architecture discussed here is the *modular* architecture, as opposed to the
 * Perception - TO DO
   * Sensors - TO DO
   * Calibration - TO DO
-  * ROC and PR curves
+  * ROC and PR curves. AUC (area under the curve). Operating points.
     * Used to compare models
     * See Geoff Hulten [Machine Learning Course - 6. ROC Curves and Operating Points](https://www.youtube.com/watch?v=XNYURf_GO1o)
 * Mapping - TO DO
