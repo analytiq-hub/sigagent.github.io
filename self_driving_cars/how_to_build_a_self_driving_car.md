@@ -34,7 +34,7 @@ The architecture discussed here is the *modular* architecture, as opposed to the
 * Perception - TO DO
   * Sensors - TO DO
   * Calibration - TO DO
-  * P/R (precision and recall)
+  * Confusion matrix. P/R (precision and recall).
     * See G. Hulten: [Machine Learning Course - 2. Introduction to Evaluating Models (Lecture 2 of 23)](https://www.youtube.com/watch?v=iyjb9UBcdM8)
   * ROC and PR curves. AUC (area under the curve). Operating points.
     * Used to compare models
