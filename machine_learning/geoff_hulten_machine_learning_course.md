@@ -74,6 +74,28 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
     * Threshold - value between 0-1 to convert $$\hat{y}$$ into a classification
 * 4: [Intro to Feature Engineering with Text](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=5)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/04%20--%20Feature%20Engineering%20(Text).pptx)
+  * Binary Features
+    * Contains word?
+    * Is SMS longer than X?
+    * Contains (*#)?
+  * Categorical Features
+    * First word is {noun, verb, other...}
+    * Message length is {short, medium, long, very long}
+    * Token type is {Number, URL, Word, Phone #, Unknown}
+    * Grammar Analysis is {Fragment, Simple Sentence, Complex Sentence}
+  * Numerical Features
+    * CountOf Word(call)
+    * MessageLength
+    * FirstNumberInMessage
+    * WritingGradeLevel
+  * Feature Engineering for words
+    * Tokenize
+    * Bag of words
+    * N-grams
+    * TF-IDF (term frequency - inverse document frequency)
+    * Embeddings - Word2Vec and FastText
+    * NLP
+  * Normalization of numeric features
 * 5: [Intro to Feature Selection](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=6)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/05%20--%20Feature%20Selection.pptx)
 * 6: [ROC Curves and Operating Points](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=7)
