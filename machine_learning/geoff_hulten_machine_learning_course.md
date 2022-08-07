@@ -150,7 +150,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
       * For feature selection
       * When data changes from under the model, causing variance
       * When ML algorithm includes internal randomization, causing variance
-    * Be careful of data drif
+    * Be careful of data drift
       * Time series
       * Dependencies of data on other factors that may change (e.g. spam campaigns)
       * Other violations of interdependence assumptions
