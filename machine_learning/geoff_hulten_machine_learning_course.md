@@ -128,8 +128,8 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
 <img src="/machine_learning/diagrams/ROC.drawio.png" width="250" height="250"/>
 </p>
 
-      * AUC is area under curve, used for comparing performance between models
-      * Operating point is point on ROC curve closest to origin.
+    * AUC is area under curve, used for comparing performance between models
+    * Operating point is point on ROC curve closest to origin.
     * PR curve is same but for precision/recall.
   * Update threshold to avoid drift.
     * Threshold can be updated w/o having to update model.    
