@@ -53,6 +53,10 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
   * Training set, validation set, test set
   * Overfit, underfit
   * Confusion matrix
+<p align="center">
+<img src="diagrams/confusion_diagram.drawio.png" width="350" height="250"/>
+</p>
+
 * 3: [Logistic Regression](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=4)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/03%20--%20Logistic%20Regression.pptx)
 * 4: [Intro to Feature Engineering with Text](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=5)
