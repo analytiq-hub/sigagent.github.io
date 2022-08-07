@@ -30,7 +30,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
     * Discriminative: model the posterior probability $$P(y \vert x)$$ directly
       * Use logistic regression, decision trees, neural nets
     * Generative: model the joint probability $$P(x, y)$$
-      * Use naive Bayes, bayesian networks, hidden Markov models
+      * Use naive Bayes, Bayesian networks, hidden Markov models
       * On generative models: Andrew Y. Ng, Michael I. Jordan: [On Discriminative vs Generative classifiers: A comparison of logistic regression and naive Bayes](https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
   * Bayes Theorem: $$P(A \vert B) = \frac{P(B \vert A) P(A)}{P(B)}$$
   * Bayes model: $$y = \underset{y_j \in Y}{argmax} \frac{P(\lt x \gt \vert y_j) P(y_j)}{P(\lt x \gt)}$$
