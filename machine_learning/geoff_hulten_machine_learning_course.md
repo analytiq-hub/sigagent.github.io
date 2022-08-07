@@ -129,7 +129,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
 <img src="/machine_learning/diagrams/ROC.drawio.png" width="250" height="250"/>
 </p>
 
-* AUC is area under curve, used for comparing performance between models. Operating point is point on ROC curve closest to origin. PR curve is same but for precision/recall. Update threshold to avoid drift. Threshold can be updated w/o having to update model.    
+  * AUC is area under curve, used for comparing performance between models. Operating point is point on ROC curve closest to origin. PR curve is same but for precision/recall. Update threshold to avoid drift. Threshold can be updated w/o having to update model.    
 * 7: [Bounds and Comparing Models](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=8)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/07%20--%20Bounds%20and%20Comparing%20Models.pptx)
 * 8: [Naive Bayes](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=9)
