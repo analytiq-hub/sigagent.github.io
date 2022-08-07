@@ -14,6 +14,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
 * 6: [ROC Curves and Operating Points](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=7)
 * 7: [Bounds and Comparing Models](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=8)
 * 8: [Naive Bayes](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=9)
+  * On generative models: Andrew Y. Ng, Michael I. Jordan: [On Discriminative vs Generative classifiers: A comparison of logistic regression and naive Bayes](https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
