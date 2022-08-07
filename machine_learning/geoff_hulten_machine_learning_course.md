@@ -38,6 +38,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
     * Simplifying assumption: the features $$x_i$$ of $$\lt x \gt$$ are independent (where the name 'naive' comes from)
     * Naive Bayes model: $$y = \underset{y_j \in Y}{argmax} P(y_j) \underset{i}{\prod} P(x_i \vert y_j)$$
     * It is of theoretical importance, almost never used in practice
+    * For small number of features $$x_i$$ and classes $$y_j$$, build incidence table of how many times $$<x> \rightarrow y$$, and compute $$y$$ using naive Bayes
 * 9: [Implementing with Machine Learning](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=10)
 * 10: [Decision Trees](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=11)
 * 11: [Defining Success with Machine Learning](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=12)
