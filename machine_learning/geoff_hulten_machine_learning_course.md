@@ -11,6 +11,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
 * [Cognitive Science](cognitive_science.md)
 * [Computation Theory](computation_theory.md)
 * [GPUs](gpus.md)
+* [Machine Learning](machine_learning.md)
 * [Meta Learning](meta_learning.md)
 * [MLOps](mlops.md)
 * [Natural Language Processing](natural_language_processing.md)
