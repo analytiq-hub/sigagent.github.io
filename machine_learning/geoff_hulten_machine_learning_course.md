@@ -68,6 +68,10 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
   * Model: linear with sigmoid activation $$\hat{y} = sigmoid(w_0 + \sum_{i=1}^n w_i * x_i)$$ where $$sigmoid(x) = \frac{1}{1+e^x}$$
   * Loss function: log loss $$Loss(\hat{y},y) = -y \, log(\hat{y}) - (1-y) \, log(1 - \hat{y})$$
   * Optimization: gradient descent
+  * Parameters
+    * Step size used in gradient descent
+    * Convergence - minimum loss increase required to continue gradient descent
+    * Threshold - value between 0-1 to convert $$\hat{y}$$ into a classification
 * 4: [Intro to Feature Engineering with Text](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=5)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/04%20--%20Feature%20Engineering%20(Text).pptx)
 * 5: [Intro to Feature Selection](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=6)
