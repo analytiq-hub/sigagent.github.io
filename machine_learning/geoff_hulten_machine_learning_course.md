@@ -66,7 +66,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
     * Need efficient runtime or need a baseline
   * Not the most accurate option, but used a lot in practice
   * Model: linear with sigmoid activation $$\hat{y} = sigmoid(w_0 + \sum_{i=1}^n w_i * x_i)$$ where $$sigmoid(x) = \frac{1}{1+e^x}$$
-  * Loss function: log loss
+  * Loss function: log loss $$Loss(\hat{y},y) = -y \, log(\hat{y}) - (1-y) \, log(1 - \hat{y})$$
   * Optimization: gradient descent
 * 4: [Intro to Feature Engineering with Text](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=5)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/04%20--%20Feature%20Engineering%20(Text).pptx)
