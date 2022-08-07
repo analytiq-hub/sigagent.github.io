@@ -54,7 +54,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
   * Overfit, underfit
   * Confusion matrix
 <p align="center">
-<img src="/machine_learning/diagrams/confusion_diagram.drawio.png" width="350" height="250"/>
+<img src="/machine_learning/diagrams/confusion_diagram.drawio.png" width="500" height="250"/>
 </p>
 
 * 3: [Logistic Regression](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=4)
