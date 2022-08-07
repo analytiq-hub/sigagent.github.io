@@ -59,6 +59,15 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
 
 * 3: [Logistic Regression](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=4)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/03%20--%20Logistic%20Regression.pptx)
+  * Linear model for classification and probability estimation
+  * Can be effective when:
+    * The problem is linearly separable
+    * Or there are a lot of relevant features (10s-100s)
+    * Need efficient runtime or need a baseline
+  * Not the most accurate option, but used a lot in practice
+  * Model: linear with sigmoid activation
+  * Loss function: log loss
+  * Optimization: gradient descent
 * 4: [Intro to Feature Engineering with Text](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=5)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/04%20--%20Feature%20Engineering%20(Text).pptx)
 * 5: [Intro to Feature Selection](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=6)
