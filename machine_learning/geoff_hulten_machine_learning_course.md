@@ -50,6 +50,9 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
 * [Top 5 Career Paths for Data Professionals](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=2)
 * 2: [Basics of Evaluating Models](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=3)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/02%20--%20Basics%20of%20Evaluating%20Models.pptx)
+  * Training set, validation set, test set
+  * Overfit, underfit
+  * Confusion matrix
 * 3: [Logistic Regression](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=4)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/03%20--%20Logistic%20Regression.pptx)
 * 4: [Intro to Feature Engineering with Text](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=5)
