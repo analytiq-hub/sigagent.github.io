@@ -26,6 +26,9 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/07%20--%20Bounds%20and%20Comparing%20Models.pptx)
 * 8: [Naive Bayes](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=9)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/08%20--%20Naive%20Bayes.pptx)
+  * Discriminative vs Generative modes
+    * Discriminative: model $$P(y \vert x)$$ directly
+    * Generative: model the joint probability $$P(x, y)$$ 
   * On generative models: Andrew Y. Ng, Michael I. Jordan: [On Discriminative vs Generative classifiers: A comparison of logistic regression and naive Bayes](https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
 * 9: [Implementing with Machine Learning](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=10)
 * 10: [Decision Trees](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=11)
