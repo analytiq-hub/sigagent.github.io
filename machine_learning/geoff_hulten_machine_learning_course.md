@@ -11,6 +11,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
 
 * 1: [Overview of Machine Learning](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=1)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/01%20--%20Overview%20of%20Machine%20Learning.pptx)
+  * D. Sculley et al: [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf) (2014)
 * [Top 5 Career Paths for Data Professionals](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=2)
 * 2: [Basics of Evaluating Models](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=3)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/02%20--%20Basics%20of%20Evaluating%20Models.pptx)
