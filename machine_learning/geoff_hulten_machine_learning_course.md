@@ -4,6 +4,10 @@ mathjax: true
 title: Geoff Hulten - Machine Learning Course
 ---
 Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=9) by Geoff Hulten on Machine Learning.
+* Course [web page](https://www.livingmachinelearning.com/course.html)
+* Textbooks
+  * Tom M. Mitchell: [Machine Learning](https://www.amazon.com/gp/product/0071154671/)
+  * Geoff Hulten: [Building Intelligent Systems](https://www.amazon.com/gp/product/1484234316)
 
 * 1: [Overview of Machine Learning](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=1)
 * [Top 5 Career Paths for Data Professionals](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=2)
