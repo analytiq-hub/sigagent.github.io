@@ -135,9 +135,25 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
   * Goal: predict how a model will behave once deployed
   * Central limit theorem: if you have a population with mean $$\mu$$ and standard deviation $$\sigma$$ and take sufficiently large random samples from the population with replacement , then the distribution of the sample means will be approximately normally distributed with the same mean $$\mu$$ and standard deviation $$\sigma$$.
   * $$x\%$ confidence interval defines a range of values that you can be $$x\percent$$ certain contains the population mean.
-  * IF: Better_Model – Bound > Worse_Model + Bound
-  * THEN: With $$x\%$$ confidence the model that looks better on the sample is better
-  * ELSE: there is more than a $$(1 - x \%)$$ chance the model that looks worse is actually better
+    * IF: Better_Model – Bound > Worse_Model + Bound
+    * THEN: With $$x\%$$ confidence the model that looks better on the sample is better
+     * ELSE: there is more than a $$(1 - x \%)$$ chance the model that looks worse is actually better
+  * Is new parameter or feature worth using?
+    * Train with or without feature
+    * Compare using one sided bounds
+    * Cross validation
+      * Split data into k folds
+      * Train with & without feature on k-1 folds
+      * Validate on remaining fold
+      * Use all validation data when computing bounds
+    * When to use cross validation? When you need to measure accuracy variance:
+      * For feature selection
+      * When data changes from under the model, causing variance
+      * When ML algorithm includes internal randomization, causing variance
+    * Be careful of data drif
+      * Time series
+      * Dependencies of data on other factors that may change (e.g. spam campaigns)
+      * Other violations of interdependence assumptions
 * 8: [Naive Bayes](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=9)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/08%20--%20Naive%20Bayes.pptx)
   * Discriminative vs Generative modes
