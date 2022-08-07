@@ -129,11 +129,15 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
 <img src="/machine_learning/diagrams/ROC.drawio.png" width="250" height="250"/>
 </p>
 
-  * AUC is area under curve, used for comparing performance between models. Operating point is point on ROC curve closest to origin. PR curve is same but for precision/recall. Update threshold to avoid drift. Threshold can be updated w/o having to update model.    
+* AUC is area under curve, used for comparing performance between models. Operating point is point on ROC curve closest to origin. PR curve is same but for precision/recall. Update threshold to avoid drift. Threshold can be updated w/o having to update model.    
 * 7: [Bounds and Comparing Models](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=8)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/07%20--%20Bounds%20and%20Comparing%20Models.pptx)
   * Goal: predict how a model will behave once deployed
   * Central limit theorem: if you have a population with mean $$\mu$$ and standard deviation $$\sigma$$ and take sufficiently large random samples from the population with replacement , then the distribution of the sample means will be approximately normally distributed with the same mean $$\mu$$ and standard deviation $$\sigma$$.
+  * $$x\%$ confidence interval defines a range of values that you can be $$x\percent$$ certain contains the population mean.
+  * IF: Better_Model – Bound > Worse_Model + Bound
+  * THEN: With $$x\%$$ confidence the model that looks better on the sample is better
+  * ELSE: there is more than a $$(1 - x \%)$$ chance the model that looks worse is actually better
 * 8: [Naive Bayes](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=9)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/08%20--%20Naive%20Bayes.pptx)
   * Discriminative vs Generative modes
