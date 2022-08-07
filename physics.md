@@ -32,7 +32,7 @@ title: Physics
 * G.W. Mackey: [Unitary Group Representations in Physics, Probability, and Number Theory](https://www.amazon.com/Unitary-Representations-Physics-Probability-Mathematics/dp/0805367039) (1978)
   * V. S. Varadarajan: [George Mackey and his work on representation theory and foundations of physics](https://www.math.ucla.edu/~vsv/mackeypaper.pdf)
 * L. Mangiarotti et al: [Geometric and Algebraic Topological Methods in Quantum Mechanics](https://www.amazon.com/Geometric-Algebraic-Topological-Methods-Mechanics/dp/9812561293) (2005)
-* L. Susskind: [Copenhagen vs Everett, Teleportation, and ER=EPR](https://arxiv.org/pdf/1604.02589.pdf)
+* L. Susskind: [Copenhagen vs Everett, Teleportation, and ER=EPR](https://arxiv.org/pdf/1604.02589.pdf) (2016)
 
 ##### Axiomatic Systems for Quantum Mechanics
 * G. Cassinelli, P. Lahti: [Quantum mechanics: why complex Hilbert space?](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2016.0393) (2021)
