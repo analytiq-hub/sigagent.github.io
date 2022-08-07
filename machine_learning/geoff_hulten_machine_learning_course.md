@@ -125,7 +125,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
     * Vary threshold to get best result
     * Build Receiver Operating Characteristic (ROC) curve to plot False Negative Rate by False Positive Rate by threshold
 <p align="center">
-<img src="/machine_learning/diagrams/ROC.drawio.png" width="500" height="250"/>
+<img src="/machine_learning/diagrams/ROC.drawio.png" width="250" height="250"/>
 </p>
 * 7: [Bounds and Comparing Models](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=8)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/07%20--%20Bounds%20and%20Comparing%20Models.pptx)
