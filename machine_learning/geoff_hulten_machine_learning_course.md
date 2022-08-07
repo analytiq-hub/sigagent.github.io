@@ -32,7 +32,12 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
     * Generative: model the joint probability $$P(x, y)$$
       * Use naive Bayes, bayesian networks, hidden Markov models
       * On generative models: Andrew Y. Ng, Michael I. Jordan: [On Discriminative vs Generative classifiers: A comparison of logistic regression and naive Bayes](https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
-  * Use Bayes' Theorem: $$P(A \vert B) = \frac{P(B \vert A) P(A)}{P(B)}$$
+  * Bayes Theorem: $$P(A \vert B) = \frac{P(B \vert A) P(A)}{P(B)}$$
+  * Bayes model: $$y = \underset{y_j \in Y}{argmax} \frac{P(\lt x \gt \vert y_j) P(y_j)}{P(\lt x \gt)}$$
+    * Same as $$y = \underset{y_j \in Y}{argmax} P(\lt x \gt \vert y_j) P(y_j)$$
+    * Simplifying assumption: the features $$x_i$$ of $$\lt x \gt$$ are independent (where the name 'naive' comes from)
+    * Naive Bayes model: $$y = \underset{y_j \in Y}{argmax} P(y_j) \underset{i}{\prod} P(x_i \vert y_j)$$
+    * It is of theoretical importance, almost never used in practice
 * 9: [Implementing with Machine Learning](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=10)
 * 10: [Decision Trees](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=11)
 * 11: [Defining Success with Machine Learning](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=12)
