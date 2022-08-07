@@ -111,6 +111,11 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
       * Frequency domain transformation
 * 5: [Intro to Feature Selection](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=6)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/05%20--%20Feature%20Selection.pptx)
+  * Frequency
+    * Take N most common features in the training set
+  * Mutual information
+    * Take N features that contain most information about the value of Y on the training set
+    * Mutual information: $$MI(X,Y)=\sum_{x \in X, y \in Y}p(x,y) ln (\frac{p(x,y)}{p(x)p(y)})$$
 * 6: [ROC Curves and Operating Points](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=7)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/06%20--%20ROC%20Curves%20and%20Operating%20Points.pptx)
 * 7: [Bounds and Comparing Models](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=8)
