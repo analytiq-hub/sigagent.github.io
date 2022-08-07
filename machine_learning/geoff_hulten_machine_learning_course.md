@@ -96,6 +96,19 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
     * Embeddings - Word2Vec and FastText
     * NLP
   * Normalization of numeric features
+  * Feature engineering in other domains
+    * Computer vision
+      * Gradients
+      * Histograms
+      * Convolutions
+    * Internet
+      * IP Parts
+      * Domains
+      * Relationships
+      * Reputation
+    * Time series
+      * Window aggregation
+      * Frequency domain transformation
 * 5: [Intro to Feature Selection](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=6)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/05%20--%20Feature%20Selection.pptx)
 * 6: [ROC Curves and Operating Points](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=7)
