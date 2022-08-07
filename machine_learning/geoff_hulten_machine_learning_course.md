@@ -27,9 +27,12 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
 * 8: [Naive Bayes](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=9)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/08%20--%20Naive%20Bayes.pptx)
   * Discriminative vs Generative modes
-    * Discriminative: model $$P(y \vert x)$$ directly
-    * Generative: model the joint probability $$P(x, y)$$ 
-  * On generative models: Andrew Y. Ng, Michael I. Jordan: [On Discriminative vs Generative classifiers: A comparison of logistic regression and naive Bayes](https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
+    * Discriminative: model the posterior probability $$P(y \vert x)$$ directly
+      * Use logistic regression, decision trees, neural nets
+    * Generative: model the joint probability $$P(x, y)$$
+      * Use naive Bayes, bayesian networks, hidden Markov models
+      * On generative models: Andrew Y. Ng, Michael I. Jordan: [On Discriminative vs Generative classifiers: A comparison of logistic regression and naive Bayes](https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
+  * Use Bayes' Theorem: $$P(A \vert B) = \frac{P(B \vert A) P(A)}{P(B)}$$
 * 9: [Implementing with Machine Learning](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=10)
 * 10: [Decision Trees](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=11)
 * 11: [Defining Success with Machine Learning](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=12)
