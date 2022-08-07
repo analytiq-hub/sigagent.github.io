@@ -12,6 +12,41 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
 * 1: [Overview of Machine Learning](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=1)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/01%20--%20Overview%20of%20Machine%20Learning.pptx)
   * D. Sculley et al: [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf) (2014)
+  * Supervised learning $$Y=f(X)$$:
+    * Discrete $$Y$$: Classification
+    * Continuous $$Y$$: Regression
+    * Probability Estimation: $$P(Y \vert X)$$
+  * Unsupervised, semi-supervised learning
+  * Reinforcement learning
+  * ML algorithm components
+    * Model structure
+      * Linear
+      * Decision trees
+      * Ensembles of models
+      * Instance based methods
+      * Neural nets
+      * Support vector machines
+      * Graphical models (Bayes/Markov nets)
+      * Etc
+    * Loss function
+      * Accuracy
+      * Precision & Recall
+      * Cost / Utility
+      * Squared error
+      * Likelihood
+      * Posterior probability
+      * Margin
+      * L1 & L2 normalization
+      * Entropy
+      * KL divergence
+      * Etc
+    * Optimization - how the learning algo finds the best model
+      * Greedy search
+      * Gradient descent
+      * Linear programming
+      * Regularization
+      * Look ahead, momentum, stochastic methods / batching, learning rates, termination conditions, etc
+
 * [Top 5 Career Paths for Data Professionals](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=2)
 * 2: [Basics of Evaluating Models](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=3)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/02%20--%20Basics%20of%20Evaluating%20Models.pptx)
