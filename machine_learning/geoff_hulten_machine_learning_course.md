@@ -156,6 +156,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
       * Other violations of interdependence assumptions
 * 8: [Naive Bayes](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=9)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/08%20--%20Naive%20Bayes.pptx)
+  * See Tom M. Mitchell: [Machine Learning](https://www.amazon.com/gp/product/0071154671/), Chap. 6.9
   * Discriminative vs Generative modes
     * Discriminative: model the posterior probability $$P(y \vert x)$$ directly
       * Use logistic regression, decision trees, neural nets
