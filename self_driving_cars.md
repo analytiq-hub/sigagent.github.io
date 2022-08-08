@@ -145,8 +145,8 @@ title: Self Driving Cars
     * Uses of ML in auto industry; distributed training with Sagemaker and FSx Lustre; federated learning
   * S1 Ep4: [IoT & ML Inference with NXP](https://www.youtube.com/watch?v=KGHcnoCrjr8&list=PLhr1KZpdzukcbHjHSJqejgZC7EMEVV0NQ&index=16)
     * Hardware:
-      * Gold box, runs AWS IoT Greengas, Sagemaker Neo DLR, other apps. Uses 2-core Arm Cortex-R52. Runs lambda function to do battery anomaly detection.
-      * Blue box (battery and electric engine management)
+      * Gold box (service-oriented gateway), runs AWS IoT Greengas, Sagemaker Neo DLR, other apps. Uses 2-core Arm Cortex-R52. Runs lambda function to do battery anomaly detection.
+      * Blue box (battery management system, dual electric motor drive controller)
       * Green box (powertrain domain controller), controls battery and electric motors. Uses 4-core 2-hyperthread Arm Cortex-R52 at 800MHz. The cores are under a Type 1 hypervisor from OpenSynergy, which allows you to isolate the application on a specific core. Software stack is from NXP.
     * Predict useful life of battery
     * Most difficult part was getting the dataset
