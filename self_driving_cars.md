@@ -139,6 +139,7 @@ title: Self Driving Cars
 * AWS Architecture Blog: J. Tang, D. Phillips: [Field Notes: Building an Autonomous Driving and ADAS Data Lake on AWS](https://aws.amazon.com/cn/blogs/architecture/field-notes-building-an-autonomous-driving-and-adas-data-lake-on-aws/) (2020)
 * [AWS Autonomous Mobility](https://aws.amazon.com/automotive/autonomous-mobility/) site
   * [AWS re:Invent 2020: Paving the way toward automated driving with BMW Group](https://www.youtube.com/watch?v=dgRYi8Ba4RU&t=65s)
+  * All Things Automotive S1 Ep5: [Data Lakes with BMW](https://www.youtube.com/watch?v=2Cr2EYp8WgM) (2021)
 
 #### Products, Companies
 * [Autoware.ai](https://www.autoware.ai/) project
