@@ -138,6 +138,7 @@ title: Self Driving Cars
 * Yu Huang: [How to Build a Data Closed-loop Platform for Autonomous Driving?](https://yuhuang-63908.medium.com/how-to-build-a-data-closed-loop-platform-for-autonomous-driving-4b0faa93d592) (2021)
 * AWS Architecture Blog: J. Tang, D. Phillips: [Field Notes: Building an Autonomous Driving and ADAS Data Lake on AWS](https://aws.amazon.com/cn/blogs/architecture/field-notes-building-an-autonomous-driving-and-adas-data-lake-on-aws/) (2020)
 * [AWS Autonomous Mobility](https://aws.amazon.com/automotive/autonomous-mobility/) site
+  * [AWS re:Invent 2019: Creating a data-driven, cloud-native ecosystem at BMW Group (AUT306)](https://www.youtube.com/watch?v=9fH3y5p8ewE)
   * [AWS re:Invent 2020: Paving the way toward automated driving with BMW Group](https://www.youtube.com/watch?v=dgRYi8Ba4RU&t=65s)
   * All Things Automotive S1 Ep5: [Data Lakes with BMW](https://www.youtube.com/watch?v=2Cr2EYp8WgM) (2021)
 * AWS [All Things Automotive](https://aws.amazon.com/architecture/all-in-livestream-series/all-things-automotive/?all-in-livestream-cards.sort-by=item.additionalFields.headline&all-in-livestream-cards.sort-order=desc&awsf.event-type=*all&awsf.industry=*all&awsf.products=*all&awsf.tech-category=*all)
@@ -168,6 +169,7 @@ title: Self Driving Cars
     * AWS supports ARM Graviton cloud ec2 instances
     * [SOAFEE](https://soafee.io/) framework.
       * Reference implementation developed under MIT license.
+    * Virtual target initiative
 
 #### Products, Companies
 * [Autoware.ai](https://www.autoware.ai/) project
