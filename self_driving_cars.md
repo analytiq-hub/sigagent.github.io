@@ -160,6 +160,7 @@ title: Self Driving Cars
       * Cloud helps with analysis of data from the fleet, with download of data to the car, vehicle health monitoring
       * Supports remote software updates
       * CMS scoops data into the cloud, provides visualization layer and fleet manager.
+    * Integrated with Matlab and Simulink for controller
 
 #### Products, Companies
 * [Autoware.ai](https://www.autoware.ai/) project
