@@ -144,6 +144,10 @@ title: Self Driving Cars
   * S1 Ep8: [Autonomous & AI-Powered: A Look at Frameworks & Training with Amazon ML Solutions Lab](https://www.youtube.com/watch?v=dxF8dLpM5as&list=PLhr1KZpdzukcbHjHSJqejgZC7EMEVV0NQ&index=10)
     * Uses of ML in auto industry; distributed training with Sagemaker and FSx Lustre; federated learning
   * S1 Ep4: [IoT & ML Inference with NXP](https://www.youtube.com/watch?v=KGHcnoCrjr8&list=PLhr1KZpdzukcbHjHSJqejgZC7EMEVV0NQ&index=16)
+    * Hardware:
+      * Gold box, runs AWS IoT Greenga, Sagemaker Neo DLR, other apps. Uses 2-core Arm Cortex-R52. Runs lambda function to do battery anomaly detection.
+      * Blue box
+      * Green box, controls battery and electric motors. Uses 4-core 2-hyperthread Arm Cortex-R52 at 800MHz. The cores are under a Type 1 hypervisor from OpenSynergy, which allows you to isolate the application on a specific core. Software stack is from NXP.
     * Predict useful life of battery
     * Most difficult part was getting the dataset
     * Two uses of Sagemaker:
@@ -155,6 +159,7 @@ title: Self Driving Cars
         * Moved them through an RCF (Random Forest Cut) algorithm to create training set for the XGBoost algorithm that can be run on the vehicle.
       * Cloud helps with analysis of data from the fleet, with download of data to the car, vehicle health monitoring
       * Supports remote software updates
+      * CMS provides fleet manager
 
 #### Products, Companies
 * [Autoware.ai](https://www.autoware.ai/) project
