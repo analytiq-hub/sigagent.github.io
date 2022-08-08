@@ -142,6 +142,7 @@ title: Self Driving Cars
   * All Things Automotive S1 Ep5: [Data Lakes with BMW](https://www.youtube.com/watch?v=2Cr2EYp8WgM) (2021)
 * AWS [All Things Automotive](https://aws.amazon.com/architecture/all-in-livestream-series/all-things-automotive/?all-in-livestream-cards.sort-by=item.additionalFields.headline&all-in-livestream-cards.sort-order=desc&awsf.event-type=*all&awsf.industry=*all&awsf.products=*all&awsf.tech-category=*all)
   * S1 E8: [Autonomous & AI-Powered: A Look at Frameworks & Training with Amazon ML Solutions Lab](https://www.youtube.com/watch?v=dxF8dLpM5as&list=PLhr1KZpdzukcbHjHSJqejgZC7EMEVV0NQ&index=10)
+    * Uses of ML in auto industry; distributed training with Sagemaker and FSx Lustre; federated learning
 
 #### Products, Companies
 * [Autoware.ai](https://www.autoware.ai/) project
