@@ -162,6 +162,7 @@ title: Self Driving Cars
       * Supports remote software updates
     * Integrated with Matlab and Simulink for controller
     * AWS CMS (content management solution) scoops data into the cloud, provides visualization layer and fleet manager.
+  * [At the Automotive Edge with Arm](https://www.youtube.com/watch?v=d8FShFXrtMQ&list=PLhr1KZpdzukcbHjHSJqejgZC7EMEVV0NQ&index=2)
 
 #### Products, Companies
 * [Autoware.ai](https://www.autoware.ai/) project
