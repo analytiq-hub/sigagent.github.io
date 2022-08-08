@@ -164,6 +164,10 @@ title: Self Driving Cars
     * AWS CMS (content management solution) scoops data into the cloud, provides visualization layer and fleet manager.
   * [At the Automotive Edge with Arm](https://www.youtube.com/watch?v=d8FShFXrtMQ&list=PLhr1KZpdzukcbHjHSJqejgZC7EMEVV0NQ&index=2)
     * Ghirish Shirasat, director of ARM Autonomous & IoT Software Strategy/Architecture
+    * ARM is an architecture instruction set. ARM also provides a model implementation.
+    * AWS supports ARM Graviton cloud ec2 instances
+    * [SOAFEE](https://soafee.io/) framework.
+      * Reference implementation developed under MIT license.
 
 #### Products, Companies
 * [Autoware.ai](https://www.autoware.ai/) project
