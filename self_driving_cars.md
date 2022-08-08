@@ -141,8 +141,20 @@ title: Self Driving Cars
   * [AWS re:Invent 2020: Paving the way toward automated driving with BMW Group](https://www.youtube.com/watch?v=dgRYi8Ba4RU&t=65s)
   * All Things Automotive S1 Ep5: [Data Lakes with BMW](https://www.youtube.com/watch?v=2Cr2EYp8WgM) (2021)
 * AWS [All Things Automotive](https://aws.amazon.com/architecture/all-in-livestream-series/all-things-automotive/?all-in-livestream-cards.sort-by=item.additionalFields.headline&all-in-livestream-cards.sort-order=desc&awsf.event-type=*all&awsf.industry=*all&awsf.products=*all&awsf.tech-category=*all)
-  * S1 E8: [Autonomous & AI-Powered: A Look at Frameworks & Training with Amazon ML Solutions Lab](https://www.youtube.com/watch?v=dxF8dLpM5as&list=PLhr1KZpdzukcbHjHSJqejgZC7EMEVV0NQ&index=10)
+  * S1 Ep8: [Autonomous & AI-Powered: A Look at Frameworks & Training with Amazon ML Solutions Lab](https://www.youtube.com/watch?v=dxF8dLpM5as&list=PLhr1KZpdzukcbHjHSJqejgZC7EMEVV0NQ&index=10)
     * Uses of ML in auto industry; distributed training with Sagemaker and FSx Lustre; federated learning
+  * S1 Ep4: [IoT & ML Inference with NXP](https://www.youtube.com/watch?v=KGHcnoCrjr8&list=PLhr1KZpdzukcbHjHSJqejgZC7EMEVV0NQ&index=16)
+    * Predict useful life of battery
+    * Most difficult part was getting the dataset
+    * Two uses of Sagemaker:
+      * Calculation of remaining useful life of the engine. Model is LSTM network, and inference is done in the cloud.
+      * Detect anomalies in the battery pack. Model uses built-in algorithm XGBoost, inference happens in the Gold Box, using runtime from AWS.
+      * This is deployed both in the cloud and on the target using Sagemaker
+      * Use Sagemaker Neo to optimize for target hardware. Sagemaker Neo compiles and optimizes the model for the target architecture.
+      * To create the datasets used for training, took collection of natural data observations as well as synthetic data
+        * Moved them through an RCF (Random Forest Cut) algorithm to create training set for the XGBoost algorithm that can be run on the vehicle.
+      * Cloud helps with analysis of data from the fleet, with download of data to the car, vehicle health monitoring
+      * Supports remote software updates
 
 #### Products, Companies
 * [Autoware.ai](https://www.autoware.ai/) project
