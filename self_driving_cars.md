@@ -138,6 +138,7 @@ title: Self Driving Cars
 * Yu Huang: [How to Build a Data Closed-loop Platform for Autonomous Driving?](https://yuhuang-63908.medium.com/how-to-build-a-data-closed-loop-platform-for-autonomous-driving-4b0faa93d592) (2021)
 * AWS Architecture Blog: J. Tang, D. Phillips: [Field Notes: Building an Autonomous Driving and ADAS Data Lake on AWS](https://aws.amazon.com/cn/blogs/architecture/field-notes-building-an-autonomous-driving-and-adas-data-lake-on-aws/) (2020)
 * [AWS Autonomous Mobility](https://aws.amazon.com/automotive/autonomous-mobility/) site
+  * [AWS re:Invent 2020: Paving the way toward automated driving with BMW Group](https://www.youtube.com/watch?v=dgRYi8Ba4RU&t=65s)
 
 #### Products, Companies
 * [Autoware.ai](https://www.autoware.ai/) project
