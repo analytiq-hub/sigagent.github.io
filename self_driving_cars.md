@@ -135,6 +135,7 @@ title: Self Driving Cars
 * Serge-Paul Carrasco
   * [Waymo (ChauffeurNet) versus Telsa (HydraNet)](https://asiliconvalleyinsider.com/2020/03/08/waymo-chauffeurnet-versus-telsa-hydranet/) (2020)
   * [Machine Learning Models for Autonomous Vehicles](https://asiliconvalleyinsider.com/2020/08/22/modeling-for-automous-vehicles/) (2020)
+* Yu Huang: [How to Build a Data Closed-loop Platform for Autonomous Driving?](https://yuhuang-63908.medium.com/how-to-build-a-data-closed-loop-platform-for-autonomous-driving-4b0faa93d592) (2021)
 
 #### Products, Companies
 * [Autoware.ai](https://www.autoware.ai/) project
