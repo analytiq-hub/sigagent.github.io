@@ -146,6 +146,7 @@ title: Self Driving Cars
   * S1 Ep4: [IoT & ML Inference with NXP](https://www.youtube.com/watch?v=KGHcnoCrjr8&list=PLhr1KZpdzukcbHjHSJqejgZC7EMEVV0NQ&index=16)
     * Hardware:
       * Gold box (service-oriented gateway), runs AWS IoT Greengas, Sagemaker Neo DLR, other apps. Uses 2-core Arm Cortex-R52. Runs lambda function to do battery anomaly detection.
+      	* Runs FreeRTOS, AWS IoT Greengas, uses AWS IoT Decive SDK
       * Blue box (battery management system, dual electric motor drive controller)
       * Green box (powertrain domain controller), controls battery and electric motors. Uses 4-core 2-hyperthread Arm Cortex-R52 at 800MHz. The cores are under a Type 1 hypervisor from OpenSynergy, which allows you to isolate the application on a specific core. Software stack is from NXP.
     * Predict useful life of battery
@@ -159,8 +160,8 @@ title: Self Driving Cars
         * Moved them through an RCF (Random Forest Cut) algorithm to create training set for the XGBoost algorithm that can be run on the vehicle.
       * Cloud helps with analysis of data from the fleet, with download of data to the car, vehicle health monitoring
       * Supports remote software updates
-      * CMS scoops data into the cloud, provides visualization layer and fleet manager.
     * Integrated with Matlab and Simulink for controller
+    * AWS CMS (content management solution) scoops data into the cloud, provides visualization layer and fleet manager.
 
 #### Products, Companies
 * [Autoware.ai](https://www.autoware.ai/) project
