@@ -35,7 +35,8 @@ mathjax: true
 * [Top 50 Machine Learning Interview Questions for 2022](https://www.interviewquery.com/p/machine-learning-interview-questions)
 
 #### ML System Design
-* K. Pham: [Machine Learning Design Interview](https://www.amazon.com/Machine-Learning-Design-Interview-System/dp/B09YQWX59Z) (2022)
+* K. Pham: [Machine Learning Design Interview](https://www.amazon.com/Machine-Le
+arning-Design-Interview-System/dp/B09YQWX59Z) (2022)
 * P. Halina: [ML Systems Design Interview Guide](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 
 #### Production Engineering
