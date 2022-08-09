@@ -38,6 +38,9 @@ mathjax: true
 * K. Pham: [Machine Learning Design Interview](https://www.amazon.com/Machine-Learning-Design-Interview-System/dp/B09YQWX59Z) (2022)
 * P. Halina: [ML Systems Design Interview Guide](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 
+#### Production Engineering
+* [Facebook / Meta production engineer interview (questions, prep, and process)](https://igotanoffer.com/blogs/tech/facebook-production-engineer-interview)
+
 #### Algorithms
 * [Graph Algorithms for Technical Interviews](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
   * Use vertex adjacency list.
