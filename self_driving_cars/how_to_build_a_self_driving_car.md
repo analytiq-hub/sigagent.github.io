@@ -53,6 +53,7 @@ The architecture discussed here is the *modular* architecture, as opposed to the
     * See G. Hulten: [Machine Learning Course - 6. ROC Curves and Operating Points](https://www.youtube.com/watch?v=XNYURf_GO1o)
   * References
     * S. Ranjan et al: [Applied Deep Learning and Computer Vision for Self-Driving Cars: Build autonomous vehicles using deep neural networks and behavior-cloning techniques](2020)
+    * L. Venturi, K. Korda: [Hands-On Vision and Behavior for Self-Driving Cars](https://www.amazon.com/Applied-Learning-Computer-Vision-Self-Driving/dp/1838646302) (2020)
 * Mapping - TO DO
 * System - TO DO
   * Robotics middleware - TO DO - can use ROS v2
