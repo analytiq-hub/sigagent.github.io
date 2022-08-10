@@ -50,6 +50,8 @@ The architecture discussed here is the *modular* architecture, as opposed to the
   * ROC and PR curves. AUC (area under the curve). Operating points.
     * Used to compare models
     * See G. Hulten: [Machine Learning Course - 6. ROC Curves and Operating Points](https://www.youtube.com/watch?v=XNYURf_GO1o)
+  * References
+    * S. Ranjan et al: [Applied Deep Learning and Computer Vision for Self-Driving Cars: Build autonomous vehicles using deep neural networks and behavior-cloning techniques](2020)
 * Mapping - TO DO
 * System - TO DO
   * Robotics middleware - TO DO - can use ROS v2
