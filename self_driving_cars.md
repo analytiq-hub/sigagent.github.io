@@ -111,6 +111,7 @@ title: Self Driving Cars
 * Papers
   * [Single-Click 3D Object Annotation on LiDAR Point Clouds](https://datacentricai.org/neurips21/papers/58_CameraReady_camera_ready_v2.pdf) (2021)
 * [Supervised & Unsupervised Approaches for LiDAR Perception in Urban Environments by C Stachniss](https://www.youtube.com/watch?v=hiNpKpeYgDs) (2022)
+  * [KPConv: Flexible and Deformable Convolution for Point Clouds](https://arxiv.org/pdf/1904.08889.pdf) (2019)
 
 
 #### Auto Labeling Data
