@@ -30,6 +30,8 @@ The architecture discussed here is the *modular* architecture, as opposed to the
       * Hanky Sjafrie: [Introduction to Self-Driving Vehicle Technology](https://www.amazon.com/Introduction-Self-Driving-Technology-Artificial-Intelligence/dp/0367321254/), Chap. 2
       * Shaostan Liu et al: [Creating Autonomous Vehicle Systems](https://www.amazon.com/Creating-Autonomous-Synthesis-Lectures-Computer/dp/1681739356) (2021),Chap. 2, 3
       * S. Ranjan, S. Senthamilarasu: [Applied Deep Learning and Computer Vision for Self-Driving Cars](https://www.amazon.com/Applied-Learning-Computer-Vision-Self-Driving/dp/1838646302) Chap. 1
+      * Lidar
+        * [5 Ways to Optimize Your LiDAR Data](https://www.youtube.com/watch?v=omKu1pYf5uE) (2022)
 * Controller
   * Its purpose is to report sensor data to the system, and to drive the car according to a driving plan set by the planner.
     * The sensor data includes position and orientation (from GPS and IMU), speed, gear, brake status.
