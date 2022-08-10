@@ -118,6 +118,7 @@ title: Self Driving Cars
 #### Auto Labeling Data
 * [Auto4d: Learning to label 4d objects from sequential point clouds](https://arxiv.org/pdf/2101.06586.pdf), B. Yang et al, Uber (2021)
 * [Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/pdf/2103.05073.pdf), Ch. Qi et al, Waymo (2021), [video](https://www.youtube.com/watch)
+* X. Chen et al: [Automatic Labeling to Generate Training Data for Online LiDAR-based Moving Object Segmentation](https://arxiv.org/pdf/2201.04501.pdf) (2022)
 * Talks
   * Stanford Seminar: [Self-Supervised Pseudo-Lidar Networks](https://www.youtube.com/watch?v=SLEK2vAgjOI), Adrien Gaidon, Toyota Research Institute (2019)
 * Motional [NuPlan](https://www.nuscenes.org/nuplan), [NuScenes](https://www.nuscenes.org/nuscenes)
