@@ -13,6 +13,11 @@ Our goal is to describe
 #### What are the components of a self driving car?
 The architecture discussed here is the *modular* architecture, as opposed to the *end to end architecture* described for example [here](https://arxiv.org/pdf/2003.06404.pdf)
 
+* Companies
+  * Waymo
+    * [Google’s Waymo invests in LIDAR technology, cuts costs by 90 percent](https://arstechnica.com/cars/2017/01/googles-waymo-invests-in-lidar-technology-cuts-costs-by-90-percent/) (2017)
+    * [Dragomir Anguelov research](https://arxiv.org/search/?query=Dragomir+Anguelov&searchtype=all&source=header)
+
 * Hardware: 
   * The car hardware itself could be built from scratch. However, a simpler alternative is to start with a car platform that supports drive-by-wire, extending its driving functions through its CAN bus.
     * [Comma.ai](http://comma.ai) maintains a [list of cars](https://github.com/commaai/openpilot/blob/master/docs/CARS.md) that support self-driving for the device they develop. The comma.ai software is open source. Any of the cars listed as supporting comma.ai's Open Pilot software can support self-driving through its OBD-II port.
