@@ -44,7 +44,6 @@ The architecture discussed here is the *modular* architecture, as opposed to the
   * TO DO: continue
 * Planner - TO DO
 * Perception - TO DO
-  * Sensors - TO DO
   * Calibration - TO DO
   * Confusion matrix. P/R (precision and recall).
     * See G. Hulten: [Machine Learning Course - 2. Introduction to Evaluating Models (Lecture 2 of 23)](https://www.youtube.com/watch?v=iyjb9UBcdM8)

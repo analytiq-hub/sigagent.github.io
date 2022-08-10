@@ -110,6 +110,7 @@ title: Self Driving Cars
   * [SUSTech POINTS: A Portable 3D Point Cloud Interactive Annotation Platform System](https://www.researchgate.net/publication/348366785_SUSTech_POINTS_A_Portable_3D_Point_Cloud_Interactive_Annotation_Platform_System) (2020)
 * Papers
   * [Single-Click 3D Object Annotation on LiDAR Point Clouds](https://datacentricai.org/neurips21/papers/58_CameraReady_camera_ready_v2.pdf) (2021)
+* [Supervised & Unsupervised Approaches for LiDAR Perception in Urban Environments by C Stachniss](https://www.youtube.com/watch?v=hiNpKpeYgDs) (2022)
 
 
 #### Auto Labeling Data
