@@ -3,6 +3,7 @@ layout: page
 title: How to Build a Self Driving Car
 ---
 * [Book plan](https://docs.google.com/document/d/15Rc6v16nYicFrKGgcgL0Z0sjlAdeHwIArOOi_doQgKM/edit#)
+
 Our goal is to describe
 * The components of a self driving car
 * The engineering needed to build it, incrementally, and component wise. The best technology is built by evolution of simpler components, from basic to complex.
