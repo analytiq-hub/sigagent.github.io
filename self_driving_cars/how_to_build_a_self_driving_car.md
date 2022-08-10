@@ -2,6 +2,7 @@
 layout: page
 title: How to Build a Self Driving Car
 ---
+* [Book plan](https://docs.google.com/document/d/15Rc6v16nYicFrKGgcgL0Z0sjlAdeHwIArOOi_doQgKM/edit#)
 Our goal is to describe
 * The components of a self driving car
 * The engineering needed to build it, incrementally, and component wise. The best technology is built by evolution of simpler components, from basic to complex.
@@ -26,7 +27,7 @@ The architecture discussed here is the *modular* architecture, as opposed to the
       * Forbes: [Four Companies Selling Self-Driving Car Platforms Today, And One Coming](https://www.forbes.com/sites/davidsilver/2018/08/22/four-companies-selling-self-driving-car-platforms-today-and-one-coming/?sh=12755b6d187f) (2018)
       * EETimes: [Tracking autonomous vehicle software platforms](https://www.embedded.com/tracking-autonomous-vehicle-software-platforms/) (2020)
       * Hanky Sjafrie: [Introduction to Self-Driving Vehicle Technology](https://www.amazon.com/Introduction-Self-Driving-Technology-Artificial-Intelligence/dp/0367321254/), Chap. 2
-      * Shaostan Liu et al: [Creating Autonomous Vehicle Systems](https://www.amazon.com/Creating-Autonomous-Synthesis-Lectures-Computer/dp/1681739356) (2021)
+      * Shaostan Liu et al: [Creating Autonomous Vehicle Systems](https://www.amazon.com/Creating-Autonomous-Synthesis-Lectures-Computer/dp/1681739356) (2021),Chap. 2, 3
 * Controller
   * Its purpose is to report sensor data to the system, and to drive the car according to a driving plan set by the planner.
     * The sensor data includes position and orientation (from GPS and IMU), speed, gear, brake status.
