@@ -14,10 +14,16 @@ The architecture discussed here is the *modular* architecture, as opposed to the
 * Hardware: 
   * The car hardware itself could be built from scratch. However, a simpler alternative is to start with a car platform that supports drive-by-wire, extending its driving functions through its CAN bus.
     * [Comma.ai](http://comma.ai) maintains a [list of cars](https://github.com/commaai/openpilot/blob/master/docs/CARS.md) that support self-driving for the device they develop. The comma.ai software is open source. Any of the cars listed as supporting comma.ai's Open Pilot software can support self-driving through its OBD-II port.
+    * Sensors
+      * Radar
+      * Lidar
+      * Ultrasonic sensors
+      * Cameras
+      * GNSS
     * References
       * Forbes: [Four Companies Selling Self-Driving Car Platforms Today, And One Coming](https://www.forbes.com/sites/davidsilver/2018/08/22/four-companies-selling-self-driving-car-platforms-today-and-one-coming/?sh=12755b6d187f) (2018)
       * EETimes: [Tracking autonomous vehicle software platforms](https://www.embedded.com/tracking-autonomous-vehicle-software-platforms/) (2020)
-    * TO DO: continue
+      * Hanky Sjafrie: [Introduction to Self-Driving Vehicle Technology](https://www.amazon.com/Introduction-Self-Driving-Technology-Artificial-Intelligence/dp/0367321254/), Chap. 2
 * Controller
   * Its purpose is to report sensor data to the system, and to drive the car according to a driving plan set by the planner.
     * The sensor data includes position and orientation (from GPS and IMU), speed, gear, brake status.
