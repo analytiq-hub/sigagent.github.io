@@ -20,6 +20,7 @@ The architecture discussed here is the *modular* architecture, as opposed to the
       * Ultrasonic sensors
       * Cameras
       * GNSS
+      * IMU
     * References
       * Forbes: [Four Companies Selling Self-Driving Car Platforms Today, And One Coming](https://www.forbes.com/sites/davidsilver/2018/08/22/four-companies-selling-self-driving-car-platforms-today-and-one-coming/?sh=12755b6d187f) (2018)
       * EETimes: [Tracking autonomous vehicle software platforms](https://www.embedded.com/tracking-autonomous-vehicle-software-platforms/) (2020)
