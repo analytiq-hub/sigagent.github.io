@@ -178,6 +178,17 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/11%20--%20Defining%20Success%20with%20ML%20Systems.pptx)
 * 12: [Overfitting and Underfitting](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=13)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/12%20--%20Overfitting%20and%20Underfitting.pptx)
+  * Inductive bias - assumptions you make about how likely any particular concept is
+    * Model structure
+      * Linear model
+      * Axis-aligned tree structure
+      * Labels are clustered
+    * Dataset selection
+      * Train/test/validate
+      * Cross validation
+    * Concept complexity
+      * Occam's Razor - all other things being equal, simpler model is better
+      * Regularization
 * 13: [Intelligent User Experiences](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=14)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/13%20--%20Intelligent%20User%20Experiences.pptx)
 * 14: [Ensembles 1: Bagging & Random Forests](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=15)
