@@ -189,6 +189,10 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
     * Concept complexity
       * Occam's Razor - all other things being equal, simpler model is better
       * Regularization
+    * Types of model errors
+      * Bias - caused when the model cannot represent the concept
+      * Variance - caused when the model overreacts to small changes in the data
+      * Total loss = bias + variance + noise
 * 13: [Intelligent User Experiences](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=14)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/13%20--%20Intelligent%20User%20Experiences.pptx)
 * 14: [Ensembles 1: Bagging & Random Forests](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=15)
