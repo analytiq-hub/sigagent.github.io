@@ -132,6 +132,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
 * AUC is area under curve, used for comparing performance between models. Operating point is point on ROC curve closest to origin. PR curve is same but for precision/recall. Update threshold to avoid drift. Threshold can be updated w/o having to update model.    
 * 7: [Bounds and Comparing Models](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=8)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/07%20--%20Bounds%20and%20Comparing%20Models.pptx)
+  * Tom M. Mitchell: [Machine Learning](https://www.amazon.com/gp/product/0071154671/) Chap. 7
   * Goal: predict how a model will behave once deployed
   * Central limit theorem: if you have a population with mean $$\mu$$ and standard deviation $$\sigma$$ and take sufficiently large random samples from the population with replacement , then the distribution of the sample means will be approximately normally distributed with the same mean $$\mu$$ and standard deviation $$\sigma$$.
   * $$x\%$$ confidence interval defines a range of values that you can be $$x\%$$ certain contains the population mean.
@@ -174,6 +175,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/09%20--%20Implementing%20with%20Machine%20Learning.pptx)
 * 10: [Decision Trees](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=11)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/10%20--%20Decision%20Trees.pptx)
+  * Tom M. Mitchell: [Machine Learning](https://www.amazon.com/gp/product/0071154671/) Chap. 3
 * 11: [Defining Success with Machine Learning](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=12)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/11%20--%20Defining%20Success%20with%20ML%20Systems.pptx)
 * 12: [Overfitting and Underfitting](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=13)
@@ -192,6 +194,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
     * Types of model errors
       * Bias - caused when the model cannot represent the concept
       * Variance - caused when the model overreacts to small changes in the data
+      * Noise - data was a bit corrupted; labels were a bit wrong, etc
       * Total loss = bias + variance + noise
 * 13: [Intelligent User Experiences](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=14)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/13%20--%20Intelligent%20User%20Experiences.pptx)
@@ -207,12 +210,14 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/18%20--%20Basics%20of%20Computer%20Vision.pptx)
 * 19: [Neural Networks](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=20)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/19%20--%20Neural%20Networks.pptx)
+  * Tom M. Mitchell: [Machine Learning](https://www.amazon.com/gp/product/0071154671/) Chap. 4
 * 20: [Neural Network Architectures](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=21)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/20%20--%20Neural%20Network%20Architectures.pptx)
 * 21: [ML Design Pattern - Corpus Centric](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=22)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/21%20--%20Design%20Pattern%20-%20Corpus%20Centric.pptx)
 * 22: [Reinforcement Learning](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=23)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/22%20--%20Reinforcement%20Learning.pptx)
+  * Tom M. Mitchell: [Machine Learning](https://www.amazon.com/gp/product/0071154671/) Chap. 13
 * 23: [ML Design Pattern - Ranking](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=24)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/23%20--%20Design%20Pattern%20-%20Ranking.pptx)
 
