@@ -73,10 +73,19 @@ The architecture discussed here is the *modular* architecture, as opposed to the
     * Velodyne HDL-64E lidar
     * Four cameras
     * 10Hz frequency
+  * [NuScenes]
+    * One lidar
+    * Six cameras
+    * Maps
+  * [ARGO]
+    * Two lidars
+    * Nine cameras
+    * Maps
   * [Waymo](https://arxiv.org/pdf/1912.04838.pdf)
     * Five lidars
     * Five cameras
     * 10Hz frequency
+  * References: Table at [Waymo](https://arxiv.org/pdf/1912.04838.pdf) p. 2
 * Offboard infrastructure
   * Fleet management - TO DO
   * Recordings replay - TO DO
