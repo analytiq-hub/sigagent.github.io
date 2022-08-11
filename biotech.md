@@ -3,6 +3,9 @@ layout: page
 mathjax: true
 title: Biotech
 ---
+#### Books
+* G. Church et al: [Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves](https://www.amazon.com/dp/B0892SSCW4) (2012)
+
 #### Surveys
 * A. Glielmo et al: [Unsupervised Learning Methods for Molecular Simulation Data](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c01195), Chem. Review (2021)
 
