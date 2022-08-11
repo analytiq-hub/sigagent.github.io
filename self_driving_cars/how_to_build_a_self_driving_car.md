@@ -37,6 +37,12 @@ The architecture discussed here is the *modular* architecture, as opposed to the
       * S. Ranjan, S. Senthamilarasu: [Applied Deep Learning and Computer Vision for Self-Driving Cars](https://www.amazon.com/Applied-Learning-Computer-Vision-Self-Driving/dp/1838646302) Chap. 1
       * Lidar
         * [5 Ways to Optimize Your LiDAR Data](https://www.youtube.com/watch?v=omKu1pYf5uE) (2022)
+* System - TO DO
+  * Robotics middleware - TO DO - can use ROS v2
+  * Coordinate frames - TO DO
+  * Recordings - TO DO
+  * Replays. Use of replays for development - TO DO
+    * Deterministic replays - TO DO
 * Controller
   * Its purpose is to report sensor data to the system, and to drive the car according to a driving plan set by the planner.
     * The sensor data includes position and orientation (from GPS and IMU), speed, gear, brake status.
@@ -61,11 +67,16 @@ The architecture discussed here is the *modular* architecture, as opposed to the
     * S. Ranjan et al: [Applied Deep Learning and Computer Vision for Self-Driving Cars: Build autonomous vehicles using deep neural networks and behavior-cloning techniques](2020)
     * L. Venturi, K. Korda: [Hands-On Vision and Behavior for Self-Driving Cars](https://www.amazon.com/Applied-Learning-Computer-Vision-Self-Driving/dp/1838646302) (2020)
 * Mapping - TO DO
-* System - TO DO
-  * Robotics middleware - TO DO - can use ROS v2
-  * Coordinate frames - TO DO
-  * Recordings - TO DO
-  * Replays. Use of replays for development - TO DO
+* Datasets
+  * [KITTY](http://www.cvlibs.net/datasets/kitti/setup.php)
+    * GPS
+    * Velodyne HDL-64E lidar
+    * Four cameras
+    * 10Hz frequency
+  * [Waymo](https://arxiv.org/pdf/1912.04838.pdf)
+    * Five lidars
+    * Five cameras
+    * 10Hz frequency
 * Offboard infrastructure
   * Fleet management - TO DO
   * Recordings replay - TO DO
