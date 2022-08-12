@@ -15,6 +15,10 @@ title: Romania
 #### Interviews
 * [Monica Lovinescu - Radio Free Europe Interview 1998](https://www.youtube.com/watch?v=ZO3PBsROZjY&t=2083s), with Mircea Iorgulescu
 
+#### Editura Academiei - Univers Enciclopedic
+* Dimitrie Cantemir - Opere I
+* Marii Cronicari ai Moldovei - Ureche, Miron Costin, Nicolae Costin, Neculce
+
 #### Links
 * [Philosophy](philosophy.md)
 * [Physics](physics.md)
