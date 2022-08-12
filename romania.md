@@ -18,6 +18,14 @@ title: Romania
 #### Editura Academiei - Univers Enciclopedic
 * Dimitrie Cantemir - Opere I
 * Marii Cronicari ai Moldovei - Ureche, Miron Costin, Nicolae Costin, Neculce
+* T. Arghezi III, IV, V,VI, VII, VIII, IX
+* I. Slavici VI
+* P. Istrati I, II
+* G. Calinescu I, II, III, IV, V, VI, VII, VIII
+* T. Maiorescu III, IV
+* M. Eminescu VI, VII
+* I. Heliade Radulescu I, II
+* M. Sebastian III,IV, VII, VIII
 
 #### Links
 * [Philosophy](philosophy.md)
