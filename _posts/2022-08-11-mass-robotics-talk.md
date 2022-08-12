@@ -26,3 +26,9 @@ What else is in the talk? A great survey of the robotics industry:
 - In the home, helping seniors
 
 
+Pluggable robots:
+* Companies
+  * [Flexxbotics](https://flexxbotics.com/)
+* Literature
+  * [The Pluggable Distributed Resource Allocator (PDRA): a Middleware for Distributed Computing in Mobile Robotic Networks](https://arxiv.org/pdf/2003.13813.pdf) (2020)
+
