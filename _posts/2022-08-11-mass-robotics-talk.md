@@ -31,4 +31,5 @@ Pluggable robots:
   * [Flexxbotics](https://flexxbotics.com/)
 * Literature
   * [The Pluggable Distributed Resource Allocator (PDRA): a Middleware for Distributed Computing in Mobile Robotic Networks](https://arxiv.org/pdf/2003.13813.pdf) (2020). "At its core, the proposed approach relies on a task allocation mechanism that maps computing tasks to robots"
+  * [A formal analysis and taxonomy of task allocation in multi-robot systems](http://robotics.stanford.edu/~gerkey/research/final_papers/mrta-taxonomy.pdf) (2004)
 
