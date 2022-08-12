@@ -5,9 +5,7 @@ categories: robotics
 title: "Tom Ryden on the state of Robotics"
 ---
 
-https://www.massrobotics.org/opportunities/aws-robotics-startup-accelerator/
-
-This is Thomas Ryden, from Mass Robotics, at an AWS robotics event. I'll cut to the chase and give you a couple things he says are still open in robotics:
+[This is Thomas Ryden, from Mass Robotics, at an AWS robotics event](https://www.massrobotics.org/opportunities/aws-robotics-startup-accelerator/). I'll cut to the chase and give you a couple things he says are still open in robotics:
 
 1. (Great!) Interoperable, pluggable robot components that work same as PC peripherals (keyboard, mouse, USB). The interoperable robots should be able to co-plan and co-percept.
 
