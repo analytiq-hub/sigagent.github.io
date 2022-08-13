@@ -24,4 +24,4 @@ Mergând pe munte, drumeții de șase, șapte ore uneori, trupul obosește, pici
 
 Atunci în vine în minte o imagine a muntelui pe care am umblat. Dar, dacă mă gândesc mai bine, imaginile mele sunt mai mult vederi de sus în jos, de pe vârf, mai degrabă decât de jos în sus, a muntelui, văzut de la bază.
 
-Ceahlăul este poate văzut de George Coșbuc, aici, într-o poză, mai degrabă imaginat. Este muntele-simbol, un munte Fuji al românismului. Poezia 
+Ceahlăul este poate văzut de George Coșbuc, aici, într-o poză, mai degrabă imaginat. Este muntele-simbol, un munte Fuji al românismului. Anul 1882 mai are patruzeci până la Marea Unire. Coșbuc, ardelean, face politică unionistă aici.
