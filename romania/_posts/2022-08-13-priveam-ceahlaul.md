@@ -18,7 +18,7 @@ author:
     Şi tot văzduhul era plin
     De cântece ciripitoare.
 
-    (George Coșbuc, *Vara*, 1882)
+    (George Coșbuc, Vara, 1882)
 
 Mergând pe munte, drumeții de șase, șapte ore uneori, trupul obosește, picioarele merg mai departe, drumul s-a terminat, conduc acasă, încă două ore din New Hampshire. Seara, în întuneric, încerc să sumarizez ce a fost mai frumos în acea zi.
 
