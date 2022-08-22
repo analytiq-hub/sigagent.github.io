@@ -89,6 +89,10 @@ title: Self Driving Cars
 * Vora, Sourabh, Alex H. Lang, Bassam Helou, Oscar Beijbom. [Pointpainting: Sequential fusion for 3d object detection](https://arxiv.org/abs/1911.10150) (2019)
 * Li, Yingwei, Adams Wei Yu, Tianjian Meng, Ben Caine, Jiquan Ngiam, Daiyi Peng, Junyang Shen et al. [Deepfusion: Lidar-camera deep fusion for multi-modal 3d object detection](https://arxiv.org/pdf/2203.08195.pdf) (2022).
 
+
+#### Sensor hardware
+* [Tech Highlight: Sony IMX490 Automotive Sensor Explained](https://www.youtube.com/watch?v=CUWHlke-yjc)
+
 #### Datasets
 * [KITTI-360: A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D](https://arxiv.org/pdf/2109.13410v1.pdf)
   * [Vision meets Robotics: The KITTI Dataset](http://www.cvlibs.net/publications/Geiger2013IJRR.pdf)
