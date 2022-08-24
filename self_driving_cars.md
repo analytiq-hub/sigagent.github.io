@@ -200,6 +200,7 @@ title: Self Driving Cars
       * [Which Tasks Should Be Learned Together in Multi-task Learning?](https://arxiv.org/pdf/1905.07553.pdf), T. Standley et al (2020)
     * [AI for Full-Self Driving at Tesla](https://www.youtube.com/watch?v=hx7BXih7zx8) (ScaledML 2020)
     * [Workshop on autonomous driving](https://www.youtube.com/watch?v=g6bOwQdCJrc) (CVPR 2021)
+    * [Workshop on autonomous driving](https://www.youtube.com/watch?v=jPCV4GKX9Dw) (CVPR 2022)
 * Nuro
   * Albert Meixner, NURO head of Software
     * [An Overview of the Nuro Autonomy Stack](https://www.youtube.com/watch?v=2atwiP6KTao&t=320s) (2022)
