@@ -22,6 +22,7 @@ title: Cloud Data Platform
 * [AWS](software_stack/amazon_web_services.md)
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Google](software_stack/google.md)
+* [Lyft](software_stack/lydt.md)
 * [Neptune.ai](https://neptune.ai/)
 * [Jupyterhub](https://jupyterhub.readthedocs.io)
   * Amazon EMR
