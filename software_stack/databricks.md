@@ -21,6 +21,7 @@ title: Databricks Software Stack
 
 * Terraform for Databricks
   * [Giving Away The Keys To The Kingdom: Using Terraform To Automate Databricks](https://www.youtube.com/watch?v=h8LrVmb4W2Q) (2021). ([blog post](https://tech.scribd.com/blog/2021/automate-databricks-with-terraform.html))
+  * [Databricks on Azure with Terraform](https://www.youtube.com/watch?v=xkoaqa8kg6k) (2020)
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
