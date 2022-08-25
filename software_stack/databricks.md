@@ -19,6 +19,9 @@ title: Databricks Software Stack
     * [AWS single sign-on (SSO)](https://docs.databricks.com/administration-guide/users-groups/single-sign-on/aws.html)
     * [Configure your AWS account (cross-account IAM role)](https://docs.databricks.com/administration-guide/account-settings/aws-accounts.html)
 
+* Terraform for Databricks
+  * [Giving Away The Keys To The Kingdom: Using Terraform To Automate Databricks](https://www.youtube.com/watch?v=h8LrVmb4W2Q) (2021)
+
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
 * [Machine Learning](../machine_learning.md)
