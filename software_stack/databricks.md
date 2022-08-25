@@ -34,6 +34,9 @@ title: Databricks Software Stack
   * [Security Best Practices for AWS on Databricks](https://www.databricks.com/blog/2021/05/24/security-best-practices-for-aws-on-databricks.html)
   * [Security and compliance for your Lakehouse on AWS](https://www.databricks.com/product/aws/security-and-compliance)
 
+* Data Sharing
+  * [Delta Sharing](https://www.youtube.com/embed/HQRusxdkwFo)
+
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
 * [Machine Learning](../machine_learning.md)
