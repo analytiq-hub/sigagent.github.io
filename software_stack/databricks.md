@@ -15,9 +15,11 @@ title: Databricks Software Stack
   * [Accelerating Data Ingestion with Databricks Autoloader](https://www.youtube.com/watch?v=8a38Fv9cpd8) (2021)
   * [Notebook gallery](https://databricks.com/discover/notebook-gallery)
   * [Diving Into Delta Lake: Schema Enforcement & Evolution](https://databricks.com/blog/2019/09/24/diving-into-delta-lake-schema-enforcement-evolution.html)
-  * SSO
-    * [AWS single sign-on (SSO)](https://docs.databricks.com/administration-guide/users-groups/single-sign-on/aws.html)
-    * [Configure your AWS account (cross-account IAM role)](https://docs.databricks.com/administration-guide/account-settings/aws-accounts.html)
+  * [5 things I wish I knew about Databricks … before I started](https://www.confessionsofadataguy.com/5-things-i-wish-i-knew-about-databricks-before-i-started/) (2022)
+
+* SSO
+  * [AWS single sign-on (SSO)](https://docs.databricks.com/administration-guide/users-groups/single-sign-on/aws.html)
+  * [Configure your AWS account (cross-account IAM role)](https://docs.databricks.com/administration-guide/account-settings/aws-accounts.html)
 
 * Terraform for Databricks
   * [Giving Away The Keys To The Kingdom: Using Terraform To Automate Databricks](https://www.youtube.com/watch?v=h8LrVmb4W2Q) (2021). ([blog post](https://tech.scribd.com/blog/2021/automate-databricks-with-terraform.html))
