@@ -16,6 +16,7 @@ title: Databricks Software Stack
   * [Notebook gallery](https://databricks.com/discover/notebook-gallery)
   * [Diving Into Delta Lake: Schema Enforcement & Evolution](https://databricks.com/blog/2019/09/24/diving-into-delta-lake-schema-enforcement-evolution.html)
   * [5 things I wish I knew about Databricks … before I started](https://www.confessionsofadataguy.com/5-things-i-wish-i-knew-about-databricks-before-i-started/) (2022)
+  * [Databricks Access Control – The 3 Most Important Steps](https://www.confessionsofadataguy.com/databricks-access-control-the-3-most-important-steps/) (2022)
 
 * SSO
   * [AWS single sign-on (SSO)](https://docs.databricks.com/administration-guide/users-groups/single-sign-on/aws.html)
