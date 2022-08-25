@@ -27,7 +27,8 @@ title: Databricks Software Stack
   * [DataOps 3 - Databricks Code Promotion using DevOps CI/CD](https://www.youtube.com/watch?v=R7tJZelEt-Q) (2020)
 
 * Metastore
-  * [Hive Metastore in Databricks – What To Know](https://www.confessionsofadataguy.com/hive-metastore-in-databricks-what-to-know/)
+  * [Hive Metastore in Databricks – What To Know](https://www.confessionsofadataguy.com/hive-metastore-in-databricks-what-to-know/) (2021)
+  * [Sharing Databricks Hive Metastore](https://cprosenjit.medium.com/sharing-databricks-hive-metastore-fb87727e2260) (2021)
 
 * MLOps for Databricks
   * [Designing Better MLOps Systems](https://www.databricks.com/dataaisummit/session/designing-better-mlops-systems) (2022), [slides](https://microsites.databricks.com/sites/default/files/2022-07/Designing-Better-MLOps-Systems.pdf?_gl=1*1myflh0*_gcl_aw*R0NMLjE2NTcxMzE0NTYuQ2owS0NRanc1WlNXQmhDVkFSSXNBTEVSQ3Z4bDA2OUtDWTFoUXYtMEFNV2JSbUYtR3ZDSnNmQ1B3c2tRTWRrMU91X05yb1RtRWtDOG42c2FBbDVtRUFMd193Y0I.&_ga=2.96278300.1630202592.1661188524-1006779420.1638806500)
