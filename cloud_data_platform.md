@@ -17,7 +17,7 @@ title: Cloud Data Platform
 
 #### Software Stacks
 * [BDAS, the Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/)
-* [Databricks](software_stack/databrics.md)
+* [Databricks](software_stack/databricks.md)
 * [AWS](software_stack/amazon_web_services.md)
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Google](software_stack/google.md)
