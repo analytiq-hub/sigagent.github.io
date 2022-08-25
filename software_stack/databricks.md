@@ -28,6 +28,7 @@ title: Databricks Software Stack
 
 * MLOps for Databricks
   * [Designing Better MLOps Systems](https://www.databricks.com/dataaisummit/session/designing-better-mlops-systems) (2022), [slides](https://microsites.databricks.com/sites/default/files/2022-07/Designing-Better-MLOps-Systems.pdf?_gl=1*1myflh0*_gcl_aw*R0NMLjE2NTcxMzE0NTYuQ2owS0NRanc1WlNXQmhDVkFSSXNBTEVSQ3Z4bDA2OUtDWTFoUXYtMEFNV2JSbUYtR3ZDSnNmQ1B3c2tRTWRrMU91X05yb1RtRWtDOG42c2FBbDVtRUFMd193Y0I.&_ga=2.96278300.1630202592.1661188524-1006779420.1638806500)
+  * [Survey of Production ML Tech Stacks](https://www.databricks.com/dataaisummit/session/survey-production-ml-tech-stacks), [slides](https://microsites.databricks.com/sites/default/files/2022-07/Survey-of-Production-ML-Tech-Stacks.pdf?_gl=1*41h2pk*_gcl_aw*R0NMLjE2NTcxMzE0NTYuQ2owS0NRanc1WlNXQmhDVkFSSXNBTEVSQ3Z4bDA2OUtDWTFoUXYtMEFNV2JSbUYtR3ZDSnNmQ1B3c2tRTWRrMU91X05yb1RtRWtDOG42c2FBbDVtRUFMd193Y0I.&_ga=2.59111981.1630202592.1661188524-1006779420.1638806500), [AI Landscape](https://ai-infrastructure.org/wp-content/uploads/2022/05/AIIA-Landscape-May-2022.pdf)
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
