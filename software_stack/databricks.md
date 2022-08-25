@@ -20,7 +20,7 @@ title: Databricks Software Stack
     * [Configure your AWS account (cross-account IAM role)](https://docs.databricks.com/administration-guide/account-settings/aws-accounts.html)
 
 * Terraform for Databricks
-  * [Giving Away The Keys To The Kingdom: Using Terraform To Automate Databricks](https://www.youtube.com/watch?v=h8LrVmb4W2Q) (2021)
+  * [Giving Away The Keys To The Kingdom: Using Terraform To Automate Databricks](https://www.youtube.com/watch?v=h8LrVmb4W2Q) (2021). ([blog post](https://tech.scribd.com/blog/2021/automate-databricks-with-terraform.html))
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
