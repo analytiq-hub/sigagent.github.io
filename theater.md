@@ -15,6 +15,9 @@ title: Theater
 * [Profesioniştii cu Ion Caramitru](https://www.youtube.com/watch?v=Qy4dvRl3FNU) (2020)
 * Ascultă Vocile de Azi: [Andrei Serban](https://www.youtube.com/watch?v=UrOtRH9c6gs&t=2607s) (2021)
 
+#### About
+* Liviu Ciulei part [1](https://www.youtube.com/watch?v=p5pZQSvMnmc) [2](https://www.youtube.com/watch?v=Puhvu-Ks9_Y) [3](https://www.youtube.com/watch?v=d9wwRb6Yjfg) [4](https://www.youtube.com/watch?v=ghGWHZSHiss)
+
 #### Links
 * [Film](film.md)
 * [Philosophy](philosophy.md)
