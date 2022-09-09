@@ -11,6 +11,7 @@ title: Romania - Environment
 * Președinția României: [Raport despre Limitarea Schimbarilor Climatice](https://www.presidency.ro/files/userfiles/Raport%20Limitarea%20Schimbarilor%20Climatice.pdf?fbclid=IwAR0KiMLBnDCwPgaFNv88KNX9gJtSPvVQ--Mn4h-RJzSOSLgfp3tmjIvFyxg) (2022)
 
 #### Organizații
+* [Ministerul Mediului, Apei și a Pădurilor](http://www.mmediu.ro/)
 * [Agenția Națională pentru Arii Naturale Protejate](http://ananp.gov.ro/) (ANAP)
 
 
