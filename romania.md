@@ -18,6 +18,10 @@ title: Romania
 #### Interviews
 * [Monica Lovinescu - Radio Free Europe Interview 1998](https://www.youtube.com/watch?v=ZO3PBsROZjY&t=2083s), with Mircea Iorgulescu
 
+#### Carpahian Forests
+* NYT: [Europe Is Sacrificing Its Ancient Forests for Energy](https://www.nytimes.com/interactive/2022/09/07/world/europe/eu-logging-wood-pellets.html?fbclid=IwAR0fg6-6OoQbkjLi5b4QEOGZ9nLmcNG1e90foLqniPkCOX_x8LVdlHs45SM), by Sarah Hurtes and Weiyi Cai (2022)
+* France 2: [Cash Investigation - Razzia sur le bois, les promesses en kit des géants du meuble](https://www.dailymotion.com/video/x59qar9), by Elise Lucet (2016)
+
 #### Editura Academiei - Univers Enciclopedic
 * Dimitrie Cantemir - Opere I
 * Marii Cronicari ai Moldovei - Ureche, Miron Costin, Nicolae Costin, Neculce
