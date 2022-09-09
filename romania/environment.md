@@ -7,6 +7,9 @@ title: Romania - Environment
 * France 2: [Cash Investigation - Razzia sur le bois, les promesses en kit des géants du meuble](https://www.dailymotion.com/video/x59qar9), by Elise Lucet (2016)
 * Profile: [Gabriel Păun](https://www.linkedin.com/in/gabriel-paun-65641110a/), președintele Agent Green
 
+#### News
+* stiripesurse.ro: [Ministrul Mediului acuză publicația The New York Times de fakenews: 'Ni se pare foarte curios'](https://www.stiripesurse.ro/ministrul-mediului-new-york-times-fakenews_2548135.html?fbclid=IwAR3dNBB5lUkJR77iB4V5WxJAyIbJA8J5epObdYooNj02RWC5Q9eFVX280OY) (2022)
+
 #### Links
 * [Philosophy](philosophy.md)
 * [Physics](physics.md)
