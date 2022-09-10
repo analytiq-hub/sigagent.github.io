@@ -23,6 +23,7 @@ title: Romania - Environment
 * stiripesurse.ro: [Ministrul Mediului acuză publicația The New York Times de fakenews: 'Ni se pare foarte curios'](https://www.stiripesurse.ro/ministrul-mediului-new-york-times-fakenews_2548135.html?fbclid=IwAR3dNBB5lUkJR77iB4V5WxJAyIbJA8J5epObdYooNj02RWC5Q9eFVX280OY) (2022)
 * saptamana.net: [Şoc şi groază la înscăunarea de la Romsilva!!! Noul şef s-a lovit de funcţie, instituţia s-a ciocnit de un ins penal](http://saptamana.net/articol/19413-soc-si-groaza-la-inscaunarea-de-la-romsilva-noul-sef-s-a-lovit-de-functie-institutia-s-a-ciocnit-de-un-ins-penal?fbclid=IwAR3PKZHdsR58p5RW9yM1iyHlWBG7V0u-mX53b75CYab2o-aaKrkY6O_v-SA) (2022)
 * saptamana.net: [Cum se blochează închiderea gropilor de gunoi în România. Interese ascunse ale autorităţilor locale (I)](http://saptamana.net/articol/19309-cum-se-blocheaza-inchiderea-gropilor-de-gunoi-in-romania-interese-ascunse-ale-autoritatilor-locale-i) (2022)
+* Recorder: [MAFIA LEMNULUI: Ce se ascunde în spatele atacurilor din pădurile Bucovinei](https://www.youtube.com/watch?v=od5Zlvp1yIc) (2021)
 
 #### Links
 * [Philosophy](philosophy.md)
