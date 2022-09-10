@@ -1,4 +1,3 @@
-
 ---
 #
 # By default, content added below the "---" mark will appear in the home page
