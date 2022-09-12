@@ -8,6 +8,11 @@ title: Romania
 * Radu Rosetti: [Amintiri. Ce am auzit de la alţii. Din copilărie. Din prima tinereţe](https://humanitas.ro/assets/pdf/Radu-Rosetti_Amintiri.pdf)
 * Mircea Vulcănescu: [Nae Ionescu așa cum l-am cunoscut](https://www.amazon.com/Nae-Ionescu-l-am-cunoscut-Romanian/dp/9737571843)
 * Iuliu A. Zanne: [Proverbele Românilor](https://upload.wikimedia.org/wikipedia/commons/0/0d/Iuliu_A._Zanne_-_Proverbele_rom%C3%A2nilor_din_Rom%C3%A2nia%2C_Basarabia%2C_Bucovina%2C_Ungaria%2C_Istria_%C8%99i_Macedonia_-_Proverbe%2C_dicetori%2C_pov%C4%83%C8%9Buiri%2C_cuvinte_ade.pdf)
+* Istoria Dobrogei, cărți sugerate de ghidul muzeului CallatisȘ
+  * Sergiu Iosipescu: Balica, Dobrotita, Ioancu (1985)
+  * Mustafa Ali Mehmed: Istoria turcilor (1976)
+
+* Sergiu Iosipescu et al: Marea Neagră, State și Frontiere, de la sfrșitul Antichității la Pacea de la Paris (1856)
 
 #### Visit
 * [Cele mai frumoase plaje din Romania! Mamaia, Tuzla, Neptun, 23 August](https://www.youtube.com/watch?v=dgLrZg7WkRg&list=RDCMUCnrd-SxTvYUc8jVfmaS8rVg&index=5)
