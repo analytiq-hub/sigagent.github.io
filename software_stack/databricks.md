@@ -34,6 +34,7 @@ title: Databricks Software Stack
   * [Sharing Databricks Hive Metastore](https://cprosenjit.medium.com/sharing-databricks-hive-metastore-fb87727e2260) (2021)
 
 * Unity Catalog
+  * Matei Zaharia: [Announcing the Unity Catalog](https://www.youtube.com/watch?v=aRMfxPZxnfc) (2021)
   * [A Practitioner's Guide to Unity Catalog—A Technical Deep Dive](https://www.youtube.com/watch?v=ibvG-pYKl8U) (2022)
 
 * MLOps for Databricks
