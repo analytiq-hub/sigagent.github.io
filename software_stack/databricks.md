@@ -43,6 +43,9 @@ title: Databricks Software Stack
   * [MLOps on Databricks: A How-To Guide](https://www.youtube.com/watch?v=JApPzAnbfPI) (2022)
   * [databricks/mlops-stack](https://github.com/databricks/mlops-stack)
 
+* ML
+  * [The Big Book Of Machine Learning Use Cases](https://www.databricks.com/explore/data-science-machine-learning/big-book-of-ml)
+
 * Security
   * [Security Best Practices for AWS on Databricks](https://www.databricks.com/blog/2021/05/24/security-best-practices-for-aws-on-databricks.html)
   * [Security and compliance for your Lakehouse on AWS](https://www.databricks.com/product/aws/security-and-compliance)
