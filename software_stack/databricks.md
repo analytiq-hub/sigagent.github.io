@@ -45,6 +45,7 @@ title: Databricks Software Stack
 
 * ML
   * [The Big Book Of Machine Learning Use Cases](https://www.databricks.com/explore/data-science-machine-learning/big-book-of-ml)
+  * [The Big Book of MLOps](https://www.databricks.com/explore/data-science-machine-learning/big-book-of-MLOps)
 
 * Security
   * [Security Best Practices for AWS on Databricks](https://www.databricks.com/blog/2021/05/24/security-best-practices-for-aws-on-databricks.html)
