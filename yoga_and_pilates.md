@@ -32,7 +32,7 @@ title: Yoga and Pilates
 * Stretch
   * [30m pilates yoga workout - full body stretch and strengthen](https://www.youtube.com/watch?v=lytHuRfbKdg)
 * Strength & Stretch
-  * Juliana: [Morning Yoga Workout](https://www.youtube.com/watch?v=oX6I6vs1EFs)
+  * Boho Beautiful: [Morning Yoga Workout](https://www.youtube.com/watch?v=oX6I6vs1EFs)
 
 #### Other
 * [Philosophy](philosophy.md)
