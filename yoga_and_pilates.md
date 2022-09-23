@@ -31,6 +31,8 @@ title: Yoga and Pilates
   * [40m dancer workout](https://www.youtube.com/watch?v=CxfAULXP8SM), [35m full body barre](https://www.youtube.com/watch?v=TC3HV61YoOg)
 * Stretch
   * [30m pilates yoga workout - full body stretch and strengthen](https://www.youtube.com/watch?v=lytHuRfbKdg)
+* Strength & Stretch
+  * Juliana: [Morning Yoga Workout](https://www.youtube.com/watch?v=oX6I6vs1EFs)
 
 #### Other
 * [Philosophy](philosophy.md)
