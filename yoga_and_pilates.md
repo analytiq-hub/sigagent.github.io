@@ -14,6 +14,7 @@ title: Yoga and Pilates
 * Interviews
   * London Real: [Interview with Kino MacGregor](https://www.youtube.com/watch?v=fjxhW4VnIxA&t=817s)
   * Stu Girling: [The Yoga Anatomy Interview with David Keil](https://www.youtube.com/watch?v=m0Eq5qmIQgU&t=425s)
+  * Stu Girling: [Ashtanga Everyday Essentials with Deepika Mehta](https://www.youtube.com/watch?v=jCSnfbgj4u0) (2018)
 * Hip flexibility
   * [30m stretch routine](https://www.youtube.com/watch?v=RvCntPg7oPE) (2021)
 * Abs
