@@ -41,6 +41,7 @@ title: Amazon Web Services
     * [How do I use a Route 53 Resolver inbound endpoint to resolve DNS records in a private hosted zone?](https://www.youtube.com/watch?v=GTwajBL0uzU) (2020)
   * Private Link
     * Pythoholic: [AWS PrivateLink/VPC Endpoint Service Demo](https://www.youtube.com/watch?v=0bHXWIM4_0o) (2020)
+    * AWS re:Invent 2019: [AWS PrivateLink deployments: DNS mechanisms for routing & resiliency (NET321)](https://www.youtube.com/watch?v=abOFqytVqBU)
 
 * Sagemaker
   * S.S.R. Mengle, M. Gutierrez: [Mastering Machine Learning on AWS](https://www.amazon.com/Mastering-Machine-Learning-AWS-TensorFlow/dp/1789349796) (2019), [github](https://github.com/PacktPublishing/Mastering-Machine-Learning-on-AWS)
