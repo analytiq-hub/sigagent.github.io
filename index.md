@@ -60,6 +60,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Music](music.md)
 * [Natural Language Processing](natural_language_processing.md)
 * [Neuroscience](neuroscience.md)
+* [Opera](opera.md)
 * [Open Source](open_source.md)
 * [Other](other.md)
 * [Philosophy](philosophy.md)

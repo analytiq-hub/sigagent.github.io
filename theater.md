@@ -24,6 +24,7 @@ title: Theater
 
 #### Links
 * [Film](film.md)
+* [Opera](opera.md)
 * [Philosophy](philosophy.md)
 * [Religion](religion.md)
 
