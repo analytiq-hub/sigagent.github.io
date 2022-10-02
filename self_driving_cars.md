@@ -194,6 +194,7 @@ title: Self Driving Cars
     * [Yu Huang](https://yuhuang-63908.medium.com/): [Twelve Questions about Tesla Autopilot Technologies Exposed at 2021 AI Day](https://yuhuang-63908.medium.com/questions-about-tesla-autopilot-technologies-exposed-at-2021-ai-day-a5859faaac4d), Medium (2021)
     * J. Zhang: [Deep Understanding Tesla FSD](https://saneryee-studio.medium.com/deep-understanding-tesla-fsd-part-1-hydranet-1b46106d57) (2021)
   * [Tesla AI Day 2022](https://www.youtube.com/watch?v=ODSJsviD_SU)
+  * [Inside Tesla’s Innovative And Homegrown “Dojo” AI Supercomputer](https://www.nextplatform.com/2022/08/23/inside-teslas-innovative-and-homegrown-dojo-ai-supercomputer/) (2022)
   * Andrej Karpathy
     * [On the visionary AI in Tesla's autonomous driving](https://shows.acast.com/the-robot-brains/episodes/andrej-karpathy-on-the-visionary-ai-in-teslas-autonomous-dri) (2021)
     * [PyTorch at Tesla](https://www.youtube.com/watch?v=oBklltKXtDE) (2019)
