@@ -9,7 +9,7 @@ title: Databricks Software Stack
 * Papers
   * Matei Zaharia et al: [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf) (2012)
 * Books
-  * Bill Chambers, Matei Zaharia[Spark: The Definitive Guide](https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219)
+  * Bill Chambers, Matei Zaharia: [Spark: The Definitive Guide](https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219)
   * [The Delta Lake Series Complete Collection](https://www.databricks.com/it/wp-content/uploads/2021/03/030521-2-The-Delta-Lake-Series-Complete-Collection.pdf?itm_data=ungatedContentPages-resources-deltaLakeSeries) (2021)
   
 
