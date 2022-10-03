@@ -196,7 +196,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
       * Variance - caused when the model overreacts to small changes in the data
       * Noise - data was a bit corrupted; labels were a bit wrong, etc
       * Total loss = bias + variance + noise
-* 13: [Intelligent User Experiences](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=14)
+* 13: [Intelligent User Experiences](https://www.youtube.com/watch?v=WWTRYo3vF2Q&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=14)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/13%20--%20Intelligent%20User%20Experiences.pptx)
 * 14: [Ensembles 1: Bagging & Random Forests](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=15)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/14%20--%20Ensembles%201%20-%20Bagging%20&%20Randomforests.pptx)
