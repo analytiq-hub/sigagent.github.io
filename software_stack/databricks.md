@@ -6,6 +6,8 @@ title: Databricks Software Stack
 
 [Databricks](https://databricks.com/), [docs](https://docs.databricks.com/applications/machine-learning/index.html#databricks-machine-learning-overview)
 
+* Papers
+  * Matei Zaharia et al: [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf) (2012)
 * Posts
   * O. Anomnachi: [Comparing Databricks and Apache Spark](https://blog.anant.us/comparing-databricks-and-apache-spark/) (2020)
   * P. Borges et al: [Enabling Computer Vision Applications With the Data Lakehouse](https://databricks.com/blog/2021/12/17/enabling-computer-vision-applications-with-the-data-lakehouse.html) (2021)
