@@ -34,6 +34,7 @@ title: Yoga and Pilates
   * [30m pilates yoga workout - full body stretch and strengthen](https://www.youtube.com/watch?v=lytHuRfbKdg)
 * Strength & Stretch
   * Boho Beautiful: [Morning Yoga Workout](https://www.youtube.com/watch?v=oX6I6vs1EFs)
+  * Julia Reppel: [25 Min. Full Body Mobility Workout - Circuit Training](https://www.youtube.com/watch?v=jPdft5H34C8)
 
 #### Other
 * [Philosophy](philosophy.md)
