@@ -200,6 +200,31 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/13%20--%20Intelligent%20User%20Experiences.pptx)
 * 14: [Ensembles 1: Bagging & Random Forests](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=15)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/14%20--%20Ensembles%201%20-%20Bagging%20&%20Randomforests.pptx)
+  * Models can have bias or variance
+    * When models are too simple, they can't represent complex concepts (bias)
+    * Complex models can overfit noise in data (variance/jitter)
+  * Ensembles: combine multiple models
+    * Can mitigate bias or variance
+    * Often result in better accuracy
+  * Approaches
+    * Use multiple independent models to learn, and combine the result randomly (bagging, random forest), or by using a meta-model to select result (stacking)
+      * Works for high variance, low bias base models
+    * Chain models, and use output error of previous model as input to next model, then combine the results (boosting, gradient boosting machines)
+      * Models in chain learn different parts of the concept
+      * Can work with high bias base models
+      * May overfit
+  * Bagging
+    * Create $k$ training sets by sampling *with replacement* from original set
+    * Train $k$ independent models
+    * Combine predictions by uniform voting
+      * Each model learns concept a different way
+      * Bootstrap sampling accentuates variance between $k$ models
+      * Voting tends to cancel out variance without increasing bias
+    * Good when base models have low bias / high variance
+  * Boosted trees
+    * Same as bagging, but randomly drop features from each of the $k$ independent models
+    * Compared to bagging, feature restriction introduces higher variance
+      
 * 15: [Ensembles 2: Boosting](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=16)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/15%20--%20Ensembles%202%20-%20Boosting.pptx)
 * 16: [Ensembles 3: Stacking & Intelligence Architectures](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=17)
