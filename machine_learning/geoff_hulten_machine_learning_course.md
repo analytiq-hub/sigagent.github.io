@@ -227,6 +227,14 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
       
 * 15: [Ensembles 2: Boosting](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=16)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/15%20--%20Ensembles%202%20-%20Boosting.pptx)
+  * Create chain of models
+  * Model $i$ trained on residual error of model $i-1$
+  * Reweighting training data: give bigger weight to samples that had higher error
+  * Final result is weighted sum of intermediate results
+  * Stop adding models when starting to overfit (check on holdout set)
+  * Boosting can help with bias and variance, but can overfit.
+  * Gradient Boosting Machines (GBM) often used in practice to get high accuracy
+  
 * 16: [Ensembles 3: Stacking & Intelligence Architectures](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=17)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/16%20--%20Ensembles%203%20-%20Stacking%20and%20Intelligence%20Architectures.pptx)
 * 17: [ML Design Pattern: Adversarial Learning](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=18)
