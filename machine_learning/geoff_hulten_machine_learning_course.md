@@ -138,7 +138,7 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
   * $$x\%$$ confidence interval defines a range of values that you can be $$x\%$$ certain contains the population mean.
     * IF: Better_Model – Bound > Worse_Model + Bound
     * THEN: With $$x\%$$ confidence the model that looks better on the sample is better
-     * ELSE: there is more than a $$(1 - x \%)$$ chance the model that looks worse is actually better
+     * ELSE: there is less than a $$(1 - x \%)$$ chance the model that looks worse is actually better
   * Is new parameter or feature worth using?
     * Train with or without feature
     * Compare using one sided bounds
