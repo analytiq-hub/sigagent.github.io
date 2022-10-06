@@ -237,6 +237,13 @@ Notes on a [great course](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQm
   
 * 16: [Ensembles 3: Stacking & Intelligence Architectures](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=17)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/16%20--%20Ensembles%203%20-%20Stacking%20and%20Intelligence%20Architectures.pptx)
+  * Stacking: same as boosting, but train metalearner on holdout data to pick winner
+  * Organizing Intelligence is critical for long term success with ML
+    * Stacking (meta models)
+    * Business Logic
+    * Sequencing (sequence of models can eliminate junk according to own rules; simple to extend and maintain)
+    * Partitioning (break down into subproblems independently solved by different models)
+
 * 17: [ML Design Pattern: Adversarial Learning](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=18)
   * [slides](https://www.livingmachinelearning.com/courses/machinelearning/slides/17%20--%20Design%20Pattern%20-%20Adversarial%20Learning.pptx)
 * 18: [Basics of Computer Vision](https://www.youtube.com/watch?v=XJZXBAh9LBM&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO&index=19)
