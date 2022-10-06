@@ -12,6 +12,7 @@ title: Recommender Systems
 
 #### Courses
 * EdX: UMontreal: Laurent Charlin: [Recommender Systems: Behind the Screen](https://learning.edx.org/course/course-v1:UMontrealX+RECM1EN+1T2021/home)
+* Google: [Recommendation system](https://developers.google.com/machine-learning/recommendation) course
 
 #### Blog Posts
 * B. Rocca: [Introduction to recommender systems](https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada) (2019)
