@@ -180,6 +180,8 @@ title: Self Driving Cars
     * Virtual target initiative
 
 #### Products, Companies
+* Aurora
+  * [xviz](https://github.com/aurora-opensource/xviz) open source project
 * [Autoware.ai](https://www.autoware.ai/) project
   * [Source code](https://github.com/Autoware-AI)
   * [Documentation](https://autoware.readthedocs.io/en/feature-documentation_rtd/)
