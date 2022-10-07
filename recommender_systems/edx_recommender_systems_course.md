@@ -11,8 +11,9 @@ Notes on a [great course](https://learning.edx.org/course/course-v1:UMontrealX+R
 
 * 1: [Machine Learning for Recommender Systems](https://learning.edx.org/course/course-v1:UMontrealX+RECM1EN+1T2021/block-v1:UMontrealX+RECM1EN+1T2021+type@sequential+block@fc7f5ba4792149028286c7d9c7e9477f)
   * 1.1 [Score Models](https://learning.edx.org/course/course-v1:UMontrealX+RECM1EN+1T2021/block-v1:UMontrealX+RECM1EN+1T2021+type@sequential+block@fe70e121c0ce48de91b9794763228801)
-    * 1.1.2 Nighborhood Approaches
+    * 1.1.2 Neighborhood Approaches
       * Colab: [collaborative_filter_example.ipynb](https://colab.research.google.com/drive/13tIPbaAH8CMZ96_KTEolkimEPUCYnUiv#scrollTo=4YeMlFPfVXBw)
+      * Reference: X. Ning et al: [A comprehensive survey of neighborhood-based recommendation methods](http://glaros.dtc.umn.edu/gkhome/node/1140) (2015)
 
 
 #### Other
