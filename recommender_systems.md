@@ -12,6 +12,7 @@ title: Recommender Systems
 
 #### Courses
 * EdX: UMontreal: Laurent Charlin: [Recommender Systems: Behind the Screen](https://learning.edx.org/course/course-v1:UMontrealX+RECM1EN+1T2021/home)
+  * [Andrei's notes](recommender_systems/edx_recommender_systems_course.md)
 * Google: [Recommendation system](https://developers.google.com/machine-learning/recommendation) course
 
 #### Blog Posts
