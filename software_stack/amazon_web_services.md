@@ -12,6 +12,7 @@ title: Amazon Web Services
   * [Amazon S3 Access Control - IAM Policies, Bucket Policies and ACLs](https://www.youtube.com/watch?v=xFzJw6wJ8eY)
   * Manoj Fernando: [AWS IAM - Crash Course (Learn IAM in 1 hour!)](https://www.youtube.com/watch?v=WYH8SQW6RJQ&t=0s) (2019)
   * Medium: [AWS IAM](https://enlear.academy/aws-iam-summary-5d97bb129ae1), by Manoj Fernando (2019)
+  * Cloud Strategy: [AWS IAM Roles: EC2 Instance Profile](https://www.youtube.com/watch?v=iWyOdcD7oag) (2022)
 * SNS
   * A. Patel: [AWS — Difference between SQS and SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5) (2019)
 * Serverless 
