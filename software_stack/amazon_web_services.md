@@ -3,36 +3,29 @@ layout: page
 mathjax: true
 title: Amazon Web Services
 ---
-* EC2
-  * Load Balancer
-    *  Cloud With Raj: [AWS Load Balancer HTTPS Setup with Route 53 and Certificate Manager & HTTP Redirect to HTTPS](https://www.youtube.com/watch?v=JQP96EjRM98) (2022)
-* [EMR](https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks.html)
-  * [Amazon EMR Deep Dive and Best Practices - AWS Online Tech Talks](https://www.youtube.com/watch?v=dU40df0Suoo)
 * Access Control
   * [Amazon S3 Access Control - IAM Policies, Bucket Policies and ACLs](https://www.youtube.com/watch?v=xFzJw6wJ8eY)
   * Manoj Fernando: [AWS IAM - Crash Course (Learn IAM in 1 hour!)](https://www.youtube.com/watch?v=WYH8SQW6RJQ&t=0s) (2019)
   * Medium: [AWS IAM](https://enlear.academy/aws-iam-summary-5d97bb129ae1), by Manoj Fernando (2019)
   * Cloud Strategy: [AWS IAM Roles: EC2 Instance Profile](https://www.youtube.com/watch?v=iWyOdcD7oag) (2022)
-* SNS
-  * A. Patel: [AWS — Difference between SQS and SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5) (2019)
-* Serverless 
-  * [Operator Guide](https://docs.aws.amazon.com/lambda/latest/operatorguide/intro.html)
-  * [Getting started with Serverless](https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b/en-US)
-  * [Build, Secure, Manage Serverless Applications at Scale on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/b34eab03-4ebe-46c1-bc63-cd2d975d8ad4/en-US)
-  * [Tutorial: Using AWS Lambda with Amazon Kinesis](https://docs.aws.amazon.com/lambda/latest/dg/with-kinesis-example.html)
-  * [Serverless on AWS Lambda: A Comprehensive Comparison Of Approaches (Serverless Framework vs SAM vs Terraform vs CloudFormation)](https://openupthecloud.com/serverless-approaches-comparison/)
+* CDK or SAM:
+  * [CDK Workshop](https://cdkworkshop.com/)
+  * [AWS CDK Advanced Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d93fec4c-fb0f-4813-ac90-758cb5527f2f/en-US)
+  * [Event Driven System with CDK](https://eventbus-cdk.workshop.aws/en/)
+  * [Building Serverless Apps with SAM](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/en-US)
 * Chalice
   * [github](https://github.com/aws/chalice)
   * [Tutorials](https://aws.github.io/chalice/tutorials/index.html)
 * Step Functions:
   * [The AWS Step Functions Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/9e0368c0-8c49-4bec-a210-8480b51a34ac/en-US)
   * [AWS Step Functions - The Application Catalyst](https://www.youtube.com/watch?v=Yn4-yugQZ4U) (webinar, 2021)
-* CDK or SAM:
-  * [CDK Workshop](https://cdkworkshop.com/)
-  * [AWS CDK Advanced Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d93fec4c-fb0f-4813-ac90-758cb5527f2f/en-US)
-  * [Event Driven System with CDK](https://eventbus-cdk.workshop.aws/en/)
-  * [Building Serverless Apps with SAM](https://catalog.us-east-1.prod.workshops.aws/workshops/d21ec850-bab5-4276-af98-a91664f8b161/en-US)
-
+* Code Pipeline
+  * Cloud Strategy: [AWS CodePipeline Use case - CI CD on AWS Tutorial](https://www.youtube.com/watch?v=DYK8xcqtQD8) (2022)
+* EC2
+  * Load Balancer
+    *  Cloud With Raj: [AWS Load Balancer HTTPS Setup with Route 53 and Certificate Manager & HTTP Redirect to HTTPS](https://www.youtube.com/watch?v=JQP96EjRM98) (2022)
+* [EMR](https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks.html)
+  * [Amazon EMR Deep Dive and Best Practices - AWS Online Tech Talks](https://www.youtube.com/watch?v=dU40df0Suoo)
 * Networking
   * VPC
     * Enlear Academy: [AWS VPC - A Crash Course](https://www.youtube.com/watch?v=cEbJZdZxJ5A) (2020)
@@ -78,6 +71,14 @@ title: Amazon Web Services
 * FSx
   * [Scalable and Cost-Effective Batch Processing for ML workloads with AWS Batch and Amazon FSx](https://aws.amazon.com/blogs/hpc/ml-training-with-aws-batch-and-amazon-fsx/) (2021)
   * [Speed up training on Amazon SageMaker using Amazon FSx for Lustre and Amazon EFS file systems](https://aws.amazon.com/blogs/machine-learning/speed-up-training-on-amazon-sagemaker-using-amazon-efs-or-amazon-fsx-for-lustre-file-systems/) (2019)
+* Serverless 
+  * [Operator Guide](https://docs.aws.amazon.com/lambda/latest/operatorguide/intro.html)
+  * [Getting started with Serverless](https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b/en-US)
+  * [Build, Secure, Manage Serverless Applications at Scale on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/b34eab03-4ebe-46c1-bc63-cd2d975d8ad4/en-US)
+  * [Tutorial: Using AWS Lambda with Amazon Kinesis](https://docs.aws.amazon.com/lambda/latest/dg/with-kinesis-example.html)
+  * [Serverless on AWS Lambda: A Comprehensive Comparison Of Approaches (Serverless Framework vs SAM vs Terraform vs CloudFormation)](https://openupthecloud.com/serverless-approaches-comparison/)
+* SNS
+  * A. Patel: [AWS — Difference between SQS and SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5) (2019)
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
