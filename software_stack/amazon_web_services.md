@@ -70,6 +70,7 @@ title: Amazon Web Services
     * [AWS Innovate - Data Edition](https://amer.resources.awscloud.com/aws-innovate-data-edition-2022) (2022)
       * [Prepare data for ML with ease, speed, and accuracy](https://amer.resources.awscloud.com/aws-innovate-data-edition-2022/prepare-data-for-ml-with-ease-speed-and-accuracy-1)
       * [End-to-end ML and data science workflows with Amazon EMR and SageMaker Studio](https://amer.resources.awscloud.com/aws-innovate-data-edition-2022/end-to-end-ml-and-data-science-workflows-with-amazon-emr-and-sagemaker-studio)
+    * Mani Khanuja: [AWS On Air ft. Training Machine Learning Models at Scale using Amazon SageMaker](https://www.youtube.com/watch?v=hIpGZNtDOO0) (2022)
   * Code
     * [aws-samples](https://github.com/aws-samples)/[aws-sagemaker-ground-truth-recipe](https://github.com/aws-samples/aws-sagemaker-ground-truth-recipe)
   * [Sagemaker Workshop](https://sagemaker-workshop.com/)
