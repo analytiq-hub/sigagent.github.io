@@ -26,6 +26,9 @@ title: Amazon Web Services
     *  Cloud With Raj: [AWS Load Balancer HTTPS Setup with Route 53 and Certificate Manager & HTTP Redirect to HTTPS](https://www.youtube.com/watch?v=JQP96EjRM98) (2022)
 * [EMR](https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks.html)
   * [Amazon EMR Deep Dive and Best Practices - AWS Online Tech Talks](https://www.youtube.com/watch?v=dU40df0Suoo)
+* FSx
+  * [Scalable and Cost-Effective Batch Processing for ML workloads with AWS Batch and Amazon FSx](https://aws.amazon.com/blogs/hpc/ml-training-with-aws-batch-and-amazon-fsx/) (2021)
+  * [Speed up training on Amazon SageMaker using Amazon FSx for Lustre and Amazon EFS file systems](https://aws.amazon.com/blogs/machine-learning/speed-up-training-on-amazon-sagemaker-using-amazon-efs-or-amazon-fsx-for-lustre-file-systems/) (2019)
 * Networking
   * VPC
     * Enlear Academy: [AWS VPC - A Crash Course](https://www.youtube.com/watch?v=cEbJZdZxJ5A) (2020)
@@ -68,9 +71,6 @@ title: Amazon Web Services
   * Code
     * [aws-samples](https://github.com/aws-samples)/[aws-sagemaker-ground-truth-recipe](https://github.com/aws-samples/aws-sagemaker-ground-truth-recipe)
   * [Sagemaker Workshop](https://sagemaker-workshop.com/)
-* FSx
-  * [Scalable and Cost-Effective Batch Processing for ML workloads with AWS Batch and Amazon FSx](https://aws.amazon.com/blogs/hpc/ml-training-with-aws-batch-and-amazon-fsx/) (2021)
-  * [Speed up training on Amazon SageMaker using Amazon FSx for Lustre and Amazon EFS file systems](https://aws.amazon.com/blogs/machine-learning/speed-up-training-on-amazon-sagemaker-using-amazon-efs-or-amazon-fsx-for-lustre-file-systems/) (2019)
 * Serverless 
   * [Operator Guide](https://docs.aws.amazon.com/lambda/latest/operatorguide/intro.html)
   * [Getting started with Serverless](https://catalog.us-east-1.prod.workshops.aws/workshops/841ce16b-9d86-48ac-a3f6-6a1b29f95d2b/en-US)
