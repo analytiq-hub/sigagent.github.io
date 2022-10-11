@@ -11,8 +11,6 @@ title: Databricks Software Stack
 * Books
   * Bill Chambers, Matei Zaharia: [Spark: The Definitive Guide](https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219)
   * [The Delta Lake Series Complete Collection](https://www.databricks.com/it/wp-content/uploads/2021/03/030521-2-The-Delta-Lake-Series-Complete-Collection.pdf?itm_data=ungatedContentPages-resources-deltaLakeSeries) (2021)
-  
-
 
 * Posts
   * O. Anomnachi: [Comparing Databricks and Apache Spark](https://blog.anant.us/comparing-databricks-and-apache-spark/) (2020)
@@ -25,6 +23,13 @@ title: Databricks Software Stack
   * [Diving Into Delta Lake: Schema Enforcement & Evolution](https://databricks.com/blog/2019/09/24/diving-into-delta-lake-schema-enforcement-evolution.html)
   * [5 things I wish I knew about Databricks … before I started](https://www.confessionsofadataguy.com/5-things-i-wish-i-knew-about-databricks-before-i-started/) (2022)
   * [Databricks Access Control – The 3 Most Important Steps](https://www.confessionsofadataguy.com/databricks-access-control-the-3-most-important-steps/) (2022)
+
+* Containers
+  * Conde Nast: [Bring Your Own Container: Using Docker Images In Production](https://www.databricks.com/session_na21/bring-your-own-container-using-docker-images-in-production) (2021)
+  * Docs
+    * [Databricks Runtime for Machine Learning ](https://docs.databricks.com/runtime/mlruntime.html#create-a-cluster-using-databricks-runtime-ml)
+    * [Workspace Libraries](https://docs.databricks.com/libraries/workspace-libraries.html)
+    * [Simplify Python environment management on Databricks Runtime for Machine Learning using %pip and %conda](https://www.databricks.com/blog/2020/06/17/simplify-python-environment-management-on-databricks-runtime-for-machine-learning-using-pip-and-conda.html)
 
 * SSO
   * [AWS single sign-on (SSO)](https://docs.databricks.com/administration-guide/users-groups/single-sign-on/aws.html)
