@@ -221,6 +221,11 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
   * IAS Seminar on Theoretical ML: [Graph Nets: The Next Generation](https://www.youtube.com/watch?v=Wx8J-Kw3fTA) (2020)
 *  Machine Learning Street Talk #75: [Emergence with Danielle Grattarola](https://www.youtube.com/watch?v=MDt2e8XtUcA) (2022)
 
+# Generative Models
+* [Stable Diffusion: DALL-E 2 For Free, For Everyone!](https://www.youtube.com/watch?v=nVhmFski3vg)
+* [Tutorial on diffusion](https://www.youtube.com/watch?v=cS6JQpEY9cs) (3.5 hrs)
+* [MIT 6.S192 - Lecture 20: Generative art using diffusion](https://www.youtube.com/watch?v=xYJEvihz3OI), by Prafulla Dhariwal
+
 # Causality
 * [Causality for Machine Learning](https://arxiv.org/pdf/1911.10500.pdf), Bernhard Schölkopf (2019)
 * Y. Bengio talk: [Deep Learning Cognition](https://www.youtube.com/watch?v=GibjI5FoZsE) (2020)
