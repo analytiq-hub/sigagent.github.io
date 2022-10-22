@@ -7,6 +7,13 @@ title: Databricks Software Stack
 [Databricks](https://databricks.com/), [docs](https://docs.databricks.com/applications/machine-learning/index.html#databricks-machine-learning-overview)
 
 #### Conferences
+* [Data+AI Summit 2022](https://databricks.com/dataaisummit/north-america-2022)
+* [Spark AI Archives](https://databricks.com/sparkaisummit/north-america/sessions)
+  * [Introducing MLflow for End-to-End Machine Learning on Databricks](https://databricks.com/session_na20/introducing-mlflow-for-end-to-end-machine-learning-on-databricks), S. Owen (2020)
+  * [A Journey to Building an Autonomous Streaming Data Platform—Scaling to Trillion Events Monthly at Nvidia](https://databricks.com/session/a-journey-to-building-an-autonomous-streaming-data-platform-scaling-to-trillion-events-monthly-at-nvidia), Satish Dandu (2020)
+  * [Lessons Learned from Using Spark for Evaluating Road Detection at BMW Autonomous Driving](https://www.youtube.com/watch?v=npYCeBzGxCA), Gheorghe Pucea (2019)
+  * [Apple: Threat Detection and Response at Scale](https://databricks.com/session/keynote-from-apple), D. Brezinski (2018)
+  * [MLflow Pipelines: Accelerating MLOps from Development to Production](https://www.databricks.com/dataaisummit/session/mlflow-pipelines-accelerating-mlops-development-production) (2022)
 
 #### Papers
 * Matei Zaharia et al: [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf) (2012)
@@ -58,6 +65,22 @@ title: Databricks Software Stack
 #### ML
 * [The Big Book Of Machine Learning Use Cases](https://www.databricks.com/explore/data-science-machine-learning/big-book-of-ml)
 * [The Big Book of MLOps](https://www.databricks.com/explore/data-science-machine-learning/big-book-of-MLOps)
+
+#### MLFlow
+* Workshop: Managing the Complete Machine Learning Lifecycle with MLflow [1](https://www.youtube.com/watch?v=x3cxvsUFVZA) [2](https://www.youtube.com/watch?v=g5ibwiSH1uA) [3](https://www.youtube.com/watch?v=AxYmj8ufKKY) [2020]
+* Vaibhav Satpathy
+  * [Setup MLflow on AWS EC2](https://medium.com/analytics-vidhya/setup-mlflow-on-aws-ec2-94b8e473618f) (2021)
+  * MLOps deployment on AWS Fargate: [I](https://medium.com/@vaibhavsatpathy/mlops-deployment-into-aws-fargate-i-bd612af5dd7a) [II](https://medium.com/analytics-vidhya/mlops-deployment-in-to-aws-fargate-ii-95321942b9e1) (2021)
+
+#### Computer Vision
+* Claudiu Barbura: [Video Analytics At Scale: DL, CV, ML On Databricks Platform](https://databricks.com/session_na21/video-analytics-at-scale-dl-cv-ml-on-databricks-platform) (2021)
+
+#### Distributed Training
+* Horovod
+  * Databricks docs: [Introducing HorovodRunner for Distributed Deep Learning Training](https://databricks.com/blog/2018/11/19/introducing-horovodrunner-for-distributed-deep-learning-training.html)
+  * Databricks docs: [HorovodRunner: distributed deep learning with Horovod ](https://docs.databricks.com/applications/machine-learning/train-model/distributed-training/horovod-runner.html)
+  * T. Addair: [End-to-End Deep Learning with Horovod on Apache Spark](https://databricks.com/session_na20/end-to-end-deep-learning-with-horovod-on-apache-spark) (2020)
+
 
 #### Security
 * [Security Best Practices for AWS on Databricks](https://www.databricks.com/blog/2021/05/24/security-best-practices-for-aws-on-databricks.html)

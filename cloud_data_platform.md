@@ -3,19 +3,6 @@ layout: page
 mathjax: true
 title: Cloud Data Platform
 ---
-#### Books
-
-#### Conferences
-* [Data+AI Summit 2022](https://databricks.com/dataaisummit/north-america-2022)
-* [Spark AI Archives](https://databricks.com/sparkaisummit/north-america/sessions)
-  * [Introducing MLflow for End-to-End Machine Learning on Databricks](https://databricks.com/session_na20/introducing-mlflow-for-end-to-end-machine-learning-on-databricks), S. Owen (2020)
-  * [A Journey to Building an Autonomous Streaming Data Platform—Scaling to Trillion Events Monthly at Nvidia](https://databricks.com/session/a-journey-to-building-an-autonomous-streaming-data-platform-scaling-to-trillion-events-monthly-at-nvidia), Satish Dandu (2020)
-  * [Lessons Learned from Using Spark for Evaluating Road Detection at BMW Autonomous Driving](https://www.youtube.com/watch?v=npYCeBzGxCA), Gheorghe Pucea (2019)
-  * [Apple: Threat Detection and Response at Scale](https://databricks.com/session/keynote-from-apple), D. Brezinski (2018)
-  * [MLflow Pipelines: Accelerating MLOps from Development to Production](https://www.databricks.com/dataaisummit/session/mlflow-pipelines-accelerating-mlops-development-production) (2022)
-
-#### Seminars
-
 #### Software Stacks
 * [BDAS, the Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/)
 * [Databricks](software_stack/databricks.md)
@@ -34,13 +21,11 @@ title: Cloud Data Platform
   
 
 #### Tutorials
-* Workshop: Managing the Complete Machine Learning Lifecycle with MLflow [1](https://www.youtube.com/watch?v=x3cxvsUFVZA) [2](https://www.youtube.com/watch?v=g5ibwiSH1uA) [3](https://www.youtube.com/watch?v=AxYmj8ufKKY) [2020]
 * [Ray on Databricks](https://databricks.com/blog/2021/11/19/ray-on-databricks.html)
 
 #### Videos
 * Ali Ghodsi
   * [Realizing the Vision of the Data Lakehouse](https://www.youtube.com/watch?v=g11y-kJHr3I), Keynote Spark + AI Summit 2020
-* Claudiu Barbura: [Video Analytics At Scale: DL, CV, ML On Databricks Platform](https://databricks.com/session_na21/video-analytics-at-scale-dl-cv-ml-on-databricks-platform) (2021)
 * How to Build a Cloud Data Platform (2020)
   * [Architecture](https://www.youtube.com/watch?v=uhVpLwjEOKU)
   * [Coding - ETL processing, manage late arrival data, repairing corrupted data](https://www.youtube.com/watch?v=iLP571HBP6g)
@@ -61,14 +46,7 @@ title: Cloud Data Platform
   * W. Crowell: [Spark vs. Hadoop vs. Hive: Key Differences and Use Cases](https://www.openlogic.com/blog/spark-vs-hadoop) (2021)
 * HDF5
   * B. Holländer: [HDF5 Datasets For PyTorch](https://towardsdatascience.com/hdf5-datasets-for-pytorch-631ff1d750f5) (2019)
-* Horovod
-  * Databricks docs: [Introducing HorovodRunner for Distributed Deep Learning Training](https://databricks.com/blog/2018/11/19/introducing-horovodrunner-for-distributed-deep-learning-training.html)
-  * Databricks docs: [HorovodRunner: distributed deep learning with Horovod ](https://docs.databricks.com/applications/machine-learning/train-model/distributed-training/horovod-runner.html)
-  * T. Addair: [End-to-End Deep Learning with Horovod on Apache Spark](https://databricks.com/session_na20/end-to-end-deep-learning-with-horovod-on-apache-spark) (2020)
 * MLFlow
-  * Vaibhav Satpathy
-    * [Setup MLflow on AWS EC2](https://medium.com/analytics-vidhya/setup-mlflow-on-aws-ec2-94b8e473618f) (2021)
-    * MLOps deployment on AWS Fargate: [I](https://medium.com/@vaibhavsatpathy/mlops-deployment-into-aws-fargate-i-bd612af5dd7a) [II](https://medium.com/analytics-vidhya/mlops-deployment-in-to-aws-fargate-ii-95321942b9e1) (2021)
   * [ML-Ops, Part 1: Organise your ML Experiments with ML-Flow on AWS](https://allcloud.io/blog/organise-your-ml-experiments-with-mlflow-on-aws/)
   * S. Hamiti, S. Subramania: [Managing your machine learning lifecycle with MLflow and Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/), [repo](https://github.com/aws-samples/amazon-sagemaker-mlflow-fargate)
 * Spark
