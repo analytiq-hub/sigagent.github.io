@@ -68,7 +68,7 @@ title: Databricks Software Stack
 * [The Big Book of MLOps](https://www.databricks.com/explore/data-science-machine-learning/big-book-of-MLOps)
 
 #### MLFlow
-* Workshop: Managing the Complete Machine Learning Lifecycle with MLflow [1](https://www.youtube.com/watch?v=x3cxvsUFVZA) [2](https://www.youtube.com/watch?v=g5ibwiSH1uA) [3](https://www.youtube.com/watch?v=AxYmj8ufKKY) [2020]
+* Workshop: Managing the Complete Machine Learning Lifecycle with MLflow [1](https://www.databricks.com/discover/managing-machine-learning-lifecycle/mlflow-tracking) [2](https://www.databricks.com/discover/managing-machine-learning-lifecycle/mlflow-projects-and-models) [3](https://www.databricks.com/discover/managing-machine-learning-lifecycle/mlflow-model-registry-workflows) [2020]
 * Vaibhav Satpathy
   * [Setup MLflow on AWS EC2](https://medium.com/analytics-vidhya/setup-mlflow-on-aws-ec2-94b8e473618f) (2021)
   * MLOps deployment on AWS Fargate: [I](https://medium.com/@vaibhavsatpathy/mlops-deployment-into-aws-fargate-i-bd612af5dd7a) [II](https://medium.com/analytics-vidhya/mlops-deployment-in-to-aws-fargate-ii-95321942b9e1) (2021)
