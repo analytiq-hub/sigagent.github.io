@@ -11,6 +11,7 @@ title: Film
 * [Das Blaue Licht](https://www.youtube.com/watch?v=m6wnEGQhmQ4&t=238s) (1932), directed by Leni Riefenstahl
 * [The Garden of the Finzi-Continis](https://www.imdb.com/title/tt0065777/) (1970), directed by Vittorio de Sica. Giorgio Bassani's [Novel](https://www.amazon.com/Garden-Finzi-Continis-Giorgio-Bassani/dp/0156345706).
   * Luigi Gaudio's [talk](https://www.youtube.com/watch?v=jEx-vy7PL0s) (italian with subtitles).
+* [Ivanhoe](https://www.amazon.com/gp/video/detail/B07C1GQJ1V), BBC production (1997) with Ciarán Hinds
 
 #### Books
 * Simon Callow's Orson Welles biography
