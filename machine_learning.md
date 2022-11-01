@@ -136,6 +136,7 @@ title: Machine Learning
 * Mihail Eric: [MLOps Is a Mess But That's to be Expected](https://www.mihaileric.com/posts/mlops-is-a-mess/) (2022)
 * Matt Turk: [Red Hot: The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/)
 * A. Kumar, I. Kostrikov, S. Levine: [Should I Use Offline RL or Imitation Learning?](https://bair.berkeley.edu/blog/2022/04/25/rl-or-bc/) (2022)
+* Giuliano Giacaglia: [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591) (2019)
 
 #### Folding
 * [MIT Robotics - David Held - Perceptual Robot Learning](https://www.youtube.com/watch?v=YSj4cIFxvhc) (2021)
