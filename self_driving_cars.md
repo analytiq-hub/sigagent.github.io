@@ -206,6 +206,7 @@ title: Self Driving Cars
     * [AI for Full-Self Driving at Tesla](https://www.youtube.com/watch?v=hx7BXih7zx8) (ScaledML 2020)
     * [Workshop on autonomous driving](https://www.youtube.com/watch?v=g6bOwQdCJrc) (CVPR 2021)
     * [Workshop on autonomous driving](https://www.youtube.com/watch?v=jPCV4GKX9Dw) (CVPR 2022)
+    * Lex Fridman Podcast #333: [Tesla AI, Self-Driving, Optimus, Aliens, and AGI](https://www.youtube.com/watch?v=cdiD-9MMpb0) (2022)
 * Nuro
   * Albert Meixner, NURO head of Software
     * [An Overview of the Nuro Autonomy Stack](https://www.youtube.com/watch?v=2atwiP6KTao&t=320s) (2022)
