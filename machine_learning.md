@@ -113,6 +113,7 @@ title: Machine Learning
 
 #### Interviews
 * Lex Fridman
+  * [Whisper captions](https://karpathy.ai/lexicap/) by Andrej Karpathy
   * [Ian Goodfellow: Generative Adversarial Networks (GANs)](https://www.youtube.com/watch?v=Z6rxFNMGdn0&t=979s), Lex Fridman Podcast #19 (2019)
   * [Yann LeCun: Deep Learning, ConvNets, and Self-Supervised Learning](https://www.youtube.com/watch?v=SGSOCuByo24), Lex Firdman Podcast #36 (2019)
   * [Stephen Wolfram: Cellular Automata, Computation, and Physics](https://www.youtube.com/watch?v=ez773teNFYA&t=2539s), Lex Fridman Podcast #89 (2020)
