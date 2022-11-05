@@ -234,6 +234,8 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 
 # Attention
 * MIT 6.S191: [Recurrent Neural Networks and Transformers](https://www.youtube.com/watch?v=QvkQ1B3FBqA&t=1721s) (2022)
+* Leo Dirac: [LSTM is dead. Long Live Transformers!](https://www.youtube.com/watch?v=S27pHKBEp30) (2019)
+* Sebastian Raschka: [L19.5.1 The Transformer Architecture](https://www.youtube.com/watch?v=tstbZXNCfLY)
 
 #### Language Models
 * [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) (2021)
