@@ -232,6 +232,9 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [Causality for Machine Learning](https://arxiv.org/pdf/1911.10500.pdf), Bernhard Schölkopf (2019)
 * Y. Bengio talk: [Deep Learning Cognition](https://www.youtube.com/watch?v=GibjI5FoZsE) (2020)
 
+# Attention
+* MIT 6.S191: [Recurrent Neural Networks and Transformers](https://www.youtube.com/watch?v=QvkQ1B3FBqA&t=1721s) (2022)
+
 #### Language Models
 * [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) (2021)
 
