@@ -39,6 +39,7 @@ title: Machine Learning
   * 6.036 Artificial Intelligence: Patrick Winston Fall 2010 [videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi), Tamara Broderick Fall 2020 [videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi), [slides](https://tamarabroderick.com/ml.html)
   * 6.S191 Introduction to Deep Learning, [IAP 2022](http://introtodeeplearning.com/) [upcoming videos](https://www.youtube.com/channel/UCtslD4DGH6PKyG_1gFAX7sg)
   * 9.520/6.860 Statistical Learning Theory and Applications, [Fall 2019](http://www.mit.edu/~9.520/fall19/), [Fall 2021](https://cbmm.mit.edu/9-520), [videos](https://cbmm.mit.edu/9-520/videos)
+* Sebastian Rashka: [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html), 170 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers
 * [Stanford](https://www.youtube.com/user/stanfordonline/playlists)
   * [CS221](https://stanford-cs221.github.io): Artificial Intelligence: Principles and Techniques (Autumn 2019), [syllabus](https://stanford-cs221.github.io/autumn2019/),[video](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
   * CS229 - Machine Learning, Autumn 2018 [video](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) , [slides](http://cs229.stanford.edu/syllabus-autumn2018.html), Summer 2021 [video, slides](http://cs229.stanford.edu/syllabus-summer2019.html)
