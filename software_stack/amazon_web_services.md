@@ -29,6 +29,7 @@ title: Amazon Web Services
 * FSx
   * [Scalable and Cost-Effective Batch Processing for ML workloads with AWS Batch and Amazon FSx](https://aws.amazon.com/blogs/hpc/ml-training-with-aws-batch-and-amazon-fsx/) (2021)
   * [Speed up training on Amazon SageMaker using Amazon FSx for Lustre and Amazon EFS file systems](https://aws.amazon.com/blogs/machine-learning/speed-up-training-on-amazon-sagemaker-using-amazon-efs-or-amazon-fsx-for-lustre-file-systems/) (2019)
+  * netapp.com: [FSx for Lustre: Use Cases, Architecture, and Deployment Options](https://cloud.netapp.com/blog/aws-fsxo-blg-fsx-for-lustre-use-cases-architecture-deployment-options) (2021)
 * Networking
   * VPC
     * Enlear Academy: [AWS VPC - A Crash Course](https://www.youtube.com/watch?v=cEbJZdZxJ5A) (2020)
