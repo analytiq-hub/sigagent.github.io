@@ -23,6 +23,7 @@ title: Machine Learning
 * M. Kochenderfer et al: [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf) (2022)
   * IJCAI keynote talk: [Automated Decision Making for Safety Critical Applications](https://www.youtube.com/watch?v=9b4jryW1JtA) (2021)
 * A. Zheng, A. Casari: [Feature Engineering](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241/) (2018)
+* S. Raschka et al: [Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319), [github](https://github.com/rasbt/machine-learning-book), [Andrei's fork](https://github.com/andrei-radulescu-banu/machine-learning-book)
 
 #### Courses
 * P. Abbeel: [Foundations of Deep RL in 6 Lectures](https://www.youtube.com/watch?v=2GwBez0D20A&list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) (2021), [slides](https://www.dropbox.com/s/f9xyrdkpqugtrvq/l1-mdps-exact-methods.pdf?dl=0)
