@@ -77,6 +77,7 @@ title: Machine Learning
   * Sebastian Raschka: [Taking Datasets, DataLoaders, and PyTorch’s New DataPipes for a Spin](https://sebastianraschka.com/blog/2022/datapipes.html) (2022)
 * [Scikit](https://scikit-learn.org/stable/)
   * [API design for machine learning software: experiences from the scikit-learn project](https://arxiv.org/pdf/1309.0238.pdf) (2013)
+  * Jake VanderPlas: [Python Data Science Handbook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb), a Colab book
 * TensorFlow
   * [CS231_n](http://cs231n.stanford.edu) [Lecture 8, Deep Learning Software](https://www.youtube.com/watch?v=6SlgtELqOWc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=8&t=3s), [2017 slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf), [2021 slides](http://cs231n.stanford.edu/slides/2021/lecture_6.pdf) compares TensorFlow, PyTorch, Caffe, discusses static and dynamic computation graphs
   * [Keras Tutorials](https://techvidvan.com/tutorials/keras-introduction-tutorial/)
