@@ -81,6 +81,8 @@ title: Databricks Software Stack
   * Databricks docs: [Introducing HorovodRunner for Distributed Deep Learning Training](https://databricks.com/blog/2018/11/19/introducing-horovodrunner-for-distributed-deep-learning-training.html)
   * Databricks docs: [HorovodRunner: distributed deep learning with Horovod ](https://docs.databricks.com/applications/machine-learning/train-model/distributed-training/horovod-runner.html)
   * T. Addair: [End-to-End Deep Learning with Horovod on Apache Spark](https://databricks.com/session_na20/end-to-end-deep-learning-with-horovod-on-apache-spark) (2020)
+* Project Hydrogen
+  * [Updates from Project Hydrogen: Unifying State-of-the-Art AI and Big Data in Apache Spark NA](https://www.databricks.com/session/updates-from-project-hydrogen-unifying-state-of-the-art-ai-and-big-data-in-apache-spark) (2020)
 
 
 #### Security
