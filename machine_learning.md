@@ -69,6 +69,8 @@ title: Machine Learning
 * [OpenReview](https://openreview.net/)
 
 #### Tools
+* [Apache Ignite ML](https://ignite.apache.org/docs/latest/machine-learning/machine-learning)
+  * A. Zinoviev: [Apache Ignite ML: origins and development](https://zaleslaw.medium.com/apache-ignite-ml-origins-and-development-d49a19e67202) (2020)
 * Jax
   * EI Seminar: Matthew Johnson: [JAX: accelerated ML research via composable function transformations](https://www.youtube.com/watch?v=mVf3HJ6gNDc)
 * PyTorch
