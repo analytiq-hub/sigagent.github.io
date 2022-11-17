@@ -155,6 +155,9 @@ title: Machine Learning
 * A. Kumar, I. Kostrikov, S. Levine: [Should I Use Offline RL or Imitation Learning?](https://bair.berkeley.edu/blog/2022/04/25/rl-or-bc/) (2022)
 * Giuliano Giacaglia: [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591) (2019)
 
+#### Linear Discriminant Analysis (LDA)
+* G. Chen: Math 253: Mathematical Methods for Data Visualization: [Lec 11, LDA](https://www.sjsu.edu/faculty/guangliang.chen/Math253S20/lec11lda.pdf), explains math behind LDA
+
 #### Folding
 * [MIT Robotics - David Held - Perceptual Robot Learning](https://www.youtube.com/watch?v=YSj4cIFxvhc) (2021)
 
