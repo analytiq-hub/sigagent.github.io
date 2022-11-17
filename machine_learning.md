@@ -157,6 +157,7 @@ title: Machine Learning
 
 #### Linear Discriminant Analysis (LDA)
 * G. Chen: Math 253: Mathematical Methods for Data Visualization: [Lec 11, LDA](https://www.sjsu.edu/faculty/guangliang.chen/Math253S20/lec11lda.pdf), explains math behind LDA
+* B. Ghojogh: [Eigenvalue and Generalized Eigenvalue Problems: Tutorial](https://arxiv.org/pdf/1903.11240.pdf) (2022)
 
 #### Folding
 * [MIT Robotics - David Held - Perceptual Robot Learning](https://www.youtube.com/watch?v=YSj4cIFxvhc) (2021)
