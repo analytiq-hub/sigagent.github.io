@@ -189,6 +189,8 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization](https://arxiv.org/pdf/1406.2572.pdf), Y. Dauphin et al (2014)
 * [optim.Adam vs optim.SGD. Let’s dive in](https://medium.com/@Biboswan98/optim-adam-vs-optim-sgd-lets-dive-in-8dbf1890fbdc)
 * [fast.ai](https://www.fast.ai): [AdamW and Super-convergence is now the fastest way to train neural nets ](https://www.fast.ai/2018/07/02/adam-weight-decay/), by S. Gugger and J. Howard (2018)
+* S. Raschka [L12: Learning rates and advanced optimization algorithms](https://sebastianraschka.com/blog/2021/dl-course.html#l12-learning-rates-and-advanced-optimization-algorithms) (2020)
+* P. Wirth: [Which Optimizer should I use for my ML Project?](https://www.lightly.ai/post/which-optimizer-should-i-use-for-my-machine-learning-project) (2020)
 
 #### GPUs
 * [Tim Dettmers](https://timdettmers.com/)
