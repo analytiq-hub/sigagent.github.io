@@ -48,6 +48,7 @@ title: Automated Theorem Proving
 * [Thierry Coquand](http://www.cse.chalmers.se/~coquand/)
 * [Christian Szegedy](https://research.google/people/ChristianSzegedy/)
 * [Vladimir Voevodsky](https://www.math.ias.edu/vladimir/home) (1966-2017)
+* [Yuhuai(Tony) Wu](http://www.cs.toronto.edu/~ywu/)
 
 
 #### Other
