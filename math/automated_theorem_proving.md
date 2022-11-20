@@ -31,6 +31,7 @@ title: Automated Theorem Proving
 * C. Szegedy
   * [Formal Reasoning, Program Synthesis](https://www.youtube.com/watch?v=ehNGGYFO6ms) (2021)
   * [Scale.ai interview with C. Szegedy](https://www.youtube.com/watch?v=p_UXra-_ORQ)
+* Adam Pease: [How (and why) to Build and Automated Theorem Prover: De-mystifying Logical Inference](https://www.youtube.com/watch?v=J3Pm43O48Uo) (2021)
 
 #### Summer Schools
 * [School on Univalent Mathematics '22](https://unimath.github.io/cortona2022/), ['19](https://unimath.github.io/Schools/)
