@@ -33,6 +33,10 @@ title: Automated Theorem Proving
   * [Scale.ai interview with C. Szegedy](https://www.youtube.com/watch?v=p_UXra-_ORQ)
 * Adam Pease: [How (and why) to Build and Automated Theorem Prover: De-mystifying Logical Inference](https://www.youtube.com/watch?v=J3Pm43O48Uo) (2021)
 
+#### Seminars
+* Harvard CMSA: [New Technologies in Mathematics](https://www.youtube.com/watch?v=5AoOpFFjW28)
+  * Yuhai Wu: [Memorizing Transformers](https://www.youtube.com/watch?v=5AoOpFFjW28) (2022)
+
 #### Summer Schools
 * [School on Univalent Mathematics '22](https://unimath.github.io/cortona2022/), ['19](https://unimath.github.io/Schools/)
 
