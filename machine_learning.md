@@ -264,9 +264,11 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 #### Language Models
 * [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) (2021)
 
+#### Dataset Pruning
+* Surya Ganguli: [Statistical mechanics of neural networks](https://www.youtube.com/watch?v=D_TyXVzD3hs) (2022), 2nd part
+
 #### News Ranking
 * X. Ni et al: [Prioritizing Original News on Facebook](https://arxiv.org/pdf/2102.08465.pdf) (2021)
-
 
 #### Identifying Harmful Content
 * Facebook: [Harmful content can evolve quickly. Our new AI system adapts to tackle it.](https://ai.facebook.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/) (2021)
