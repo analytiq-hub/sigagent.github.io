@@ -156,6 +156,9 @@ title: Machine Learning
 * Matt Turk: [Red Hot: The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/)
 * A. Kumar, I. Kostrikov, S. Levine: [Should I Use Offline RL or Imitation Learning?](https://bair.berkeley.edu/blog/2022/04/25/rl-or-bc/) (2022)
 * Giuliano Giacaglia: [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591) (2019)
+* Sebastian Raschka [Ahead of AI](https://www.linkedin.com/newsletters/ahead-of-ai-6994407435943772160/) (2022)
+  * [#1: A Diffusion of Innovations](https://www.linkedin.com/pulse/ahead-ai-1-diffusion-innovations-sebastian-raschka-phd/)
+  * [#2 - Transformers, Fast and Slow](https://www.linkedin.com/pulse/ahead-ai-2-transformers-fast-slow-sebastian-raschka-phd/?trackingId=h2oFDMetQ%2FyynqBmG4FUzQ%3D%3D)
 
 #### Linear Discriminant Analysis (LDA)
 * G. Chen: Math 253: Mathematical Methods for Data Visualization: [Lec 11, LDA](https://www.sjsu.edu/faculty/guangliang.chen/Math253S20/lec11lda.pdf), explains math behind LDA
