@@ -18,8 +18,7 @@ title: Yoga and Pilates
 * Hip flexibility
   * [30m stretch routine](https://www.youtube.com/watch?v=RvCntPg7oPE) (2021)
 * Abs
-  * [30 Min Ab Workout](https://www.youtube.com/watch?v=AdWyo_3KrfA) (2017)
-  * [20 Min Ultimate Ab Workout](https://www.youtube.com/watch?v=q6NIWNnvOK0) (2017)
+  * Christine Khuri:, [30 Min Ab Workout](https://www.youtube.com/watch?v=AdWyo_3KrfA), [20 Min Ultimate Ab Workout](https://www.youtube.com/watch?v=q6NIWNnvOK0) (2017)
 * Arms and legs
   * [30m arms & legs workout - at home Pilates](https://www.youtube.com/watch?v=XM6N1yl3UYw)
 * Handstand
