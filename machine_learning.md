@@ -28,6 +28,7 @@ title: Machine Learning
 
 #### Courses
 * P. Abbeel: [Foundations of Deep RL in 6 Lectures](https://www.youtube.com/watch?v=2GwBez0D20A&list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) (2021), [slides](https://www.dropbox.com/s/f9xyrdkpqugtrvq/l1-mdps-exact-methods.pdf?dl=0)
+* University of Amsterdam: [UVA Deep Learning Course](https://uvadlc.github.io/), [UVA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
 * Yann LeCun [Deep Learning](https://www.youtube.com/watch?v=ChLEJA6J2b8&list=PL80I41oVxglJ0kTDV7i3aHBIXe65nTxE7&index=6) course at College de France (2016)
 * G. Hinton: [Neural Networks for Machine Learning](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) (2012)
 * G. Hulten: [Machine Learning Course](https://www.youtube.com/watch?v=jxWbJz49HCg&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO) (2021). Andrei's [notes](machine_learning/geoff_hulten_machine_learning_course.md).
