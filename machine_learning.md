@@ -102,6 +102,7 @@ title: Machine Learning
 #### Convolutional Nets
 * [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567v1.pdf), C. Szegedy el at (2015)
 * Blog: [Speeding up Convolutional Neural Networks](https://towardsdatascience.com/speeding-up-convolutional-neural-networks-240beac5e30f), [Alex Burlacu](https://alexandruburlacu.github.io/) (2018)
+* M. Tang et al: [EfficientNetV2: Smaller Models and Faster Training](https://arxiv.org/pdf/2104.00298.pdf) (2021), [github](https://github.com/d-li14/efficientnetv2.pytorch)
 
 #### Videos
 * 3Blue1Brown Series
