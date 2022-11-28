@@ -42,7 +42,7 @@ title: Machine Learning
   * 6.036 Artificial Intelligence: Patrick Winston Fall 2010 [videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi), Tamara Broderick Fall 2020 [videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi), [slides](https://tamarabroderick.com/ml.html)
   * 6.S191 Introduction to Deep Learning, [IAP 2022](http://introtodeeplearning.com/) [upcoming videos](https://www.youtube.com/channel/UCtslD4DGH6PKyG_1gFAX7sg)
   * 9.520/6.860 Statistical Learning Theory and Applications, [Fall 2019](http://www.mit.edu/~9.520/fall19/), [Fall 2021](https://cbmm.mit.edu/9-520), [videos](https://cbmm.mit.edu/9-520/videos)
-* Sebastian Rashka:
+* Sebastian Raschka:
   * [Introduction to Machine Learning](https://sebastianraschka.com/blog/2021/ml-course.html) - Tree-based Methods, Model Evaluation, and Feature Selection
   * [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html), 170 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers
   * Github: [stat453-deep-learning-ss21](https://github.com/rasbt/stat453-deep-learning-ss21), [deeplearning-models](https://github.com/rasbt/deeplearning-models), [Andrei's fork](https://github.com/andrei-radulescu-banu/deeplearning-models)
