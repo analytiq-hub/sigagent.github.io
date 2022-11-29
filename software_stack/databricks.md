@@ -84,13 +84,15 @@ title: Databricks Software Stack
 * Project Hydrogen
   * [Updates from Project Hydrogen: Unifying State-of-the-Art AI and Big Data in Apache Spark NA](https://www.databricks.com/session/updates-from-project-hydrogen-unifying-state-of-the-art-ai-and-big-data-in-apache-spark) (2020)
 
-
 #### Security
 * [Security Best Practices for AWS on Databricks](https://www.databricks.com/blog/2021/05/24/security-best-practices-for-aws-on-databricks.html)
 * [Security and compliance for your Lakehouse on AWS](https://www.databricks.com/product/aws/security-and-compliance)
 
 #### Data Sharing
 * [Delta Sharing](https://www.youtube.com/embed/HQRusxdkwFo)
+
+#### Dashboards
+* [Advancing Spark - The Hidden Databricks Dashboard Tool](https://www.youtube.com/watch?v=3va2K-vfTQE) (2020)
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
