@@ -131,7 +131,7 @@ Q: In Spark, how do I use the 'foreach' transformation?
 
 In Spark, the `foreach` transformation can be used to apply a function to each element in an RDD (Resilient Distributed Dataset) without returning a new RDD. This can be useful when you want to perform an action on each element in an RDD, such as writing the element to a database or sending it to a remote service.
 
-Here is an example of how you might use the foreach transformation in Spark:
+Here is an example of how you might use the `foreach` transformation in Spark:
 
 ```
 # Define the function that you want to apply to each element in the RDD
