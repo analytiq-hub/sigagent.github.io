@@ -247,12 +247,15 @@ Modifying `sys.path` inside a function passed to the `foreach` transformation ca
 
 ---
 
-In Spark, how do I save data to a Delta table from inside a my_function() called with foreach()?
+Q: In Spark, how do I save data to a Delta table from inside a `my_function()` called with `foreach()`?
 
-In Spark, you can save data to a Delta table from inside a function that you pass as an argument to the foreach transformation. To do this, you will need to use the saveAsTable method of the DataFrameWriter class, which allows you to write the contents of a DataFrame to a Delta table.
+---
+
+In Spark, you can save data to a Delta table from inside a function that you pass as an argument to the foreach transformation. To do this, you will need to use the `saveAsTable` method of the `DataFrameWriter` class, which allows you to write the contents of a DataFrame to a Delta table.
 
 Here is an example of how you might save data to a Delta table from inside a function passed to the foreach transformation in Spark:
 
+```
 # Define the function that you want to apply to each element in the RDD
 def my_function(x):
     # Create a DataFrame from the data in x
@@ -269,3 +272,4 @@ data_rdd = sc.parallelize([1, 2, 3, 4, 5])
 data_rdd.foreach(my_function)
 
 # The function will now be executed on the worker nodes of the cluster
+```
