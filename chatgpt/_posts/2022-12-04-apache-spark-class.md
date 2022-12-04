@@ -32,35 +32,35 @@ This is a high-level overview of how to perform distributed PyTorch training in 
 
 ---
 
-Q: How does spark-submit work?
+Q: How does `spark-submit` work?
 
 ---
 
-spark-submit is a command-line tool used to submit Spark applications to a cluster for execution. It can be used to submit applications written in Scala, Java, Python, and other programming languages that are supported by the Apache Spark platform.
+`spark-submit` is a command-line tool used to submit Spark applications to a cluster for execution. It can be used to submit applications written in Scala, Java, Python, and other programming languages that are supported by the Apache Spark platform.
 
-When you run the spark-submit command, it first connects to the Spark cluster and then uploads your application code and any necessary dependencies to the cluster. Once the code is on the cluster, spark-submit will use the Spark Master to schedule the execution of your application on the cluster.
+When you run the `spark-submit` command, it first connects to the Spark cluster and then uploads your application code and any necessary dependencies to the cluster. Once the code is on the cluster, `spark-submit` will use the Spark Master to schedule the execution of your application on the cluster.
 
-The spark-submit command takes a number of arguments and configuration options that determine how your application will be executed. For example, you can use spark-submit to specify the number of executors to use, the amount of memory to allocate to each executor, and the location of your application code.
+The `spark-submit` command takes a number of arguments and configuration options that determine how your application will be executed. For example, you can use `spark-submit` to specify the number of executors to use, the amount of memory to allocate to each executor, and the location of your application code.
 
-Once your application is running on the cluster, spark-submit will monitor its progress and provide status updates. It will also handle any errors or failures that occur during execution and provide relevant log information to help you diagnose and fix any issues.
+Once your application is running on the cluster, `spark-submit` will monitor its progress and provide status updates. It will also handle any errors or failures that occur during execution and provide relevant log information to help you diagnose and fix any issues.
 
-Overall, spark-submit is a valuable tool for launching and managing Spark applications on a cluster. It simplifies the process of submitting and running Spark applications, allowing you to focus on writing and optimizing your application code.
-
----
-
-Q: In Databricks, do I need to use spark-submit, or is there a simpler way to schedule Spark jobs?
+Overall, `spark-submit` is a valuable tool for launching and managing Spark applications on a cluster. It simplifies the process of submitting and running Spark applications, allowing you to focus on writing and optimizing your application code.
 
 ---
 
-A: In Databricks, you do not need to use the spark-submit command to schedule Spark jobs. Databricks provides a web-based user interface and a set of APIs that you can use to manage your Spark clusters and submit Spark jobs.
+Q: In Databricks, do I need to use `spark-submit`, or is there a simpler way to schedule Spark jobs?
+
+---
+
+A: In Databricks, you do not need to use the `spark-submit` command to schedule Spark jobs. Databricks provides a web-based user interface and a set of APIs that you can use to manage your Spark clusters and submit Spark jobs.
 
 To schedule a Spark job in Databricks, you can use the Jobs page in the Databricks workspace. This page allows you to create, view, and manage your Spark jobs. You can use it to specify the parameters and configuration options for your Spark job, such as the language the job is written in, the main class or script to run, and the cluster to run the job on.
 
-Once you have created a Spark job in Databricks, you can use the Schedule page to specify when and how often the job should be run. You can schedule jobs to run on a regular schedule, or you can trigger them to run on demand.
+Once you have created a Spark job in Databricks, you can use the `Schedule` page to specify when and how often the job should be run. You can schedule jobs to run on a regular schedule, or you can trigger them to run on demand.
 
 In addition to the web-based user interface, Databricks also provides a set of APIs that you can use to programmatically submit and manage Spark jobs. This allows you to integrate Spark job scheduling into your existing workflow and automate the process of running Spark jobs.
 
-Overall, using the Databricks workspace and APIs to schedule Spark jobs is a simpler and more convenient alternative to using the spark-submit command. It provides a user-friendly interface and a set of powerful tools for managing and running Spark jobs on your Databricks clusters.
+Overall, using the Databricks workspace and APIs to schedule Spark jobs is a simpler and more convenient alternative to using the `spark-submit` command. It provides a user-friendly interface and a set of powerful tools for managing and running Spark jobs on your Databricks clusters.
 
 ---
 
@@ -75,8 +75,12 @@ Spark is a distributed computing platform that is well-suited to processing larg
 If you want to parse ROS bags in Spark, you will need to write custom code to extract the data from the ROS bags and convert it into a format that can be processed by Spark. This can be a challenging and time-consuming task, and it may not provide the best performance or scalability compared to other approaches.
 
 If you need to process large volumes of data from ROS bags, you may want to consider using other tools or frameworks that are specifically designed for working with ROS data. For example, you could use the rosbag command-line tool to extract the data from the ROS bags and then use a different framework, such as TensorFlow, PyTorch, or scikit-learn, to perform further analysis and processing on the extracted data. This may provide better performance and more flexibility than using Spark to parse ROS bags directly.
-Andrei Radulescu-Banu
+
+---
+
 Can I use Spark for ROS simulations?
+
+---
 
 You can use Spark for ROS simulations, but it is not a common or recommended approach. ROS (Robot Operating System) is a software framework for building and running robot applications. It provides a set of tools and libraries for managing and coordinating the various components of a robot system, including sensors, actuators, and other hardware.
 
@@ -85,8 +89,12 @@ Spark is a distributed computing platform that is designed for processing large 
 If you want to use Spark for ROS simulations, you will need to write custom code to integrate Spark with ROS and manage the communication between the two systems. This can be a challenging and time-consuming task, and it may not provide the best performance or scalability compared to other approaches.
 
 If you need to perform ROS simulations, you may want to consider using other tools and frameworks that are specifically designed for that purpose. For example, you could use the Gazebo simulation engine, which is a popular tool for performing robot simulations. Gazebo provides a set of libraries and tools for creating and running robot simulations, and it is integrated with ROS, allowing you to easily use ROS components and packages in your simulations. Using a dedicated simulation tool like Gazebo may provide better performance and more features than trying to use Spark for ROS simulations.
-Andrei Radulescu-Banu
-In Spark, how do I schedule a function to run with specific arguments in the worker nodes of the cluster?
+
+---
+
+Q: In Spark, how do I schedule a function to run with specific arguments in the worker nodes of the cluster?
+
+---
 
 In Spark, you can schedule a function to run with specific arguments on the worker nodes of a cluster by using the map transformation. The map transformation allows you to apply a function to each element in an RDD (Resilient Distributed Dataset) and return a new RDD containing the results.
 
