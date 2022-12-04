@@ -194,21 +194,30 @@ When you create an RDD in Spark, you can specify the number of partitions that t
 Each partition in an RDD is a piece of the RDD's data that is processed independently by a worker node. The worker node will apply any transformations or actions that you have specified for the RDD to the data in the partition, and it will return the results of the computation to the Spark driver program. The driver program will then combine the results from each partition to produce the final result of the computation.
 
 Partitions play an important role in the performance and scalability of a Spark application. By dividing an RDD into multiple partitions, you can take advantage of the distributed computing power of a Spark cluster to process the data in the RDD in parallel. This can improve the performance of your application and allow it to handle larger volumes of data. However, if the number of partitions is too small, it can limit the parallelism of your computation and reduce the performance of your application. Therefore, it is important to carefully consider the number of partitions to use for an RDD based on the characteristics of your data and the resources of your cluster.
-Andrei Radulescu-Banu
-How does a Spark cluster handle a job when the number of workers is smaller than the number of partitions?
+
+---
+
+Q: How does a Spark cluster handle a job when the number of workers is smaller than the number of partitions?
+
+---
 
 If the number of workers in a Spark cluster is smaller than the number of partitions in an RDD (Resilient Distributed Dataset), the Spark cluster will handle the job by assigning multiple partitions to each worker. Each worker will process the assigned partitions in parallel, and the results will be combined by the Spark driver program to produce the final result of the computation.
 
 For example, suppose you have an RDD with 10 partitions and you submit it to a cluster with 5 workers. In this case, each worker will be assigned 2 partitions of the RDD to process. The workers will process the assigned partitions in parallel, and the Spark driver program will combine the results from each worker to produce the final result of the computation.
 
 In general, having a smaller number of workers than partitions will not prevent a Spark job from being executed, but it may reduce the performance and scalability of the job. When the number of workers is smaller than the number of partitions, the workers will be required to process multiple partitions, which can reduce the parallelism of the computation and limit the performance of the job. Therefore, it is generally best to have at least as many workers as partitions in your Spark cluster to maximize the parallelism of your computation and the performance of your Spark jobs.
-Andrei Radulescu-Banu
-In Spark, can I modify sys.path inside a my_function() that I pass as argument to foreach()?
 
-In Spark, you can modify sys.path inside a function that you pass as an argument to the foreach transformation. However, it is important to note that modifying sys.path in this way will only affect the local environment of the worker node where the function is being executed, and it will not affect the sys.path of the Spark driver program or any other worker nodes in the cluster.
+---
 
-Here is an example of how you might modify sys.path inside a function passed to the foreach transformation in Spark:
+Q: In Spark, can I modify `sys.path` inside a `my_function()` that I pass as argument to `foreach()`?
 
+---
+
+In Spark, you can modify `sys.path` inside a function that you pass as an argument to the `foreach` transformation. However, it is important to note that modifying sys.path in this way will only affect the local environment of the worker node where the function is being executed, and it will not affect the `sys.path` of the Spark driver program or any other worker nodes in the cluster.
+
+Here is an example of how you might modify `sys.path` inside a function passed to the foreach transformation in Spark:
+
+```
 # Import the sys module
 import sys
 
@@ -230,11 +239,14 @@ data_rdd.foreach(my_function)
 # The function will now be executed on the worker nodes of the cluster
 # for each element in the RDD, and the sys.path will be modified on
 # the local environment of each worker node
+```
 
-In this example, the my_function function is passed to the foreach transformation and applied to each element in the data_rdd RDD. Inside the function, sys.path is modified to include a new directory. This will only affect the local environment of the worker node where the function is being executed, and it will not affect the sys.path of the Spark driver program or any other worker nodes in the cluster.
+In this example, the `my_function` function is passed to the `foreach` transformation and applied to each element in the `data_rdd` RDD. Inside the function, `sys.path` is modified to include a new directory. This will only affect the local environment of the worker node where the function is being executed, and it will not affect the `sys.path` of the Spark driver program or any other worker nodes in the cluster.
 
-Modifying sys.path inside a function passed to the foreach transformation can be useful when you need to import a custom module or library that is not available in the default sys.path of the Spark worker nodes. However, it is important to keep in mind that the modification will only affect the local environment of the worker node where the function is executed, and it will not be propagated to the other worker nodes or the Spark driver program.
-Andrei Radulescu-Banu
+Modifying `sys.path` inside a function passed to the `foreach` transformation can be useful when you need to import a custom module or library that is not available in the default sys.path of the Spark worker nodes. However, it is important to keep in mind that the modification will only affect the local environment of the worker node where the function is executed, and it will not be propagated to the other worker nodes or the Spark driver program.
+
+---
+
 In Spark, how do I save data to a Delta table from inside a my_function() called with foreach()?
 
 In Spark, you can save data to a Delta table from inside a function that you pass as an argument to the foreach transformation. To do this, you will need to use the saveAsTable method of the DataFrameWriter class, which allows you to write the contents of a DataFrame to a Delta table.
