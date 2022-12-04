@@ -29,3 +29,21 @@ Here is an example of how you might use the PyTorch Spark API to train a deep le
 - Once training is complete, you can use the PyTorch Spark API to save your trained model and any other relevant training results to your Apache Spark cluster for future use.
 
 This is a high-level overview of how to perform distributed PyTorch training in Apache Spark. For more detailed information and examples, you can refer to the PyTorch Spark documentation.
+
+---
+
+Q: How does spark-submit work?
+
+---
+
+A: spark-submit is a command-line tool used to submit Spark applications to a cluster for execution. It can be used to submit applications written in Scala, Java, Python, and other programming languages that are supported by the Apache Spark platform.
+
+When you run the spark-submit command, it first connects to the Spark cluster and then uploads your application code and any necessary dependencies to the cluster. Once the code is on the cluster, spark-submit will use the Spark Master to schedule the execution of your application on the cluster.
+
+The spark-submit command takes a number of arguments and configuration options that determine how your application will be executed. For example, you can use spark-submit to specify the number of executors to use, the amount of memory to allocate to each executor, and the location of your application code.
+
+Once your application is running on the cluster, spark-submit will monitor its progress and provide status updates. It will also handle any errors or failures that occur during execution and provide relevant log information to help you diagnose and fix any issues.
+
+Overall, spark-submit is a valuable tool for launching and managing Spark applications on a cluster. It simplifies the process of submitting and running Spark applications, allowing you to focus on writing and optimizing your application code.
+
+---
