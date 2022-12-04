@@ -119,16 +119,21 @@ results_rdd = arguments_rdd.map(lambda x: my_function(*x))
 # using the arguments from the RDD
 ```
 
-In this example, the map transformation is used to apply the my_function function to each element in the arguments_rdd RDD. The function will be executed on the worker nodes of the cluster, using the arguments from the RDD as input. The results of the function will be returned as a new RDD, which can be used for further processing or analysis.
+In this example, the map transformation is used to apply the `my_function` function to each element in the `arguments_rdd` RDD. The function will be executed on the worker nodes of the cluster, using the arguments from the RDD as input. The results of the function will be returned as a new RDD, which can be used for further processing or analysis.
 
-This is just one way to schedule a function to run with specific arguments on the worker nodes of a Spark cluster. There are other ways to accomplish this task, such as using the foreach transformation or using the Spark API to create and run a Spark job. The specific approach that you choose will depend on the requirements of your application and the design of your Spark cluster.
-Andrei Radulescu-Banu
-In Spark, how do I use the 'foreach' transformation?
+This is just one way to schedule a function to run with specific arguments on the worker nodes of a Spark cluster. There are other ways to accomplish this task, such as using the `foreach` transformation or using the Spark API to create and run a Spark job. The specific approach that you choose will depend on the requirements of your application and the design of your Spark cluster.
 
-In Spark, the foreach transformation can be used to apply a function to each element in an RDD (Resilient Distributed Dataset) without returning a new RDD. This can be useful when you want to perform an action on each element in an RDD, such as writing the element to a database or sending it to a remote service.
+---
+
+Q: In Spark, how do I use the 'foreach' transformation?
+
+---
+
+In Spark, the `foreach` transformation can be used to apply a function to each element in an RDD (Resilient Distributed Dataset) without returning a new RDD. This can be useful when you want to perform an action on each element in an RDD, such as writing the element to a database or sending it to a remote service.
 
 Here is an example of how you might use the foreach transformation in Spark:
 
+```
 # Define the function that you want to apply to each element in the RDD
 def my_function(x):
     # Perform some action using x, such as writing it to a database
@@ -142,17 +147,25 @@ data_rdd.foreach(my_function)
 
 # The function will now be executed on the worker nodes of the cluster
 # for each element in the RDD
+```
 
-In this example, the foreach transformation is used to apply the my_function function to each element in the data_rdd RDD. The function will be executed on the worker nodes of the cluster, using each element in the RDD as input. The function does not return any value, so the foreach transformation does not create a new RDD.
+In this example, the `foreach` transformation is used to apply the `my_function` function to each element in the `data_rdd` RDD. The function will be executed on the worker nodes of the cluster, using each element in the RDD as input. The function does not return any value, so the foreach transformation does not create a new RDD.
 
-The foreach transformation is useful when you want to perform an action on each element in an RDD, but you do not need to return a new RDD. It can be more efficient than other transformations, such as map, because it does not require the creation and management of a new RDD. However, it is important to note that the foreach transformation is not guaranteed to be executed in any particular order, so it may not be suitable for all use cases.
-Andrei Radulescu-Banu
-What Spark API can I use to execute a function remotely on each node (but not on each CPU core of each node)?
+The `foreach` transformation is useful when you want to perform an action on each element in an RDD, but you do not need to return a new RDD. It can be more efficient than other transformations, such as `map`, because it does not require the creation and management of a new RDD. However, it is important to note that the `foreach` transformation is not guaranteed to be executed in any particular order, so it may not be suitable for all use cases.
 
-To execute a function remotely on each node (but not on each CPU core) of a Spark cluster, you can use the foreachPartition transformation in the Spark API. The foreachPartition transformation allows you to apply a function to each partition in an RDD (Resilient Distributed Dataset) without returning a new RDD. Each partition in an RDD is processed on a separate worker node in the cluster, so using foreachPartition will ensure that your function is executed on each worker node, but not on each individual CPU core of each node.
+---
 
-Here is an example of how you might use the foreachPartition transformation in Spark to execute a function remotely on each worker node of a cluster:
+Q: What Spark API can I use to execute a function remotely on each node (but not on each CPU core of each node)?
 
+---
+
+[Andrei: I think this answer is wrong]
+
+To execute a function remotely on each node (but not on each CPU core) of a Spark cluster, you can use the `foreachPartition` transformation in the Spark API. The `foreachPartition` transformation allows you to apply a function to each partition in an RDD (Resilient Distributed Dataset) without returning a new RDD. Each partition in an RDD is processed on a separate worker node in the cluster, so using foreachPartition will ensure that your function is executed on each worker node, but not on each individual CPU core of each node.
+
+Here is an example of how you might use the `foreachPartition` transformation in Spark to execute a function remotely on each worker node of a cluster:
+
+```
 # Define the function that you want to apply to each partition in the RDD
 def my_function(partition):
     # Perform some action using the elements in the partition,
@@ -165,10 +178,14 @@ data_rdd = sc.parallelize([1, 2, 3, 4, 5])
 # Use the foreachPartition transformation to apply the function to each partition in the RDD
 data_rdd.foreachPartition(my_function)
 
-# The function will now be executed on the worker nodes of the
+# The function will now be executed on the worker nodes of the cluster.
+```
 
-Andrei Radulescu-Banu
-How does a Spark partition work?
+---
+
+Q: How does a Spark partition work?
+
+---
 
 In Spark, a partition is a logical unit of work that is processed by a single worker node in a cluster. An RDD (Resilient Distributed Dataset) is a distributed collection of data that is divided into a number of partitions, and each partition is processed on a separate worker node in the cluster.
 
