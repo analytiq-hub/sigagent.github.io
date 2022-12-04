@@ -96,10 +96,11 @@ Q: In Spark, how do I schedule a function to run with specific arguments in the 
 
 ---
 
-In Spark, you can schedule a function to run with specific arguments on the worker nodes of a cluster by using the map transformation. The map transformation allows you to apply a function to each element in an RDD (Resilient Distributed Dataset) and return a new RDD containing the results.
+In Spark, you can schedule a function to run with specific arguments on the worker nodes of a cluster by using the map transformation. The `map` transformation allows you to apply a function to each element in an `RDD` (Resilient Distributed Dataset) and return a new `RDD` containing the results.
 
 Here is an example of how you might use the map transformation to schedule a function to run with specific arguments on the worker nodes of a Spark cluster:
 
+```
 # Define the function that you want to run
 def my_function(x, y):
     # Perform some computation using x and y
@@ -116,6 +117,7 @@ results_rdd = arguments_rdd.map(lambda x: my_function(*x))
 
 # The function will now be executed on the worker nodes of the cluster
 # using the arguments from the RDD
+```
 
 In this example, the map transformation is used to apply the my_function function to each element in the arguments_rdd RDD. The function will be executed on the worker nodes of the cluster, using the arguments from the RDD as input. The results of the function will be returned as a new RDD, which can be used for further processing or analysis.
 
