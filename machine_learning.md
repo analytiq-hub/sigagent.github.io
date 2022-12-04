@@ -140,6 +140,7 @@ title: Machine Learning
   * [David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning](https://www.youtube.com/watch?v=uPUEq8d73JI&t=2499s), Lex Fridman Podcast #86 (2020)
   * [Andrew Ng: Deep Learning, Education, and Real-World AI](https://www.youtube.com/watch?v=0jspaMLxBig), Lex Fridman Podcast #73 (2020)
   * [Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning](https://www.youtube.com/watch?v=SGzMElJ11Cc), Lex Fridman Podcast #258 (2022)
+  * [Demis Hassabis: DeepMind - AI, Superintelligence & the Future of Humanity](https://www.youtube.com/watch?v=Gfr50f6ZBvo) (2022)
 
 #### Posts
 * [Colah's blog](http://colah.github.io/)
