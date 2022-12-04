@@ -6,6 +6,8 @@ author:
 layout: post
 ---
 
+Answers were provided by the OpenAI GPT chat bot.
+
 ---
 
 Q: How would I do distributed pytorch training in Apache Spark?
@@ -125,7 +127,7 @@ This is just one way to schedule a function to run with specific arguments on th
 
 ---
 
-Q: In Spark, how do I use the 'foreach' transformation?
+Q: In Spark, how do I use the `foreach` transformation?
 
 ---
 
