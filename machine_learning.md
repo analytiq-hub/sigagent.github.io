@@ -261,11 +261,14 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [MIT 6.S192 - Lecture 20: Generative art using diffusion](https://www.youtube.com/watch?v=xYJEvihz3OI), by Prafulla Dhariwal
 
 #### Reinforcement Learning
+* R. Sutton, A. Barto: [Reinforcement Learning, second edition: An Introduction](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=d_pd_sim_sccl_3_1/146-1943148-1230166) (2018)
+
+### AGI
 * [AIXI](https://en.wikipedia.org/wiki/AIXI)
   * Marcus Hutter: [Universal Artificial Intelligence: Sequential Decisions Based On Algorithmic Probability](https://www.amazon.com/Universal-Artificial-Intelligence-Algorithmic-Probability/dp/3540221395) (2005)
   * Shane Legg: [Machine Super Intelligence](https://www.vetta.org/documents/Machine_Super_Intelligence.pdf) (2008)
     * AI Channel: [DeepMind's Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=tFgJHzliy94) (2009)
-  * R. Sutton, A. Barto: [Reinforcement Learning, second edition: An Introduction](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=d_pd_sim_sccl_3_1/146-1943148-1230166) (2018)
+* J. Bach: [When Artificial Intelligence Becomes General Enough to Understand Itself. Commentary on Pei Wang’s paper "On Defining Artificial Intelligence"](https://d1wqtxts1xzle7.cloudfront.net/67233992/article-p1-with-cover-page-v2.pdf?Expires=1670126983&Signature=bVqu55Xl9b13VpZRfyOqYGjxrsDJ84oXp~Z0I6lonMLqGvWwwJR9sdiKbduNukJfzGCRpP75B8gDUbIGJhKo2hvIAITAB6VqP6ztmcM7volamlqPkDJofWC9Wq0CtHW9I3wK2SCBIaUFhd43-5C8MHyrDQcGYORthNi0PPN2P8wn3uERQzPjYVvH1igKoM1lfn7ok8MVd8eynzo5G1bh1x9fBXgSH59oRMH58HHu8bsDTLPMex~l0O1j2-fKsD0OMt8ckHlBLJgDunYWryqm63DuZGaSdzQ2mTWxwiOogSDe4GmRPG7Hpg4HaqboYKT3OTp6BtVGmTKIpuaCPNFTyw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=16) (2020)
 
 #### Causality
 * [Causality for Machine Learning](https://arxiv.org/pdf/1911.10500.pdf), Bernhard Schölkopf (2019)
