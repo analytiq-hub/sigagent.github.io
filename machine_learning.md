@@ -260,6 +260,11 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [Tutorial on diffusion](https://www.youtube.com/watch?v=cS6JQpEY9cs) (3.5 hrs)
 * [MIT 6.S192 - Lecture 20: Generative art using diffusion](https://www.youtube.com/watch?v=xYJEvihz3OI), by Prafulla Dhariwal
 
+#### Reinforcement Learning
+* [AIXI](https://en.wikipedia.org/wiki/AIXI)
+  * Marcus Hutter: [Universal Artificial Intelligence: Sequential Decisions Based On Algorithmic Probability](https://www.amazon.com/Universal-Artificial-Intelligence-Algorithmic-Probability/dp/3540221395) (2005)
+  * Shane Legg: [Machine Super Intelligence](https://www.vetta.org/documents/Machine_Super_Intelligence.pdf) (2008)
+
 #### Causality
 * [Causality for Machine Learning](https://arxiv.org/pdf/1911.10500.pdf), Bernhard Schölkopf (2019)
 * Y. Bengio talk: [Deep Learning Cognition](https://www.youtube.com/watch?v=GibjI5FoZsE) (2020)
