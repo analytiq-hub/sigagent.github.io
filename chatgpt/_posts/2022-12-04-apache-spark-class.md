@@ -47,3 +47,19 @@ Once your application is running on the cluster, spark-submit will monitor its p
 Overall, spark-submit is a valuable tool for launching and managing Spark applications on a cluster. It simplifies the process of submitting and running Spark applications, allowing you to focus on writing and optimizing your application code.
 
 ---
+
+Q: In Databricks, do I need to use spark-submit, or is there a simpler way to schedule Spark jobs?
+
+---
+
+A: In Databricks, you do not need to use the spark-submit command to schedule Spark jobs. Databricks provides a web-based user interface and a set of APIs that you can use to manage your Spark clusters and submit Spark jobs.
+
+To schedule a Spark job in Databricks, you can use the Jobs page in the Databricks workspace. This page allows you to create, view, and manage your Spark jobs. You can use it to specify the parameters and configuration options for your Spark job, such as the language the job is written in, the main class or script to run, and the cluster to run the job on.
+
+Once you have created a Spark job in Databricks, you can use the Schedule page to specify when and how often the job should be run. You can schedule jobs to run on a regular schedule, or you can trigger them to run on demand.
+
+In addition to the web-based user interface, Databricks also provides a set of APIs that you can use to programmatically submit and manage Spark jobs. This allows you to integrate Spark job scheduling into your existing workflow and automate the process of running Spark jobs.
+
+Overall, using the Databricks workspace and APIs to schedule Spark jobs is a simpler and more convenient alternative to using the spark-submit command. It provides a user-friendly interface and a set of powerful tools for managing and running Spark jobs on your Databricks clusters.
+
+---
