@@ -14,7 +14,7 @@ title: Biotech
 * [Neurostars](https://neurostars.org/)
 
 #### Interviews
-* Lex Fridman Podcast #325: [ Michael Levin: Biology, Life, Aliens, Evolution, Embryogenesis & Xenobots](https://www.youtube.com/watch?v=p3lsYlod5OU) (2022)
+* Lex Fridman Podcast #325: [Michael Levin: Biology, Life, Aliens, Evolution, Embryogenesis & Xenobots](https://www.youtube.com/watch?v=p3lsYlod5OU) (2022)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
