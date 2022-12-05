@@ -276,6 +276,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * Y. Bengio talk: [Deep Learning Cognition](https://www.youtube.com/watch?v=GibjI5FoZsE) (2020)
 
 #### Natural Language Processing (NLP)
+* torchtext [Release Notes](https://github.com/pytorch/text/releases), [examples](https://github.com/pytorch/text/tree/master/examples)
 * Tutorial: [Migrate torchtext from the legacy API to the new API](https://colab.research.google.com/github/pytorch/text/blob/master/examples/legacy_tutorial/migration_tutorial.ipynb)
 
 #### Attention
