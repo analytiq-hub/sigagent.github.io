@@ -183,13 +183,24 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * S. Raschka [L12: Learning rates and advanced optimization algorithms](https://sebastianraschka.com/blog/2021/dl-course.html#l12-learning-rates-and-advanced-optimization-algorithms) (2020)
 * P. Wirth: [Which Optimizer should I use for my ML Project?](https://www.lightly.ai/post/which-optimizer-should-i-use-for-my-machine-learning-project) (2020)
 
+#### Network tuning
+* [How to Avoid Overfitting in Deep Learning Neural Networks](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/), J. Brownlee (2018)
+
+#### Autoencoders and Variational Autoencoders
+* Sebastian Raschka: [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html) (2021)
+  * [L16: Autoencoders](https://sebastianraschka.com/blog/2021/dl-course.html#l16-autoencoders)
+  * [L17: Variational autoencoders](https://sebastianraschka.com/blog/2021/dl-course.html#l17-variational-autoencoders)
+* Valerio Velardo: [The Sound of AI](https://www.youtube.com/@ValerioVelardoTheSoundofAI)
+  * [Generating Sound with Neural Networks](https://www.youtube.com/playlist?list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp)
+    * [3 - How do AutoEncoders work?](https://www.youtube.com/watch?v=xwrzh4e8DLs)
+    * [9 - From Autoencoders to Variational Autoencoders: Part 1](https://www.youtube.com/watch?v=b8AzCgY1gZI)
+    * [10 - From Autoencoders to Variational Autoencoders: Part 2](https://www.youtube.com/watch?v=lRsqFbgGyKg)
+    * [11 - Implementing a Variational Autoencoder](https://i.ytimg.com/vi/A6mdOEPGM1E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfOmHXPwsArihUsopN9czV3AZIag) (in Keras)
+
 #### Convolutional Nets
 * [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567v1.pdf), C. Szegedy el at (2015)
 * Blog: [Speeding up Convolutional Neural Networks](https://towardsdatascience.com/speeding-up-convolutional-neural-networks-240beac5e30f), [Alex Burlacu](https://alexandruburlacu.github.io/) (2018)
 * M. Tang et al: [EfficientNetV2: Smaller Models and Faster Training](https://arxiv.org/pdf/2104.00298.pdf) (2021), [github](https://github.com/d-li14/efficientnetv2.pytorch)
-
-#### Network tuning
-* [How to Avoid Overfitting in Deep Learning Neural Networks](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/), J. Brownlee (2018)
 
 #### Image style transfer
 * [Texture Synthesis Using Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2015/file/a5e00132373a7031000fd987a3c9f87b-Paper.pdf), L.A.Gatys et al (2016) [code](https://github.com/leongatys/DeepTextures)
