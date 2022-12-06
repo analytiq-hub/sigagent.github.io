@@ -72,16 +72,11 @@ title: Machine Learning
 * [OpenReview](https://openreview.net/)
 
 #### Tools
-* [Apache Ignite ML](https://ignite.apache.org/docs/latest/machine-learning/machine-learning)
-  * A. Zinoviev: [Apache Ignite ML: origins and development](https://zaleslaw.medium.com/apache-ignite-ml-origins-and-development-d49a19e67202) (2020)
 * Jax
   * EI Seminar: Matthew Johnson: [JAX: accelerated ML research via composable function transformations](https://www.youtube.com/watch?v=mVf3HJ6gNDc)
 * [PyTorch](machine_learning/pytorch.md)
 * [scikit-learn](machine_learning/scikit-learn.md)
-* [spark.ml](https://spark.apache.org/docs/latest/ml-guide.html)
-  * S. Johnson: [From scikit-learn to Spark ML](https://towardsdatascience.com/from-scikit-learn-to-spark-ml-f2886fb46852) (2019)
-  * A. Zinoviev: [Good parts of the Apache Spark ML library](https://zaleslaw.medium.com/i-have-been-a-spark-user-since-spark-0-8-adfb0b327338) (2019)
-  * A. Zinoviev: [Weakness of the Apache Spark ML library](https://zaleslaw.medium.com/weakness-of-the-apache-spark-ml-library-41e674103591) (2019)
+* [Spark.ml and Apache Ignite ML](machine_learning/spark.ml)
 * [TensorFlow](machine_learning/tensorflow.md)
 * Others: Caffe(Berkeley), Caffe2(Facebook), MXNet(Amazon), CNTK(Microsoft), Paddle(Baidu)
 * FBLearner Flow
