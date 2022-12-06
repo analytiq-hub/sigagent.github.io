@@ -75,7 +75,7 @@ title: Machine Learning
 * [Jax](machine_learning/jax.md)
 * [PyTorch](machine_learning/pytorch.md)
 * [scikit-learn](machine_learning/scikit-learn.md)
-* [Spark.ml and Apache Ignite ML](machine_learning/spark.ml)
+* [Spark.ml and Apache Ignite ML](machine_learning/spark.md)
 * [TensorFlow](machine_learning/tensorflow.md)
 * Others: Caffe(Berkeley), Caffe2(Facebook), MXNet(Amazon), CNTK(Microsoft), Paddle(Baidu)
 * FBLearner Flow
