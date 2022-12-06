@@ -3,12 +3,6 @@ layout: page
 mathjax: true
 title: Psychology
 ---
-#### People
-* [Donald D. Hoffman](https://en.wikipedia.org/wiki/Donald_D._Hoffman)
-
-#### Interviews
-* Theories of Everything: [Donald Hoffman Λ John Vervaeke on Infinity, Non-Dualism, Ego, and Reality](https://www.youtube.com/watch?v=EwTpdCVsttI) (2022)
-
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cloud Data Platform](cloud_data_platform.md)
