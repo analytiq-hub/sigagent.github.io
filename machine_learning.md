@@ -82,6 +82,9 @@ title: Machine Learning
   * [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/2016/05/09/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/)
 
 #### GPUs
+* [Tim Dettmers](https://timdettmers.com/)
+  * Quora: [Why are GPUs well-suited to deep learning?](https://www.quora.com/Why-are-GPUs-well-suited-to-deep-learning/answer/Tim-Dettmers-1) (2018)
+  * [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/) (2020)
 * TowardsDataScience: [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86) (2022)
 
 #### Tutorials
@@ -187,11 +190,6 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [fast.ai](https://www.fast.ai): [AdamW and Super-convergence is now the fastest way to train neural nets ](https://www.fast.ai/2018/07/02/adam-weight-decay/), by S. Gugger and J. Howard (2018)
 * S. Raschka [L12: Learning rates and advanced optimization algorithms](https://sebastianraschka.com/blog/2021/dl-course.html#l12-learning-rates-and-advanced-optimization-algorithms) (2020)
 * P. Wirth: [Which Optimizer should I use for my ML Project?](https://www.lightly.ai/post/which-optimizer-should-i-use-for-my-machine-learning-project) (2020)
-
-#### GPUs
-* [Tim Dettmers](https://timdettmers.com/)
-  * Quora: [Why are GPUs well-suited to deep learning?](https://www.quora.com/Why-are-GPUs-well-suited-to-deep-learning/answer/Tim-Dettmers-1) (2018)
-  * [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/) (2020)
 
 #### Articles
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
