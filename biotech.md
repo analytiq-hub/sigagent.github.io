@@ -5,6 +5,7 @@ title: Biotech
 ---
 #### Books
 * G. Church et al: [Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves](https://www.amazon.com/dp/B0892SSCW4) (2012)
+* Nick Lane: [The Vital Question: Energy, Evolution, and the Origins of Complex Life](https://www.amazon.com/gp/product/B00OD8Z4JW/ref=dbs_a_def_rwt_bibl_vppi_i1) (2015)
 
 #### Surveys
 * A. Glielmo et al: [Unsupervised Learning Methods for Molecular Simulation Data](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c01195), Chem. Review (2021)
