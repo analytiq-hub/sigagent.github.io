@@ -125,27 +125,6 @@ See [GPUs](gpus.md) page
   * [Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning](https://www.youtube.com/watch?v=SGzMElJ11Cc), Lex Fridman Podcast #258 (2022)
   * [Demis Hassabis: DeepMind - AI, Superintelligence & the Future of Humanity](https://www.youtube.com/watch?v=Gfr50f6ZBvo) (2022)
 
-#### Posts
-* [Colah's blog](http://colah.github.io/)
-* [distill.pub](https://distill.pub/)
-* [MuZero](https://en.wikipedia.org/wiki/MuZero) and [The Evolution of AlphaGo to MuZero](https://towardsdatascience.com/the-evolution-of-alphago-to-muzero-c2c37306bf9)
-* [McGill COMP-424 Intro to AI Lecture Notes](https://www.cs.mcgill.ca/~dprecup/courses/AI/Lectures) (Doina Precup, 2013), [Lecture 16, Why does a finite MDP optimal policy exist?](https://www.cs.mcgill.ca/~dprecup/courses/AI/Lectures/ai-lecture16.pdf)
-* Open AI: [Safety Gym] (https://openai.com/blog/safety-gym/) (2019)
-* [OpenAI Baselines](https://github.com/openai/baselines/), a set of high-quality implementations of reinforcement learning algorithms
-* [ConvnetJS](https://cs.stanford.edu/people/karpathy/convnetjs/) demo: [Toy 2d classification with 2-layer neural network](https://cs.stanford.edu/people/karpathy/convnetjs//demo/classify2d.html), A. Karpathy
-* Adrian Rosebrock [tutorials](https://www.pyimagesearch.com/author/adrian/)
-* The [Important Definitions](https://github.com/rafaelpadilla/Object-Detection-Metrics) of Rafael Padilla repo is a very good introduction to the relationship between IOU, precision/recall, PR curve, average precision
-* [Ben Dickson](https://bdtechtalks.com/author/bendee983/): [The challenges of applied machine learning](https://bdtechtalks.com/2021/04/19/applied-machine-learning-challenges/) (2021)
-* Jonathan Hui: [How to start a Deep Learning project?](https://jonathan-hui.medium.com/how-to-start-a-deep-learning-project-d9e1db90fa72) (2018)
-* Georgii Evtushenko: [Multi-GPU Programming](https://medium.com/gpgpu/multi-gpu-programming-6768eeb42e2c)
-* Mihail Eric: [MLOps Is a Mess But That's to be Expected](https://www.mihaileric.com/posts/mlops-is-a-mess/) (2022)
-* Matt Turk: [Red Hot: The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/)
-* A. Kumar, I. Kostrikov, S. Levine: [Should I Use Offline RL or Imitation Learning?](https://bair.berkeley.edu/blog/2022/04/25/rl-or-bc/) (2022)
-* Giuliano Giacaglia: [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591) (2019)
-* Sebastian Raschka [Ahead of AI](https://www.linkedin.com/newsletters/ahead-of-ai-6994407435943772160/) (2022)
-  * [#1: A Diffusion of Innovations](https://www.linkedin.com/pulse/ahead-ai-1-diffusion-innovations-sebastian-raschka-phd/)
-  * [#2 - Transformers, Fast and Slow](https://www.linkedin.com/pulse/ahead-ai-2-transformers-fast-slow-sebastian-raschka-phd/?trackingId=h2oFDMetQ%2FyynqBmG4FUzQ%3D%3D)
-
 #### Linear Discriminant Analysis (LDA)
 * G. Chen: Math 253: Mathematical Methods for Data Visualization: [Lec 11, LDA](https://www.sjsu.edu/faculty/guangliang.chen/Math253S20/lec11lda.pdf), explains math behind LDA
 * B. Ghojogh: [Eigenvalue and Generalized Eigenvalue Problems: Tutorial](https://arxiv.org/pdf/1903.11240.pdf) (2022)
@@ -293,6 +272,27 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [Hands-on Bayesian Neural Networks - a Tutorial for Deep Learning Users](https://arxiv.org/pdf/2007.06823.pdf), L. V. Jospin et al (2021)
 * R. Ghugare et al: [Simplifying Model-based RL: Learning Representations, Latent-space Models, and Policies with One Objective](https://arxiv.org/abs/2209.08466) (2022), [talk](https://www.youtube.com/watch?v=pgaULpPhzus), [code](https://alignedlatentmodels.github.io)
 * J. Tenenbaum et al: [3DP3: 3D Scene Perception via Probabilistic Programming](https://arxiv.org/pdf/2111.00312.pdf) (2021)
+
+#### Posts
+* [Colah's blog](http://colah.github.io/)
+* [distill.pub](https://distill.pub/)
+* [MuZero](https://en.wikipedia.org/wiki/MuZero) and [The Evolution of AlphaGo to MuZero](https://towardsdatascience.com/the-evolution-of-alphago-to-muzero-c2c37306bf9)
+* [McGill COMP-424 Intro to AI Lecture Notes](https://www.cs.mcgill.ca/~dprecup/courses/AI/Lectures) (Doina Precup, 2013), [Lecture 16, Why does a finite MDP optimal policy exist?](https://www.cs.mcgill.ca/~dprecup/courses/AI/Lectures/ai-lecture16.pdf)
+* Open AI: [Safety Gym] (https://openai.com/blog/safety-gym/) (2019)
+* [OpenAI Baselines](https://github.com/openai/baselines/), a set of high-quality implementations of reinforcement learning algorithms
+* [ConvnetJS](https://cs.stanford.edu/people/karpathy/convnetjs/) demo: [Toy 2d classification with 2-layer neural network](https://cs.stanford.edu/people/karpathy/convnetjs//demo/classify2d.html), A. Karpathy
+* Adrian Rosebrock [tutorials](https://www.pyimagesearch.com/author/adrian/)
+* The [Important Definitions](https://github.com/rafaelpadilla/Object-Detection-Metrics) of Rafael Padilla repo is a very good introduction to the relationship between IOU, precision/recall, PR curve, average precision
+* [Ben Dickson](https://bdtechtalks.com/author/bendee983/): [The challenges of applied machine learning](https://bdtechtalks.com/2021/04/19/applied-machine-learning-challenges/) (2021)
+* Jonathan Hui: [How to start a Deep Learning project?](https://jonathan-hui.medium.com/how-to-start-a-deep-learning-project-d9e1db90fa72) (2018)
+* Georgii Evtushenko: [Multi-GPU Programming](https://medium.com/gpgpu/multi-gpu-programming-6768eeb42e2c)
+* Mihail Eric: [MLOps Is a Mess But That's to be Expected](https://www.mihaileric.com/posts/mlops-is-a-mess/) (2022)
+* Matt Turk: [Red Hot: The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/)
+* A. Kumar, I. Kostrikov, S. Levine: [Should I Use Offline RL or Imitation Learning?](https://bair.berkeley.edu/blog/2022/04/25/rl-or-bc/) (2022)
+* Giuliano Giacaglia: [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591) (2019)
+* Sebastian Raschka [Ahead of AI](https://www.linkedin.com/newsletters/ahead-of-ai-6994407435943772160/) (2022)
+  * [#1: A Diffusion of Innovations](https://www.linkedin.com/pulse/ahead-ai-1-diffusion-innovations-sebastian-raschka-phd/)
+  * [#2 - Transformers, Fast and Slow](https://www.linkedin.com/pulse/ahead-ai-2-transformers-fast-slow-sebastian-raschka-phd/?trackingId=h2oFDMetQ%2FyynqBmG4FUzQ%3D%3D)
 
 #### Web sites
 * [Papers with Code](https://paperswithcode.com/)
