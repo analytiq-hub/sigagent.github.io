@@ -72,8 +72,7 @@ title: Machine Learning
 * [OpenReview](https://openreview.net/)
 
 #### Tools
-* Jax
-  * EI Seminar: Matthew Johnson: [JAX: accelerated ML research via composable function transformations](https://www.youtube.com/watch?v=mVf3HJ6gNDc)
+* [Jax](machine_learning/jax.md)
 * [PyTorch](machine_learning/pytorch.md)
 * [scikit-learn](machine_learning/scikit-learn.md)
 * [Spark.ml and Apache Ignite ML](machine_learning/spark.ml)
