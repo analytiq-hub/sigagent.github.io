@@ -87,11 +87,6 @@ See [GPUs](gpus.md) page
 #### Tutorials
 * Robbie Allen: [Over 200 of the Best Machine Learning, NLP, and Python Tutorials](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc) (2018)
 
-#### Convolutional Nets
-* [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567v1.pdf), C. Szegedy el at (2015)
-* Blog: [Speeding up Convolutional Neural Networks](https://towardsdatascience.com/speeding-up-convolutional-neural-networks-240beac5e30f), [Alex Burlacu](https://alexandruburlacu.github.io/) (2018)
-* M. Tang et al: [EfficientNetV2: Smaller Models and Faster Training](https://arxiv.org/pdf/2104.00298.pdf) (2021), [github](https://github.com/d-li14/efficientnetv2.pytorch)
-
 #### Videos
 * 3Blue1Brown Series
   * [What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)
@@ -188,29 +183,10 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * S. Raschka [L12: Learning rates and advanced optimization algorithms](https://sebastianraschka.com/blog/2021/dl-course.html#l12-learning-rates-and-advanced-optimization-algorithms) (2020)
 * P. Wirth: [Which Optimizer should I use for my ML Project?](https://www.lightly.ai/post/which-optimizer-should-i-use-for-my-machine-learning-project) (2020)
 
-#### Articles
-* [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
-* [Neural networks and physical systems with emergent collective computational abilities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC346238/pdf/pnas00447-0135.pdf), J. J. Hopfield (1982)
-* [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf), G. E. Hinton and R. R. Salakhutdinov (2006), using Bolzmann machines to initialize weights close to a good solution
-* [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf), Y. LeCun et al (2006)
-* [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), Alex Krizhevsky, Ilya Sutskever and Geoffrey E. Hinton (2012), describes the AlexNet Conv network.
-* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf), C. Finn, P. Abbeel, S. Levine (2017)
-  * S. Khodadadeh: [Model Agnostic Meta Learning](https://www.youtube.com/watch?v=wT45v8sIMDM) (2018)
-  * Deep Learning Explainer: [Toward Efficient Learning: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://www.youtube.com/watch?v=tGTNplKgt6Q) (2020)
-* [Meta-Learning with Implicit Gradients](https://arxiv.org/pdf/1909.04630.pdf), A. Rajeswaran et al (2019), [video](https://www.youtube.com/watch?v=u5BkO8XMS2I)
-* [The Mechanics of n-Player Differentiable Games](https://arxiv.org/pdf/1802.05642.pdf), D. Balduzzi et al (2018)
-* [Simple, Distributed, and AcceleratedProbabilistic Programming](https://arxiv.org/pdf/1811.02091.pdf), D. Tran et al (2018)
-* [Machine Theory of Mind](https://arxiv.org/pdf/1802.07740.pdf), N.C. Rabinowitz et al (2018)
-* [Recent Advances in Deep Learning for Object Detection](https://arxiv.org/pdf/1908.03673.pdf), X. Wu (2019)
-* [Online Bayesian Goal Inference for Boundedly-Rational Planning Agents](https://arxiv.org/pdf/2006.07532.pdf), T. Zhi-Xuan et al (2020)
-* [Open Problems in Cooperative AI](https://arxiv.org/pdf/2012.08630.pdf), A. Dafoe et al (2020)
-* [Rethinking the maturity of artificial intelligence in safety-critical settings](http://hal.pratt.duke.edu/sites/hal.pratt.duke.edu/files/u36/reality%20check%20final_compressed.pdf), M.L. Cummings, 2019
-* Sendtex tutorials at https://pythonprogramming.net
-* [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/pdf/1802.09941.pdf), Bel-Nun, Hoefler (2018), [video](https://www.youtube.com/watch?v=xtxxLWZznBI)
-* Medium: [RegNet or How to methodologically design effective networks](https://medium.com/analytics-vidhya/regnet-or-how-to-methodologically-design-effective-networks-c3560c1cf436), Chris Ha (2000)
-* [Hands-on Bayesian Neural Networks - a Tutorial for Deep Learning Users](https://arxiv.org/pdf/2007.06823.pdf), L. V. Jospin et al (2021)
-* R. Ghugare et al: [Simplifying Model-based RL: Learning Representations, Latent-space Models, and Policies with One Objective](https://arxiv.org/abs/2209.08466) (2022), [talk](https://www.youtube.com/watch?v=pgaULpPhzus), [code](https://alignedlatentmodels.github.io)
-* J. Tenenbaum et al: [3DP3: 3D Scene Perception via Probabilistic Programming](https://arxiv.org/pdf/2111.00312.pdf) (2021)
+#### Convolutional Nets
+* [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567v1.pdf), C. Szegedy el at (2015)
+* Blog: [Speeding up Convolutional Neural Networks](https://towardsdatascience.com/speeding-up-convolutional-neural-networks-240beac5e30f), [Alex Burlacu](https://alexandruburlacu.github.io/) (2018)
+* M. Tang et al: [EfficientNetV2: Smaller Models and Faster Training](https://arxiv.org/pdf/2104.00298.pdf) (2021), [github](https://github.com/d-li14/efficientnetv2.pytorch)
 
 #### Network tuning
 * [How to Avoid Overfitting in Deep Learning Neural Networks](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/), J. Brownlee (2018)
@@ -282,6 +258,30 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * Facebook: [Harmful content can evolve quickly. Our new AI system adapts to tackle it.](https://ai.facebook.com/blog/harmful-content-can-evolve-quickly-our-new-ai-system-adapts-to-tackle-it/) (2021)
   * S. Wang et al: [Entailment as Few-Shot Learner](https://arxiv.org/pdf/2104.14690.pdf?fbclid=IwAR2ImbTwKdt1thb0pfGVYxQ0D9EgjotlhfOVBeDNyt6Gnn8j7TNwHVve1FA) (2021)
 * Facebook: [How AI is getting better at detecting hate speech](https://ai.facebook.com/blog/how-ai-is-getting-better-at-detecting-hate-speech/) (2020)
+
+#### Articles
+* [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
+* [Neural networks and physical systems with emergent collective computational abilities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC346238/pdf/pnas00447-0135.pdf), J. J. Hopfield (1982)
+* [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf), G. E. Hinton and R. R. Salakhutdinov (2006), using Bolzmann machines to initialize weights close to a good solution
+* [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf), Y. LeCun et al (2006)
+* [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), Alex Krizhevsky, Ilya Sutskever and Geoffrey E. Hinton (2012), describes the AlexNet Conv network.
+* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf), C. Finn, P. Abbeel, S. Levine (2017)
+  * S. Khodadadeh: [Model Agnostic Meta Learning](https://www.youtube.com/watch?v=wT45v8sIMDM) (2018)
+  * Deep Learning Explainer: [Toward Efficient Learning: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://www.youtube.com/watch?v=tGTNplKgt6Q) (2020)
+* [Meta-Learning with Implicit Gradients](https://arxiv.org/pdf/1909.04630.pdf), A. Rajeswaran et al (2019), [video](https://www.youtube.com/watch?v=u5BkO8XMS2I)
+* [The Mechanics of n-Player Differentiable Games](https://arxiv.org/pdf/1802.05642.pdf), D. Balduzzi et al (2018)
+* [Simple, Distributed, and AcceleratedProbabilistic Programming](https://arxiv.org/pdf/1811.02091.pdf), D. Tran et al (2018)
+* [Machine Theory of Mind](https://arxiv.org/pdf/1802.07740.pdf), N.C. Rabinowitz et al (2018)
+* [Recent Advances in Deep Learning for Object Detection](https://arxiv.org/pdf/1908.03673.pdf), X. Wu (2019)
+* [Online Bayesian Goal Inference for Boundedly-Rational Planning Agents](https://arxiv.org/pdf/2006.07532.pdf), T. Zhi-Xuan et al (2020)
+* [Open Problems in Cooperative AI](https://arxiv.org/pdf/2012.08630.pdf), A. Dafoe et al (2020)
+* [Rethinking the maturity of artificial intelligence in safety-critical settings](http://hal.pratt.duke.edu/sites/hal.pratt.duke.edu/files/u36/reality%20check%20final_compressed.pdf), M.L. Cummings, 2019
+* Sendtex tutorials at https://pythonprogramming.net
+* [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/pdf/1802.09941.pdf), Bel-Nun, Hoefler (2018), [video](https://www.youtube.com/watch?v=xtxxLWZznBI)
+* Medium: [RegNet or How to methodologically design effective networks](https://medium.com/analytics-vidhya/regnet-or-how-to-methodologically-design-effective-networks-c3560c1cf436), Chris Ha (2000)
+* [Hands-on Bayesian Neural Networks - a Tutorial for Deep Learning Users](https://arxiv.org/pdf/2007.06823.pdf), L. V. Jospin et al (2021)
+* R. Ghugare et al: [Simplifying Model-based RL: Learning Representations, Latent-space Models, and Policies with One Objective](https://arxiv.org/abs/2209.08466) (2022), [talk](https://www.youtube.com/watch?v=pgaULpPhzus), [code](https://alignedlatentmodels.github.io)
+* J. Tenenbaum et al: [3DP3: 3D Scene Perception via Probabilistic Programming](https://arxiv.org/pdf/2111.00312.pdf) (2021)
 
 #### Web sites
 * [Papers with Code](https://paperswithcode.com/)
