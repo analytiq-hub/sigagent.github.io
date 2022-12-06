@@ -81,6 +81,9 @@ title: Machine Learning
 * FBLearner Flow
   * [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/2016/05/09/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/)
 
+#### GPUs
+* TowardsDataScience: [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86) (2022)
+
 #### Tutorials
 * Robbie Allen: [Over 200 of the Best Machine Learning, NLP, and Python Tutorials](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc) (2018)
 
