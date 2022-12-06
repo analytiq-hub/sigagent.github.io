@@ -19,6 +19,7 @@ title: Biotech
 
 #### People
 * [Michael Levin](https://wyss.harvard.edu/team/associate-faculty/michael-levin-ph-d/): "Biophysical mechanisms that implement decision-making during complex pattern regulation, and harnessing endogenous bioelectric dynamics toward rational control of growth and form."
+  * [The Levin Lab](https://drmichaellevin.org/), [FAQ](https://drmichaellevin.org/resources/)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
