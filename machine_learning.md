@@ -77,17 +77,12 @@ title: Machine Learning
 * Jax
   * EI Seminar: Matthew Johnson: [JAX: accelerated ML research via composable function transformations](https://www.youtube.com/watch?v=mVf3HJ6gNDc)
 * [PyTorch](machine_learning/pytorch.md)
-* [scikit-learn](https://scikit-learn.org/stable/)
-  * [API design for machine learning software: experiences from the scikit-learn project](https://arxiv.org/pdf/1309.0238.pdf) (2013)
-  * Jake VanderPlas: [Python Data Science Handbook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb), a Colab book
+* [scikit-learn](machine_learning/scikit-learn.md)
 * [spark.ml](https://spark.apache.org/docs/latest/ml-guide.html)
   * S. Johnson: [From scikit-learn to Spark ML](https://towardsdatascience.com/from-scikit-learn-to-spark-ml-f2886fb46852) (2019)
   * A. Zinoviev: [Good parts of the Apache Spark ML library](https://zaleslaw.medium.com/i-have-been-a-spark-user-since-spark-0-8-adfb0b327338) (2019)
   * A. Zinoviev: [Weakness of the Apache Spark ML library](https://zaleslaw.medium.com/weakness-of-the-apache-spark-ml-library-41e674103591) (2019)
-
-* TensorFlow
-  * [CS231_n](http://cs231n.stanford.edu) [Lecture 8, Deep Learning Software](https://www.youtube.com/watch?v=6SlgtELqOWc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=8&t=3s), [2017 slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf), [2021 slides](http://cs231n.stanford.edu/slides/2021/lecture_6.pdf) compares TensorFlow, PyTorch, Caffe, discusses static and dynamic computation graphs
-  * [Keras Tutorials](https://techvidvan.com/tutorials/keras-introduction-tutorial/)
+* [TensorFlow](machine_learning/tensorflow.md)
 * Others: Caffe(Berkeley), Caffe2(Facebook), MXNet(Amazon), CNTK(Microsoft), Paddle(Baidu)
 * FBLearner Flow
   * [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/2016/05/09/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/)
