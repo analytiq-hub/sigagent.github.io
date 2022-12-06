@@ -17,6 +17,9 @@ title: Biotech
 #### Interviews
 * Lex Fridman Podcast #325: [Michael Levin: Biology, Life, Aliens, Evolution, Embryogenesis & Xenobots](https://www.youtube.com/watch?v=p3lsYlod5OU) (2022)
 
+#### People
+* [Michael Levin](https://wyss.harvard.edu/team/associate-faculty/michael-levin-ph-d/): "Biophysical mechanisms that implement decision-making during complex pattern regulation, and harnessing endogenous bioelectric dynamics toward rational control of growth and form."
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cloud Data Platform](cloud_data_platform.md)
