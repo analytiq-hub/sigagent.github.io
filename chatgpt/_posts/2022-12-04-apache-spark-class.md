@@ -6,7 +6,7 @@ author:
 layout: post
 ---
 
-Answers were provided by the OpenAI GPT chat bot.
+Answers were provided by the OpenAI [ChatGPT](https://openai.com/blog/chatgpt/).
 
 ---
 
