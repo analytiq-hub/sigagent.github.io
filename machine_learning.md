@@ -80,6 +80,7 @@ title: Machine Learning
   * [Deep Learning with PyTorch](https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264), Stevens, Antiga, Viehmann (2020), [github](https://github.com/deep-learning-with-pytorch/dlwpt-code)
   * [CS224N](https://web.stanford.edu/class/cs224n/): [PyTorch Tutorial](https://web.stanford.edu/class/cs224n/materials/CS224N_PyTorch_Tutorial.html), [ipynb](https://web.stanford.edu/class/cs224n/materials/CS224N PyTorch Tutorial.ipynb), Dilara Soylu (Winter '21), Jupyter notebooks [fork](https://github.com/Bitdribble/cs224n)
   * Sebastian Raschka: [Taking Datasets, DataLoaders, and PyTorch’s New DataPipes for a Spin](https://sebastianraschka.com/blog/2022/datapipes.html) (2022)
+  * pytorch.org: [Introducing PyTorch 2.0](https://pytorch.org/get-started/pytorch-2.0/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=pytorch_conference) (2022)
   
 * [scikit-learn](https://scikit-learn.org/stable/)
   * [API design for machine learning software: experiences from the scikit-learn project](https://arxiv.org/pdf/1309.0238.pdf) (2013)
