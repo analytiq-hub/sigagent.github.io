@@ -249,7 +249,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * Surya Ganguli: [Statistical mechanics of neural networks](https://www.youtube.com/watch?v=D_TyXVzD3hs) (2022), 2nd part
 
 #### Contrastive Learning
-* G. Hinton: [The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf) (2022)
+* G. Hinton: [The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf), [talk](https://nips.cc/virtual/2022/invited-talk/55869) (2022)
 
 #### News Ranking
 * X. Ni et al: [Prioritizing Original News on Facebook](https://arxiv.org/pdf/2102.08465.pdf) (2021)
