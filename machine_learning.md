@@ -242,6 +242,9 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 #### Language Models
 * [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) (2021)
 
+#### Transformers and Lidars
+* [Transformers in 3D Point Clouds: A Survey](https://arxiv.org/pdf/2205.07417.pdf) (2022)
+
 #### Dataset Pruning
 * Surya Ganguli: [Statistical mechanics of neural networks](https://www.youtube.com/watch?v=D_TyXVzD3hs) (2022), 2nd part
 
