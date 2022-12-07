@@ -10,5 +10,8 @@ title: PyTorch
 * Sebastian Raschka: [Taking Datasets, DataLoaders, and PyTorch’s New DataPipes for a Spin](https://sebastianraschka.com/blog/2022/datapipes.html) (2022)
 * pytorch.org: [Introducing PyTorch 2.0](https://pytorch.org/get-started/pytorch-2.0/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=pytorch_conference) (2022)
 
+#### Natural Language Processing in Pytorch
+* AiCore: [Building a vocab in torchtext](https://www.youtube.com/watch?v=CrS-LFXEiyk)
+
 #### Other
 * [Machine Learning](../machine_learning.md)
