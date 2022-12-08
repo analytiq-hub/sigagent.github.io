@@ -72,6 +72,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Perl](programming_languages/perl.md)
   * [Python](programming_languages/python.md)
 * [Projects](projects.md)
+* [Quantum Computers](quantum_computers.md)
 * [Recommender Systems](recommender_systems.md)
 * [Reinforcement Learning](reinforcement_learning.md)
 * [Religion](religion.md)

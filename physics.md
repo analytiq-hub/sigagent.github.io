@@ -122,6 +122,7 @@ title: Physics
 * [Computation Theory](computation_theory.md)
 * [Meta Learning](meta_learning.md)
 * [Probabilities and Statistics](probabilities_and_statistics.md)
+* [Quantum Computers](quantum_computers.md)
 * [Robotics](robotics.md)
 * [Self Driving Cars](self_driving_cars.md)
 * [Computational Topology](computational_topology.md)
