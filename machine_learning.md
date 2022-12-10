@@ -52,7 +52,7 @@ title: Machine Learning
   * [CS231n](http://cs231n.stanford.edu/): Convolutional Neural Networks for Visual Recognition (Spring 2017), [syllabus](https://cs231n.github.io/), [2016 video](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC), [2017 videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [2017 slides](http://cs231n.stanford.edu/slides/2017), [2021 slides](http://cs231n.stanford.edu/slides/2021)
     * Karpathy's [ConvNetJS CIFAR-10 demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
   * [CS236](https://deepgenerativemodels.github.io/): Deep Generative Models (slides only)
-  * [CS224n](http://web.stanford.edu/class/cs224n/):Natural Language Processing with Deep Learning [Winter 2017 video](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6), [Winter 2019 video](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+  * [CS224n](http://web.stanford.edu/class/cs224n/):Natural Language Processing with Deep Learning [Winter 2017 video](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6), [Winter 2019 video](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z), [Winter 2021 video](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
   * [CS224W](http://web.stanford.edu/class/cs224w): Machine Learning with Graphs [Spring 2021 video](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
 #### Conferences
