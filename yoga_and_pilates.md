@@ -21,6 +21,8 @@ title: Yoga and Pilates
   * Christine Khuri:, [30 Min Ab Workout](https://www.youtube.com/watch?v=AdWyo_3KrfA), [20 Min Ultimate Ab Workout](https://www.youtube.com/watch?v=q6NIWNnvOK0) (2017)
 * Arms and legs
   * [30m arms & legs workout - at home Pilates](https://www.youtube.com/watch?v=XM6N1yl3UYw)
+* Arms and Shoulders
+  * J. Roberts: [20 Minute Yoga for Arms & Shoulders](https://www.youtube.com/watch?v=G9shuNsxZ7M)
 * Handstand
   * [How to do a Handstand for Beginners Step by Step at Home](https://www.youtube.com/watch?v=8jXiQMh6Sc0) (2017)
 * Knee
