@@ -45,6 +45,7 @@ title: Automated Theorem Proving
 * [Learning to Reason in Large Theories without Imitation](https://arxiv.org/pdf/1905.10501.pdf), K. Bansal, C. Szegedy et al, Google Research (2021)
 * G. Lample et al: [HyperTree Proof Search for Neural Theorem Proving](https://arxiv.org/pdf/2205.11491.pdf) (2022)
 * A. Jiang et al: [Draft, Sketch and Prove: Guiding Formal Theorem Provers With Informal Proofs](https://arxiv.org/pdf/2210.12283.pdf) (2022)
+* S. Polu, I. Sutskever: [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/pdf/2009.03393.pdf) (2020)
 
 #### Benchmarks
 * [HOList](https://sites.google.com/view/holist/home)
