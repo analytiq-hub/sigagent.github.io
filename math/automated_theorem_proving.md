@@ -5,7 +5,6 @@ title: Automated Theorem Proving
 ---
 #### Books
 * [Homotopy Type Theory](https://hott.github.io/book/nightly/hott-online-1274-gd98a32f.pdf) - Univalent Foundations of Mathematics
-* Norman Megill, David A. Wheeler: [Metamath](https://us.metamath.org/downloads/metamath.pdf) - A Computer Language for Mathematical Proofs (2019)
 
 #### Languages
 * [Coq](https://coq.inria.fr/)
