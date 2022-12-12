@@ -48,6 +48,7 @@ title: Automated Theorem Proving
 * A. Jiang et al: [Draft, Sketch and Prove: Guiding Formal Theorem Provers With Informal Proofs](https://arxiv.org/pdf/2210.12283.pdf) (2022)
 * S. Polu, I. Sutskever: [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/pdf/2009.03393.pdf) (2020)
 * Y. Wu, C. Szegedy et al: [Autoformalization with Large Language Models](https://arxiv.org/pdf/2205.12615.pdf) (2022)
+* M Chen, I. Sutskever, W. Zaremba et al: [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf) (2021)
 
 #### Benchmarks
 * [HOList](https://sites.google.com/view/holist/home)
