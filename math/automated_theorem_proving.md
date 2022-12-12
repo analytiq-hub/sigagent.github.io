@@ -17,6 +17,9 @@ title: Automated Theorem Proving
     * [Mathematics in Lean introduction - Patrick Massot](https://www.youtube.com/watch?v=lw8EfTmWzRU&list=PLlF-CfQhukNlxexiNJErGJd2dte_J1t1N&index=4)
 * [Metamath](http://us.metamath.org/downloads/metamath.pdf), by Norman Megill, revised by David A. Wheeler (2019)
 * [HOL Light](https://www.cl.cam.ac.uk/~jrh13/hol-light/)
+* [Isabelle](https://isabelle.in.tum.de/)
+  * [Comparison of Two Theorem Provers: Isabelle/HOL and Coq](https://arxiv.org/pdf/1808.09701.pdf)
+  * [Isabelle Theorem Prover tutorial](https://www.youtube.com/watch?v=1nEpUoVopT0)
 
 #### Posts
 * [Building the Mathematical Library of the Future](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/), Kevin Hartnett (2020)
