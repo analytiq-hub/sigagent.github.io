@@ -101,3 +101,10 @@ To do this, we start by dividing 3136 by 2 to get 1568. We then divide 1568 by 2
 I apologize for any confusion my previous response may have caused. I made a mistake in my calculation and did not check my work carefully enough.
 
 ---
+
+<p align="center">
+<img src="/chatgpt/_posts/img/Screen Shot 2022-12-13 at 10.52.07 PM.png"/>
+<img src="/chatgpt/_posts/img/Screen Shot 2022-12-13 at 10.52.35 PM.png"/>
+<img src="/chatgpt/_posts/img/Screen Shot 2022-12-13 at 10.52.44 PM.png"/>
+<img src="/chatgpt/_posts/img/Screen Shot 2022-12-13 at 10.52.50 PM.png"/>
+</p>
