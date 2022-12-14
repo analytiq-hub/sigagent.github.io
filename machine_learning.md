@@ -168,6 +168,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [How to Avoid Overfitting in Deep Learning Neural Networks](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/), J. Brownlee (2018)
 
 #### Autoencoders and Variational Autoencoders
+* D.P. Kingma, M. Welling [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf) (2015)
 * Sebastian Raschka: [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html) (2021)
   * [L16: Autoencoders](https://sebastianraschka.com/blog/2021/dl-course.html#l16-autoencoders)
   * [L17: Variational autoencoders](https://sebastianraschka.com/blog/2021/dl-course.html#l17-variational-autoencoders)
