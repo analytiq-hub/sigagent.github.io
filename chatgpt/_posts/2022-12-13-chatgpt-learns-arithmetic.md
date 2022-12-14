@@ -6,13 +6,11 @@ author:
 layout: post
 ---
 
-Turns out ChatGPT can learn high level arithmetic concepts through Q&A with the user.
+Turns out [ChatGPT](https://openai.com/blog/chatgpt/) can learn high level arithmetic concepts through Q&A with the user.
 
 Initially, it factored 3136 into primes incorectly. And it mistakely thought a^m * b^n = (a * b)^(m * n).
 
-After more prompting, it figured out the correct answers.
-
-Answers were provided by the OpenAI [ChatGPT](https://openai.com/blog/chatgpt/).
+After prompting, it figured out the correct answers.
 
 ---
 
