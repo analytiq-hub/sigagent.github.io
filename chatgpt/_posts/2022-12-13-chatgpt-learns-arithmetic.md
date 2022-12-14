@@ -103,7 +103,7 @@ I apologize for any confusion my previous response may have caused. I made a mis
 ---
 
 <p align="center">
-<img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.17.03_PM.png" width="250" height="250"/>
+<img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.17.03_PM.png"/>
 <img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.19.43_PM.png"/>
 <img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.52.07_PM.png"/>
 <img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.52.35_PM.png"/>
