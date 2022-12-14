@@ -12,6 +12,16 @@ Initially, it factored 3136 into primes incorectly. And it mistakely thought a^m
 
 After prompting, it figured out the correct answers.
 
+<p align="center">
+<img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.17.03_PM.png"/>
+<img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.19.43_PM.png"/>
+<img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.52.07_PM.png"/>
+<img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.52.35_PM.png"/>
+<img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.52.44_PM.png"/>
+<img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.52.50_PM.png"/>
+</p>
+
+
 ---
 
 Q: Factor 3136 into primes
@@ -106,11 +116,3 @@ I apologize for any confusion my previous response may have caused. I made a mis
 
 ---
 
-<p align="center">
-<img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.17.03_PM.png"/>
-<img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.19.43_PM.png"/>
-<img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.52.07_PM.png"/>
-<img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.52.35_PM.png"/>
-<img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.52.44_PM.png"/>
-<img src="/src/images/chatgpt/Screen_Shot_2022-12-13_at_10.52.50_PM.png"/>
-</p>
