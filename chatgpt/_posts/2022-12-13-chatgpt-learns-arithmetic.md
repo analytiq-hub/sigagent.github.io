@@ -103,10 +103,10 @@ I apologize for any confusion my previous response may have caused. I made a mis
 ---
 
 <p align="center">
-<img src="/chatgpt/_posts/img/Screen Shot 2022-12-13 at 10.17.03 PM.png"/>
-<img src="/chatgpt/_posts/img/Screen Shot 2022-12-13 at 10.19.43 PM.png"/>
-<img src="/chatgpt/_posts/img/Screen Shot 2022-12-13 at 10.52.07 PM.png"/>
-<img src="/chatgpt/_posts/img/Screen Shot 2022-12-13 at 10.52.35 PM.png"/>
-<img src="/chatgpt/_posts/img/Screen Shot 2022-12-13 at 10.52.44 PM.png"/>
-<img src="/chatgpt/_posts/img/Screen Shot 2022-12-13 at 10.52.50 PM.png"/>
+<img src="img/Screen Shot 2022-12-13 at 10.17.03 PM.png"/>
+<img src="img/Screen Shot 2022-12-13 at 10.19.43 PM.png"/>
+<img src="img/Screen Shot 2022-12-13 at 10.52.07 PM.png"/>
+<img src="img/Screen Shot 2022-12-13 at 10.52.35 PM.png"/>
+<img src="img/Screen Shot 2022-12-13 at 10.52.44 PM.png"/>
+<img src="img/Screen Shot 2022-12-13 at 10.52.50 PM.png"/>
 </p>
