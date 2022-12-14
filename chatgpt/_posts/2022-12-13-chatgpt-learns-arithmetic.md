@@ -6,6 +6,12 @@ author:
 layout: post
 ---
 
+Turns out ChatGPT can learn high level arithmetic concepts through Q&A with the user.
+
+Here, ChatGPT initially did not know how to factor 3136 into primes. And it mistakely thought a^m * b^n = (a * b)^(m * n).
+
+After more prompting, it figured out the formula was wrong, and also, it figured out the prime factorization of 3136.
+
 Answers were provided by the OpenAI [ChatGPT](https://openai.com/blog/chatgpt/).
 
 ---
