@@ -239,7 +239,8 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * Tutorial: [Migrate torchtext from the legacy API to the new API](https://colab.research.google.com/github/pytorch/text/blob/master/examples/legacy_tutorial/migration_tutorial.ipynb)
 
 #### RNN
-* Towards Data Science: [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45), by R. Karim (201)
+* Towards Data Science: [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45), by R. Karim (2018)
+* Towards Data Science: [Counting No. of Parameters in Deep Learning Models by Hand](https://towardsdatascience.com/counting-no-of-parameters-in-deep-learning-models-by-hand-8f1716241889), by R. Karim (2018)
 
 #### Attention
 * MIT 6.S191: [Recurrent Neural Networks and Transformers](https://www.youtube.com/watch?v=QvkQ1B3FBqA&t=1721s) (2022)
