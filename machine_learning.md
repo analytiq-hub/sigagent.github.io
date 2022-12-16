@@ -181,6 +181,9 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
     * [11 - Implementing a Variational Autoencoder](https://i.ytimg.com/vi/A6mdOEPGM1E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfOmHXPwsArihUsopN9czV3AZIag) (in Keras)
 * A. Geron: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/14920326461) (Chap 17)
   * [17_autoencoders_gans_and_diffusion_models.ipynb](https://github.com/andrei-radulescu-banu/handson-ml3/blob/main/17_autoencoders_gans_and_diffusion_models.ipynb)
+* CS229:
+  * [L20 - Variational Autoencoders](https://www.youtube.com/watch?v=-TPFg-RG-KY&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&index=20) (Summer 2019)
+  * [The EM algorithm](http://cs229.stanford.edu/summer2019/cs229-notes8.pdf)
 
 #### Convolutional Nets
 * [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567v1.pdf), C. Szegedy el at (2015)
