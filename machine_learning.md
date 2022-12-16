@@ -172,12 +172,14 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * Sebastian Raschka: [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html) (2021)
   * [L16: Autoencoders](https://sebastianraschka.com/blog/2021/dl-course.html#l16-autoencoders)
   * [L17: Variational autoencoders](https://sebastianraschka.com/blog/2021/dl-course.html#l17-variational-autoencoders)
+  * [Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319) Chap. 17
 * Valerio Velardo: [The Sound of AI](https://www.youtube.com/@ValerioVelardoTheSoundofAI)
   * [Generating Sound with Neural Networks](https://www.youtube.com/playlist?list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp)
     * [3 - How do AutoEncoders work?](https://www.youtube.com/watch?v=xwrzh4e8DLs)
     * [9 - From Autoencoders to Variational Autoencoders: Part 1](https://www.youtube.com/watch?v=b8AzCgY1gZI)
     * [10 - From Autoencoders to Variational Autoencoders: Part 2](https://www.youtube.com/watch?v=lRsqFbgGyKg)
     * [11 - Implementing a Variational Autoencoder](https://i.ytimg.com/vi/A6mdOEPGM1E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfOmHXPwsArihUsopN9czV3AZIag) (in Keras)
+* A. Geron: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/14920326461) (Chap 17), [17_autoencoders_gans_and_diffusion_models.ipynb](https://github.com/andrei-radulescu-banu/handson-ml3/blob/main/17_autoencoders_gans_and_diffusion_models.ipynb)
 
 #### Convolutional Nets
 * [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567v1.pdf), C. Szegedy el at (2015)
