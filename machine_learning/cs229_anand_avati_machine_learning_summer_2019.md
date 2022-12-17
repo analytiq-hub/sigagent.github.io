@@ -1,11 +1,12 @@
 ---
 layout: page
 mathjax: true
-title: CS229 Machine Learning, Anand Avati, Summer 2019
+title: CS229 Machine Learning
 mathjax: true
 ---
 
-Course [video, slides](http://cs229.stanford.edu/syllabus-summer2019.html)
+* CS229 Machine Learning, Anand Avati, Summer 2019
+* Course [video, slides](http://cs229.stanford.edu/syllabus-summer2019.html)
 
 Course notes:
 * [L19](https://www.youtube.com/watch?v=i6d5QTmPXiw&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&index=19)
