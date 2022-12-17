@@ -22,7 +22,7 @@ Course notes:
         * By convention, $$p(y_i)$$ is denoted $$p_i$$ (vector notation)
         * Typically want $$T_j(y)=y^k$$, the $$k$$-th momentum
         * $$p$$ will turn out to be the exponential family
-        * Most times, $$c_j$$ arises from observed data
+        * Most times, $$c_j$$ arises from observed data $$c_j = \frac{1}{n} \sum_i Tj(y_i)p_i$$
     * KL-Divergence
     * Calibration and Proper Scoring Rules
   * Class notes
