@@ -28,4 +28,6 @@ Course notes:
     * Calibration and Proper Scoring Rules
   * Class notes
     * [Max Entropy](http://cs229.stanford.edu/summer2019/MaxEnt.pdf)
+  * References
+     * Wikipedia: [Principle of maximum entropy](https://en.wikipedia.org/wiki/Principle_of_maximum_entropy)
 
