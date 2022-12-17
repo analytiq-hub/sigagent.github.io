@@ -19,6 +19,7 @@ Course notes:
       * Maximum Likelyhood Estimate (MLE) of Exponential Family: obtained when gradient $$\nabla_\nu$$ of distribution is zero. By calculation, this is when $$a^\prime(\nu) = \frac{1}{n} \sum_{i=1, ..., n} T(y^{(i)})$$
       * Maximum Entropy Principle
         * We want to estimate prob density $$p(y)$$, with max entropy, given $$m$$ constraints $$\sum_i T_j(y_i)p(y_i) = c_j$$
+        * By convention, $$p(y_i)$$ is denoted $$p_i$$ (vector notation)
         * Typically want $$T_j(y)=y^k$$, the $$k$$-th momentum
         * $$p$$ will turn out to be the exponential family
         * Most times, $$c_j$$ arises from observed data
