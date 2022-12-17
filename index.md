@@ -36,6 +36,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [GPUs](gpus.md)
 * [Healthcare](healthcare.md)
 * [History](history.md)
+* [Information Theory](information_theory.md)
 * [Intellectual History](intellectual_history.md)
 * Kernel & System Programming
   * [Linux Kernel](linux_kernel.md)

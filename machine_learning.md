@@ -32,6 +32,7 @@ title: Machine Learning
 * Yann LeCun [Deep Learning](https://www.youtube.com/watch?v=ChLEJA6J2b8&list=PL80I41oVxglJ0kTDV7i3aHBIXe65nTxE7&index=6) course at College de France (2016)
 * CMU
   * [Advanced NLP 2022](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
+  * 10-704: [Information Processing and Learning](https://www.cs.cmu.edu/~aarti/Class/10704/) (Spring 2012)
 * G. Hinton: [Neural Networks for Machine Learning](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) (2012)
 * G. Hulten: [Machine Learning Course](https://www.youtube.com/watch?v=jxWbJz49HCg&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO) (2021). Andrei's [notes](machine_learning/geoff_hulten_machine_learning_course.md).
 * Berkeley
@@ -333,6 +334,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [Cognitive Science](cognitive_science.md)
 * [Computation Theory](computation_theory.md)
 * [GPUs](gpus.md)
+* [Information Theory](information_theory.md)
 * [Meta Learning](meta_learning.md)
 * [MLOps](mlops.md)
 * [Natural Language Processing](natural_language_processing.md)
