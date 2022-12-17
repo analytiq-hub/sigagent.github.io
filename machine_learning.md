@@ -188,6 +188,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * M2L:
   * [2021 3.1 Variational inference, VAE's and normalizing flows - Rianne van den Berg](https://www.youtube.com/watch?v=-hcxTS5AXW0)
   * [2022.10 Variational autoencoders and Diffusion Models - Tim Salimans](https://www.youtube.com/watch?v=pea3sH6orMc&t=828s)
+* D. Bei et al: [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
 * London Machine Learning Meetup: [Max Welling - Make VAEs Great Again: Unifying VAEs and Flows](https://www.youtube.com/watch?v=bXp8fk4MRXQ) (2020)
 
 #### Convolutional Nets
