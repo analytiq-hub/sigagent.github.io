@@ -30,4 +30,12 @@ Course notes:
     * [Max Entropy](http://cs229.stanford.edu/summer2019/MaxEnt.pdf)
   * References
      * Wikipedia: [Principle of maximum entropy](https://en.wikipedia.org/wiki/Principle_of_maximum_entropy)
+* [L20](https://www.youtube.com/watch?v=-TPFg-RG-KY&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&index=20)
+  * Variational Inference
+  * EM Variants
+  * Variational Autoencoder
+  * Class notes
+    * [VAE (Sec 4)](http://cs229.stanford.edu/summer2019/cs229-notes8.pdf)
+  * References
+    * Wikipedia: [Feature Learning](https://en.wikipedia.org/wiki/Feature_learning)
 
