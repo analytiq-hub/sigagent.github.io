@@ -18,7 +18,9 @@ Course notes:
       * Exponential Family: $$f(y \vert \nu) = h(y) e^{\nu . T(y) - a(\nu)}$$
       * Maximum Likelyhood Estimate (MLE) of Exponential Family: obtained when gradient $$\nabla_\nu$$ of distribution is zero. By calculation, this is when $$a^\prime(\nu) = \frac{1}{n} \sum_{i=1, ..., n} T(y^{(i)})$$
       * Maximum Entropy Principle
-        * We want to estimate prob density $$p(x)$$ for all $$x$$, with max entropy, given its value $$x^{(i)}$$, for finite number of indices $$i$$
+        * We want to estimate prob density $$p(y)$$, with max entropy, given $$m$$ constraints $$\sum_i T_j(y_i)p_i = c_j$$
+        * Typically want $$T_j(y)=y^k$$, the $$k$$-th momentum
+        * $$p$$ will turn out to be the exponential family
     * KL-Divergence
     * Calibration and Proper Scoring Rules
   * Class notes
