@@ -185,6 +185,10 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * CS229:
   * [L20 - Variational Autoencoders](https://www.youtube.com/watch?v=-TPFg-RG-KY&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&index=20) (Summer 2019)
   * [The EM algorithm](http://cs229.stanford.edu/summer2019/cs229-notes8.pdf)
+* M2L:
+  * [2021 3.1 Variational inference, VAE's and normalizing flows - Rianne van den Berg](https://www.youtube.com/watch?v=-hcxTS5AXW0)
+  * [2022.10 Variational autoencoders and Diffusion Models - Tim Salimans](https://www.youtube.com/watch?v=pea3sH6orMc&t=828s)
+* London Machine Learning Meetup: [Max Welling - Make VAEs Great Again: Unifying VAEs and Flows](https://www.youtube.com/watch?v=bXp8fk4MRXQ) (2020)
 
 #### Convolutional Nets
 * [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567v1.pdf), C. Szegedy el at (2015)
