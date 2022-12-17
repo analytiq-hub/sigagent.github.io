@@ -1,6 +1,5 @@
 ---
 layout: page
-mathjax: true
 title: CS229 Machine Learning
 mathjax: true
 ---
