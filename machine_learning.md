@@ -187,9 +187,15 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
   * [The EM algorithm](http://cs229.stanford.edu/summer2019/cs229-notes8.pdf)
 * M2L:
   * [2021 3.1 Variational inference, VAE's and normalizing flows - Rianne van den Berg](https://www.youtube.com/watch?v=-hcxTS5AXW0)
-  * [2022.10 Variational autoencoders and Diffusion Models - Tim Salimans](https://www.youtube.com/watch?v=pea3sH6orMc&t=828s)
 * D. Bei et al: [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
 * London Machine Learning Meetup: [Max Welling - Make VAEs Great Again: Unifying VAEs and Flows](https://www.youtube.com/watch?v=bXp8fk4MRXQ) (2020)
+
+#### Diffusion
+* [Stable Diffusion: DALL-E 2 For Free, For Everyone!](https://www.youtube.com/watch?v=nVhmFski3vg)
+* [Tutorial on diffusion](https://www.youtube.com/watch?v=cS6JQpEY9cs) (3.5 hrs)
+* [MIT 6.S192 - Lecture 20: Generative art using diffusion](https://www.youtube.com/watch?v=xYJEvihz3OI), by Prafulla Dhariwal
+* M2L:
+  * [2022.10 Variational autoencoders and Diffusion Models - Tim Salimans](https://www.youtube.com/watch?v=pea3sH6orMc&t=828s)
 
 #### Convolutional Nets
 * [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567v1.pdf), C. Szegedy el at (2015)
@@ -218,11 +224,6 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
   * ML Street Talk #36: [Max Welling: Quantum, Manifolds & Symmetries in ML](https://www.youtube.com/watch?v=mmDw5glry9w) (2021)
   * IAS Seminar on Theoretical ML: [Graph Nets: The Next Generation](https://www.youtube.com/watch?v=Wx8J-Kw3fTA) (2020)
 *  Machine Learning Street Talk #75: [Emergence with Danielle Grattarola](https://www.youtube.com/watch?v=MDt2e8XtUcA) (2022)
-
-#### Generative Models
-* [Stable Diffusion: DALL-E 2 For Free, For Everyone!](https://www.youtube.com/watch?v=nVhmFski3vg)
-* [Tutorial on diffusion](https://www.youtube.com/watch?v=cS6JQpEY9cs) (3.5 hrs)
-* [MIT 6.S192 - Lecture 20: Generative art using diffusion](https://www.youtube.com/watch?v=xYJEvihz3OI), by Prafulla Dhariwal
 
 #### Reinforcement Learning
 * R. Sutton, A. Barto: [Reinforcement Learning, second edition: An Introduction](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=d_pd_sim_sccl_3_1/146-1943148-1230166) (2018)
