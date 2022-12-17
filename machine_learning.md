@@ -246,12 +246,14 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * Towards Data Science: [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45), by R. Karim (2018)
 * Towards Data Science: [Counting No. of Parameters in Deep Learning Models by Hand](https://towardsdatascience.com/counting-no-of-parameters-in-deep-learning-models-by-hand-8f1716241889), by R. Karim (2019)
 
-#### Attention
+#### Attention, Transformers
 * MIT 6.S191: [Recurrent Neural Networks and Transformers](https://www.youtube.com/watch?v=QvkQ1B3FBqA&t=1721s) (2022)
 * Leo Dirac: [LSTM is dead. Long Live Transformers!](https://www.youtube.com/watch?v=S27pHKBEp30) (2019)
 * Sebastian Raschka: [L19.5.1 The Transformer Architecture](https://www.youtube.com/watch?v=tstbZXNCfLY)
 * Towards Data Science: [How to code The Transformer in Pytorch](https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec), by S. Lynn-Evans (2018)
 * Lucas Beyer: [Transformers](https://www.youtube.com/watch?v=UpfcyzoZ644), Mediterranean ML Summer School 2022 seminar
+* Papers
+  * J. von Oswald et al: [Transformers learn in-context by gradient descent](https://arxiv.org/pdf/2212.07677.pdf) (2022)
 
 #### Language Models
 * [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) (2021)
