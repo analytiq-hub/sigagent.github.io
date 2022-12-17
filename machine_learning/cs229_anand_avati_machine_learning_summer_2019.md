@@ -23,6 +23,7 @@ Course notes:
         * Typically want $$T_j(y)=y^k$$, the $$k$$-th momentum
         * $$p$$ will turn out to be the exponential family
         * Most times, $$c_j$$ arises from observed data $$c_j = \frac{1}{n} \sum_i Tj(y_i)p_i$$
+        * Solve using Lagrangian $$\mathcal{L}(p, \eta, \lambda) = H(p) + <\eta, Tp-c> + \lambda(<1, p>-1)$$
     * KL-Divergence
     * Calibration and Proper Scoring Rules
   * Class notes
