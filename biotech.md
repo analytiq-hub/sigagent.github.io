@@ -21,8 +21,6 @@ title: Biotech
 * [Michael Levin](https://wyss.harvard.edu/team/associate-faculty/michael-levin-ph-d/): "Biophysical mechanisms that implement decision-making during complex pattern regulation, and harnessing endogenous bioelectric dynamics toward rational control of growth and form."
   * [The Levin Lab](https://drmichaellevin.org/), [FAQ](https://drmichaellevin.org/resources/)
   * Michael Levin Book Recommendations: [Top picks for books in the life sciences](https://docs.google.com/document/d/1aIn2IQqmX0mtDb_m4U--S-QuAuqrtIiG-7NzPSYgT8E/edit)
-* [Karl Friston](https://www.fil.ion.ucl.ac.uk/~karl/)
-  * MLDawn: [Active inference explained with Prof. Karl Friston](https://www.youtube.com/watch?v=XohuuIi7Jt8) (2021)
 
 
 #### Other
