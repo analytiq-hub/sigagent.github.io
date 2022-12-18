@@ -132,6 +132,10 @@ See [GPUs](gpus.md) page
 * G. Chen: Math 253: Mathematical Methods for Data Visualization: [Lec 11, LDA](https://www.sjsu.edu/faculty/guangliang.chen/Math253S20/lec11lda.pdf), explains math behind LDA
 * B. Ghojogh: [Eigenvalue and Generalized Eigenvalue Problems: Tutorial](https://arxiv.org/pdf/1903.11240.pdf) (2022)
 
+#### Expectation Maximization
+* V. Lavrenko: [Mixture Models](https://www.youtube.com/watch?v=REypj2sy_5U&list=PLBv09BD7ez_4e9LtmK626Evn1ion6ynrt) (2014)
+* Andrew Ng, Stanford CS229: [L14: Expectation-Maximization](https://www.youtube.com/watch?v=rVfZHWTwXSA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=14) (2019)
+
 #### Folding
 * [MIT Robotics - David Held - Perceptual Robot Learning](https://www.youtube.com/watch?v=YSj4cIFxvhc) (2021)
 
