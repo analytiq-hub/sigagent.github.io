@@ -14,7 +14,7 @@ title: Machine Learning
 * [Bio-Inspired Artificial Intelligence: Theories, Methods, and Technologies](https://www.amazon.com/Bio-Inspired-Artificial-Intelligence-Technologies-Intelligent/dp/0262062712), D. Floreano, C. Mattiussi (2008)
 * [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/), I. Goodfellow, Y. Bengio, A. Courville (2016)
 * [Deep Learning Systems: Algorithms, Compilers, and Processors for Large-Scale Production](https://deeplearningsystems.ai/), Andres Rodriguez (2020)
-* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/14920326461): Concepts, Tools, and Techniques to Build Intelligent Systems, by Aurelien Geron (2nd ed, 2019) ([Jupyter notebooks](https://github.com/ageron/handson-ml2)). Very complete, but using TensorFlow. 
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/14920326461): Concepts, Tools, and Techniques to Build Intelligent Systems, by Aurelien Geron (3rd ed, 2022) ([Jupyter notebooks](https://github.com/ageron/handson-ml2))
 * [Python Machine Learning Cookbook](https://www.amazon.com/Machine-Learning-Python-Cookbook-Preprocessing/dp/1491989386/ref=asc_df_1491989386/), Chris Albon (2018)
 * [Learning Machine Learning](https://www.informit.com/store/learning-deep-learning-theory-and-practice-of-neural-9780137470358), M. Ekman (2021), [github](https://github.com/NVDLI/LDL/tree/main/pt_framework)
 * [fast.ai](https://www.fast.ai/), [Deep Learning for Coders with Fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527), J. Howard and S. Gugger (2020)
@@ -194,12 +194,20 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * D. Bei et al: [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
 * London Machine Learning Meetup: [Max Welling - Make VAEs Great Again: Unifying VAEs and Flows](https://www.youtube.com/watch?v=bXp8fk4MRXQ) (2020)
 
+#### GANs
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/14920326461), by Aurelien Geron (3rd ed, 2022), Chap 17
+
+#### Style GANs
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/14920326461), by Aurelien Geron (3rd ed, 2022), Chap 17
+
+
 #### Diffusion
 * [Stable Diffusion: DALL-E 2 For Free, For Everyone!](https://www.youtube.com/watch?v=nVhmFski3vg)
 * [Tutorial on diffusion](https://www.youtube.com/watch?v=cS6JQpEY9cs) (3.5 hrs)
 * [MIT 6.S192 - Lecture 20: Generative art using diffusion](https://www.youtube.com/watch?v=xYJEvihz3OI), by Prafulla Dhariwal
 * M2L:
   * [2022.10 Variational autoencoders and Diffusion Models - Tim Salimans](https://www.youtube.com/watch?v=pea3sH6orMc&t=828s)
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/14920326461), by Aurelien Geron (3rd ed, 2022), Chap 17
 
 #### Convolutional Nets
 * [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567v1.pdf), C. Szegedy el at (2015)
