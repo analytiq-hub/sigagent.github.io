@@ -196,11 +196,8 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 
 #### GANs
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/14920326461), by Aurelien Geron (3rd ed, 2022), Chap 17
-
-#### Style GANs
+* S. Reed et al: [Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf) (2016)
 * T. Karras et al: [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948.pdf) (2018)
-* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/14920326461), by Aurelien Geron (3rd ed, 2022), Chap 17
-
 
 #### Diffusion
 * [Stable Diffusion: DALL-E 2 For Free, For Everyone!](https://www.youtube.com/watch?v=nVhmFski3vg)
