@@ -206,6 +206,11 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * M2L:
   * [2022.10 Variational autoencoders and Diffusion Models - Tim Salimans](https://www.youtube.com/watch?v=pea3sH6orMc&t=828s)
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/14920326461), by Aurelien Geron (3rd ed, 2022), Chap 17
+* [Tutorial on Denoising Diffusion-based Generative Modeling: Foundations and Applications](https://www.youtube.com/watch?v=cS6JQpEY9cs) (3.5 hrs)
+* [MIT 6.S192 - Lecture 20: Generative art using diffusion](https://www.youtube.com/watch?v=xYJEvihz3OI), Prafulla Dhariwal, OpenAI
+* [Stable Diffusion: DALL-E 2 For Free, For Everyone!](https://www.youtube.com/watch?v=nVhmFski3vg) (2022)
+* Huggingface: [Stable Diffusion 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+  
 
 #### Text to image
 * Yannic Kilcher: [OpenAI CLIP: ConnectingText and Images (Paper Explained)](https://www.youtube.com/watch?v=T9XSU0pKX2E) (2022)

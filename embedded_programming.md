@@ -8,4 +8,7 @@ title: Embedded Programming
 * [Embedded Hardware](https://www.amazon.com/Designing-Embedded-Hardware-Computers-Devices-ebook/dp/B0043D2E4U), JohnCatshoulis (2003)
 
 #### Other
+* Phil Koopman, CMU: [Embedded System Lecture Notes and Presentations](https://users.ece.cmu.edu/~koopman/lectures/index.html)
+
+#### Other
 * [Raspbian "stretch" for Raspberry Pi 3 on QEMU](https://github.com/wimvanderbauwhede/limited-systems/wiki/Raspbian-%22stretch%22-for-Raspberry-Pi-3-on-QEMU), by Wim Vanderbauwhede (accessed Oct 2018)
