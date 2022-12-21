@@ -4,10 +4,11 @@ title: CS229 Machine Learning
 mathjax: true
 ---
 
-* CS229 Machine Learning, Anand Avati, Summer 2019
-* Course [video, slides](http://cs229.stanford.edu/syllabus-summer2019.html)
+* CS229 Machine Learning
+  * Andrew Ng, Fall 2018 [video](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU), [slides](http://cs229.stanford.edu/syllabus-autumn2018.html)
+  * Anand Avati, Summer 2019 [video](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh), [slides](http://cs229.stanford.edu/syllabus-summer2019.html)
 
-Course notes:
+Andrei's notes:
 
 2018
 * [L5](https://www.youtube.com/watch?v=nt63k3bfXS0&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=5)
