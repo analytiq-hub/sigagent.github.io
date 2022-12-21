@@ -5,9 +5,7 @@ title: Machine Learning
 ---
 #### Books, Lecture Notes
 * Michael Nielsen: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-* [Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738), C. Bishop, [pdf](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 * [Artificial Intelligence: A Modern Approach](repository.unimal.ac.id/1022/1/Artificial%20Intelligence%20-%20A%20Modern%20Approach%203rd%20Ed%20-%20Stuart%20Russell%20and%20Peter%20Norvig%2C%20Berkeley%20%282010%29.pdf), by Russell and Norvig (4th edition, 2020)
-* [Machine Learning: A Probabilistic Perspective](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020), Kevin Murphy (2012)
 * [Deep learning theory lecture notes](https://mjt.cs.illinois.edu/dlt/), Matus Telgarsky
 * [Fundamentals of Machine Learning for Predictive Data Analytics](https://www.amazon.com/Fundamentals-Machine-Learning-Predictive-Analytics/dp/0262044692/ref=asc_df_0262044692/), J.D. Kelleher et al (2020)
 * [Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond](https://www.amazon.com/Learning-Kernels-Regularization-Optimization-Computation/dp/0262194759), B. Scholkopf, A. Smola (2001)
@@ -25,6 +23,13 @@ title: Machine Learning
 * A. Zheng, A. Casari: [Feature Engineering](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241/) (2018)
 * S. Raschka et al: [Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319), [github](https://github.com/rasbt/machine-learning-book), [Andrei's fork](https://github.com/andrei-radulescu-banu/machine-learning-book)
 * Jake VanderPlas: [Python Data Science Handbook](https://www.oreilly.com/library/view/python-data-science/9781491912126/), [colab](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+
+#### Books - ML from the Probabilistic Perspective
+* [Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738), C. Bishop, [pdf](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+* [Machine Learning: A Probabilistic Perspective](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020), Kevin Murphy (2012)
+* [Statistical Learning Theory](https://www.amazon.com/STATISTICAL-LEARNING-THEORY-Vladimir-Vapnik/dp/8126528923), Vladimir Vapnik (1998)
+* [The Nature of Statistical Learning Theory](https://www.amazon.com/Nature-Statistical-Learning-Theory/dp/0387945598), V. Vapnik(1998)
+* [Bayesian Networks and Decision Graphs](https://www.amazon.com/gp/product/0387682813), T.D. Nielsen, F.V. Jensen (2007)
 
 #### Courses
 * P. Abbeel: [Foundations of Deep RL in 6 Lectures](https://www.youtube.com/watch?v=2GwBez0D20A&list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) (2021), [slides](https://www.dropbox.com/s/f9xyrdkpqugtrvq/l1-mdps-exact-methods.pdf?dl=0)
