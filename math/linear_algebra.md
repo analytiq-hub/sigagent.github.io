@@ -5,6 +5,7 @@ title: Linear Algebra
 ---
 
 #### Books
+* G. Strang: [Differential Equations and Linear Algebra](https://www.amazon.com/Differential-Equations-Linear-Algebra-Gilbert/dp/0980232791) (2012)
 * R.A. Horn, C.R. Johnson: [Matrix Analysis](https://www.amazon.com/Matrix-Analysis-Second-Roger-Horn/dp/0521548233), 2nd ed (2012)
 
 #### Links
