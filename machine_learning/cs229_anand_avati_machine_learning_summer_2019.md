@@ -8,6 +8,17 @@ mathjax: true
 * Course [video, slides](http://cs229.stanford.edu/syllabus-summer2019.html)
 
 Course notes:
+
+2018
+* [L5](https://www.youtube.com/watch?v=nt63k3bfXS0&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=5)
+  * Generative vs Discriminative Algorithms
+  * Gaussian Distributed Analysis (GDA)
+    * Comparison with Logistic Regression
+  * Naive Bayes
+  * Class Notes
+    * [Generative Learning algorithms](http://cs229.stanford.edu/summer2019/cs229-notes2.pdf)
+
+2019
 * [L19](https://www.youtube.com/watch?v=i6d5QTmPXiw&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&index=19)
   * Topics
     * Definition of KL-Divergence: $$D_{KL}(P \vert\vert Q) = \sum_x P(x) log \frac{P(X)}{Q(X)} = \mathbb{E}_P [log \frac{P}{Q} ]$$
