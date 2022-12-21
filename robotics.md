@@ -38,20 +38,23 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 * [Inferring Human Intent from Video by Sampling Hierarchical Plans](https://web.cs.ucla.edu/~sholtzen/assets/IROS_2016_camera.pdf), S. Holtzen, Y. Zhao et al (2016)
 * [Learning Spatiotemporal Occupancy Grid Maps forLifelong Navigation in Dynamic Scenes](https://arxiv.org/pdf/2108.10585.pdf), H. Thomas et al (2021)
 
-### Middleware
+#### Middleware
 * [CyberRT vs ROS Differences](https://github.com/ApolloAuto/apollo/issues/6529)
 * [ROS on DDS](https://design.ros2.org/articles/ros_on_dds.html). This article was written at a time before decisions were made to use DDS and RTPS as the underlying communication standards for ROS 2.
 * [EEROS](https://wiki.eeros.org)
 
-### ROS modules
+#### ROS modules
 * [rosserial](http://wiki.ros.org/rosserial) wraps standard ROS serialized messages and multiplexes topics and services over a character device such as a serial port or network socket
 * [rosbridge](http://wiki.ros.org/rosbridge_suite) provides a JSON API to ROS functionality for non-ROS programs. 
 
-### Behavior Trees
+#### Behavior Trees
 * [Behavior Trees in Robotics and AI: An Introduction](https://arxiv.org/abs/1709.00084), v4, by M. Colledanchise, P. Ögren (2020)
 * [A Survey of Behavior Trees in Robotics and AI](https://arxiv.org/abs/2005.05842), M. Iovino et al (May 13, 2020)
 * ROSDevCon19: [Finite State Machines are dead. Long life Behavior Trees](https://www.youtube.com/watch?v=22KUPktetzg), Davide Faconti (Jul 2019). This is a tutorial on [behaviortree.cpp](https://www.youtube.com/watch?v=22KUPktetzg), recommended to be used with [ROS actionlib](http://wiki.ros.org/actionlib)
 * [py_trees](https://py-trees.readthedocs.io) documentation, [py_trees_ros](https://github.com/splintered-reality/py_trees_ros) documentation
+
+#### Generalist Agents
+* Scott Reed et al: [A Generalist Agent](https://openreview.net/pdf?id=1ikK0kHjvj), DeepMind (2022), [blog](https://www.deepmind.com/blog/a-generalist-agent)
 
 #### Links
 * [Crypto Currencies](crypto_currencies.md)
