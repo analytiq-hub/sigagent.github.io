@@ -12,10 +12,13 @@ Andrei's notes:
 
 2018
 * [L3](https://www.youtube.com/watch?v=het9HFqo1TQ)
-   * Locally Weighted Regression
-   * Parametric vs NonParametric Learning Algos
-   * Maximum Likelihood Estimation for Linear Regression assuming IID errors implies minimizing Square Error
-   * Logistic Regression
+  * Locally Weighted Regression
+  * Parametric vs NonParametric Learning Algos
+  * Maximum Likelihood Estimation for Linear Regression assuming IID errors implies minimizing Square Error
+  * Logistic Regression
+  * Newton's Method: quicker iteration than gradient ascent
+* [L4](https://www.youtube.com/watch?v=iZTeva0WSTQ&list=RDCMUCBa5G_ESCn8Yd4vw5U-gIcg&index=2)
+  * Perceptron & Generalized Linear Model
 * [L5](https://www.youtube.com/watch?v=nt63k3bfXS0&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=5)
   * Generative vs Discriminative Algorithms
   * Gaussian Distributed Analysis (GDA)
