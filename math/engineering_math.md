@@ -6,6 +6,7 @@ title: Engineering Math
 
 #### Books
 * [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](https://www.amazon.com/Data-Driven-Science-Engineering-Learning-Dynamical/dp/1108422098/), Brunton and Kutz (2019)
+* G. Strang: [Differential Equations and Linear Algebra](https://www.amazon.com/Differential-Equations-Linear-Algebra-Gilbert/dp/0980232791) (2012)
 
 #### Courses
 * MIT
