@@ -17,6 +17,8 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
     * If event $$y$$ is actually observed, compute posterior belief $$P(x \vert y)$$
     * Surprise is $$-\ln P(y)$$
     * Bayesian surprise is $$D_{KL}[P(x \vert y) \vert\vert P(x)]$$. This scores the amount of belief updating, as opposed to simply how unlikely the observation was. For example, if $$P(x)=1$$, then $$P(x \vert y) = 1$$, and the Bayesian surprise is $$0$$, but the surprise is not $$0$$.
+  * This inference procedure is a combination of top-down processes that encode predictions $$P(y)$$, and bottom-up processes that encode sensory observations $$y$$.
+    * This interplay of top-down and bottom-up processes distinguishes the inferential view from alternative approaches that only consider bottom-up processes.
   * References:
     * [ChatGPT about Bayesian Statistics](https://bitdribble.github.io/chatgpt/statistics/2022/12/23/chatgpt/)
     * Wikipedia: [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function), [Beta Function](https://en.wikipedia.org/wiki/Beta_function)
