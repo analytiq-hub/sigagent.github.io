@@ -11,7 +11,7 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
 
 * Chap 2
   * Bayes' Rule $$ P(x|y) = \frac{P(y|x) \cdot P(x)}{P(y)} $$
-  * Prior belief, posterior belief
+  * Prior belief $$P(x)$$, posterior belief $$P(x|y)$$
   * References:
     * [ChatGPT about Bayesian Statistics](https://bitdribble.github.io/chatgpt/statistics/2022/12/23/chatgpt/)
     * Wikipedia: [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function), [Beta Function](https://en.wikipedia.org/wiki/Beta_function)
