@@ -6,7 +6,7 @@ title: Neuroscience
 #### Books
 * T. Parr, G. Pezzulo, K. Friston: [Active Inference: The Free Energy Principle in Mind, Brain, and Behavior](https://www.amazon.com/Active-Inference-Energy-Principle-Behavior/dp/0262045354) (2022)
 * Anil Seth: [Being You: A New Science of Consciousness](https://www.amazon.com/Being-You-New-Science-Consciousness/dp/1524742872) (2021)
-* Andy Clark: [Surfing Uncertainty: Prediction, Action, and the Embodied Mind](https://www.amazon.com/Surfing-Uncertainty-Prediction-Action-Embodied/dp/0190933216/ref=d_pd_sbs_sccl_4_5/146-1943148-1230166)
+* Andy Clark: [Surfing Uncertainty: Prediction, Action, and the Embodied Mind](https://www.amazon.com/Surfing-Uncertainty-Prediction-Action-Embodied/dp/0190933216/ref=d_pd_sbs_sccl_4_5/146-1943148-1230166), [review](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/)
 
 #### Articles
 * [Dendritic Computation](https://neurophysics.ucsd.edu/courses/physics_171/annurev.neuro.28.061604.135703.pdf), M.London and M. Hausser (2005)
