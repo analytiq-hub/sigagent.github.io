@@ -22,6 +22,10 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
   * Bayesian inference is optimal w/ respect to cost function that is variational free energy.
     * Variational free energy is closely related to surprise $$-\ln P(y)$$
   * Bayesian inference is different from Maximum Likelihood Estimation, which simply selects the hidden state $$y$$ most likely to have generated the data $$x$$.
+  * The results of inference are subjective, because
+    * Biological creatures have limited computational and energetic resources, which make Bayesian inference intractable. They make approximations:
+      * variational posterior - based on mean field approximations
+    * The generative movel may not correspond to the real generative process.
   * References:
     * [ChatGPT about Bayesian Statistics](https://bitdribble.github.io/chatgpt/statistics/2022/12/23/chatgpt/)
     * Wikipedia: [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function), [Beta Function](https://en.wikipedia.org/wiki/Beta_function)
