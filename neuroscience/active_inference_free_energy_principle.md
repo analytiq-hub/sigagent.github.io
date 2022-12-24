@@ -13,6 +13,7 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
   * [ChatGPT about Bayesian Statistics](https://bitdribble.github.io/chatgpt/statistics/2022/12/23/chatgpt/)
   * Wikipedia: [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function)
   * MIT RES.6-012 Intro to Probabilities [L04.9: Multinomial Probabilities](https://www.youtube.com/watch?v=5A_H1eHbOCY) (2018)
+  * Jordan Boyd-Graber: INST414: Advanced Data Science at UMD's School: [Continuous Distributions: Beta and Dirichlet Distributions](https://www.youtube.com/watch?v=CEVELIz4WXM)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
