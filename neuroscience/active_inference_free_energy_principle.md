@@ -16,7 +16,7 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
   * Jordan Boyd-Graber: [INST414](http://users.umiacs.umd.edu/~jbg/teaching/INST_414/): Advanced Data Science at UMD's School:
     * [Expectations and Entropy](https://www.youtube.com/watch?v=O28U08_yaGU&list=PLegWUnz91Wftp1CsVFQaCgZAILUslEVhF&index=13)
     * [Multinomial and Poisson Distributions](https://www.youtube.com/watch?v=YnUKPC89zEI&list=PLegWUnz91Wftp1CsVFQaCgZAILUslEVhF&index=15)
-    * [Continuous Distributions: Beta and Dirichlet Distributions](https://www.youtube.com/watch?v=CEVELIz4WXM&list=PLegWUnz91Wftp1CsVFQaCgZAILUslEVhF&index=21).  Inverse Beta function should be Γ(α + β) / (Γ(α)Γ(β)).
+    * [Continuous Distributions: Beta and Dirichlet Distributions](https://www.youtube.com/watch?v=CEVELIz4WXM&list=PLegWUnz91Wftp1CsVFQaCgZAILUslEVhF&index=21).  Inverse Beta function should be Γ(α+β) / (Γ(α)Γ(β)).
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
