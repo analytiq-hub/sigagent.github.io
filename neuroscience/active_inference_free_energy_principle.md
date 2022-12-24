@@ -10,8 +10,9 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
 * S. Alexander: [God Help Us, Let’s Try To Understand Friston On Free Energy](https://www.lesswrong.com/posts/wpZJvgQ4HvJE2bysy/god-help-us-let-s-try-to-understand-friston-on-free-energy) (2018)
 
 * Chap 2
-  * Bayes' Rule $$ P(x|y) = \frac{P(y|x) \cdot P(x)}{P(y)} $$
-  * Prior belief $$P(x)$$, posterior belief $$P(x|y)$$
+  * Bayes' Rule $$ P(x \vert y) = \frac{P(y \vert x) \cdot P(x)}{P(y)} $$
+  * Prior belief $$P(x)$$, posterior belief $$P(x \vert y)$$
+  * 
   * References:
     * [ChatGPT about Bayesian Statistics](https://bitdribble.github.io/chatgpt/statistics/2022/12/23/chatgpt/)
     * Wikipedia: [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function), [Beta Function](https://en.wikipedia.org/wiki/Beta_function)
