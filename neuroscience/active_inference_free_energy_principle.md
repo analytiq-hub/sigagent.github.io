@@ -8,6 +8,7 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
 * [Karl Friston](https://www.fil.ion.ucl.ac.uk/~karl/)
   * Sean Carroll: Mindscape 87: [Karl Friston on Brains, Predictions, and Free Energy](https://www.youtube.com/watch?v=TcFLQvz5uEg&t=1924s) (2020)
 * S. Alexander: [God Help Us, Let’s Try To Understand Friston On Free Energy](https://www.lesswrong.com/posts/wpZJvgQ4HvJE2bysy/god-help-us-let-s-try-to-understand-friston-on-free-energy) (2018)
+* Maxwell Ramstead: [A tutorial on active inference](https://www.youtube.com/watch?v=WzFQzFZiwzk&t=445s) (2020)
 
 * Chap 2
   * Bayes' Rule $$ P(x \vert y) = \frac{P(y \vert x) \cdot P(x)}{P(y)} $$
