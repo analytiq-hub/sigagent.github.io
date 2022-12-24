@@ -1,13 +1,15 @@
 ---
 layout: page
 mathjax: true
-title: Algebraic Topology
+title: Engineering Math
 ---
 
 #### Books
-* Algebraic Geometryg
-  * Robin Hartshorne: [Algebraic Geometry](https://www.amazon.com/Algebraic-Geometry-Graduate-Texts-Mathematics/dp/0387902449), 2nd ed (1997)
-  * David Mumford: [The Red Book of Varieties and Schemes](https://www.amazon.com/Red-Book-Varieties-Schemes-Mathematics/dp/354063293X), 2nd edition
+* [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](https://www.amazon.com/Data-Driven-Science-Engineering-Learning-Dynamical/dp/1108422098/), Brunton and Kutz (2019)
+
+#### Courses
+* MIT
+  * [18.085 Computational Science & Engineering I](https://www.youtube.com/playlist?list=PL51CACD5B1F58C40C), Fall 2007, Gilbert Strang
 
 #### Links
 * Math
@@ -19,5 +21,3 @@ title: Algebraic Topology
   * [Representation Theory](math/representation_theory.md)
   * [Topology](math/topology.md)
 * [Physics](physics.md)
-
-
