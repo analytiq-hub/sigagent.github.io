@@ -10,7 +10,7 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
 * S. Alexander: [God Help Us, Let’s Try To Understand Friston On Free Energy](https://www.lesswrong.com/posts/wpZJvgQ4HvJE2bysy/god-help-us-let-s-try-to-understand-friston-on-free-energy) (2018)
 
 * Chap 2
-  * Bayes' Rule $$ P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)} $$
+  * Bayes' Rule $$ P(x|y) = \frac{P(y|x) \cdot P(x)}{P(y)} $$
   * Prior belief, posterior belief
   * References:
     * [ChatGPT about Bayesian Statistics](https://bitdribble.github.io/chatgpt/statistics/2022/12/23/chatgpt/)
