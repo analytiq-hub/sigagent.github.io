@@ -10,6 +10,7 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
 * S. Alexander: [God Help Us, Let’s Try To Understand Friston On Free Energy](https://www.lesswrong.com/posts/wpZJvgQ4HvJE2bysy/god-help-us-let-s-try-to-understand-friston-on-free-energy) (2018)
 * Maxwell Ramstead: [A tutorial on active inference](https://www.youtube.com/watch?v=WzFQzFZiwzk&t=445s) (2020)
 * Casper Hesp et al: [Deeply Felt Affect: The Emergence of Valence in Deep Active Inference](https://direct.mit.edu/neco/article/33/2/398/95642) (2021)
+* Friston et al: [Variational ecology and the physics of sentient systems](https://pubmed.ncbi.nlm.nih.gov/30655223/) (2018)
 
 * Chap 2
   * Bayes' Rule $$ P(x \vert y) = \frac{P(y \vert x) \cdot P(x)}{P(y)} $$

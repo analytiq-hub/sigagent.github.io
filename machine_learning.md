@@ -23,7 +23,7 @@ title: Machine Learning
 * A. Zheng, A. Casari: [Feature Engineering](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241/) (2018)
 * S. Raschka et al: [Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319), [github](https://github.com/rasbt/machine-learning-book), [Andrei's fork](https://github.com/andrei-radulescu-banu/machine-learning-book)
 * Jake VanderPlas: [Python Data Science Handbook](https://www.oreilly.com/library/view/python-data-science/9781491912126/), [colab](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
-* [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](https://www.amazon.com/Data-Driven-Science-Engineering-Learning-Dynamical/dp/1108422098/), Brunton and Kutz (2019xs)
+* [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](https://www.amazon.com/Data-Driven-Science-Engineering-Learning-Dynamical/dp/1108422098/), Brunton and Kutz (2019)
 
 #### Books - ML from the Probabilistic Perspective
 * [Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738), C. Bishop, [pdf](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
