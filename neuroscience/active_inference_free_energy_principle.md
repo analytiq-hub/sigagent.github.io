@@ -21,6 +21,7 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
     * This interplay of top-down and bottom-up processes distinguishes the inferential view from alternative approaches that only consider bottom-up processes.
   * Bayesian inference is optimal w/ respect to cost function that is variational free energy.
     * Variational free energy is closely related to surprise $$-\ln P(y)$$
+  * Bayesian inference is different from Maximum Likelihood Estimation, which simply selects the hidden state $$y$$ most likely to have generated the data $$x$$.
   * References:
     * [ChatGPT about Bayesian Statistics](https://bitdribble.github.io/chatgpt/statistics/2022/12/23/chatgpt/)
     * Wikipedia: [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function), [Beta Function](https://en.wikipedia.org/wiki/Beta_function)
