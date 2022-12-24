@@ -11,8 +11,12 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
 
 * Chap 2
   * Bayes' Rule $$ P(x \vert y) = \frac{P(y \vert x) \cdot P(x)}{P(y)} $$
-  * Prior belief $$P(x)$$, posterior belief $$P(x \vert y)$$
-  * 
+  * Likelihood model $$P(y \vert x)$$, prior belief $$P(x)$$, posterior belief $$P(x \vert y)$$
+  * Given the likelihood model $$P(y \vert x)$$ and the prior belief $$P(x)$$
+    * Compute marginal probability $$P(y)$$
+    * If event $$y$$ is actually observed, compute posterior belief $$P(x \vert y)$$
+    * Surprise is $$-\ln P(y)$$
+    * Bayesian surprise is $$D_{KL}[P(x \vert y) \vert\vert P(x)]$$
   * References:
     * [ChatGPT about Bayesian Statistics](https://bitdribble.github.io/chatgpt/statistics/2022/12/23/chatgpt/)
     * Wikipedia: [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function), [Beta Function](https://en.wikipedia.org/wiki/Beta_function)
