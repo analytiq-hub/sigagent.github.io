@@ -8,8 +8,10 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
 * [Karl Friston](https://www.fil.ion.ucl.ac.uk/~karl/)
   * Sean Carroll: Mindscape 87: [Karl Friston on Brains, Predictions, and Free Energy](https://www.youtube.com/watch?v=TcFLQvz5uEg&t=1924s) (2020)
 
-* [ChatGPT about Bayesian Statistics](https://bitdribble.github.io/chatgpt/statistics/2022/12/23/chatgpt/)
-* MIT RES.6-012 Intro to Probabilities [L04.9: Multinomial Probabilities](https://www.youtube.com/watch?v=5A_H1eHbOCY) (2018)
+* Chap 2
+  * [ChatGPT about Bayesian Statistics](https://bitdribble.github.io/chatgpt/statistics/2022/12/23/chatgpt/)
+  * Wikipedia: [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function)
+  * MIT RES.6-012 Intro to Probabilities [L04.9: Multinomial Probabilities](https://www.youtube.com/watch?v=5A_H1eHbOCY) (2018)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
