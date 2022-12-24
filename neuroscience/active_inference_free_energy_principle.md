@@ -20,6 +20,7 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
     * [Continuous Distributions: Beta and Dirichlet Distributions](https://www.youtube.com/watch?v=CEVELIz4WXM&list=PLegWUnz91Wftp1CsVFQaCgZAILUslEVhF&index=21).  Inverse Beta function should be Γ(α+β) / (Γ(α)Γ(β)).
  * Harvard [Stat 110](https://projects.iq.harvard.edu/stat110/home) (2013), Joe Blitzstein
    * [L11: The Poisson Distribution](https://www.youtube.com/watch?v=TD1N4hxqMzY&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&index=11)
+   * [L23: Beta distribution](https://www.youtube.com/watch?v=UZjlBQbV1KU&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&index=23)
    * [L24: Gamma distribution and Poisson process](https://www.youtube.com/watch?v=Qjeswpm0cWY&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&index=24)
 
 #### Other
