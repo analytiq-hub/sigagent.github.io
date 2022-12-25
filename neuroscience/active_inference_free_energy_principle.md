@@ -12,6 +12,7 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
 * Casper Hesp et al: [Deeply Felt Affect: The Emergence of Valence in Deep Active Inference](https://direct.mit.edu/neco/article/33/2/398/95642) (2021)
 * Friston et al: [Variational ecology and the physics of sentient systems](https://pubmed.ncbi.nlm.nih.gov/30655223/) (2018)
 * Friston et al: [Knowing one’s place: a free-energy approach to pattern regulation](https://royalsocietypublishing.org/doi/10.1098/rsif.2014.1383) (2015)
+* ActInfLab ModelStream #001: [A Step-by-Step Tutorial on Active Inference](https://www.youtube.com/watch?v=H5AolqFl2Nw) (2021)
 
 * Chap 2
   * Bayes' Rule $$ P(x \vert y) = \frac{P(y \vert x) \cdot P(x)}{P(y)} $$
