@@ -34,7 +34,7 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
     * Surprise is $$\Im(y) :=  -\ln P(y)$$
     * Bayesian surprise is $$D_{KL}[P(x \vert y) \vert\vert P(x)]$$. This scores the amount of belief updating, as opposed to simply how unlikely the observation was.
       * For example, if $$P(x)=1$$, then $$P(x \vert y) = 1$$, and the Bayesian surprise is $$0$$, but the surprise $$\Im(y)$$ is not $$0$$.
-    * $$-log()$$ is convex, so we can use Jensen's inequality: for a distribution $$Q$$, we have
+    * $$-\ln()$$ is convex, so we can use Jensen's inequality: for a posterior distribution $$Q(x)$$, we have
 $$
 \begin{align*}
 \Im(y) &=  -\ln P(y) \\
