@@ -11,6 +11,7 @@ title: Information Theory
 #### Courses
 * CMU
   * 10-704: [Information Processing and Learning](https://www.cs.cmu.edu/~aarti/Class/10704/) (Spring 2012)
+* MacKay: [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
