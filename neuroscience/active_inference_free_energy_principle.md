@@ -54,6 +54,8 @@ F[Q,y] &= - \int_x Q(x) \ln \frac{P(y,x)}{Q(x)}dx \\
 \end{align*}
 $$
 
+* Entropy is the average surprise $$H[Q(x)] = - \int_x Q(x) \ln Q(x) dx = \mathbb{E}_{Q(x)}[\Im_Q(x)]$$
+
 Can express the free energy as Divergence minus Evidence:
 
 $$
