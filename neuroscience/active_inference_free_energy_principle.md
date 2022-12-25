@@ -7,31 +7,6 @@ title: Active Inference - Free Energy Principle (Andrei's study notes)
 Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in Mind, Brain, and Behavior](https://www.amazon.com/Active-Inference-Energy-Principle-Behavior/dp/0262045354) (2022)
 * [Karl Friston](https://www.fil.ion.ucl.ac.uk/~karl/)
   * Sean Carroll: Mindscape 87: [Karl Friston on Brains, Predictions, and Free Energy](https://www.youtube.com/watch?v=TcFLQvz5uEg&t=1924s) (2020)
-* S. Alexander: [God Help Us, Let’s Try To Understand Friston On Free Energy](https://www.lesswrong.com/posts/wpZJvgQ4HvJE2bysy/god-help-us-let-s-try-to-understand-friston-on-free-energy) (2018)
-* Maxwell Ramstead: [A tutorial on active inference](https://www.youtube.com/watch?v=WzFQzFZiwzk&t=445s) (2020)
-* Casper Hesp et al: [Deeply Felt Affect: The Emergence of Valence in Deep Active Inference](https://direct.mit.edu/neco/article/33/2/398/95642) (2021)
-* Friston et al: [Variational ecology and the physics of sentient systems](https://pubmed.ncbi.nlm.nih.gov/30655223/) (2018)
-* Friston et al: [Knowing one’s place: a free-energy approach to pattern regulation](https://royalsocietypublishing.org/doi/10.1098/rsif.2014.1383) (2015)
-* ActInfLab ModelStream #001: [A Step-by-Step Tutorial on Active Inference](https://www.youtube.com/watch?v=H5AolqFl2Nw) (2021)
-  * Ryan Smith et al: [A Step-by-Step Tutorial on Active Inference and its Application to Empirical Data](https://psyarxiv.com/b4jm6/) (2021)
-* DaCosta et al: [Active inference on discrete state-spaces: a synthesis](https://arxiv.org/abs/2001.07203) (2020)
-* Comparisons to RL:
-  * Sajid et al: [Active inference: demystified and compared](https://arxiv.org/abs/1909.10863) (2019)
-  * Sajid et al: [Reward Maximisation through Discrete Active Inference](https://arxiv.org/abs/2009.08111) (2020)
-* Medium: O. Solopchuk: 
-  * [Intuitions on predictive coding and the free energy principle](https://medium.com/@solopchuk/intuitions-on-predictive-coding-and-the-free-energy-principle-3fc5bcedc754) (2018)
-  * [Tutorial on Active Inference](https://medium.com/@solopchuk/tutorial-on-active-inference-30edcf50f5dc) (2018)
-  * [Free Energy, Action Value, and Curiosity](https://medium.com/@solopchuk/free-energy-action-value-and-curiosity-514097bccc02) (2019)
-* R. Bogacz: [A tutorial on the free-energy framework for modelling perception and learning](https://www.sciencedirect.com/science/article/pii/S0022249615000759#br000050) (2017)
-* J.C.R. Whittington, R. Bogacz: [An Approximation of the Error Backpropagation Algorithm in a Predictive Coding Network with Local Hebbian Synaptic Plasticity](https://direct.mit.edu/neco/article/29/5/1229/8261/An-Approximation-of-the-Error-Backpropagation) (2017)
-* B. Lotter et al: [PredNet](https://coxlab.github.io/prednet/) (2016)
-* S. Dora, C. Pennartz: [A Deep Predictive Coding Network for Learning Latent Representations](https://www.biorxiv.org/content/10.1101/278218v2.full.pdf) (2018)
-* Wikipedia: [Variational Bayesian methods](https://en.wikipedia.org/wiki/Variational_Bayesian_methods).
-  * See Chap.4 in MacKay's [Information Theory, Inference, and Learning Algorithms](https://www.amazon.com/Information-Theory-Inference-Learning-Algorithms/dp/0521642981)
-  * MacKay: [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/)
-* UZH & ETH Zurich
-  * [Computational Psychiatry Course 2019](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L.html) (summer school)
-    * [Active Inference](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L/56dbb21a-9367-44e0-805e-d3cb200ba9c3.html) lecture
 
 * Chap 2
   * Bayes' Rule $$ P(x \vert y) = \frac{P(y \vert x) \cdot P(x)}{P(y)} $$
@@ -115,6 +90,34 @@ $$
       * [L11: The Poisson Distribution](https://www.youtube.com/watch?v=TD1N4hxqMzY&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&index=11)
       * [L23: Beta distribution](https://www.youtube.com/watch?v=UZjlBQbV1KU&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&index=23)
       * [L24: Gamma distribution and Poisson process](https://www.youtube.com/watch?v=Qjeswpm0cWY&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&index=24)
+
+More references:
+* S. Alexander: [God Help Us, Let’s Try To Understand Friston On Free Energy](https://www.lesswrong.com/posts/wpZJvgQ4HvJE2bysy/god-help-us-let-s-try-to-understand-friston-on-free-energy) (2018)
+* Maxwell Ramstead: [A tutorial on active inference](https://www.youtube.com/watch?v=WzFQzFZiwzk&t=445s) (2020)
+* Casper Hesp et al: [Deeply Felt Affect: The Emergence of Valence in Deep Active Inference](https://direct.mit.edu/neco/article/33/2/398/95642) (2021)
+* Friston et al: [Variational ecology and the physics of sentient systems](https://pubmed.ncbi.nlm.nih.gov/30655223/) (2018)
+* Friston et al: [Knowing one’s place: a free-energy approach to pattern regulation](https://royalsocietypublishing.org/doi/10.1098/rsif.2014.1383) (2015)
+* ActInfLab ModelStream #001: [A Step-by-Step Tutorial on Active Inference](https://www.youtube.com/watch?v=H5AolqFl2Nw) (2021)
+  * Ryan Smith et al: [A Step-by-Step Tutorial on Active Inference and its Application to Empirical Data](https://psyarxiv.com/b4jm6/) (2021)
+* DaCosta et al: [Active inference on discrete state-spaces: a synthesis](https://arxiv.org/abs/2001.07203) (2020)
+* Comparisons to RL:
+  * Sajid et al: [Active inference: demystified and compared](https://arxiv.org/abs/1909.10863) (2019)
+  * Sajid et al: [Reward Maximisation through Discrete Active Inference](https://arxiv.org/abs/2009.08111) (2020)
+* Medium: O. Solopchuk: 
+  * [Intuitions on predictive coding and the free energy principle](https://medium.com/@solopchuk/intuitions-on-predictive-coding-and-the-free-energy-principle-3fc5bcedc754) (2018)
+  * [Tutorial on Active Inference](https://medium.com/@solopchuk/tutorial-on-active-inference-30edcf50f5dc) (2018)
+  * [Free Energy, Action Value, and Curiosity](https://medium.com/@solopchuk/free-energy-action-value-and-curiosity-514097bccc02) (2019)
+* R. Bogacz: [A tutorial on the free-energy framework for modelling perception and learning](https://www.sciencedirect.com/science/article/pii/S0022249615000759#br000050) (2017)
+* J.C.R. Whittington, R. Bogacz: [An Approximation of the Error Backpropagation Algorithm in a Predictive Coding Network with Local Hebbian Synaptic Plasticity](https://direct.mit.edu/neco/article/29/5/1229/8261/An-Approximation-of-the-Error-Backpropagation) (2017)
+* B. Lotter et al: [PredNet](https://coxlab.github.io/prednet/) (2016)
+* S. Dora, C. Pennartz: [A Deep Predictive Coding Network for Learning Latent Representations](https://www.biorxiv.org/content/10.1101/278218v2.full.pdf) (2018)
+* Wikipedia: [Variational Bayesian methods](https://en.wikipedia.org/wiki/Variational_Bayesian_methods).
+  * See Chap.4 in MacKay's [Information Theory, Inference, and Learning Algorithms](https://www.amazon.com/Information-Theory-Inference-Learning-Algorithms/dp/0521642981)
+  * MacKay: [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/)
+* UZH & ETH Zurich
+  * [Computational Psychiatry Course 2019](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L.html) (summer school)
+    * [Active Inference](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L/56dbb21a-9367-44e0-805e-d3cb200ba9c3.html) lecture
+
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
