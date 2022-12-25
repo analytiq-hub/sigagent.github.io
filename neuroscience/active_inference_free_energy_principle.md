@@ -87,32 +87,34 @@ $$
 
 * Classically, $$-F(Q,y)$$ is called _Evidence Lower Bound_ (ELBO). The ELBO is always $$\le \ln P(y)$$, with equality when $$Q(x)=P(x \vert y)$$. ([wiki](https://en.wikipedia.org/wiki/Variational_Bayesian_methods))
 
+Interpretation:
+* This inference procedure is a combination of top-down processes that encode predictions $$P(y)$$, and bottom-up processes that encode sensory observations $$y$$.
+  * This interplay of top-down and bottom-up processes distinguishes the inferential view from alternative approaches that only consider bottom-up processes.
+* Bayesian inference is optimal w/ respect to cost function that is variational free energy.
+  * Variational free energy is closely related to surprise $$-\ln P(y)$$
+* Bayesian inference is different from Maximum Likelihood Estimation, which simply selects the hidden state $$y$$ most likely to have generated the data $$x$$.
+* The results of inference are subjective, because
+  * Biological creatures have limited computational and energetic resources, which make Bayesian inference intractable. They make approximations:
+    * variational posterior - based on mean field approximations
+  * The generative movel may not correspond to the real generative process.
+    * The generative model, as it is optimized with new experiences acquired, may not even converge to the generative process.
+    * The generative process is in a true state $$x^*$$, which generates an observation $$y$$, which the organism senses. Both $$x^*$$ and $$y$$ are hidden state.
+  * Psychological claim about optimality of inference is always contingent on the organism's resources - its specific generative model, and bounded computational resources.
 
-  * This inference procedure is a combination of top-down processes that encode predictions $$P(y)$$, and bottom-up processes that encode sensory observations $$y$$.
-    * This interplay of top-down and bottom-up processes distinguishes the inferential view from alternative approaches that only consider bottom-up processes.
-  * Bayesian inference is optimal w/ respect to cost function that is variational free energy.
-    * Variational free energy is closely related to surprise $$-\ln P(y)$$
-  * Bayesian inference is different from Maximum Likelihood Estimation, which simply selects the hidden state $$y$$ most likely to have generated the data $$x$$.
-  * The results of inference are subjective, because
-    * Biological creatures have limited computational and energetic resources, which make Bayesian inference intractable. They make approximations:
-      * variational posterior - based on mean field approximations
-    * The generative movel may not correspond to the real generative process.
-      * The generative model, as it is optimized with new experiences acquired, may not even converge to the generative process.
-      * The generative process is in a true state $$x^*$$, which generates an observation $$y$$, which the organism senses. Both $$x^*$$ and $$y$$ are hidden state.
-    * Psychological claim about optimality of inference is always contingent on the organism's resources - its specific generative model, and bounded computational resources.
-  * References:
-    * [ChatGPT about Bayesian Statistics](https://bitdribble.github.io/chatgpt/statistics/2022/12/23/chatgpt/)
-    * Wikipedia: [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function), [Beta Function](https://en.wikipedia.org/wiki/Beta_function)
-    * Emil Artin: [The Gamma Function](https://archive.org/details/gammafunction0000arti) 
-    * MIT RES.6-012 Intro to Probabilities [L04.9: Multinomial Probabilities](https://www.youtube.com/watch?v=5A_H1eHbOCY) (2018)
-    * Jordan Boyd-Graber: [INST414](http://users.umiacs.umd.edu/~jbg/teaching/INST_414/): Advanced Data Science at UMD's School:
-      * [Expectations and Entropy](https://www.youtube.com/watch?v=O28U08_yaGU&list=PLegWUnz91Wftp1CsVFQaCgZAILUslEVhF&index=13)
-      * [Multinomial and Poisson Distributions](https://www.youtube.com/watch?v=YnUKPC89zEI&list=PLegWUnz91Wftp1CsVFQaCgZAILUslEVhF&index=15)
-      * [Continuous Distributions: Beta and Dirichlet Distributions](https://www.youtube.com/watch?v=CEVELIz4WXM&list=PLegWUnz91Wftp1CsVFQaCgZAILUslEVhF&index=21).  Inverse Beta function should be Γ(α+β) / (Γ(α)Γ(β)).
-    * Harvard [Stat 110](https://projects.iq.harvard.edu/stat110/home) (2013), Joe Blitzstein, [book](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
-      * [L11: The Poisson Distribution](https://www.youtube.com/watch?v=TD1N4hxqMzY&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&index=11)
-      * [L23: Beta distribution](https://www.youtube.com/watch?v=UZjlBQbV1KU&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&index=23)
-      * [L24: Gamma distribution and Poisson process](https://www.youtube.com/watch?v=Qjeswpm0cWY&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&index=24)
+
+References:
+* [ChatGPT about Bayesian Statistics](https://bitdribble.github.io/chatgpt/statistics/2022/12/23/chatgpt/)
+* Wikipedia: [Gamma Function](https://en.wikipedia.org/wiki/Gamma_function), [Beta Function](https://en.wikipedia.org/wiki/Beta_function)
+* Emil Artin: [The Gamma Function](https://archive.org/details/gammafunction0000arti) 
+* MIT RES.6-012 Intro to Probabilities [L04.9: Multinomial Probabilities](https://www.youtube.com/watch?v=5A_H1eHbOCY) (2018)
+* Jordan Boyd-Graber: [INST414](http://users.umiacs.umd.edu/~jbg/teaching/INST_414/): Advanced Data Science at UMD's School:
+  * [Expectations and Entropy](https://www.youtube.com/watch?v=O28U08_yaGU&list=PLegWUnz91Wftp1CsVFQaCgZAILUslEVhF&index=13)
+  * [Multinomial and Poisson Distributions](https://www.youtube.com/watch?v=YnUKPC89zEI&list=PLegWUnz91Wftp1CsVFQaCgZAILUslEVhF&index=15)
+  * [Continuous Distributions: Beta and Dirichlet Distributions](https://www.youtube.com/watch?v=CEVELIz4WXM&list=PLegWUnz91Wftp1CsVFQaCgZAILUslEVhF&index=21).  Inverse Beta function should be Γ(α+β) / (Γ(α)Γ(β)).
+* Harvard [Stat 110](https://projects.iq.harvard.edu/stat110/home) (2013), Joe Blitzstein, [book](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
+  * [L11: The Poisson Distribution](https://www.youtube.com/watch?v=TD1N4hxqMzY&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&index=11)
+  * [L23: Beta distribution](https://www.youtube.com/watch?v=UZjlBQbV1KU&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&index=23)
+  * [L24: Gamma distribution and Poisson process](https://www.youtube.com/watch?v=Qjeswpm0cWY&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&index=24)
 
 More references:
 * S. Alexander: [God Help Us, Let’s Try To Understand Friston On Free Energy](https://www.lesswrong.com/posts/wpZJvgQ4HvJE2bysy/god-help-us-let-s-try-to-understand-friston-on-free-energy) (2018)
