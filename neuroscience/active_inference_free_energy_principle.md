@@ -21,6 +21,9 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
 * Medium:
   * O. Solopchuk: [Tutorial on Active Inference](https://medium.com/@solopchuk/tutorial-on-active-inference-30edcf50f5dc) (2018)
   * O. Solopchuk: [Free Energy, Action Value, and Curiosity](https://medium.com/@solopchuk/free-energy-action-value-and-curiosity-514097bccc02) (2019)
+* UZH & ETH Zurich
+  * [Computational Psychiatry Course 2019](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L.html)
+    * [Active Inference](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L/56dbb21a-9367-44e0-805e-d3cb200ba9c3.html) lecture
 
 * Chap 2
   * Bayes' Rule $$ P(x \vert y) = \frac{P(y \vert x) \cdot P(x)}{P(y)} $$
