@@ -24,6 +24,7 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
   * [Free Energy, Action Value, and Curiosity](https://medium.com/@solopchuk/free-energy-action-value-and-curiosity-514097bccc02) (2019)
 * R. Bogacz: [A tutorial on the free-energy framework for modelling perception and learning](https://www.sciencedirect.com/science/article/pii/S0022249615000759#br000050) (2017)
 * J.C.R. Whittington, R. Bogacz: [An Approximation of the Error Backpropagation Algorithm in a Predictive Coding Network with Local Hebbian Synaptic Plasticity](https://direct.mit.edu/neco/article/29/5/1229/8261/An-Approximation-of-the-Error-Backpropagation) (2017)
+* S. Dora, C. Pennartz: [A Deep Predictive Coding Network for Learning Latent Representations](https://www.biorxiv.org/content/10.1101/278218v2.full.pdf) (2018)
 * UZH & ETH Zurich
   * [Computational Psychiatry Course 2019](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L.html) (summer school)
     * [Active Inference](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L/56dbb21a-9367-44e0-805e-d3cb200ba9c3.html) lecture
