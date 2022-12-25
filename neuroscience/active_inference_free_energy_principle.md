@@ -34,7 +34,15 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
     * Surprise is $$\Im(y) :=  -\ln P(y)$$
     * Bayesian surprise is $$D_{KL}[P(x \vert y) \vert\vert P(x)]$$. This scores the amount of belief updating, as opposed to simply how unlikely the observation was.
       * For example, if $$P(x)=1$$, then $$P(x \vert y) = 1$$, and the Bayesian surprise is $$0$$, but the surprise $$\Im(y)$$ is not $$0$$.
-    * $$-log()$$ is convex, so we can use Jensen's inequality: for a distribution $$Q$$, we have 
+    * $$-log()$$ is convex, so we can use Jensen's inequality: for a distribution $$Q$$, we have
+$$
+\begin{align*}
+\Im(y) &=  -\ln P(y) \\
+        &= - \ln \int_x Q(x) \frac{P(x, y)}{Q(x)} \le \int_x -Q(x) \ln \frac{P(x, y)}{Q(x)} := F(Q,y)
+\end{align*}
+$$
+We define $$F(Q,y)$$ the Variational Free Energy.
+  * Equality is when $$P(x, y)$$ is constant in $$x$$.
   * This inference procedure is a combination of top-down processes that encode predictions $$P(y)$$, and bottom-up processes that encode sensory observations $$y$$.
     * This interplay of top-down and bottom-up processes distinguishes the inferential view from alternative approaches that only consider bottom-up processes.
   * Bayesian inference is optimal w/ respect to cost function that is variational free energy.
