@@ -33,7 +33,7 @@ We name $$F(Q,y)$$ the _Variational Free Energy_.
 * $$Q$$ is called an approximate posterior
 * Equality is when the posterior distribution $$P(x \vert y) = \frac{P(y, x)}{P(y)}$$ matches the approximate distribution $$Q(x)$$, given that $$y$$ is fixed.
 
-Can express the free energy as Energy minus Entropy:
+Can express the _variational free energy_ as _Energy_ minus _Entropy_:
 
 $$
 \begin{align*}
@@ -58,7 +58,7 @@ $$
   * $$Z$$ is the partition function (a normalization constant), $$k$$ is the Boltzmann constant.
   * The average log probability $$\ln P(E)$$ of a system at thermal equilibrium is inversely proportional to the energy $$E$$ required to move the system into this configuration from a baseline configuration. [Andrei: _inverse_ meant as _negatively proportional_].
 
-Can express the free energy as Complexity minus Accuracy:
+Can express the _variational free energy_ as _Complexity_ minus _Accuracy_:
 
 $$
 \begin{align*}
@@ -73,7 +73,7 @@ $$
 * _Accuracy_ is the expected $$P(y \vert x)$$. It says how likely are observations $$y$$ given model belief about states $$x$$.
   * This is a bit unclear in the book, explanation is from [AI Tutorial](https://psyarxiv.com/b4jm6/).
 
-Can express the free energy as Divergence minus Evidence:
+Can express the _variational free energy_ as _Divergence_ minus _Evidence_:
 
 $$
 \begin{align*}
