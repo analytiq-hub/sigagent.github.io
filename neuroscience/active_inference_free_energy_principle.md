@@ -39,7 +39,7 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
 $$
 \begin{align*}
 \Im(y) &=  -\ln P(y) \\
-        &= - \ln \int_x Q(x) \frac{P(x, y)}{Q(x)} \le \int_x -Q(x) \ln \frac{P(x, y)}{Q(x)} := F[Q,y]
+        &= - \ln \int_x Q(x) \frac{P(y, x)}{Q(x)} \le \int_x -Q(x) \ln \frac{P(y, x)}{Q(x)} := F[Q,y]
 \end{align*}
 $$
 
