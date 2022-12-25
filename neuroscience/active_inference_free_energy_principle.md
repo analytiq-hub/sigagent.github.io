@@ -72,6 +72,10 @@ Can express the free energy as Divergence minus Evidence:
 
 $$
 \begin{align*}
+F[Q,y] &= - \int_x Q(x) \ln \frac{P(y,x)}{Q(x)}dx \\
+       &= - \int_x Q(x) \ln \frac{P(x \vert y) P(y)}{Q(x)}dx \\
+       &= - \int_x Q(x) \ln \frac{P(x \vert y)}{Q(x)}dx - \int_x Q(x) \ln P(y)dx \\
+       &= D_{KL}[Q(x) \vert\vert P(x \vert y)] - \ln P(y)
 \end{align*}
 $$
 
