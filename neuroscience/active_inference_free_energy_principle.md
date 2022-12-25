@@ -14,6 +14,13 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
 * Friston et al: [Knowing one’s place: a free-energy approach to pattern regulation](https://royalsocietypublishing.org/doi/10.1098/rsif.2014.1383) (2015)
 * ActInfLab ModelStream #001: [A Step-by-Step Tutorial on Active Inference](https://www.youtube.com/watch?v=H5AolqFl2Nw) (2021)
   * Ryan Smith et al: [A Step-by-Step Tutorial on Active Inference and its Application to Empirical Data](https://psyarxiv.com/b4jm6/) (2021)
+* DaCosta et al: [Active inference on discrete state-spaces: a synthesis](https://arxiv.org/abs/2001.07203) (2020)
+* Comparisons to RL:
+  * Sajid et al: [Active inference: demystified and compared](https://arxiv.org/abs/1909.10863) (2019)
+  * Sajid et al: [Reward Maximisation through Discrete Active Inference](https://arxiv.org/abs/2009.08111) (2020)
+* Medium:
+  * O. Solopchuk: [Tutorial on Active Inference](https://medium.com/@solopchuk/tutorial-on-active-inference-30edcf50f5dc) (2018)
+  * O. Solopchuk: [Free Energy, Action Value, and Curiosity](https://medium.com/@solopchuk/free-energy-action-value-and-curiosity-514097bccc02) (2019)
 
 * Chap 2
   * Bayes' Rule $$ P(x \vert y) = \frac{P(y \vert x) \cdot P(x)}{P(y)} $$
