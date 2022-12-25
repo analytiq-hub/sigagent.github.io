@@ -22,14 +22,14 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
   * O. Solopchuk: [Tutorial on Active Inference](https://medium.com/@solopchuk/tutorial-on-active-inference-30edcf50f5dc) (2018)
   * O. Solopchuk: [Free Energy, Action Value, and Curiosity](https://medium.com/@solopchuk/free-energy-action-value-and-curiosity-514097bccc02) (2019)
 * UZH & ETH Zurich
-  * [Computational Psychiatry Course 2019](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L.html)
+  * [Computational Psychiatry Course 2019](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L.html) (summer school)
     * [Active Inference](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L/56dbb21a-9367-44e0-805e-d3cb200ba9c3.html) lecture
 
 * Chap 2
   * Bayes' Rule $$ P(x \vert y) = \frac{P(y \vert x) \cdot P(x)}{P(y)} $$
   * Likelihood model $$P(y \vert x)$$, prior belief $$P(x)$$, posterior belief $$P(x \vert y)$$
   * Given the likelihood model $$P(y \vert x)$$ and the prior belief $$P(x)$$
-    * Compute marginal probability $$P(y)$$
+    * Compute joint probability $$P(x, y)$$ and marginal probability $$P(y)$$
     * If event $$y$$ is actually observed, compute posterior belief $$P(x \vert y)$$
     * Surprise is $$-\ln P(y)$$
     * Bayesian surprise is $$D_{KL}[P(x \vert y) \vert\vert P(x)]$$. This scores the amount of belief updating, as opposed to simply how unlikely the observation was. For example, if $$P(x)=1$$, then $$P(x \vert y) = 1$$, and the Bayesian surprise is $$0$$, but the surprise is not $$0$$.
