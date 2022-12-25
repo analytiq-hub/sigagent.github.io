@@ -43,7 +43,7 @@ $$
 \end{align*}
 $$
 
-We define $$F(Q,y)$$ the Variational Free Energy.
+We name $$F(Q,y)$$ the _Variational Free Energy_.
   * $$Q$$ is called an approximate posterior
   * Equality is when the generative distribution$$P(x, y)$$ matches the approximate distribution $$Q(x)$$.
 
