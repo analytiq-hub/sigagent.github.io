@@ -70,8 +70,8 @@ F[Q,y] &= - \int_x Q(x) \ln \frac{P(y,x)}{Q(x)}dx \\
 $$
 
 * _Complexity_ means how much the approximation of the posterior $$Q(x)$$ deviates from the prior $$P(x)$$ - how many extra bits of information are encoded in $$Q(y)$$ relative to $$P(x)$$
-* _Accuracy_ is the expected $$P(y \vert x)$$. It says how likely are states $$x$$ given a specific observation $$y$$.
-  * This is a bit unclear in the book and the blog post.
+* _Accuracy_ is the expected $$P(y \vert x)$$. It says how likely are observations $$y$$ given model belief about states $$x$$.
+  * This is a bit unclear in the book, explanation is from [AI Tutorial](https://psyarxiv.com/b4jm6/).
 
 Can express the free energy as Divergence minus Evidence:
 
