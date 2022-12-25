@@ -26,7 +26,8 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
 * J.C.R. Whittington, R. Bogacz: [An Approximation of the Error Backpropagation Algorithm in a Predictive Coding Network with Local Hebbian Synaptic Plasticity](https://direct.mit.edu/neco/article/29/5/1229/8261/An-Approximation-of-the-Error-Backpropagation) (2017)
 * B. Lotter et al: [PredNet](https://coxlab.github.io/prednet/) (2016)
 * S. Dora, C. Pennartz: [A Deep Predictive Coding Network for Learning Latent Representations](https://www.biorxiv.org/content/10.1101/278218v2.full.pdf) (2018)
-* Wikipedia: [Variational Bayesian methods](https://en.wikipedia.org/wiki/Variational_Bayesian_methods)
+* Wikipedia: [Variational Bayesian methods](https://en.wikipedia.org/wiki/Variational_Bayesian_methods).
+  * See Chap.4 in MacKay's [Information Theory, Inference, and Learning Algorithms](https://www.amazon.com/Information-Theory-Inference-Learning-Algorithms/dp/0521642981)
 * UZH & ETH Zurich
   * [Computational Psychiatry Course 2019](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L.html) (summer school)
     * [Active Inference](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L/56dbb21a-9367-44e0-805e-d3cb200ba9c3.html) lecture
