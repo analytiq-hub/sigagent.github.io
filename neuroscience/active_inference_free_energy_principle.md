@@ -85,7 +85,7 @@ F[Q,y] &= - \int_x Q(x) \ln \frac{P(y,x)}{Q(x)}dx \\
 \end{align*}
 $$
 
-* Classically, $$-F(Q,y)$$ is called _Evidence Lower Bound_ (ELBO). The ELBO is always $$\le \ln P(y)$$, with equality when $$Q(x)=P(x \vert y)$$. ([wiki](https://en.wikipedia.org/wiki/Variational_Bayesian_methods))
+* Classically, $$-F(Q,y)$$ is called _Evidence Lower Bound_ (ELBO). The ELBO is always $$\le \ln P(y)$$, with equality when $$Q(x)=P(x \vert y)$$ (see [wiki](https://en.wikipedia.org/wiki/Variational_Bayesian_methods)).
 
 Interpretation:
 * This inference procedure is a combination of top-down processes that encode predictions $$P(y)$$, and bottom-up processes that encode sensory observations $$y$$.
