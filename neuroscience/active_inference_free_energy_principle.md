@@ -62,6 +62,8 @@ F[Q,y] &= - \int_x Q(x) \ln \frac{P(y,x)}{Q(x)}dx \\
 \end{align*}
 $$
 
+* Complexity means how much the approximation of the posterior $$Q(y)$$ deviates from the prior $$P(y)$$ - how many extra bits of information are encoded in $$Q(y)$$ relative to $$P(y)$$
+
 Can express the free energy as Divergence minus Evidence:
 
 $$
