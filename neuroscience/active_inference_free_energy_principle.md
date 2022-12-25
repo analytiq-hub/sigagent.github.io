@@ -45,7 +45,7 @@ $$
 
 We name $$F(Q,y)$$ the _Variational Free Energy_.
 * $$Q$$ is called an approximate posterior
-* Equality is when the generative distribution$$P(x, y)$$ matches the approximate distribution $$Q(x)$$.
+* Equality is when the posterior distribution $$P(x \vert y) = \frac{P(y, x)}{P(y)}$$ matches the approximate distribution $$Q(x)$$, given that $$y$$ is fixed.
 
 Can express the free energy as Energy minus Entropy:
 
