@@ -117,7 +117,7 @@ More references:
 * UZH & ETH Zurich
   * [Computational Psychiatry Course 2019](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L.html) (summer school)
     * [Active Inference](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L/56dbb21a-9367-44e0-805e-d3cb200ba9c3.html) lecture
-
+* S. Levine: [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909) (2018)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
