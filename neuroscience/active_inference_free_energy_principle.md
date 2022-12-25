@@ -43,6 +43,10 @@ F[Q,y] &= - \int_x Q(x) \ln \frac{P(y,x)}{Q(x)}dx \\
 \end{align*}
 $$
 
+* Entropy is the average surprise $$H[Q(x)] = - \int_x Q(x) \ln Q(x) dx = \mathbb{E}_{Q(x)}[\Im_Q(x)]$$
+* In absence of data or precise prior beliefs (which only influence the _energy_ term), we should adopt maximally uncertain beliefs about the hidden state of the world - in accordance with Jaynes's _maximum entropy_ principle.
+* Be uncertain (high entropy) when we have no information.
+
 Can express the free energy as Complexity minus Accuracy:
 
 $$
@@ -53,8 +57,6 @@ F[Q,y] &= - \int_x Q(x) \ln \frac{P(y,x)}{Q(x)}dx \\
        &= D_{KL}[Q(x) \vert\vert P(x)] - \mathbb{E}_{Q(x)}[\ln P(y \vert x)]
 \end{align*}
 $$
-
-* Entropy is the average surprise $$H[Q(x)] = - \int_x Q(x) \ln Q(x) dx = \mathbb{E}_{Q(x)}[\Im_Q(x)]$$
 
 Can express the free energy as Divergence minus Evidence:
 
