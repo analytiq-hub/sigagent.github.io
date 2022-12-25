@@ -30,7 +30,7 @@ Notes reading K. Friston et al's [Active Inference: The Free Energy Principle in
 * Chap 2
   * Bayes' Rule $$ P(x \vert y) = \frac{P(y \vert x) \cdot P(x)}{P(y)} $$
     * Likelihood model $$P(y \vert x)$$, prior belief $$P(x)$$, posterior belief $$P(x \vert y)$$
-    * _Posterior_ is proportional to _prior * likelihood_
+    * _Posterior_ is proportional $$\propto$$ to _prior * likelihood_
     * But _Posterior_ needs to be normalized, and that is computationally intractable.
       * Computing $$P(y) = \int_x P(y \vert x)$$ is intractable.
   * Given the likelihood model $$P(y \vert x)$$ and the prior belief $$P(x)$$
