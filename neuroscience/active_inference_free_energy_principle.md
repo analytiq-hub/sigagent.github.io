@@ -51,7 +51,7 @@ Can express the free energy as Energy minus Entropy:
 
 $$
 \begin{align*}
-F[Q,y] &= \int_x Q(x) \ln \frac{P(y,x)}{Q(x)}dx \\
+F[Q,y] &= - \int_x Q(x) \ln \frac{P(y,x)}{Q(x)}dx \\
        &= - \int_x Q(x) \ln P(y, x)dx + \int_x Q(x) \ln Q(x)dx \\
        &= - \mathbb{E}_{Q(x)}[\ln P(y, x)] - H(Q(x))
 \end{align*}
@@ -61,6 +61,10 @@ Can express the free energy as Complexity minus Accuracy:
 
 $$
 \begin{align*}
+F[Q,y] &= - \int_x Q(x) \ln \frac{P(y,x)}{Q(x)}dx \\
+       &= - \int_x Q(x) \ln \frac{P(y \vert x) P(x)}{Q(x)}dx \\
+       &= - \int_x Q(x) \ln \frac{P(x)}{Q(x)}dx - \int_x Q(x) \ln P(y \vert x)dx \\
+       &= D_{KL}[Q(x) \vert\vert P(x)] - \mathbb{E}_{Q(x)}[\ln P(y \vert x)]
 \end{align*}
 $$
 
