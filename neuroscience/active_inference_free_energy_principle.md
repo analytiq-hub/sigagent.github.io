@@ -44,7 +44,8 @@ $$
 $$
 
 We define $$F(Q,y)$$ the Variational Free Energy.
-  * Equality is when $$P(x, y)$$ is constant in $$x$$.
+  * $$Q$$ is called an approximate posterior
+  * Equality is when the generative distribution$$P(x, y)$$ matches the approximate distribution $$Q(x)$$.
   * This inference procedure is a combination of top-down processes that encode predictions $$P(y)$$, and bottom-up processes that encode sensory observations $$y$$.
     * This interplay of top-down and bottom-up processes distinguishes the inferential view from alternative approaches that only consider bottom-up processes.
   * Bayesian inference is optimal w/ respect to cost function that is variational free energy.
