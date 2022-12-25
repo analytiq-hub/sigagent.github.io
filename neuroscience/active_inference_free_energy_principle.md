@@ -46,6 +46,18 @@ $$
 We define $$F(Q,y)$$ the Variational Free Energy.
   * $$Q$$ is called an approximate posterior
   * Equality is when the generative distribution$$P(x, y)$$ matches the approximate distribution $$Q(x)$$.
+
+Can express the free energy as energy minus entropy:
+
+$$
+\begin{align*}
+F[Q,y] &= \int_x Q(x) \ln \frac{P(y,x)}{Q(x)}dx \\
+       &= - \int_x Q(x) \ln P(y, x)dx + \int_x Q(x) \ln Q(x)dx \\
+       &= - \mathbb{E}_{Q(x)}[\ln P(y, x)] - H(Q(x))
+\end{align*}
+$$
+
+
   * This inference procedure is a combination of top-down processes that encode predictions $$P(y)$$, and bottom-up processes that encode sensory observations $$y$$.
     * This interplay of top-down and bottom-up processes distinguishes the inferential view from alternative approaches that only consider bottom-up processes.
   * Bayesian inference is optimal w/ respect to cost function that is variational free energy.
