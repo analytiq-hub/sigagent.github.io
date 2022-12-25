@@ -44,10 +44,10 @@ $$
 $$
 
 We name $$F(Q,y)$$ the _Variational Free Energy_.
-  * $$Q$$ is called an approximate posterior
-  * Equality is when the generative distribution$$P(x, y)$$ matches the approximate distribution $$Q(x)$$.
+* $$Q$$ is called an approximate posterior
+* Equality is when the generative distribution$$P(x, y)$$ matches the approximate distribution $$Q(x)$$.
 
-Can express the free energy as energy minus entropy:
+Can express the free energy as Energy minus Entropy:
 
 $$
 \begin{align*}
@@ -57,6 +57,19 @@ F[Q,y] &= \int_x Q(x) \ln \frac{P(y,x)}{Q(x)}dx \\
 \end{align*}
 $$
 
+Can express the free energy as Complexity minus Accuracy:
+
+$$
+\begin{align*}
+\end{align*}
+$$
+
+Can express the free energy as Divergence minus Evidence:
+
+$$
+\begin{align*}
+\end{align*}
+$$
 
   * This inference procedure is a combination of top-down processes that encode predictions $$P(y)$$, and bottom-up processes that encode sensory observations $$y$$.
     * This interplay of top-down and bottom-up processes distinguishes the inferential view from alternative approaches that only consider bottom-up processes.
