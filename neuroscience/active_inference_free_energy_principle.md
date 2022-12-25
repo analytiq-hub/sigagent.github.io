@@ -57,6 +57,7 @@ $$
   * The Boltzmann distribution $$P(E) = \frac{1}{Z} \cdot e^{-\frac{E}{kT}}$$ describes the statistical behavior of a system with energy $$E$$ at thermal equilibrium temperature $$T$$.
   * $$Z$$ is the partition function (a normalization constant), $$k$$ is the Boltzmann constant.
   * The average log probability $$\ln P(E)$$ of a system at thermal equilibrium is inversely proportional to the energy $$E$$ required to move the system into this configuration from a baseline configuration. [Andrei: _inverse_ meant as _negatively proportional_].
+* The name _variational free energy_ for $$F(Q,y)$$ comes from this statistical mechanics interpretation as _energy_ minus _entropy_.
 
 Can express the _variational free energy_ as _Complexity_ minus _Accuracy_:
 
@@ -83,6 +84,9 @@ F[Q,y] &= - \int_x Q(x) \ln \frac{P(y,x)}{Q(x)}dx \\
        &= D_{KL}[Q(x) \vert\vert P(x \vert y)] - \ln P(y)
 \end{align*}
 $$
+
+* Classically, $$-F(Q,y)$$ is called _Evidence Lower Bound_ (ELBO). The ELBO is always $$\le \ln P(y)$$, with equality when $$Q(x)=P(x \vert y)$$. ([wiki](https://en.wikipedia.org/wiki/Variational_Bayesian_methods))
+
 
   * This inference procedure is a combination of top-down processes that encode predictions $$P(y)$$, and bottom-up processes that encode sensory observations $$y$$.
     * This interplay of top-down and bottom-up processes distinguishes the inferential view from alternative approaches that only consider bottom-up processes.
