@@ -96,7 +96,7 @@ Interpretation:
 * The results of inference are subjective, because
   * Biological creatures have limited computational and energetic resources, which make Bayesian inference intractable. They make approximations:
     * variational posterior - based on mean field approximations
-  * The generative movel may not correspond to the real generative process.
+  * The generative model may not correspond to the real generative process.
     * The generative model, as it is optimized with new experiences acquired, may not even converge to the generative process.
     * The generative process is in a true state $$x^*$$, which generates an observation $$y$$, which the organism senses. Both $$x^*$$ and $$y$$ are hidden state.
   * Psychological claim about optimality of inference is always contingent on the organism's resources - its specific generative model, and bounded computational resources.
