@@ -144,6 +144,7 @@ More references:
     * [Active Inference](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L/56dbb21a-9367-44e0-805e-d3cb200ba9c3.html) lecture
 * S. Levine: [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909) (2018)
 * T. Parr: [Neuronal message passing using Mean-field, Bethe, and Marginal approximations](https://www.nature.com/articles/s41598-018-38246-3) (2019)
+* K Friston: [CCN Workshop: Predictive Coding](https://www.youtube.com/watch?v=b1hEc6vay_k) (2016)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
