@@ -53,7 +53,7 @@ $$
 
 * In absence of data or precise prior beliefs (which only influence the _energy_ term), we should adopt maximally uncertain beliefs about the hidden state of the world - in accordance with Jaynes's _maximum entropy_ principle.
 * Be uncertain (high entropy) when we have no information.
-* Here, _energy_ is a statistical mechanics interpretation.
+* Here, _energy_ has a statistical mechanics interpretation.
   * The Boltzmann distribution $$P(E) = \frac{1}{Z} \cdot e^{-\frac{E}{kT}}$$ describes the statistical behavior of a system with energy $$E$$ at thermal equilibrium temperature $$T$$.
   * $$Z$$ is the partition function (a normalization constant), $$k$$ is the Boltzmann constant.
   * The average log probability $$\ln P(E)$$ of a system at thermal equilibrium is inversely proportional to the energy $$E$$ required to move the system into this configuration from a baseline configuration. [Andrei: _inverse_ meant as _negatively proportional_].
