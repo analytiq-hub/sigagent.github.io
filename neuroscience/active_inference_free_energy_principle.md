@@ -145,6 +145,7 @@ More references:
 * S. Levine: [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909) (2018)
 * T. Parr: [Neuronal message passing using Mean-field, Bethe, and Marginal approximations](https://www.nature.com/articles/s41598-018-38246-3) (2019)
 * K Friston: [CCN Workshop: Predictive Coding](https://www.youtube.com/watch?v=b1hEc6vay_k) (2016)
+* T. Parr, K. Friston: [Generalised free energy and active inference](https://link.springer.com/content/pdf/10.1007/s00422-019-00805-w.pdf?pdf=button) (2019)
 
 
 #### Other
