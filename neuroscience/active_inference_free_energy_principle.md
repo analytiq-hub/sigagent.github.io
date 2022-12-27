@@ -146,6 +146,7 @@ More references:
 * T. Parr: [Neuronal message passing using Mean-field, Bethe, and Marginal approximations](https://www.nature.com/articles/s41598-018-38246-3) (2019)
 * K Friston: [CCN Workshop: Predictive Coding](https://www.youtube.com/watch?v=b1hEc6vay_k) (2016)
 
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cognitive Science](cognitive_science.md)
