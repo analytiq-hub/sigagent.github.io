@@ -87,6 +87,8 @@ $$
 
 * Classically, $$-F(Q,y)$$ is called _Evidence Lower Bound_ (ELBO). The ELBO is always $$\le \ln P(y)$$, with equality when $$Q(x)=P(x \vert y)$$ (see [wiki](https://en.wikipedia.org/wiki/Variational_Bayesian_methods)).
 
+* Expected Free Energy $$G(\pi$$ at p. 55 is incorrect but a corrected version is in Smith et al: [A Step-by-Step Tutorial on Active Inference and its Application to Empirical Data](https://psyarxiv.com/b4jm6/) (2021) p. 55.
+
 Interpretation:
 * This inference procedure is a combination of top-down processes that encode predictions $$P(y)$$, and bottom-up processes that encode sensory observations $$y$$.
   * This interplay of top-down and bottom-up processes distinguishes the inferential view from alternative approaches that only consider bottom-up processes.
