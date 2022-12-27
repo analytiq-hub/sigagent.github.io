@@ -327,6 +327,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [Hands-on Bayesian Neural Networks - a Tutorial for Deep Learning Users](https://arxiv.org/pdf/2007.06823.pdf), L. V. Jospin et al (2021)
 * R. Ghugare et al: [Simplifying Model-based RL: Learning Representations, Latent-space Models, and Policies with One Objective](https://arxiv.org/abs/2209.08466) (2022), [talk](https://www.youtube.com/watch?v=pgaULpPhzus), [code](https://alignedlatentmodels.github.io)
 * J. Tenenbaum et al: [3DP3: 3D Scene Perception via Probabilistic Programming](https://arxiv.org/pdf/2111.00312.pdf) (2021)
+* [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/pdf/2207.08815.pdf), Léo Grinsztajn et al (2022)
 
 #### Posts
 * [Colah's blog](http://colah.github.io/)
