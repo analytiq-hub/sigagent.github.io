@@ -14,6 +14,7 @@ title: Neuroscience
 * [Karl Friston](https://www.fil.ion.ucl.ac.uk/~karl/)
   * MLDawn: [Active inference explained with Prof. Karl Friston](https://www.youtube.com/watch?v=XohuuIi7Jt8) (2021)
   * Sean Carroll: Mindscape 87: [Karl Friston on Brains, Predictions, and Free Energy](https://www.youtube.com/watch?v=TcFLQvz5uEg&t=1924s) (2020)
+  * K. Friston: [The free-energy principle: a unified brain theory?](https://www.uab.edu/medicine/cinl/images/KFriston_FreeEnergy_BrainTheory.pdf) (2010)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
