@@ -8,6 +8,7 @@ title: Probabilities and Statistics
 * [Probability Theory: The Logic of Science], E.T. Jaynes (2003)
 * [Probabilistic Graphical Models](https://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193), D. Koller and N. Friedman (2009)
 * [Introduction to Probability](https://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1138369918/), Blitzstein, Hwang
+* D. Applebaum: [Probability and Information: An Integrated Approach](https://www.amazon.com/Probability-Information-Integrated-David-Applebaum/dp/0521899044), 2nd ed (2008)
 
 #### Courses
 * Harvard [Stat 110](https://projects.iq.harvard.edu/stat110/home) (2013)
