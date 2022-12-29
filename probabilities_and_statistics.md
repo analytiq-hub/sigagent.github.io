@@ -13,6 +13,7 @@ title: Probabilities and Statistics
 #### Variational Bayes
 * M. Jordan et al: [An Introduction to Variational Methods for Graphical Models](https://www.cs.cmu.edu/~tom/10-702/zoubin-varintro.pdf) (1998)
 * M. Wainwright, M. Jordan: [Graphical Models, Exponential Families, and Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) (2008)
+* D. Blei et al: [Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670) (2017)
 
 #### Courses
 * Harvard [Stat 110](https://projects.iq.harvard.edu/stat110/home) (2013)
