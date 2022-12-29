@@ -9,7 +9,10 @@ title: Probabilities and Statistics
 * [Probabilistic Graphical Models](https://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193), D. Koller and N. Friedman (2009)
 * [Introduction to Probability](https://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1138369918/), Blitzstein, Hwang
 * D. Applebaum: [Probability and Information: An Integrated Approach](https://www.amazon.com/Probability-Information-Integrated-David-Applebaum/dp/0521899044), 2nd ed (2008)
+
+#### Variational Bayes
 * M. Jordan et al: [An Introduction to Variational Methods for Graphical Models](https://www.cs.cmu.edu/~tom/10-702/zoubin-varintro.pdf) (1998)
+* M. Wainwright, M. Jordan: [Graphical Models, Exponential Families, and Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) (2008)
 
 #### Courses
 * Harvard [Stat 110](https://projects.iq.harvard.edu/stat110/home) (2013)
