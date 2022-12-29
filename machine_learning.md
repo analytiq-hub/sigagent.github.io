@@ -62,6 +62,7 @@ title: Machine Learning
   * [CS236](https://deepgenerativemodels.github.io/): Deep Generative Models (slides only)
   * [CS224n](http://web.stanford.edu/class/cs224n/):Natural Language Processing with Deep Learning [Winter 2017 video](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6), [Winter 2019 video](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z), [Winter 2021 video](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
   * [CS224W](http://web.stanford.edu/class/cs224w): Machine Learning with Graphs [Spring 2021 video](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+  * C. Huen: [A survivor's guide to AI courses at Stanford](https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html) (2020)
 
 #### Conferences
 * [CVPR '20](https://cvpr2020.thecvf.com/)
