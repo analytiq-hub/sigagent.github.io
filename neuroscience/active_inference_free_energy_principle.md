@@ -72,7 +72,6 @@ $$
 
 * _Complexity_ means how much the approximation of the posterior $$Q(x)$$ deviates from the prior $$P(x)$$ - how many extra bits of information are encoded in $$Q(y)$$ relative to $$P(x)$$
 * _Accuracy_ $$\mathbb{E}_{Q(x)}[\ln P(y \vert x)]$$ is maximized when the density $$Q$$ places its mass on configurations of the latent variables that explain the observed data.
-  * This is a bit unclear in the book, explanation is from [AI Tutorial](https://psyarxiv.com/b4jm6/).
 
 Can express the _variational free energy_ as _Divergence_ minus _Evidence_:
 
