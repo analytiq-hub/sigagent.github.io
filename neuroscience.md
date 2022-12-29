@@ -15,6 +15,8 @@ title: Neuroscience
   * MLDawn: [Active inference explained with Prof. Karl Friston](https://www.youtube.com/watch?v=XohuuIi7Jt8) (2021)
   * Sean Carroll: Mindscape 87: [Karl Friston on Brains, Predictions, and Free Energy](https://www.youtube.com/watch?v=TcFLQvz5uEg&t=1924s) (2020)
   * K. Friston: [The free-energy principle: a unified brain theory?](https://www.uab.edu/medicine/cinl/images/KFriston_FreeEnergy_BrainTheory.pdf) (2010)
+  * EISM: [Karl Friston, Markov Blankets, and String Theory](https://www.youtube.com/watch?v=1wOLok4vq7Y) (2022)
+  * DaCosta, Friston et al: [Reward Maximisation through Discrete Active Inference](https://arxiv.org/pdf/2009.08111.pdf) (2022)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
