@@ -18,7 +18,12 @@ Andrei's notes:
   * Logistic Regression
   * Newton's Method: quicker iteration than gradient ascent
 * [L4](https://www.youtube.com/watch?v=iZTeva0WSTQ&list=RDCMUCBa5G_ESCn8Yd4vw5U-gIcg&index=2)
-  * Perceptron & Generalized Linear Model
+  * Perceptron
+  * Exponential Family
+    * See Berkeley 260 Lecture Notes, [Chap 8](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter8.pdf) for
+      * Exponential family
+      * What is $$A(\nu)$$ term for multinomial distribution written as exponential family
+  * Generalized Linear Model
 * [L5](https://www.youtube.com/watch?v=nt63k3bfXS0&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=5)
   * Generative vs Discriminative Algorithms
   * Gaussian Distributed Analysis (GDA)
