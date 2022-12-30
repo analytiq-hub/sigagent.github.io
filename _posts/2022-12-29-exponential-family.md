@@ -17,7 +17,7 @@ $$
 
 - $$T(y)$$ is called the _sufficient statistics_
 - $$\eta$$ is the _natural_ or _canonical_ parameter.
-- Both $$T(y)$$ znd $$\eta$$ are column vectors in $$\mathbb{R}^n$$.
+- Both $$T(y)$$ and $$\eta$$ are column vectors in $$\mathbb{R}^n$$.
 - Usually $$T(y) = y$$.
 - $$a(\eta)$$ is called the _log partition_ function, or the _cumulant_ function. 
 
