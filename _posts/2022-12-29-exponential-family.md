@@ -52,7 +52,6 @@ $$
 \begin{align*}
 p(y \vert \mu, \sigma^2) &= \frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{1}{2}(\frac{y-\mu}{\sigma})^2}
 \end{align*}
-\end{align*}
 $$
 
 
