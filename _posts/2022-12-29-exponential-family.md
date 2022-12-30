@@ -7,8 +7,6 @@ layout: post
 mathjax: true
 ---
 
-# The Exponential Family
-
 A distribution is in the _exponential family_ if it is of the form
 
 $$
@@ -16,7 +14,8 @@ $$
 p(y, \nu) = b(y) e^{\nu^T \cdot T(y) - a(\nu)}
 \end{align*}
 $$
-Here $T(y)$$, the _sufficient statistics_. and $$\nu$$, the _natural_ or _canonical_ parameter, are column vectors in $$\mathbb{R}^n$$. $$a(\nu)$$ is the _log partition_ function.
+
+Here $$T(y)$$, the _sufficient statistics_. and $$\nu$$, the _natural_ or _canonical_ parameter, are column vectors in $$\mathbb{R}^n$$. $$a(\nu)$$ is the _log partition_ function.
 
 Usually $$T(y) = y$$.
 
