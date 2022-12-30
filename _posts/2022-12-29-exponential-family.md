@@ -86,7 +86,7 @@ $$
 
 ## The Gamma distribution is in the exponential family
 
-The Gamma distribution generalizes the Poisson distribution, and is defined as:
+The Gamma distribution generalizes the is defined as:
 
 $$
 \begin{align*}
@@ -94,7 +94,7 @@ Gamma(x; \alpha, \beta) &= \frac{x^{\alpha-1} e^{-\beta x} \beta^\alpha}{\Gamma(
 \end{align*}
 $$
 
-for $$\alpha, \beta \gt 0$$. The $$\Gamma(a)$$ function extends the factorial - for natural numbers $$a$$, we have $$\Gamma(a) = (a-1)!$$.
+for $$\alpha, \beta \gt 0$$ where $$\Gamma(\alpha) = \int_{0}^\infty x^{\alpha -1}e^{-x}dx$$. The $$\Gamma()$$ function extends the factorial, in the sense that $$\Gamma(\alpha) = (\alpha -1)!$$ for natural numbers $$\alpha$$.
 
 
 
