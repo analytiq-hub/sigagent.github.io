@@ -57,5 +57,7 @@ $$
 
 where we define $$\eta = \left[-\frac{1}{2\sigma^2}, \frac{\mu}{\sigma}\right]$$ and define the log partition function $$a(\eta)$$ to ensure the distribution integrates over $$y$$ to 1.
 
+Similarly, the multivariate Gaussian is in the exponential family.
+
 
 
