@@ -9,6 +9,11 @@ title: Probabilities and Statistics
 * [Probabilistic Graphical Models](https://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193), D. Koller and N. Friedman (2009)
 * [Introduction to Probability](https://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1138369918/), Blitzstein, Hwang
 * D. Applebaum: [Probability and Information: An Integrated Approach](https://www.amazon.com/Probability-Information-Integrated-David-Applebaum/dp/0521899044), 2nd ed (2008)
+* M. Jordan preprints
+  * [The Multivariate Gaussian](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter13.pdf)
+  * [The Exponential Family: Basics](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter8.pdf)
+  * [The Exponential Family: Conjugate Priors](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter9.pdf)
+
 
 #### Variational Bayes
 * M. Jordan et al: [An Introduction to Variational Methods for Graphical Models](https://www.cs.cmu.edu/~tom/10-702/zoubin-varintro.pdf) (1998)
