@@ -50,7 +50,7 @@ The Gaussian distribution with mean $$\mu$$ and variance $$\sigma^2$$ is
 
 $$
 \begin{align*}
-p(y \vert \mu, \sigma^2) &= \frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{1}{2}(\frac{y-\mu}{\sigma})^2} \\
+\mathcal{N}(y \vert \mu, \sigma^2) &= \frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{1}{2}(\frac{y-\mu}{\sigma})^2} \\
                          &= \frac{1}{\sigma \sqrt{2 \pi}} e^{\left[-\frac{1}{2\sigma^2}, \frac{\mu}{\sigma}\right][y^2, y] - a(\eta)}
 \end{align*}
 $$
@@ -58,6 +58,17 @@ $$
 where we define $$\eta = \left[-\frac{1}{2\sigma^2}, \frac{\mu}{\sigma}\right]$$ and define the log partition function $$a(\eta)$$ to ensure the distribution integrates over $$y$$ to 1.
 
 Similarly, the multivariate Gaussian is in the exponential family.
+
+## The Poisson distribution as exponential family
+
+The Poisson distribution with mean $$\lambda$$ is
+
+$$
+\begin{align*}
+\end{align*}
+$$
+
+
 
 
 
