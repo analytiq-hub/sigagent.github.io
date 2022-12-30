@@ -37,10 +37,10 @@ We get the exponential family form with
 
 $$
 \begin{align*}
+\eta    &= \ln \frac{\phi}{1-\phi} & \iff & \phi = \frac{e^\eta}{1+ e^\eta} \\
 b(y)    &= 1 \\
 T(y)    &= y \\
-\eta    &= \phi \\
-a(\eta) &= \ln(1-\eta)
+a(\eta) &= \ln(\frac{1}{1+e^\eta})
 \end{align*}
 $$
 
