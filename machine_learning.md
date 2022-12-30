@@ -271,6 +271,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 #### Natural Language Processing (NLP)
 * torchtext [Release Notes](https://github.com/pytorch/text/releases), [examples](https://github.com/pytorch/text/tree/master/examples)
 * Tutorial: [Migrate torchtext from the legacy API to the new API](https://colab.research.google.com/github/pytorch/text/blob/master/examples/legacy_tutorial/migration_tutorial.ipynb)
+* J. Geiping, T. Goldstein: [Cramming: Training a Language Model on a Single GPU in One Day](https://arxiv.org/abs/2212.14034) (2022), [github](https://github.com/JonasGeiping/cramming), [review by Lucas Beyer](https://twitter.com/giffmana/status/1608568387583737856)
 
 #### RNN
 * Towards Data Science: [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45), by R. Karim (2018)
