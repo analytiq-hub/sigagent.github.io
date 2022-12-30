@@ -84,7 +84,15 @@ b(k) &= \frac{1}{k!} \\
 \end{align*}
 $$
 
-Similarly, the Gamma distribution $$\Gamma(x; \lambda) = \frac{\lambda^{x-1}}{\Gamma(x)} e^{-\lambda} $$ is in the exponential family.
+Similarly, the Gamma distribution is in the exponential family. The Gamma distribution generalizes the Poisson distribution, and is defined as:
+
+$$
+\begin{align*}
+Gamma(x; \alpha, \beta) &= \frac{x^{\alpha-1} e^{-\beta x} \beta^\alpha}{\Gamma(\alpha)}
+\end{align*}
+$$
+
+for $$\alpha, \beta \gt 0$$ and $$\Gamma(\alpha) = (\alpha -1)!$$ for natural numbers $$\alpha$$.
 
 
 
