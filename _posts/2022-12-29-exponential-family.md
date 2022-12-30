@@ -51,7 +51,7 @@ The Gaussian distribution with mean $$\mu$$ and variance $$\sigma^2$$ is
 $$
 \begin{align*}
 p(y \vert \mu, \sigma^2) &= \frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{1}{2}(\frac{y-\mu}{\sigma})^2} \\
-                         &= \frac{1}{\sigma \sqrt{2 \pi}} e^{[-\frac{1}{2\sigma^2}, \frac{\mu}{\sigma}][y^2, y] - a(\eta)}
+                         &= \frac{1}{\sigma \sqrt{2 \pi}} e^{\left[-\frac{1}{2\sigma^2}, \frac{\mu}{\sigma}\right][y^2, y] - a(\eta)}
 \end{align*}
 $$
 
