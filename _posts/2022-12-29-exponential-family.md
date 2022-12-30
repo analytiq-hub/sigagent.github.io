@@ -44,3 +44,13 @@ a(\eta) &= \ln(1+e^\eta)
 \end{align*}
 $$
 
+## The Gaussian distribution as exponential family
+
+The Gaussian distribution with mean $$\mu$$ and variance $$\sigma^2$$ is
+
+$$
+\begin{align*}
+\end{align*}
+$$
+
+
