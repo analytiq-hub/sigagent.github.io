@@ -94,7 +94,7 @@ Gamma(x; \alpha, \beta) &= \frac{x^{\alpha-1} e^{-\beta x} \beta^\alpha}{\Gamma(
 \end{align*}
 $$
 
-for $$\alpha, \beta \gt 0$$ and $$\Gamma(\alpha) = (\alpha -1)!$$ for natural numbers $$\alpha$$.
+for $$\alpha, \beta \gt 0$$. The $$\Gamma(a)$$ function extends the factorial - for natural numbers $$a$$, we have $$\Gamma(a) = (a-1)!$$.
 
 
 
