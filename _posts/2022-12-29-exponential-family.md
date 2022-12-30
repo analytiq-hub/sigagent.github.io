@@ -86,7 +86,7 @@ $$
 
 ## The Gamma distribution is in the exponential family
 
-The Gamma distribution generalizes the is defined as:
+The Gamma distribution is defined as:
 
 $$
 \begin{align*}
