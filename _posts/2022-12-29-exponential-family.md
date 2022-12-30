@@ -27,6 +27,20 @@ The Bernoulli distribution with mean $$\phi$$ is
 
 $$
 \begin{align*}
+Bernoulli(y \vert \phi) &= \phi^y \cdot (1-\phi)^{1-y} \\
+                        &= e^{y \ln \phi + (1-y) ln (1-\phi)} \\
+                        &= e^{(\ln \frac{\phi}{1-\phi}) y + \ln(1-\phi)}
+\end{align*}
+$$
+
+We get the exponential family form with
+
+$$
+\begin{align*}
+b(y)    &= 1 \\
+T(y)    &= y \\
+\eta    &= \phi \\
+a(\eta) &= \ln(1-\eta)
 \end{align*}
 $$
 
