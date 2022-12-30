@@ -11,7 +11,7 @@ A distribution is in the _exponential family_ if it is of the form
 
 $$
 \begin{align*}
-p(y, \eta) = b(y) e^{\eta^T \cdot T(y) - a(\eta)}
+p(y; \eta) = b(y) e^{\eta^T \cdot T(y) - a(\eta)}
 \end{align*}
 $$
 
@@ -27,7 +27,7 @@ The Bernoulli distribution with mean $$\phi$$ is
 
 $$
 \begin{align*}
-Bernoulli(y \vert \phi) &= \phi^y \cdot (1-\phi)^{1-y} \\
+Bernoulli(y; \phi) &= \phi^y \cdot (1-\phi)^{1-y} \\
                         &= e^{y \ln \phi + (1-y) ln (1-\phi)} \\
                         &= e^{(\ln \frac{\phi}{1-\phi}) y + \ln(1-\phi)}
 \end{align*}
@@ -50,7 +50,7 @@ The Gaussian distribution with mean $$\mu$$ and variance $$\sigma^2$$ is
 
 $$
 \begin{align*}
-\mathcal{N}(y \vert \mu, \sigma^2) &= \frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{1}{2}(\frac{y-\mu}{\sigma})^2} \\
+\mathcal{N}(y; \mu, \sigma^2) &= \frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{1}{2}(\frac{y-\mu}{\sigma})^2} \\
                          &= \frac{1}{\sigma \sqrt{2 \pi}} e^{\left[-\frac{1}{2\sigma^2}, \frac{\mu}{\sigma}\right][y^2, y] - a(\eta)}
 \end{align*}
 $$
