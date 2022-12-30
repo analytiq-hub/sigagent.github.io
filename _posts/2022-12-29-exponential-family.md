@@ -90,13 +90,28 @@ The Gamma distribution is defined as:
 
 $$
 \begin{align*}
-Gamma(x; \alpha, \beta) &= \frac{x^{\alpha-1} e^{-\beta x} \beta^\alpha}{\Gamma(\alpha)}
+Gamma(y; \alpha, \beta) &= \frac{y^{\alpha-1} e^{-\beta y} \beta^\alpha}{\Gamma(\alpha)}
 \end{align*}
 $$
 
-for $$\alpha, \beta \gt 0$$ where $$\Gamma(\alpha) = \int_{0}^\infty x^{\alpha -1}e^{-x}dx$$. The $$\Gamma()$$ function extends the factorial, in the sense that $$\Gamma(n) = (n -1)!$$ for natural numbers $$n$$.
+for $$\alpha, \beta \gt 0$$ where $$\Gamma(\alpha) = \int_{0}^\infty t^{\alpha -1}e^{-t}dt$$. The $$\Gamma()$$ function extends the factorial, in the sense that $$\Gamma(n) = (n -1)!$$ for natural numbers $$n$$.
 
+We rewrite
 
+$$
+\begin{align*}
+Gamma(y; \alpha, \beta) &= \frac{y^{\alpha-1} e^{-\beta y} \beta^\alpha}{\Gamma(\alpha)} \\
+                        &= e^{-\ln \Gamma(\alpha) + (\alpha -1)\ln y + \alpha ln \beta}
+\end{align*}
+$$
 
+where we define
 
+$$
+\begin{align*}
+\eta &= [\alpha-1, \beta] \\
+T(y) &= [\ln y, 0] \\
+$$
+
+and we define the log partition function $$a(\eta)$$ such that the distribution integrates over $$x$$ to 1.
 
