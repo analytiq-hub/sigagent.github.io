@@ -40,7 +40,7 @@ $$
 \eta    &= \ln \frac{\phi}{1-\phi} & \iff & \phi = \frac{e^\eta}{1+ e^\eta} \\
 b(y)    &= 1 \\
 T(y)    &= y \\
-a(\eta) &= \ln(\frac{1}{1+e^\eta})
+a(\eta) &= \ln(1+e^\eta)
 \end{align*}
 $$
 
