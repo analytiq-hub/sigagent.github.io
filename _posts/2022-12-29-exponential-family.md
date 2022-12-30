@@ -76,7 +76,7 @@ $$
 \begin{align*}
 \eta &= \ln \lambda \\
 T(k) &= k \\
-a(\lambda) &= \lambda \\
+a(\eta) &= \eta \\
 b(k) &= \frac{1}{k!} \\
 \end{align*}
 $$
