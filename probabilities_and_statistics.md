@@ -13,6 +13,7 @@ title: Probabilities and Statistics
   * [The Multivariate Gaussian](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter13.pdf)
   * [The Exponential Family: Basics](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter8.pdf)
   * [The Exponential Family: Conjugate Priors](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter9.pdf)
+* Ch. Robert: [The Bayesian Choice](https://www.amazon.com/Bayesian-Choice-Decision-Theoretic-Computational-Implementation/dp/0387715983) (2007)
 
 
 #### Variational Bayes
