@@ -24,7 +24,7 @@ $$
 
 As we vary $$\eta$$ with fixed $$a, b, T$$ we get a family of distributions parametrized by the canonical parameter $$\eta$$.
 
-## The Bernoulli distribution as exponential family
+## The Bernoulli distribution is in the exponential family
 
 The Bernoulli distribution with mean $$\phi$$ is
 
@@ -47,7 +47,7 @@ a(\eta) &= \ln(1+e^\eta)
 \end{align*}
 $$
 
-## The Gaussian distribution as exponential family
+## The Gaussian distribution is in the exponential family
 
 The Gaussian distribution with mean $$\mu$$ and variance $$\sigma^2$$ is
 
@@ -62,7 +62,7 @@ where we define the canonical parameter $$\eta = \left[-\frac{1}{2\sigma^2}, \fr
 
 Similarly, the multivariate Gaussian is in the exponential family.
 
-## The Poisson distribution as exponential family
+## The Poisson distribution is in the exponential family
 
 The Poisson distribution with mean and variance $$\lambda$$ is
 
@@ -84,7 +84,9 @@ b(k) &= \frac{1}{k!} \\
 \end{align*}
 $$
 
-Similarly, the Gamma distribution is in the exponential family. The Gamma distribution generalizes the Poisson distribution, and is defined as:
+## The Gamma distribution is in the exponential family
+
+The Gamma distribution generalizes the Poisson distribution, and is defined as:
 
 $$
 \begin{align*}
