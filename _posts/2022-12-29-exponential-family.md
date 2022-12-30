@@ -84,6 +84,8 @@ b(k) &= \frac{1}{k!} \\
 \end{align*}
 $$
 
+Similarly, the Gamma distribution $$\Gamma(x; \lambda) = \frac{\lambda^{x-1}}{\Gamma(x)} e^{-\lambda} $$ is in the exponential family.
+
 
 
 
