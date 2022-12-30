@@ -61,7 +61,7 @@ Similarly, the multivariate Gaussian is in the exponential family.
 
 ## The Poisson distribution as exponential family
 
-The Poisson distribution with mean $$\lambda$$ is
+The Poisson distribution with mean and variance $$\lambda$$ is
 
 $$
 \begin{align*}
