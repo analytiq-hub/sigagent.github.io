@@ -94,7 +94,7 @@ Gamma(x; \alpha, \beta) &= \frac{x^{\alpha-1} e^{-\beta x} \beta^\alpha}{\Gamma(
 \end{align*}
 $$
 
-for $$\alpha, \beta \gt 0$$ where $$\Gamma(\alpha) = \int_{0}^\infty x^{\alpha -1}e^{-x}dx$$. The $$\Gamma()$$ function extends the factorial, in the sense that $$\Gamma(\alpha) = (\alpha -1)!$$ for natural numbers $$\alpha$$.
+for $$\alpha, \beta \gt 0$$ where $$\Gamma(\alpha) = \int_{0}^\infty x^{\alpha -1}e^{-x}dx$$. The $$\Gamma()$$ function extends the factorial, in the sense that $$\Gamma(n) = (n -1)!$$ for natural numbers $$n$$.
 
 
 
