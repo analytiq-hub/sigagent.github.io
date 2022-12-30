@@ -65,6 +65,19 @@ The Poisson distribution with mean $$\lambda$$ is
 
 $$
 \begin{align*}
+Poisson(k ; \lambda) &= \frac{\lambda^k}{k!} e^{-\lambda} \\
+                     &= \frac{1}{k!} e^{ k \ln \lambda - \lambda}
+\end{align*}
+$$
+
+where we define
+
+$$
+\begin{align*}
+\eta &= \ln \lambda \\
+T(k) &= k \\
+a(\lambda) &= \lambda \\
+b(k) &= \frac{1}{k!} \\
 \end{align*}
 $$
 
