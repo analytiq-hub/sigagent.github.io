@@ -36,4 +36,5 @@ P(y \vert x) = \frac{e^{-\beta F(x, y}}{\int_{y'} e^{-\beta F(x, y'}}}
 $$
 
 * Softmax is an instance of the Gibbs-Boltzmann distribution
-    
+* You pick $$\beta$$, it is arbitrary
+  * For physicists, this constant is aking to temperature.
