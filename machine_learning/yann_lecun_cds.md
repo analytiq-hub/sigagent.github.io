@@ -74,3 +74,11 @@ EBM architectures:
   * Called free energy by physicists
 
 * We use energy models when marginal probability in Gibbs-Boltzmann distribution is intractable
+* We diminish our ambitions here! Use energy as fundamental underlying object.
+* Where does energy come from?
+
+$$
+\begin{align*}
+P(y, z \vert x) = \frac{e^{- \beta E(x, y, z)}}{\int_{y, z}e^{- \beta E(x, y, z)}dydz}
+\end{align*}
+$$
