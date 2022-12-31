@@ -4,7 +4,8 @@ mathjax: true
 title: Yann LeCun - CDS Machine Learning Course
 ---
 Notes on [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
-* [05L - Joint embedding method and latent variable energy based models (LV-EBMs)](https://www.youtube.com/watch?v=xIn-Czj1g2Q)
+
+#### [05L - Joint embedding method and latent variable energy based models (LV-EBMs)](https://www.youtube.com/watch?v=xIn-Czj1g2Q)
   * Energy based models (EBM) vs Discriminative models
     * Energy $$F(x, y)$$, where $$x$$ is observed variable, and we'd like to predict variable $$y$$.
     * Find $$y(x)=argmin_y F(x, y)$$ (energy is minimized)
@@ -27,10 +28,12 @@ Notes on [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
       * Choice of objective function for learning
 
 From energy to probability: Gibbs-Boltzmann distribution
+
 $$
 \begin{align*}
 P(y \vert x) = \frac{e^{-\beta F(x, y}}{\int_{y'} e^{-\beta F(x, y'}}}
 \end{align*}
 $$
 
+* Softmax is an instance of the Gibbs-Boltzmann distribution
     
