@@ -17,3 +17,4 @@ Notes on [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
     * PCA
     * k-means clustering
     * Any unsupervised algorithm can be cast as unconditional EBM
+  * Both $$x$$, $$y$$ are inputs to model $$F$$.
