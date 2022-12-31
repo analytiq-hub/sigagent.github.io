@@ -29,7 +29,7 @@ Notes on [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
 From energy to probability: Gibbs-Boltzmann distribution
 $$
 \begin{align*}
-P(y \vert x) = \frac{}{}
+P(y \vert x) = \frac{e^{-\beta F(x, y}}{\int_{y'} e^{-\beta F(x, y'}}}
 \end{align*}
 $$
 
