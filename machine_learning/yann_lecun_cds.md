@@ -55,7 +55,7 @@ EBM architectures:
 * Variational models
 
 <p align="center">
-<img src="/machine_learning/diagrams/joint_embedding.drawio.png" width="500" height="500"  object-fit="cover"/>
+<img src="/machine_learning/diagrams/joint_embedding.drawio.png" width="50%" height="50%"/>
 </p>
 
 * In joint embedding, inputs can be both images.
