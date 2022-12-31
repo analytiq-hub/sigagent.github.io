@@ -8,6 +8,7 @@ title: Neuroscience
 * Anil Seth: [Being You: A New Science of Consciousness](https://www.amazon.com/Being-You-New-Science-Consciousness/dp/1524742872) (2021)
 * Andy Clark: [Surfing Uncertainty: Prediction, Action, and the Embodied Mind](https://www.amazon.com/Surfing-Uncertainty-Prediction-Action-Embodied/dp/0190933216/ref=d_pd_sbs_sccl_4_5/146-1943148-1230166), [review](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/)
 * Giulio Tononi: [Phi: A Voyage from the Brain to the Soul](https://www.amazon.com/Phi-Voyage-Brain-Giulio-Tononi/dp/030790721X/) (2012)
+  * [pyphi](https://pyphi.readthedocs.io/en/latest/) python module
 * G.M.Edelman, G. Tononi: [A Universe Of Consciousness: How Matter Becomes Imagination](https://www.amazon.com/Universe-Consciousness-Matter-Becomes-Imagination/dp/0465013775)
 * Michio Kaku: [The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind](https://www.amazon.com/Future-Mind-Scientific-Understand-Enhance/dp/038553082X) (2014)
 * Seek Yoshua Bengio's lectures on Consciousness and ML
