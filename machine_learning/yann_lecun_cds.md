@@ -18,3 +18,19 @@ Notes on [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
     * k-means clustering
     * Any unsupervised algorithm can be cast as unconditional EBM
   * Both $$x$$, $$y$$ are inputs to model $$F$$.
+  * Connection to probabilistic models
+    * Probabilistic models are special case of EBM
+    * Energies are like un-normalized negative log probabilities
+  * Why use EBM instead of probabilistic models?
+    * EBM gives more flexibility in
+      * Choice of scoring function
+      * Choice of objective function for learning
+
+From energy to probability: Gibbs-Boltzmann distribution
+$$
+\begin{align*}
+P(y \vert x) = \frac{}{}
+\end{align*}
+$$
+
+    
