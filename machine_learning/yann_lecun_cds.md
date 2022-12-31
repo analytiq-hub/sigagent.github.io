@@ -14,7 +14,7 @@ Notes on [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
     * If $$F$$ is a smooth function of $$y$$, can use gradient descent
 
 <p align="center">
-<img src="/machine_learning/diagrams/energy_model.drawio.png" width="600" height="250"/>
+<img src="/machine_learning/diagrams/energy_model.drawio.png" width="50%" height="50%"/>
 </p>
 
   * Factor Graphs
