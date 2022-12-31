@@ -148,7 +148,7 @@ More references:
 * K Friston: [CCN Workshop: Predictive Coding](https://www.youtube.com/watch?v=b1hEc6vay_k) (2016)
 * T. Parr, K. Friston: [Generalised free energy and active inference](https://link.springer.com/content/pdf/10.1007/s00422-019-00805-w.pdf?pdf=button) (2019)
 * Lex Fridman #99: [Neuroscience and the Free Energy Principle](https://www.youtube.com/watch?v=NwzuibY5kUs) (2021)
-
+* Machine Learning Street Talk: [#033 Karl Friston - The Free Energy Principle](https://www.youtube.com/watch?v=KkR24ieh5Ow) (2020)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
