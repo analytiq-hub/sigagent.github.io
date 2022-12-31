@@ -85,6 +85,9 @@ $$
 
 $$
 \begin{align*}
-P(y \vert x) = \int_z P(y, z \vert x)
+P(y \vert x) &= \int_z P(y, z \vert x) \\
+             &= \frac{\int_z e^{- \beta E(x, y, z)}dz}{\int_{y, z}e^{- \beta E(x, y, z)}dydz} \\
+             &= \frac{e^{-\beta \left[ -\frac{1}{\beta}\ln \int_z e^{- \beta E(x, y, z)}dz\right]}} {\int_y e^{-\beta \left[ -\frac{1}{\beta}\ln \int_{z}e^{- \beta E(x, y, z)}dz\right]}dy} \\
+             &= \frac{e^{-\beta F_\beta(x, y)}} {\int_y e^{-\beta F_\beta(x, y)}dy}
 \end{align*}
 $$
