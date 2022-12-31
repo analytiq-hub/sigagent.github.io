@@ -40,3 +40,4 @@ $$
   * For physicists, this constant is aking to temperature.
 * The exponential makes numbers positive. Gives high values to low energy (which is what you want - likely configurations have low energy)
 * Denominator is normalization factor
+* LeCun does not say it - but $$P(y \vert x)$$ can be seen as number of configurations with energy $$F(x, y)$$ (but normalized)
