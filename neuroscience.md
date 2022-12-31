@@ -18,6 +18,10 @@ title: Neuroscience
   * EISM: [Karl Friston, Markov Blankets, and String Theory](https://www.youtube.com/watch?v=1wOLok4vq7Y) (2022)
   * DaCosta, Friston et al: [Reward Maximisation through Discrete Active Inference](https://arxiv.org/pdf/2009.08111.pdf) (2022)
 
+
+#### Courses
+* Simons Institute: [The Brain and Computation Boot Camp](https://www.youtube.com/watch?v=R2US2yVO4us&list=PLgKuh-lKre10qVKXL6EqR08qxyHf8R7-A) (2018)
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cognitive Science](cognitive_science.md)
