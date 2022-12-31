@@ -12,6 +12,11 @@ Notes on [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
     * Choice of energy function does not matter if minimum is achieved for same value $$y$$. For example, if we add a constant to $$F$$, the minimum does not change.
     * Can compute if $$y$$ is discrete, or if there is a dynamic-programming-style way to compute $$y$$
     * If $$F$$ is a smooth function of $$y$$, can use gradient descent
+
+<p align="center">
+<img src="/machine_learning/diagrams/energy_model.drawio.png" width="250" height="250"/>
+</p>
+
   * Factor Graphs
   * Conditional EBM: $$F(x, y)$$ has conditional variable $$x$$
   * Unconditional EBM: $$F(y)$$. Here, $$x$ does not exist.
