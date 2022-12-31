@@ -36,7 +36,7 @@ title: Machine Learning
 * University of Amsterdam: [UVA Deep Learning Course](https://uvadlc.github.io/), [UVA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
 * Yann LeCun
   * [Deep Learning](https://www.youtube.com/watch?v=ChLEJA6J2b8&list=PL80I41oVxglJ0kTDV7i3aHBIXe65nTxE7&index=6) course at College de France (2016)
-  * [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
+  * [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/), [Andrei's notes](machine_learning/yann_lecun_cds.md)
 * CMU
   * [Advanced NLP 2022](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
   * 10-704: [Information Processing and Learning](https://www.cs.cmu.edu/~aarti/Class/10704/) (Spring 2012)
