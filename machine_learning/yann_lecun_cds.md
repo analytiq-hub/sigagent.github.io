@@ -64,5 +64,5 @@ EBM architectures:
   * Specific case: siamese nets, when $$F,G$$ are identical
 
 <p align="center">
-<img src="/machine_learning/diagrams/latent_models.drawio.png" width="250" height="250" object-fit="cover"/>
+<img src="/machine_learning/diagrams/latent_models.drawio.png" width="50%" height="50%"/>
 </p>
