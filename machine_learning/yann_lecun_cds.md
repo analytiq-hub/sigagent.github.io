@@ -57,3 +57,12 @@ EBM architectures:
 <p align="center">
 <img src="/machine_learning/diagrams/joint_embedding.drawio.png" width="300" height="600"/>
 </p>
+
+* In joint embedding, inputs can be both images.
+  * $$G(y)$$ can be invariant to changes of luminosity, for example.
+  * This means we get multiple values of $$y$$ with same $$h'$$.
+  * Specific case: siamese nets, when $$F,G$$ are identical
+
+<p align="center">
+<img src="/machine_learning/diagrams/latent_models.drawio.png" width="250" height="250" object-fit="cover"/>
+</p>
