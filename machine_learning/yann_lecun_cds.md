@@ -14,7 +14,7 @@ Notes on [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
     * If $$F$$ is a smooth function of $$y$$, can use gradient descent
 
 <p align="center">
-<img src="/machine_learning/diagrams/energy_model.drawio.png" width="250" height="250"/>
+<img src="/machine_learning/diagrams/energy_model.drawio.png" width="600" height="250"/>
 </p>
 
   * Factor Graphs
@@ -49,3 +49,11 @@ $$
   * Compare with [Statistical mechanics - a set of lectures](https://www.amazon.com/Statistical-Mechanics-Lectures-Frontiers-Physics/dp/0201360764), R. Feynman (1981), 1st lecture where he derives Boltzmann's equation in statistical mechanics from properties of energy and temperature
 * Energy function is like a cost we want to minimize
 * Inference becomes optimization problem to find $$y$$
+
+EBM architectures:
+* Joint embeddings
+* Variational models
+
+<p align="center">
+<img src="/machine_learning/diagrams/joint_embedding.drawio.png" width="300" height="600"/>
+</p>
