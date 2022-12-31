@@ -17,6 +17,8 @@ title: Neuroscience
   * K. Friston: [The free-energy principle: a unified brain theory?](https://www.uab.edu/medicine/cinl/images/KFriston_FreeEnergy_BrainTheory.pdf) (2010)
   * EISM: [Karl Friston, Markov Blankets, and String Theory](https://www.youtube.com/watch?v=1wOLok4vq7Y) (2022)
   * DaCosta, Friston et al: [Reward Maximisation through Discrete Active Inference](https://arxiv.org/pdf/2009.08111.pdf) (2022)
+  * Brain Ponderings with Mark Mattson: [Pondering How the Brain Processes Information with Karl Friston](https://www.youtube.com/watch?v=19B98MCsCB4) (2022)
+
 
 
 #### Courses
