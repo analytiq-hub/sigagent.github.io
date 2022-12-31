@@ -70,6 +70,7 @@ EBM architectures:
 * General setup for latent variable: $$E(x, z, y$$ where $$z$$ latent
   * Find $$argmin_y argmin_z E(x, z, y$$
   * Can eliminate z replacing $$E$$ with free energy: $$F_\beta(x, y) = - \frac{1}{\beta} \log \int_z e^{- \beta E(x, y, z)} dz$$
-    
+  * When $$\beta=\infty$$, this becomes $$F_\infty(x, y) = min_z E(x, y, z)$$
+  * Called free energy by physicists
 
 * We use energy models when marginal probability in Gibbs-Boltzmann distribution is intractable
