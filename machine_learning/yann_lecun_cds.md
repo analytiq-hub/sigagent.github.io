@@ -82,3 +82,9 @@ $$
 P(y, z \vert x) = \frac{e^{- \beta E(x, y, z)}}{\int_{y, z}e^{- \beta E(x, y, z)}dydz}
 \end{align*}
 $$
+
+$$
+\begin{align*}
+P(y \vert x) = \int_z P(y, z \vert x)
+\end{align*}
+$$
