@@ -14,3 +14,6 @@ Notes on [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
   * Factor Graphs
   * Conditional EBM: $$F(x, y)$$ has conditional variable $$x$$
   * Unconditional EBM: $$F(y)$$. Here, $$x$ does not exist.
+    * PCA
+    * k-means clustering
+    * Any unsupervised algorithm can be cast as unconditional EBM
