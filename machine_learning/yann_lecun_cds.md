@@ -38,3 +38,4 @@ $$
 * Softmax is an instance of the Gibbs-Boltzmann distribution
 * You pick $$\beta$$, it is arbitrary
   * For physicists, this constant is aking to temperature.
+* The exponential makes numbers positive. Gives high values to low energy (which is what you want - likely configurations have low energy)
