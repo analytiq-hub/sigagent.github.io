@@ -67,8 +67,8 @@ EBM architectures:
 <img src="/machine_learning/diagrams/latent_models.drawio.png" width="50%" height="50%"/>
 </p>
 
-* General setup for latent variable: $$E(x, z, y$$ where $$z$$ latent
-  * Find $$argmin_y argmin_z E(x, z, y$$
+* General setup for latent variable: $$E(x, y, z)$$ where $$z$$ latent
+  * Find $$argmin_y min_z E(x, y, z)$$
   * Can eliminate z replacing $$E$$ with free energy: $$F_\beta(x, y) = - \frac{1}{\beta} \log \int_z e^{- \beta E(x, y, z)} dz$$
   * When $$\beta=\infty$$, this becomes $$F_\infty(x, y) = min_z E(x, y, z)$$
   * Called free energy by physicists
