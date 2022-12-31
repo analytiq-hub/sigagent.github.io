@@ -66,3 +66,10 @@ EBM architectures:
 <p align="center">
 <img src="/machine_learning/diagrams/latent_models.drawio.png" width="50%" height="50%"/>
 </p>
+
+* General setup for latent variable: $$E(x, z, y$$ where $$z$$ latent
+  * Find $$argmin_y argmin_z E(x, z, y$$
+  * Can eliminate z replacing $$E$$ with free energy: $$F_\beta(x, y) = - \frac{1}{\beta} \log \int_z e^{- \beta E(x, y, z)} dz$$
+    
+
+* We use energy models when marginal probability in Gibbs-Boltzmann distribution is intractable
