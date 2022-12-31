@@ -18,7 +18,7 @@ title: Neuroscience
   * EISM: [Karl Friston, Markov Blankets, and String Theory](https://www.youtube.com/watch?v=1wOLok4vq7Y) (2022)
   * DaCosta, Friston et al: [Reward Maximisation through Discrete Active Inference](https://arxiv.org/pdf/2009.08111.pdf) (2022)
   * Brain Ponderings with Mark Mattson: [Pondering How the Brain Processes Information with Karl Friston](https://www.youtube.com/watch?v=19B98MCsCB4) (2022)
-
+* Kelvin McQueen: [Consciousness and the Collapse of the Wave Function](https://www.youtube.com/watch?v=QbRi7w4aQ4k) (2020)
 
 
 #### Courses
