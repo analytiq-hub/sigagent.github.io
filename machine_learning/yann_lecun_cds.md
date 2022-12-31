@@ -91,3 +91,4 @@ P(y \vert x) &= \int_z P(y, z \vert x) \\
              &= \frac{e^{-\beta F_\beta(x, y)}} {\int_y e^{-\beta F_\beta(x, y)}dy}
 \end{align*}
 $$
+- That's where the free energy formula comes from.
