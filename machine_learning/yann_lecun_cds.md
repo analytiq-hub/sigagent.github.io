@@ -5,7 +5,7 @@ title: Yann LeCun - CDS Machine Learning Course
 ---
 Notes on [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
 
-#### [05L - Joint embedding method and latent variable energy based models (LV-EBMs)](https://www.youtube.com/watch?v=xIn-Czj1g2Q)
+#### [05L - Joint embedding method and latent variable energy based models (LV-EBMs)](https://www.youtube.com/watch?v=xIn-Czj1g2Q), [slides](https://drive.google.com/file/d/1kLUgZdRYFO5ksYHzbsRS8m8IocNiGu2J/)
   * Energy based models (EBM) vs Discriminative models
     * Energy $$F(x, y)$$, where $$x$$ is observed variable, and we'd like to predict variable $$y$$.
     * Find $$y(x)=argmin_y F(x, y)$$ (energy is minimized)
@@ -274,3 +274,5 @@ $$
 <p align="center">
 <img src="/machine_learning/diagrams/denoising_or_masked_autoencoder.drawio.png" width="75%" height="75%"/>
 </p>
+
+#### [06L - Latent variable EBMs for structured prediction](https://www.youtube.com/watch?v=8u2s64ZtmiA) [slides](https://drive.google.com/file/d/1czfiEE6IPqE7q1fTm-SWOiC3VNEtpNrj/)
