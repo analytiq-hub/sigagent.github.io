@@ -92,3 +92,4 @@ P(y \vert x) &= \int_z P(y, z \vert x) \\
 \end{align*}
 $$
 - That's where the free energy formula comes from.
+- K-means as energy model
