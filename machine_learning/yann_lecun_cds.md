@@ -135,3 +135,11 @@ $$
       * Contracting auto-encoder
       * Saturating auto-encoder
     * A4: minimize the gradient and maximize the curvature around data points: score matching
+
+Why is max likelihood a contrastive method: we want to pick weights $$w$$ to maximize
+
+$$
+\begin{align*}
+p_w(y \vert x) &= \frac{e^{- \beta F_w(x, y)}}{\int_{y'}e^{- \beta F_w(x, y')}dy'} \\
+\end{align*}
+$$
