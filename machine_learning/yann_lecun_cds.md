@@ -252,6 +252,15 @@ $$
 \end{align*}
 $$
 
+* Group losses: Neighborhood Component Analysis, Noise Contrastive Estimation
+(implicit infinite margin): Goldberger 2005, Gutmann 2010, ..., Misra 2019, Chen 2020
+
+$$
+\begin{align*}
+\mathcal{L}(x, y, \hat{y}_1, ... \hat{y}_{p^-}, w) = \frac{e^{-F_w(x, y)}}{e^{-F_w(x, y)}+\sum_{i=1, ..., p^-} e^{-F_w(x, y_i)}}
+\end{align*}
+$$
+
 
 * Contrastive joint embeddings
 
