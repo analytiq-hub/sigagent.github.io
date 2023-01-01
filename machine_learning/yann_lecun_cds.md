@@ -91,6 +91,14 @@ P(y \vert x) &= \int_z P(y, z \vert x) \\
              &= \frac{e^{-\beta F_\beta(x, y)}} {\int_y e^{-\beta F_\beta(x, y)}dy}
 \end{align*}
 $$
-- That's where the free energy formula comes from.
-- K-means as energy model
-- Limiting the capacity of the latent variable $$z$$
+
+* That's where the free energy formula comes from.
+* K-means as energy model
+* Limiting the capacity of the latent variable $$z$$
+  * k-means solves this by setting $$z$$ to be discrete
+* Training EBM
+  * Give it an architecture/energy function $$F(x, y)$$
+  * For each datapoint $$(x[i], y[i])$$, tweak $$F$$ so energy is as small as possible
+  * Then, we need the energy of other $$(x[i], y')$$ to be as large as possible
+  * Two methods:
+    * Contrastive method: push down $$F(x[i], y[i])$$, push up other points $$F(x[i], y')$$
