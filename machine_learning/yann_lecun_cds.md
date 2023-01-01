@@ -93,3 +93,4 @@ P(y \vert x) &= \int_z P(y, z \vert x) \\
 $$
 - That's where the free energy formula comes from.
 - K-means as energy model
+- Limiting the capacity of the latent variable $$z$$
