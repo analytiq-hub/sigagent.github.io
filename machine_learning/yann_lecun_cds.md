@@ -192,4 +192,18 @@ $$
 * MC, or MCMC methods for probabilistic graphical models - this is how they are trained
 * $$\beta$$ is to some extent arbitrary. You can pick value 1. For example, if you use softmax, you can rescale the previous layer so that $$\beta$$ in the softmax becomes 1.
 
+Gradient descent:
+
+$$
+\begin{align*}
+w & \leftarrow w - \eta \frac{\partial}{\partial w}\mathcal{L}(x, y, w) \\
+
+   &= w - \eta \frac{\partial}{\partial w} F_w(x, y) + \eta \frac{\partial}{\partial w}F_w(x, \hat{y})
+\end{align*}
+$$
+
+* First $$\eta$$ term pushes down on the energy of samples
+* Second $$\eta$$ term pushes up on the energy of low-energy samples
+
+
 
