@@ -170,4 +170,7 @@ $$
 
 Under the integral, if $$y'$$ has high energy, $$p(y' \vert x)$$ is low, and $$\frac{\partial}{\partial w}F_w(x, y')$$ is not pushed up very much. If $$y'$$ has low energy, $$p(y' \vert x)$$ is high, $$\frac{\partial}{\partial w}F_w(x, y')$$ is pushed up.
 
+Issues
+* Integral is most time intractable
+
 
