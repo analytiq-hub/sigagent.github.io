@@ -223,3 +223,4 @@ $$
 $$
 * Pick non-matching $$\hat{y}$$ by some method
 * Push up $$F_w(x, \hat{y})$$ but not more than $$m(y, \hat{y})$$
+* $$[]^+$$ is ReLU function
