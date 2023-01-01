@@ -313,3 +313,4 @@ $$
 * Optimization is finding a Nash equilibrium (a saddle point). With gradient descent, hard to find - get mode collapse, when critic does not give any useful gradients (and generator keeps producing same output)
 * With original GANs, if you train long enough, you have collapse
 * Wasserstein GANs are a way to deal with this. Though even with Wasserstein GANs, if you train long enough, you get mode collapse.
+* Attempts to use critic as base for transfer learing have failed. Only generator can be used to generate data.
