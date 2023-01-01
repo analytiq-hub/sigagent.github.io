@@ -173,5 +173,17 @@ Under the integral, if $$y'$$ has high energy, $$p(y' \vert x)$$ is low, and $$\
 Issues
 * Integral is most time intractable
 * You can discretize the integral, but you still have to sum over all y. If $$y$$ is in a discrete space, $$F$$ is actually softmax.
+* If the space is large, even discretized, it is too large.
+* We can instead pick a single sample $$y'$$.
+* Back during WW2, during the Manhattan project, physicists invented the Monte-Carlo method, for a distribution that has only the energy, and not the distribution.
+* MC/MCMC/HMC/CD: Draw a sample $$\hat{y}$$ from $$F_w(y \vert x))$$, and replace the integral with that sample.
+* If you draw sufficiently many samples, get good approximation:
+
+$$
+\begin{align*}
+\frac{\partial}{\partial w}\mathcal{L}(x, y, w) &\approx \frac{\partial}{\partial w} F_w(x, y) - \frac{\partial}{\partial w}F_w(x, \hat{y})
+\end{align*}
+$$
+
 
 
