@@ -237,6 +237,7 @@ $$
 $$
 
 * _Square-square loss_: Chopra CVPR 2005, Hadsell CVPR 2006:
+  * Square ensures convexity, which helps convergence
 
 $$
 \begin{align*}
