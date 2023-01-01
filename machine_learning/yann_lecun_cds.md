@@ -148,7 +148,15 @@ Taking logs, this is same as to minimize:
 
 $$
 \begin{align*}
-\mathcal{L}(x, y, w) &= F_w(x, y) - \frac{1}{\beta} \log \int_{y'}e^{- \beta F_w(x, y')}dy'
+\mathcal{L}(x, y, w) &= F_w(x, y) + \frac{1}{\beta} \log \int_{y'}e^{- \beta F_w(x, y')}dy'
 \end{align*}
 $$
+
+Taking gradient w/ respect to $$w$$:
+
+$$
+\begin{align*}
+\end{align*}
+$$
+
 
