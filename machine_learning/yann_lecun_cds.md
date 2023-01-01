@@ -295,3 +295,7 @@ $$
   * Transfer learning for 10m, 1h or 100h of labeled speech
 * XLSR: multilingual speech recognition: Conneau arXiv:2006.13979
   * Raw audio → ConvNet → Transformer
+* GANs as contrastive energy models
+  * Need to figure out how to pick samples whose energy to push up
+  * In GANs, push samples that have low energy, but are not part of training
+  * Will train a NN to generate the bad samples
