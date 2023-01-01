@@ -245,6 +245,14 @@ $$
 \end{align*}
 $$
 
+* All possible outputs: _Hinge loss_
+$$
+\begin{align*}
+\mathcal{L}(x, y, \hat{y}, w) = \sum_{\hat{y} \in \mathcal{Y}}[F_w(x, y)]^+ + [m(y, \hat{y}) - F_w(x, \hat{y})]^+
+\end{align*}
+$$
+
+
 * Contrastive joint embeddings
 
 <p align="center">
