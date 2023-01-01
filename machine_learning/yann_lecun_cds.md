@@ -102,3 +102,4 @@ $$
   * Then, we need the energy of other $$(x[i], y')$$ to be as large as possible
   * Two methods:
     * Contrastive method: push down $$F(x[i], y[i])$$, push up other points $$F(x[i], y')$$
+    * Regularized/Architectural methods: build $$F(x, y)$$ so that volume of low energy regions is minimized through regularization
