@@ -208,6 +208,18 @@ $$
 Problems with this method:
 * Large space of $$y$$ requires many samples
 * This method wants to push the bad $$y$$s to infinite energy
-  * The loss must be regularized to keep the energy smooth
   * Tell this to a statistician, they will murder you on the spot! It says the probabilistic approach does not function.
   * Baesian statisticians have invented all sorts of things to prevent this from happening
+  * The loss must be regularized to keep the energy smooth
+  * But those are hacks, and you might as well use good hacks!
+
+Instead of insisting that the energy is a log probability - just ensure that the energy of good points is lower than that of bad points.
+* Example: Bromley 1993:
+
+$$
+\begin{align*}
+\mathcal{L}(x, y, \hat{y}, w} = [F_w(x, y)]^+ + [m(y, \hat{y}) - F_w(x, \hat{y})]^+
+\end{align*}
+$$
+* Pick non-matching $$\hat{y}$$ by some method
+* Push up $$F_w(x, \hat{y})$$ but not more than $$m(y, \hat{y})$$
