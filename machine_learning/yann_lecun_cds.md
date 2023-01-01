@@ -187,5 +187,8 @@ $$
 \end{align*}
 $$
 
+* If $$y$$ space is very large, you will need a lot of samples
+* Boltzmann machines, restricted Boltzmann machines - this is how they are trained
+
 
 
