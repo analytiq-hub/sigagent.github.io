@@ -214,7 +214,9 @@ Problems with this method:
   * But those are hacks, and you might as well use good hacks!
 
 Instead of insisting that the energy is a log probability - just ensure that the energy of good points is lower than that of bad points.
-* Example: Bromley 1993:
+
+Example cost functions:
+* Simple: Bromley 1993:
 
 $$
 \begin{align*}
