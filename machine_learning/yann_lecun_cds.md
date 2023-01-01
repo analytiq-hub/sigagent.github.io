@@ -299,3 +299,7 @@ $$
   * Need to figure out how to pick samples whose energy to push up
   * In GANs, push samples that have low energy, but are not part of training
   * Will train a NN to generate the bad samples
+
+<p align="center">
+<img src="/machine_learning/diagrams/gan.drawio.png" width="75%" height="75%"/>
+</p>
