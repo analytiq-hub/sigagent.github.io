@@ -270,3 +270,7 @@ $$
 
 
 * Denoising or mask autoencoder
+
+<p align="center">
+<img src="/machine_learning/diagrams/denoising_or_masked_autoencoder.drawio.png" width="75%" height="75%"/>
+</p>
