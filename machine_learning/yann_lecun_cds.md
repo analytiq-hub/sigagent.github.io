@@ -243,4 +243,10 @@ $$
 $$
 
 * Contrastive joint embeddings
+
+<p align="center">
+<img src="/machine_learning/diagrams/contrastive_models.drawio.png" width="50%" height="50%"/>
+</p>
+
+
 * Denoising or mask autoencoder
