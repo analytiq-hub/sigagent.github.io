@@ -209,3 +209,5 @@ Problems with this method:
 * Large space of $$y$$ requires many samples
 * This method wants to push the bad $$y$$s to infinite energy
   * The loss must be regularized to keep the energy smooth
+  * Tell this to a statistician, they will murder you on the spot! It says the probabilistic approach does not function.
+  * Baesian statisticians have invented all sorts of things to prevent this from happening
