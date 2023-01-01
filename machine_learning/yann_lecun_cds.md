@@ -205,5 +205,7 @@ $$
 * First $$\eta$$ term pushes down on the energy of samples
 * Second $$\eta$$ term pushes up on the energy of low-energy samples
 
-
-
+Problems with this method:
+* Large space of $$y$$ requires many samples
+* This method wants to push the bad $$y$$s to infinite energy
+  * The loss must be regularized to keep the energy smooth
