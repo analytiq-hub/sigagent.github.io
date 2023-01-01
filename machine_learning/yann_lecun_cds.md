@@ -290,5 +290,8 @@ $$
 * Used with a batch that contains $$y$$ and all $$\hat{y}_i$$
 * If a single $$\hat{y}_i$$ has low energy, and all other $$\hat{y}_j$$ have high energy, gradient of weights will be pushed hard around $$\hat{y}_i$$ but not other $$\hat{y}_j$$
 * SSL for speech recognition: Wav2Vec2.0: Baevski et al. NeurIPS 2020, Xu et al. ArXiv:2010.11430, Github: PyTorch/fairseq
+  * Raw audio → ConvNet → Transformer
   * Create foundational model trained on 960h speech with contrasting embedding of speech
   * Transfer learning for 10m, 1h or 100h of labeled speech
+* XLSR: multilingual speech recognition: Conneau arXiv:2006.13979
+  * Raw audio → ConvNet → Transformer
