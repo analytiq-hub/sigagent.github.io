@@ -311,3 +311,5 @@ $$
 * GANs did not work very well originally
 * Energy-Based GAN [Zhao 2016], Wasserstein GAN [Arjovsky 2017],... improved GANs by making energy function smooth. If you're not careful, energy surface becomes canyon. You have to regularize the critic, and that's essentially what Wasserstein GANs do.
 * Optimization is finding a Nash equilibrium (a saddle point). With gradient descent, hard to find - get mode collapse, when critic does not give any useful gradients (and generator keeps producing same output)
+* With original GANs, if you train long enough, you have collapse
+* Wasserstein GANs are a way to deal with this. Though even with Wasserstein GANs, if you train long enough, you get mode collapse.
