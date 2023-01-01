@@ -221,6 +221,15 @@ $$
 \mathcal{L}(x, y, \hat{y}, w} = [F_w(x, y)]^+ + [m(y, \hat{y}) - F_w(x, \hat{y})]^+
 \end{align*}
 $$
+
 * Pick non-matching $$\hat{y}$$ by some method
 * Push up $$F_w(x, \hat{y})$$ but not more than $$m(y, \hat{y})$$
 * $$[]^+$$ is ReLU function
+
+* Hinge pair loss: Altun 2003, Ranking loss: Weston 2010: I don't care if $$F_w(x, y)$$ is close to 0, I just want it less than $$F_w(x, \hat{y})$$
+
+$$
+\begin{align*}
+\mathcal{L}(x, y, \hat{y}, w} = [F_w(x, y) - F_w(x, \hat{y}) + [m(y, \hat{y}) ]^+
+\end{align*}
+$$
