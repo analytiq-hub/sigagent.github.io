@@ -307,3 +307,4 @@ $$
 * Pick $$y, \hat{y}$$. Backpropagate through $$Critic(y)$$ to increase $$C(\hat{y},y)$$.
 * Backpropagate $$\hat{y}$$ through both nets, but freeze $$Critic()$$ and change weights only in $$Gen(z)$$. This reduces energy of $$\hat{y}$$
 * $$Gen(z)$$ is trained to produce the negative samples
+* Drop the critic to generate images
