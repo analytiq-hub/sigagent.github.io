@@ -276,3 +276,19 @@ $$
 </p>
 
 #### [06L - Latent variable EBMs for structured prediction](https://www.youtube.com/watch?v=8u2s64ZtmiA) [slides](https://drive.google.com/file/d/1czfiEE6IPqE7q1fTm-SWOiC3VNEtpNrj/)
+
+* Recap of last lecture
+* Group losses: Neighborhood Component Analysis, Noise Contrastive Estimation
+(implicit infinite margin): Goldberger 2005, Gutmann 2010, ..., Misra 2019, Chen 2020
+
+$$
+\begin{align*}
+\mathcal{L}(x, y, \hat{y}_1, ... \hat{y}_{p^-}, w) = \frac{e^{-F_w(x, y)}}{e^{-F_w(x, y)}+\sum_{i=1, ..., p^-} e^{-F_w(x, y_i)}}
+\end{align*}
+$$
+
+* Used with a batch that contains $$y$$ and all $$\hat{y}_i$$
+* If a single $$\hat{y}_i$$ has low energy, and all other $$\hat{y}_j$$ have high energy, gradient of weights will be pushed hard around $$\hat{y}_i$$ but not other $$\hat{y}_j$$
+* SSL for speech recognition: Wav2Vec2.0: Baevski et al. NeurIPS 2020, Xu et al. ArXiv:2010.11430, Github: PyTorch/fairseq
+  * Create foundational model trained on 960h speech with contrasting embedding of speech
+  * Transfer learning for 10m, 1h or 100h of labeled speech
