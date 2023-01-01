@@ -241,3 +241,6 @@ $$
 \mathcal{L}(x, y, \hat{y}, w} = ([F_w(x, y)]^+)^2 + ([m(y, \hat{y}) - F_w(x, \hat{y})]^+)^2
 \end{align*}
 $$
+
+* Contrastive joint embeddings
+* Denoising or mask autoencoder
