@@ -156,6 +156,15 @@ Taking gradient w/ respect to $$w$$:
 
 $$
 \begin{align*}
+\frac{\partial}{\partial w}\mathcal{L}(x, y, w) &= \frac{\partial}{\partial w} F_w(x, y) + \frac{1}{\beta} \frac{\partial}{\partial w}  \log \int_{y'}e^{- \beta F_w(x, y')}dy'\\
+
+&= \frac{\partial}{\partial w} F_w(x, y) + \frac{1}{\beta} \frac{\frac{\partial}{\partial w} \int_{y'}e^{- \beta F_w(x, y')}dy'}{\int_{y'}e^{- \beta F_w(x, y')}dy'} \\
+
+&= \frac{\partial}{\partial w} F_w(x, y) + \frac{1}{\beta} \frac{ \int_{y'}\frac{\partial}{\partial w}e^{- \beta F_w(x, y')}dy'}{\int_{y'}e^{- \beta F_w(x, y')}dy'} \\
+
+&= \frac{\partial}{\partial w} F_w(x, y) - \frac{ \int_{y'}e^{- \beta F_w(x, y')}\frac{\partial}{\partial w}F_w(x, y')dy'}{\int_{y'}e^{- \beta F_w(x, y')}dy'} \\
+
+&= \frac{\partial}{\partial w} F_w(x, y) - \int_{y'} p(y' \vert x) \frac{\partial}{\partial w}F_w(x, y')dy' \\
 \end{align*}
 $$
 
