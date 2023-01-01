@@ -104,3 +104,34 @@ $$
   * Two methods:
     * Contrastive method: push down $$F(x[i], y[i])$$, push up other points $$F(x[i], y')$$
     * Regularized/Architectural methods: build $$F(x, y)$$ so that volume of low energy regions is minimized through regularization
+  * _Contrastive_
+    * C1: push down energy of data points, push up everything else
+      * Max likelihood
+    * C2: push down energy of data points, push up chosen locations
+      * Max likelihood with MC/MMC/HMC
+      * Contrastive divergence
+      * Metric learning/Siamese nets
+      * Ratio matching
+      * Noise contrastive estimation
+      * Min probability flow
+      * Adversarial generation/GAM
+    * C3: train a function that maps points off the data manifold to points on the data manifold:
+      * Denoising autoencoder
+      * Masked autoencoder (e.g. BERT)
+  * _Regularized/Architectural_
+    * A1: build the machine so the volume of low energy space is bounded:
+      * PCA
+      * K-means
+      * Gaussian mixture model
+      * Square ICA
+      * Normalizing flows
+    * A2: use a regularization term that measures the volume of space that has low energy:
+      * Sparse coding
+      * Sparse auto-encoder
+      * LISTA
+      * Variational auto-encoders
+      * Discretization/VQ/VQVAE
+    * A3: $$F(x, y)=C(y, G(x, y))$$, make $$G(x, y)$$ as "constant" as possible with respect to $$y$$
+      * Contracting auto-encoder
+      * Saturating auto-encoder
+    * A4: minimize the gradient and maximize the curvature around data points: score matching
