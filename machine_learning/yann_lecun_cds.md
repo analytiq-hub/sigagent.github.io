@@ -298,12 +298,12 @@ $$
 * GANs as contrastive energy models
   * Need to figure out how to pick samples whose energy to push up
   * In GANs, push samples that have low energy, but are not part of training
-  * Will train a NN to generate the bad samples
+  * Will train a NN $$Gen(z)$$ to generate the bad samples
 
 <p align="center">
 <img src="/machine_learning/diagrams/gan.drawio.png" width="75%" height="75%"/>
 </p>
 
-* Pick $$y, \hat{y}$$. Backpropagate through $$Model(y)$$ to increase $$C(\hat{y},y)$$.
-* Backpropagate $$\hat{y}$$ through both nets, but freeze $$Model()$$ and change weights only in $$Gen(z)$$. This reduces energy of $$\hat{y}$$
+* Pick $$y, \hat{y}$$. Backpropagate through $$Critic(y)$$ to increase $$C(\hat{y},y)$$.
+* Backpropagate $$\hat{y}$$ through both nets, but freeze $$Critic()$$ and change weights only in $$Gen(z)$$. This reduces energy of $$\hat{y}$$
 * $$Gen(z)$$ is trained to produce the negative samples
