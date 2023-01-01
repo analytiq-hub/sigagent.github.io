@@ -310,3 +310,4 @@ $$
 * Drop the critic to generate images
 * GANs did not work very well originally
 * Energy-Based GAN [Zhao 2016], Wasserstein GAN [Arjovsky 2017],... improved GANs by making energy function smooth. If you're not careful, energy surface becomes canyon. You have to regularize the critic, and that's essentially what Wasserstein GANs do.
+* Optimization is finding a Nash equilibrium (a saddle point). With gradient descent, hard to find - get mode collapse.
