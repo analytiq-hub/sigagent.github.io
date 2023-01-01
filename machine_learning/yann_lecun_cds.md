@@ -233,3 +233,11 @@ $$
 \mathcal{L}(x, y, \hat{y}, w} = [F_w(x, y) - F_w(x, \hat{y}) + [m(y, \hat{y}) ]^+
 \end{align*}
 $$
+
+* Square-square loss: Chopra CVPR 2005, Hadsell CVPR 2006:
+
+$$
+\begin{align*}
+\mathcal{L}(x, y, \hat{y}, w} = ([F_w(x, y)]^+)^2 + ([m(y, \hat{y}) - F_w(x, \hat{y})]^+)^2
+\end{align*}
+$$
