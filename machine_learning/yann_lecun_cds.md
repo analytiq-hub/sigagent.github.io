@@ -304,4 +304,5 @@ $$
 <img src="/machine_learning/diagrams/gan.drawio.png" width="75%" height="75%"/>
 </p>
 
+* Pick $$y, \hat{y}$$. Backpropagate through $$Model(y)$$ to increase $$C(\hat{y},y)$$.
 * Backpropagate $$\hat{y}$$ through both nets, but freeze $$Model()$$ and change weights only in $$Gen(z)$$. This reduces energy of $$\hat{y}$$
