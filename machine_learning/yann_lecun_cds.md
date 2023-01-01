@@ -262,7 +262,6 @@ $$
 \end{align*}
 $$
 
-
 * Contrastive joint embeddings
 
 <p align="center">
