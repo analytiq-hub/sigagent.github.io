@@ -190,6 +190,6 @@ $$
 * If $$y$$ space is very large, you will need a lot of samples
 * Boltzmann machines, restricted Boltzmann machines - this is how they are trained
 * MC, or MCMC methods for probabilistic graphical models - this is how they are trained
-
+* $$\beta$$ is to some extent arbitrary. You can pick value 1.
 
 
