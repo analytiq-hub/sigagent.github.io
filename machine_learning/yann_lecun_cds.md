@@ -216,7 +216,7 @@ Problems with this method:
 Instead of insisting that the energy is a log probability - just ensure that the energy of good points is lower than that of bad points.
 
 Example cost functions:
-* Simple: Bromley 1993:
+* _Simple_: Bromley 1993:
 
 $$
 \begin{align*}
@@ -228,7 +228,7 @@ $$
 * Push up $$F_w(x, \hat{y})$$ but not more than $$m(y, \hat{y})$$
 * $$[]^+$$ is ReLU function
 
-* Hinge pair loss: Altun 2003, Ranking loss: Weston 2010: I don't care if $$F_w(x, y)$$ is close to 0, I just want it less than $$F_w(x, \hat{y})$$
+* _Hinge pair loss_: Altun 2003, Ranking loss: Weston 2010: I don't care if $$F_w(x, y)$$ is close to 0, I just want it less than $$F_w(x, \hat{y})$$
 
 $$
 \begin{align*}
@@ -236,7 +236,7 @@ $$
 \end{align*}
 $$
 
-* Square-square loss: Chopra CVPR 2005, Hadsell CVPR 2006:
+* _Square-square loss_: Chopra CVPR 2005, Hadsell CVPR 2006:
 
 $$
 \begin{align*}
