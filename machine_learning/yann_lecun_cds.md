@@ -218,7 +218,7 @@ Instead of insisting that the energy is a log probability - just ensure that the
 
 $$
 \begin{align*}
-\mathcal{L}(x, y, \hat{y}, w} = [F_w(x, y)]^+ + [m(y, \hat{y}) - F_w(x, \hat{y})]^+
+\mathcal{L}(x, y, \hat{y}, w) = [F_w(x, y)]^+ + [m(y, \hat{y}) - F_w(x, \hat{y})]^+
 \end{align*}
 $$
 
@@ -230,7 +230,7 @@ $$
 
 $$
 \begin{align*}
-\mathcal{L}(x, y, \hat{y}, w} = [F_w(x, y) - F_w(x, \hat{y}) + [m(y, \hat{y}) ]^+
+\mathcal{L}(x, y, \hat{y}, w) = [F_w(x, y) - F_w(x, \hat{y}) + [m(y, \hat{y}) ]^+
 \end{align*}
 $$
 
@@ -238,7 +238,7 @@ $$
 
 $$
 \begin{align*}
-\mathcal{L}(x, y, \hat{y}, w} = ([F_w(x, y)]^+)^2 + ([m(y, \hat{y}) - F_w(x, \hat{y})]^+)^2
+\mathcal{L}(x, y, \hat{y}, w) = ([F_w(x, y)]^+)^2 + ([m(y, \hat{y}) - F_w(x, \hat{y})]^+)^2
 \end{align*}
 $$
 
