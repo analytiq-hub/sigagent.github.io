@@ -172,5 +172,6 @@ Under the integral, if $$y'$$ has high energy, $$p(y' \vert x)$$ is low, and $$\
 
 Issues
 * Integral is most time intractable
+* You can discretize the integral, but you still have to sum over all y. If $$y$$ is in a discrete space, $$F$$ is actually softmax.
 
 
