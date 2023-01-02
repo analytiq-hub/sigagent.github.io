@@ -360,4 +360,6 @@ Latent Variable Models in Practice
   * Energy: $$E(y,z) = \vert \vert y - Dec(z) \vert \vert ^2 = \vert \vert y - wz \vert \vert ^2$$
   * Free Energy: $$F(y) = \underset{z \in Z}{\min} E(y,z)$$
   * Loss: $$L(y,w)=F_w(y)$$
-  * Latent vector $$z$$ is constrained to be 1-hot vector $$[..., 0, 1, 0, ...]$$
+    * Latent vector $$z$$ is constrained to be 1-hot vector $$[..., 0, 1, 0, ...]$$
+    * $$wz$$ selects one colum of $$w$$
+    * Free energy minimized around colums of $$w$$
