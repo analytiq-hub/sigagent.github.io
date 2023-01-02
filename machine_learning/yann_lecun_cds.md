@@ -348,3 +348,6 @@ Latent Variable Models in Practice
 
 * Recap
 * Faces have 50 degrees of freedom - suggest dimension of latent space
+* Architectural models limit the dimension of the latent space
+* PCA is an autoencoder with projection encoder, linear decoder.
+  * If using linear encoder (instead of projection), get PCA latent representation but up to affine transform (rotation+translation) in the latent space
