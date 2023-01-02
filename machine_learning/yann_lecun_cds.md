@@ -370,3 +370,12 @@ Latent Variable Models in Practice
     * Compute loss $$L(y, w)$$ on set of samples $$y$$
     * Change $$w$$ in the direction of minimizing loss, either using gradient descent, or, in this case, direct computation.
   * You don't need contrastive learning, you don't need to push on anything, b/c volume of latent variable is constrained - in this case, actually discrete.
+  * Don't necessarily need a linear decoder for this to work.
+* Gaussian Mixture Model
+  * Similar to k-means with soft marginalization over latent
+  * Energy: $$E(y, z) = (y-wz)^T (Mz) (y-wz)$$
+    * $$(Mz)_{ij} = \sum_{k} M_{ijk}z_k$$
+  * Free Energy: $$F(y) = - \frac{1}{\beta} \log \sum_{z \in Z} e^{\beta E(y,z)}$$
+  * Loss: $$L(y,w) = F_w(y)$$ with normalization constraint on $$M$$
+    * Latent vector $$z$$ is constrained to be 1-hot vector $$[..., 0, 1, 0, ...]$$
+    * But marginalization makes it _soft_
