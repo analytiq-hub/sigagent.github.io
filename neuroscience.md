@@ -27,6 +27,7 @@ title: Neuroscience
   * EISM: [Karl Friston, Markov Blankets, and String Theory](https://www.youtube.com/watch?v=1wOLok4vq7Y) (2022)
   * DaCosta, Friston et al: [Reward Maximisation through Discrete Active Inference](https://arxiv.org/pdf/2009.08111.pdf) (2022)
   * Brain Ponderings with Mark Mattson: [Pondering How the Brain Processes Information with Karl Friston](https://www.youtube.com/watch?v=19B98MCsCB4) (2022)
+  * M. Bitbola and S. Gallagher: [The free energy principle and autopoiesis: Comment on “Answering Schrödinger’s question: A free-energy formulation”](http://michel.bitbol.pagesperso-orange.fr/gallBitbol17final.pdf), Physics of Life Reviews 2018
 * Larissa Albantakis: [Consciousness and Autonomy within the Causal Framework of Integrated Information Theory](https://www.youtube.com/watch?v=7xL8GjX_clA) (2018)
 
 #### Relation to Quantum  Physics
