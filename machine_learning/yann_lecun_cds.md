@@ -337,7 +337,7 @@ Non-Contrastive Methods for Joint Embedding
 Latent Variable Models in Practice
 * Use latent variable when you can have multiple outputs for same input - or if output has some structure
 * As you vary latent variable, prediction varies over all plausible outputs that correspond to input
-* DETR, Carion et al. ArXiv:2005.12872
+* DETR: [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872), Carion et al (2020)
   * ConvNet → Transformer
     * ConvNet invariant to translation
     * Transformer invariant to permutation (if input is permuted, so is output)
