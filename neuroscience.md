@@ -33,6 +33,9 @@ title: Neuroscience
   * Larissa Albantakis: [Consciousness and Autonomy within the Causal Framework of Integrated Information Theory](https://www.youtube.com/watch?v=7xL8GjX_clA) (2018)
   * Peggy Seriès: [Bayesian Theories of Perception and Cognition](https://www.youtube.com/watch?v=aWEBVY4PFZE) (2018)
   * Carlo Rovelli: [Understanding consciousness within the known laws of physics](https://www.youtube.com/watch?v=WY5As3nGvyk) (2018)
+* MCS Lectures
+  * Nihat Ay: [Integrated Information, Embodied Intelligence, and (Philosophical) Zombies](https://www.youtube.com/watch?v=F3ixlcg6qtc) (2021)
+  * S. Wolfram: [How Features of Our Consciousness Seem to Define Our Laws of Physics and Maths](https://www.youtube.com/watch?v=Lg-xvgPtysY) (2022)
 
 #### Relation to Quantum  Physics
 * Kelvin McQueen: [Consciousness and the Collapse of the Wave Function](https://www.youtube.com/watch?v=QbRi7w4aQ4k) (2020)
