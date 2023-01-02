@@ -319,7 +319,13 @@ Non-Contrastive Methods for Joint Embedding
 * Eliminates hard negative mining
 * Siamese nets with slightly different weights
   * [Bootstrap Your Own Latent](https://arxiv.org/pdf/2006.07733.pdf) (BYOL), J-B Grill et al (2020)
+    * Use siamese networks
+    * But right network uses average of past weights of left network
+    * Idea is from MOCO - momentum embedded in these weights
+      * But MOCO largely outdated in last year or two
+  * SimSiam: [Exploring Simple Siamese Representations)(https://arxiv.org/pdf/2011.10566.pdf), Chen et al, 2020
 
 <p align="center">
 <img src="/machine_learning/diagrams/byol.drawio.png" width="75%" height="75%"/>
 </p>
+
