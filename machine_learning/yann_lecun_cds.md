@@ -334,3 +334,6 @@ Non-Contrastive Methods for Joint Embedding
 * Barlow Twins, Zbontar et al. ArXiv:2103.03230
 * Use SwAV as foundational model for SEER, Goyal et al. ArXiv:2103.01988
 
+Latent Variable Models in Practice
+
+
