@@ -324,7 +324,9 @@ Non-Contrastive Methods for Joint Embedding
     * Idea is from MOCO - momentum embedded in these weights
       * But MOCO largely outdated in last year or two
   * SwAV, Caron arXiv:2006.09882
+  * DeepCluster, Caron arXiv:1807.05520
   * SimSiam: [Exploring Simple Siamese Representations)(https://arxiv.org/pdf/2011.10566.pdf), Chen et al, 2020
+  * Barlow Twins, Zbontar et al. ArXiv:2103.03230
 
 <p align="center">
 <img src="/machine_learning/diagrams/byol.drawio.png" width="75%" height="75%"/>
