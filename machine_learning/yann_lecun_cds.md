@@ -319,3 +319,7 @@ Non-Contrastive Methods for Joint Embedding
 * Eliminates hard negative mining
 * Siamese nets with slightly different weights
   * [Bootstrap Your Own Latent](https://arxiv.org/pdf/2006.07733.pdf) (BYOL), J-B Grill et al (2020)
+
+<p align="center">
+<img src="/machine_learning/diagrams/byol.drawio.png" width="75%" height="75%"/>
+</p>
