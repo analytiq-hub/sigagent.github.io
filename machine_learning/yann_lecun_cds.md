@@ -377,8 +377,11 @@ Latent Variable Models in Practice
     * Gaussian mixture allows balls to take any shape within quadratic form - allow them to be elongated in some directions but not others
     * Gaussian mixture can be "elongated along the data". Thus, it can model the data with fewer samples.
   * Energy: $$E(y, z) = (y-wz)^T (Mz) (y-wz)$$
-    * $$(Mz)_{ij} = \sum_{k} M_{ijk}z_k$$
+    * $$(Mz)_{ij} = \sum_{k} M_{kij}z_k$$
   * Free Energy: $$F(y) = - \frac{1}{\beta} \log \sum_{z \in Z} e^{\beta E(y,z)}$$
   * Loss: $$L(y,w) = F_w(y)$$ with normalization constraint on $$M$$
     * Latent vector $$z$$ is constrained to be 1-hot vector $$[..., 0, 1, 0, ...]$$
     * But marginalization makes it _soft_
+    * $$wz$$ selects column of $$w$$
+    * Columns of $$w$$ are centers of Gaussians
+    * Then, compute a distance, but distance is warped by a certain tensor $$M$$, symmetric positive semi-definite, which is actually the universe covariance matrix of the Gaussians
