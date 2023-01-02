@@ -400,4 +400,11 @@ Latent Variable Models in Practice
 
 * Regularized Energy Based Models
   * Instead of constraining the volume of the latent variable, have a regularization term that will constrain it
-  * Enery: $$E(x, y, z) = C(y, Dec(Pred(x),z)) + \lambda R(z)$$
+  * Energy: $$E(x, y, z) = C(y, Dec(Pred(x),z)) + \lambda R(z)$$
+  * Examples of $$R(z)$$:
+    * Effective dimension
+    * Quantization / discretization
+    * L0 norm (# of non-0 components)
+    * L1 norm with decoder normalization
+    * Maximize lateral inhibition / competition
+    * Add noise to z while limiting its L2 norm (VAE)
