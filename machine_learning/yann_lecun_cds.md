@@ -323,6 +323,7 @@ Non-Contrastive Methods for Joint Embedding
     * But right network uses average of past weights of left network
     * Idea is from MOCO - momentum embedded in these weights
       * But MOCO largely outdated in last year or two
+  * SwAV, Caron arXiv:2006.09882
   * SimSiam: [Exploring Simple Siamese Representations)(https://arxiv.org/pdf/2011.10566.pdf), Chen et al, 2020
 
 <p align="center">
