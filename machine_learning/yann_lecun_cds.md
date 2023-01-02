@@ -335,5 +335,12 @@ Non-Contrastive Methods for Joint Embedding
 * Use SwAV as foundational model for SEER, Goyal et al. ArXiv:2103.01988
 
 Latent Variable Models in Practice
-
+* Use latent variable when you can have multiple outputs for same input - or if output has some structure
+* As you vary latent variable, prediction varies over all plausible outputs that correspond to input
+* DETR, Carion et al. ArXiv:2005.12872
+  * ConvNet → Transformer
+    * ConvNet invariant to translation
+    * Transformer invariant to permutation (if input is permuted, so is output)
+    * Can do semantic segmentation with it
+  
 
