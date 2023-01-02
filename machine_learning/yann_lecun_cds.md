@@ -404,7 +404,7 @@ Latent Variable Models in Practice
   * Examples of $$R(z)$$:
     * Effective dimension
     * Quantization / discretization. Bayesians do this with Dirichlet allocation. Called LDA - Latent Dirichlet Analysis. Dirichlet can be pronounced in French, but he was German actually.
-    * L0 norm (# of non-zero components of a vector). Find $$z$$ that I could use, such that $$z$$ has minimum non-zero components. Will pay a price for each non-zero component. Problem: not a differential criterion. Hard to optimize. There are approximate methods, one is projection pursuit.
+    * L0 norm (# of non-zero components of a vector). Find $$z$$ that I could use, such that $$z$$ has minimum non-zero components. Will pay a price for each non-zero component. Problem: not a differential criterion. Hard to optimize. There are approximate methods, one is projection pursuit: find a component where you can project, to minimize cost. Then, find a 2nd component you can project, to still minimize cost, and so on.
     * L1 norm with decoder normalization
     * Maximize lateral inhibition / competition
     * Add noise to z while limiting its L2 norm (VAE)
