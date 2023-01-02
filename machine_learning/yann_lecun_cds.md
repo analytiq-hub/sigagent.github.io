@@ -356,7 +356,7 @@ Latent Variable Models in Practice
 * Auto-encoder
   * Energy: $$F_w(y) = \vert \vert y - Dec(Enc(y)) \vert \vert ^2$$
   * Loss: $$L(y,w)=F_w(y)$$
-* k-means
+* k-Means
   * Energy: $$E(y,z) = \vert \vert y - Dec(z) \vert \vert ^2 = \vert \vert y - wz \vert \vert ^2$$
   * Free Energy: $$F(y) = \underset{z \in Z}{\min} E(y,z)$$
   * Loss: $$L(y,w)=F_w(y)$$
