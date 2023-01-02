@@ -10,7 +10,7 @@ title: Neuroscience
 * Giulio Tononi: [Phi: A Voyage from the Brain to the Soul](https://www.amazon.com/Phi-Voyage-Brain-Giulio-Tononi/dp/030790721X/) (2012)
   * [pyphi](https://pyphi.readthedocs.io/en/latest/) python module
   * [Integrated information theory: From consciousness to its physical substrate](https://www.nature.com/articles/nrn.2016.44) (2016)
-* A. Safron: [An Integrated World Modeling Theory (IWMT) of Consciousness](https://www.frontiersin.org/articles/10.3389/frai.2020.00030/full), Frontiers. Lots of good references, but narrative needs double checking.
+* A. Safron: [An Integrated World Modeling Theory (IWMT) of Consciousness](https://www.frontiersin.org/articles/10.3389/frai.2020.00030/full), Frontiers. Lots of good references, but explanations lack rigor.
 * J.E. Cooke: [What Is Consciousness? Integrated Information vs. Inference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8391140/) (2021)
 
 * G.M.Edelman, G. Tononi: [A Universe Of Consciousness: How Matter Becomes Imagination](https://www.amazon.com/Universe-Consciousness-Matter-Becomes-Imagination/dp/0465013775)
