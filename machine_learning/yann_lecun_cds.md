@@ -353,4 +353,7 @@ Latent Variable Models in Practice
   * Energy: $$F_w(y) = \vert \vert y - Dec(Enc(y)) \vert \vert ^2 = \vert \vert y - w^Ty \vert \vert ^2$$
   * Loss: $$L(y,w)=F_w(y)$$
   * If using linear encoder (instead of projection), get PCA latent representation but up to affine transform (rotation+translation) in the latent space
+* Auto-encoder
+  * Energy: $$F_w(y) = \vert \vert y - Dec(Enc(y)) \vert \vert ^2$$
+  * Loss: $$L(y,w)=F_w(y)$$
 * k-means
