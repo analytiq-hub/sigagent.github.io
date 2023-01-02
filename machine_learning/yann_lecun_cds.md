@@ -378,7 +378,7 @@ Latent Variable Models in Practice
     * Gaussian mixture can be "elongated along the data". Thus, it can model the data with fewer samples.
   * Energy: $$E(y, z) = (y-wz)^T (Mz) (y-wz)$$
     * $$(Mz)_{ij} = \sum_{k} M_{kij}z_k$$
-  * Free Energy: $$F(y) = - \frac{1}{-\beta} \log \sum_{z \in Z} e^{\beta E(y,z)}$$ (but LeCun says he's missing a term - the mixture coefficients)
+  * Free Energy: $$F(y) = - \frac{1}{-\beta} \log \sum_{z \in Z} e^{\beta E(y,z)}$$ (but LeCun says he's missing a term - the mixture coefficients, that compute a weighted sum of the energies)
   * Loss: $$L(y,w) = F_w(y)$$ with normalization constraint on $$M$$
     * Latent vector $$z$$ is constrained to be 1-hot vector $$[..., 0, 1, 0, ...]$$
     * But marginalization makes it _soft_
