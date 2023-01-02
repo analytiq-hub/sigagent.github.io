@@ -373,6 +373,8 @@ Latent Variable Models in Practice
   * Don't necessarily need a linear decoder for this to work.
 * Gaussian Mixture Model
   * Similar to k-means with soft marginalization over latent
+    * k-means use quadratic balls
+    * Gaussian mixture allows balls to take any shape within quadratic form - allow them to be elongated in some directions but not others
   * Energy: $$E(y, z) = (y-wz)^T (Mz) (y-wz)$$
     * $$(Mz)_{ij} = \sum_{k} M_{ijk}z_k$$
   * Free Energy: $$F(y) = - \frac{1}{\beta} \log \sum_{z \in Z} e^{\beta E(y,z)}$$
