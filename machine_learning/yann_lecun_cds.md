@@ -400,3 +400,4 @@ Latent Variable Models in Practice
 
 * Regularized Energy Based Models
   * Instead of constraining the volume of the latent variable, have a regularization term that will constrain it
+  * Enery: $$E(x, y, z) = C(y, Dec(Pred(x),z)) + \lambda R(z)$$
