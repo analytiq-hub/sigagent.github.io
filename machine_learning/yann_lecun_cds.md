@@ -332,4 +332,5 @@ Non-Contrastive Methods for Joint Embedding
 * DeepCluster, Caron arXiv:1807.05520
 * SimSiam: [Exploring Simple Siamese Representations)(https://arxiv.org/pdf/2011.10566.pdf), Chen et al, 2020
 * Barlow Twins, Zbontar et al. ArXiv:2103.03230
+* Use SwAV as foundational model for SEER, Goyal et al. ArXiv:2103.01988
 
