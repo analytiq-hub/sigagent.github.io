@@ -387,3 +387,4 @@ Latent Variable Models in Practice
     * Then, compute a distance, but distance is warped by a certain tensor $$M$$, symmetric positive semi-definite, which is actually the universe covariance matrix of the Gaussians
     * $$z$$ being one-hot vector, it selects slice of matrix $$M$$.
       * Think of $$M$$ as several slices of covariance matrices. $$z$$ selects one of them.
+    * $$z$$ selects the mean, then selects the covariance matrix
