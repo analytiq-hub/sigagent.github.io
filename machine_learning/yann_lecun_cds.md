@@ -397,3 +397,6 @@ Latent Variable Models in Practice
     * Will not explain EM.
   * It's an architectural model because you constrain the $$M$$ matrix
   * You have to guarantee that the covariance matrix has constant determinant.
+
+* Regularized Energy Based Models
+  * Instead of constraining the volume of the latent variable, have a regularization term that will constrain it
