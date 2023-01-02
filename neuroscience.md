@@ -29,7 +29,10 @@ title: Neuroscience
   * Brain Ponderings with Mark Mattson: [Pondering How the Brain Processes Information with Karl Friston](https://www.youtube.com/watch?v=19B98MCsCB4) (2022)
   * M. Bitbola and S. Gallagher: [The free energy principle and autopoiesis: Comment on “Answering Schrödinger’s question: A free-energy formulation”](http://michel.bitbol.pagesperso-orange.fr/gallBitbol17final.pdf), Physics of Life Reviews 2018
   * Same circle of ideas: H. Haken, J. Portugali: [Information and Self-Organization II: Steady State and Phase Transition](https://www.mdpi.com/1099-4300/23/6/707/htm) (2021)
-* Larissa Albantakis: [Consciousness and Autonomy within the Causal Framework of Integrated Information Theory](https://www.youtube.com/watch?v=7xL8GjX_clA) (2018)
+* Simons Institute:
+  * Larissa Albantakis: [Consciousness and Autonomy within the Causal Framework of Integrated Information Theory](https://www.youtube.com/watch?v=7xL8GjX_clA) (2018)
+  * Peggy Seriès: [Bayesian Theories of Perception and Cognition](https://www.youtube.com/watch?v=aWEBVY4PFZE) (2018)
+  * Carlo Rovelli: [Understanding consciousness within the known laws of physics](https://www.youtube.com/watch?v=WY5As3nGvyk) (2018)
 
 #### Relation to Quantum  Physics
 * Kelvin McQueen: [Consciousness and the Collapse of the Wave Function](https://www.youtube.com/watch?v=QbRi7w4aQ4k) (2020)
