@@ -378,7 +378,7 @@ Latent Variable Models in Practice
     * Gaussian mixture can be "elongated along the data". Thus, it can model the data with fewer samples.
   * Energy: $$E(y, z) = (y-wz)^T (Mz) (y-wz)$$
     * $$(Mz)_{ij} = \sum_{k} M_{kij}z_k$$
-  * Free Energy: $$F(y) = - \frac{1}{-\beta} \log \sum_{z \in Z} e^{\beta E(y,z)}$$
+  * Free Energy: $$F(y) = - \frac{1}{-\beta} \log \sum_{z \in Z} e^{\beta E(y,z)}$$ (but LeCun says he's missing a term)
   * Loss: $$L(y,w) = F_w(y)$$ with normalization constraint on $$M$$
     * Latent vector $$z$$ is constrained to be 1-hot vector $$[..., 0, 1, 0, ...]$$
     * But marginalization makes it _soft_
@@ -390,3 +390,10 @@ Latent Variable Models in Practice
     * $$z$$ selects the mean, then selects the covariance matrix
     * Overall energy of Mixture is marginalization over $$z$$.
     * We're not minimizing anymore, we're marginalizing.
+    * You can set $$\beta$$ to 1, it does not matter. Make a choice.
+  * How do you train it?
+    * Use EM (Expectation Maximization)
+    * You could use gradient descent, does not work very well. Gets you stuck to a local minimum.
+    * Will not explain EM.
+  * It's an architectural model because you constrain the $$M$$ matrix
+  * You have to guarantee that the covariance matrix has constant determinant.
