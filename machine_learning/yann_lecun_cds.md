@@ -314,3 +314,8 @@ $$
 * With original GANs, if you train long enough, you have collapse
 * Wasserstein GANs are a way to deal with this. Though even with Wasserstein GANs, if you train long enough, you get mode collapse.
 * Attempts to use critic as base for transfer learing have failed. Only generator can be used to generate data.
+
+Non-Contrastive Methods for Joint Embedding
+* Eliminates hard negative mining
+* Siamese nets with slightly different weights
+  * [Bootstrap Your Own Latent](https://arxiv.org/pdf/2006.07733.pdf) (BYOL), J-B Grill et al (2020)
