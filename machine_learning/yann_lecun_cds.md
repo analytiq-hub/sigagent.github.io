@@ -351,3 +351,4 @@ Latent Variable Models in Practice
 * Architectural models limit the dimension of the latent space
 * PCA is an autoencoder with projection encoder, linear decoder.
   * If using linear encoder (instead of projection), get PCA latent representation but up to affine transform (rotation+translation) in the latent space
+* k-means
