@@ -369,3 +369,4 @@ Latent Variable Models in Practice
     * Pick $$w$$
     * Compute loss $$L(y, w)$$ on set of samples $$y$$
     * Change $$w$$ in the direction of minimizing loss, either using gradient descent, or, in this case, direct computation.
+  * You don't need contrastive learning, you don't need to push on anything, b/c volume of latent variable is constrained - in this case, actually discrete.
