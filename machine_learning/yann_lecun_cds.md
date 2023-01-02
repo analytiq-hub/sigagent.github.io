@@ -403,7 +403,7 @@ Latent Variable Models in Practice
   * Energy: $$E(x, y, z) = C(y, Dec(Pred(x),z)) + \lambda R(z)$$
   * Examples of $$R(z)$$:
     * Effective dimension
-    * Quantization / discretization
+    * Quantization / discretization. Bayesians do this with Dirichlet allocation. Called LDA - Latent Dirichlet Analysis. Dirichlet can be pronounced in French, but he was German actually.
     * L0 norm (# of non-0 components)
     * L1 norm with decoder normalization
     * Maximize lateral inhibition / competition
