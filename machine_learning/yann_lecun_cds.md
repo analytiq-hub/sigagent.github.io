@@ -364,3 +364,8 @@ Latent Variable Models in Practice
     * Latent vector $$z$$ is constrained to be 1-hot vector $$[..., 0, 1, 0, ...]$$
     * $$wz$$ selects one colum of $$w$$
     * Free energy minimized around colums of $$w$$
+  * Algorithm:
+    * We're given set of samples $$y$$
+    * Pick $$w$$
+    * Compute loss $$L(y, w)$$ on set of samples $$y$$
+    * Change $$w$$ in the direction of minimizing loss, either using gradient descent, or, in this case, direct computation.
