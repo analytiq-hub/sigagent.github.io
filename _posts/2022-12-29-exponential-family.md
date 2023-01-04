@@ -111,6 +111,7 @@ $$
 \begin{align*}
 \eta &= [\alpha-1, \beta] \\
 T(y) &= [\ln y, 0] \\
+\end{align*}
 $$
 
 and we define the log partition function $$a(\eta)$$ such that the distribution integrates over $$x$$ to 1.
