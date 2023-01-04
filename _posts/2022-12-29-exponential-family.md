@@ -31,7 +31,7 @@ The Bernoulli distribution with mean $$\phi$$ is
 $$
 \begin{align*}
 Bernoulli(y; \phi) &= \phi^y \cdot (1-\phi)^{1-y} \\
-                        &= e^{y \ln \phi + (1-y) ln (1-\phi)} \\
+                        &= e^{y \ln \phi + (1-y) \ln (1-\phi)} \\
                         &= e^{(\ln \frac{\phi}{1-\phi}) y + \ln(1-\phi)}
 \end{align*}
 $$
