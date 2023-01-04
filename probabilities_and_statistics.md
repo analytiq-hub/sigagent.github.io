@@ -40,6 +40,7 @@ title: Probabilities and Statistics
 #### Presentations
 * Ben Lambert: [A Student's Guide to Bayesian Statistics](https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG)
   * [An introduction to the concept of a sufficient statistic](https://www.youtube.com/watch?v=5j4E2FRR384)
+* ritvikmath :[Bayesian Statistics](https://www.youtube.com/watch?v=-1dYY43DRMA&list=PLvcbYUQ5t0UEkf2NUEo7XSsyVTyeEk3Gq)
 
 #### Other
 * [Market Trading](market_trading.md)
