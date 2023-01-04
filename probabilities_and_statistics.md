@@ -36,6 +36,10 @@ title: Probabilities and Statistics
 #### Axiomatic statistics
 * [A synthetic approach to Markov kernels, conditional independence and theorems on sufficient statistics](https://arxiv.org/abs/1908.07021), Tobias Fritz (Aug 2019)
 
+#### Presentations
+* Ben Lambert: [A Student's Guide to Bayesian Statistics](https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG)
+  * [An introduction to the concept of a sufficient statistic](https://www.youtube.com/watch?v=5j4E2FRR384)
+
 #### Other
 * [Market Trading](market_trading.md)
 * [Robotics](robotics.md)
