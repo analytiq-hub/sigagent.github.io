@@ -44,6 +44,7 @@ title: Probabilities and Statistics
   * [Markov Chain Monte Carlo (MCMC)](https://www.youtube.com/watch?v=yApmR-c_hKU&list=PLvcbYUQ5t0UEkf2NUEo7XSsyVTyeEk3Gq&index=3)
   * [Metropolis - Hastings](https://www.youtube.com/watch?v=yCv2N7wGDCw&list=PLvcbYUQ5t0UEkf2NUEo7XSsyVTyeEk3Gq&index=4)
   * [Gibbs Sampling](https://www.youtube.com/watch?v=7LB1VHp4tLE&list=PLvcbYUQ5t0UEkf2NUEo7XSsyVTyeEk3Gq&index=7)
+  * [Thompson Sampling](https://www.youtube.com/watch?v=Zgwfw3bzSmQ&list=PLvcbYUQ5t0UEkf2NUEo7XSsyVTyeEk3Gq&index=11)
 
 #### Other
 * [Market Trading](market_trading.md)
