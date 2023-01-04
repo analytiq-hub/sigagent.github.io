@@ -120,9 +120,10 @@ and we define the log partition function $$a(\eta)$$ such that the distribution 
 ## The Beta distribution
 
 Defined as
+
 $$
 \begin{align*}
-Beta(y ; \alpha, beta) = \frac{y^{\alpha - 1} (1-y)^{\beta - 1}}{B(\alpha, \beta}
+Beta(y ; \alpha, beta) = \frac{y^{\alpha - 1} (1-y)^{\beta - 1}}{B(\alpha, \beta)}
 \end{align*}
 $$
 
