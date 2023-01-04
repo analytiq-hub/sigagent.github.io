@@ -101,7 +101,7 @@ We rewrite
 $$
 \begin{align*}
 Gamma(y; \alpha, \beta) &= \frac{y^{\alpha-1} e^{-\beta y} \beta^\alpha}{\Gamma(\alpha)} \\
-                        &= e^{-\ln \Gamma(\alpha) + (\alpha -1)\ln y + \alpha ln \beta}
+                        &= e^{-\ln \Gamma(\alpha) + (\alpha -1)\ln y + \alpha \ln \beta}
 \end{align*}
 $$
 
