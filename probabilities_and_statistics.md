@@ -17,7 +17,7 @@ title: Probabilities and Statistics
 #### Bayesian Statistics
 * Ch. Robert: [The Bayesian Choice](https://www.amazon.com/Bayesian-Choice-Decision-Theoretic-Computational-Implementation/dp/0387715983) (2007)
 * A. Gelman et al: [Bayesian Data Analysis](https://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954), 2nd ed (2004)
-* Ben Lambert: [A Student’s Guide to Bayesian Statistics](https://www.amazon.co.uk/gp/product/1473916364) (2018)
+* Ben Lambert: [A Student’s Guide to Bayesian Statistics](https://www.amazon.co.uk/gp/product/1473916364) (2018), [videos](https://study.sagepub.com/lambert)
 
 
 #### Variational Bayes

@@ -26,7 +26,10 @@ title: Machine Learning
 
 #### Books - ML from the Probabilistic Perspective
 * [Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738), C. Bishop, [pdf](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-* [Machine Learning: A Probabilistic Perspective](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020), Kevin Murphy (2012)
+* Kevin P. Murphy
+  * [Machine Learning: A Probabilistic Perspective](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020), Kevin Murphy (2012)
+  * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) (2022)
+  * [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) (2023)
 * [Statistical Learning Theory](https://www.amazon.com/STATISTICAL-LEARNING-THEORY-Vladimir-Vapnik/dp/8126528923), Vladimir Vapnik (1998)
 * [The Nature of Statistical Learning Theory](https://www.amazon.com/Nature-Statistical-Learning-Theory/dp/0387945598), V. Vapnik(1998)
 * [Bayesian Networks and Decision Graphs](https://www.amazon.com/gp/product/0387682813), T.D. Nielsen, F.V. Jensen (2007)
