@@ -142,3 +142,14 @@ $$
 Beta(y ; \alpha, \beta) &= e^{(\alpha - 1) \ln y + (\beta - 1) \ln (1-y) - \ln B(\alpha, \beta)} \\
 \end{align*}
 $$
+
+and we can define
+
+$$
+\begin{align*}
+\eta &= [\alpha -1, \beta -1] \\
+T(y) &= [ \ln y, \ln (1-y)] \\
+A(\eta) &= \ln B(\alpha, \beta)
+\end{align*}
+$$
+
