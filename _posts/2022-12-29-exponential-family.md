@@ -116,3 +116,20 @@ $$
 
 and we define the log partition function $$a(\eta)$$ such that the distribution integrates over $$x$$ to 1.
 
+
+## The Beta distribution
+
+Defined as
+$$
+\begin{align*}
+Beta(y ; \alpha, beta) = \frac{y^{\alpha - 1} (1-y)^{\beta - 1}}{B(\alpha, \beta}
+\end{align*}
+$$
+
+for $$\alpha, \beta \gt 0$$, where
+
+$$
+\begin{align*}
+B(\alpha, \beta) = \frac{\Gamma(\alpha) \Gamma(\beta}{\Gamma(\alpha + \beta)}
+\end{align*}
+$$
