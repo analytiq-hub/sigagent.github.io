@@ -134,3 +134,11 @@ $$
 B(\alpha, \beta) = \frac{\Gamma(\alpha) \Gamma(\beta)}{\Gamma(\alpha + \beta)}
 \end{align*}
 $$
+
+We rewrite
+
+$$
+\begin{align*}
+Beta(y ; \alpha, \beta) &= e^{(\alpha - 1) \ln y + (\beta - 1) \ln (1-y) - \ln B(\alpha, \beta)} \\
+\end{align*}
+$$
