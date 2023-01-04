@@ -131,6 +131,6 @@ for $$\alpha, \beta \gt 0$$, where
 
 $$
 \begin{align*}
-B(\alpha, \beta) = \frac{\Gamma(\alpha) \Gamma(\beta}{\Gamma(\alpha + \beta)}
+B(\alpha, \beta) = \frac{\Gamma(\alpha) \Gamma(\beta)}{\Gamma(\alpha + \beta)}
 \end{align*}
 $$
