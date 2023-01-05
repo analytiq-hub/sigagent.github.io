@@ -344,7 +344,7 @@ Latent Variable Models in Practice
     * Can do semantic segmentation with it
   
 
-#### [07L - PCA, AE, K-means, Gaussian mixture model, sparse coding, and intuitive VAE)](https://www.youtube.com/watch?v=AOFUZZZ6KyU), [slides](https://drive.google.com/file/d/19crFMCpJ5YCGbWv6myv7O4pGaJT6-u5p/edit)
+#### [07L - PCA, AE, K-means, Gaussian mixture model, sparse coding, and intuitive VAE](https://www.youtube.com/watch?v=AOFUZZZ6KyU), [slides](https://drive.google.com/file/d/19crFMCpJ5YCGbWv6myv7O4pGaJT6-u5p/edit)
 
 * Recap
 * Faces have 50 degrees of freedom - suggest dimension of latent space
