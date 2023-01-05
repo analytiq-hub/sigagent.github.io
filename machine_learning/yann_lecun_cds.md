@@ -409,3 +409,5 @@ Latent Variable Models in Practice
     * Maximize lateral inhibition / competition.
     * Add noise to z while limiting its L2 norm (VAE)
       * I forbid $$z$$ to go outside a given sphere, but I add noise to $$z$$ to make it a fuzzy value. LeCun applauds while speaking, to make the point that you have to focus on content while he adds noise.
+* References
+  * K. Evtimova, Y. LeCun: [Sparse Coding with Multi-layer Decoders using Variance Regularization](https://arxiv.org/pdf/2112.09214.pdf) (2022)
