@@ -272,6 +272,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
  * A. Franz et al: [A theory of incremental compression](https://arxiv.org/pdf/1908.03781.pdf) (2020)
 * Y. LeCun: [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf), draft (2022)
 * Silver, Singh, Sutton: [Reward is enough](https://www.deepmind.com/publications/reward-is-enough) (2021)
+* D. Ha, J. Schmidthuber: [World Models](https://arxiv.org/pdf/1803.10122.pdf) (2018)
 
 #### Causality
 * [Causality for Machine Learning](https://arxiv.org/pdf/1911.10500.pdf), Bernhard Schölkopf (2019)
