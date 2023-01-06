@@ -412,3 +412,8 @@ Latent Variable Models in Practice
       * I forbid $$z$$ to go outside a given sphere, but I add noise to $$z$$ to make it a fuzzy value. LeCun applauds while speaking, to make the point that you have to focus on content while he adds noise.
 * References
   * K. Evtimova, Y. LeCun: [Sparse Coding with Multi-layer Decoders using Variance Regularization](https://arxiv.org/pdf/2112.09214.pdf) (2022)
+
+
+#### [08L – Self-supervised learning and variational inference ](https://www.youtube.com/watch?v=bdebHVF__mo), [slides](https://drive.google.com/file/d/1w6QO0a2_0Prz1U1mxa1n-YP9U8GW1_kq/edit)
+
+* Review of GANs as constrastive energy-based models (EBMs)
