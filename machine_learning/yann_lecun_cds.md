@@ -33,7 +33,7 @@ Notes on [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
       * Choice of scoring function
       * Choice of objective function for learning
 
-From energy to probability: Gibbs-Boltzmann distribution
+* From energy to probability: Gibbs-Boltzmann distribution
 
 $$
 \begin{align*}
