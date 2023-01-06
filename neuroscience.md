@@ -36,6 +36,9 @@ title: Neuroscience
 * MCS Lectures
   * Nihat Ay: [Integrated Information, Embodied Intelligence, and (Philosophical) Zombies](https://www.youtube.com/watch?v=F3ixlcg6qtc) (2021)
   * S. Wolfram: [How Features of Our Consciousness Seem to Define Our Laws of Physics and Maths](https://www.youtube.com/watch?v=Lg-xvgPtysY) (2022)
+* Judea Pearl
+  * [Causal Inference (CI) − A year in review](http://causality.cs.ucla.edu/blog/index.php/2023/01/04/causal-inference-ci-a-year-in-review/) (2023)
+  * [Causal Inference: History, Perspectives, Adventures, and Unification](https://ftp.cs.ucla.edu/pub/stat_ser/r523.pdf), interview
 
 #### Relation to Quantum  Physics
 * Kelvin McQueen: [Consciousness and the Collapse of the Wave Function](https://www.youtube.com/watch?v=QbRi7w4aQ4k) (2020)
