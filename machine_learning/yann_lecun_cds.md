@@ -297,6 +297,9 @@ $$
 * XLSR: multilingual speech recognition: Conneau arXiv:2006.13979
   * Raw audio → ConvNet → Transformer
 * GANs as contrastive energy models
+  * References
+    * J. Zhao, M. Mathieu, Y. LeCun: [Energy-Based GANs](https://arxiv.org/pdf/1609.03126.pdf) (2017)
+    * M. Arjovsky et al: [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf) (2017)
   * Need to figure out how to pick samples whose energy to push up
   * In GANs, push samples that have low energy, but are not part of training
   * Will train a NN $$Gen(z)$$ to generate the bad samples
