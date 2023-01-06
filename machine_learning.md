@@ -302,6 +302,10 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 #### Transformers and Lidars
 * [Transformers in 3D Point Clouds: A Survey](https://arxiv.org/pdf/2205.07417.pdf) (2022)
 
+#### Energy Based Models
+* [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf), Y. LeCun et al (2006)
+* Towards Data Science: [The Physics of Energy-Based Models](https://towardsdatascience.com/the-physics-of-energy-based-models-1121122d0d9), P. Huembell (2021)
+
 #### Dataset Pruning
 * Surya Ganguli: [Statistical mechanics of neural networks](https://www.youtube.com/watch?v=D_TyXVzD3hs) (2022), 2nd part
 
@@ -320,7 +324,6 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
 * [Neural networks and physical systems with emergent collective computational abilities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC346238/pdf/pnas00447-0135.pdf), J. J. Hopfield (1982)
 * [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf), G. E. Hinton and R. R. Salakhutdinov (2006), using Bolzmann machines to initialize weights close to a good solution
-* [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf), Y. LeCun et al (2006)
 * [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), Alex Krizhevsky, Ilya Sutskever and Geoffrey E. Hinton (2012), describes the AlexNet Conv network.
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf), C. Finn, P. Abbeel, S. Levine (2017)
   * S. Khodadadeh: [Model Agnostic Meta Learning](https://www.youtube.com/watch?v=wT45v8sIMDM) (2018)
