@@ -39,8 +39,6 @@ title: Neuroscience
 * Judea Pearl
   * [Causal Inference (CI) − A year in review](http://causality.cs.ucla.edu/blog/index.php/2023/01/04/causal-inference-ci-a-year-in-review/) (2023)
   * [Causal Inference: History, Perspectives, Adventures, and Unification](https://ftp.cs.ucla.edu/pub/stat_ser/r523.pdf), interview
-* Andrew Gelman
-  * [“Causal” is like “error term”: it’s what we say when we’re not trying to model the process](https://statmodeling.stat.columbia.edu/2022/05/14/causal-is-what-we-say-when-we-dont-know-what-were-doing/) (2022)
 
 #### Relation to Quantum  Physics
 * Kelvin McQueen: [Consciousness and the Collapse of the Wave Function](https://www.youtube.com/watch?v=QbRi7w4aQ4k) (2020)
