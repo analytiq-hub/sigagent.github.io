@@ -305,6 +305,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 #### Energy Based Models
 * [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf), Y. LeCun et al (2006)
 * [The Physics of Energy-Based Models](https://physicsofebm.github.io/), P. Huembeli et al (2021)
+* A. Dawid et al: [Modern applications of machine learning in quantum sciences](https://arxiv.org/ftp/arxiv/papers/2204/2204.04198.pdf) (2022)
 
 #### Dataset Pruning
 * Surya Ganguli: [Statistical mechanics of neural networks](https://www.youtube.com/watch?v=D_TyXVzD3hs) (2022), 2nd part
