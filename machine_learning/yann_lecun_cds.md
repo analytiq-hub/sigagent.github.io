@@ -8,7 +8,7 @@ Notes on [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
 #### [05L - Joint embedding method and latent variable energy based models (LV-EBMs)](https://www.youtube.com/watch?v=xIn-Czj1g2Q), [slides](https://drive.google.com/file/d/1kLUgZdRYFO5ksYHzbsRS8m8IocNiGu2J/)
   * Energy based models (EBM) vs Discriminative models
     * Energy $$F(x, y)$$, where $$x$$ is observed variable, and we'd like to predict variable $$y$$.
-    * Find $$\checky(x)=\argmin_y F(x, y)$$ (energy is minimized)
+    * Find $$\check(x)=\argmin_y F(x, y)$$ (energy is minimized)
     * Choice of energy function does not matter if minimum is achieved for same value $$y$$. For example, if we add a constant to $$F$$, the minimum does not change.
     * Can compute if $$y$$ is discrete, or if there is a dynamic-programming-style way to compute $$y$$
     * Energy $$F(x, y)$$ computed during training
