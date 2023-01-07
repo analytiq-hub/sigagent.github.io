@@ -29,6 +29,7 @@ title: Probabilities and Statistics
 #### Courses
 * Harvard [Stat 110](https://projects.iq.harvard.edu/stat110/home) (2013)
 * MIT 14.30 [Intro to Statistical Methods in Economics](https://ocw.mit.edu/courses/economics/14-30-introduction-to-statistical-method-in-economics-spring-2006/)
+* Duke: S. Schmidler: Stat 376: [Advanced Modeling and Scientific Computing](http://www2.stat.duke.edu/~scs/Courses/Stat376/), with many references and papers
 
 #### Statistics in Machine Learning
 * [InformationTheory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf), by David MacKay (2005 version)
