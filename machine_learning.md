@@ -127,7 +127,6 @@ See [GPUs](gpus.md) page
 * J. Frankle, M. Carbin:[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) (2019)
 * G. Hinton: [What is wrong with convolutional neural nets ?](https://www.youtube.com/watch?v=rTawFwUvnLE) (2017)
 * G. Hinton: [Artificial Intelligence: Turning our understanding of the mind right side up](https://www.youtube.com/watch?v=fDR1I2Shw_E) (2017)
-* Y. LeCun: [Energy-Based Self-Supervised Learning](https://www.youtube.com/watch?v=A7AnCvYDQrU), IPAM (2019), [slides](http://helper.ipam.ucla.edu/publications/mlpws4/mlpws4_15927.pdf)
 * Y. LeCun: [The Epistemology of Deep Learning](https://www.youtube.com/watch?v=gG5NCkMerHU), IAS (2019)
 * [Normalized Nerd](https://www.youtube.com/c/NormalizedNerd)
   * [Markov Chains Clearly Explained! Part - 1](https://youtu.be/i3AkTO9HLXo)
@@ -306,8 +305,10 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 
 #### Energy Based Models
 * [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf), Y. LeCun et al (2006)
+* Y. LeCun: [Energy-Based Self-Supervised Learning](https://www.youtube.com/watch?v=A7AnCvYDQrU), IPAM (2019), [slides](http://helper.ipam.ucla.edu/publications/mlpws4/mlpws4_15927.pdf)
 * [The Physics of Energy-Based Models](https://physicsofebm.github.io/), P. Huembeli et al (2021)
 * A. Dawid et al: [Modern applications of machine learning in quantum sciences](https://arxiv.org/ftp/arxiv/papers/2204/2204.04198.pdf) (2022)
+* M.A. Carreira-Perpinan, G.E. Hinton: [On Contrastive Divergence Learning](https://www.cs.toronto.edu/~hinton/absps/cdmiguel.pdf) (2005)
 
 #### Dataset Pruning
 * Surya Ganguli: [Statistical mechanics of neural networks](https://www.youtube.com/watch?v=D_TyXVzD3hs) (2022), 2nd part
