@@ -24,6 +24,7 @@ title: Physics
 * [Statistical mechanics - a set of lectures](https://www.amazon.com/Statistical-Mechanics-Lectures-Frontiers-Physics/dp/0201360764), R. Feynman (1981)
 
 #### Ising Model
+* Barry A. Cipra: [An Introduction to the Ising Model](https://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/isingIntro.pdf), AMM Monthly, 1987
 * Statistical Mechanics of Lattice Systems [vol 1](https://www.amazon.com/Statistical-Mechanics-Lattice-Systems-Mathematical/dp/3540644377), [vol 2](https://www.amazon.com/Statistical-Mechanics-Lattice-Systems-Renormalization/dp/3540644369), Lavis, Bell (1999)
 
 #### Quantum Mechanics
