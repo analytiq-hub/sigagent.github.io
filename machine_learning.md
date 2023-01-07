@@ -309,7 +309,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [The Physics of Energy-Based Models](https://physicsofebm.github.io/), P. Huembeli et al (2021)
 * A. Dawid et al: [Modern applications of machine learning in quantum sciences](https://arxiv.org/ftp/arxiv/papers/2204/2204.04198.pdf) (2022)
 * M.A. Carreira-Perpinan, G.E. Hinton: [On Contrastive Divergence Learning](https://www.cs.toronto.edu/~hinton/absps/cdmiguel.pdf) (2005)
-* B.A. Cipra: [An Introduction to the Ising Model](https://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/isingIntro.pdf) (1987)
+* B.A. Cipra: [An Introduction to the Ising Model](https://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/isingIntro.pdf) (1987), AMM Monthly
 * E. Aurell, M. Ekberg: [Inverse Ising inference using all the data](https://arxiv.org/pdf/1107.3536.pdf) (2012)
 
 #### Dataset Pruning
