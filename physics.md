@@ -22,6 +22,7 @@ title: Physics
 * [Statistical Mechanics of Neural Networks](https://www.amazon.com/Statistical-Mechanics-Neural-Networks-Haiping/dp/9811675694), H. Huang (2021)
 * [Stochastic thermodynamics, fluctuation theorems, and molecular machines](https://arxiv.org/pdf/1205.4176.pdf), Udo Seifert (2012)
 * [Statistical mechanics - a set of lectures](https://www.amazon.com/Statistical-Mechanics-Lectures-Frontiers-Physics/dp/0201360764), R. Feynman (1981)
+* Gareth Tribello [MathsNet](http://gtribello.github.io/mathNET/) - Andrei's [notes](physics/gareth_tribello_mathnet.md)
 
 #### Ising Model
 * Barry A. Cipra: [An Introduction to the Ising Model](https://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/isingIntro.pdf), AMM Monthly, 1987
