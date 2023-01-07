@@ -270,7 +270,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
     * AI Channel: [DeepMind's Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=tFgJHzliy94) (2009)
 * J. Bach: [When Artificial Intelligence Becomes General Enough to Understand Itself. Commentary on Pei Wang’s paper "On Defining Artificial Intelligence"](https://d1wqtxts1xzle7.cloudfront.net/67233992/article-p1-with-cover-page-v2.pdf?Expires=1670126983&Signature=bVqu55Xl9b13VpZRfyOqYGjxrsDJ84oXp~Z0I6lonMLqGvWwwJR9sdiKbduNukJfzGCRpP75B8gDUbIGJhKo2hvIAITAB6VqP6ztmcM7volamlqPkDJofWC9Wq0CtHW9I3wK2SCBIaUFhd43-5C8MHyrDQcGYORthNi0PPN2P8wn3uERQzPjYVvH1igKoM1lfn7ok8MVd8eynzo5G1bh1x9fBXgSH59oRMH58HHu8bsDTLPMex~l0O1j2-fKsD0OMt8ckHlBLJgDunYWryqm63DuZGaSdzQ2mTWxwiOogSDe4GmRPG7Hpg4HaqboYKT3OTp6BtVGmTKIpuaCPNFTyw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=16) (2020)
  * A. Franz et al: [A theory of incremental compression](https://arxiv.org/pdf/1908.03781.pdf) (2020)
-* Y. LeCun: [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf), draft (2022)
+* Y. LeCun: [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf), draft (2022), [tweet](https://twitter.com/ylecun/status/1541493132168249344)
 * Silver, Singh, Sutton: [Reward is enough](https://www.deepmind.com/publications/reward-is-enough) (2021)
 * D. Ha, J. Schmidthuber: [World Models](https://arxiv.org/pdf/1803.10122.pdf) (2018)
 
