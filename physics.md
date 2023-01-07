@@ -23,6 +23,9 @@ title: Physics
 * [Stochastic thermodynamics, fluctuation theorems, and molecular machines](https://arxiv.org/pdf/1205.4176.pdf), Udo Seifert (2012)
 * [Statistical mechanics - a set of lectures](https://www.amazon.com/Statistical-Mechanics-Lectures-Frontiers-Physics/dp/0201360764), R. Feynman (1981)
 
+#### Ising Model
+* Statistical Mechanics of Lattice Systems [vol 1](https://www.amazon.com/Statistical-Mechanics-Lattice-Systems-Mathematical/dp/3540644377), [vol 2](https://www.amazon.com/Statistical-Mechanics-Lattice-Systems-Renormalization/dp/3540644369), Lavis, Bell (1999)
+
 #### Quantum Mechanics
 * [Quantum Field Theory for the Gifted Amateur](https://www.amazon.com/Quantum-Field-Theory-Gifted-Amateur/dp/019969933X), T. Lancaster, S. J. Blundell (2014)
 * [A Mathematical Companion to Quantum Mechanics](https://www.amazon.com/Mathematical-Companion-Quantum-Mechanics-Physics/dp/0486826899), S. Sternberg (2019)
