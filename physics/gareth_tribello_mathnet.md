@@ -97,32 +97,32 @@ $$
 $$
 
 [Calculating Entropy changes](http://gtribello.github.io/mathNET/entropy-changes-statistical-mechanics-video.html)
-* Suppose $$\alpha^{(j)}$$ is an extensive quantity with value $$\alpha_i^{(j)}$$ in microstate $$i$$. How does the entropy $$E$$ change when $$\alpha^{(j)}$$ changes?
-  * For example, $$\alpha^{(j)}$$ can be the energy, or the volume, or the number of atoms
+* Suppose $$\alpha^{(k)}$$ is an extensive quantity with value $$\alpha_i^{(k)}$$ in microstate $$i$$. How does the entropy $$E$$ change when $$\alpha^{(k)}$$ changes?
+  * For example, $$\alpha^{(k)}$$ can be the energy, or the volume, or the number of atoms
 * We have
 
 $$
 \begin{align*}
 \frac{S}{k_B} &= \Psi + \sum_j \lambda^{(j)}\langle B^{(j)} \rangle \\
-\frac{1}{k_B}\frac{\partial S}{\partial \alpha^{(j)}} &= \frac{\partial \Psi}{\partial \alpha^{(j)}} + \sum_j \frac{\partial \lambda^{(j)}}{\partial \alpha^{(j)}} \langle B^{(j)} \rangle + \sum_j \lambda^{(j)} \frac{\partial  \langle B^{(j)} \rangle}{\partial \alpha^{(j)}} \\
+\frac{1}{k_B}\frac{\partial S}{\partial \alpha^{(k)}} &= \frac{\partial \Psi}{\partial \alpha^{(k)}} + \sum_j \frac{\partial \lambda^{(j)}}{\partial \alpha^{(k)}} \langle B^{(j)} \rangle + \sum_j \lambda^{(j)} \frac{\partial  \langle B^{(j)} \rangle}{\partial \alpha^{(k)}} \\
 \end{align*}
 $$
 
-* Working on the 1st term $$\frac{\partial \Psi}{\partial \alpha^{(j)}}$$ alone we have:
+* Working on the 1st term $$\frac{\partial \Psi}{\partial \alpha^{(k)}}$$ alone we have:
 
 $$
 \begin{align*}
-\frac{\partial \Psi}{\partial \alpha^{(j)}} &= e^{-\Psi} \frac{\partial \sum_i e^{-\sum_j \lambda^{(j)}b_i^{(j)}}}{\partial \alpha^{(j)}}
-= e^{-\Psi} \sum_i \frac{\partial e^{-\sum_j \lambda^{(j)}b_i^{(j)}}}{\partial \alpha^{(j)}} \\
+\frac{\partial \Psi}{\partial \alpha^{(k)}} &= e^{-\Psi} \frac{\partial \sum_i e^{-\sum_j \lambda^{(j)}b_i^{(j)}}}{\partial \alpha^{(k)}}
+= e^{-\Psi} \sum_i \frac{\partial e^{-\sum_j \lambda^{(j)}b_i^{(j)}}}{\partial \alpha^{(k)}} \\
 
-&= - e^{-\Psi} \sum_{i,j} \frac{\partial \lambda^{(j)} }{\partial \alpha^{(j)}} b_i^{(j)} e^{-\sum_j \lambda^{(j)}b_i^{(j)}}
-- e^{-\Psi} \sum_{i,j} \lambda^{(j)} \frac{\partial b_i^{(j)}}{\partial \alpha^{(j)}} e^{-\sum_j \lambda^{(j)}b_i^{(j)}} \\
+&= - e^{-\Psi} \sum_{i,j} \frac{\partial \lambda^{(j)} }{\partial \alpha^{(k)}} b_i^{(j)} e^{-\sum_j \lambda^{(j)}b_i^{(j)}}
+- e^{-\Psi} \sum_{i,j} \lambda^{(j)} \frac{\partial b_i^{(j)}}{\partial \alpha^{(k)}} e^{-\sum_j \lambda^{(j)}b_i^{(j)}} \\
 
-&= - \sum_{i,j} \frac{\partial \lambda^{(j)} }{\partial \alpha^{(j)}} b_i^{(j)} p_i
-- \sum_{i,j} \lambda^{(j)} \frac{\partial b_i^{(j)}}{\partial \alpha^{(j)}} p_i \\
+&= - \sum_{i,j} \frac{\partial \lambda^{(j)} }{\partial \alpha^{(k)}} b_i^{(j)} p_i
+- \sum_{i,j} \lambda^{(j)} \frac{\partial b_i^{(j)}}{\partial \alpha^{(k)}} p_i \\
 
-&= - \sum_{j} \frac{\partial \lambda^{(j)} }{\partial \alpha^{(j)}} \langle B^{(j)} \rangle
-- \sum_{j} \lambda^{(j)} \langle \frac{\partial b^{(j)}  }{\partial \alpha^{(j)}} \rangle
+&= - \sum_{j} \frac{\partial \lambda^{(j)} }{\partial \alpha^{(k)}} \langle B^{(j)} \rangle
+- \sum_{j} \lambda^{(j)} \langle \frac{\partial b^{(j)}  }{\partial \alpha^{(k)}} \rangle
 \end{align*}
 $$
 
@@ -130,10 +130,10 @@ Substituting this in the original equation:
 
 $$
 \begin{align*}
-\frac{1}{k_B}\frac{\partial S}{\partial \alpha^{(j)}} 
-&= \frac{\partial \Psi}{\partial \alpha^{(j)}} + \sum_j \frac{\partial \lambda^{(j)}}{\partial \alpha^{(j)}} \langle B^{(j)} \rangle + \sum_j \lambda^{(j)} \frac{\partial  \langle B^{(j)} \rangle}{\partial \alpha^{(j)}} \\
+\frac{1}{k_B}\frac{\partial S}{\partial \alpha^{(k)}} 
+&= \frac{\partial \Psi}{\partial \alpha^{(k)}} + \sum_j \frac{\partial \lambda^{(j)}}{\partial \alpha^{(k)}} \langle B^{(j)} \rangle + \sum_j \lambda^{(j)} \frac{\partial  \langle B^{(j)} \rangle}{\partial \alpha^{(k)}} \\
 
-&= \sum_j \lambda^{(j)} \frac{\partial  \langle B^{(j)} \rangle}{\partial \alpha^{(j)}} - \sum_{j} \lambda^{(j)} \langle \frac{\partial b^{(j)}  }{\partial \alpha^{(j)}} \rangle
+&= \sum_j \lambda^{(j)} \frac{\partial  \langle B^{(j)} \rangle}{\partial \alpha^{(k)}} - \sum_{j} \lambda^{(j)} \langle \frac{\partial b^{(j)}  }{\partial \alpha^{(k)}} \rangle
 \end{align*}
 $$
 
