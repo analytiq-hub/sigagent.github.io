@@ -8,8 +8,8 @@ Notes on [MathNet](http://gtribello.github.io/mathNET)
 [An introduction to statistical mechanics and the principle of equal a priori probabilities](https://www.youtube.com/watch?v=0LdL1LUrE0I)
 * Ludwig Boltzmann's principle of apriori probabilities, shortened, and in modern formulation:
   * Suppose we have some atoms.
-  * Their state in Newtonian physics is characterized by their collective _positions_ and _momenta_ $$x, p$$.
-  * These states are called _microstates_.
+  * Their state in Newtonian physics is characterized by _positions_ and _momenta_
+  * A _microstate_ is the set of all positions and momenta of atoms in the system at a given time
   * The set of all possible microstates $$x_i, p_i$$ is called _phase space_.
   * Each microstate has associated  _extensive quantities_
     * Extensive quantities are physical properties of a system that scales linearly with the size of the system - e.g. the volume of a gas, mass, energy, and entropy
