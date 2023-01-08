@@ -40,7 +40,7 @@ where $$p_i$$ is the probability of being in microstate $$i$$.
 
 $$
 \begin{align*}
-I(p) = k \sum_i p_i \ln p_i
+I(p) = k_B \sum_i p_i \ln p_i
 \end{align*}
 $$
 
@@ -56,12 +56,12 @@ $$
 \end{align*}
 $$
 
-* Add the Lagrange multipliers, switch sign in $$I(p)$$ to maximize instead of miminize, distributing coefficient $$k$$ for convenience:
+* Add the Lagrange multipliers, switch sign in $$I(p)$$ to maximize instead of miminize, distributing coefficient $$k_B$$ for convenience:
 
 $$
 \begin{align*}
-I(p, \lambda_0, \{\lambda^{(j)}\}) &= - k \sum_i p_i \ln p_i - k\lambda_0 (\sum_i p_i - 1) - k\sum_j \lambda^{(j)} (\sum_i p_i b_i^{(j)} - \langle B^{(j)}\rangle) \\
-\frac{1}{k}\frac{\partial I(p, \lambda_0, \{\lambda^{(j)}\})}{\partial p_i} &= -\ln p_i - 1 - \lambda_0 - \sum_j \lambda^{(j)} b_i^{(j)} \text{  therefore:} \\
+I(p, \lambda_0, \{\lambda^{(j)}\}) &= - k_B \sum_i p_i \ln p_i - k_B\lambda_0 (\sum_i p_i - 1) - k_B\sum_j \lambda^{(j)} (\sum_i p_i b_i^{(j)} - \langle B^{(j)}\rangle) \\
+\frac{1}{k_B}\frac{\partial I(p, \lambda_0, \{\lambda^{(j)}\})}{\partial p_i} &= -\ln p_i - 1 - \lambda_0 - \sum_j \lambda^{(j)} b_i^{(j)} \text{  therefore:} \\
 p_i &= \frac{e^{-\sum_j \lambda^{(j)}b_i^{(j)}}}{E^{\Psi}} \text{ where } \Psi = \lambda_0 + 1
 \end{align*}
 $$
