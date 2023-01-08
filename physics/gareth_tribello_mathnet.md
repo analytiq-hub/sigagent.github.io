@@ -74,6 +74,20 @@ $$
 \end{align*}
 $$
 
+* We recover $$\langle B^{(j)}\rangle$$ as follows:
+
+$$
+\begin{align*}
+\frac{\partial \Psi}{\partial \lambda^{(j)}} 
+&= \frac{\partial \ln Z}{\partial \lambda^{(j)}}
+= \frac{\partial \ln \sum_i e^{-\sum_j \lambda^{(j)} b_i^{(j)}}}{\partial \lambda^{(j)}} \\
+&= \frac{1}{Z}\frac{\partial \sum_i e^{-\sum_j \lambda^{(j)} b_i^{(j)}}} {\partial \lambda^{(j)}}
+= \frac{1}{Z}( - \sum_i b_i^{(j)} e^{-\sum_j \lambda^{(j)} b_i^{(j)}}) \\
+&= - \sum_i p_i b_i^{(j)} = - \langle B^{(j)} \rangle
+\end{align*}
+$$
+
+
 
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
