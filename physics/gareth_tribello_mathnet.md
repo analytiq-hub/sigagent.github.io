@@ -165,6 +165,9 @@ $$
 * We would not write the constraints this way. Instead, the volume and the number of parameters would appear as fixed parameters in our Hamiltonian.
 * If $$N$$ and $$V$$ are fixed, what is the probability of being in each microstate?
 * How does the entropy change when we change $$N$$ and $$V$$?
+* If the volume and number of particles are fixed, the sum $$-\sum_k \lambda_k B_j^{(k)}$$ contains only one term - for the energy
+* Probability of being in a microstate:
+* Generalized partition function:
 
 
 [The Canonical Ensemble Part 2](http://gtribello.github.io/mathNET/canonical-ensemble-video2.html)
