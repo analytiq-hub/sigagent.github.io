@@ -148,6 +148,8 @@ $$
 \end{align*}
 $$
 
+[The Canonical Ensemble](http://gtribello.github.io/mathNET/canonical-ensemble-video1.html)
+
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
 
