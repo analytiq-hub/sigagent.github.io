@@ -137,5 +137,14 @@ $$
 \end{align*}
 $$
 
+Written as differential form with respect to vectors $$\frac{\partial}{\partial \alpha^{(k)}}$$:
+
+$$
+\begin{align*}
+\frac{1}{k_B}\mathrm{d}S
+&= - \sum_{j,k} \lambda^{(j)} \langle \frac{\partial b^{(j)}  }{\partial \alpha^{(k)}} \rangle \mathrm{d}\alpha^{(k)} + \sum_j \lambda^{(j)} \mathrm{d}\langle B^{(j)} \rangle
+\end{align*}
+$$
+
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
