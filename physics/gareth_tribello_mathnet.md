@@ -10,11 +10,12 @@ Notes on [MathNet](http://gtribello.github.io/mathNET)
     * Suppose we have some atoms.
     * Their state in Newtonian physics is characterized by their _position_ and _momentum_ $$x_i, p_i$$.
     * The states an atom could have in terms of position and momentum are called _microstates_.
-    * The set of all possible microstates is called _phase space_.
+    * The set of all possible microstates of all atoms together is called _phase space_.
     * Each microstate has associated values for its thermodynamic _extensive quantities_
       * Extensive quantities are physical properties of a system that scales linearly with the size of the system - e.g. the volume of a gas, mass, energy, and entropy
       * Intensive quantities are physical properties that do not depend on the size of the system - e.g. temperature, pressure, and chemical potential.
-    * For a given energy level $$E$$, at equilibrium, the microstates are equally distributed.
+    * For a given energy level $$E$$, at equilibrium, the microstates with that energy are equally distributed.
+    * The system moves freely between microstates at that level of energy.
     * From this simple statement, the whole edifice of Statistical Mechanics is built
     * Within Statistical Mechanics, we find an answer of sorts to the question 'what is Entropy'
     
