@@ -22,6 +22,14 @@ Notes on [MathNet](http://gtribello.github.io/mathNET)
 * [The Generalized Partition Function](http://gtribello.github.io/mathNET/generalised-partition-video.html)
   * Suppose the system microstates are constituted by triples of energy, volume, and number of atoms $$(E_i, V_i, p_i)$ with expected values
 
+$$
+\begin{align*}
+\langle E \rangle &= \sum_i E_i p_i & 
+\langle V \rangle &= \sum_i V_i p_i &
+\langle N \rangle &= \sum_i N_i p_i
+\end{align*}
+$$
+
 
 For a system of particles in thermodinamic equilibrium
 
