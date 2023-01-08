@@ -137,6 +137,9 @@ $$
 \end{align*}
 $$
 
+This can be rewritten as:
+
+
 
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
