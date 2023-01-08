@@ -167,6 +167,15 @@ $$
 * How does the entropy change when we change $$N$$ and $$V$$?
 * If the volume and number of particles are fixed, the sum $$-\sum_k \lambda_k B_j^{(k)}$$ contains only one term - for the energy
 * Probability of being in a microstate:
+
+$$
+\begin{align*}
+p_j = \frac{e^{- \beta H(\bf{x_i},\bf{p_i})}}{e^\Psi} = \frac{e^{- \beta H(\bf{x_i},\bf{p_i})}}{Z}
+\end{align*}
+$$
+
+where $$\beta = \frac{1}{k_B T}$$
+
 * Generalized partition function:
 
 
