@@ -20,7 +20,7 @@ Notes on [MathNet](http://gtribello.github.io/mathNET)
   * Within Statistical Mechanics, we find an answer of sorts to the question 'what is Entropy'
     
 [The Generalized Partition Function](http://gtribello.github.io/mathNET/generalised-partition-video.html)
-* Suppose the system microstates are constituted by triples of energy, volume, and number of atoms $$(E_i, V_i, p_i)$ with expected values
+* Suppose the system microstates are constituted by triples of energy, volume, and number of atoms $$(E_i, V_i, p_i)$$ with expected values
 
 $$
 \begin{align*}
