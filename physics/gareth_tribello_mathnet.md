@@ -122,7 +122,14 @@ $$
 - \sum_{i,j} \lambda^{(j)} \frac{\partial b_i^{(j)}}{\partial \alpha^{(j)}} p_i \\
 
 &= - \sum_{j} \frac{\partial \lambda^{(j)} }{\partial \alpha^{(j)}} \langle B^{(j)} \rangle
-- \sum_{j} \lambda^{(j)} \frac{\partial \langle B^{(j)} \rangle }{\partial \alpha^{(j)}}
+- \sum_{j} \lambda^{(j)} \langle \frac{\partial b^{(j)}  }{\partial \alpha^{(j)}} \rangle
+\end{align*}
+$$
+
+Substituting this in the original equation:
+
+$$
+\begin{align*}
 \end{align*}
 $$
 
