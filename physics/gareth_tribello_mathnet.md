@@ -31,6 +31,8 @@ $$
 $$
 
 where $$p_i$$ is the probability of microstate $$i$$.
+* Energy can change spontaneously through the process of thermal fluctuations!
+* However, the overall energy tends to remain constant over time, due to the law of energy conservation.
 
 * The _axiom of apriori probabilities_ says that the probability of being in a a state 
 
