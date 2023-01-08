@@ -70,7 +70,7 @@ $$
 
 $$
 \begin{align*}
-\sum_i p_i = 1 \rightarrow Z = e^\Psi = \sum_i e^{-\sum_j \lambda^{(j)}b_i^{(j)}}
+\sum_i p_i &= 1 \text{ so } Z = \sum_i e^{-\sum_j \lambda^{(j)}b_i^{(j)}}  \text{ and } \Psi = \ln \sum_i e^{-\sum_j \lambda^{(j)}b_i^{(j)}} \\
 \end{align*}
 $$
 
