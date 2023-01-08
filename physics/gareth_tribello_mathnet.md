@@ -56,5 +56,16 @@ $$
 \end{align*}
 $$
 
+* Add the Lagrange multipliers, switch sign in $$I(p)$$ to maximize instead of miminize, distributing coefficient $$k$$ for convenience:
+
+$$
+\begin{align*}
+I(p, \lambda_0, \{\lambda^{(j)}\}) &= - k \sum_i p_i \ln p_i - k\lambda_0 (\sum_i p_i - 1) - k\sum_j \lambda^{(j)} (\sum_i p_i b_i^{(j)} - \langle B^{(j)}\rangle) \\
+\frac{1}{k}\frac{\partial I(p, \lambda_0, \{\lambda^{(j)}\})}{\partial p_i} &= -\ln p_i - 1 - \lambda_0 - \sum_j \lambda^{(j)} b_i^{(j)} \text{  therefore:} \\
+p_i &= \frac{e^{-\sum_j \lambda^{(j)}b_i^{(j)}}}{e^{\Psi}} \text{ where } \Psi = \lambda_0 + 1
+\end{align*}
+$$
+
+
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
