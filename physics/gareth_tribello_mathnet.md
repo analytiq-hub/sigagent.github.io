@@ -11,6 +11,9 @@ Notes on [MathNet](http://gtribello.github.io/mathNET)
     * Their state in Newtonian physics is characterized by their _position_ and _momentum_ $$x_i, p_i$$.
     * The states an atom could have in terms of position and momentum are called _microstates_.
     * The set of all possible microstates is called _phase space_.
+    * For a given energy level $$E$$, at equilibrium, the microstates are equally distributed.
+    * From this simple statement, the whole edifice of Statistical Mechanics is built
+    * Within Statistical Mechanics, we find an answer of sorts to the question 'what is Entropy'
     
 * [The Generalized Partition Function](http://gtribello.github.io/mathNET/generalised-partition-video.html)
 For a system of particles in thermodinamic equilibrium
