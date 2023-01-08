@@ -32,7 +32,9 @@ $$
 
 where $$p_i$$ is the probability of microstate $$i$$.
 * Energy can change spontaneously through the process of thermal fluctuations!
-* However, the overall energy tends to remain constant over time, due to the law of energy conservation.
+  * However, the overall energy tends to remain constant over time, due to the law of energy conservation.
+* In general, microstates can have a different number of atoms.
+  * In most cases, the number of atoms in a microstate is fixed, and only the positions and momenta of the atoms can vary. However, there are some situations in which the number of atoms in a microstate can change, such as in the case of chemical reactions or phase transitions.
 
 * The _axiom of apriori probabilities_ says that the probability of being in a a state 
 
