@@ -87,6 +87,7 @@ $$
 \end{align*}
 $$
 
+[Entropy in Statistical Mechanics](http://gtribello.github.io/mathNET/entropy-statistical-mechanics-video.html)
 * The entropy $$S = - k_B \sum_i p_i \ln p_i$$ is computed as
 
 $$
