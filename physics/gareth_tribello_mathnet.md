@@ -170,13 +170,19 @@ $$
 
 $$
 \begin{align*}
-p_j = \frac{e^{- \beta H(\bf{x_i},\bf{p_i})}}{e^\Psi} = \frac{e^{- \beta H(\bf{x_i},\bf{p_i})}}{Z}
+p_j = \frac{e^{- \beta H(\bf{x_j},\bf{p_j})}}{e^\Psi} = \frac{e^{- \beta H(\bf{x_j},\bf{p_j})}}{Z}
 \end{align*}
 $$
 
 where $$\beta = \frac{1}{k_B T}$$
 
 * Generalized partition function:
+
+$$
+\begin{align*}
+Z = e^\Psi = \sum_j e^{- \beta H(\bf{x_j},\bf{p_j}) }
+\end{align*}
+$$
 
 
 [The Canonical Ensemble Part 2](http://gtribello.github.io/mathNET/canonical-ensemble-video2.html)
