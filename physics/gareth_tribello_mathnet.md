@@ -148,7 +148,10 @@ $$
 \end{align*}
 $$
 
-[The Canonical Ensemble](http://gtribello.github.io/mathNET/canonical-ensemble-video1.html)
+[The Canonical Ensemble Part 1](http://gtribello.github.io/mathNET/canonical-ensemble-video1.html)
+* Instead of saying that in microstate $$x_i, p_i$$ we are given extensive quantities $$V_i, E_i, N_i$$, assume we're given a function of $$x_i, p_i$$ that can compute these extensive quantities.
+
+[The Canonical Ensemble Part 2](http://gtribello.github.io/mathNET/canonical-ensemble-video2.html)
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
