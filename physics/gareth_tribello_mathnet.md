@@ -9,7 +9,7 @@ Notes on [MathNet](http://gtribello.github.io/mathNET)
 * Ludwig Boltzmann's principle of apriori probabilities, shortened, and in modern formulation:
   * Suppose we have some atoms.
   * Their state in Newtonian physics is characterized by _positions_ and _momenta_
-  * A _microstate_ is the set of all positions and momenta of atoms in the system at a given time
+  * A _microstate_ is the set of all positions and momenta of atoms in the system at a given time. It is denoted by vectors of position and momentum $$(x, p)$$, where the vector dimension is the number of atoms.
   * The set of all possible microstates $$x_i, p_i$$ is called _phase space_.
   * Each microstate has associated  _extensive quantities_
     * Extensive quantities are physical properties of a system that scales linearly with the size of the system - e.g. the volume of a gas, mass, energy, and entropy
