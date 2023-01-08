@@ -47,6 +47,14 @@ $$
 
 subject to our constraints.
 
-* The _axiom of apriori probabilities_ says that the probability of being in a a state 
+* The distribution is computed using Lagrange multipliers.
+* More generally, assume the constraints are
+
+$$
+\begin{align*}
+\sum_i p_i b_i^{(j)} = \langle B^{(j)} \rangle
+\end{align*}
+$$
+
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
