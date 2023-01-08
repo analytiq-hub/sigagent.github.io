@@ -20,7 +20,7 @@ Notes on [MathNet](http://gtribello.github.io/mathNET)
   * Within Statistical Mechanics, we find an answer of sorts to the question 'what is Entropy'
     
 [The Generalized Partition Function](http://gtribello.github.io/mathNET/generalised-partition-video.html)
-* Suppose the system microstates are constituted by triples of energy, volume, and number of atoms $$(E_i, V_i, N_i)$$ with expected values
+* Suppose the system microstates $$i$$ have energy, volume, and number of atoms $$(E_i, V_i, N_i)$$ with expected values
 
 $$
 \begin{align*}
@@ -30,11 +30,22 @@ $$
 \end{align*}
 $$
 
-where $$p_i$$ is the probability of microstate $$i$$.
+where $$p_i$$ is the probability of being in microstate $$i$$.
 * Energy can change spontaneously through the process of thermal fluctuations!
   * However, the overall energy tends to remain constant over time, due to the law of energy conservation.
 * In general, microstates can have a different number of atoms.
   * In most cases, the number of atoms in a microstate is fixed, and only the positions and momenta of the atoms can vary. However, there are some situations in which the number of atoms in a microstate can change, such as in the case of chemical reactions or phase transitions.
+* These three equations, along with $$\sum_i p_i = 1$$, constitue our system constraints
+* The probability distribution across all microstates is determined by minimizing information
+
+$$
+\begin{align*}
+I(p) = k \sum_i p_i \ln p_i
+\end{align*}
+$$
+
+
+subject to our constraints.
 
 * The _axiom of apriori probabilities_ says that the probability of being in a a state 
 
