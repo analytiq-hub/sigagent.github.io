@@ -11,7 +11,7 @@ Notes on [MathNet](http://gtribello.github.io/mathNET)
   * Their state in Newtonian physics is characterized by their collective _positions_ and _momenta_ $$x, p$$.
   * These states are called _microstates_.
   * The set of all possible microstates $$x_i, p_i$$ is called _phase space_.
-  * Each microstate has associated values for its thermodynamic _extensive quantities_
+  * Each microstate has associated  _extensive quantities_
     * Extensive quantities are physical properties of a system that scales linearly with the size of the system - e.g. the volume of a gas, mass, energy, and entropy
     * Intensive quantities are physical properties that do not depend on the size of the system - e.g. temperature, pressure, and chemical potential.
   * For a given energy level $$E$$, at equilibrium, the microstates with that energy are equally distributed.
