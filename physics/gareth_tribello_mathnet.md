@@ -87,6 +87,13 @@ $$
 \end{align*}
 $$
 
+* The entropy $$S = - k_B \sum_i p_i \ln p_i$$ is computed as
+
+$$
+\begin{align*}
+\frac{S}{k_B} = -\sum_i p_i \ln p_i = \sum_i p_i (\Psi + \sum_j \lambda^{(j)}b_i^{(j)}) = \Psi + \sum_j \lambda^{(j)}\langle B^{(j)} \rangle
+\end{align*}
+$$
 
 
 
