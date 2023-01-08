@@ -108,5 +108,24 @@ $$
 \end{align*}
 $$
 
+* Working on the 1st term $$\frac{\partial \Psi}{\partial \alpha^{(j)}}$$ alone we have:
+
+$$
+\begin{align*}
+\frac{\partial \Psi}{\partial \alpha^{(j)}} &= e^{-\Psi} \frac{\partial \sum_i e^{-\sum_j \lambda^{(j)}b_i^{(j)}}}{\partial \alpha^{(j)}}
+= e^{-\Psi} \sum_i \frac{\partial e^{-\sum_j \lambda^{(j)}b_i^{(j)}}}{\partial \alpha^{(j)}} \\
+
+&= - e^{-\Psi} \sum_{i,j} \frac{\partial \lambda^{(j)} }{\partial \alpha^{(j)}} b_i^{(j)} e^{-\sum_j \lambda^{(j)}b_i^{(j)}}
+- e^{-\Psi} \sum_{i,j} \lambda^{(j)} \frac{\partial b_i^{(j)}}{\partial \alpha^{(j)}} e^{-\sum_j \lambda^{(j)}b_i^{(j)}} \\
+
+&= - \sum_{i,j} \frac{\partial \lambda^{(j)} }{\partial \alpha^{(j)}} b_i^{(j)} p_i
+- \sum_{i,j} \lambda^{(j)} \frac{\partial b_i^{(j)}}{\partial \alpha^{(j)}} p_i \\
+
+&= - \sum_{j} \frac{\partial \lambda^{(j)} }{\partial \alpha^{(j)}} \langle B^{(j)} \rangle
+- \sum_{j} \lambda^{(j)} \frac{\partial \langle B^{(j)} \rangle }{\partial \alpha^{(j)}}
+\end{align*}
+$$
+
+
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
