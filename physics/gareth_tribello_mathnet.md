@@ -130,6 +130,10 @@ Substituting this in the original equation:
 
 $$
 \begin{align*}
+\frac{1}{k_B}\frac{\partial S}{\partial \alpha^{(j)}} 
+&= \frac{\partial \Psi}{\partial \alpha^{(j)}} + \sum_j \frac{\partial \lambda^{(j)}}{\partial \alpha^{(j)}} \langle B^{(j)} \rangle + \sum_j \lambda^{(j)} \frac{\partial  \langle B^{(j)} \rangle}{\partial \alpha^{(j)}} \\
+
+&= \sum_j \lambda^{(j)} \frac{\partial  \langle B^{(j)} \rangle}{\partial \alpha^{(j)}} - \sum_{j} \lambda^{(j)} \langle \frac{\partial b^{(j)}  }{\partial \alpha^{(j)}} \rangle
 \end{align*}
 $$
 
