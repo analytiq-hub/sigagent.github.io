@@ -74,6 +74,8 @@ $$
 \end{align*}
 $$
 
+[Calculating ensemble averages by differentiating the partition function](http://gtribello.github.io/mathNET/ensemble-averages-by-differentiation-video.html)
+
 * We recover $$\langle B^{(j)}\rangle$$ as follows:
 
 $$
@@ -145,6 +147,7 @@ $$
 &= - \sum_{j,k} \lambda^{(j)} \langle \frac{\partial b^{(j)}  }{\partial \alpha^{(k)}} \rangle \mathrm{d}\alpha^{(k)} + \sum_j \lambda^{(j)} \mathrm{d}\langle B^{(j)} \rangle
 \end{align*}
 $$
+
 
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
