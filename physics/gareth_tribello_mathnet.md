@@ -157,7 +157,7 @@ $$
 \begin{align*}
 \delta(N(\bf{x_i},\bf{p_i}) - N') &\gt 0 \\
 \delta(V(\bf{x_i},\bf{p_i}) - V') &\gt 0 \\
-\langle E \rangle &= \sum_i p_i H(\bf{x_i},\bf{p_i})
+\langle E \rangle = \sum_i p_i H(\bf{x_i},\bf{p_i})
 \end{align*}
 $$
 
