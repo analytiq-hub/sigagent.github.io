@@ -97,5 +97,14 @@ $$
 $$
 
 [Calculating Entropy changes](http://gtribello.github.io/mathNET/entropy-changes-statistical-mechanics-video.html)
+* Suppose $$\alpha^{(j)}$$ is an extensive quantity with value $$\alpha_i^{(j)}$$ in microstate $$i$$. How does the entropy $$E$$ change when $$\alpha^{(j)}$$ changes?
+  * For example, $$\alpha^{(j)}$$ can be the energy, or the volume, or the number of atoms
+* We have
+
+$$
+\begin{align*}
+\end{align*}
+$$
+
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
