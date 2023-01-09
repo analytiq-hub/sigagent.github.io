@@ -233,7 +233,9 @@ $$
 
 &= \Psi + \beta E  \\
 
-&= \Psi + \frac{1}{k_B T} E
+&= \Psi + \frac{1}{k_B T} E \text{ so } \\
+
+k_B T \Psi = - (E-TS)
 \end{align*}
 $$
 
