@@ -249,7 +249,9 @@ F = -k_B T \ln Z_c
 \end{align*}
 $$
 
-* If the free energy of some states is low, this is equivalent to having a high probability that the system will occupy these states. [I don't understand this.] 
+* If the free energy of some states is low, this is equivalent to having a high probability that the system will occupy these states. [I don't understand this.]
+
+* Suppose we have an observable $$A$$, and that we know how to calculate the observable $$A(\bf{x_j},\bf{p_j})$$ from the position and momentum of the microstates of the system
 
 
 
