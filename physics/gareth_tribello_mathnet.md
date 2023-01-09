@@ -273,6 +273,7 @@ Z_c &= \sum_j e^{- \beta H(\bf{x_j},\bf{p_j}) } \\
 \end{align*}
 $$
 
+So we get $$E = \frac{\partial \Psi}{\partial \beta}$$
 
 
 
