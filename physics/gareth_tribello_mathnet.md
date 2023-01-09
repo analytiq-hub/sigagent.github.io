@@ -170,7 +170,7 @@ $$
 
 $$
 \begin{align*}
-p_j = \frac{e^{- \beta H(\bf{x_j},\bf{p_j})}}{e^\Psi} = \frac{e^{- \beta H(\bf{x_j},\bf{p_j})}}{Z}
+p_j = \frac{e^{- \beta H(\bf{x_j},\bf{p_j})}}{e^\Psi} = \frac{e^{- \beta H(\bf{x_j},\bf{p_j})}}{Z}  \text{ where } \beta = \frac{1}{k_B T}
 \end{align*}
 $$
 
@@ -178,7 +178,7 @@ $$
 
 $$
 \begin{align*}
-Z = e^\Psi = \sum_j e^{- \beta H(\bf{x_j},\bf{p_j}) }  \text{ where } \beta = \frac{1}{k_B T}
+Z = e^\Psi = \sum_j e^{- \beta H(\bf{x_j},\bf{p_j}) } 
 \end{align*}
 $$
 
