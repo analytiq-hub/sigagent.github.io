@@ -215,6 +215,12 @@ $$
 
 so we get
 
+$$
+\begin{align*}
+\beta &= \frac{1}{k_B T}
+\end{align*}
+$$
+
 
 [The Canonical Ensemble Part 2](http://gtribello.github.io/mathNET/canonical-ensemble-video2.html)
 
