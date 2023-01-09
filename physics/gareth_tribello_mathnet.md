@@ -255,7 +255,9 @@ $$
 
 $$
 \begin{align*}
-\langle A \rangle &= \sum_j A(\bf{x_j},\bf{p_j}) p_j
+\langle A \rangle &= \sum_j A(\bf{x_j},\bf{p_j}) p_j \\
+
+&= e^{-\Psi} \sum_j A(\bf{x_j},\bf{p_j}) e^{- \beta H(\bf{x_j},\bf{p_j})}
 \end{align*}
 $$
 
