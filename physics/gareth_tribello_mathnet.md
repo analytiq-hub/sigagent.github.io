@@ -240,7 +240,7 @@ k_B T \Psi = - (E-TS)
 $$
 
 * Recall that $$E - TS$$ is the definition of the Helmholtz free energy $$F$$. introduced when discussing thermodynamic potentials, in the context of classical thermodynamics.
-* Recall that $$e^\Psy$$ is the partition function also denoted $$Z_c$$.
+* Recall that $$e^\Psy$$ is the canonical partition function also denoted $$Z_c$$.
 * We get the following formulation for free energy:
 
 $$
@@ -248,6 +248,8 @@ $$
 F = -k_B T \ln Z_c
 \end{align*}
 $$
+
+* If the free energy of some states is low, this is equivalent to having a high probability that the system will occupy these states. [I don't understand this.] 
 
 
 
