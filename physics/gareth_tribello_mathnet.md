@@ -184,6 +184,24 @@ Z = e^\Psi = \sum_j e^{- \beta H(\bf{x_j},\bf{p_j}) }
 $$
 
 * When only extensive quantities that are fixed are volume and number of particles, we call this the _canonical ensemble_ system
+* In the canonical ensemble, the system can exchange heat, but cannot change volume or mattter.
+* What happens to the entropy if we change the volume or the number of atoms? Qw get:
+
+$$
+\begin{align*}
+\frac{1}{k_B}\mathrm{d}S
+&= - \sum_{j,k} \lambda^{(j)} \langle \frac{\partial b^{(j)}  }{\partial \alpha^{(k)}} \rangle \mathrm{d}\alpha^{(k)} 
++ \sum_j \lambda^{(j)} \mathrm{d}\langle B^{(j)} \rangle \\
+
+&= - \beta \sum_{k} \langle \frac{\partial H(\bf{x_j},\bf{p_j})  }{\partial \alpha^{(k)}} \rangle \mathrm{d}\alpha^{(k)} 
++ \beta \mathrm{d}\langle H(\bf{x_j},\bf{p_j}) \rangle \\
+
+&= - \beta \langle \frac{\partial H }{\partial N} \rangle \mathrm{d}V
+- \beta \langle \frac{\partial H }{\partial V} \rangle \mathrm{d}N
++ \beta \mathrm{d}\langle E \rangle
+
+\end{align*}
+$$
 
 
 [The Canonical Ensemble Part 2](http://gtribello.github.io/mathNET/canonical-ensemble-video2.html)
