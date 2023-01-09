@@ -288,7 +288,7 @@ $$
 * $$Var(E) = k_B T^2 C_v$$ for the heat capacity $$C_v$$
 
 
-
+[The partition function for a lattice gas](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
