@@ -261,6 +261,17 @@ $$
 \end{align*}
 $$
 
+In particular for $$A$$ equal to the energy:
+
+$$
+\begin{align*}
+\langle E \rangle &= \sum_j H(\bf{x_j},\bf{p_j}) p_j \\
+
+&= e^{-\Psi} \sum_j H(\bf{x_j},\bf{p_j}) e^{- \beta H(\bf{x_j},\bf{p_j})} \\
+\end{align*}
+$$
+
+
 But the latter can be identified with $$\frac{\partial \Psi}{\partial \beta}$$, as follows:
 
 $$
