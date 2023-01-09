@@ -198,7 +198,7 @@ $$
 
 &= - \beta \langle \frac{\partial H }{\partial N} \rangle \mathrm{d}V
 - \beta \langle \frac{\partial H }{\partial V} \rangle \mathrm{d}N
-+ \beta \mathrm{d}\langle E \rangle
++ \beta \mathrm{d} E
 
 \end{align*}
 $$
@@ -225,6 +225,13 @@ $$
 [The Canonical Ensemble Part 2](http://gtribello.github.io/mathNET/canonical-ensemble-video2.html)
 
 * Aim: Calculate ensemble averages, and introduce fluctuations
+* For the canonical ensemble:
+
+$$
+\begin{align*}
+\end{align*}
+$$
+
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
