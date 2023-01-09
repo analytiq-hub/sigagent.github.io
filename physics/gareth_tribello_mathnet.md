@@ -280,6 +280,8 @@ Z_c &= \sum_j e^{- \beta H(\bf{x_j},\bf{p_j}) } \\
 \Psi &= \ln \sum_j e^{- \beta H(\bf{x_j},\bf{p_j}) } \\
 
 \frac{\partial \Psi}{\partial \beta} &= -e^{-\Psi} \sum_j H(\bf{x_j},\bf{p_j}) e^{- \beta H(\bf{x_j},\bf{p_j})} \\
+
+&= \sum_j H(\bf{x_j},\bf{p_j}) e^{- \beta H(\bf{x_j},\bf{p_j}) - \Psi} \\
 \end{align*}
 $$
 
