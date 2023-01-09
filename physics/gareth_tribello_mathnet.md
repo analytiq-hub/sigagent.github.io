@@ -203,6 +203,15 @@ $$
 \end{align*}
 $$
 
+* But recall from classical thermodynamics
+
+$$
+\begin{align*}
+\mathrm{d}E = T \mathrm{d} S - P \mathrm{d} V + \mu \mathrm{d} N
+\end{align*}
+$$
+
+
 
 [The Canonical Ensemble Part 2](http://gtribello.github.io/mathNET/canonical-ensemble-video2.html)
 
