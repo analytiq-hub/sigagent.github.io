@@ -174,13 +174,11 @@ p_j = \frac{e^{- \beta H(\bf{x_j},\bf{p_j})}}{e^\Psi} = \frac{e^{- \beta H(\bf{x
 \end{align*}
 $$
 
-where $$\beta = \frac{1}{k_B T}$$
-
 * Generalized partition function:
 
 $$
 \begin{align*}
-Z = e^\Psi = \sum_j e^{- \beta H(\bf{x_j},\bf{p_j}) }
+Z = e^\Psi = \sum_j e^{- \beta H(\bf{x_j},\bf{p_j}) }  \text{ where } \beta = \frac{1}{k_B T}
 \end{align*}
 $$
 
