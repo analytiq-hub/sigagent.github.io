@@ -224,6 +224,8 @@ $$
 
 [The Canonical Ensemble Part 2](http://gtribello.github.io/mathNET/canonical-ensemble-video2.html)
 
+* Aim: Calculate ensemble averages, and introduce fluctuations
+
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
 
