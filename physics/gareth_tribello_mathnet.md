@@ -253,6 +253,13 @@ $$
 
 * Suppose we have an observable $$A$$, and that we know how to calculate the observable $$A(\bf{x_j},\bf{p_j})$$ from the position and momentum of the microstates of the system
 
+$$
+\begin{align*}
+\langle A \rangle &= \sum_j A(\bf{x_j},\bf{p_j}) p_j
+\end{align*}
+$$
+
+
 
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
