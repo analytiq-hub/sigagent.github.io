@@ -283,7 +283,9 @@ Z_c &= \sum_j e^{- \beta H(\bf{x_j},\bf{p_j}) } \\
 \end{align*}
 $$
 
-So we get $$E = - \frac{\partial \Psi}{\partial \beta}$$
+* So we get $$\langle E \rangle = - \frac{\partial \Psi}{\partial \beta}$$. A similar argument shows:
+* $$Var(E) = \frac{\partial^2 \Psi}{\partial \beta^2}$$, and because the variance is positive, $$\Psi$$ is convex.
+* $$Var(E) = k_B T^2 C_v$$ for the heat capacity $$C_v$$
 
 
 
