@@ -235,7 +235,7 @@ $$
 
 &= \Psi + \frac{1}{k_B T} E \text{ so } \\
 
-k_B T \Psi = - (E-TS)
+k_B T \Psi &= - (E-TS)
 \end{align*}
 $$
 
