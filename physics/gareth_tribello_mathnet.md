@@ -183,6 +183,8 @@ Z = e^\Psi = \sum_j e^{- \beta H(\bf{x_j},\bf{p_j}) }
 \end{align*}
 $$
 
+* When only extensive quantities that are fixed are volume and number of particles, we call this the _canonical ensemble_ system
+
 
 [The Canonical Ensemble Part 2](http://gtribello.github.io/mathNET/canonical-ensemble-video2.html)
 
