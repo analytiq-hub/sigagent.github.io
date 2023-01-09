@@ -240,7 +240,7 @@ k_B T \Psi = - (E-TS)
 $$
 
 * Recall that $$E - TS$$ is the definition of the Helmholtz free energy $$F$$. introduced when discussing thermodynamic potentials, in the context of classical thermodynamics.
-* Recall that $$e^\Psy$$ is the canonical partition function also denoted $$Z_c$$.
+* Recall that $$e^\Psi$$ is the canonical partition function also denoted $$Z_c$$.
 * We get the following formulation for free energy:
 
 $$
