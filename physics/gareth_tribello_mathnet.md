@@ -229,6 +229,11 @@ $$
 
 $$
 \begin{align*}
+\frac{S}{k_B} &= \Psi + \sum_j \lambda^{(j)}\langle B^{(j)} \rangle \\
+
+&= \Psi + \beta E  \\
+
+&= \Psi + \frac{1}{k_B T} E
 \end{align*}
 $$
 
