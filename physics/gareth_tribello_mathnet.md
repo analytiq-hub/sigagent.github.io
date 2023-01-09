@@ -239,6 +239,17 @@ k_B T \Psi = - (E-TS)
 \end{align*}
 $$
 
+* Recall that $$E - TS$$ is the definition of the Helmholtz free energy $$F$$. introduced when discussing thermodynamic potentials, in the context of classical thermodynamics.
+* Recall that $$e^\Psy$$ is the partition function also denoted $$Z_c$$.
+* We get the following formulation for free energy:
+
+$$
+\begin{align*}
+F = -k_B T \ln Z_c
+\end{align*}
+$$
+
+
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
