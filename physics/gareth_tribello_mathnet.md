@@ -286,7 +286,31 @@ Z_c &= \sum_j e^{- \beta H(\bf{x_j},\bf{p_j}) } \\
 $$
 
 * So we get $$\langle E \rangle = - \frac{\partial \Psi}{\partial \beta}$$. A similar argument shows:
-* $$Var(E) = \frac{\partial^2 \Psi}{\partial \beta^2}$$, and because the variance is positive, $$\Psi$$ is convex.
+
+$$
+\begin{align*}
+\frac{\partial^2 \Psi}{\partial \beta^2} &= 
+\sum_j H(\bf{x_j},\bf{p_j}) \frac{\partial e^{- \beta H(\bf{x_j},\bf{p_j}) - \Psi}}{\partial \beta}
+ \\
+
+ &= 
+-\sum_j \left[ H(\bf{x_j},\bf{p_j}) \right]^2  e^{- \beta H(\bf{x_j},\bf{p_j}) - \Psi}
+- \frac{\partial \Psi}{\partial \beta} \sum_j H(\bf{x_j},\bf{p_j}) e^{- \beta H(\bf{x_j},\bf{p_j}) - \Psi}
+\\
+
+ &= 
+-\sum_j \left[ H(\bf{x_j},\bf{p_j}) \right]^2  e^{- \beta H(\bf{x_j},\bf{p_j}) - \Psi}
+- \left[ \frac{\partial \Psi}{\partial \beta} \right]^2
+\\
+
+ &= 
+-\sum_j \left[ H(\bf{x_j},\bf{p_j}) \right]^2  p_j
++ \langle E \rangle^2 = Var(E)
+\\
+\end{align*}
+$$
+
+* We get $$Var(E) = \frac{\partial^2 \Psi}{\partial \beta^2}$$, and because the variance is positive, $$\Psi$$ is convex.
 * $$Var(E) = k_B T^2 C_v$$ for the heat capacity $$C_v$$
 
 
