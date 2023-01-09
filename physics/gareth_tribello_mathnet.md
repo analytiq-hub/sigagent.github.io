@@ -163,9 +163,10 @@ $$
 
 * The number of particles $$N'$$ and volume $$V'$$ are fixed constraints, but the energy is allowed to fluctuate. The expected value of the energy must be finite.
 * We would not write the constraints this way. Instead, the volume and the number of parameters would appear as fixed parameters in our Hamiltonian.
-* If $$N$$ and $$V$$ are fixed, what is the probability of being in each microstate?
-* How does the entropy change when we change $$N$$ and $$V$$?
-* If the volume and number of particles are fixed, the sum $$-\sum_k \lambda_k B_j^{(k)}$$ contains only one term - for the energy
+* Questions we will answer:
+  * If $$N$$ and $$V$$ are fixed, what is the probability of being in each microstate?
+  * How does the entropy change when we change $$N$$ and $$V$$?
+* If the volume and number of particles are fixed, the sum $$-\sum_k \lambda_k B_j^{(k)}$$ contains only one term - the energy, which is defined by the Hamiltonian
 * Probability of being in a microstate:
 
 $$
