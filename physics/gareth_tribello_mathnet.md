@@ -368,6 +368,7 @@ $$
 
 * Compared to the previous model, we add interactions between neighboring particles in the lattice
 * The Hamiltonian for the simple closed 1-d Ising model is $$H = - J \sum_{i=1}^N s_i s_{i+1} - H \sum_{i=1}^N s_i$$ where $$s_{N+1} = s_1$$
+* Used to describe interactions of particles sitting on a ring and having spin up, spin down states
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
 
