@@ -366,6 +366,8 @@ $$
 
 [Model Systems II: The Ising model](http://gtribello.github.io/mathNET/ising-model-video.html)
 
+* Compared to the previous model, we add interactions between neighboring particles in the lattice
+
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
 
 [Model Systems IV: Real gases molecular systems](http://gtribello.github.io/mathNET/molecular-gas-video.html)
