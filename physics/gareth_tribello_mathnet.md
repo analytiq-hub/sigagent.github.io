@@ -361,7 +361,7 @@ $$
 \end{align*}
 $$
 
-* When $$T$$ is minimized, $$\langle M \rangle$$ is maximized.
+* When $$T$$ is minimized, $$tanh(βμH) \rightarrow 1$$, $$\langle E \rangle \rightarrow -N\muH$$ is minimized, and $$\langle M \rangle \rightarrow N\mu$$ is maximized.
 * When $$T$$ is maximized, $$\langle M \rangle$$ goes down to $$0$$.
 
 
