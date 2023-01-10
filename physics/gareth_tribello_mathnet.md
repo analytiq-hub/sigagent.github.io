@@ -316,6 +316,13 @@ $$
 
 [The partition function for a lattice gas](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
+* System has $n$ non-interacting particles which can have spin up, spin down states denoted $$+1,-1$$.
+* Total energy: $$E = - \sum_i s_i \mu H$$, where:
+  * $$s_i = +1 \mathrm{ or } -1$$ is the spin state
+  * $$\mu$$ is the magnetic moment
+  * $$H$$ is the magnetic field strength
+  
+
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
 
