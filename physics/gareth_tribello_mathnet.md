@@ -343,7 +343,7 @@ $$
 
 &= - \frac{\partial \Psi}{\partial \beta} = - \frac{\partial \ln Z}{\partial \beta} = - \frac{\partial (N \ln 2)}{\partial \beta} - \frac{\partial (N \cosh (\beta \mu H))}{\partial \beta} \\
 
-&= -N \mu h \tanh (\beta \mu H)
+&= -N \mu H \tanh (\beta \mu H)
 \end{align*}
 $$
 
@@ -356,6 +356,8 @@ $$
 
 $$
 \begin{align*}
+\langle M \rangle &= \langle \sum_{i=1}^N s_i\mu \rangle \\
+&= \frac{1}{H} \langle \sum_{i=1}^N s_i \mu H \rangle = -\frac{1}{H} \langle E \rangle =  N \mu \tanh (\beta \mu H)
 \end{align*}
 $$
 
