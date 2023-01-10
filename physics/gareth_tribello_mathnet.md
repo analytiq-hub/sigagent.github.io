@@ -365,3 +365,5 @@ $$
 * When $$T$$ is maximized, $$\langle M \rangle$$ goes down to $$0$$.
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
+
+[Model Systems IV: Real gases molecular systems](http://gtribello.github.io/mathNET/molecular-gas-video.html)
