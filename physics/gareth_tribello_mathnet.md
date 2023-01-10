@@ -313,8 +313,7 @@ $$
 * We get $$Var(E) = \frac{\partial^2 \Psi}{\partial \beta^2}$$, and because the variance is positive, $$\Psi$$ is convex.
 * $$Var(E) = k_B T^2 C_v$$ for the heat capacity $$C_v$$
 
-
-[The partition function for a lattice gas](http://gtribello.github.io/mathNET/lattice-gas-video.html)
+[Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
 * System has $n$ non-interacting particles which can have spin up, spin down states denoted $$+1,-1$$.
 * Total energy: $$E = - \sum_i s_i \mu H$$, where:
@@ -329,8 +328,5 @@ $$
 $$
 
   
-
-[Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
-
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
