@@ -320,17 +320,30 @@ $$
   * $$s_i = +1 \mathrm{ or } -1$$ is the spin state
   * $$\mu$$ is the magnetic moment
   * $$H$$ is the magnetic field strength
-* Partition function is
+* The partition function is
 
 $$
 \begin{align*}
-\Psi 
+Z
 &= \sum_{s_1 \in \{-1,1\}}... \sum_{s_N \in \{-1,1\}} e^{- \beta \sum_{i=1}^N s_i \mu H} \\
 
 &= \prod_{i=1}^N\left( e^{\beta \mu H} + e^{-\beta \mu H} \right) 
 = \left( e^{\beta \mu H} + e^{-\beta \mu H} \right)^N = 2^N \cosh^N (\beta \mu H)
 \end{align*}
 $$
+
+* The average internal energy is
+
+$$
+\begin{align*}
+\langle E \rangle 
+
+&= - \frac{\partial \Psi}{\partial \beta} = - \frac{\partial \ln Z}{\partial \beta} = - \frac{\partial (N \ln 2)}{\partial \beta} - \frac{\partial (N \cosh (\beta \mu H))}{\partial \beta} \\
+
+&= -N \mu h \tanh (\beta \mu H)
+\end{align*}
+$$
+
 
   
 
