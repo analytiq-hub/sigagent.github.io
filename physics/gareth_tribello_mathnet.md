@@ -361,7 +361,7 @@ $$
 \end{align*}
 $$
 
-* When $$T$$ is minimized, $$\tanh(β \mu H) \rightarrow 1$$, $$\langle E \rangle \rightarrow -N \mu H$$ is minimized, and $$\langle M \rangle \rightarrow N\mu$$ is maximized.
+* When $$T$$ is minimized, $$\tanh(\beta \mu H) \rightarrow 1$$, $$\langle E \rangle \rightarrow -N \mu H$$ is minimized, and $$\langle M \rangle \rightarrow N\mu$$ is maximized.
 * When $$T$$ is maximized, $$\langle M \rangle$$ goes down to $$0$$.
 
 [Model Systems II: The Ising model](http://gtribello.github.io/mathNET/ising-model-video.html)
