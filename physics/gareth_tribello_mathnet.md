@@ -373,7 +373,7 @@ $$
 
 $$
 \begin{align*}
-$H = - \sum_{i=1}^N \left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right]
+H = - \sum_{i=1}^N \left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right]
 \end{align*}
 $$
 
