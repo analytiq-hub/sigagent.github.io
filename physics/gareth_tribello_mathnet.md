@@ -347,6 +347,9 @@ $$
 \end{align*}
 $$
 
+* So $$\langle E \rangle = -N \mu h \tanh (\beta \mu H)$$
+
+
 
   
 
