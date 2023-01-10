@@ -321,6 +321,13 @@ $$
   * $$s_i = +1 \mathrm{ or } -1$$ is the spin state
   * $$\mu$$ is the magnetic moment
   * $$H$$ is the magnetic field strength
+* Partition function is
+
+$$
+\begin{align*}
+\end{align*}
+$$
+
   
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
