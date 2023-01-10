@@ -328,7 +328,9 @@ Z
 &= \sum_{s_1 \in \{-1,1\}}... \sum_{s_N \in \{-1,1\}} e^{- \beta \sum_{i=1}^N s_i \mu H} \\
 
 &= \prod_{i=1}^N\left( e^{\beta \mu H} + e^{-\beta \mu H} \right) 
-= \left( e^{\beta \mu H} + e^{-\beta \mu H} \right)^N = 2^N \cosh^N (\beta \mu H)
+= \left( e^{\beta \mu H} + e^{-\beta \mu H} \right)^N \\
+
+&= 2^N \cosh^N (\beta \mu H)
 \end{align*}
 $$
 
