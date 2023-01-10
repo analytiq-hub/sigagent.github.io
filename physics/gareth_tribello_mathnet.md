@@ -334,6 +334,7 @@ Z
 \end{align*}
 $$
 
+* So $$Z = 2^N \cosh^N (\beta \mu H)$$
 * The average internal energy is
 
 $$
