@@ -348,6 +348,9 @@ $$
 $$
 
 * So $$\langle E \rangle = -N \mu h \tanh (\beta \mu H)$$
+* Recall that $$\beta = \frac{1}{k_B T}$$
+  * When $$T$$ tends to $$0$$, $$\beta$$ tends to $$+\infty$$, and $$\langle E \rangle$$ is minimized. The spins $$s_i$$ align with the magnetic field.
+  * When $$T$$ tends to $$+\infty$$, $$\beta$$ tends to $$0$$, and $$\langle E \rangle$$ tends to $$0$$. The spins $$s_i$$ tend to be equally distributed among $$-1, 1$$.
 
 
 
