@@ -383,3 +383,6 @@ $$
 [Model Systems IV: Real gases molecular systems](http://gtribello.github.io/mathNET/molecular-gas-video.html)
 
 [The analogy between classical Thermodynamics and Newtonian Mechanics](http://gtribello.github.io/mathNET/thermodymaic-variables-video.html)
+* In absence of external stimulus, volume, temperature, and number of atoms don't change. These are called _thermodynamic variables_, and are of two types:
+  * _Extensive_ variables - value depends on the number of atoms, e.g. number of atoms, volume
+  * _Intensive_ variables - value does not depend on the number of atoms, e.g. temperature, pressure
