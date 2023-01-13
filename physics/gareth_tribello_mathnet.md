@@ -386,3 +386,4 @@ $$
 * In absence of external stimulus, volume, temperature, and number of atoms don't change. These are called _thermodynamic variables_, and are of two types:
   * _Extensive_ variables - value depends on the number of atoms, e.g. number of atoms, volume
   * _Intensive_ variables - value does not depend on the number of atoms, e.g. temperature, pressure
+* Thermodynamic law equivalent to Newton's first law: _Any physical system remains in equilibrium with extensive thermodynamic variables fixed unless acted upon by an external agent_
