@@ -83,6 +83,13 @@ title: Physics
   * [Cosmology](https://theoreticalminimum.com/courses/cosmology/2013/winter) (Winter 2013), not yet watched
   * [Statistical Mechanics](https://theoreticalminimum.com/courses/statistical-mechanics/2013/spring) (Spring 2013), not yet watched
     * [L9: Ising Model](https://www.youtube.com/watch?v=AT4_S9vQJgc)
+      * 1-dimensional Ising Model
+      * Duality
+      * 2-dimensional Ising Model
+      * Mean field approximation
+      * Adding an external magnetic field
+      * Spontaneous symmetry breaking
+      
   * [Supplemental Courses](https://theoreticalminimum.com/courses/supplemental), [Archived Courses](https://theoreticalminimum.com/courses/archive)
 
 #### Surveys
