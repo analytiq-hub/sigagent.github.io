@@ -406,3 +406,4 @@ $$
   * Conservation principle: When two phases come to equilibrium, then any incraese in the values of extensive variables in one system must be compensated by a decrease in second phase.
 
 [Work and heat](http://gtribello.github.io/mathNET/work-and-heat-video.html)
+* Origin of thermodynamics: scientists wanted to understand how engines work
