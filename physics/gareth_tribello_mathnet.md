@@ -388,3 +388,16 @@ $$
   * _Intensive_ variables - value does not depend on the number of atoms, e.g. temperature, pressure
 * Thermodynamic law equivalent to Newton's first law: _Any physical system remains in equilibrium with extensive thermodynamic variables fixed unless acted upon by an external agent_
 * In Newtonian mechanics, to change a system, you must change its _momentum_, and you do so by applying a force $$F = \frac{\mathrm{d}p}{\mathrm{d}t}$$
+* In classical thermodynamics, the state of a system is characterized by _many_ extensive thermodynamic variables.
+  * To change the state of the system, you can act to change any of these extensive variables
+  * For example, by changing its volume. Or its temperature.
+  * We need to quantify how a change in one extensive variable impacts other extensive variables.
+* A phase is a part of space.
+  * Can divide a system in Phase 1, with number of atoms $$N_1$$, volume $$V_1$$ and pressure $$P_1$$, and Phase 2, with number of atoms $$N_2$$, volume $$V_2$$, and pressure $$P_2$$.
+  * The extensive variables of Phase 1 will change when put in contact with a second phase Phase 2 which has different values for its extensive variables.
+  * Assume $$P_1 \gt P_2$$.
+    * Then $$V_1$$ will increase, and $$V_2$$ will decrease, b/c the total volume is constant.
+    * The pressure $$P_1$$ will decrease. The pressure $$P_2$$ will increase.
+    * The changes will stop when the two pressures are equal.
+    * At equilibrium, the intensive variables take a single value across the entire system
+*
