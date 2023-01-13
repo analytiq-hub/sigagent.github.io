@@ -82,6 +82,14 @@ title: Physics
   * [Special Relativity and Electrodynamics](https://theoreticalminimum.com/courses/special-relativity-and-electrodynamics/2012/spring) (Spring 2012), not yet watched
   * [Cosmology](https://theoreticalminimum.com/courses/cosmology/2013/winter) (Winter 2013), not yet watched
   * [Statistical Mechanics](https://theoreticalminimum.com/courses/statistical-mechanics/2013/spring) (Spring 2013), not yet watched
+    * L1: Entropy and conservation of information
+    * L2: Temperature
+    * L3: Maximizing entropy
+    * L4: The Boltzmann distribution
+    * L5: Pressure of an ideal gas and fluctuations
+    * L6: Weakly interacting gases, heat, and work
+    * L7: Entropy versus reversibility
+    * L8: Entropy, reversibility, and magnetism 
     * [L9: Ising Model](https://www.youtube.com/watch?v=AT4_S9vQJgc)
       * 1-dimensional Ising Model
       * Duality
@@ -89,6 +97,7 @@ title: Physics
       * Mean field approximation
       * Adding an external magnetic field
       * Spontaneous symmetry breaking
+    * [L10: Liquid-gas phase transition](https://www.youtube.com/watch?v=IWtcFAP3ju4)
       
   * [Supplemental Courses](https://theoreticalminimum.com/courses/supplemental), [Archived Courses](https://theoreticalminimum.com/courses/archive)
 
