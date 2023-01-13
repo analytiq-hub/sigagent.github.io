@@ -407,3 +407,11 @@ $$
 
 [Work and heat](http://gtribello.github.io/mathNET/work-and-heat-video.html)
 * Origin of thermodynamics: scientists wanted to understand how engines work
+
+[The efficiency of the Carnot engine](http://gtribello.github.io/mathNET/carnot-video-1.html)
+
+[The Kelvin definition of temperature](http://gtribello.github.io/mathNET/temperature-video.html)
+
+[Adiabatic work](http://gtribello.github.io/mathNET/adiabatic-work-video.html)
+
+[Entropy in the Carnot cycle](http://gtribello.github.io/mathNET/carnot-entropy-video.html)
