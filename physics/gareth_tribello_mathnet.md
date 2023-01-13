@@ -415,3 +415,5 @@ $$
 [Adiabatic work](http://gtribello.github.io/mathNET/adiabatic-work-video.html)
 
 [Entropy in the Carnot cycle](http://gtribello.github.io/mathNET/carnot-entropy-video.html)
+
+[Temperature and thhe Gibbs Phase rule](http://gtribello.github.io/mathNET/gibbs-phase-rule-video.html)
