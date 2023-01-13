@@ -387,3 +387,4 @@ $$
   * _Extensive_ variables - value depends on the number of atoms, e.g. number of atoms, volume
   * _Intensive_ variables - value does not depend on the number of atoms, e.g. temperature, pressure
 * Thermodynamic law equivalent to Newton's first law: _Any physical system remains in equilibrium with extensive thermodynamic variables fixed unless acted upon by an external agent_
+* In Newtonian mechanics, to change a system, you must change its _momentum_, and you do so by applying a force $$F = \frac{\mathrm{d}p}{\mathrm{d}t}$$
