@@ -400,4 +400,7 @@ $$
     * The pressure $$P_1$$ will decrease. The pressure $$P_2$$ will increase.
     * The changes will stop when the two pressures are equal.
     * At equilibrium, the intensive variables take a single value across the entire system
-*
+* Thermodynamic laws:
+  * Behavior in absence of an external agent: Thermodynamic system remains in equilibrium, with values of extensive variables unchanged.
+  * How external agent couples to system: If two phases are put in contact, then the values of conjugate extensive variables will change.
+  * Conservation principle: 
