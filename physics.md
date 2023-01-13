@@ -82,6 +82,7 @@ title: Physics
   * [Special Relativity and Electrodynamics](https://theoreticalminimum.com/courses/special-relativity-and-electrodynamics/2012/spring) (Spring 2012), not yet watched
   * [Cosmology](https://theoreticalminimum.com/courses/cosmology/2013/winter) (Winter 2013), not yet watched
   * [Statistical Mechanics](https://theoreticalminimum.com/courses/statistical-mechanics/2013/spring) (Spring 2013), not yet watched
+    * [L9: Ising Model](https://www.youtube.com/watch?v=AT4_S9vQJgc)
   * [Supplemental Courses](https://theoreticalminimum.com/courses/supplemental), [Archived Courses](https://theoreticalminimum.com/courses/archive)
 
 #### Surveys
