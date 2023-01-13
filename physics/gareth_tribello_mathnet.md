@@ -404,3 +404,5 @@ $$
   * Behavior in absence of an external agent: Thermodynamic system remains in equilibrium, with values of extensive variables unchanged.
   * How external agent couples to system: If two phases are put in contact, then the values of conjugate extensive variables will change.
   * Conservation principle: When two phases come to equilibrium, then any incraese in the values of extensive variables in one system must be compensated by a decrease in second phase.
+
+[Work and heat](http://gtribello.github.io/mathNET/work-and-heat-video.html)
