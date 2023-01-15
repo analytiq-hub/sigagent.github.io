@@ -614,3 +614,6 @@ $$
 \end{align*}
 $$
 
+* The state of a system is characterized by its extensive thermodynamic variables
+* The actions on the environment of that system are chanracterized by its intensive thermodynamic variables.
+* The state of a one-phase system is characterized by its volume and its entropy.
