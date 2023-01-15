@@ -532,6 +532,7 @@ $$
 $$
 
 * Define $$f(T_1, T_2) = 1 - g(T_1, T_2) = \frac{q_C}{q_H}$$
+* We get $$f(T_1, T_3) = f(T_1, T_2) f(T_2, T_3)$$
 
 [Adiabatic work](http://gtribello.github.io/mathNET/adiabatic-work-video.html)
 
