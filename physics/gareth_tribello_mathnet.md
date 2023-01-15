@@ -499,6 +499,15 @@ $$
 * $$q_h$$ heat transferred from universe to engine in 1st step, $$q_c$$ heat transferred from engine to universe in 3rd step
 * Will have $$q_h - q_c = \Delta w$$
 
+$$
+\begin{align*}
+\frac{\Delta w}{q_h} = \frac{q_h - q_c}{q_h}
+\end{align*}
+$$
+
+* The left side is the efficiency of the engine - the ratio of work done to heat input.
+
+
 [The Kelvin definition of temperature](http://gtribello.github.io/mathNET/temperature-video.html)
 
 [Adiabatic work](http://gtribello.github.io/mathNET/adiabatic-work-video.html)
