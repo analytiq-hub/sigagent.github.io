@@ -580,3 +580,9 @@ $$
 $$
 
 * Can we derive a similar formula for the heat exchanged during the isothermal transition?
+
+$$
+\begin{align*}
+\frac{q_1}{q_2} = \frac{T_1}{T_2} \mathrm{ so } \frac{q_2}{T_2} - \frac{q_1}{T_q} = 0
+\end{align*}
+$$
