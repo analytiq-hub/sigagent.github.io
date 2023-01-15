@@ -562,7 +562,7 @@ During adiabatic expansion:
 
 $$
 \begin{align*}
-\delta w = - \int_x^{x+\Delta x} F \mathrm{d}x = - \int_x^{x+\Delta x} pA \mathrm{d}x = - \int_V^{V+\Delta V} p \mathrm{d}V
+\Delta w = - \int_x^{x+\Delta x} F \mathrm{d}x = - \int_x^{x+\Delta x} pA \mathrm{d}x = - \int_V^{V+\Delta V} p \mathrm{d}V
 \end{align*}
 $$
 
