@@ -23,6 +23,7 @@ title: Physics
 * [Stochastic thermodynamics, fluctuation theorems, and molecular machines](https://arxiv.org/pdf/1205.4176.pdf), Udo Seifert (2012)
 * [Statistical mechanics - a set of lectures](https://www.amazon.com/Statistical-Mechanics-Lectures-Frontiers-Physics/dp/0201360764), R. Feynman (1981)
 * Gareth Tribello [MathsNet](http://gtribello.github.io/mathNET/) - Andrei's [notes](physics/gareth_tribello_mathnet.md)
+* Arieh Ben-Naim: [Farewell To Entropy, A: Statistical Thermodynamics Based On Information](https://www.amazon.com/Farewell-Entropy-Statistical-Thermodynamics-Information/dp/9812707077) (2008)
 
 #### Ising Model
 * Barry A. Cipra: [An Introduction to the Ising Model](https://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/isingIntro.pdf), AMM Monthly, 1987
