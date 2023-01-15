@@ -575,7 +575,7 @@ where the force $$F$$ is pressure $$p$$ times piston area $$A$$, and volume $$V$
 
 $$
 \begin{align*}
-\Delta = - \int_V^{V+\Delta V} p \mathrm{d}V
+\Delta w = - \int_V^{V+\Delta V} p \mathrm{d}V
 \end{align*}
 $$
 
@@ -586,3 +586,13 @@ $$
 \frac{q_1}{q_2} = \frac{T_1}{T_2} \mathrm{ so } \frac{q_2}{T_2} - \frac{q_1}{T_q} = 0
 \end{align*}
 $$
+
+* $$q$$ is the amount of heat that flows during a transition.
+* We'll argue that we can compute $$q$$ by integrating temperature over entropy as follows:
+
+$$
+\begin{align*}
+q = \int_s^{s+\Delta s} T(S, ...) \mathrm{d}S
+\end{align*}
+$$
+
