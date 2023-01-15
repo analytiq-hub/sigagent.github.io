@@ -493,6 +493,9 @@ $$
   * In the 2nd step - remove the heat bath. Thermally lock the system. No heat is transferred. When the gas expands further, the temperature decreases to $$T_1$$. Adiabatic expansion - adiabatic because heat is not allowed to transfer in the environment.
   * In the 3rd step, we remove the thermal lock, and put the system in contact with a heat sync. Temperature stays at $$T_1$$. The gas contracts, and heat flows from the system into the sink. The gas and the system are contracting isothermally.
   * In the 4th step, we remove the heat sync, and introduce the thermal locking once more. The system is not allowed to transfer heat to its environmet. The gas in the cylinder is further contracted. Adiabatic contraction.
+* When gas is expanded, in steps 1 and 2, work is done on the universe: $$-w_2$$
+* When gas is contracted, in steps 3 and 4, work is done by the universe on the system: $$w_1$$.
+* Total work done by the gas is $$-\Delta w = w_2 - w_1 \gt 0$$.
 
 [The Kelvin definition of temperature](http://gtribello.github.io/mathNET/temperature-video.html)
 
