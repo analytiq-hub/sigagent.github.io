@@ -462,6 +462,18 @@ $$
 * What is temperature?
   * Can't characterize it as _what's hot_, because we don't know what _hot_ means, without defining _hot_ in terms of temperature
   * Can't be a characteristic of the system, because the system is characterized by _extensive_ thermodynamic variables, whereas temperature is _intensive_.
+* 19th Century physicists sorted this out.
+* They were interested in how steam engines worked.
+* In these engines, gas was heated or cooled down, and pistons were used to do work in the environment
+* Because of Newton's third law - every action has an equal and opposite reaction - work had to be transferred on the environment.
+* It should be able to calculate exactly the work done by the piston by integrating over the change in volume.
+
+$$
+\begin{align*}
+\Delta w' = - int_V^{V+\Delta V} A(V) \mathrm{d}V
+\end{align*}
+$$
+
 
 [The Kelvin definition of temperature](http://gtribello.github.io/mathNET/temperature-video.html)
 
