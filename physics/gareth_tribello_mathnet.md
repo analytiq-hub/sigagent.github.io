@@ -490,7 +490,7 @@ $$
     * Gas in the engine stays at the same temperature $$T_2$$
     * Heat flows from the bath into the gas
     * Gas expands isotthermally.
-  * In the 2nd step - adiabatic expansion. No work is done. Heat is not allowed to transfer into the environment. The temperature decreases to $$T_1$$.
+  * In the 2nd step - remove the heat bath. Thermally lock the system. No heat is transferred. When the gas expands further, the temperature decreases to $$T_1$$. Adiabatic expansion - adiabatic because heat is not allowed to transfer in the environment.
   * In the 3rd step, we put the system in contact with a heat sync. Temperature stays at $$T_1$$. The gas contracts, and heat flows from the system into the sync. The gas and the system are contracting isothermally.
   * In the 4th step, we remove the heat sync, and introduce the thermal ... once more. The system is not allowed to transfer heat to its environmet. The gas in the cylinder is further contracted.
 
