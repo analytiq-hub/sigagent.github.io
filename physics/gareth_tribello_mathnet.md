@@ -12,8 +12,8 @@ Notes on [MathNet](http://gtribello.github.io/mathNET)
   * A _microstate_ is the set of all positions and momenta of atoms in the system at a given time. It is denoted by vectors of position and momentum $$(x, p)$$, where the vector dimension is the number of atoms.
   * The set of all possible microstates $$x_i, p_i$$ is called _phase space_.
   * Each microstate has associated  _extensive quantities_
-    * Extensive quantities are physical properties of a system that scales linearly with the size of the system - e.g. the volume of a gas, mass, energy, and entropy
-    * Intensive quantities are physical properties that do not depend on the size of the system - e.g. temperature, pressure, and chemical potential.
+    * _Extensive_ quantities are physical properties of a system that scales linearly with the size of the system - e.g. the volume of a gas, mass, energy, and entropy
+    * _Intensive_ quantities are physical properties that do not depend on the size of the system - e.g. temperature, pressure, and chemical potential.
   * For a given energy level $$E$$, at equilibrium, the microstates with that energy are equally distributed.
   * The system moves freely between microstates at that level of energy.
   * From this simple statement, the whole edifice of Statistical Mechanics is buult
