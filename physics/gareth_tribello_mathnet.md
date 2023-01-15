@@ -531,6 +531,8 @@ $$
 \end{align*}
 $$
 
+* Define $$f(T_1, T_2) = 1 - g(T_1, T_2) = \frac{q_C}{q_H}$$
+
 [Adiabatic work](http://gtribello.github.io/mathNET/adiabatic-work-video.html)
 
 [Entropy in the Carnot cycle](http://gtribello.github.io/mathNET/carnot-entropy-video.html)
