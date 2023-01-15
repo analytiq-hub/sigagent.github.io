@@ -434,6 +434,18 @@ $$
       * How is it related to disorder? What does that even mean?
     * Alternatively, entropy is sometimes described as the _quality of energy_. That's equally wrong.
     * Please forget all this _crap_ now! For the time being, define entropy as follows:
+      * _Entropy_ is the conjugate extensive variable to the intensive variable _temperature_
+      * We are then going to developed a more refined description of entropy as we go along.
+      * It does not involve any nonsense like disorder or quality of energy
+    * What does it mean for entropy to be a conjugate extensive variable to temperature?
+      * It means that temperature is to entropy as pressure is to volume.
+      * What we mean by _conjugate_ is that if we change pressure, and do not allow change in entropy or number of atoms, the phases will come to equilibrium by changing their volume.
+      * Hence, two phases with different temperature, which are not allowed to change volume or number of atoms, will come to equilibrium by changing this mysterious extensive variable called entropy.
+    * Consider phases that can change matter between them
+      * Extensive variables are the number of atoms $$N_1, N_2$$
+      * Assume $$N_1$$ decreases, and $$N_2$$ increases
+      * The conjugate intensive variable to the number of atoms is another made-up intensive variable: the _chemical potential_ $$\mu_1, \mu_2$$
+      * The flow of matter from Phase 1 to Phase 2 is given by a difference in the chemical potential $$\mu_1 \gt \mu_2$$
 
 [The efficiency of the Carnot engine](http://gtribello.github.io/mathNET/carnot-video-1.html)
 
