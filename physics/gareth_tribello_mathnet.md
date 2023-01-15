@@ -496,16 +496,25 @@ $$
 * When gas is expanded, in steps 1 and 2, work is done on the universe: $$-w_2$$
 * When gas is contracted, in steps 3 and 4, work is done by the universe on the system: $$w_1$$.
 * Total work done by the gas is $$-\Delta w = w_2 - w_1 \gt 0$$. It is greater than $$0$$ because we want the engine to do work on the universe, else it would be a useless engine.
-* $$q_h$$ heat transferred from universe to engine in 1st step, $$q_c$$ heat transferred from engine to universe in 3rd step
-* Will have $$q_h - q_c = \Delta w$$
+* $$q_H$$ heat transferred from universe to engine in 1st step, $$q_C$$ heat transferred from engine to universe in 3rd step
+* Will have $$q_H - q_C = \Delta w$$
 
 $$
 \begin{align*}
-\frac{\Delta w}{q_h} = \frac{q_h - q_c}{q_h}
+\frac{\Delta w}{q_H} = \frac{q_H - q_C}{q_H}
 \end{align*}
 $$
 
 * The left side is the efficiency of the engine - the ratio of work done to heat input.
+* Will now show there is no engine more efficient
+* A new engine would use less heat for the same amount of work: $$q_H^{\prime} \lt q_H$$
+
+$$
+\begin{align*}
+\frac{\Delta w}{q_H^{\prime}} \gt \frac{q_H - q_C}{q_H}
+\end{align*}
+$$
+
 
 
 [The Kelvin definition of temperature](http://gtribello.github.io/mathNET/temperature-video.html)
