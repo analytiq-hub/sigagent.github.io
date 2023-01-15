@@ -446,6 +446,13 @@ $$
       * Assume $$N_1$$ decreases, and $$N_2$$ increases
       * The conjugate intensive variable to the number of atoms is another made-up intensive variable: the _chemical potential_ $$\mu_1, \mu_2$$
       * The flow of matter from Phase 1 to Phase 2 is given by a difference in the chemical potential $$\mu_1 \gt \mu_2$$
+      * The chemical potential $$\mu_1$$ decreases, and $$\mu_2$$ increases.
+      * This process continues until the chemical potential becomes equal.
+    * Each intensive variable must have a conjugate extensive variable
+    * We thus introduce entropy and chemical potential
+    * This is the easiest way to introduce these thermodynamic variables.
+    * They are created for mathematical convenience only - unline quantities such as pressure, volume, number of atoms.
+    * It is not easy to explain what these thermodynamic variables physically represent.
 
 [The efficiency of the Carnot engine](http://gtribello.github.io/mathNET/carnot-video-1.html)
 
