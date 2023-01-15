@@ -416,6 +416,24 @@ $$
 * Idea underemphasized in thermodynamics textbooks: _temperature is an intensive thermodynamic variable_
   * The fact that temperature is an intensive thermodynamic variable is evident by the way we measure temperature with a thermometer.
     * Volume of mercury in tube changes. Volume is an extensive thermodynamic variable.
+* A phase is basically a part of the sapce. We choose it arbitrarily.
+  * Given Phase1, Phase2
+    * With extensive variables $$V_1, V_2$$ (volume)
+    * With intensive variables $$P_1, P_2$$ (pressure)
+      * If the intensive variables $$P1 = P_2$$, these two phases are in equilibrium, and the values of the extensive variables $$V_1, V_2$$ will not change.
+      * If $$P_1 \gt P_2$$, then Phase 1 will expand, and its volume will increase, while that of Phase 2 will contract.
+      * Vice-versa, if $$V_1$$ increases and $$V_2$$ decreases, then $$P_1$$ decreases and $$P_2$$ increases. This process continues until the pressures become equal, at which point the system is in equilibrium.
+    * Consider this process with temperature
+    * Temperature is intensive. Any difference in temperature will drive changes in the states.
+    * Suppose the volumes of the two phases are fixed throughout, and atoms are not allowed to move between phases.
+    * If $$T_1 /gt T_2$$, then how will the system change?
+    * Answer: we introduce a new extensive variable: the entropy $$S_1, S_2$$.
+    * Enropy describes how two systems with set number of atoms and volume can come to an equilibrium when temperature changes.
+    * As $$T_1$$ decreases, and $$T_2$$ increases, in order to bring temperature to equality, the entropy $$S_1$$ decreases, and $$S_2$$ increases.
+    * You might have heard _bullshit_ in other places that entropy is related to disorder. _Yuck!_ Aside from being wrong, this is an incomprehensible statement.
+      * How is it related to disorder? What does that even mean?
+    * Alternatively, entropy is sometimes described as the _quality of energy_. That's equally wrong.
+    * Please forget all this _crap_ now! For the time being, define entropy as follows:
 
 [The efficiency of the Carnot engine](http://gtribello.github.io/mathNET/carnot-video-1.html)
 
