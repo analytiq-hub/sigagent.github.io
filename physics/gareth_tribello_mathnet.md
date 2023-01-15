@@ -532,6 +532,8 @@ $$
 $$
 
 * Define $$f(T_1, T_2) = 1 - g(T_1, T_2) = \frac{q_C}{q_H}$$
+* Denote heat exchanged as $$q_1, q_2, q_3$$.
+* So $f(T_1, T_2) = \frac{q_1}{q_2}$$, etc
 * We get $$f(T_1, T_3) = f(T_1, T_2) f(T_2, T_3)$$
 * This means $$f(T_1, T_2)$$ can be written as a quotient of a new function $$f(T_1, T_2) = \frac{F(T_1)}{F(T_2)}$$
 * The simplest function we can choose for $$F$$ is the identity function $$F(T)=T$$
