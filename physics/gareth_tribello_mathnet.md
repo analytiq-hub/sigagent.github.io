@@ -414,6 +414,8 @@ $$
   * For example, if a force is applied to a lump of material, then its volume could change.
   * This action is quantified throug _intensive_ thermodynamic variables.
 * Idea underemphasized in thermodynamics textbooks: _temperature is an intensive thermodynamic variable_
+  * The fact that temperature is an intensive thermodynamic variable is evident by the way we measure temperature with a thermometer.
+    * Volume of mercury in tube changes. Volume is an extensive thermodynamic variable.
 
 [The efficiency of the Carnot engine](http://gtribello.github.io/mathNET/carnot-video-1.html)
 
