@@ -495,7 +495,7 @@ $$
   * In the 4th step, we remove the heat sync, and introduce the thermal locking once more. The system is not allowed to transfer heat to its environmet. The gas in the cylinder is further contracted. Adiabatic contraction.
 * When gas is expanded, in steps 1 and 2, work is done on the universe: $$-w_2$$
 * When gas is contracted, in steps 3 and 4, work is done by the universe on the system: $$w_1$$.
-* Total work done by the gas is $$-\Delta w = w_2 - w_1 \gt 0$$.
+* Total work done by the gas is $$-\Delta w = w_2 - w_1 \gt 0$$. It is greater than $$0$$ because we want the engine to do work on the universe, else it would be a useless engine.
 
 [The Kelvin definition of temperature](http://gtribello.github.io/mathNET/temperature-video.html)
 
