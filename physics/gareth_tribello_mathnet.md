@@ -522,6 +522,14 @@ $$
   * This would make the hot sink hotter, and the cold sink colder with zero work - contradiction
 
 [The Kelvin definition of temperature](http://gtribello.github.io/mathNET/temperature-video.html)
+* We can use the Carnot engine to create a universal calibration for temperature
+* 1st step is to assert that a function $$g(T_1, T_2)$$ exists that allows us to calculate the efficiency of the Carnot engine
+
+$$
+\begin{align*}
+\frac{\Delta w}{q_H} = \frac{q_H - q_C}{q_H} = g(T_1, T_2)
+\end{align*}
+$$
 
 [Adiabatic work](http://gtribello.github.io/mathNET/adiabatic-work-video.html)
 
