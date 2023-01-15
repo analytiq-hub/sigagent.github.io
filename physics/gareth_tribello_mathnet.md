@@ -559,3 +559,4 @@ where the force $$F$$ is pressure $$p$$ times piston area $$A$$, and volume $$V$
 
 [Entropy in the Carnot cycle](http://gtribello.github.io/mathNET/carnot-entropy-video.html)
 
+* We've characterized the state of the Carnot cycle in terms of pressure and volume.
