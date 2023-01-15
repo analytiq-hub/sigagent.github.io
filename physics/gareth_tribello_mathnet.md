@@ -555,6 +555,7 @@ $$
 \end{align*}
 $$
 
+where the force $$F$$ is pressure $$p$$ times piston area $$A$$, and volume $$V$$ is area times height $$Ax$$.
 
 [Entropy in the Carnot cycle](http://gtribello.github.io/mathNET/carnot-entropy-video.html)
 
