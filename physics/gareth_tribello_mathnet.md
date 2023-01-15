@@ -596,3 +596,10 @@ q = \int_s^{s+\Delta s} T(S, ...) \mathrm{d}S
 \end{align*}
 $$
 
+* Suppose the transition is isothermal. Then:
+
+$$
+\begin{align*}
+q = \int_s^{s+\Delta s} T(S, ...) \mathrm{d}S = T \Delta S
+\end{align*}
+$$
