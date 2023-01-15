@@ -571,3 +571,12 @@ where the force $$F$$ is pressure $$p$$ times piston area $$A$$, and volume $$V$
 [Entropy in the Carnot cycle](http://gtribello.github.io/mathNET/carnot-entropy-video.html)
 
 * We've characterized the state of the Carnot cycle in terms of pressure and volume.
+* Work done during the adiabatic transition:
+
+$$
+\begin{align*}
+\Delta = - \int_V^{V+\Delta V} p \mathrm{d}V
+\end{align*}
+$$
+
+* Can we derive a similar formula for the heat exchanged during the isothermal transition?
