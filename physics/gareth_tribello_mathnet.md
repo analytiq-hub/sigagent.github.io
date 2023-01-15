@@ -409,6 +409,8 @@ $$
 * Origin of thermodynamics: scientists wanted to understand how engines work
 
 [Temperature and thhe Gibbs Phase rule](http://gtribello.github.io/mathNET/gibbs-phase-rule-video.html)
+* We can characterize the state of a system _phase_ by denoting the values of all _extensive_ thermodynamic variables within it.
+* If a phase is put in contact with a 2nd phase, with different _intensive_ thermodynamic variables, then the state of the phase will change.
 
 [The efficiency of the Carnot engine](http://gtribello.github.io/mathNET/carnot-video-1.html)
 
