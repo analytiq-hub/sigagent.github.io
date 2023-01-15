@@ -605,3 +605,4 @@ q = \int_s^{s+\Delta s} T(S, ...) \mathrm{d}S = T \Delta S
 $$
 
 * Since $$\frac{q_1}{T_1}=\frac{q_2}{T_2}$$, we get $$\Delta S_1 = \Delta S_2$$
+* The total change in entropy going around the Carnot cycle is $$0$$.
