@@ -521,8 +521,6 @@ $$
   * And we would get $$q^{\prime}_H - q_H \lt 0$$ from the hot sink, and give $$q^{\prime}_C - q_C \lt 0$$ to the cold sink
   * This would make the hot sink hotter, and the cold sink colder with zero work - contradiction
 
-
-
 [The Kelvin definition of temperature](http://gtribello.github.io/mathNET/temperature-video.html)
 
 [Adiabatic work](http://gtribello.github.io/mathNET/adiabatic-work-video.html)
