@@ -515,6 +515,8 @@ $$
 \end{align*}
 $$
 
+* We must also have $$q_C^{\prime} \lt q_C$$
+
 
 
 [The Kelvin definition of temperature](http://gtribello.github.io/mathNET/temperature-video.html)
