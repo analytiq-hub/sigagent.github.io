@@ -459,6 +459,9 @@ $$
 * Consequence: All thermodynamic variables can be calculated if we are given a subset of the thermodynamic variables - for example, at equilibrium, we can write an equation for the pressure in terms of volume and temperature.
 
 [The efficiency of the Carnot engine](http://gtribello.github.io/mathNET/carnot-video-1.html)
+* What is temperature?
+  * Can't characterize it as _what's hot_, because we don't know what _hot_ means, without defining _hot_ in terms of temperature
+  * Can't be a characteristic of the system, because the system is characterized by _extensive_ thermodynamic variables, whereas temperature is _intensive_.
 
 [The Kelvin definition of temperature](http://gtribello.github.io/mathNET/temperature-video.html)
 
