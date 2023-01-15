@@ -408,6 +408,8 @@ $$
 [Work and heat](http://gtribello.github.io/mathNET/work-and-heat-video.html)
 * Origin of thermodynamics: scientists wanted to understand how engines work
 
+[Temperature and thhe Gibbs Phase rule](http://gtribello.github.io/mathNET/gibbs-phase-rule-video.html)
+
 [The efficiency of the Carnot engine](http://gtribello.github.io/mathNET/carnot-video-1.html)
 
 [The Kelvin definition of temperature](http://gtribello.github.io/mathNET/temperature-video.html)
@@ -416,4 +418,3 @@ $$
 
 [Entropy in the Carnot cycle](http://gtribello.github.io/mathNET/carnot-entropy-video.html)
 
-[Temperature and thhe Gibbs Phase rule](http://gtribello.github.io/mathNET/gibbs-phase-rule-video.html)
