@@ -617,3 +617,5 @@ $$
 * The state of a system is characterized by its extensive thermodynamic variables
 * The actions on the environment of that system are chanracterized by its intensive thermodynamic variables.
 * The state of a one-phase system is characterized by its volume and its entropy.
+
+[The first law of thermodynamics](http://gtribello.github.io/mathNET/first-law-thermodynamics-video.html), [handout](http://gtribello.github.io/mathNET/resources/thermodynamics-notes.pdf)
