@@ -545,6 +545,17 @@ $$
 \end{align*}
 $$
 
+* The Carnot efficiency can be rewritten as:
+
+$$
+\begin{align*}
+\frac{\Delta w}{q_H^{\prime}} \gt \frac{q_H - q_C}{q_H} = 1 - \frac{T_C}{T_H}
+\end{align*}
+$$
+
+* When $$T_C = 0$$, the Carnot efficiency becomes $$1$$.
+
+
 [Adiabatic work](http://gtribello.github.io/mathNET/adiabatic-work-video.html)
 
 During adiabatic expansion:
