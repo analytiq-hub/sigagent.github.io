@@ -470,7 +470,9 @@ $$
 
 $$
 \begin{align*}
-\Delta w' = - \int_V^{V+\Delta V} A(V) \mathrm{d}V
+\Delta w' &= - \int_V^{V+\Delta V} A(V) \mathrm{d}V \\
+
+\Delta w &= - \int_x^{x+\Delta x} F(x) \mathrm{d}x
 \end{align*}
 $$
 
