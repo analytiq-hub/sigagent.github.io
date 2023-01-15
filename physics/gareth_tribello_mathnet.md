@@ -506,7 +506,7 @@ $$
 $$
 
 * The left side is the efficiency of the engine - the ratio of work done to heat input.
-* Will now show there is no engine more efficient
+* Will now show there is no engine more efficient Carnot engine going from the same temperature $$T_2$$ to $$T_1$$.
 * A new engine would use less heat for the same amount of work: $$q_H^{\prime} \lt q_H$$
 
 $$
@@ -516,6 +516,10 @@ $$
 $$
 
 * We must also have $$q_C^{\prime} \lt q_C$$
+* Run the new Carnot engine forward, and the original Carnot engine in reverse.
+  * Then, we would do zero total work.
+  * And we would get $$q^{\prime}_H - q_H \lt 0$$ from the hot sink, and give $$q^{\prime}_C - q_C \lt 0$$ to the cold sink
+  * This would make the hot sink hotter, and the cold sink colder with zero work - contradiction
 
 
 
