@@ -547,5 +547,14 @@ $$
 
 [Adiabatic work](http://gtribello.github.io/mathNET/adiabatic-work-video.html)
 
+During adiabatic expansion:
+
+$$
+\begin{align*}
+\delta w = - \int_x^{x+\Delta x} F \mathrm{d}x = - \int_x^{x+\Delta x} pA \mathrm{d}x = - \int_V^{V+\Delta V} p \mathrm{d}V
+\end{align*}
+$$
+
+
 [Entropy in the Carnot cycle](http://gtribello.github.io/mathNET/carnot-entropy-video.html)
 
