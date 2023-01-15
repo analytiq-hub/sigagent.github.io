@@ -453,6 +453,10 @@ $$
     * This is the easiest way to introduce these thermodynamic variables.
     * They are created for mathematical convenience only - unline quantities such as pressure, volume, number of atoms.
     * It is not easy to explain what these thermodynamic variables physically represent.
+* The state of one phase is completely characterized by a small set of thermodynamic variables.
+* Two phases at equilibrium must have the same values for all intensive thermodynamic variables
+* We will prove in these lectures the Gibbs phase rule: $$F = C - \pi + 2$$, where $$F$$ is the number of independent thermodynamic variables, $$C$$ is the umber of chemical components (molecule types), $$\pi$$ is the number of phases.
+* Consequence: All thermodynamic variables can be calculated if we are given a subset of the thermodynamic variables - for example, at equilibrium, we can write an equation for the pressure in terms of volume and temperature.
 
 [The efficiency of the Carnot engine](http://gtribello.github.io/mathNET/carnot-video-1.html)
 
