@@ -86,7 +86,9 @@ title: Physics
     * [L1: Entropy and conservation of information](https://www.youtube.com/watch?v=D1RzvXDXyqA)
       * Given $$N$$ states, assuming the system can take one of $$M \le N$$ states with equal probability $$\frac{1}{M}$$, its entropy is defined as $$S=\log M$$.
         * It is a measure of uncertainty - of lack of information.
-      * Liouville theorem: the volume in phase space of a system does not change in time.
+      * Liouville theorem:
+        * The volume in phase space of a system does not change in time.
+        * If you start with a uniform distribution in the phase space, the distribution remains uniform over time.
     * L2: Temperature
     * L3: Maximizing entropy
     * L4: The Boltzmann distribution
