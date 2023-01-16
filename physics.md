@@ -83,7 +83,7 @@ title: Physics
   * [Special Relativity and Electrodynamics](https://theoreticalminimum.com/courses/special-relativity-and-electrodynamics/2012/spring) (Spring 2012), not yet watched
   * [Cosmology](https://theoreticalminimum.com/courses/cosmology/2013/winter) (Winter 2013), not yet watched
   * [Statistical Mechanics](https://theoreticalminimum.com/courses/statistical-mechanics/2013/spring) (Spring 2013), not yet watched
-    * L1: Entropy and conservation of information
+    * [L1: Entropy and conservation of information](https://www.youtube.com/watch?v=D1RzvXDXyqA)
     * L2: Temperature
     * L3: Maximizing entropy
     * L4: The Boltzmann distribution
