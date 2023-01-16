@@ -84,6 +84,8 @@ title: Physics
   * [Cosmology](https://theoreticalminimum.com/courses/cosmology/2013/winter) (Winter 2013), not yet watched
   * [Statistical Mechanics](https://theoreticalminimum.com/courses/statistical-mechanics/2013/spring) (Spring 2013), not yet watched
     * [L1: Entropy and conservation of information](https://www.youtube.com/watch?v=D1RzvXDXyqA)
+      * Given $$N$$ states, assuming the system can take one of $$M \le N$$ states with equal probability $$\frac{1}{M}$$, its entropy is defined as $$S=\log M$$.
+        * It is a measure of uncertainty - of lack of information.
     * L2: Temperature
     * L3: Maximizing entropy
     * L4: The Boltzmann distribution
