@@ -46,6 +46,7 @@ title: Amazon Web Services
 * AWS Batch
   * [Optimizing your AWS Batch architecture for scale with observability dashboards](https://aws.amazon.com/blogs/hpc/understanding-aws-batch-using-amazon-cloudwatch-events/)
   * [AWS Batch Dos and Don’ts: Best Practices in a Nutshell](https://aws.amazon.com/blogs/hpc/aws-batch-best-practices/)
+  * [Scalable and Cost-Effective Batch Processing for ML workloads with AWS Batch and Amazon FSx](https://aws.amazon.com/blogs/hpc/ml-training-with-aws-batch-and-amazon-fsx/)
 
 * Sagemaker
   * S.S.R. Mengle, M. Gutierrez: [Mastering Machine Learning on AWS](https://www.amazon.com/Mastering-Machine-Learning-AWS-TensorFlow/dp/1789349796) (2019), [github](https://github.com/PacktPublishing/Mastering-Machine-Learning-on-AWS)
