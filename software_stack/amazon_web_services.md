@@ -43,6 +43,9 @@ title: Amazon Web Services
     * Pythoholic: [AWS PrivateLink/VPC Endpoint Service Demo](https://www.youtube.com/watch?v=0bHXWIM4_0o) (2020)
     * AWS re:Invent 2019: [AWS PrivateLink deployments: DNS mechanisms for routing & resiliency (NET321)](https://www.youtube.com/watch?v=abOFqytVqBU)
 
+* AWS Batch
+  * [Optimizing your AWS Batch architecture for scale with observability dashboards](https://aws.amazon.com/blogs/hpc/understanding-aws-batch-using-amazon-cloudwatch-events/)
+
 * Sagemaker
   * S.S.R. Mengle, M. Gutierrez: [Mastering Machine Learning on AWS](https://www.amazon.com/Mastering-Machine-Learning-AWS-TensorFlow/dp/1789349796) (2019), [github](https://github.com/PacktPublishing/Mastering-Machine-Learning-on-AWS)
   * J. Simon, F. Ponchetti: [Learn Amazon SageMaker](https://www.amazon.com/Learn-Amazon-SageMaker-developers-scientists/dp/180020891X) (2020)
