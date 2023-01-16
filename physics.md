@@ -89,6 +89,8 @@ title: Physics
       * Liouville theorem:
         * The volume in phase space of a system does not change in time.
         * If you start with a uniform distribution in the phase space, the distribution remains uniform over time.
+      * 0th law of thermodynamics: if system A is in thermal equilibrium with B, and B with C, then A is in thermal equilibrium with C. But we will define later what thermal equilibrium is.
+      * 1st law of thermodynamics is, essentially, the conservation of energy for a closed system: $$\frac{\mathrm{d}E}{\mathrm{d}t} = 0$$
     * L2: Temperature
     * L3: Maximizing entropy
     * L4: The Boltzmann distribution
