@@ -649,13 +649,12 @@ $$
 
 * If our transition is adiabatic - and entropy is fixed - then the change in internal energy is the work done on the system.
 * If the transition is isocoric, the change in internal energy is the exchange of heat.
-* Integration is reverse of differentiation
+* Integration is reverse of differentiation, so:
 
 $$
 \begin{align*}
-
-
-
+\left(\frac{\partial E}{\partial S} \right)_V &= T \\
+\left(\frac{\partial E}{\partial V} \right)_S &= -P \\
 \end{align*}
 $$
 
