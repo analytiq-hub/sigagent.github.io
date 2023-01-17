@@ -639,7 +639,7 @@ q = \int_s^{s+\Delta s} T(S, ...) \mathrm{d}S = T \Delta S
 $$
 
 * Will characterize system when state changes both volume and entropy
-* We introduce the internal energy:
+* We introduce the _internal energy_:
 
 $$
 \begin{align*}
