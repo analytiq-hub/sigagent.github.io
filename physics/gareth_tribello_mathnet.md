@@ -666,5 +666,5 @@ $$
 \end{align*}
 $$
 
-
+* The change in energy depends only on the first and last point
 
