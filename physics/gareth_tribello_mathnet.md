@@ -732,12 +732,11 @@ $$
 \end{align*}
 $$
 
-* On a non-conserving energy path from $$A$$ to $$B$$, by the Clausius inequality, we get:
+* On a non-conserving energy path from $$A$$ to $$B$$, by the Clausius inequality, we get the 2nd law of thermodynamics:
 
 $$
 \begin{align*}
-- \Delta_{A \rightarrow B} S \lt 0 \\
-
+\Delta_{A \rightarrow B} S \ge \int_A^B \frac{\mathrm{d}q}{T}  \\
 \end{align*}
 $$
 
