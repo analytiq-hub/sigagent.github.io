@@ -658,4 +658,13 @@ $$
 \end{align*}
 $$
 
+* First law of thermodynamics: The internal energy is a function of state.
+
+$$
+\begin{align*}
+\oint \mathrm{d} E = 0
+\end{align*}
+$$
+
+
 
