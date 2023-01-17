@@ -673,4 +673,13 @@ $$
 
 * In the Carnot cycle, $$\Delta E = q_h - q_c - \Delta w = 0$$.
 * All the heat from the hot source is transferred to work and to the cold source. None of the heat is lost.
+* In real engines, this will be not likely the case. Energy is lost in friction, etc.
+* For real engines, we get $$\Delta E = q_h - q_c - \Delta w > 0$$, or
+
+$$
+\begin{align*}
+\frac{\delta w}{q_h} \lt \frac{q_h - q_c}{q_c}
+\end{align*}
+$$
+
 
