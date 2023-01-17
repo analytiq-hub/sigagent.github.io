@@ -619,3 +619,5 @@ $$
 * The state of a one-phase system is characterized by its volume and its entropy.
 
 [The first law of thermodynamics](http://gtribello.github.io/mathNET/first-law-thermodynamics-video.html), [handout](http://gtribello.github.io/mathNET/resources/thermodynamics-notes.pdf)
+
+* Recollection of intensive vs extensive thermodynamic variables.
