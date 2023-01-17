@@ -740,5 +740,7 @@ $$
 \end{align*}
 $$
 
+* For an isolated system, $$\mathrm{d}q = 0$$, and $$\Delta_{A \rightarrow B} S \ge 0$$
+* The entropy of an isolated system increases during a spontaneous change
 
 
