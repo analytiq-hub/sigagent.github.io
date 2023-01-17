@@ -634,7 +634,7 @@ $$
 
 $$
 \begin{align*}
-q = \int_s^{s+\Delta s} T(S, ...) \mathrm{d}S = T \Delta S
+\Delta q = \int_s^{s+\Delta s} T \mathrm{d}S
 \end{align*}
 $$
 
@@ -646,4 +646,17 @@ $$
 \Delta E = \Delta q + \Delta w
 \end{align*}
 $$
+
+* If our transition is adiabatic - and entropy is fixed - then the change in internal energy is the work done on the system.
+* If the transition is isocoric, the change in internal energy is the exchange of heat.
+* Integration is reverse of differentiation
+
+$$
+\begin{align*}
+
+
+
+\end{align*}
+$$
+
 
