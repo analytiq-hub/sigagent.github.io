@@ -690,3 +690,12 @@ $$
 \frac{\Delta w}{q_h} \lt \frac{T_h - T_c}{T_c}
 \end{align*}
 $$
+
+* If the imperfect engine exchanges heat between $$q_h^\prime, q_c^\prime$$, then it needs to have
+
+$$
+\begin{align*}
+\frac{q_h^\prime - q_c^\prime}{q_h^\prime} \lt \frac{T_h - T_c}{T_c}
+\end{align*}
+$$
+
