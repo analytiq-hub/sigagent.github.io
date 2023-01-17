@@ -715,3 +715,14 @@ $$
 \end{align*}
 $$
 
+* Can write it as a path integral around the cycle:
+
+$$
+\begin{align*}
+\oint \frac{\mathrm{d}q}{T} \le 0
+\end{align*}
+$$
+
+* This is the Clausius inequality
+
+
