@@ -669,3 +669,5 @@ $$
 * The change in energy depends only on the first and last point
 * In the Carnot cycle, we already saw that $$q_h - q_c - \Delta w = 0$$. This is another form of the first law of thermodynamics.
 
+[The second law of thermodynamics](http://gtribello.github.io/mathNET/second-law-of-thermodynamics.html)
+
