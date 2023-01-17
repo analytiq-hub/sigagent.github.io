@@ -724,7 +724,7 @@ $$
 $$
 
 * This is the Clausius inequality
-* On a conserving energy path from $$B$$ to $$A$$, we can replace $$\frac{\mathrm{d}q}$$ by $$T\mathrm{d}S$$, and we have:
+* On a conserving energy path from $$B$$ to $$A$$, we can replace $$\mathrm{d}q}$$ by $$T\mathrm{d}S$$, and we have:
 
 $$
 \begin{align*}
