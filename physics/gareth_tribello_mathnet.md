@@ -724,11 +724,22 @@ $$
 $$
 
 * This is the Clausius inequality
-* On a non-conserving energy path from $$A$$ to $$B$$, we get
+* On a conserving energy path from $$B$$ to $$A$$, we can replace $$\frac{\mathrm{d}q}$$ by $$T\mathrm{d}S$$, and we have:
 
 $$
 \begin{align*}
 \int_B^A \frac{\mathrm{d}q}{T} = - int_A^B \mathrm{d}S - \Delta_{A \rightarrow B} S
 \end{align*}
 $$
+
+* On a non-conserving energy path from $$A$$ to $$B$$, by the Clausius inequality, we get:
+
+$$
+\begin{align*}
+- \Delta_{A \rightarrow B} S \lt 0 \\
+
+\end{align*}
+$$
+
+
 
