@@ -630,7 +630,7 @@ $$
 $$
 
 * No heat exchanged in this step. Entropy remains constant.
-* Transfer of heat during isothermal transition:
+* Transfer of heat during isocoric transition, when volume is constant, and only entropy changes:
 
 $$
 \begin{align*}
