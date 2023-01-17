@@ -724,5 +724,11 @@ $$
 $$
 
 * This is the Clausius inequality
+* On a non-conserving energy path from $$A$$ to $$B$$, we get
 
+$$
+\begin{align*}
+\int_B^A \frac{\mathrm{d}q}{T} = - int_A^B \mathrm{d}S - \Delta_{A \rightarrow B} S
+\end{align*}
+$$
 
