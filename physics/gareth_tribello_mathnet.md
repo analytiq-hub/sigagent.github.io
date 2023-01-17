@@ -678,7 +678,7 @@ $$
 
 $$
 \begin{align*}
-\frac{\delta w}{q_h} \lt \frac{q_h - q_c}{q_c}
+\frac{\Delta w}{q_h} \lt \frac{q_h - q_c}{q_c}
 \end{align*}
 $$
 
@@ -687,6 +687,6 @@ $$
 
 $$
 \begin{align*}
-\frac{\delta w}{q_h} \lt \frac{T_h - T_c}{T_c}
+\frac{\Delta w}{q_h} \lt \frac{T_h - T_c}{T_c}
 \end{align*}
 $$
