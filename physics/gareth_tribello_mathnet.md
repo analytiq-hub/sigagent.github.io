@@ -671,3 +671,5 @@ $$
 
 [The second law of thermodynamics](http://gtribello.github.io/mathNET/second-law-of-thermodynamics.html)
 
+* In the Carnot cycle, $$\Delta E = q_h - q_c - \Delta w = 0$$.
+
