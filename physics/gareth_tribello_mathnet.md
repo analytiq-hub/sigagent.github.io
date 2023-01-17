@@ -428,7 +428,7 @@ $$
     * Suppose the volumes of the two phases are fixed throughout, and atoms are not allowed to move between phases.
     * If $$T_1 /gt T_2$$, then how will the system change?
     * Answer: we introduce a new extensive variable: the entropy $$S_1, S_2$$.
-    * Enropy describes how two systems with set number of atoms and volume can come to an equilibrium when temperature changes.
+    * Entropy describes how two systems with set number of atoms and volume can come to an equilibrium when temperature changes.
     * As $$T_1$$ decreases, and $$T_2$$ increases, in order to bring temperature to equality, the entropy $$S_1$$ decreases, and $$S_2$$ increases.
     * You might have heard _bullshit_ in other places that entropy is related to disorder. _Yuck!_ Aside from being wrong, this is an incomprehensible statement.
       * How is it related to disorder? What does that even mean?
@@ -621,3 +621,21 @@ $$
 [The first law of thermodynamics](http://gtribello.github.io/mathNET/first-law-thermodynamics-video.html), [handout](http://gtribello.github.io/mathNET/resources/thermodynamics-notes.pdf)
 
 * Recollection of intensive vs extensive thermodynamic variables.
+* Work done during the adiabatic transition:
+
+$$
+\begin{align*}
+\Delta w = - \int_V^{V+\Delta V} p \mathrm{d}V
+\end{align*}
+$$
+
+* No heat exchanged in this step. Entropy remains constant.
+* Transfer of heat during isothermal transition:
+
+$$
+\begin{align*}
+q = \int_s^{s+\Delta s} T(S, ...) \mathrm{d}S = T \Delta S
+\end{align*}
+$$
+
+
