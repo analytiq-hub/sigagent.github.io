@@ -672,4 +672,5 @@ $$
 [The second law of thermodynamics](http://gtribello.github.io/mathNET/second-law-of-thermodynamics.html)
 
 * In the Carnot cycle, $$\Delta E = q_h - q_c - \Delta w = 0$$.
+* All the heat from the hot source is transferred to work and to the cold source. None of the heat is lost.
 
