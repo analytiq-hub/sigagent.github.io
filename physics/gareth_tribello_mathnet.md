@@ -711,7 +711,7 @@ $$
 
 $$
 \begin{align*}
-\frac{q_h}{T_h} \lt \frac{q_c}{T_c}
+\frac{q_h}{T_h} - \frac{q_c}{T_c} \lt 0
 \end{align*}
 $$
 
