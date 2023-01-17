@@ -682,4 +682,11 @@ $$
 \end{align*}
 $$
 
+* This tells us the Carnot engine is the most efficient engine there is.
+* Sub in the Kelvin definition of temperature.
 
+$$
+\begin{align*}
+\frac{\delta w}{q_h} \lt \frac{T_h - T_c}{T_c}
+\end{align*}
+$$
