@@ -743,4 +743,6 @@ $$
 * For an isolated system, $$\mathrm{d}q = 0$$, and $$\Delta_{A \rightarrow B} S \ge 0$$
 * The entropy of an isolated system increases during a spontaneous change
 
+[Combining the first and second laws of thermodynamics](http://gtribello.github.io/mathNET/combining-the-laws-of-thermodynamics-video.html)
+
 
