@@ -691,11 +691,27 @@ $$
 \end{align*}
 $$
 
-* If the imperfect engine exchanges heat between $$q_h^\prime, q_c^\prime$$, then it needs to have
+* If the imperfect engine exchanges heat between $$q_h^\prime, q_c^\prime$$, between the same temperatures, then it needs to have
 
 $$
 \begin{align*}
 \frac{q_h^\prime - q_c^\prime}{q_h^\prime} \lt \frac{T_h - T_c}{T_c}
+\end{align*}
+$$
+
+* We get rid of primes
+
+$$
+\begin{align*}
+\frac{q_h - q_c}{q_h} \lt \frac{T_h - T_c}{T_c}
+\end{align*}
+$$
+
+* We rephrase:
+
+$$
+\begin{align*}
+\frac{q_h}{T_h} \lt \frac{q_c}{T_c}
 \end{align*}
 $$
 
