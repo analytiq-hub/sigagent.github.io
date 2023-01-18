@@ -800,4 +800,6 @@ $$
   * At equilibrium, we also have $$\mathrm{d}S_2 = -\mathrm{d}S_1$$
   * So $$T_1=T_2$$ at equilibrium
 * If two phases can exchange some quantity, then they must assume a common value for the conjugate intensive quantity
+* This is a consequence of the 1st and 2nd laws of thermodynamics
 * The Gibbs phase rule is a consequence of this equality in the values of intensive variables
+* The minimum energy compatible with a value of entropy is in an equivalent state to when the maximum entropy for a given value of energy.
