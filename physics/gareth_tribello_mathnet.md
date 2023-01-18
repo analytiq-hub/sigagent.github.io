@@ -784,11 +784,14 @@ $$
 * Intensive variables are related to partial derivatives of internal energy with respect to their conjugate extensive thermodynamic variable
 $$
 \begin{align*}
-T &= \left(\frac{\partial E}{\partial S} \right)_V \mathrm{ where V=extensive, P=conjugate intensive} \\
-P &= - \left(\frac{\partial E}{\partial V} \right)_S \mathrm{ where S=extensive, T=conjugate intensive} \\
-\mu &= - \left(\frac{\partial E}{\partial N} \right) \mathrm{ where N=extensive,} \mu \mathrm{=conjugate intensive} \\
-H &= - \left(\frac{\partial E}{\partial M} \right) \mathrm{ where magnetisation  M=extensive, magnetic field strength H=conjugate intensive} \\
+T &= \left(\frac{\partial E}{\partial S} \right)_V \text{ where V=extensive, P=conjugate intensive} \\
+P &= - \left(\frac{\partial E}{\partial V} \right)_S \text{ where S=extensive, T=conjugate intensive} \\
+\mu &= - \left(\frac{\partial E}{\partial N} \right) \text{ where N=extensive,} \mu \text{=conjugate intensive} \\
+H &= - \left(\frac{\partial E}{\partial M} \right) \text{ where magnetisation  M=extensive, magnetic field strength H=conjugate intensive} \\
 \end{align*}
 $$
 
-
+* Why are the values of intensive thermodynamic variables uniform throughout the system at equilibrium?
+  * Assume an isolated system, with two phases, separated by a diathermal wall, that allows heat to be exchanged, but not matter or work.
+  * The volume would not be allowed to change. The entropy would.
+  * If temperature of phase 1 is higher than of phase 2, entropy would be transferred from phase 1 to phase 2.
