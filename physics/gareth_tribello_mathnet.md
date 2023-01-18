@@ -852,3 +852,4 @@ $$
     * We get $$\mathrm{d}E - \mathrm{d}(TS) = \mathrm{d}E - T\mathrm{d}S - S\mathrm{d}T = -P \mathrm{d}V - S \mathrm{d}T$$
   * Define $$F=E-TS$$.
   * We get $$\mathrm{d}F=-P \mathrm{d}V - S \mathrm{d}T$$
+  * We get $$-P = \frac{\partial F}{\partial V}$$ and $$-S = \frac{\partial F}{\partial T}$$
