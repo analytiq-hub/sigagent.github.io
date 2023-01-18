@@ -762,7 +762,7 @@ $$
 \end{align*}
 $$
 
-* The work done by the system when one of the extensive variables changes, and all other extensive variables are constant, is
+* The change in internal energy of the system when one of the extensive variables changes, and all other extensive variables are constant, is
 
 $$
 \begin{align*}
@@ -770,7 +770,23 @@ $$
 \end{align*}
 $$
 
+* Here $$I$$ is an intensive thermodynamic variable, and $$E$$ is an extensive thermodynamic variables.
+* For example, $$I$$ could be the chemical potential $$\mu$$, and $$E$$ could be its conjugate extensive thermodynamic variable, the number of atoms $$N$$.
 
+$$
+\begin{align*}
+\mathrm{d}w = \mu \mathrm{d}N
+\end{align*}
+$$
 
+* We can use the same mathematical description to formulate the effect that the electric and magnetic field have on the system, and so forth.
+* Extensive variables are function of state.
+
+$$
+\begin{align*}
+T &= \left(\frac{\partial E}{\partial S} \right)_V \\
+P &= - \left(\frac{\partial E}{\partial V} \right)_S \\
+\end{align*}
+$$
 
 
