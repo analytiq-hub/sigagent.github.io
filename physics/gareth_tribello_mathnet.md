@@ -800,3 +800,4 @@ $$
   * At equilibrium, we also have $$\mathrm{d}S_2 = -\mathrm{d}S_1$$
   * So $$T_1=T_2$$ at equilibrium
 * If two phases can exchange some quantity, then they must assume a common value for the conjugate intensive quantity
+* The Gibbs phase rule is a consequence of this equality in the values of intensive variables
