@@ -745,4 +745,14 @@ $$
 
 [Combining the first and second laws of thermodynamics](http://gtribello.github.io/mathNET/combining-the-laws-of-thermodynamics-video.html)
 
+* $$\mathrm{d}E = \mathrm{d}w + \mathrm{d}q$$
+* Representing the states in volume and entropy coordinates, we get
+
+$$
+\begin{align*}
+\mathrm{d}E = T \mathrm{d}S - P \mathrm{d}V
+\end{align*}
+$$
+
+
 
