@@ -856,3 +856,5 @@ $$
 * Other termodynamic potentials have similar formal properties
   * Gibbs free energy $$G=H-TS$$
   * Grand potential (constant volume) $$\Omega = F - \mu N$$
+
+[Maxwell relations](http://gtribello.github.io/mathNET/maxwell-relations-video.html)
