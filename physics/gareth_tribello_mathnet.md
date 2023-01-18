@@ -849,4 +849,4 @@ $$
   * We must keep track of this extra energy that would normally be absorbed by the reservoir.
   * We consider the infinitesimal $$\mathrm{d}E - \mathrm{d}(TS)$$.
     * The 2nd term would normally be the heat absorbed by the reservoir as its entropy increases and as the system's entropy decreases.
-    * We get $$\mathrm{d}E - \mathrm{d}(TS) = \mathrm{d}E - T\mathrm{d}S - S\mathrm{d}T = P \mathrm{d}V - S \mathrm{d}T$$
+    * We get $$\mathrm{d}E - \mathrm{d}(TS) = \mathrm{d}E - T\mathrm{d}S - S\mathrm{d}T = -P \mathrm{d}V - S \mathrm{d}T$$
