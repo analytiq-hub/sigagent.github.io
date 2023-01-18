@@ -833,4 +833,4 @@ $$
   * When the system is in contact with an infinite reservoir, expanding the system volume does $$\mathrm{d}(PV)$$ work on the reservoir
   * If the reservoir is infinite, we would lose the effect of this work.
   * To not lose the effect, keep track of changes in energy not as $$\mathrm{d}E$$ but as $$\mathrm{d}E+\mathrm{d}(PV) = \mathrm{d}E+P\mathrm{d}V+V\mathrm{d}P$$
-  * But $$\mathrm{d}E=T\mathrm{d}S-P\mathrm{d}V$$
+  * But $$\mathrm{d}E=T\mathrm{d}S-P\mathrm{d}V$$ so we're keeping track of $$T\mathrm{d}S+V\mathrm{d}P$$
