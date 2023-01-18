@@ -820,6 +820,10 @@ $$
 \end{align*}
 $$
 
+The partial derivatives commute, so:
 
-
-$$\mathrm{d}E = T\mathrm{d}S - P\mathrm{d}V + \mu \mathrm{d} N$$
+$$
+\begin{align*}
+\frac{\partial T}{\partial V} = - \frac{\partial P}{\partial S}
+\end{align*}
+$$
