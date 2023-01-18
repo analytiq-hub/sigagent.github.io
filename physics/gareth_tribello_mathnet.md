@@ -842,3 +842,10 @@ $$
   * We can thus identify $$\frac{\partial H}{\partial S} = T$$ and $$\frac{\partial H}{\partial P}=V$$
 * Helmholtz free energy $$F$$
   * Consider a reservoir whose volume does not change when the system expands/contracts, but which stays at constant temperature so as to assure that it is unaffected when entropy is exchanged between the system and the environment
+  * We assume that the entropy of the reservoir is infinite
+  * Assume heat is exchanged with the reservoir.
+  * Normally, reservoir would absorb $$-T\mathrm{d}S$$ of heat
+  * We will develop a thermodynamic potential which characterizes the amount of work/heat exchanged
+  * We must keep track of this extra energy that would normally be absorbed by the reservoir.
+  * We consider the infinitesimal $$\mathrm{d}E - \mathrm{d}(TS)$$.
+    * The 2nd term would normally be the heat absorbed by the reservoir as its entropy increases and as the system's entropy decreases.
