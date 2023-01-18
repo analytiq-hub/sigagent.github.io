@@ -784,8 +784,8 @@ $$
 
 $$
 \begin{align*}
-T &= \left(\frac{\partial E}{\partial S} \right)_V \\
-P &= - \left(\frac{\partial E}{\partial V} \right)_S \\
+T &= \left(\frac{\partial E}{\partial S} \right)_V \mathrm{ where V=extensive, P=conjugate intensive} \\
+P &= - \left(\frac{\partial E}{\partial V} \right)_S \mathrm{ where S=extensive, T=conjugate intensive} \\
 \end{align*}
 $$
 
