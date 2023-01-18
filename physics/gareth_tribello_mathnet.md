@@ -787,6 +787,7 @@ $$
 T &= \left(\frac{\partial E}{\partial S} \right)_V \mathrm{ where V=extensive, P=conjugate intensive} \\
 P &= - \left(\frac{\partial E}{\partial V} \right)_S \mathrm{ where S=extensive, T=conjugate intensive} \\
 \mu &= - \left(\frac{\partial E}{\partial N} \right) \mathrm{ where N=extensive,} \mu \mathrm{=conjugate intensive} \\
+H &= - \left(\frac{\partial E}{\partial M} \right) \mathrm{ where magnetisation  M=extensive, magnetic field strength H=conjugate intensive} \\
 \end{align*}
 $$
 
