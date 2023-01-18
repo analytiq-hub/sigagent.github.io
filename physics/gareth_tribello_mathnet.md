@@ -795,3 +795,8 @@ $$
   * Assume an isolated system, with two phases, separated by a diathermal wall, that allows heat to be exchanged, but not matter or work.
   * The volume would not be allowed to change. The entropy would.
   * If temperature of phase 1 is higher than of phase 2, entropy would be transferred from phase 1 to phase 2.
+  * The change in total energy is $$\mathrm{d}E = T_1 \mathrm{d}S_1 + T_2 \mathrm{d} S_2$$
+  * The system is isolated, so $$\mathrm{d}E=0$$
+  * At equilibrium, we also have $$\mathrm{d}S_2 = -\mathrm{d}S_1$$
+  * So $$T_1=T_2$$ at equilibrium
+* If two phases can exchange some quantity, then they must assume a common value for the conjugate intensive quantity
