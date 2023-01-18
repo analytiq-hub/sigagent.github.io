@@ -728,7 +728,7 @@ $$
 
 $$
 \begin{align*}
-\int_B^A \frac{\mathrm{d}q}{T} = - int_A^B \mathrm{d}S - \Delta_{A \rightarrow B} S
+\int_B^A \frac{\mathrm{d}q}{T} = - \int_A^B \mathrm{d}S - \Delta_{A \rightarrow B} S
 \end{align*}
 $$
 
