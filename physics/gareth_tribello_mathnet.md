@@ -859,3 +859,6 @@ $$
   * Grand potential (constant volume) $$\Omega = F - \mu N$$
 
 [Maxwell relations](http://gtribello.github.io/mathNET/maxwell-relations-video.html)
+* Repeat of the previous
+
+[Response function in classical thermodynamics](http://gtribello.github.io/mathNET/response-functions-video.html)
