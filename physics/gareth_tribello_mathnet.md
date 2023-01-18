@@ -853,6 +853,7 @@ $$
   * Define $$F=E-TS$$.
   * We get $$\mathrm{d}F=-P \mathrm{d}V - S \mathrm{d}T$$
   * We get $$-P = \frac{\partial F}{\partial V}$$ and $$-S = \frac{\partial F}{\partial T}$$
+    * This finally gives a way to compute the entropy $$S$$
 * Other termodynamic potentials have similar formal properties
   * Gibbs free energy $$G=H-TS$$
   * Grand potential (constant volume) $$\Omega = F - \mu N$$
