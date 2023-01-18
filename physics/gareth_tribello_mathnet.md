@@ -762,6 +762,15 @@ $$
 \end{align*}
 $$
 
+* The work done by the system when one of the extensive variables changes, and all other extensive variables are constant, is
+
+$$
+\begin{align*}
+\mathrm{d}w = I \mathrm{d}E
+\end{align*}
+$$
+
+
 
 
 
