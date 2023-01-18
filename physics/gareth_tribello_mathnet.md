@@ -781,7 +781,7 @@ $$
 
 * We can use the same mathematical description to formulate the effect that the electric and magnetic field have on the system, and so forth.
 * Extensive variables are function of state.
-
+* Intensive variables are related to partial derivatives of internal energy with respect to their conjugate extensive thermodynamic variable
 $$
 \begin{align*}
 T &= \left(\frac{\partial E}{\partial S} \right)_V \mathrm{ where V=extensive, P=conjugate intensive} \\
