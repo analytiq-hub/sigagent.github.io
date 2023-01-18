@@ -803,3 +803,23 @@ $$
 * This is a consequence of the 1st and 2nd laws of thermodynamics
 * The Gibbs phase rule is a consequence of this equality in the values of intensive variables
 * The minimum energy compatible with a value of entropy is in an equivalent state to when the maximum entropy for a given value of energy.
+
+From the handout, actually
+
+$$
+\begin{align*}
+\mathrm{d}E = \frac{\partial E}{\partial S} \mathrm{d}S + \frac{\partial E}{\partial V} \mathrm{d}V + \frac{\partial E}{\partial N} \mathrm{d}N \\
+\end{align*}
+$$
+
+and identifying the partial derivatives with respect to intensive thermodynamic variables with the corresponding conjugate thermodynamic variable:
+
+$$
+\begin{align*}
+\mathrm{d}E = T\mathrm{d}S - P\mathrm{d}V + \mu \mathrm{d}N \\
+\end{align*}
+$$
+
+
+
+$$\mathrm{d}E = T\mathrm{d}S - P\mathrm{d}V + \mu \mathrm{d} N$$
