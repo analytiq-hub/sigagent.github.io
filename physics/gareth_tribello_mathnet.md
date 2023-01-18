@@ -840,3 +840,5 @@ $$
   * The change in ethalpy between two states does not depend on the path taken.
   * We can also write $$\mathrm{d}H = \frac{\partial H}{\partial S} \mathrm{d}S + \frac{\partial H}{\partial P} \mathrm{d}P$$
   * We can thus identify $$\frac{\partial H}{\partial S} = T$$ and $$\frac{\partial H}{\partial P}=V$$
+* Helmholtz free energy $$F$$
+  * Consider a reservoir whose volume does not change when the system expands/contracts, but which stays at constant temperature so as to assure that it is unaffected when entropy is exchanged between the system and the environment
