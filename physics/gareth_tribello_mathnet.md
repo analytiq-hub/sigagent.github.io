@@ -827,3 +827,5 @@ $$
 \frac{\partial T}{\partial V} = - \frac{\partial P}{\partial S}
 \end{align*}
 $$
+
+[Thermodynamic potentials](http://gtribello.github.io/mathNET/reservoirs-and-thermodynamic-potentials-video.html)
