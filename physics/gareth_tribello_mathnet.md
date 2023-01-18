@@ -754,5 +754,14 @@ $$
 \end{align*}
 $$
 
+* This is another way to say that:
+
+$$
+\begin{align*}
+\Delta_{A \rightarrow B}E = \int_S^{S+\Delta_{A \rightarrow B}S} T(S,V) \mathrm{d}S - \int_S^{V+\Delta_{A \rightarrow B}V} P(S,V) \mathrm{d}V
+\end{align*}
+$$
+
+
 
 
