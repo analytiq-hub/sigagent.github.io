@@ -745,7 +745,7 @@ $$
 
 [Combining the first and second laws of thermodynamics](http://gtribello.github.io/mathNET/combining-the-laws-of-thermodynamics-video.html)
 
-* $$\mathrm{d}E = \mathrm{d}w + \mathrm{d}q$$
+* $$\mathrm{d}E = \mathrm{d}\hspace{-0.16em}\bar{}\hspace{0.16em}w + \mathrm{d}\hspace{-0.16em}\bar{}\hspace{0.16em}q$$
 * Representing the states in volume and entropy coordinates, we get
 
 $$
