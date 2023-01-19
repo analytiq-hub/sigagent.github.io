@@ -745,7 +745,8 @@ $$
 
 [Combining the first and second laws of thermodynamics](http://gtribello.github.io/mathNET/combining-the-laws-of-thermodynamics-video.html)
 
-* $$\mathrm{d}E = \mathrm{d}\hspace{-0.16em}\bar{}\hspace{0.16em}w + \mathrm{d}\hspace{-0.16em}\bar{}\hspace{0.16em}q$$
+* $$\mathrm{d}E = \mathrm{d}w + \mathrm{d}q$$
+* Here $$\mathrm{d}w, \mathrm{d}q$$ should be usually denoted with a small bar cut over d to denote the fact that the work $$w$$ and the heat $$q$$ are not function of state. The forms $$\mathrm{d}w, \mathrm{d}q$$ are not exact. The work done on the system $$\int \mathrm{d}w$$ and the heat absorbed $$\int \mathrm{d}q$$ will depend on the path between states.
 * Representing the states in volume and entropy coordinates, we get
 
 $$
