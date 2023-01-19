@@ -809,7 +809,7 @@ From the handout, actually
 
 $$
 \begin{align*}
-\mathrm{d}E = \frac{\partial E}{\partial S} \mathrm{d}S + \frac{\partial E}{\partial V} \mathrm{d}V + \frac{\partial E}{\partial N} \mathrm{d}N \\
+\mathrm{d}E = \frac{\partial E}{\partial S}_{V,N} \mathrm{d}S + \frac{\partial E}{\partial V}_{S,N} \mathrm{d}V + \frac{\partial E}{\partial N}_{V,S} \mathrm{d}N \\
 \end{align*}
 $$
 
@@ -825,7 +825,7 @@ The partial derivatives commute, so:
 
 $$
 \begin{align*}
-\frac{\partial T}{\partial V} = - \frac{\partial P}{\partial S}
+\frac{\partial T}{\partial V}_{S,N} = - \frac{\partial P}{\partial S}_{V,N}
 \end{align*}
 $$
 
