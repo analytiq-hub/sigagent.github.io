@@ -863,3 +863,5 @@ $$
 * Repeat of the previous
 
 [Response function in classical thermodynamics](http://gtribello.github.io/mathNET/response-functions-video.html)
+* Defines response functions
+* Shows from the 1st and 2nd laws of thermodynamics that we can deduce formally other basic physical observations, for example, that heat flows from warmer systems to colder systems.
