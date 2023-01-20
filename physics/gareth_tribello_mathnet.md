@@ -502,6 +502,16 @@ F = - N k_B T \ln \frac{V}{N} + N k_B T \ln V_0 - N
 \end{align*}
 $$
 
+* We get
+
+$$
+\begin{align*}
+F_1 &= - N_1 k_B T \ln \frac{V_1}{N_1} + N_1 k_B T \ln V_0 - N_1 \\
+F_2 &= - N_2 k_B T \ln \frac{V_2}{N_2} + N_2 k_B T \ln V_0 - N_2 \\
+F_{1+2} &= - (N_1+N_2) k_B T \ln \frac{V_1+V_2}{N_1+N2} + (N_1+N_2) k_B T \ln V_0 - N_1 - N_2\\
+\end{align*}
+$$
+
 
 
 [Model Systems IV: Real gases molecular systems](http://gtribello.github.io/mathNET/molecular-gas-video.html)
