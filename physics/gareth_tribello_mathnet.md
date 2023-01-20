@@ -459,6 +459,7 @@ $$
 \begin{align*}
 F_1 = - N_1 k_B T \ln V_1 + N_1 k_B T \ln V_0 \\
 F_2 = - N_2 k_B T \ln V_2 + N_2 k_B T \ln V_0 \\
+F_{1+2} = - (N_1+N_2) k_B T \ln (V_1+V_2) + (N_1+N_2) k_B T \ln V_0 \\
 \end{align*}
 $$
 
