@@ -484,6 +484,15 @@ Z &= \frac{1}{N!} \left[ \frac{V}{h^3} \left( \frac{2m\pi}{\beta}  \right)^{\fra
 \end{align*}
 $$
 
+* Introducing this $$N!$$ does solve the Gibbs paradox
+* The free energy is
+
+$$
+\begin{align*}
+F = k_B T \ln N! - N k_B T \ln V + N k_B T \ln V_0
+\end{align*}
+$$
+
 
 
 
