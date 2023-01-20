@@ -520,6 +520,9 @@ N_1 \ln \left( \frac{V_1+V_2}{N_1+N_2} \frac{N_1}{V_1} \right) + N_2 \ln \left( 
 \end{align*}
 $$
 
+* Let's write the equation of motion for the ideal gas
+* Write $$F = -N k_B T \ln V + N k_B T \ln V_0 + C$$
+* Remeber that pressure $$P = \left( \frac{\partial F}{\partial V} \right)_T$$
 
 
 [Model Systems IV: Real gases molecular systems](http://gtribello.github.io/mathNET/molecular-gas-video.html)
