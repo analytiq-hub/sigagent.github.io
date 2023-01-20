@@ -532,7 +532,7 @@ P = \frac{N k_B T}{V}
 \end{align*}
 $$
 
-
+* This is the equation of state for the ideal gas, $$PV=Nk_BT$$
 
 [Model Systems IV: Real gases molecular systems](http://gtribello.github.io/mathNET/molecular-gas-video.html)
 
