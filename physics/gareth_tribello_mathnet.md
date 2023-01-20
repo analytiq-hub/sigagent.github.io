@@ -390,7 +390,8 @@ $$
 
 * We've seen that expected energy and energy variance can be computed as partial derivatives of the logarithm of the generalized partition function $$\ln Z = \Psi$$
 * For the ideal gas, we have non-interacting, independent particles
-  * There is no interaction between particles
+* There is no interaction between particles
+* $$N$$ particles in a volume $$V$$
 * Each particle is moving, and each particle has a kinetic energy $$m v^2$$
 * Hamiltonian given by
 
