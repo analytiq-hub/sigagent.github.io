@@ -380,6 +380,15 @@ $$
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
 
+* Generalized partition function:
+
+$$
+\begin{align*}
+Z = e^\Psi = \sum_j e^{- \beta H(\bf{x_j},\bf{p_j}) } 
+\end{align*}
+$$
+
+
 [Model Systems IV: Real gases molecular systems](http://gtribello.github.io/mathNET/molecular-gas-video.html)
 
 [The analogy between classical Thermodynamics and Newtonian Mechanics](http://gtribello.github.io/mathNET/thermodymaic-variables-video.html)
