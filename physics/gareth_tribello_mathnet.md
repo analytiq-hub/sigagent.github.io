@@ -406,7 +406,7 @@ $$
 * What microstates do you have for a single particle?
    * The particle can be in any location in the volume
    * We'll have to consider all the directions and speeds that the particles can have
-   * We have continuous quantities - and use integrals
+   * We have continuous quantities - and use integrals. For one atom in a cube with side of length $$L = \sqrt[3]V$$:
 
 $$
 \begin{align*}
