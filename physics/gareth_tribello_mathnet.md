@@ -388,6 +388,18 @@ Z = e^\Psi = \sum_j e^{- \beta H(\bf{x_j},\bf{p_j}) }
 \end{align*}
 $$
 
+* We've seen that expected energy and energy variance can be computed as partial derivatives of the logarithm of the generalized partition function $$\ln Z = \Psi$$
+* For the ideal gas, we have non-interacting, independent particles
+  * There is no interaction between particles
+* Each particle is moving, and each particle has a kinetic energy $$m v^2$$
+* Hamiltonian given by
+
+$$
+\begin{align*}
+H(x, p) = \sum_{i=1}^N \frac{p_{ix}^2}{2m} + \frac{p_{iy}^2}{2m} + \frac{p_{iz}^2}{2m}
+\end{align*}
+$$
+
 
 [Model Systems IV: Real gases molecular systems](http://gtribello.github.io/mathNET/molecular-gas-video.html)
 
