@@ -418,6 +418,38 @@ Z &= \frac{1}{h^3} \int_0^L \mathrm{d}x \int_0^L \mathrm{d}y \int_0^L \mathrm{d}
 \end{align*}
 $$
 
+* $$h$$ here is Planck's constant.
+  * It appears here for reasons that are deeply rooted in quantum mechanics.
+  * Statistical mechanics was developed however before quantum mechanics.
+  * Physicians argued the constant must appear there for the following reasons.
+    * In order to use partition functions, we need to take their logarithm
+    * This means the partition function must be unitless.
+    * But each integral over length introduces a unit of length
+    * Each integral over momentum will introduce a momentum unit of length
+    * We get a unit of length cubed multiplied by momentum cubed
+    * We must therefore divide by a constant of the same unit
+    * It turns that $$h^3$$ has the right unit, although that's not the reason why we use it.
+    * If we argue this classically, we can use any constant with the right unit, for length times momentum.
+* We calculate the partition function for a system of $$N$$ non-interacting atoms. We suspect we'll get:
+
+$$
+\begin{align*}
+Z &= \left[ \frac{V}{h^3} \left( \frac{2m\pi}{\beta}  \right)^{\frac{3}{2}} \right]^N
+\end{align*}
+$$
+
+* Investigating a bit further, compute the free energy:
+
+$$
+\begin{align*}
+F &= - k_B T \ln Z \\
+
+&= - N k_B T \ln \left[ \frac{V}{h^3} \left( \frac{2m\pi}{\beta}  \right)^{\frac{3}{2}} \right]
+\end{align*}
+$$
+
+
+
 
 [Model Systems IV: Real gases molecular systems](http://gtribello.github.io/mathNET/molecular-gas-video.html)
 
