@@ -512,6 +512,14 @@ F_{1+2} &= - (N_1+N_2) k_B T \ln \frac{V_1+V_2}{N_1+N2} + (N_1+N_2) k_B T \ln V_
 \end{align*}
 $$
 
+* And this time we have
+
+$$
+\begin{align*}
+N_1 \ln \left( \frac{V_1+V_2}{V_1} \right) + N_2 \ln \left( \frac{V_1+V_2}{V_2} \right) \gt 0
+\end{align*}
+$$
+
 
 
 [Model Systems IV: Real gases molecular systems](http://gtribello.github.io/mathNET/molecular-gas-video.html)
