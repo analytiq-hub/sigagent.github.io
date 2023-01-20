@@ -516,7 +516,7 @@ $$
 
 $$
 \begin{align*}
-N_1 \ln \left( \frac{(V_1+V_2)N_1}{V_1(N_1+N_2)} \right) + N_2 \ln \left( \frac{(V_1+V_2)N_2}{(N_1+N_2)V_2} \right) = 0
+N_1 \ln \left( \frac{V_1+V_2}{N_1+N_2} \frac{N_1}{V_1} \right) + N_2 \ln \left( \frac{V_1+V_2}{N_1+N_2} \frac{N_2}{V_2} \right) = 0
 \end{align*}
 $$
 
