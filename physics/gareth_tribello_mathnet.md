@@ -317,7 +317,7 @@ $$
 
 * System has $n$ non-interacting particles which can have spin up, spin down states denoted $$+1,-1$$.
 * Total energy: $$E = - \sum_i s_i \mu H$$, where:
-  * $$s_i = +1 \mathrm{ or } -1$$ is the spin state
+  * $$s_i = +1 \text{ or } -1$$ is the spin state
   * $$\mu$$ is the magnetic moment
   * $$H$$ is the magnetic field strength
 * The partition function is
