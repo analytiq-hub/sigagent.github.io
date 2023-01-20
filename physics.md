@@ -94,8 +94,10 @@ title: Physics
     * [L2: Temperature](https://www.youtube.com/watch?v=MCRHXHskWnE&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=2)
       * Temperature really has units of energy
       * States, probability distributions, energy, entropy
-      * Definition of temperature
+      * Definition of temperature as $$\frac{\partial E}{\partial S}$$
+      * 1st law of thermodynamics: $$mathrm{d}E = T \mathrm{d}S$$
     * [L3: Maximizing entropy](https://www.youtube.com/watch?v=EmM1jOV1uSY&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=3)
+      * 
     * L4: The Boltzmann distribution
     * L5: Pressure of an ideal gas and fluctuations
     * L6: Weakly interacting gases, heat, and work
