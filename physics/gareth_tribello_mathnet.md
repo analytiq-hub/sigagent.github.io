@@ -444,7 +444,9 @@ $$
 \begin{align*}
 F &= - k_B T \ln Z \\
 
-&= - N k_B T \ln \left[ \frac{V}{h^3} \left( \frac{2m\pi}{\beta}  \right)^{\frac{3}{2}} \right]
+&= - N k_B T \ln \left[ \frac{V}{h^3} \left( \frac{2m\pi}{\beta}  \right)^{\frac{3}{2}} \right] \\
+
+&= - N k_B T \ln V - N k_B T \ln \left[ \frac{1}{h^3} \left( \frac{2m\pi}{\beta}  \right)^{\frac{3}{2}} \right]
 \end{align*}
 $$
 
