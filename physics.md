@@ -96,8 +96,9 @@ title: Physics
       * States, probability distributions, energy, entropy
       * Definition of temperature as $$\frac{\partial E}{\partial S}$$
       * 1st law of thermodynamics: $$mathrm{d}E = T \mathrm{d}S$$
+      * 2nd law of thermodynamics: the entropy of an isolated system will increase
     * [L3: Maximizing entropy](https://www.youtube.com/watch?v=EmM1jOV1uSY&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=3)
-      * 
+      * 1st law of thermodynamics
     * L4: The Boltzmann distribution
     * L5: Pressure of an ideal gas and fluctuations
     * L6: Weakly interacting gases, heat, and work
