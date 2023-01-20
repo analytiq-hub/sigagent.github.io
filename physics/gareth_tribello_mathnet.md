@@ -300,7 +300,7 @@ $$
 
  &= 
 -\sum_j \left[ H(\bf{x_j},\bf{p_j}) \right]^2  e^{- \beta H(\bf{x_j},\bf{p_j}) - \Psi}
-- \left[ \frac{\partial \Psi}{\partial \beta} \right]^2
++ \left[ \frac{\partial \Psi}{\partial \beta} \right]^2
 \\
 
  &= 
