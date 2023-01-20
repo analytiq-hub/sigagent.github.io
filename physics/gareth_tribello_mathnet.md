@@ -410,7 +410,7 @@ $$
 
 $$
 \begin{align*}
-Z = \frac{1}{h^3} \int_0^L \mathrm{d}x \int_0^L \mathrm{d}y \int_0^L \mathrm{d}z \int_{-\infty}^\infty \int_{-\infty}^\infty \int_{-\infty}^\infty \mathrm{d}p_x \mathrm{d}p_y \mathrm{d}p_z e^{-\beta \left[ \frac(p_x^2){2m} + \frac(p_y^2){2m} + \frac(p_z^2){2m} \right]}
+Z = \frac{1}{h^3} \int_0^L \mathrm{d}x \int_0^L \mathrm{d}y \int_0^L \mathrm{d}z \int_{-\infty}^\infty \int_{-\infty}^\infty \int_{-\infty}^\infty \mathrm{d}p_x \mathrm{d}p_y \mathrm{d}p_z e^{-\beta \left[ \frac{p_x^2}{2m} + \frac{p_y^2}{2m} + \frac{p_z^2}{2m} \right]}
 \end{align*}
 $$
 
