@@ -401,6 +401,19 @@ H(x, p) = \sum_{i=1}^N \frac{p_{ix}^2}{2m} + \frac{p_{iy}^2}{2m} + \frac{p_{iz}^
 \end{align*}
 $$
 
+* We start by calculating the partition function for a system of a single atom.
+* Since particles are independent, the partition function of $$N$$ particles will be the partition function of a single particle, raised to the power $$N$$
+* What microstates do you have for a single particle?
+   * The particle can be in any location in the volume
+   * We'll have to consider all the directions and speeds that the particles can have
+   * We have continuous quantities - and use integrals
+
+$$
+\begin{align*}
+Z = \frac{1}{h^3} \int_0^L \mathrm{d}x \int_0^L \mathrm{d}y \int_0^L \mathrm{d}z \int_{-\infty}^\infty \int_{-\infty}^\infty \int_{-\infty}^\infty \mathrm{d}p_x \mathrm{d}p_y \mathrm{d}p_z e^{-\beta \left[ \frac(p_x^2){2m} + \frac(p_y^2){2m} + \frac(p_z^2){2m} \right]}
+\end{align*}
+$$
+
 
 [Model Systems IV: Real gases molecular systems](http://gtribello.github.io/mathNET/molecular-gas-video.html)
 
