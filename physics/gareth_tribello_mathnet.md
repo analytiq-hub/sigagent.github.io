@@ -450,7 +450,7 @@ F &= - k_B T \ln Z \\
 \end{align*}
 $$
 
-
+We can set $$\left( \frac{2m\pi}{\beta}  \right)^{\frac{3}{2}} \right] = \frac{1}{V_0}$$ as a constant, where $$V_0$$ has the unit of volume. Thus, if another constant than $$h$$ was picked, it would have disappeared here.
 
 
 [Model Systems IV: Real gases molecular systems](http://gtribello.github.io/mathNET/molecular-gas-video.html)
