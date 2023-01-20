@@ -463,13 +463,27 @@ F_{1+2} = - (N_1+N_2) k_B T \ln (V_1+V_2) + (N_1+N_2) k_B T \ln V_0 \\
 \end{align*}
 $$
 
-We should have
+We have
 
 $$
 \begin{align*}
-N_1 \ln \left( \frac{V_1+V_2}{V_1} \right) + N_2 \ln \left( \frac{V_1+V_2}{V_2} \right) = 0
+N_1 \ln \left( \frac{V_1+V_2}{V_1} \right) + N_2 \ln \left( \frac{V_1+V_2}{V_2} \right) \gt 0
 \end{align*}
 $$
+
+* Contradiction! This is the Gibbs paradox. The resolution of this problem is still actively researched, and is part of quantum mechanics.
+
+* When we looked at the particles position and momentum $$\{ x_1, p_1\}, \{ x_2, p_2\}, \text{ ... }, \{ x_N, p_N\}$$, we can swap the labels for index 1 and 2.
+* Every way of ordering the particles is equivalent.
+* We have $$N!$$ ways to order the particles.
+* The final partition function is thus given by
+
+$$
+\begin{align*}
+Z &= \frac{1}{N!} \left[ \frac{V}{h^3} \left( \frac{2m\pi}{\beta}  \right)^{\frac{3}{2}} \right]^N
+\end{align*}
+$$
+
 
 
 
