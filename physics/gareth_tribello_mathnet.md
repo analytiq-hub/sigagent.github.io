@@ -512,7 +512,7 @@ F_{1+2} &= - (N_1+N_2) k_B T \ln \frac{V_1+V_2}{N_1+N2} + (N_1+N_2) k_B T \ln V_
 \end{align*}
 $$
 
-* And this time we have
+* And this time we have, when the number of particles is proportional to the volume for the two partitions:
 
 $$
 \begin{align*}
