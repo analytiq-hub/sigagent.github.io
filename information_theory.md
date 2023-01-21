@@ -13,6 +13,9 @@ title: Information Theory
   * 10-704: [Information Processing and Learning](https://www.cs.cmu.edu/~aarti/Class/10704/) (Spring 2012)
 * MacKay: [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/)
 
+#### Posts
+* [Lil'Log](https://lilianweng.github.io): [Anatomize Deep Learning with Information Theory](https://lilianweng.github.io/posts/2017-09-28-information-bottleneck/) (2017)
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cloud Data Platform](cloud_data_platform.md)
