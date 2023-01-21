@@ -294,7 +294,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * Sebastian Raschka: [L19.5.1 The Transformer Architecture](https://www.youtube.com/watch?v=tstbZXNCfLY)
 * Towards Data Science: [How to code The Transformer in Pytorch](https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec), by S. Lynn-Evans (2018)
 * Lucas Beyer: [Transformers](https://www.youtube.com/watch?v=UpfcyzoZ644), Mediterranean ML Summer School 2022 seminar
-* Lil'Log: [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/) (2023)
+* [Lil'Log](https://lilianweng.github.io): [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/) (2023)
 * Papers
   * J. von Oswald et al: [Transformers learn in-context by gradient descent](https://arxiv.org/pdf/2212.07677.pdf) (2022)
   * R. Pope et al: [Efficiently scaling transformer inference](https://arxiv.org/pdf/2211.05102.pdf) (2022)
@@ -351,6 +351,9 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * R. Ghugare et al: [Simplifying Model-based RL: Learning Representations, Latent-space Models, and Policies with One Objective](https://arxiv.org/abs/2209.08466) (2022), [talk](https://www.youtube.com/watch?v=pgaULpPhzus), [code](https://alignedlatentmodels.github.io)
 * J. Tenenbaum et al: [3DP3: 3D Scene Perception via Probabilistic Programming](https://arxiv.org/pdf/2111.00312.pdf) (2021)
 * [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/pdf/2207.08815.pdf), Léo Grinsztajn et al (2022)
+
+#### Large Model Training
+* [Lil'Log](https://lilianweng.github.io): [How to Train Really Large Models on Many GPUs?](https://lilianweng.github.io/posts/2021-09-25-train-large/) (2021)
 
 #### Posts
 * [Colah's blog](http://colah.github.io/)
