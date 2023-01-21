@@ -95,6 +95,7 @@ title: Physics
       * In the 1st law of thermodynamics $$\mathrm{d}E = T \mathrm{d}S$$, if we switch units for $$T$$ and $$S$$ and use the classic thermodynamic definition of temperature and entropy, the 1st law of thermodynamics still holds.
     * [L2: Temperature](https://www.youtube.com/watch?v=MCRHXHskWnE&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=2)
       * Temperature really has units of energy
+      * Entropy is unitless
       * States, probability distributions, energy, entropy
       * Definition of temperature as $$T = \frac{\partial E}{\partial S}$$
       * 1st law of thermodynamics: $$\mathrm{d}E = T \mathrm{d}S$$
