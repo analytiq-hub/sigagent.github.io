@@ -24,8 +24,8 @@ title: Physics
 * [Statistical mechanics - a set of lectures](https://www.amazon.com/Statistical-Mechanics-Lectures-Frontiers-Physics/dp/0201360764), R. Feynman (1981)
 * Gareth Tribello [MathsNet](http://gtribello.github.io/mathNET/)
   * Andrei's notes:
-    * [MathNet - Classical Thermodynamics](gareth_tribello_mathnet_classical_thermodynamics.md)
-    * [ MathNet - Statistical Mechanics](gareth_tribello_mathnet_statistical_mechanics.md)
+    * [MathNet - Classical Thermodynamics](physics/gareth_tribello_mathnet_classical_thermodynamics.md)
+    * [MathNet - Statistical Mechanics](physics/gareth_tribello_mathnet_statistical_mechanics.md)
 * Arieh Ben-Naim: [Farewell To Entropy, A: Statistical Thermodynamics Based On Information](https://www.amazon.com/Farewell-Entropy-Statistical-Thermodynamics-Information/dp/9812707077) (2008)
 
 #### Ising Model
