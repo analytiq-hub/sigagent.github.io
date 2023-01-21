@@ -16,6 +16,9 @@ title: Information Theory
 #### Posts
 * [Lil'Log](https://lilianweng.github.io): [Anatomize Deep Learning with Information Theory](https://lilianweng.github.io/posts/2017-09-28-information-bottleneck/) (2017)
 
+#### Papers
+* Peter Grunwald, Paul Vitany: [Shannon Information and Kolmogorov Complexity](https://homepages.cwi.nl/~paulv/papers/info.pdf) (2010)
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cloud Data Platform](cloud_data_platform.md)
