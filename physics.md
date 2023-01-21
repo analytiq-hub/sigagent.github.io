@@ -96,6 +96,7 @@ title: Physics
     * [L2: Temperature](https://www.youtube.com/watch?v=MCRHXHskWnE&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=2)
       * Temperature really has units of energy
       * Entropy is unitless
+        * Any physical property that is defined in terms of logarithms, usually, should be expected to be unitless.
       * States, probability distributions, energy, entropy
       * Definition of temperature as $$T = \frac{\partial E}{\partial S}$$
       * 1st law of thermodynamics: $$\mathrm{d}E = T \mathrm{d}S$$
