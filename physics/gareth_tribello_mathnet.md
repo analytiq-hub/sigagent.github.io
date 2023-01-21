@@ -535,6 +535,22 @@ $$
 * This is the equation of state for the ideal gas, $$PV=Nk_BT$$
 
 [Model Systems IV: Real gases molecular systems](http://gtribello.github.io/mathNET/molecular-gas-video.html)
+* For the ideal gas, the Hamiltonian was:
+
+$$
+\begin{align*}
+H(x, p) = \sum_{i=1}^N \frac{p_{ix}^2}{2m} + \frac{p_{iy}^2}{2m} + \frac{p_{iz}^2}{2m}
+\end{align*}
+$$
+
+* The partition function was calculated as:
+
+$$
+\begin{align*}
+Z &= \frac{1}{N!} \left[ \frac{V}{h^3} \left( \frac{2m\pi}{\beta}  \right)^{\frac{3}{2}} \right]^N
+\end{align*}
+$$
+
 
 [The cluster expansion: including interactions in models for gasses](https://www.youtube.com/watch?v=O8EafwqqXsQ)
 
