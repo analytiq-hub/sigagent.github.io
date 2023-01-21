@@ -294,6 +294,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * Sebastian Raschka: [L19.5.1 The Transformer Architecture](https://www.youtube.com/watch?v=tstbZXNCfLY)
 * Towards Data Science: [How to code The Transformer in Pytorch](https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec), by S. Lynn-Evans (2018)
 * Lucas Beyer: [Transformers](https://www.youtube.com/watch?v=UpfcyzoZ644), Mediterranean ML Summer School 2022 seminar
+* Lil'Log: [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/) (2023)
 * Papers
   * J. von Oswald et al: [Transformers learn in-context by gradient descent](https://arxiv.org/pdf/2212.07677.pdf) (2022)
 
