@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: Gareth Tribello - MathNet
+title: Gareth Tribello - MathNet - Statistical Mechanics
 ---
 Notes on [MathNet](http://gtribello.github.io/mathNET)
 
