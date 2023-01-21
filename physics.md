@@ -95,8 +95,9 @@ title: Physics
       * Temperature really has units of energy
       * States, probability distributions, energy, entropy
       * Definition of temperature as $$\frac{\partial E}{\partial S}$$
-      * 1st law of thermodynamics: $$mathrm{d}E = T \mathrm{d}S$$
+      * 1st law of thermodynamics: $$\mathrm{d}E = T \mathrm{d}S$$
       * 2nd law of thermodynamics: the entropy of an isolated system will increase
+      * The two laws of thermodynamics imply that temperature equalizes in a system that comes to thermodynamic equilibrium
     * [L3: Maximizing entropy](https://www.youtube.com/watch?v=EmM1jOV1uSY&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=3)
       * 1st law of thermodynamics
     * L4: The Boltzmann distribution
