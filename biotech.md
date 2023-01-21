@@ -14,6 +14,9 @@ title: Biotech
 * [Biostars](https://www.biostars.org/)
 * [Neurostars](https://neurostars.org/)
 
+#### Papers
+* Yuri Lazebnick: [Can a biologist fix a radio?— Or, what I learned while studying apoptosis](https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf) (2002)
+
 #### Interviews
 * Lex Fridman Podcast #325: [Michael Levin: Biology, Life, Aliens, Evolution, Embryogenesis & Xenobots](https://www.youtube.com/watch?v=p3lsYlod5OU) (2022)
 
