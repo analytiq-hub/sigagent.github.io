@@ -555,5 +555,12 @@ Z &= \frac{1}{N!} \left[ \frac{V}{h^3} \left( \frac{2m\pi}{\beta}  \right)^{\fra
 \end{align*}
 $$
 
+* We showed, taking suitable partial derivatives of this equation, that we could recover the state equation for ideal gas, that had been discovered through experimentation:
+
+$$
+\begin{align*}
+P = \frac{N k_B T}{V}
+\end{align*}
+$$
 
 [The cluster expansion: including interactions in models for gasses](https://www.youtube.com/watch?v=O8EafwqqXsQ)
