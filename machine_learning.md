@@ -328,6 +328,10 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
   * S. Wang et al: [Entailment as Few-Shot Learner](https://arxiv.org/pdf/2104.14690.pdf?fbclid=IwAR2ImbTwKdt1thb0pfGVYxQ0D9EgjotlhfOVBeDNyt6Gnn8j7TNwHVve1FA) (2021)
 * Facebook: [How AI is getting better at detecting hate speech](https://ai.facebook.com/blog/how-ai-is-getting-better-at-detecting-hate-speech/) (2020)
 
+#### Large Model Training
+* [Lil'Log](https://lilianweng.github.io): [How to Train Really Large Models on Many GPUs?](https://lilianweng.github.io/posts/2021-09-25-train-large/) (2021)
+* Lilian Weng, Greg Brockman: [Techniques for Training Large Neural Networks](https://openai.com/blog/techniques-for-training-large-neural-networks/) (2022)
+
 #### Articles
 * [How neural networks learn from experience](http://www.cs.toronto.edu/~hinton/absps/sciam92.pdf), G. Hinton (1992)
 * [Neural networks and physical systems with emergent collective computational abilities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC346238/pdf/pnas00447-0135.pdf), J. J. Hopfield (1982)
@@ -351,10 +355,6 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * R. Ghugare et al: [Simplifying Model-based RL: Learning Representations, Latent-space Models, and Policies with One Objective](https://arxiv.org/abs/2209.08466) (2022), [talk](https://www.youtube.com/watch?v=pgaULpPhzus), [code](https://alignedlatentmodels.github.io)
 * J. Tenenbaum et al: [3DP3: 3D Scene Perception via Probabilistic Programming](https://arxiv.org/pdf/2111.00312.pdf) (2021)
 * [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/pdf/2207.08815.pdf), Léo Grinsztajn et al (2022)
-
-#### Large Model Training
-* [Lil'Log](https://lilianweng.github.io): [How to Train Really Large Models on Many GPUs?](https://lilianweng.github.io/posts/2021-09-25-train-large/) (2021)
-* Lilian Weng, Greg Brockman: [Techniques for Training Large Neural Networks](https://openai.com/blog/techniques-for-training-large-neural-networks/) (2022)
 
 #### Posts
 * [Colah's blog](http://colah.github.io/)
