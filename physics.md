@@ -91,10 +91,12 @@ title: Physics
         * If you start with a uniform distribution in the phase space, the distribution remains uniform over time.
       * 0th law of thermodynamics: if system A is in thermal equilibrium with B, and B with C, then A is in thermal equilibrium with C. But we will define later what thermal equilibrium is.
       * 1st law of thermodynamics is, essentially, the conservation of energy for a closed system: $$\frac{\mathrm{d}E}{\mathrm{d}t} = 0$$
+      * In this course, $$T$$ is $$k_Bt$$, for the classic Kelvin temperature $$t$$, and entropy $$S$ is defined probabilistically as $$S=\int p \log_2 p$$, which is $$k_B$$ times classic thermodynamic entropy.
+      * In the 1st law of thermodynamics $$\mathrm{d}E = T \mathrm{d}S$$, if we switch units for $$T$$ and $$S$$ and use the classic thermodynamic definition of temperature and entropy, the 1st law of thermodynamics still holds.
     * [L2: Temperature](https://www.youtube.com/watch?v=MCRHXHskWnE&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=2)
       * Temperature really has units of energy
       * States, probability distributions, energy, entropy
-      * Definition of temperature as $$\frac{\partial E}{\partial S}$$
+      * Definition of temperature as $$T = \frac{\partial E}{\partial S}$$
       * 1st law of thermodynamics: $$\mathrm{d}E = T \mathrm{d}S$$
       * 2nd law of thermodynamics: the entropy of an isolated system will increase
       * The two laws of thermodynamics imply that temperature equalizes in a system that comes to thermodynamic equilibrium
