@@ -226,6 +226,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * Huggingface: [Stable Diffusion 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 * OpenAI's A. Nichols et al: [Point·E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/pdf/2212.08751.pdf) (2022)
 * [Lil'Log](https://lilianweng.github.io): [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) (2021)
+* M. Welling, Y.W. Teh: [Bayesian Learning via Stochastic Gradient Langevin Dynamics](https://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf) (2011)
 
 #### Text to image
 * Yannic Kilcher: [OpenAI CLIP: ConnectingText and Images (Paper Explained)](https://www.youtube.com/watch?v=T9XSU0pKX2E) (2022)
