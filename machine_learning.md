@@ -354,6 +354,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 
 #### Large Model Training
 * [Lil'Log](https://lilianweng.github.io): [How to Train Really Large Models on Many GPUs?](https://lilianweng.github.io/posts/2021-09-25-train-large/) (2021)
+* Lilian Weng, Greg Brockman: [Techniques for Training Large Neural Networks](https://openai.com/blog/techniques-for-training-large-neural-networks/) (2022)
 
 #### Posts
 * [Colah's blog](http://colah.github.io/)
