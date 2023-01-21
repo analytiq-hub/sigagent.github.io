@@ -563,4 +563,6 @@ P = \frac{N k_B T}{V}
 \end{align*}
 $$
 
+* Using $$E = - \frac{\partial \ln Z}{\partial \beta}$$, we got $$E = \frac{3}{2} N k_B T$$
+
 [The cluster expansion: including interactions in models for gasses](https://www.youtube.com/watch?v=O8EafwqqXsQ)
