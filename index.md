@@ -51,6 +51,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Algebraic Geometry](math/algebraic_geometry.md)
   * [Analysis](math/analysis.md)
   * [Automated Theorem Proving](math/automated_theorem_proving.md)
+  * [Biographies](math/biographies.md)
   * [Engineering Math](math/engineering_math.md)
   * [Linear Algebra](math/linear_algebra.md)
   * [High School Problems](math/high_school.md)
