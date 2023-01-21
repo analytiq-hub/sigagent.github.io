@@ -6,8 +6,8 @@ title: Gareth Tribello - MathNet - Classical Thermodynamics
 Notes on [MathNet](http://gtribello.github.io/mathNET)
 
 This is a multi-part post:
-* [Gareth Tribello - MathNet - Classical Thermodynamics](gareth_tribello_mathnet_classical_thermodynamics.md)
-* [Gareth Tribello - MathNet - Statistical Mechanics](gareth_tribello_mathnet_statistical_mechanics.md)
+* [MathNet - Classical Thermodynamics](gareth_tribello_mathnet_classical_thermodynamics.md)
+* [MathNet - Statistical Mechanics](gareth_tribello_mathnet_statistical_mechanics.md)
 
 [The analogy between classical Thermodynamics and Newtonian Mechanics](http://gtribello.github.io/mathNET/thermodymaic-variables-video.html)
 * In absence of external stimulus, volume, temperature, and number of atoms don't change. These are called _thermodynamic variables_, and are of two types:

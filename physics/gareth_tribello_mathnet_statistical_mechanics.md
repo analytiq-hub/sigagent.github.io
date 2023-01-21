@@ -6,8 +6,8 @@ title: Gareth Tribello - MathNet
 Notes on [MathNet](http://gtribello.github.io/mathNET)
 
 This is a multi-part post:
-* [Gareth Tribello - MathNet - Classical Thermodynamics](gareth_tribello_mathnet_classical_thermodynamics.md)
-* [Gareth Tribello - MathNet - Statistical Mechanics](gareth_tribello_mathnet_statistical_mechanics.md)
+* [MathNet - Classical Thermodynamics](gareth_tribello_mathnet_classical_thermodynamics.md)
+* [MathNet - Statistical Mechanics](gareth_tribello_mathnet_statistical_mechanics.md)
 
 [An introduction to statistical mechanics and the principle of equal a priori probabilities](https://www.youtube.com/watch?v=0LdL1LUrE0I)
 * Ludwig Boltzmann's principle of apriori probabilities, shortened, and in modern formulation:
