@@ -297,6 +297,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * Lil'Log: [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/) (2023)
 * Papers
   * J. von Oswald et al: [Transformers learn in-context by gradient descent](https://arxiv.org/pdf/2212.07677.pdf) (2022)
+  * R. Pope et al: [Efficiently scaling transformer inference](https://arxiv.org/pdf/2211.05102.pdf) (2022)
 
 #### Language Models
 * [Self-supervised learning: The dark matter of intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) (2021)
