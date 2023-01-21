@@ -454,7 +454,7 @@ F &= - k_B T \ln Z \\
 \end{align*}
 $$
 
-* We can set $$\left( \frac{2m\pi}{\beta}  \right)^{\frac{3}{2}} \right) = \frac{1}{V_0}$$ as a constant, where $$V_0$$ has the unit of volume. Thus, if another constant than $$h$$ was picked, it would have disappeared here.
+* We can set $$\left( \frac{2m\pi}{\beta}  \right)^{\frac{3}{2}} = \frac{1}{V_0}$$ as a constant, where $$V_0$$ has the unit of volume. Thus, if another constant than $$h$$ was picked, it would have disappeared here.
 * This expression is the difference between the free energy of a volume $$V$$, and the free energy of a reference state. If we change the $$h$$ constant, we just change the reference state.
 * Let's use this expression for a thought experiment.
 * Suppose that a chamber is divided in two, with number of atoms and volume $$N_1, V_1$$ and $$N_2, V_2$$, and we compute the free energy of each part. The free energy should be additive:
