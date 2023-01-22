@@ -746,3 +746,16 @@ Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
 \int f_{ij} \mathrm{d}x_1\mathrm{d}y_1\mathrm{d}z_1 \mathrm{d}x_{2}\mathrm{d}y_{2}\mathrm{d}z_{2}\right]}} \\
 \end{align*}
 $$
+
+* Employ coordinate transforms. Integrate over the position of the center of mass, and over three coordinates, $$x_1,y_1,z_1$$ that describe the position of one of the two atoms relative to the center of mass.
+* The position of the center of mass will not affect $$f_{12}$$, which is a function of the vector between the two atoms.
+* We can separate the integral over the positions of the center of mass. That integral has value $$V$$. We get
+
+$$
+\begin{align*}
+Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
+{\color{red}{\left[ \frac{2\pi m}{\beta}\ \right]^{\frac{3N}{2}}}}
+{\color{green}{\left[V^{N} + \frac{N(N-1)}{2}V^{N-1}
+\int f_{ij} \mathrm{d}x_1\mathrm{d}y_1\mathrm{d}z_1 \mathrm{d}x_{12}\mathrm{d}y_{12}\mathrm{d}z_{12}\right]}} \\
+\end{align*}
+$$
