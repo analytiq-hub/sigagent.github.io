@@ -736,3 +736,13 @@ Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
 \end{align*}
 $$
 
+* $$f_{ij$$ is identical for each pair of atoms, so
+
+$$
+\begin{align*}
+Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
+{\color{red}{\left[ \frac{2\pi m}{\beta}\ \right]^{\frac{3N}{2}}}}
+{\color{green}{\left[V^{N} + \frac{N(N-1)}{2}V^{N-2}
+\int f_{ij} \mathrm{d}x_1\mathrm{d}y_1\mathrm{d}z_1 \mathrm{d}x_{2}\mathrm{d}y_{2}\mathrm{d}z_{2}\right]}} \\
+\end{align*}
+$$
