@@ -871,3 +871,28 @@ F &\approx F_{ideal} - k_B T \frac{N^2}{2V} \left( -A + \beta B \right)
 $$
 
 * This is called the Free Energy of the van der Waals gas.
+* We can use the expression of the Free Energy to calculate the equation of state.
+* Recalling the form we computed of the Free Energy for the ideal gas, we can write:
+
+$$
+\begin{align*}
+F &= F_{ideal} - k_B T \frac{N^2}{2V} \left( -A + \beta B \right)  \\
+
+&= N k_B T \ln V - k_B T \frac{N^2}{2V} \left( -A + \beta B \right) + C \text{, for a constant C} \\
+\end{align*}
+$$
+
+To get the equation of state, we need to take $$P = - \frac{\partial F}{\partial V}$$. We get
+
+$$
+\begin{align*}
+F &= F_{ideal} - k_B T \frac{N^2}{2V} \left( -A + \beta B \right)  \\
+
+&= N k_B T \ln V - k_B T \frac{N^2}{2V} \left( -A + \beta B \right) + C \text{, for a constant C} \\
+
+P &= \frac{N k_B T}{V} - k_B T \frac{N^2}{2V^2} \left( -A + \beta B \right) \text{, which can be rewritten, up to a change in B:} \\
+
+&= N k_B\frac{T}{V} + \frac{k_B T N^2 A}{2V^2} -  \left(\frac{N}{V}\right)^2 \frac{B}{2}
+\end{align*}
+$$
+
