@@ -563,6 +563,7 @@ P = \frac{N k_B T}{V}
 \end{align*}
 $$
 
-* Using $$E = - \frac{\partial \ln Z}{\partial \beta}$$, we got $$E = \frac{3}{2} N k_B T$$
+* Using the formula for the average energy $$E = - \frac{\partial \ln Z}{\partial \beta}$$, we got $$E = \frac{3}{2} N k_B T$$
+* Using the formula for the heat capacity $$C_v = \left( \frac{\partial E}{\partial T} \right)_V$$, we got $$C_v = \frac{3}{2} N k_B$$
 
 [The cluster expansion: including interactions in models for gasses](https://www.youtube.com/watch?v=O8EafwqqXsQ)
