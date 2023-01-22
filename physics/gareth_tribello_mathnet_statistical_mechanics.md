@@ -798,7 +798,9 @@ $$
 * To compute it, we ask how does the energy of a pair of atoms change when the two atoms are moved apart?
 * From electrostartics, when they are far apart, they don't interact.
 * Simplest model is the _hard spheres_ model.
-  * $$V(r_12) = 0$$ for $$a+\sigma \le r_{12}$$
-  * $$V(r_12) = -\epsilon$$ for $$a \le r_{12} \lt a+\sigma$$
-  * $$V(r_12) = +\infty$$ for $$r_{12} \le a$$
+  * $$V(r_{12}) = 0$$ for $$a+\sigma \le r_{12}$$
+  * $$V(r_{12}) = -\epsilon$$ for $$a \le r_{12} \lt a+\sigma$$
+  * $$V(r_{12}) = +\infty$$ for $$r_{12} \le a$$
   * It's called the _hard spheres_ model because essentially it assumes that each atom is a ball of radius $$a$$.
+    * These balls are hard and can't interact. That's why $$V(r_{12})$$ shoots to infinity when $$r_{12} \le a$$
+    * These balls are sticky and interact when $$r_{12} \lt a+\sigma$$
