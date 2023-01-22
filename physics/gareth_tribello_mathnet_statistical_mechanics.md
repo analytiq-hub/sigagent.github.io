@@ -846,9 +846,27 @@ Z &\approx \frac{1}{N!} \left[ \frac{V}{h^{3}} \left( \frac{2\pi m}{\beta} \righ
 
 &= \frac{1}{N!}\left[ \frac{V}{h^{3}} \left( \frac{2\pi m}{\beta} \right)^\frac{3}{2} \right]^N
 
-\left[ 1 + \frac{N^2}{2V} \left( A + \beta B \right) \right]
+\left[ 1 + \frac{N^2}{2V} \left( -A + \beta B \right) \right]
 \end{align*}
 $$
 
 * Andrei: Not clear why we divide by 2 instead of multiplying. Looks like that factor is folded into $$A$$ and $$B$$
 * The last term starting with $$\frac{N^2}{2V}$$ is the interaction factor. We will pick linear coefficients $$A$$ and $$B$$ rather than write the longer-form coefficients $$a$$, $$\sigma$$.
+* We recall that we can obtain the Free Energy function from the partition function, using $$F = -k_b T \ln Z$$. Substituting in our formula for the partition function:
+
+$$
+\begin{align*}
+F &\approx - k_B T \ln \left[ \frac{1}{N!}\left[ \frac{V}{h^{3}} \left( \frac{2\pi m}{\beta} \right)^\frac{3}{2} \right]^N
+
+\left[ 1 + \frac{N^2}{2V} \left( -A + \beta B \right) \right] \right] \\
+
+&= - k_B T \ln \left[ \frac{1}{N!}\left[ \frac{V}{h^{3}} \left( \frac{2\pi m}{\beta} \right)^\frac{3}{2} \right]^N \right] 
+
+- k_B T \ln  \left[ 1 + \frac{N^2}{2V} \left( -A + \beta B \right) \right] \\
+
+&\approx F_{ideal} - k_B T \ln  \left[ 1 + \frac{N^2}{2V} \left( -A + \beta B \right) \right] \text{, and since ln(1+x) is approx X:} \\
+
+F &\approx F_{ideal} - k_B T \frac{N^2}{2V} \left( -A + \beta B \right)
+\end{align*}
+$$
+
