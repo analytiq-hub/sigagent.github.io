@@ -651,8 +651,9 @@ $$
 
 $$
 \begin{align*}
-Z&=\frac{1}{h^{3N}}\prod_{i=1}^N \int e^{- \beta \frac{p_{i}^2}{2m}} \mathrm{d}p_i
-\int e^{-\beta {\sum_{i=2}^N\sum_{j=1}^{i-1} V(r_{ij})}} \mathrm{d}x_1... \mathrm{d}x_{3N}
+Z&=\frac{1}{h^{3N}}
+{\color{red}{\prod_{i=1}^N \int e^{- \beta \frac{p_{i}^2}{2m}} \mathrm{d}p_i}}
+{\color{blue}{\int e^{-\beta {\sum_{i=2}^N\sum_{j=1}^{i-1} V(r_{ij})}} \mathrm{d}x_1... \mathrm{d}x_{3N}}}
 \end{align*}
 $$
 
