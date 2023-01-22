@@ -790,17 +790,49 @@ $$
 Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
 {\color{red}{\left[ \frac{2\pi m}{\beta}\ \right]^{\frac{3N}{2}}}}
 {\color{green}{\left[V^{N} + 2 \pi N^2V^{N-2}
-\int f_{ij} r^2 \sin \theta \mathrm{d}r\right]}} \\
+\int f_{ij} r^2 \mathrm{d}r\right]}} \\
 \end{align*}
 $$
 
 * Now we have a much more tractable integral.
 * To compute it, we ask how does the energy of a pair of atoms change when the two atoms are moved apart?
 * From electrostartics, when they are far apart, they don't interact.
-* Simplest model is the _hard spheres_ model.
-  * $$V(r_{12}) = 0$$ for $$a+\sigma \le r_{12}$$
+* Simplest model is the _hard spheres potential_ model.
+  * The potential $$V(r_{12}) = 0$$ for $$a+\sigma \le r_{12}$$
   * $$V(r_{12}) = -\epsilon$$ for $$a \le r_{12} \lt a+\sigma$$
   * $$V(r_{12}) = +\infty$$ for $$r_{12} \le a$$
   * It's called the _hard spheres_ model because essentially it assumes that each atom is a ball of radius $$a$$.
     * These balls are hard and can't interact. That's why $$V(r_{12})$$ shoots to infinity when $$r_{12} \le a$$
     * These balls are sticky and interact when $$r_{12} \lt a+\sigma$$
+  * Break up the integral
+
+$$
+\begin{align*}
+f_{12} &= e^{-\beta V(r_{12})}-1 \\
+
+\int_0^L f_{ij} r^2 \mathrm{d}r &= 
+\int_0^a f_{ij} r^2 \mathrm{d}r 
+
++ \int_a^{a+\sigma} f_{ij} r^2 \mathrm{d}r 
+
++ \int_{a+\sigma}^L f_{ij} r^2 \mathrm{d}r \\
+
+&= \int_0^a - r^2 \mathrm{d}r 
+
++ \int_a^{a+\sigma} (e^{\beta \epsilon}-1) r^2 \mathrm{d}r 
+
++ \int_{a+\sigma}^L 0 r^2 \mathrm{d}r \\
+
+&= -\frac{a^3}{3}
++ \int_a^{a+\sigma} (e^{\beta \epsilon}-1) r^2 \mathrm{d}r \\
+
+&\approx -\frac{a^3}{3}
++ \int_a^{a+\sigma} (1+ {\beta \epsilon}-1) r^2 \mathrm{d}r \\
+
+&= -\frac{a^3}{3} + \beta \epsilon \int_a^{a+\sigma}r^2 \mathrm{d}r \\
+
+&=  -\frac{a^3}{3} + \beta\epsilon \frac{(a+\sigma)^3}{3}  -\beta\epsilon \frac{a^3}{3}
+
+\end{align*}
+$$
+
