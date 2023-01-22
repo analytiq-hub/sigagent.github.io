@@ -849,5 +849,6 @@ Z &\approx \frac{1}{N!} \left[ \frac{V}{h^{3}} \left( \frac{2\pi m}{\beta} \righ
 \left[ 1 + \frac{N^2}{2V} \left( A + \beta B \right) \right]
 \end{align*}
 $$
+
 * Andrei: Not clear why we divide by 2 instead of multiplying. Looks like that factor is folded into $$A$$ and $$B$$
 * The last term starting is the interaction factor.
