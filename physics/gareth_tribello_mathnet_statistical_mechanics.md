@@ -766,7 +766,7 @@ $$
 \begin{align*}
 Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
 {\color{red}{\left[ \frac{2\pi m}{\beta}\ \right]^{\frac{3N}{2}}}}
-{\color{green}{\left[V^{N} + \frac{N(N-1)}{2}V^{N-2}
+{\color{green}{\left[V^{N} + \frac{N(N-1)}{2}V^{N-1}
 \int f_{ij} r^2 \sin \theta \mathrm{d}r\mathrm{d}\theta\mathrm{d}\phi\right]}} \\
 \end{align*}
 $$
@@ -778,7 +778,7 @@ $$
 \begin{align*}
 Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
 {\color{red}{\left[ \frac{2\pi m}{\beta}\ \right]^{\frac{3N}{2}}}}
-{\color{green}{\left[V^{N} + \frac{4 \pi N(N-1)}{2}V^{N-2}
+{\color{green}{\left[V^{N} + \frac{4 \pi N(N-1)}{2}V^{N-1}
 \int f_{ij} r^2 \sin \theta \mathrm{d}r\right]}} \\
 \end{align*}
 $$
