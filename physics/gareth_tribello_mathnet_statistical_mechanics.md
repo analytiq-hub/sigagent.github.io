@@ -870,3 +870,4 @@ F &\approx F_{ideal} - k_B T \frac{N^2}{2V} \left( -A + \beta B \right)
 \end{align*}
 $$
 
+* This is called the Free Energy of the van der Waals gas.
