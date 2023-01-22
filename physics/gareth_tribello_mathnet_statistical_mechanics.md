@@ -793,3 +793,11 @@ Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
 \int f_{ij} r^2 \sin \theta \mathrm{d}r\right]}} \\
 \end{align*}
 $$
+
+* Now we have a much more tractable integral.
+* To compute it, we ask how does the energy of a pair of atoms change when the two atoms are moved apart?
+* From electrostartics, when they are far apart, they don't interact.
+* Simplest model is the _hard spheres_ model.
+  * $$V(r_12) = 0$$ for $$a+\sigma \le r_{12}$$
+  * $$V(r_12) = -\epsilon$$ for $$a \le r_{12} \lt a+\sigma$$
+  * $$V(r_12) = +\infty$$ for $$r_{12} \le a$$  
