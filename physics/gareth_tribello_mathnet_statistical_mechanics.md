@@ -666,7 +666,17 @@ $$
 Z&=\frac{1}{h^{3N}}
 {\color{red}{\left[ \int e^{- \beta \frac{p_{i}^2}{2m}} \mathrm{d}p \right]^{N}}}
 {\color{green}{\int e^{-\beta {\sum_{i=2}^N\sum_{j=1}^{i-1} V(r_{ij})}} \mathrm{d}x_1... \mathrm{d}x_{3N}}} \\
+
+&= \frac{1}{h^{3N}}
+{\color{red}{\left[ \int e^{- \beta \frac{p_{i}^2}{2m}} \mathrm{d}p \right]^{N}}}
+{\color{green}{\int \prod_{i=2}^N\prod_{j=1}^{i-1} e^{-\beta { V(r_{ij})}} \mathrm{d}x_1... \mathrm{d}x_{3N}}} \\
+
+&= \frac{1}{h^{3N}}
+{\color{red}{\left[ \int e^{- \beta \frac{p_{i}^2}{2m}} \mathrm{d}p \right]^{N}}}
+{\color{green}{\int \prod_{i=2}^N\prod_{j=1}^{i-1} 
+(1+f_{ij}) \mathrm{d}x_1... \mathrm{d}x_{3N}}} \\
 \end{align*}
 $$
 
+where we wrote $$f_{ij}$$ for $$e^{-\beta { V(r_{ij})}}$$
 
