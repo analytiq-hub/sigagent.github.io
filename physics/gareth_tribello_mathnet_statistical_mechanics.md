@@ -616,7 +616,7 @@ Z&={\color{red}{\int e^{-\beta H_{trans}(v_x,v_y)} \mathrm{d}v_x \mathrm{d}v_y}}
 $$
 
 * We compute the $${\color{red}{first}}$$ integral as if it was a molecule with only translational degrees of freedom - this is just the partition function for the ideal gas $${\color{red}{Z_{trans}}$$.
-* To compute the $${\color{green}{second}}$$ integral, we consider particles that have only rotational degree of freedom. This is also straightforward - we get $${\color(green}{Z_{rot}}$. It's done in exercises.
+* To compute the $${\color{green}{second}}$$ integral, we consider particles that have only rotational degree of freedom. This is also straightforward - we get $${\color(green}{Z_{rot}}$$. It's done in exercises.
 * Similarly, compute in exercises $$Z_{vib}$$.
 * Once you know $$Z_{trans}, Z_{rot}, Z_{vib}$$, you can find the partition function for any molecule.
 * Importantly, this all assumes there is no coupling between these degrees of freedom.
@@ -632,7 +632,7 @@ $$
 
 $$
 \begin{align*}
-H(x, p) = {\color{red}{\sum_{i=1}^N \frac{p_{ix}^2}{2m} + \frac{p_{iy}^2}{2m} + \frac{p_{iz}^2}{2m}}} + {{\color{green}\sum_{i=2}^N\sum_{j=1}^{i-1} V(r_{ij})}}
+H(x, p) = {\color{red}{\sum_{i=1}^N \frac{p_{ix}^2}{2m} + \frac{p_{iy}^2}{2m} + \frac{p_{iz}^2}{2m}}} + {{\color{green}{\sum_{i=2}^N\sum_{j=1}^{i-1} V(r_{ij})}}}
 \end{align*}
 $$
 * Red term is the kinetic energy as for the ideal gas
