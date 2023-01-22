@@ -679,4 +679,16 @@ Z&=\frac{1}{h^{3N}}
 $$
 
 where we wrote $$f_{ij}$$ for $$e^{-\beta { V(r_{ij})}}$$
+* Since distances $$r_{ij}$$ are very small, we can ignore quadratic terms in the product, and get the approximation:
+
+$$
+\begin{align*}
+Z &\simeq
+\frac{1}{h^{3N}}
+{\color{red}{\left[ \int e^{- \beta \frac{p_{i}^2}{2m}} \mathrm{d}p \right]^{N}}}
+{\color{green}{\int \left[ 1+\sum_{i=2}^N\sum_{j=1}^{i-1} 
+f_{ij} \right] \mathrm{d}x_1... \mathrm{d}x_{3N}}} \\
+\end{align*}
+$$
+
 
