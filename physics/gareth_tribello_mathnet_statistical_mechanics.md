@@ -910,3 +910,10 @@ P + \left(\frac{N}{V}\right)^2 \frac{B}{2} &= N k_B T \left( \frac{1}{V} + \frac
 \end{align*}
 $$
 
+* Which can be rewritten as the _van der Waals equation of state_:
+
+$$
+\begin{align*}
+\left[ P + \left(\frac{N}{V}\right)^2 \frac{B}{2} \right]  \left( V - \frac{AN}{2} \right) &= N k_B T
+\end{align*}
+$$
