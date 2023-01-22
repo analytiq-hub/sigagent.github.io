@@ -851,4 +851,4 @@ Z &\approx \frac{1}{N!} \left[ \frac{V}{h^{3}} \left( \frac{2\pi m}{\beta} \righ
 $$
 
 * Andrei: Not clear why we divide by 2 instead of multiplying. Looks like that factor is folded into $$A$$ and $$B$$
-* The last term starting is the interaction factor.
+* The last term starting with $$\frac{N^2}{2V}$$ is the interaction factor. We will pick linear coefficients $$A$$ and $$B$$.
