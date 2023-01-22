@@ -772,3 +772,13 @@ Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
 $$
 
 * Limits for the integral run $$0$$ to $$\infty$$ for $$r$$ coordinate, $$0$$ to $$\pi$$ for $$\theta$$ coordinate, and $$-\pi$$ to $$\pi$$ for $$\phi$$ coordinates.
+* If we assume that $$f_12$$ has no angular dependence, i.e. that it depends only on $$r$$, then:
+
+$$
+\begin{align*}
+Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
+{\color{red}{\left[ \frac{2\pi m}{\beta}\ \right]^{\frac{3N}{2}}}}
+{\color{green}{\left[V^{N} + \frac{4 \pi N(N-1)}{2}V^{N-2}
+\int f_{ij} r^2 \sin \theta \mathrm{d}r\right]}} \\
+\end{align*}
+$$
