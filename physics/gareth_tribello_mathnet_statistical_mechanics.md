@@ -579,7 +579,7 @@ $$
 * Similarly, the deviations due to internal structure of the particles that make up the gas is smaller for noble gases than, say, for oxygen, which is composed of $$O_2$$ molecules.
 * If we understand how the macroscopic properties of molecules can be calculated based on the microscopic interactions between atoms, we can begin to understand how we can understand the microscopic properties of the molecules based on macroscopic experiments that measure microscopic properties.
   * This business of understanding deviations from ideality is very important.
-* When the hamiltonian breaks into a sum of terms with independent variables $$H(x_1, x_2, x_3, x_4) = H_1(x_1)+H_2(x_2)+H_3(x_3,x_4)$$, we've seen that the partition function breaks into a product of partition functions $$Z={\color{red} {\int e^{-\beta H_1(x_1)} \mathrm{d}x_1}} {\color{green} {\int e^{-\beta H_2(x_2)} \mathrm{d}x_2}} \int e^{-\beta H_3(x_3,x_4)} \mathrm{d}x_3 \mathrm{d}x_4={\color{red} Z_1}{\color{green} {Z_2}}Z_3$$
+* When the Hamiltonian breaks into a sum of terms with independent variables $$H(x_1, x_2, x_3, x_4) = H_1(x_1)+H_2(x_2)+H_3(x_3,x_4)$$, we've seen that the partition function breaks into a product of partition functions $$Z={\color{red} {\int e^{-\beta H_1(x_1)} \mathrm{d}x_1}} {\color{green} {\int e^{-\beta H_2(x_2)} \mathrm{d}x_2}} \int e^{-\beta H_3(x_3,x_4)} \mathrm{d}x_3 \mathrm{d}x_4={\color{red} Z_1}{\color{green} {Z_2}}Z_3$$
 * Consider the gas with the simples molecule, a diatomic, like $$N_2$$, $$O_2$$ or $$F_2$$
 * Suppose it is confined in 2 dimensions. The arguments will be very similar in 3D.
 * How many numbers are needed to specify the molecule position and velocity?
@@ -628,3 +628,10 @@ $$
   * Independent particles, interating particle systems
 * We'll assume no quantum effects, and no effect because of the internal structure within the particle.
 * When we use models such as this to fit experimental data, we'll incorporate numerical deviations that arise because the internal structure of the particles, in parameters that describe interactions
+* Hamiltonian looks like this:
+
+$$
+\begin{align*}
+H(x, p) = \sum_{i=1}^N \frac{p_{ix}^2}{2m} + \frac{p_{iy}^2}{2m} + \frac{p_{iz}^2}{2m} + \sum_{i=2}^N\sum_j=1^{i-1} V(r_{ij})
+\end{align*}
+$$
