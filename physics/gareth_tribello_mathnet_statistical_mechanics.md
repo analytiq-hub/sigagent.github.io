@@ -658,3 +658,13 @@ $$
 
 * These are definite integrals, even though the convention in stat mechanics is to not put the integration limits. These integration limits are $$0$$ to $$L$$ for coordinates, where $$L$$ is the length of the cube, and $$0$$ to $$\infty$$ for momentum.
 * We divide by $$h^{3N}$$ to ensure $$Z$$ has no units.
+* We get
+
+$$
+\begin{align*}
+Z&=\frac{1}{h^{3N}}\left[ \int e^{- \beta \frac{p_{i}^2}{2m}} \mathrm{d}p \right]^{N}
+\int e^{-\beta {\sum_{i=2}^N\sum_{j=1}^{i-1} V(r_{ij})}} \mathrm{d}x_1... \mathrm{d}x_{3N} \\
+\end{align*}
+$$
+
+
