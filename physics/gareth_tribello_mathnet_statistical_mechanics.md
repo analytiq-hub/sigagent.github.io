@@ -579,5 +579,6 @@ $$
 * Similarly, the deviations due to internal structure of the particles that make up the gas is smaller for noble gases than, say, for oxygen, which is composed of $$O_2$$ molecules.
 * If we understand how the macroscopic properties of molecules can be calculated based on the microscopic interactions between atoms, we can begin to understand how we can understand the microscopic properties of the molecules based on macroscopic experiments that measure microscopic properties.
   * This business of understanding deviations from ideality is very important.
+* When the hamiltonian breaks into a sum of terms with independent variables $$H(x_1, x_2, x_3, x_4) = H_1(x_1)+H_2(x_2)+H_3(x_3,x_4)$$, we've seen that the partition function breaks into a product of partition functions $$Z=Z_1Z_2Z_3 = \int e^{-\beta H_1(x_1)} \mathrm{d}x_1 \int e^{-\beta H_2(x_2)} \mathrm{d}x_2 \int e^{-\beta H_3(x_3,x_4)} \mathrm{d}x_3 \mathrm{d}x_4 $$
 
 [The cluster expansion: including interactions in models for gasses](https://www.youtube.com/watch?v=O8EafwqqXsQ)
