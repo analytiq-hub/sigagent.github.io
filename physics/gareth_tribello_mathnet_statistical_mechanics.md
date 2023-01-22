@@ -896,3 +896,17 @@ P &= \frac{N k_B T}{V} - k_B T \frac{N^2}{2V^2} \left( -A + \beta B \right) \tex
 \end{align*}
 $$
 
+* We arrive at
+
+$$
+\begin{align*}
+P &= \frac{N k_B T}{V} - k_B T \frac{N^2}{2V^2} \left( -A + \beta B \right) \text{, which can be rewritten, up to a change in B:} \\
+
+&= N k_B\frac{T}{V} + \frac{k_B T N^2 A}{2V^2} -  \left(\frac{N}{V}\right)^2 \frac{B}{2} \\
+
+P + \left(\frac{N}{V}\right)^2 \frac{B}{2} &= N k_B T \left( \frac{1}{V} + \frac{AN}{2V^2} \right) \\
+
+&\approx N k_B T \left( \frac{1}{V - \frac{AN}{2}} \right)
+\end{align*}
+$$
+
