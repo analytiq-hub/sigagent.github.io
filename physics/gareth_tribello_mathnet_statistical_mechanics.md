@@ -864,7 +864,7 @@ F &\approx - k_B T \ln \left[ \frac{1}{N!}\left[ \frac{V}{h^{3}} \left( \frac{2\
 
 - k_B T \ln  \left[ 1 + \frac{N^2}{2V} \left( -A + \beta B \right) \right] \\
 
-&\approx F_{ideal} - k_B T \ln  \left[ 1 + \frac{N^2}{2V} \left( -A + \beta B \right) \right] \text{, and since ln(1+x) is approx X:} \\
+&\approx F_{ideal} - k_B T \ln  \left[ 1 + \frac{N^2}{2V} \left( -A + \beta B \right) \right] \text{, and since ln(1+x) is approx. x:} \\
 
 F &\approx F_{ideal} - k_B T \frac{N^2}{2V} \left( -A + \beta B \right)
 \end{align*}
