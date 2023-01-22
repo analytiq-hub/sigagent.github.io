@@ -849,4 +849,4 @@ Z &\approx \frac{1}{N!}\left[\frac{V}{h^{3}}  \left(\frac{2\pi m}{\beta} \right)
 \right]}} \\
 \end{align*}
 $$
-
+* Andrei: Not clear why we divide by 2 instead of multiplying. Where is the error?
