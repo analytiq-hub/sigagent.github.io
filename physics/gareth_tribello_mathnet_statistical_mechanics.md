@@ -724,7 +724,7 @@ Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
 \end{align*}
 $$
 
-* $$f_{ij$$ depends on 2 of the position - i.e., on 6 of the coordinates.
+* $$f_{ij}$$ depends on 2 of the position - i.e., on 6 of the coordinates.
 * We can separate $$3L-6$$ integrands, and their integral is $$L^{3L-6} = V^{N_2}$$
 
 $$
@@ -736,7 +736,7 @@ Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
 \end{align*}
 $$
 
-* $$f_{ij$$ is identical for each pair of atoms, so
+* $$f_{ij}$$ is identical for each pair of atoms, so
 
 $$
 \begin{align*}
