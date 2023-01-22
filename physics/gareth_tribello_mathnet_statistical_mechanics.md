@@ -565,5 +565,18 @@ $$
 
 * Using the formula for the average energy $$E = - \frac{\partial \ln Z}{\partial \beta}$$, we got $$E = \frac{3}{2} N k_B T$$
 * Using the formula for the heat capacity $$C_v = \left( \frac{\partial E}{\partial T} \right)_V$$, we got $$C_v = \frac{3}{2} N k_B$$
+* We referred to this as the _model for ideal gas_, because in experimetation, real gasses deviate from these laws
+* In this section and next, we are going to create realistic models for gasses
+* There are three principles we assumed for the ideal gas.
+  * We assumed there are no interactions between the particles that make up the gas. This is not true, elsewhere the gas would never liquefy or become solid. That being said, the interactions are always weak. When we model gasses, this turns out to not be such a bad assumption
+  * We assumed that the gas was composed of 0-dimensional particles. We assumed that atoms and molecules making up the gas have no internal structure. If the model is accurate, we have to consider this fine structure.
+  * We finally assumed that the particles that make up the gas behave classically. In reality, they behave quantum mechanically. We need to take quantum mechanics into account.
+* We will focus on how to incorporate the internal structure of particles.
+* Real gasses however have all these three properties simultaneously.
+* When we see deviations from reality, it can be difficult to ascribe the deviations to one or another of these three properties as compared to the ideal model.
+* An advantage of modeling in theory is that we can incorporate all these three properties one by one, and see how the effect differs.
+* We can thus observe, for example, that at high temperature, the quantum effects are not that visible.
+* Similarly, the deviations due to internal structure of the particles that make up the gas is smaller for noble gases than, say, for oxygen, which is composed of $$O_2$$ molecules.
+* If we understand how the microscopic properties 
 
 [The cluster expansion: including interactions in models for gasses](https://www.youtube.com/watch?v=O8EafwqqXsQ)
