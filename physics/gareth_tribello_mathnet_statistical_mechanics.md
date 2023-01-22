@@ -683,7 +683,7 @@ where we wrote $$f_{ij}$$ for $$e^{-\beta { V(r_{ij})}}$$
 
 $$
 \begin{align*}
-Z &\simeq
+Z &\approx
 \frac{1}{h^{3N}}
 {\color{red}{\left[ \int e^{- \beta \frac{p_{i}^2}{2m}} \mathrm{d}p \right]^{N}}}
 {\color{green}{\int \left[ 1+\sum_{i=2}^N\sum_{j=1}^{i-1} 
@@ -706,10 +706,13 @@ $$
 
 $$
 \begin{align*}
-Z &= \frac{1}{N!}\frac{1}{h^{3N}}
+Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
 {\color{red}{\left[ \frac{2\pi m}{\beta}\ \right]^{\frac{3N}{2}}}}
 {\color{green}{\left[V^{N} + \int  \sum_{i=2}^N\sum_{j=1}^{i-1} 
 f_{ij} \right] \mathrm{d}x_1... \mathrm{d}x_{3N}}} \\
 \end{align*}
 $$
+
+* Reorder summation in the integral:
+
 
