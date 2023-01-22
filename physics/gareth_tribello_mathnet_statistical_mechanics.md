@@ -702,5 +702,6 @@ f_{ij} \right] \mathrm{d}x_1... \mathrm{d}x_{3N}}} \\
 $$
 
 * If you neglect the remaining integral, the result is exactly what we get for the ideal gas. The integral is the term due to interactions.
+* To solve the Gibbs paradox, for the ideal gas, we multiplied with $$\frac{1}{N!}$$
 
 
