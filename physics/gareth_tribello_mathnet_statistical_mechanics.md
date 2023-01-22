@@ -782,3 +782,14 @@ Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
 \int f_{ij} r^2 \sin \theta \mathrm{d}r\right]}} \\
 \end{align*}
 $$
+
+* For any large $$N$$, we have $$N \approx N-1$$, so
+
+$$
+\begin{align*}
+Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
+{\color{red}{\left[ \frac{2\pi m}{\beta}\ \right]^{\frac{3N}{2}}}}
+{\color{green}{\left[V^{N} + 2 \pi N^2V^{N-2}
+\int f_{ij} r^2 \sin \theta \mathrm{d}r\right]}} \\
+\end{align*}
+$$
