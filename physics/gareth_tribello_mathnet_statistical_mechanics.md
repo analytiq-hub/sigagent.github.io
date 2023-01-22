@@ -715,4 +715,14 @@ $$
 
 * Reorder summation in the integral:
 
+$$
+\begin{align*}
+Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
+{\color{red}{\left[ \frac{2\pi m}{\beta}\ \right]^{\frac{3N}{2}}}}
+{\color{green}{\left[V^{N} + \sum_{i=2}^N\sum_{j=1}^{i-1} 
+\int f_{ij} \mathrm{d}x_1... \mathrm{d}x_{3N}\right]}} \\
+\end{align*}
+$$
+
+
 
