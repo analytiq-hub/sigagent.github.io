@@ -632,7 +632,7 @@ $$
 
 $$
 \begin{align*}
-H(x, p) = {\color{red}{\sum_{i=1}^N \frac{p_{ix}^2}{2m} + \frac{p_{iy}^2}{2m} + \frac{p_{iz}^2}{2m}}} + {{\color{green}{\sum_{i=2}^N\sum_{j=1}^{i-1} V(r_{ij})}}}
+H(x, p) = {\color{red}{\sum_{i=1}^N \frac{p_{ix}^2}{2m} + \frac{p_{iy}^2}{2m} + \frac{p_{iz}^2}{2m}}} + {\color{green} {\sum_{i=2}^N\sum_{j=1}^{i-1} V(r_{ij})}}
 \end{align*}
 $$
 
