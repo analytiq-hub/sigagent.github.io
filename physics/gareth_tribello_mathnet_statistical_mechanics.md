@@ -701,4 +701,6 @@ f_{ij} \right] \mathrm{d}x_1... \mathrm{d}x_{3N}}} \\
 \end{align*}
 $$
 
+* If you neglect the remaining integral, the result is exactly what we get for the ideal gas. The integral is the term due to interactions.
+
 
