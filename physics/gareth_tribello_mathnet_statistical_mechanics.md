@@ -623,3 +623,8 @@ $$
 * Normally, we consider that the rotational and vibrational degrees of freedom are not coupled, and this this factorization of the partition function is valid.
 
 [The cluster expansion: including interactions in models for gasses](https://www.youtube.com/watch?v=O8EafwqqXsQ)
+* We'll calculate the partition function for a gas, and include the interactions directly.
+* We'll deal with the weak interaction between the particles of the gas.
+  * Independent particles, interating particle systems
+* We'll assume no quantum effects, and no effect because of the internal structure within the particle.
+* When we use models such as this to fit experimental data, we'll incorporate numerical deviations that arise because the internal structure of the particles, in parameters that describe interactions
