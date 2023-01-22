@@ -657,4 +657,4 @@ Z&=\frac{1}{h^{3N}}\prod_{i=1}^N \int e^{- \beta \frac{p_{i}^2}{2m}} \mathrm{d}p
 $$
 
 * These are definite integrals, even though the convention in stat mechanics is to not put the integration limits. These integration limits are $$0$$ to $$L$$ for coordinates, where $$L$$ is the length of the cube, and $$0$$ to $$\infty$$ for momentum.
-
+* We divide by $$h^{3N}$$ to ensure $$Z$$ has no units.
