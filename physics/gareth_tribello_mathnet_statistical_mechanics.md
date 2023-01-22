@@ -759,3 +759,15 @@ Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
 \int f_{ij} \mathrm{d}x_1\mathrm{d}y_1\mathrm{d}z_1 \mathrm{d}x_{12}\mathrm{d}y_{12}\mathrm{d}z_{12}\right]}} \\
 \end{align*}
 $$
+
+* We represented the vector betwen the pair of particles in cartesian coordinates. We change to polar coordinates $$r, \theta, \phi$$.
+
+$$
+\begin{align*}
+Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
+{\color{red}{\left[ \frac{2\pi m}{\beta}\ \right]^{\frac{3N}{2}}}}
+{\color{green}{\left[V^{N} + \frac{N(N-1)}{2}V^{N-2}
+\int f_{ij} r^2 \sin \theta \mathrm{d}r\mathrm{d}\theta\mathrm{d}\phi\right]}} \\
+\end{align*}
+$$
+
