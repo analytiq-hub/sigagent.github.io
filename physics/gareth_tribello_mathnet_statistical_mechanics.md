@@ -611,6 +611,7 @@ $$
 
 $$
 \begin{align*}
+Z&={\int e^{-\beta H_{trans}(v_x,v_y)} \mathrm{d}v_x \mathrm{d}v_y} {\int e^{-\beta H_{rot}(v_\theta)} \mathrm{d}v_\theta} \int e^{-\beta H_{vibes}(l,v_l)} \mathrm{d}l \mathrm{d}v_l
 \end{align*}
 $$
 
