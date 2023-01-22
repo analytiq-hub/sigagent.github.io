@@ -727,4 +727,12 @@ $$
 * $$f_{ij$$ depends on 2 of the position - i.e., on 6 of the coordinates.
 * We can separate $$3L-6$$ integrands, and their integral is $$L^{3L-6} = V^{N_2}$$
 
+$$
+\begin{align*}
+Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
+{\color{red}{\left[ \frac{2\pi m}{\beta}\ \right]^{\frac{3N}{2}}}}
+{\color{green}{\left[V^{N} + V^{N-2}\sum_{i=2}^N\sum_{j=1}^{i-1} 
+\int f_{ij} \mathrm{d}x_1\mathrm{d}y_1\mathrm{d}z_1 \mathrm{d}x_{2}\mathrm{d}y_{2}\mathrm{d}z_{2}\right]}} \\
+\end{align*}
+$$
 
