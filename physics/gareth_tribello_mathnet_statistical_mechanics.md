@@ -577,6 +577,7 @@ $$
 * An advantage of modeling in theory is that we can incorporate all these three properties one by one, and see how the effect differs.
 * We can thus observe, for example, that at high temperature, the quantum effects are not that visible.
 * Similarly, the deviations due to internal structure of the particles that make up the gas is smaller for noble gases than, say, for oxygen, which is composed of $$O_2$$ molecules.
-* If we understand how the microscopic properties 
+* If we understand how the macroscopic properties of molecules can be calculated based on the microscopic interactions between atoms, we can begin to understand how we can understand the microscopic properties of the molecules based on macroscopic experiments that measure microscopic properties.
+  * This business of understanding deviations from ideality is very important.
 
 [The cluster expansion: including interactions in models for gasses](https://www.youtube.com/watch?v=O8EafwqqXsQ)
