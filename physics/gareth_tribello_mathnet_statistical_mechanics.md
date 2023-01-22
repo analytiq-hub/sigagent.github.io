@@ -581,5 +581,29 @@ $$
   * This business of understanding deviations from ideality is very important.
 * When the hamiltonian breaks into a sum of terms with independent variables $$H(x_1, x_2, x_3, x_4) = H_1(x_1)+H_2(x_2)+H_3(x_3,x_4)$$, we've seen that the partition function breaks into a product of partition functions $$Z=\textcolor{red}{\int e^{-\beta H_1(x_1)} \mathrm{d}x_1} \textcolor{green}{\int e^{-\beta H_2(x_2)} \mathrm{d}x_2} \int e^{-\beta H_3(x_3,x_4)} \mathrm{d}x_3 \mathrm{d}x_4=\textcolor{red}{Z_1}\textcolor{green}{Z_2}Z_3$$
 * Consider the gas with the simples molecule, a diatomic, like $$N_2$$, $$O_2$$ or $$F_2$$
+* Suppose it is confined in 2 dimensions. The arguments will be very similar in 3D.
+* How many numbers are needed to specify the molecule position and velocity?
+  * 2 for x, y coordinates of 1st atom position
+  * 2 for velocity of 1st atom
+  * Total - 8 degrees of freedom for both atoms.
+  * In general, $$N$$ atoms have $$6N$$ degrees of freedom
+  * We might specify position of center of mass and rotation around center of mass. This still gives 8 degrees of freedom.
+  * However, when translating the center of mass, and rotating around the center of mass, we construct a Hamiltonian to describe motion with relation to these new coordinates.
+  * When we do this, unless there is an external field, the center of mass and the angle do not factor in the Hamiltonian. Only the rotation velocily enters the Hamiltonian.
+  * For this reason, the number of degrees of freedom can be reduced by 3, from 6 to 3.
+  * The extension and compression of the bond enter the hamiltonian as elastic vibration. We get 2 vibrational degrees of freedom.
+  * In summary:
+    * 4 translational degrees of freedom $$x_{com},y_{com},v_x,v_y$$
+    * 2 rotational degrees of freedom $$\theta, v_theta$$
+    * 2 vibrational degrees of freedom, $$l, v_l$$
+    * $$x_{com}, y_{com}, \theta$$ do not factor in the Hamiltonian
+* We can write the Hamiltonian as a sum of a translational, rotational and vibrational part as shown here:
+
+$$
+\begin{align*}
+H = H_{trans}(v_x,v_y) + H_{rot}(v_\theta) + H_{vibes}(l, v_l)
+\end{align*}
+$$
+
 
 [The cluster expansion: including interactions in models for gasses](https://www.youtube.com/watch?v=O8EafwqqXsQ)
