@@ -637,3 +637,4 @@ H(x, p) = {\color{red}{\sum_{i=1}^N \frac{p_{ix}^2}{2m} + \frac{p_{iy}^2}{2m} + 
 $$
 * Red term is the kinetic energy as for the ideal gas
 * Green term is the interaction term between $$N(N-1)/2$$ pairs of atoms
+* $$r_{ij}$$ is the distance between particles $$i,j$$
