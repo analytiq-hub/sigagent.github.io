@@ -615,6 +615,6 @@ Z&={\color{red}{\int e^{-\beta H_{trans}(v_x,v_y)} \mathrm{d}v_x \mathrm{d}v_y}}
 \end{align*}
 $$
 
-* We compute the 
+* We compute the $${\color{red}{first}$$ integral as if it was a molecule with only velocity degrees of freedom - this is the computation we've done before
 
 [The cluster expansion: including interactions in models for gasses](https://www.youtube.com/watch?v=O8EafwqqXsQ)
