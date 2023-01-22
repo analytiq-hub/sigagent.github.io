@@ -643,7 +643,7 @@ $$
 
 $$
 \begin{align*}
-H(x, p) = {\color{red}{\sum_{i=1}^{3N} \frac{p_{i}^2}{2m}}} + {{\color{green}{\sum_{i=2}^N\sum_{j=1}^{i-1} V(r_{ij})}}}
+H(x, p) = {\color{red}{\sum_{i=1}^{3N} \frac{p_{i}^2}{2m}}} + {\color{green}{\sum_{i=2}^N\sum_{j=1}^{i-1} V(r_{ij})}}
 \end{align*}
 $$
 
