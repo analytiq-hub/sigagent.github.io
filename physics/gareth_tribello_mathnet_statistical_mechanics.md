@@ -800,4 +800,5 @@ $$
 * Simplest model is the _hard spheres_ model.
   * $$V(r_12) = 0$$ for $$a+\sigma \le r_{12}$$
   * $$V(r_12) = -\epsilon$$ for $$a \le r_{12} \lt a+\sigma$$
-  * $$V(r_12) = +\infty$$ for $$r_{12} \le a$$  
+  * $$V(r_12) = +\infty$$ for $$r_{12} \le a$$
+  * It's called the _hard spheres_ model because essentially it assumes that each atom is a ball of radius $$a$$.
