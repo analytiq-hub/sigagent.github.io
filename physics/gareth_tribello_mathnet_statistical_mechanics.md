@@ -724,5 +724,7 @@ Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
 \end{align*}
 $$
 
+* $$f_{ij$$ depends on 2 of the position - i.e., on 6 of the coordinates.
+* We can separate $$3L-6$$ integrands, and their integral is $$L^{3L-6}$$
 
 
