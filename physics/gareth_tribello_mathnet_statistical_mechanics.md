@@ -836,3 +836,11 @@ f_{12} &= e^{-\beta V(r_{12})}-1 \\
 \end{align*}
 $$
 
+* We get the equation:
+
+$$
+\begin{align*}
+Z &\approx \frac{1}{N!}\left[\frac{V}{h^{3}}  \left(\frac{2\pi m}{\beta} \right)^{\frac{3}{2}} \right]^N
+\end{align*}
+$$
+
