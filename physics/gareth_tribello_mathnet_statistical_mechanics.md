@@ -579,7 +579,7 @@ $$
 * Similarly, the deviations due to internal structure of the particles that make up the gas is smaller for noble gases than, say, for oxygen, which is composed of $$O_2$$ molecules.
 * If we understand how the macroscopic properties of molecules can be calculated based on the microscopic interactions between atoms, we can begin to understand how we can understand the microscopic properties of the molecules based on macroscopic experiments that measure microscopic properties.
   * This business of understanding deviations from ideality is very important.
-* When the hamiltonian breaks into a sum of terms with independent variables $$H(x_1, x_2, x_3, x_4) = H_1(x_1)+H_2(x_2)+H_3(x_3,x_4)$$, we've seen that the partition function breaks into a product of partition functions $$Z={\color{red} {\int e^{-\beta H_1(x_1)} \mathrm{d}x_1}} {\color{blue} {\int e^{-\beta H_2(x_2)} \mathrm{d}x_2}} \int e^{-\beta H_3(x_3,x_4)} \mathrm{d}x_3 \mathrm{d}x_4={\color{red} Z_1}{\color{blue} Z_2}Z_3$$
+* When the hamiltonian breaks into a sum of terms with independent variables $$H(x_1, x_2, x_3, x_4) = H_1(x_1)+H_2(x_2)+H_3(x_3,x_4)$$, we've seen that the partition function breaks into a product of partition functions $$Z={\color{red} {\int e^{-\beta H_1(x_1)} \mathrm{d}x_1}} {\color{green} {\int e^{-\beta H_2(x_2)} \mathrm{d}x_2}} \int e^{-\beta H_3(x_3,x_4)} \mathrm{d}x_3 \mathrm{d}x_4={\color{red} Z_1}{\color{green} {Z_2}}Z_3$$
 * Consider the gas with the simples molecule, a diatomic, like $$N_2$$, $$O_2$$ or $$F_2$$
 * Suppose it is confined in 2 dimensions. The arguments will be very similar in 3D.
 * How many numbers are needed to specify the molecule position and velocity?
@@ -611,10 +611,10 @@ $$
 
 $$
 \begin{align*}
-Z&={\color{red}{\int e^{-\beta H_{trans}(v_x,v_y)} \mathrm{d}v_x \mathrm{d}v_y}} {\color{blue}{\int e^{-\beta H_{rot}(v_\theta)} \mathrm{d}v_\theta}} \int e^{-\beta H_{vibes}(l,v_l)} \mathrm{d}l \mathrm{d}v_l
+Z&={\color{red}{\int e^{-\beta H_{trans}(v_x,v_y)} \mathrm{d}v_x \mathrm{d}v_y}} {\color{green}{\int e^{-\beta H_{rot}(v_\theta)} \mathrm{d}v_\theta}} \int e^{-\beta H_{vibes}(l,v_l)} \mathrm{d}l \mathrm{d}v_l
 \end{align*}
 $$
 
-* We compute the $${\color{red}{first}$$ integral as if it was a molecule with only velocity degrees of freedom - this is the computation we've done before
+* We compute the $${\color{red}{first}}$$ integral as if it was a molecule with only translational degrees of freedom - this is just the partition function for the ideal gas $${\color{red}{Z_{trans}}$$.
 
 [The cluster expansion: including interactions in models for gasses](https://www.youtube.com/watch?v=O8EafwqqXsQ)
