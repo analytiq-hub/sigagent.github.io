@@ -771,3 +771,4 @@ Z &\approx \frac{1}{N!}\frac{1}{h^{3N}}
 \end{align*}
 $$
 
+* Limits for the integral run $$0$$ to $$\infty$$ for $$r$$ coordinate, $$0$$ to $$\pi$$ for $$\theta$$ coordinate, and $$-\pi$$ to $$\pi$$ for $$\phi$$ coordinates.
