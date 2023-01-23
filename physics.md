@@ -117,9 +117,7 @@ title: Physics
       * Proof of the Stirling formula $$N! \approx N^N e^{-N}$$, by estimating $$\sum_{x=1}^N \ln x \approx \int_{x=1}^N \ln x$$, and noticing that $$\int \ln x = x \ln x - x$$
       * The method of Lagrange multipliers, explained
         * The variables will the the probability values in the distribution
-      	* Two constraints:
-	  * Probabilities add up to $$1$$
-	  * Average energy $$E = \sum p_i E_i$$ is given
+      	* Two constraints: Probabilities add up to $$1$$. Average energy $$E = \sum p_i E_i$$ is given.
       * Next class will solve the Lagrange multipliers for maximizing entropy with a given average energy constraint
       * Temperature will be a Lagrange multiplier
     * [L4: The Boltzmann distribution](https://www.youtube.com/watch?v=rhFkYjaM5kE&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=4)
