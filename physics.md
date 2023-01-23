@@ -29,6 +29,7 @@ title: Physics
 * Arieh Ben-Naim: [Farewell To Entropy, A: Statistical Thermodynamics Based On Information](https://www.amazon.com/Farewell-Entropy-Statistical-Thermodynamics-Information/dp/9812707077) (2008)
 * MIT 8.333 [Statistical Mechanics I: Statistical Mechanics of Particles](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg) (2013)
   * Mehran Kardar: [Statistical Physics of Particles](https://www.amazon.com/Statistical-Physics-Particles-Mehran-Kardar/dp/0521873428)
+* Jos Thijssen [statistical mechanics videos](https://www.youtube.com/@josthijssen6782/videos)
 
 #### Ising Model
 * Barry A. Cipra: [An Introduction to the Ising Model](https://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/isingIntro.pdf), AMM Monthly, 1987
