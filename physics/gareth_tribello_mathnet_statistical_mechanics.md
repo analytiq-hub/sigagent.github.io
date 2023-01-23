@@ -317,6 +317,9 @@ $$
 * We get $$Var(E) = \frac{\partial^2 \Psi}{\partial \beta^2}$$, and because the variance is positive, $$\Psi$$ is convex.
 * $$Var(E) = k_B T^2 C_v$$ for the heat capacity $$C_v$$
 
+[The isothermal isobaric ensemble](http://gtribello.github.io/mathNET/isothermal-isobaric-ensemble-video.html)
+* 
+
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
 * System has $n$ non-interacting particles which can have spin up, spin down states denoted $$+1,-1$$.
@@ -935,8 +938,6 @@ $$
     * These additional forces will increase or decrease the pressure created by the walls of the container.
 * The van der Waals equation was first derived using considerations such as these.
 * This is why the earlier derivation seems peculiar. We knew where we wanted to get to, and made the approximations in order to get there.
-
-[The isothermal isobaric ensemble](http://gtribello.github.io/mathNET/isothermal-isobaric-ensemble-video.html)
 
 [Phase transitions](http://gtribello.github.io/mathNET/phase-transitions-video.html)
 
