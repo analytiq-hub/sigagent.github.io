@@ -410,6 +410,8 @@ k_BT \Psi &= - (\left< E \right> + P \left< V \right> - ST)
 \end{align*}
 $$
 
+* The isothermic isobaric partition function $$Z_{ii} = e^\Psi$$
+
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
 * System has $n$ non-interacting particles which can have spin up, spin down states denoted $$+1,-1$$.
