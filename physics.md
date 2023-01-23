@@ -120,7 +120,7 @@ title: Physics
       	* Two constraints:
 	  * Probabilities add up to $$1$$
 	  * Average energy $$E = \sum p_i E_i$$ is given
-      * Next class will solve the Lagrange multipliers for this situation
+      * Next class will solve the Lagrange multipliers for maximizing entropy with a given average energy constraint
       * Temperature will be a Lagrange multiplier
     * [L4: The Boltzmann distribution](https://www.youtube.com/watch?v=rhFkYjaM5kE&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=4)
     * [L5: Pressure of an ideal gas and fluctuations](https://www.youtube.com/watch?v=2BJYXuZZK3c&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=5)
