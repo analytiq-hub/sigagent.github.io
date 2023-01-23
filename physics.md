@@ -122,11 +122,11 @@ title: Physics
 	  * Average energy $$E = \sum p_i E_i$$ is given
       * Next class will solve the Lagrange multipliers for this situation
       * Temperature will be a Lagrange multiplier
-    * L4: The Boltzmann distribution
-    * L5: Pressure of an ideal gas and fluctuations
-    * L6: Weakly interacting gases, heat, and work
-    * L7: Entropy versus reversibility
-    * L8: Entropy, reversibility, and magnetism 
+    * [L4: The Boltzmann distribution](https://www.youtube.com/watch?v=rhFkYjaM5kE&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=4)
+    * [L5: Pressure of an ideal gas and fluctuations](https://www.youtube.com/watch?v=2BJYXuZZK3c&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=5)
+    * [L6: Weakly interacting gases, heat, and work](https://www.youtube.com/watch?v=bW30Rj6w8VI&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=6)
+    * [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
+    * [L8: Entropy, reversibility, and magnetism](https://www.youtube.com/watch?v=3hh0lJZbUfo)
     * [L9: Ising Model](https://www.youtube.com/watch?v=AT4_S9vQJgc)
       * 1-dimensional Ising Model
       * Duality
