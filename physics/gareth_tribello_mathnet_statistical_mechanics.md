@@ -189,7 +189,7 @@ $$
 
 * When only extensive quantities that are fixed are volume and number of particles, we call this the _canonical ensemble_ system
 * In the canonical ensemble, the system can exchange heat, but cannot change volume or mattter.
-* What happens to the entropy if we change the volume or the number of atoms? Qw get:
+* What happens to the entropy if we change the volume or the number of atoms? We get:
 
 $$
 \begin{align*}
