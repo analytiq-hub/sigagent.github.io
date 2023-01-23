@@ -340,7 +340,7 @@ $$
   * $$\lt V \gt = \sum_i V(x_i, \bf{p_i})p_i$$ is finite, but both $$E$$ and $$V$$ can fluctuate
 * In general:
   * The probability of being in a microstate is $$p_j = \frac{e^{-\sum_k \lambda_k B_j^{(k)}}}{e^\psi}$$
-  * The partition function is $$$$
+  * The partition function is $$Z = e^\Psi = \sum_j e^{-\sum_k \lambda_k B_j^{(k)}}$$
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
