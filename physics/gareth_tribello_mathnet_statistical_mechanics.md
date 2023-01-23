@@ -338,7 +338,9 @@ $$
   * $$\delta(N(x_i, p_i) - N') \gt 0$$, which expresses that the number of particles is fixed
   * $$\lt E \gt = \sum_i H(x_i, \bf{p_i})p_i$$ is finite
   * $$\lt V \gt = \sum_i V(x_i, \bf{p_i})p_i$$ is finite, but both $$E$$ and $$V$$ can fluctuate
-* Let's use Lagrange multipliers to get the constraints:
+* In general:
+  * The probability of being in a microstate is $$p_j = \frac{e^{-\sum_k \lambda_k B_j^{(k)}}}{e^\psi}$$
+  * The partition function is $$$$
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
