@@ -165,7 +165,7 @@ $$
 \end{align*}
 $$
 
-* The number of particles $$N'$$ and volume $$V'$$ are fixed constraints, but the energy is allowed to fluctuate. The expected value of the energy must be finite.
+* The number of particles $$N \neq N'$$ and volume $$V \neq V'$$ are fixed constraints, but the energy is allowed to fluctuate. The expected value of the energy must be finite.
 * We would not write the constraints this way. Instead, the volume and the number of parameters would appear as fixed parameters in our Hamiltonian.
 * Questions we will answer:
   * If $$N$$ and $$V$$ are fixed, what is the probability of being in each microstate?
@@ -328,7 +328,7 @@ $$
       * $$\delta(N(x_i, p_i) - N') \gt 0$$, meaning that the number of particles is fixed to $$N \neq N'$$ (not clear why we denote this as a $$\delta$$ inequality)
       * $$\delta(V(x_i, p_i) - V') \gt 0$$, meaning that the volume is fixed to $$V \neq V'$$
       * Average energy $$\lt E \gt = \sum_i H(x_i, \bf{p_i})p_i$$ is finite
-  * We arrived at the partition function of the ensemble:
+  * We arrived at the partition function of the canonical ensemble:
     * $$Z = e^\Psi = \sum_j e^{-\beta H(x_j, \bf{p_j})}$$ is the partition function, where $$\beta=\frac{1}{k_BT}$$.
     * Here, $$p_j = \frac{e^{-\beta H(x_j, \bf{p_j})}}{e^\Psi}$$ is the probability of being in a microstate.
   * The canonical ensemble is the ensemble where the system is allowed to exchange heat with the surrounding, but not matter or work.
