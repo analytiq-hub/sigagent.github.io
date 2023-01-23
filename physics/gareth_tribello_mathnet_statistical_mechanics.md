@@ -327,6 +327,7 @@ $$
     * In answering these questions, we said that
       * $$\delta(N(x_i, p_i) - N') \gt 0$$, meaning that the number of particles is fixed to $$N \neq N'$$ (not clear why we denote this as a $$\delta$$ inequality)
       * $$\delta(V(x_i, p_i) - V') \gt 0$$, meaning that the volume is fixed to $$V \neq V'$$
+      * Expected energy $$\lt E \gt = \sum_i H(x_i, \bf{p_i})p_i$$
   
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
