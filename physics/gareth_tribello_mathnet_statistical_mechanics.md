@@ -328,10 +328,17 @@ $$
       * $$\delta(N(x_i, p_i) - N') \gt 0$$, meaning that the number of particles is fixed to $$N \neq N'$$ (not clear why we denote this as a $$\delta$$ inequality)
       * $$\delta(V(x_i, p_i) - V') \gt 0$$, meaning that the volume is fixed to $$V \neq V'$$
       * Average energy $$\lt E \gt = \sum_i H(x_i, \bf{p_i})p_i$$ is finite
-  * We arrived at the canonical ensemble:
+  * We arrived at the partition function of the ensemble:
     * $$Z = e^\Psi = \sum_j e^{-\beta H(x_j, \bf{p_j})}$$ is the partition function, where $$\beta=\frac{1}{k_BT}$$.
     * Here, $$p_j = \frac{e^{-\beta H(x_j, \bf{p_j})}}{e^\Psi}$$ is the probability of being in a microstate.
-  
+  * The canonical ensemble is the ensemble where the system is allowed to exchange heat with the surrounding, but not matter or work.
+* In this lecture, we consider a system that is allowed to exchange both heat and work with the surroundings.
+  * But will not be allowed to change matter.
+* We get:
+  * $$\delta(N(x_i, p_i) - N') \gt 0$$
+  * $$\lt E \gt = \sum_i H(x_i, \bf{p_i})p_i$$ is finite
+  * $$\lt V \gt = \sum_i V(x_i, \bf{p_i})p_i$$ is finite, but both $$E$$ and $$V$$ can fluctuate
+* Let's use Lagrange multipliers to get the constraints:
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
