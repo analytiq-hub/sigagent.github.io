@@ -406,7 +406,7 @@ $$
 
 &= \Psi + \frac{ \left< E \right>}{k_BT} + \frac{P \left< V \right>}{k_BT} \text{, or} \\
 
-k_BT \Psi &= ST - \left< E \right> - P \left< V \right>
+k_BT \Psi &= - (\left< E \right> + P \left< V \right> - ST)
 \end{align*}
 $$
 
