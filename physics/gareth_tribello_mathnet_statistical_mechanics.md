@@ -341,6 +341,15 @@ $$
 * In general:
   * The probability of being in a microstate is $$p_j = \frac{e^{-\sum_k \lambda_k B_j^{(k)}}}{e^\psi}$$
   * The partition function is $$Z = e^\Psi = \sum_j e^{-\sum_k \lambda_k B_j^{(k)}}$$
+* We replace $$B^(k}$$ by energy and volume. For the probablity of being in microstate $$i$$, we get:
+
+$$
+\begin{align*}
+p_i = \frac{e^{-\beta H(x_i, \bf{p_i})} e^{-\beta \lambda V(x_i, \bf{p_i})}}{e^\psi}
+\end{align*}
+$$
+
+* Here, the Lagrange multiplier for the Hamiltonian is $$\beta$$, and the Lagrange multiplier for the Volume is $$\beta \lambda$$, for a yet unknown value $$\lambda$$.
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
