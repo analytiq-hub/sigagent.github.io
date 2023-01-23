@@ -341,7 +341,7 @@ $$
 * In general:
   * The probability of being in a microstate is $$p_j = \frac{e^{-\sum_k \lambda_k B_j^{(k)}}}{e^\psi}$$
   * The partition function is $$Z = e^\Psi = \sum_j e^{-\sum_k \lambda_k B_j^{(k)}}$$
-* We replace $$B^(k}$$ by energy and volume. For the probablity of being in microstate $$i$$, we get:
+* We replace $$B^{k}$$ by energy and volume. For the probablity of being in microstate $$i$$, we get:
 
 $$
 \begin{align*}
