@@ -388,7 +388,9 @@ $$
 
 $$
 \begin{align*}
-\mathrm{d}E = T \mathrm{d} S - P \mathrm{d} V  + \mu \mathrm{d} N
+\mathrm{d}E = T \mathrm{d} S - P \mathrm{d} V  + \mu \mathrm{d} N \\
+
+\mathrm{d}S = \frac{1}{T} \mathrm{d}E + \frac{P}{T}\mathrm{d}V - \frac{\mu}{T} \mathrm{d}N \\
 \end{align*}
 $$
 
