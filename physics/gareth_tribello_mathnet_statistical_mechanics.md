@@ -194,15 +194,15 @@ $$
 $$
 \begin{align*}
 \frac{1}{k_B}\mathrm{d}S
-&= - \sum_{j,k} \lambda^{(j)} \langle \frac{\partial b^{(j)}  }{\partial \alpha^{(k)}} \rangle \mathrm{d}\alpha^{(k)} 
+&= - \sum_{j,k} \lambda^{(j)} \left< \frac{\partial b^{(j)}  }{\partial \alpha^{(k)}} \right> \mathrm{d}\alpha^{(k)} 
 + \sum_j \lambda^{(j)} \mathrm{d}\langle B^{(j)} \rangle \\
 
-&= - \beta \sum_{k} \langle \frac{\partial H(\bf{x_j},\bf{p_j})  }{\partial \alpha^{(k)}} \rangle \mathrm{d}\alpha^{(k)} 
+&= - \beta \sum_{k} \left< \frac{\partial H(\bf{x_j},\bf{p_j})  }{\partial \alpha^{(k)}} \right> \mathrm{d}\alpha^{(k)} 
 + \beta \mathrm{d}\langle H(\bf{x_j},\bf{p_j}) \rangle \\
 
-&= - \beta \langle \frac{\partial H }{\partial N} \rangle \mathrm{d}V
-- \beta \langle \frac{\partial H }{\partial V} \rangle \mathrm{d}N
-+ \beta \mathrm{d} E
+&= - \beta \left< \frac{\partial H }{\partial N} \right> \mathrm{d}V
+- \beta \left< \frac{\partial H }{\partial V} \right> \mathrm{d}N
++ \beta \mathrm{d} \left< E \right>
 
 \end{align*}
 $$
