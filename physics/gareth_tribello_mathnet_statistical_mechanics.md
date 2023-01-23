@@ -394,6 +394,21 @@ $$
 \end{align*}
 $$
 
+* Equating coefficients of $$\mathrm{d} \left< E \right>$$ we get $$\beta = \frac{1}{k_B T}$$
+* Equating coefficients of $$\mathrm{d} \left< V \right>$$ we get $$\lambda=P$$
+* We call the isothermic isobaric ensemble the _NPT ensemble_, to indicate that in this ensemble the number of atoms, the temperature and the pressure are all kept fixed.
+* We next connect the value of the partition function with the value of the appropriate potential
+* We can calculate the entropy by
+
+$$
+\begin{align*}
+\frac{S}{k_B} &= \Psi + \sum_k \lambda_k \left< B^{(k)}\right> \\
+
+&= \Psi + \frac{ \left< E \right>}{k_BT} + \frac{P \left< V \right>}{k_BT} \text{, or} \\
+
+k_BT \Psi &= ST - \left< E \right> - P \left< V \right>
+\end{align*}
+$$
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
