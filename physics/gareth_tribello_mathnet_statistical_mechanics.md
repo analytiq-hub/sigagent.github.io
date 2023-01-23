@@ -412,6 +412,7 @@ $$
 
 * The right hand side is minus the Gibbs free energy
 * The isothermic isobaric partition function $$Z_{ii} = e^\Psi$$
+* Thus, the Gibbs free energy can be computed from the isothermic isobaric partition function: $$G = -k_B T \ln Z_{ii}$$
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
