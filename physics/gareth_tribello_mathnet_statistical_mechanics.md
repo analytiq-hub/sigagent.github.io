@@ -335,7 +335,7 @@ $$
 * In this lecture, we consider a system that is allowed to exchange both heat and work with the surroundings.
   * But will not be allowed to change matter.
 * We get:
-  * $$\delta(N(x_i, p_i) - N') \gt 0$$
+  * $$\delta(N(x_i, p_i) - N') \gt 0$$, which expresses that the number of particles is fixed
   * $$\lt E \gt = \sum_i H(x_i, \bf{p_i})p_i$$ is finite
   * $$\lt V \gt = \sum_i V(x_i, \bf{p_i})p_i$$ is finite, but both $$E$$ and $$V$$ can fluctuate
 * Let's use Lagrange multipliers to get the constraints:
