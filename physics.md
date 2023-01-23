@@ -112,6 +112,16 @@ title: Physics
     * [L3: Maximizing entropy](https://www.youtube.com/watch?v=EmM1jOV1uSY&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=3)
       * 1st law of thermodynamics
       * The two laws of thermodynamics imply that temperature equalizes in a system that comes to thermodynamic equilibrium (complete proof)
+      * Why a system's probability distribution seeks to occupy states that maximize its entropy
+      	* Shown by creating $$N$$ identical replicas of the system, and pointing out that the $$N$$ systems would seek to maximize their total number of states
+      * Proof of the Stirling formula $$N! \approx N^N e^{-N}$$, by estimating $$\sum_{x=1}^N \ln x \approx \int_{x=1}^N \ln x$$, and noticing that $$\int \ln x = x \ln x - x$$
+      * The method of Lagrange multipliers, explained
+        * The variables will the the probability values in the distribution
+      	* Two constraints:
+	  * Probabilities add up to $$1$$
+	  * Average energy $$E = \sum p_i E_i$$ is given
+      * Next class will solve the Lagrange multipliers for this situation
+      * Temperature will be a Lagrange multiplier
     * L4: The Boltzmann distribution
     * L5: Pressure of an ideal gas and fluctuations
     * L6: Weakly interacting gases, heat, and work
