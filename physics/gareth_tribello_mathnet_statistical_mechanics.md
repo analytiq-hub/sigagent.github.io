@@ -362,9 +362,27 @@ $$
 
 $$
 \begin{align*}
+\frac{1}{k_B}\mathrm{d}S
+&= - \sum_{j,k} \lambda^{(j)} \left< \frac{\partial b^{(j)}  }{\partial \alpha^{(k)}} \right> \mathrm{d}\alpha^{(k)} 
++ \sum_j \lambda^{(j)} \mathrm{d}\langle B^{(j)} \rangle \\
 \end{align*}
 $$
 
+* Here, recall that $$B^(j)$$ are the extensive variables whose ensemble averages are constrained to be finite, while $$\alpha^{(k)}$$ are the extensive variables that are kept fixed.
+* For the isothermal isobaric example, replace $$\alpha^{k}$$ with $$N$$, and $$B^(j)$$ with the sum of the Hamiltonian and the volume.
+
+$$
+\begin{align*}
+\frac{1}{k_B}\mathrm{d}S
+&= - \beta \sum_{i} \left< \frac{\partial H(\bf{x_i},\bf{p_i})  }{\partial N} \right> \mathrm{d}N 
++ \beta \sum_{i} \mathrm{d}\langle H(\bf{x_i},\bf{p_i}) \rangle - \beta \lambda \sum_{i} \left< \frac{\partial V(\bf{x_i},\bf{p_i})  }{\partial N} \right> \mathrm{d}N 
++ \beta \lambda \sum_{i} \mathrm{d}\langle V(\bf{x_i},\bf{p_i}) \rangle \\
+
+&= - \beta \left( \left< \frac{\partial H }{\partial N} \right>
+- \lambda \left< \frac{\partial V }{\partial N} \right> \right)\mathrm{d}N
++ \beta \mathrm{d} \left< E \right> + \beta \lambda \mathrm{d}\left< V \right>
+\end{align*}
+$$
 
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
