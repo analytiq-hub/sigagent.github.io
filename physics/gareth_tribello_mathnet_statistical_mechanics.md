@@ -358,6 +358,14 @@ Z = e^\Psi = \sum_i e^{-\beta H(x_i, \bf{p_i})} e^{-\beta \lambda V(x_i, \bf{p_i
 \end{align*}
 $$
 
+* Consider the change in the Entropy:
+
+$$
+\begin{align*}
+\end{align*}
+$$
+
+
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
