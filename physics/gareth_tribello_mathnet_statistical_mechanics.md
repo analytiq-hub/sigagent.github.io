@@ -350,6 +350,14 @@ p_i = \frac{e^{-\beta H(x_i, \bf{p_i})} e^{-\beta \lambda V(x_i, \bf{p_i})}}{e^\
 $$
 
 * Here, the Lagrange multiplier for the Hamiltonian is $$\beta$$, and the Lagrange multiplier for the Volume is $$\beta \lambda$$, for a yet unknown value $$\lambda$$.
+* The equation for the isothermic isobaric partition function is:
+
+$$
+\begin{align*}
+Z = e^\Psi = \sum_i e^{-\beta H(x_i, \bf{p_i})} e^{-\beta \lambda V(x_i, \bf{p_i})}
+\end{align*}
+$$
+
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
