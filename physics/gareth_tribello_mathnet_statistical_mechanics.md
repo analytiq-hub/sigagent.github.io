@@ -410,6 +410,7 @@ k_BT \Psi &= - (\left< E \right> + P \left< V \right> - ST)
 \end{align*}
 $$
 
+* The right hand side is minus the Gibbs free energy
 * The isothermic isobaric partition function $$Z_{ii} = e^\Psi$$
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
