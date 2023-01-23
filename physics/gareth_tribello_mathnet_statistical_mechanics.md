@@ -384,6 +384,14 @@ $$
 \end{align*}
 $$
 
+* When we combine the 1st and 2nd law of Thermodynamics, we get
+
+$$
+\begin{align*}
+\mathrm{d}E = T \mathrm{d} S - P \mathrm{d} V  + \mu \mathrm{d} N
+\end{align*}
+$$
+
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
