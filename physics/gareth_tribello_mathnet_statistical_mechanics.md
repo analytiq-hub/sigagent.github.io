@@ -935,3 +935,9 @@ $$
     * These additional forces will increase or decrease the pressure created by the walls of the container.
 * The van der Waals equation was first derived using considerations such as these.
 * This is why the earlier derivation seems peculiar. We knew where we wanted to get to, and made the approximations in order to get there.
+
+[The isothermal isobaric ensemble](http://gtribello.github.io/mathNET/isothermal-isobaric-ensemble-video.html)
+
+[Phase transitions](http://gtribello.github.io/mathNET/phase-transitions-video.html)
+
+[Understanding phase transitions in statistical mechanics](http://gtribello.github.io/mathNET/ising-model-phase-trans-video.html)
