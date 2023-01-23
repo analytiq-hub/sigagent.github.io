@@ -318,7 +318,16 @@ $$
 * $$Var(E) = k_B T^2 C_v$$ for the heat capacity $$C_v$$
 
 [The isothermal isobaric ensemble](http://gtribello.github.io/mathNET/isothermal-isobaric-ensemble-video.html)
-* 
+* Review of canonical ensemble
+  * The state space is a collection of all possible positions and momenta for particles in the system.
+  * We can define functions of positions and momenta, and we can use these functions to compute extensive quantities - volume, number of particles, energy
+  * We asked:
+    * If $$N$$ and $$V$$ are fixed, what is the probability of being in each microstate?
+    * How does entropy $$S$$ change when we change $$N$$ and $$V$$?
+    * In answering these questions, we said that
+      * $$\delta(N(x_i, p_i) - N') \gt 0$$, meaning that the number of particles is fixed to $$N \neq N'$$ (not clear why we denote this as a $$\delta$$ inequality)
+      * $$\delta(V(x_i, p_i) - V') \gt 0$$, meaning that the volume is fixed to $$V \neq V'$$
+  
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
