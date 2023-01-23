@@ -917,3 +917,21 @@ $$
 \left[ P + \left(\frac{N}{V}\right)^2 \frac{B}{2} \right]  \left( V - \frac{AN}{2} \right) &= N k_B T
 \end{align*}
 $$
+
+* Why did we make these particular approximations?
+* Because we knew this was the final form we wanted to get to
+* Often, the final form is one that can be derived through multiple ways
+* We could thus make small approximations if we get closer to our final goal
+* We know that the partition function is unsolvable, and every equation of state we derive is thus an approximation.
+* How would we have derived this equation using a less sophisticated and more qualitative procedure?
+* The first term is $$P$$ plus something, and we can think of it as an effect of pressure.
+* The second term is $$V$$ minus something, thus an effect of volume
+* We thus have an effect of pressure times an effect of volume equals $$N k_B T$$, which is just the equation of state for the ideal gas, $$PV=Nk_B T$$, except we have an effect of pressure times an effect of volume.
+* The means of the parameters $$A$$ and $$B$$ become clearer:
+  * The $$A$$ is related to the volume of a single atom.
+    * We are excluding the volume of atoms from the volume of the total space.
+    * Each atom moves around in a reduced space, because the atoms cannot interact.
+  * The $$B$$ term mimics the effect of interactions of atoms, and the effect on pressure
+    * These additional forces will increase or decrease the pressure created by the walls of the container.
+* The van der Waals equation was first derived using considerations such as these.
+* This is why the earlier derivation seems peculiar. We knew where we wanted to get to, and made the approximations in order to get there.
