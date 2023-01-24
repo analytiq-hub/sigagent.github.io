@@ -420,7 +420,22 @@ $$
 \begin{align*}
 1 &= e^{-\Psi}e^{\Psi} \\
 
-&= e^{-\Psi} \sum_i e^{- \beta H(x_i,p_i)} e^{-\beta P V(x_i, p_i}  \\
+&= \sum_i e^{- \beta H(x_i,p_i) -\beta P V(x_i, p_i) -\Psi} \\
+\end{align*}
+$$
+
+* Differetiate by $$\beta P$$:
+
+$$
+\begin{align*}
+0 &= -\sum_i \left( \frac{\partial \Psi}{\partial(\beta P)} + V(x_i,p_i)\right) e^{- \beta H(x_i,p_i) -\beta P V(x_i, p_i) -\Psi} \\
+
+&= -\frac{\partial \Psi}{\partial(\beta P)} \sum_i \frac{e^{- \beta H(x_i,p_i) -\beta P V(x_i, p_i)}}{e^\Psi} 
+-\sum_i V(x_i,p_i) \frac{e^{- \beta H(x_i,p_i) -\beta P V(x_i, p_i)}}{e^\Psi}
+\\
+
+&= -\frac{\partial \Psi}{\partial(\beta P)}  
+- \left< V \right>
 \end{align*}
 $$
 
