@@ -466,7 +466,10 @@ $$
 \left< V \right> &= -\frac{\partial \Psi}{\partial(\beta P)} \\
 \frac{\partial\left< V \right> }{\partial(\beta P)} &= -\frac{\partial^2 \Psi}{\partial(\beta P)^2} \text{, but we have the chain rule:} \\
 \frac{\partial\left< V \right> }{\partial P} &= \frac{\partial\left< V \right> }{\partial(\beta P)} \frac{\partial (\beta P)}{\partial P} 
-= \beta \frac{\partial\left< V \right> }{\partial(\beta P)} \text{ at constant pressure}
+= \beta \frac{\partial\left< V \right> }{\partial(\beta P)} \text{ at constant pressure} \\
+&= \frac{1}{k_B T}\frac{\partial\left< V \right> }{\partial(\beta P)} \\
+&= - \frac{1}{k_B T} \frac{\partial^2 \Psi}{\partial(\beta P)^2} \\
+&= - \frac{1}{k_B T} Var(V)
 \end{align*}
 $$
 
