@@ -483,8 +483,8 @@ k_T = - \frac{1}{V} \left( \frac{\partial V}{ \partial P} \right)_T \\
 \end{align*}
 $$
 
-
 * Note that Gareth gets $$k_BT$$ at the top of the fraction not the bottom!
+* The isothermal compression must then be positive, because so is the variance
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
