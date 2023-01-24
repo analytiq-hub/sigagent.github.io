@@ -459,6 +459,17 @@ $$
 
 * We get $$\left< (V- \left< V \right>)^2\right> = Var(V) = \frac{\partial^2 \Psi}{\partial(\beta P)^2}$$
 * Variance must be positive. Thus $$\frac{\partial^2 \Psi}{\partial(\beta P)^2} \ge 0$$
+* We get
+
+$$
+\begin{align*}
+\left< V \right> &= -\frac{\partial \Psi}{\partial(\beta P)} \\
+\frac{\partial\left< V \right> }{\partial(\beta P)} &= -\frac{\partial^2 \Psi}{\partial(\beta P)^2} \text{, but we have the chain rule:} \\
+\frac{\partial\left< V \right> }{\partial P} &= \frac{\partial\left< V \right> }{\partial(\beta P)} \frac{\partial (\beta P)}{\partial P} 
+= \beta \frac{\partial\left< V \right> }{\partial(\beta P)} \text{ at constant pressure}
+\end{align*}
+$$
+
 
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
