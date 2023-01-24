@@ -439,6 +439,8 @@ $$
 \end{align*}
 $$
 
+* We get $$\left< V \right> = -\frac{\partial \Psi}{\partial(\beta P)} $$
+
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
