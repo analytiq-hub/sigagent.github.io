@@ -441,6 +441,24 @@ $$
 
 * We get $$\left< V \right> = -\frac{\partial \Psi}{\partial(\beta P)} $$
 
+$$
+\begin{align*}
+0 &= -\sum_i \left( \frac{\partial \Psi}{\partial(\beta P)} + V(x_i,p_i)\right) e^{- \beta H(x_i,p_i) -\beta P V(x_i, p_i) -\Psi} \text{, take once more derivative to } (\beta P) \\
+
+0 &= -\sum_i \left( \frac{\partial^2 \Psi}{\partial(\beta P)^2} 
+- \frac{\partial \Psi}{\partial(\beta P)} V(x_i,p_i) - V(x_i,p_i)^2\right) e^{- \beta H(x_i,p_i) -\beta P V(x_i, p_i) -\Psi} \\
+
+&= -\frac{\partial^2 \Psi}{\partial(\beta P)^2} + \frac{\partial \Psi}{\partial(\beta P)} \left< V \right>
++ \left< V^2 \right> \\
+
+&= -\frac{\partial^2 \Psi}{\partial(\beta P)^2}
+- \left< V \right>^2 
++ \left< V^2 \right>
+\end{align*}
+$$
+
+* We get $$\frac{\partial^2 \Psi}{\partial(\beta P)^2} = \left< (V- \left< V \right>)^2\right> = Var(V)$$
+
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
