@@ -474,8 +474,17 @@ $$
 $$
 
 * Remember that the isothermic compressibility is defined as $$k_T = - \frac{1}{V} \left( \frac{\partial V}{ \partial P} \right)_T$$
-* Thus $$k_T = \frac{}{}$$
+* Thus
 
+$$
+\begin{align*}
+k_T = - \frac{1}{V} \left( \frac{\partial V}{ \partial P} \right)_T \\
+=  \frac{1}{k_B T V} Var(V)
+\end{align*}
+$$
+
+
+* Note that Gareth gets $$k_BT$$ at the top of the fraction not the bottom!
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
