@@ -457,7 +457,8 @@ $$
 \end{align*}
 $$
 
-* We get $$\frac{\partial^2 \Psi}{\partial(\beta P)^2} = \left< (V- \left< V \right>)^2\right> = Var(V)$$
+* We get $$\left< (V- \left< V \right>)^2\right> = Var(V) = \frac{\partial^2 \Psi}{\partial(\beta P)^2}$$
+* Variance must be positive. Thus $$\frac{\partial^2 \Psi}{\partial(\beta P)^2} \ge 0$$
 
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
