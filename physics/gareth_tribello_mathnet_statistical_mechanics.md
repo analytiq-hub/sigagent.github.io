@@ -369,7 +369,7 @@ $$
 $$
 
 * Here, recall that $$B^{(j)}$$ are the extensive variables whose ensemble averages are constrained to be finite, while $$\alpha^{(k)}$$ are the extensive variables that are kept fixed.
-* For the isothermal isobaric example, replace $$\alpha^{k}$$ with $$N$$, and $$B^(j)$$ with the sum of the Hamiltonian and the volume.
+* For the isothermal isobaric example, replace $$\alpha^{k}$$ with $$N$$, and $$B^{(j)}$$ with the sum of the Hamiltonian and the volume.
 
 $$
 \begin{align*}
