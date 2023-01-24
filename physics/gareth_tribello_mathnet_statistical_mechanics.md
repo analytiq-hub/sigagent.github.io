@@ -414,7 +414,16 @@ $$
 * The isothermic isobaric partition function $$Z_{ii} = e^\Psi$$
 * Thus, the Gibbs free energy can be computed from the isothermic isobaric partition function: $$G = -k_B T \ln Z_{ii}$$
 
-* TO DO: continue
+* Compute ensemble averages for volume
+
+$$
+\begin{align*}
+1 &= e^{-\Psi}e^{\Psi} \\
+
+&= e^{-\Psi} \sum_i e^{- \beta H(x_i,p_i)} e^{-\beta P V(x_i, p_i}  \\
+\end{align*}
+$$
+
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
 
