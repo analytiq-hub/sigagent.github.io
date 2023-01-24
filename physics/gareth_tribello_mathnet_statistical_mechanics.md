@@ -470,6 +470,7 @@ $$
 \end{align*}
 $$
 
+* We define $$k_T = - \frac{1}{V} \left( \frac{\partial V}{ \partial P} \right)_T
 
 
 [Model Systems I: Lattice Systems Gasses](http://gtribello.github.io/mathNET/lattice-gas-video.html)
