@@ -128,7 +128,7 @@ $$
 - \sum_{i,j} \lambda^{(j)} \frac{\partial b_i^{(j)}}{\partial \alpha^{(k)}} p_i \\
 
 &= - \sum_{j} \frac{\partial \lambda^{(j)} }{\partial \alpha^{(k)}} \langle B^{(j)} \rangle
-- \sum_{j} \lambda^{(j)} \langle \frac{\partial b^{(j)}  }{\partial \alpha^{(k)}} \rangle
+- \sum_{j} \lambda^{(j)} \langle \frac{\partial B^{(j)}  }{\partial \alpha^{(k)}} \rangle
 \end{align*}
 $$
 
@@ -139,7 +139,7 @@ $$
 \frac{1}{k_B}\frac{\partial S}{\partial \alpha^{(k)}} 
 &= \frac{\partial \Psi}{\partial \alpha^{(k)}} + \sum_j \frac{\partial \lambda^{(j)}}{\partial \alpha^{(k)}} \langle B^{(j)} \rangle + \sum_j \lambda^{(j)} \frac{\partial  \langle B^{(j)} \rangle}{\partial \alpha^{(k)}} \\
 
-&= \sum_j \lambda^{(j)} \frac{\partial  \langle B^{(j)} \rangle}{\partial \alpha^{(k)}} - \sum_{j} \lambda^{(j)} \langle \frac{\partial b^{(j)}  }{\partial \alpha^{(k)}} \rangle
+&= \sum_j \lambda^{(j)} \frac{\partial  \langle B^{(j)} \rangle}{\partial \alpha^{(k)}} - \sum_{j} \lambda^{(j)} \langle \frac{\partial B^{(j)}  }{\partial \alpha^{(k)}} \rangle
 \end{align*}
 $$
 
@@ -148,7 +148,7 @@ Written as differential form with respect to vectors $$\frac{\partial}{\partial 
 $$
 \begin{align*}
 \frac{1}{k_B}\mathrm{d}S
-&= - \sum_{j,k} \lambda^{(j)} \langle \frac{\partial b^{(j)}  }{\partial \alpha^{(k)}} \rangle \mathrm{d}\alpha^{(k)} + \sum_j \lambda^{(j)} \mathrm{d}\langle B^{(j)} \rangle
+&= - \sum_{j,k} \lambda^{(j)} \langle \frac{\partial B^{(j)}  }{\partial \alpha^{(k)}} \rangle \mathrm{d}\alpha^{(k)} + \sum_j \lambda^{(j)} \mathrm{d}\langle B^{(j)} \rangle
 \end{align*}
 $$
 
@@ -194,7 +194,7 @@ $$
 $$
 \begin{align*}
 \frac{1}{k_B}\mathrm{d}S
-&= - \sum_{j,k} \lambda^{(j)} \left< \frac{\partial b^{(j)}  }{\partial \alpha^{(k)}} \right> \mathrm{d}\alpha^{(k)} 
+&= - \sum_{j,k} \lambda^{(j)} \left< \frac{\partial B^{(j)}  }{\partial \alpha^{(k)}} \right> \mathrm{d}\alpha^{(k)} 
 + \sum_j \lambda^{(j)} \mathrm{d}\langle B^{(j)} \rangle \\
 
 &= - \beta \sum_{k} \left< \frac{\partial H(\bf{x_j},\bf{p_j})  }{\partial \alpha^{(k)}} \right> \mathrm{d}\alpha^{(k)} 
@@ -363,12 +363,12 @@ $$
 $$
 \begin{align*}
 \frac{1}{k_B}\mathrm{d}S
-&= - \sum_{j,k} \lambda^{(j)} \left< \frac{\partial b^{(j)}  }{\partial \alpha^{(k)}} \right> \mathrm{d}\alpha^{(k)} 
+&= - \sum_{j,k} \lambda^{(j)} \left< \frac{\partial B^{(j)}  }{\partial \alpha^{(k)}} \right> \mathrm{d}\alpha^{(k)} 
 + \sum_j \lambda^{(j)} \mathrm{d}\langle B^{(j)} \rangle \\
 \end{align*}
 $$
 
-* Here, recall that $$B^(j)$$ are the extensive variables whose ensemble averages are constrained to be finite, while $$\alpha^{(k)}$$ are the extensive variables that are kept fixed.
+* Here, recall that $$B^{(j)}$$ are the extensive variables whose ensemble averages are constrained to be finite, while $$\alpha^{(k)}$$ are the extensive variables that are kept fixed.
 * For the isothermal isobaric example, replace $$\alpha^{k}$$ with $$N$$, and $$B^(j)$$ with the sum of the Hamiltonian and the volume.
 
 $$
