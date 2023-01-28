@@ -30,6 +30,7 @@ title: Physics
 * MIT 8.333 [Statistical Mechanics I: Statistical Mechanics of Particles](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg) (2013)
   * Mehran Kardar: [Statistical Physics of Particles](https://www.amazon.com/Statistical-Physics-Particles-Mehran-Kardar/dp/0521873428)
 * Jos Thijssen [statistical mechanics videos](https://www.youtube.com/@josthijssen6782/videos)
+* T. Hill: [Statistical mechanics: Principles and Selected Application](https://www.amazon.com/Statistical-Mechanics-Principles-Selected-Applications/dp/0486653900), orig. edition 1956, 2nd ed 1987
 * Attempts to axiomatize:
   * K.R. Narayanan, A.R. Srinivasa: [On the Thermodynamic Temperature of a General Distribution](https://arxiv.org/pdf/0711.1460.pdf) (2007)
   * T. Matsoukas: [Thermodynamics Beyond Molecules: Statistical Thermodynamics of Distributions](https://arxiv.org/pdf/1809.07367.pdf) (2019)
