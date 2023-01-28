@@ -30,8 +30,10 @@ title: Physics
 * MIT 8.333 [Statistical Mechanics I: Statistical Mechanics of Particles](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg) (2013)
   * Mehran Kardar: [Statistical Physics of Particles](https://www.amazon.com/Statistical-Physics-Particles-Mehran-Kardar/dp/0521873428)
 * Jos Thijssen [statistical mechanics videos](https://www.youtube.com/@josthijssen6782/videos)
-* K.R. Narayanan, A.R. Srinivasa: [On the Thermodynamic Temperature of a General Distribution](https://arxiv.org/pdf/0711.1460.pdf) (2007)
-* T. Matsoukas: [Thermodynamics Beyond Molecules: Statistical Thermodynamics of Distributions](https://arxiv.org/pdf/1809.07367.pdf) (2019)
+* Attempts to axiomatize:
+  * K.R. Narayanan, A.R. Srinivasa: [On the Thermodynamic Temperature of a General Distribution](https://arxiv.org/pdf/0711.1460.pdf) (2007)
+  * T. Matsoukas: [Thermodynamics Beyond Molecules: Statistical Thermodynamics of Distributions](https://arxiv.org/pdf/1809.07367.pdf) (2019)
+  * H. Touchette: [The large deviation approach to statistical mechanics](https://www.sciencedirect.com/science/article/abs/pii/S0370157309001410) (2009)
 
 #### Ising Model
 * Barry A. Cipra: [An Introduction to the Ising Model](https://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/isingIntro.pdf), AMM Monthly, 1987
