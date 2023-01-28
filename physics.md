@@ -33,6 +33,7 @@ title: Physics
 * Attempts to axiomatize:
   * K.R. Narayanan, A.R. Srinivasa: [On the Thermodynamic Temperature of a General Distribution](https://arxiv.org/pdf/0711.1460.pdf) (2007)
   * T. Matsoukas: [Thermodynamics Beyond Molecules: Statistical Thermodynamics of Distributions](https://arxiv.org/pdf/1809.07367.pdf) (2019)
+  * T. Matsoukas: [Generalized statistical thermodynamics: Thermodynamics of probability distributions and stochastic processes](https://www.amazon.com/Generalized-Statistical-Thermodynamics-Distributions-Understanding/dp/3030041484/) (2018)
   * H. Touchette: [The large deviation approach to statistical mechanics](https://www.sciencedirect.com/science/article/abs/pii/S0370157309001410) (2009)
 
 #### Ising Model
