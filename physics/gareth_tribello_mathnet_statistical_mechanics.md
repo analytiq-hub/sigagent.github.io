@@ -602,6 +602,7 @@ $$
 \begin{pmatrix}
          e^{2\beta(J+H)} + e^{-2\beta J} & e^{\beta H} + e^{-\beta H} \\
          e^{\beta H} + e^{-\beta H} & e^{-2\beta J} + e^{\beta(2J-2H)}
+\end{pmatrix} 
 
 \end{align*}
 $$
