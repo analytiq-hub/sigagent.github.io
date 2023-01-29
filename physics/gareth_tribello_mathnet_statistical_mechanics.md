@@ -572,7 +572,7 @@ Z &= e^\Psi = {\color{red} \sum_j} e^{-\beta {\color{green}{H(x_j, p_j)}}} \\
 \end{align*}
 $$
 
-We claim that this equals the trace of the n-th power of the matrix:
+We claim that this equals the trace of the n-th power of the _transfer matrix_:
 
 $$
 \begin{align*}
