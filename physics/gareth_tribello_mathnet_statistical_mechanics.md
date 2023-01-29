@@ -609,7 +609,7 @@ $$
 
 $$
 \begin{align*}
-(e^{\beta(J+H)} + e^{\beta(J-H)} + 2e^{-\beta J}) = tr \left[ 
+e^{\beta(J+H)} + e^{\beta(J-H)} + 2e^{-\beta J} = tr \left[ 
 \begin{pmatrix}
          e^{\beta(J+H)} & e^{-\beta J} \\
          e^{-\beta J} & e^{\beta(J-H)} 
