@@ -545,6 +545,14 @@ $$
   * It is the simplest interacting model we can work with
   * The second part of the Hamiltonian is exactly the one we have for the lattice gas
 * Used to describe interactions of particles sitting on a ring and having spin up, spin down states
+* The partition function is
+
+$$
+\begin{align*}
+Z = e^\Psi = {\color{red} \sum_j} e^{-\beta {\color{blue}H(x_j, p_j)}}
+\end{align*}
+$$
+
 * Rewrite the Hamiltonian as
 
 $$
