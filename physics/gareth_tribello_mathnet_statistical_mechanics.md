@@ -576,7 +576,7 @@ $$
 
 $$
 \begin{align*}
-tr \left[
+Z = tr \left[
 \begin{pmatrix}
          e^{\beta(J+H)} & e^{-\beta J} \\
          e^{-\beta J} & e^{\beta(J-H)} 
