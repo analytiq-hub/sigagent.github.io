@@ -557,7 +557,9 @@ $$
 
 $$
 \begin{align*}
-Z &= e^\Psi = {\color{red} \sum_j} e^{-\beta {\color{blue}H(x_j, p_j)}} \\
+Z &= e^\Psi = {\color{red} \sum_j} e^{-\beta {\color{green}H(x_j, p_j)}} \\
+
+&= {\color{red} \sum_{s_1\in\{-1,1\}}...\sum_{s_N\in\{-1,1\}}} e^{-\beta {\color{green}\sum_{i=1}^N \left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right]}} \\
 \end{align*}
 $$
 
