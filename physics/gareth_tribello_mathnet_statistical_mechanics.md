@@ -545,14 +545,6 @@ $$
   * It is the simplest interacting model we can work with
   * The second part of the Hamiltonian is exactly the one we have for the lattice gas
 * Used to describe interactions of particles sitting on a ring and having spin up, spin down states
-* The partition function is
-
-$$
-\begin{align*}
-Z = e^\Psi = {\color{red} \sum_j} e^{-\beta {\color{blue}H(x_j, p_j)}}
-\end{align*}
-$$
-
 * Rewrite the Hamiltonian as
 
 $$
@@ -560,6 +552,15 @@ $$
 H = - \sum_{i=1}^N \left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right]
 \end{align*}
 $$
+
+* The partition function is
+
+$$
+\begin{align*}
+Z &= e^\Psi = {\color{red} \sum_j} e^{-\beta {\color{blue}H(x_j, p_j)}} \\
+\end{align*}
+$$
+
 
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
