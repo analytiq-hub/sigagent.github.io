@@ -572,6 +572,20 @@ Z &= e^\Psi = {\color{red} \sum_j} e^{-\beta {\color{green}{H(x_j, p_j)}}} \\
 \end{align*}
 $$
 
+We claim that this equals the trace of the n-th power of the matrix:
+
+$$
+\begin{align*}
+tr \left[
+\begin{pmatrix}
+         e^{\beta(J+H)} & e^{-\beta J} \\
+         e^{-\beta J} & e^{\beta(J-H)} 
+\end{pmatrix}^n
+\right]
+\end{align*}
+$$
+
+
 
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
