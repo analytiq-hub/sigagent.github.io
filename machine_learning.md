@@ -261,6 +261,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 
 #### Reinforcement Learning
 * R. Sutton, A. Barto: [Reinforcement Learning, second edition: An Introduction](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=d_pd_sim_sccl_3_1/146-1943148-1230166) (2018)
+* [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/index.html)
 
 #### Chat Agents
 * L. Ouyang el al: [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf) (2022)
