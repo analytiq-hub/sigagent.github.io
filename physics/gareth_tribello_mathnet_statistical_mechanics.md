@@ -572,7 +572,7 @@ Z &= e^\Psi = {\color{red} \sum_j} e^{-\beta {\color{green}{H(x_j, p_j)}}} \\
 \end{align*}
 $$
 
-We claim that this equals the trace of the n-th power of the _transfer matrix_:
+* We claim that this equals the trace of the n-th power of the _transfer matrix_:
 
 $$
 \begin{align*}
@@ -580,12 +580,47 @@ tr \left[
 \begin{pmatrix}
          e^{\beta(J+H)} & e^{-\beta J} \\
          e^{-\beta J} & e^{\beta(J-H)} 
-\end{pmatrix}^n
+\end{pmatrix}^N
 \right]
 \end{align*}
 $$
 
+* For $$N=2$$:
 
+$$
+\begin{align*}
+\begin{pmatrix}
+         e^{\beta(J+H)} & e^{-\beta J} \\
+         e^{-\beta J} & e^{\beta(J-H)} 
+\end{pmatrix}
+\times
+\begin{pmatrix}
+          e^{\beta(J+H)} & e^{-\beta J} \\
+         e^{-\beta J} & e^{\beta(J-H)} 
+\end{pmatrix} 
+= 
+\begin{pmatrix}
+         e^{2\beta(J+H)} + e^{-2\beta J} & e^{\beta H} + e^{-\beta H} \\
+         e^{\beta H} + e^{-\beta H} & e^{-2\beta J} + e^{\beta(2J-2H)}
+
+\end{align*}
+$$
+
+$$
+\begin{align*}
+(e^{\beta(J+H)} + e^{\beta(J-H)} + 2e^{-\beta J}) = tr \left[ 
+\begin{pmatrix}
+         e^{\beta(J+H)} & e^{-\beta J} \\
+         e^{-\beta J} & e^{\beta(J-H)} 
+\end{pmatrix}
+\times
+\begin{pmatrix}
+          e^{\beta(J+H)} & e^{-\beta J} \\
+         e^{-\beta J} & e^{\beta(J-H)} 
+\end{pmatrix} 
+\right]
+\end{align*}
+$$
 
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
