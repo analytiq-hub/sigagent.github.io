@@ -1194,6 +1194,10 @@ $$
 * The van der Waals equation was first derived using considerations such as these.
 * This is why the earlier derivation seems peculiar. We knew where we wanted to get to, and made the approximations in order to get there.
 
+[An introduction to the mean field approximation](http://gtribello.github.io/mathNET/mean-field-approx-video.html)
+* When particles are interacting, it is difficult to compute the partition function for the Hamiltonian exactly.
+* Mean field approximation is used to compute an approximation of the Hamiltonian, so that the partition function for the approximation can be computed exactly.
+
 [Phase transitions](http://gtribello.github.io/mathNET/phase-transitions-video.html)
 
 [Understanding phase transitions in statistical mechanics](http://gtribello.github.io/mathNET/ising-model-phase-trans-video.html)
