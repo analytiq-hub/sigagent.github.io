@@ -575,16 +575,20 @@ $$
 * We introduce the _transfer matrix_
 
 $$
-t_{s_i s_{i+1}} =
 \begin{align*}
+t_{s_i s_{i+1}} =
 \begin{pmatrix}
          e^{\beta(J+H)} & e^{-\beta J} \\
          e^{-\beta J} & e^{\beta(J-H)} 
+\end{pmatrix} =
+\begin{pmatrix}
+         e^{\beta(J\cdot1\cdot1+H\frac{1+1}{2})} & e^{\beta(J\cdot1\cdot(-1)+H\frac{1-1}{2})} \\
+         e^{\beta(J\cdot(-1)\cdot1+H\frac{-1+1}{2})} & e^{\beta(J\cdot(-1)\cdot(-1)+H\frac{-1-1}{2})} 
 \end{pmatrix}
 \end{align*}
 $$
 
-where the matrix rows & columns are indexed not $$0, 1$$ but $$1, -1$$
+* Here, the matrix rows & columns are indexed not $$0, 1$$ but $$1, -1$$
   * Rows correspond to $$s_i = 1,-1$$
   * Columns correspond to $$s_{i+1} = 1,-1$$
   * Element $$(s_i, s_{i+1})$$ is $$e^{\beta {\color{green} {\left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right]}}}$$
