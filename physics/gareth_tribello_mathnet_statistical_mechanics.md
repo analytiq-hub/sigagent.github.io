@@ -750,6 +750,14 @@ $$
 \end{align*}
 $$
 
+* When the magnetic effect is zero, $$H=0$$, and the solutions are
+
+$$
+\begin{align*}
+\lambda &= e^{\beta J} \pm e^{-\beta J}
+\end{align*}
+$$
+
 
 
 
