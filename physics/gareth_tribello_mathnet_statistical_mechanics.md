@@ -1350,7 +1350,7 @@ $$
 \begin{align*}
 Z = e^\Psi
 = {\color{red} {\sum_j}} e^{-\beta H(x_j, p_j)}
-= {\color{red} {\sum_{s_1\in\{-1,1\}}...\sum_{s_N\in\{-1,1\}}}} e^{\beta {\color{green}{\sum_{i=1}^N (H + 2J\left< S \right>) s_i }}}
+\approx {\color{red} {\sum_{s_1\in\{-1,1\}}...\sum_{s_N\in\{-1,1\}}}} e^{\beta {\color{green}{\sum_{i=1}^N (H + 2J\left< S \right>) s_i }}}
 \end{align*}
 $$
 
@@ -1363,7 +1363,14 @@ Z \approx 2^N \cosh^N \left[ \beta (H+2J\left< S \right>)\right]
 $$
 
 * Remaining problem: determine $$\left< S \right>$$
-* We can calculate it by taking the derivative of the log partition function by $$\beta H$$
+* We can calculate it by taking the derivative of the log partition function by $$\beta H$$, then dividing by the number of particles. Keeping in mind that $$d/dx ln(cosh(x)) = tanh(x)$$:
+
+$$
+\begin{align*}
+\left< S \right> \approx \tanh \left[ \beta (H+2J\left< S \right>)\right]
+\end{align*}
+$$
+
 
 
 [Phase transitions](http://gtribello.github.io/mathNET/phase-transitions-video.html)
