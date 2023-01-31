@@ -1321,16 +1321,27 @@ $$
 * When particles are interacting, it is difficult to compute the partition function for the Hamiltonian exactly.
 * Mean field approximation is used to compute an approximation of the Hamiltonian, so that the partition function for the approximation can be computed exactly.
   * Mean field approximation will take an interacting particles model, with particles on a lattice, and approximate it with non-interacting particles that can be exactly computed
-* We will start with the 1-Dimensional closed Ising model
+* We will start with the Hamiltonian of the 1-Dimensional closed Ising model
 
 $$
 \begin{align*}
-Z = \sum_{i=1}^N e^{-Js_i s_{i+1} - H s_i}
+H = \sum_{i=1}^N {-Js_i s_{i+1} - H s_i} \\
 \end{align*}
 $$
 
 * Boundary condition $$s_{N+1} = s_1$$
 * The problematic term is the $$J$$ term
+* For the approximation, we will compute the average spin in the system
+* We will then compute the interaction between the average spin, and each spin
+* We are including a spurious self-interaction term
+* This is the approximated Hamiltonian:
+
+$$
+\begin{align*}
+H \approx \sum_{i=1}^N { - (H +2J\left< S \right>) s_i } \\
+\end{align*}
+$$
+
 
 
 [Phase transitions](http://gtribello.github.io/mathNET/phase-transitions-video.html)
