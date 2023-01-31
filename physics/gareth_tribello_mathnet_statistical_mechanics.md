@@ -1371,7 +1371,7 @@ $$
 \end{align*}
 $$
 
-
+* To see what conclusions we can draw, do the [mean field exercises](http://gtribello.github.io/mathNET/mean-field-problems.html)
 
 [Phase transitions](http://gtribello.github.io/mathNET/phase-transitions-video.html)
 
