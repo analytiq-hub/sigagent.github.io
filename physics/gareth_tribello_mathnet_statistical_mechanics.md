@@ -1342,6 +1342,17 @@ H \approx \sum_{i=1}^N { - (H +2J\left< S \right>) s_i } \\
 \end{align*}
 $$
 
+* Each spin variable still interacts with the magnetic field $$H$$ in the same way
+* Rather than incorporating the interactions with the two adjacent particles, we incorporate the interaction with twice the mean field of the spins.
+* The partition function is
+
+$$
+\begin{align*}
+Z = e^\Psi
+= {\color{red} {\sum_{s_1\in\{-1,1\}}...\sum_{s_N\in\{-1,1\}}}} e^{-\beta {\color{green}{\sum_{i=1}^N (H + 2J\left< S \right>) s_i }}}
+\end{align*}
+$$
+
 
 
 [Phase transitions](http://gtribello.github.io/mathNET/phase-transitions-video.html)
