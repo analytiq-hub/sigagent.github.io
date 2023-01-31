@@ -575,7 +575,7 @@ $$
 * We introduce the _transfer matrix_
 
 $$
-t_{s_i s_{i+1}}
+t_{s_i s_{i+1}} =
 \begin{align*}
 \begin{pmatrix}
          e^{\beta(J+H)} & e^{-\beta J} \\
@@ -585,12 +585,15 @@ t_{s_i s_{i+1}}
 $$
 
 where the matrix rows & columns are indexed not $$0, 1$$ but $$1, -1$$
+  * Rows correspond to $$s_i = 1,-1$$
+  * Columns correspond to $$s_{i+1} = 1,-1$$
+  * Element $$(s_i, s_{i+1})$$ is $$e^{\beta {\color{green} {\left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right]}}}$$
 
 * Entry index $$s_i, s_{i+2}$$ in the product
 
 $$
 \begin{align*}
-t_{s_i s_{i+1}}t_{s_{i+2} s_{i+2}} = 
+t_{s_i s_{i+1}}t_{s_{i+1} s_{i+2}} = 
 \begin{pmatrix}
          e^{\beta(J+H)} & e^{-\beta J} \\
          e^{-\beta J} & e^{\beta(J-H)} 
