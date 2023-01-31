@@ -623,6 +623,8 @@ e^{\beta(J+H)} + e^{\beta(J-H)} + 2e^{-\beta J} = tr \left[
 \end{align*}
 $$
 
+* For a proof of the claim: [Solving the 1-Dimensional Ising Model](https://stanford.edu/~jeffjar/statmech/lec4.html#solving1)
+
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
 
