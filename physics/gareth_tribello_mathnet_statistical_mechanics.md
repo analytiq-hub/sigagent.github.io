@@ -645,13 +645,33 @@ $$
 \end{align*}
 $$
 
-
-
-* We claim that this equals the trace of the n-th power of the _transfer matrix_:
+* Entry index $$s_1, s_{1}^{\prime}$$ in the product 
 
 $$
 \begin{align*}
-Z = tr \left[
+t_{s_1,s_2}...t_{s_{N-1},s_N}t_{s_{N},s_1^{\prime}} = 
+\begin{pmatrix}
+         e^{\beta(J+H)} & e^{-\beta J} \\
+         e^{-\beta J} & e^{\beta(J-H)} 
+\end{pmatrix}^{N}
+\end{align*}
+$$
+
+is equal to
+
+$$
+\begin{align*}
+{\color{red} {\sum_{s_2\in\{-1,1\}}...\sum_{s_{N}\in\{-1,1\}}}} e^{\beta {\color{green}{\sum_{i=1}^N \left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right]}}}
+\end{align*}
+$$
+
+* Finally, to get to $$Z$$, we need to sum all elements with $$s_1=s_1^\prime$$ - which means we need to take the trace of the $$N$$-th power of the transfer matrix:
+
+$$
+\begin{align*}
+Z
+= {\color{red} \sum_{s_1\in\{-1,1\}}...\sum_{s_N\in\{-1,1\}}} e^{\beta {\color{green}{\sum_{i=1}^N \left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right]}}}
+= tr \left[
 \begin{pmatrix}
          e^{\beta(J+H)} & e^{-\beta J} \\
          e^{-\beta J} & e^{\beta(J-H)} 
@@ -660,45 +680,7 @@ Z = tr \left[
 \end{align*}
 $$
 
-* Compute the product
-
-$$
-\begin{align*}
-\begin{pmatrix}
-         e^{\beta(J+H)} & e^{-\beta J} \\
-         e^{-\beta J} & e^{\beta(J-H)} 
-\end{pmatrix}
-\times
-\begin{pmatrix}
-          e^{\beta(J+H)} & e^{-\beta J} \\
-         e^{-\beta J} & e^{\beta(J-H)} 
-\end{pmatrix} 
-= 
-\begin{pmatrix}
-         e^{2\beta(J+H)} + e^{-2\beta J} & e^{\beta H} + e^{-\beta H} \\
-         e^{\beta H} + e^{-\beta H} & e^{-2\beta J} + e^{\beta(2J-2H)}
-\end{pmatrix} 
-
-\end{align*}
-$$
-
-$$
-\begin{align*}
-e^{\beta(J+H)} + e^{\beta(J-H)} + 2e^{-\beta J} = tr \left[ 
-\begin{pmatrix}
-         e^{\beta(J+H)} & e^{-\beta J} \\
-         e^{-\beta J} & e^{\beta(J-H)} 
-\end{pmatrix}
-\times
-\begin{pmatrix}
-          e^{\beta(J+H)} & e^{-\beta J} \\
-         e^{-\beta J} & e^{\beta(J-H)} 
-\end{pmatrix} 
-\right]
-\end{align*}
-$$
-
-* For a proof of the claim: [Solving the 1-Dimensional Ising Model](https://stanford.edu/~jeffjar/statmech/lec4.html#solving1).
+* This proof is from [Solving the 1-Dimensional Ising Model](https://stanford.edu/~jeffjar/statmech/lec4.html#solving1).
 
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
