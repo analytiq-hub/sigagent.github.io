@@ -1349,7 +1349,7 @@ $$
 $$
 \begin{align*}
 Z = e^\Psi
-= {\color{red} {\sum_{s_1\in\{-1,1\}}...\sum_{s_N\in\{-1,1\}}}} e^{-\beta {\color{green}{\sum_{i=1}^N (H + 2J\left< S \right>) s_i }}}
+= {\color{red} {\sum_{s_1\in\{-1,1\}}...\sum_{s_N\in\{-1,1\}}}} e^{\beta {\color{green}{\sum_{i=1}^N (H + 2J\left< S \right>) s_i }}}
 \end{align*}
 $$
 
