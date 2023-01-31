@@ -708,6 +708,19 @@ det \left[
 \end{align*}
 $$
 
+* This means
+
+$$
+\begin{align*}
+det 
+\begin{pmatrix}
+         e^{\beta(J+H)} - \lambda & e^{-\beta J} \\
+         e^{-\beta J} & e^{\beta(J-H)} - \lambda 
+\end{pmatrix}
+= 0
+\end{align*}
+$$
+
 
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
