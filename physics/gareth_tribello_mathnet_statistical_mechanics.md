@@ -735,7 +735,9 @@ $$
 
 $$
 \begin{align*}
-\lambda^2 - e^{\beta J} \left( e^{\beta H} + e^{-\beta H} \right)\lambda + e^{2\beta J} - e^{-2\beta J} = 0
+\lambda^2 - e^{\beta J} \left( e^{\beta H} + e^{-\beta H} \right)\lambda + e^{2\beta J} - e^{-2\beta J} &= 0 \\
+
+\lambda^2 - 2 e^{\beta J} \cosh (\beta H)\lambda + 2 \sinh (2\beta J)  &= 0
 \end{align*}
 $$
 
