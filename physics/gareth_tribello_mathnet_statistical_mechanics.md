@@ -1329,6 +1329,9 @@ Z = \sum_{i=1}^N e^{-Js_i s_{i+1} - H s_i}
 \end{align*}
 $$
 
+* Boundary condition $$s_{N+1} = s_1$$
+* The problematic term is the $$J$$ term
+
 
 [Phase transitions](http://gtribello.github.io/mathNET/phase-transitions-video.html)
 
