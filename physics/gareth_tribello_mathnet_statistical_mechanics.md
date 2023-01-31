@@ -641,7 +641,7 @@ is equal to
 
 $$
 \begin{align*}
-&= {\color{red} \sum_{s_2\in\{-1,1\}}...\sum_{s_{N-1}\in\{-1,1\}}} e^{\beta {\color{green}{\sum_{i=1}^N \left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right]}}}
+{\color{red} {\sum_{s_2\in\{-1,1\}}...\sum_{s_{N-1}\in\{-1,1\}}}} e^{\beta {\color{green}{\sum_{i=1}^N \left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right]}}}
 \end{align*}
 $$
 
