@@ -586,6 +586,39 @@ $$
 
 where the matrix rows & columns are indexed not $$0, 1$$ but $$-1, 1$$
 
+* Entry index $$s_i, s_{i+2}$$ in the product
+
+$$
+\begin{align*}
+t_{s_i s_{i+1}}t_{s_{i+2} s_{i+2}} = 
+\begin{pmatrix}
+         e^{\beta(J+H)} & e^{-\beta J} \\
+         e^{-\beta J} & e^{\beta(J-H)} 
+\end{pmatrix}
+\times
+\begin{pmatrix}
+          e^{\beta(J+H)} & e^{-\beta J} \\
+         e^{-\beta J} & e^{\beta(J-H)} 
+\end{pmatrix} 
+= 
+\begin{pmatrix}
+         e^{2\beta(J+H)} + e^{-2\beta J} & e^{\beta H} + e^{-\beta H} \\
+         e^{\beta H} + e^{-\beta H} & e^{-2\beta J} + e^{\beta(2J-2H)} 
+\end{pmatrix}
+\end{align*}
+$$
+
+is equal to
+
+$$
+\begin{align*}
+{\color{red} {\sum_{s_{i+1}\in\{-1,1\}}}}
+e^{\beta {\color{green} {\left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right]}}} 
+ e^{\beta {\color{green} {\left[ J s_{i+1} s_{i+2} + H \frac{s_{i+1} + s_{i+2}}{2} \right]}}}
+\end{align*}
+$$
+
+
 * We claim that this equals the trace of the n-th power of the _transfer matrix_:
 
 $$
