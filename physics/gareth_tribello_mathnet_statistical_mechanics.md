@@ -721,6 +721,17 @@ det
 \end{align*}
 $$
 
+* Expanding the determinant, this means:
+
+$$
+\begin{align*}
+\left( e^{\beta(J+H)} - \lambda \right)
+\left( e^{\beta(J-H)} - \lambda \right) 
+-2 e^{-\beta J} = 0
+\end{align*}
+$$
+
+
 
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
