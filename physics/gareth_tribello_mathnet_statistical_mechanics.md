@@ -1320,7 +1320,15 @@ $$
 [An introduction to the mean field approximation](http://gtribello.github.io/mathNET/mean-field-approx-video.html)
 * When particles are interacting, it is difficult to compute the partition function for the Hamiltonian exactly.
 * Mean field approximation is used to compute an approximation of the Hamiltonian, so that the partition function for the approximation can be computed exactly.
-  * Mean field approximation will take an interacting particles model, with particles on a lattice, and approximate it with non-interacting particles
+  * Mean field approximation will take an interacting particles model, with particles on a lattice, and approximate it with non-interacting particles that can be exactly computed
+* We will start with the 1-Dimensional closed Ising model
+
+$$
+\begin{align*}
+Z = \sum_{i=1}^N e^{-Js_i s_{i+1} - H s_i}
+\end{align*}
+$$
+
 
 [Phase transitions](http://gtribello.github.io/mathNET/phase-transitions-video.html)
 
