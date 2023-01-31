@@ -625,14 +625,23 @@ e^{\beta {\color{green} {\left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right
 \end{align*}
 $$
 
-* Entry index $$s_1, s_{N}$$ in the product $$t_{s_1,s_2}...t_{s_{N-1},s_N}$$ is equal to
+* Entry index $$s_1, s_{N}$$ in the product 
 
 $$
 \begin{align*}
+t_{s_1,s_2}...t_{s_{N-1},s_N} = 
 \begin{pmatrix}
          e^{\beta(J+H)} & e^{-\beta J} \\
          e^{-\beta J} & e^{\beta(J-H)} 
 \end{pmatrix}^{N-1}
+\end{align*}
+$$
+
+is equal to
+
+$$
+\begin{align*}
+&= {\color{red} \sum_{s_2\in\{-1,1\}}...\sum_{s_{N-1}\in\{-1,1\}}} e^{\beta {\color{green}{\sum_{i=1}^N \left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right]}}}
 \end{align*}
 $$
 
