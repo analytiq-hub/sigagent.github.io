@@ -1354,6 +1354,15 @@ Z = e^\Psi
 \end{align*}
 $$
 
+* From here on, the derivation is almost the same as for the lattice gas
+
+$$
+\begin{align*}
+Z \approx 2^N \cosh^N \left[ \beta (H+2J\left< S \right>)\right]
+\end{align*}
+$$
+
+
 
 
 [Phase transitions](http://gtribello.github.io/mathNET/phase-transitions-video.html)
