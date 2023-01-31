@@ -682,6 +682,8 @@ $$
 
 * This proof is from [Solving the 1-Dimensional Ising Model](https://stanford.edu/~jeffjar/statmech/lec4.html#solving1).
 
+* Let $$\lambda_1, \lambda_2$$ be the eigenvalues of the transfer matrix. Then $$Z = \lambda_1^N + \lambda_2^N$$
+
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
 
