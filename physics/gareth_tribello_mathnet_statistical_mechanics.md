@@ -625,6 +625,18 @@ e^{\beta {\color{green} {\left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right
 \end{align*}
 $$
 
+* Entry index $$s_1, s_{N}$$ in the product $$t_{s_1,s_2}...t_{s_{N-1},s_N}$$ is equal to
+
+$$
+\begin{align*}
+\begin{pmatrix}
+         e^{\beta(J+H)} & e^{-\beta J} \\
+         e^{-\beta J} & e^{\beta(J-H)} 
+\end{pmatrix}^{N-1}
+\end{align*}
+$$
+
+
 
 * We claim that this equals the trace of the n-th power of the _transfer matrix_:
 
