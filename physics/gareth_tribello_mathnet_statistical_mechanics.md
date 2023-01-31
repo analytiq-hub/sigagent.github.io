@@ -572,6 +572,20 @@ Z &= e^\Psi = {\color{red} \sum_j} e^{-\beta {\color{green}{H(x_j, p_j)}}} \\
 \end{align*}
 $$
 
+* We introduce the _transfer matrix_
+
+$$
+t_{s_i s_{i+1}}
+\begin{align*}
+\begin{pmatrix}
+         e^{\beta(J+H)} & e^{-\beta J} \\
+         e^{-\beta J} & e^{\beta(J-H)} 
+\end{pmatrix}
+\end{align*}
+$$
+
+where the matrix rows & columns are indexed not $$0, 1$$ but $$-1, 1$$
+
 * We claim that this equals the trace of the n-th power of the _transfer matrix_:
 
 $$
@@ -585,7 +599,7 @@ Z = tr \left[
 \end{align*}
 $$
 
-* For $$N=2$$:
+* Compute the product
 
 $$
 \begin{align*}
@@ -623,7 +637,7 @@ e^{\beta(J+H)} + e^{\beta(J-H)} + 2e^{-\beta J} = tr \left[
 \end{align*}
 $$
 
-* For a proof of the claim: [Solving the 1-Dimensional Ising Model](https://stanford.edu/~jeffjar/statmech/lec4.html#solving1)
+* For a proof of the claim: [Solving the 1-Dimensional Ising Model](https://stanford.edu/~jeffjar/statmech/lec4.html#solving1).
 
 
 [Model Systems III: The statistical mechanics of the ideal gas](https://www.youtube.com/watch?v=MOOV1K5mKeY)
