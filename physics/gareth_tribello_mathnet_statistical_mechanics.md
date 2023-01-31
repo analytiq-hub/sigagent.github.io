@@ -670,7 +670,7 @@ $$
 $$
 \begin{align*}
 Z
-= {\color{red} \sum_{s_1\in\{-1,1\}}...\sum_{s_N\in\{-1,1\}}} e^{\beta {\color{green}{\sum_{i=1}^N \left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right]}}}
+= {\color{red} {\sum_{s_1\in\{-1,1\}}...\sum_{s_N\in\{-1,1\}}}} e^{\beta {\color{green}{\sum_{i=1}^N \left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right]}}}
 = tr \left[
 \begin{pmatrix}
          e^{\beta(J+H)} & e^{-\beta J} \\
