@@ -1320,6 +1320,7 @@ $$
 [An introduction to the mean field approximation](http://gtribello.github.io/mathNET/mean-field-approx-video.html)
 * When particles are interacting, it is difficult to compute the partition function for the Hamiltonian exactly.
 * Mean field approximation is used to compute an approximation of the Hamiltonian, so that the partition function for the approximation can be computed exactly.
+  * Mean field approximation will take an interacting particles model, with particles on a lattice, and approximate it with non-interacting particles
 
 [Phase transitions](http://gtribello.github.io/mathNET/phase-transitions-video.html)
 
