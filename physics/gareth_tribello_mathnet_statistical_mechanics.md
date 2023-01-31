@@ -566,7 +566,7 @@ Z &= e^\Psi = {\color{red} \sum_j} e^{-\beta {\color{green}{H(x_j, p_j)}}} \\
 {\color{green}{\prod_{j=1}^N}} e^{\beta {\color{green} {\left[ J s_i s_{i+1} + H \frac{s_i + s_{i+1}}{2} \right]}}} \\
 
 &= {\color{red} {\sum_{s_1\in\{-1,1\}}\sum_{s_s\in\{-1,1\}}}} e^{\beta {\color{green} {\left[ J s_1 s_{2} + H \frac{s_1 + s_{2}}{2} \right]}}} 
-{\color{red} {\sum_{s_3\in\{-1,1\}}}} e^{\beta {\color{green} {\left[ J s_2 s_{3} + H \frac{s_3 + s_{3}}{2} \right]}}} ... 
+{\color{red} {\sum_{s_3\in\{-1,1\}}}} e^{\beta {\color{green} {\left[ J s_2 s_{3} + H \frac{s_2 + s_{3}}{2} \right]}}} ... 
 {\color{red} {\sum_{s_N\in\{-1,1\}}}} e^{\beta {\color{green} {\left[ J s_{N-1} s_{N} + H \frac{s_{N-1} + s_{N}}{2} \right]}}} e^{\beta {\color{green} {\left[ J s_N s_{1} + H \frac{s_N + s_{1}}{2} \right]}}} \\
 
 \end{align*}
