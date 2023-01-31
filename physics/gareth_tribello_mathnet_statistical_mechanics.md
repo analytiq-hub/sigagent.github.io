@@ -741,6 +741,16 @@ $$
 \end{align*}
 $$
 
+* The solutions are
+
+$$
+\begin{align*}
+\lambda &= e^{\beta J} \cosh (\beta H) \pm \sqrt{e^{2\beta J} \cosh^2 (\beta H) - 2 \sinh (2\beta J)} \\
+&= e^{\beta J} \cosh (\beta H) \pm \sqrt{e^{2\beta J} \sinh^2 (\beta H) - e^{-2\beta J}}
+\end{align*}
+$$
+
+
 
 
 
