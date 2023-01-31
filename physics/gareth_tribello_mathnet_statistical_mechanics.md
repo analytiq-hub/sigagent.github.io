@@ -1362,7 +1362,8 @@ Z \approx 2^N \cosh^N \left[ \beta (H+2J\left< S \right>)\right]
 \end{align*}
 $$
 
-
+* Remaining problem: determine $$\left< S \right>$$
+* We can calculate it by taking the derivative of the log partition function by $$\beta H$$
 
 
 [Phase transitions](http://gtribello.github.io/mathNET/phase-transitions-video.html)
