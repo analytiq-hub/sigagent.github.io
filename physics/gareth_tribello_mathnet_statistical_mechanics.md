@@ -727,9 +727,18 @@ $$
 \begin{align*}
 \left( e^{\beta(J+H)} - \lambda \right)
 \left( e^{\beta(J-H)} - \lambda \right) 
--2 e^{-\beta J} = 0
+- e^{-2\beta J} = 0
 \end{align*}
 $$
+
+* This is eqivalent to:
+
+$$
+\begin{align*}
+\lambda^2 - e^{\beta J} \left( e^{\beta H} + e^{-\beta H} \right)\lambda + e^{2\beta J} - e^{-2\beta J} = 0
+\end{align*}
+$$
+
 
 
 
