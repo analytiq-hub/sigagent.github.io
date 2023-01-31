@@ -584,7 +584,7 @@ t_{s_i s_{i+1}}
 \end{align*}
 $$
 
-where the matrix rows & columns are indexed not $$0, 1$$ but $$-1, 1$$
+where the matrix rows & columns are indexed not $$0, 1$$ but $$1, -1$$
 
 * Entry index $$s_i, s_{i+2}$$ in the product
 
