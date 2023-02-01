@@ -1377,6 +1377,7 @@ $$
 
 * We'll model changes of state - such as from solid to liquid, and from liquid to gas
 * Consider phase coexistence
+* Gibbs phase rule says that if a solid and liquid state of a one-component system are in equilibrium, then only one thermodynamic variable is required to specify the thermodynamic state.
 * If ice cubes and water liquid are in eqilibrium, and the system is at atmospheric pressure, what must the temperature of the liquid water and ice water be? Zero degrees C.
   * In order to be at equilibrium, temperature must be uniform across the system
 * The same number of atoms take less volume when liquid, more volume when solid, most volume when gas
@@ -1397,6 +1398,5 @@ $$
   * The partial derivative of enthalpy is discontinuous. Enthalpy is not analytic. Higher derivatives will be infinite at phase boundary.
     * If the 1st order derivative is discontinuous, we say that we have a 1st order phase transition
     * If a higher order derivative is discontinuous, we way that we have a higher order phase transition
-* Gibbs rule says
 
 [Understanding phase transitions in statistical mechanics](http://gtribello.github.io/mathNET/ising-model-phase-trans-video.html)
