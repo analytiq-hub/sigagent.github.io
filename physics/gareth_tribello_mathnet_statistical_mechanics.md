@@ -1454,7 +1454,7 @@ $$
 \end{align*}
 $$
 
-* At thermodynamical limit:
+* At thermodynamical limit, we get the following average energy per spin:
 
 $$
 \begin{align*}
