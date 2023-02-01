@@ -1431,6 +1431,6 @@ $$
 
 $$
 \begin{align*}
-\left< E \right>_{TL} = \lim_{n \rightarrow \infty} \frac{\left< E \right>(n)}{n}
+\left< E \right>_{TL} = \lim_{n \rightarrow \infty} \frac{\left< E \right>(n)}{n} = - \lim_{n \rightarrow \infty} \frac{1}{n} \frac{\partial \left[ \ln Z(n) \right]}{\partial \beta}
 \end{align*}
 $$
