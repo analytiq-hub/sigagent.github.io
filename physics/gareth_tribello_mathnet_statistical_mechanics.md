@@ -1389,6 +1389,7 @@ $$
 \end{align*}
 $$
 
+* Recall that all thermodynamic variables can be written as the derivative of a thermodynamic potential
 * Gibbs rule says
 
 [Understanding phase transitions in statistical mechanics](http://gtribello.github.io/mathNET/ising-model-phase-trans-video.html)
