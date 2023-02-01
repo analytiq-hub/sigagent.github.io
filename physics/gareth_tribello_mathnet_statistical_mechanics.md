@@ -1428,3 +1428,9 @@ $$
   * It does not mean to take the number of particles $$N$$ and increase it to $$\infty$$.
     * Extensive thermodynamic variables would then become infinite as well.
   * What you are asked, instead, is to compute the average energy $$\left< E \right>_{TL}$$ per site (or atom, or molecule) as $$N$$ tends to infinity.
+
+$$
+\begin{align*}
+\left< E \right>_{TL} = \lim_{n \rightarrow \infty} \frac{\left< E \right>(n)}{n}
+\end{align*}
+$$
