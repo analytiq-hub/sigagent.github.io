@@ -1393,6 +1393,7 @@ $$
 * The thermodynamic potential here is the enthalpy $$H = E + PV$$.
   * Remember that $$\mathrm{d}H = V\mathrm{d}P + T \mathrm{d}S$$
   * From that equation, $$V = \left( \frac{\partial H}{\partial P} \right)_S$$
+  * At coexistence: $$\left( \frac{\partial H^{liq}}{\partial P} \right)_S \neq \left( \frac{\partial H^{gas}}{\partial P} \right)_S$$
 * Gibbs rule says
 
 [Understanding phase transitions in statistical mechanics](http://gtribello.github.io/mathNET/ising-model-phase-trans-video.html)
