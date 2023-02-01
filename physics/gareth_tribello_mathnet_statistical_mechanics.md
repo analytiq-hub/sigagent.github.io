@@ -1416,5 +1416,8 @@ $$
       * The exponential is analytic for all values of $$\beta$$
       * The finite sum of analytic functions is analytic
       * $$\ln$$ is analytic
-      * $$F$$ should therefore be analytic if the number of partition states is finite
+      * $$F$$ should therefore be analytic if the number of atoms, and therefore of partition states, is finite
       * This is not consistent with the existence of phase transitions
+* Finite-size systems do not have phase transitions
+* This presented a problem in the early days of statistical mechanics.
+* The solution, however, is that finite systems can contain a great number of atoms - so many that we can, effectively, assume that there are an infinite number of atoms.
