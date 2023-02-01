@@ -1375,4 +1375,9 @@ $$
 
 [Phase transitions](http://gtribello.github.io/mathNET/phase-transitions-video.html)
 
+* We'll model changes of state - such as from solid to liquid, and from liquid to gas
+* Consider phase coexistence
+* If ice cubes and water liquid are in eqilibrium, and the system is at atmospheric pressure, what must the temperature of the liquid water and ice water be? Zero degrees C.
+* Gibbs rule says
+
 [Understanding phase transitions in statistical mechanics](http://gtribello.github.io/mathNET/ising-model-phase-trans-video.html)
