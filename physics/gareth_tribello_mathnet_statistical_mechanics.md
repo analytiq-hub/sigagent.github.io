@@ -1421,3 +1421,6 @@ $$
 * Finite-size systems do not have phase transitions
 * This presented a problem in the early days of statistical mechanics.
 * The solution, however, is that finite systems can contain a great number of atoms - so many that we can, effectively, assume that there are an infinite number of atoms.
+* Then, the sum over microstates becomes an infinite sum.
+* Classical thermodynamics emerges from statistical mechanics when we consider systems with an infinite number of atoms.
+* This limit - the infinite number of atoms - is called the _thermodynamical limit_
