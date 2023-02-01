@@ -1395,6 +1395,8 @@ $$
   * From that equation, $$V = \left( \frac{\partial H}{\partial P} \right)_S$$
   * At coexistence: $$\left( \frac{\partial H^{liq}}{\partial P} \right)_S \neq \left( \frac{\partial H^{gas}}{\partial P} \right)_S$$
   * The partial derivative of enthalpy is discontinuous. Enthalpy is not analytic. Higher derivatives will be infinite at phase boundary.
+    * If the 1st order derivative is discontinuous, we say that we have a 1st order phase transition
+    * If a higher order derivative is discontinuous, we way that we have a higher order phase transition
 * Gibbs rule says
 
 [Understanding phase transitions in statistical mechanics](http://gtribello.github.io/mathNET/ising-model-phase-trans-video.html)
