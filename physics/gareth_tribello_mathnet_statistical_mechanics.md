@@ -1474,3 +1474,7 @@ $$
 Z_c = \lambda_1^N + \lambda_2^N = \lambda_1^N \left[ 1 + \left( \frac{\lambda_2}{\lambda_1}\right)^N \right]
 \end{align*}
 $$
+
+* The Perron-Frobenius theorem says that any square matrix with all positive real elements
+  * Is diagonalizable: $$A = V \Lambda V^{-1}$$
+  * Has a unique largest eigenvalue $$\lambda$$, and the corresponding eigenvector can be chosen to have strictly positive components
