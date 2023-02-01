@@ -1481,7 +1481,7 @@ $$
     * The corresponding eigenvector can be chosen to have strictly positive components
     * All other possibly complex eigenvalues $$\lambda$$ have absolute value strictly less than $$r$$.
 * This allows us to say that $$\left(\ fraction{\lambda_2}{\lambda_1} \right)^N \rightarrow 0$$ for $$N \rightarrow \infty$$
-* We get
+* We get the following for the free energy in the thermodynamic limit
 
 $$
 \begin{align*}
@@ -1490,3 +1490,5 @@ $$
 &= - k_B T \ln \lambda_1
 \end{align*}
 $$
+
+TO DO: continue
