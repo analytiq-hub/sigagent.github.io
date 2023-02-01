@@ -1417,3 +1417,4 @@ $$
       * The finite sum of analytic functions is analytic
       * $$\ln$$ is analytic
       * $$F$$ should therefore be analytic if the number of partition states is finite
+      * This is not consistent with the existence of phase transitions
