@@ -1413,4 +1413,7 @@ $$
   * The thermodynamic potential is related to the log of the partition function.
     * The free energy is $$F = -k_B T \ln Z$$
     * The partition function is $$Z = e^\Psi = \sum_j e^{-\beta H(x_j,p_j)}$$
-    * The exponential is analytic for all values of $$\beta$$
+      * The exponential is analytic for all values of $$\beta$$
+      * The finite sum of analytic functions is analytic
+      * $$\ln$$ is analytic
+      * $$F$$ should therefore be analytic if the number of partition states is finite
