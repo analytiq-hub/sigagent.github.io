@@ -1406,3 +1406,7 @@ $$
 * Instead, we will study the 1-dimensional Ising model, and show that it resembles systems with a phase transition when the temperature approaches $$0K$$
 * This is not actually a phase transition, as no system can be brought to $$0K$$
   * The 1-Dimensional Ising Model does not undergo a phase transition at any temperature above $$0K$$
+* We have learned that:
+  * When a system undergoes a phase transition, some thermodynamic variable changes discontinuously.
+  * Thermodynamic variables are related to the derivative of a thermodynamic potential
+  * The thermodynamic potential must change analytically as the system changes a thermodynamic phase boundary
