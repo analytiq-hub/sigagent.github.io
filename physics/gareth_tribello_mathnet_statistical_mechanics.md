@@ -1402,3 +1402,5 @@ $$
 [Understanding phase transitions in statistical mechanics](http://gtribello.github.io/mathNET/ising-model-phase-trans-video.html)
 * Phase transitions represented a major problem for the development of statistical mechanics.
   * Works that solved phase transitions were highly valued
+* We are not going to study the actual system that allowed physicists to understand phase transitions, for the two-dimensional Ising model, as the math required is beyond this module
+* Instead, we will study the 1-dimensional Ising model, and show that it resembles systems with a phase transition when the temperature approaches $$0K$$
