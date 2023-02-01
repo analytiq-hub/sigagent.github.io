@@ -1462,4 +1462,6 @@ $$
 \end{align*}
 $$
 
-* This does not answer our original question about phase transitions. $$\left< E \right>_{TL}$$ is an analytic function of $$\beta$$.
+* This does not answer our original question about phase transitions.
+  * $$\left< E \right>_{TL}$$ is an analytic function of $$\beta$$.
+  * This model system does not undergo a phase transition at any temperature.
