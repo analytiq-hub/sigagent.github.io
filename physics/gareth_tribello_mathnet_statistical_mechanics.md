@@ -1434,3 +1434,12 @@ $$
 \left< E \right>_{TL} = \lim_{n \rightarrow \infty} \frac{\left< E \right>(n)}{n} = - \lim_{n \rightarrow \infty} \frac{1}{n} \frac{\partial \left[ \ln Z(n) \right]}{\partial \beta}
 \end{align*}
 $$
+
+* Consider a system composed of $$N$$ non-interacting spins sitting in a magnetic field
+* We've seen that the partition function is calculated as
+
+$$
+\begin{align*}
+Z = 2^N \cosh^N (\beta \mu H)
+\end{align*}
+$$
