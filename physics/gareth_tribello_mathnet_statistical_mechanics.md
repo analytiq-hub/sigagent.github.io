@@ -1378,6 +1378,17 @@ $$
 * We'll model changes of state - such as from solid to liquid, and from liquid to gas
 * Consider phase coexistence
 * If ice cubes and water liquid are in eqilibrium, and the system is at atmospheric pressure, what must the temperature of the liquid water and ice water be? Zero degrees C.
+  * In order to be at equilibrium, temperature must be uniform across the system
+* The same number of atoms take less volume when liquid, more volume when solid, most volume when gas
+  * There is a discontinuity in volume as you change phase
+* For volume as function of pressure, at freezing or boiling point:
+
+$$
+\begin{align*}
+\lim_{\epsilon \rightarrow 0} V(x+\epsilon) \neq \lim_{\epsilon \rightarrow 0} V(x-\epsilon)
+\end{align*}
+$$
+
 * Gibbs rule says
 
 [Understanding phase transitions in statistical mechanics](http://gtribello.github.io/mathNET/ising-model-phase-trans-video.html)
