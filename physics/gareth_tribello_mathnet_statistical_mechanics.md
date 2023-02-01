@@ -1465,3 +1465,12 @@ $$
 * This does not answer our original question about phase transitions.
   * $$\left< E \right>_{TL}$$ is an analytic function of $$\beta$$.
   * This model system does not undergo a phase transition at any temperature.
+* To have phase transitions, we must have interaction between particles.
+* We'll look at the only system with interacting particles we've examined - the Ising model.
+* Remember that the partition function for the Ising model can be written as a sum of $$N$$-th power of eigenvalues of the transfer matrix:
+
+$$
+\begin{align*}
+Z_c = \lambda_1^N + \lambda_2^N = \lambda_1^N \left[ 1 + \left( \frac{\lambda_2}{\lambda_1}\right)^N \right]
+\end{align*}
+$$
