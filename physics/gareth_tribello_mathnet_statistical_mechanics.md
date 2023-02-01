@@ -1443,3 +1443,14 @@ $$
 Z = 2^N \cosh^N (\beta \mu H)
 \end{align*}
 $$
+
+* The average energy is
+
+$$
+\begin{align*}
+\left< E \right> = - \frac{\partial \ln Z}{\partial \beta}
+= - \frac{\partial \ln \left[2^N \cosh^N (\beta \mu H)\right]} 
+= - N \mu H \tanh (\beta \mu H)
+\end{align*}
+$$
+
