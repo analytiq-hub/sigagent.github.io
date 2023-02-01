@@ -1448,9 +1448,18 @@ $$
 
 $$
 \begin{align*}
-\left< E \right> = - \frac{\partial \ln Z}{\partial \beta}
-= - \frac{\partial \ln \left[2^N \cosh^N (\beta \mu H)\right]} 
+\left< E \right> &= - \frac{\partial \ln Z}{\partial \beta}
+= - \frac{\partial \ln \left[2^N \cosh^N (\beta \mu H)\right]}{\partial \beta} 
 = - N \mu H \tanh (\beta \mu H)
 \end{align*}
 $$
+
+* At thermodynamical limit:
+
+$$
+\begin{align*}
+\left< E \right>_{TL} &= \lim_{N \rightarrow \infty} \frac{- N \mu H \tanh (\beta \mu H)}{N} &= - \mu H \tanh (\beta \mu H)
+\end{align*}
+$$
+
 
