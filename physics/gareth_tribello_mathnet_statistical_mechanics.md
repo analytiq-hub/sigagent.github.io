@@ -1390,7 +1390,7 @@ $$
 $$
 
 * Recall that all thermodynamic variables can be written as the derivative of a thermodynamic potential
-* The thermodynamic potential here is the entropy $$H$$.
+* The thermodynamic potential here is the enthalpy $$H = E + PV$$.
   * Remember that $$\mathrm{d}H = V\mathrm{d}P + T \mathrm{d}S$$
 * Gibbs rule says
 
