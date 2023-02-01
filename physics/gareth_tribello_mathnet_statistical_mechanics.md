@@ -1424,3 +1424,7 @@ $$
 * Then, the sum over microstates becomes an infinite sum.
 * Classical thermodynamics emerges from statistical mechanics when we consider systems with an infinite number of atoms.
 * This limit - the infinite number of atoms - is called the _thermodynamical limit_
+* What does it mean to compute something _at the thermodynamical limit_?
+  * It does not mean to take the number of particles $$N$$ and increase it to $$\infty$$.
+    * Extensive thermodynamic variables would then become infinite as well.
+  * What you are asked, instead, is to compute the average energy $$\left< E \right>_{TL}$$ per site (or atom, or molecule) as $$N$$ tends to infinity.
