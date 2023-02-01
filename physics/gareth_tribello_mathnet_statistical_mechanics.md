@@ -1462,4 +1462,4 @@ $$
 \end{align*}
 $$
 
-
+* This does not answer our original question about phase transitions. $$\left< E \right>_{TL}$$ is an analytic function of $$\beta$$.
