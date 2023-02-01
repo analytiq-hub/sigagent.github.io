@@ -1480,3 +1480,13 @@ $$
   * Has a unique largest real-valued eigenvalue $$r$$, and
     * The corresponding eigenvector can be chosen to have strictly positive components
     * All other possibly complex eigenvalues $$\lambda$$ have absolute value strictly less than $$r$$.
+* This allows us to say that $$\left(\ fraction{\lambda_2}{\lambda_1} \right)^N \rightarrow 0$$ for $$N \rightarrow \infty$$
+* We get
+
+$$
+\begin{align*}
+\lim_{N \rightarrow \infty} \frac{F(N)}{N} &= - \lim_{N \rightarrow \infty} \frac{k_BT}{N} \left[ N \ln \lambda_1 + \ln \left[ 1 + \left( \frac{\lambda_2}{\lambda_1} \right)^N \right] \right] \\
+
+&= - k_B T \ln \lambda_1
+\end{align*}
+$$
