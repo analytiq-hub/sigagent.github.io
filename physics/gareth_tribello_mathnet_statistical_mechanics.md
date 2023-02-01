@@ -1334,7 +1334,7 @@ $$
 * For the approximation, we will compute the average spin in the system
 * We will then compute the interaction between the average spin, and each spin
 * We are including a spurious self-interaction term
-* This is the approximated Hamiltonian:
+* This is the approximated Hamiltonian: (Andrei: not clear why $$2J$$ instead of $$J$$)
 
 $$
 \begin{align*}
