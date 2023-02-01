@@ -1400,3 +1400,5 @@ $$
     * If a higher order derivative is discontinuous, we way that we have a higher order phase transition
 
 [Understanding phase transitions in statistical mechanics](http://gtribello.github.io/mathNET/ising-model-phase-trans-video.html)
+* Phase transitions represented a major problem for the development of statistical mechanics.
+  * Works that solved phase transitions were highly valued
