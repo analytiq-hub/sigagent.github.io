@@ -1405,4 +1405,4 @@ $$
 * We are not going to study the actual system that allowed physicists to understand phase transitions, for the two-dimensional Ising model, as the math required is beyond this module
 * Instead, we will study the 1-dimensional Ising model, and show that it resembles systems with a phase transition when the temperature approaches $$0K$$
 * This is not actually a phase transition, as no system can be brought to $$0K$$
-  * The 1-Dimensional Ising Model does not undergo a phase transition at any temperature
+  * The 1-Dimensional Ising Model does not undergo a phase transition at any temperature above $$0K$$
