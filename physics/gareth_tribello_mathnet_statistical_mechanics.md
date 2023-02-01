@@ -1410,4 +1410,7 @@ $$
   * When a system undergoes a phase transition, some thermodynamic variable changes discontinuously.
   * Thermodynamic variables are related to the derivative of a thermodynamic potential
   * The thermodynamic potential must change analytically as the system changes a thermodynamic phase boundary
-  * The thermodynamic potential is related to the log of the partition function: $$F = -k_B T \ln Z$$
+  * The thermodynamic potential is related to the log of the partition function.
+    * The free energy is $$F = -k_B T \ln Z$$
+    * The partition function is $$Z = e^\Psi = \sum_j e^{-\beta H(x_j,p_j)}$$
+    * The exponential is analytic for all values of $$\beta$$
