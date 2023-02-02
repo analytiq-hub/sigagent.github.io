@@ -26,6 +26,7 @@ title: Physics
   * Andrei's notes:
     * [MathNet - Classical Thermodynamics](physics/gareth_tribello_mathnet_classical_thermodynamics.md)
     * [MathNet - Statistical Mechanics](physics/gareth_tribello_mathnet_statistical_mechanics.md)
+    * [MathNet - Statistics](gareth_tribello_mathnet_statistics.md)
 * Arieh Ben-Naim: [Farewell To Entropy, A: Statistical Thermodynamics Based On Information](https://www.amazon.com/Farewell-Entropy-Statistical-Thermodynamics-Information/dp/9812707077) (2008)
 * MIT 8.333 [Statistical Mechanics I: Statistical Mechanics of Particles](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg) (2013)
   * Mehran Kardar: [Statistical Physics of Particles](https://www.amazon.com/Statistical-Physics-Particles-Mehran-Kardar/dp/0521873428)
