@@ -10,7 +10,7 @@ This is a multi-part post:
 * [MathNet - Statistical Mechanics](gareth_tribello_mathnet_statistical_mechanics.md)
 * [MathNet - Statistics](gareth_tribello_mathnet_statistics.md)
 
-[Markov chaings - Definition and Transition Matrix](http://gtribello.github.io/mathNET/markov-property-video.html)
+[Markov chains - Definition and Transition Matrix](http://gtribello.github.io/mathNET/markov-property-video.html)
 
 [Markov chains - Chapman Kolmogorov relation](http://gtribello.github.io/mathNET/chapman-kolmogorov-video.html)
 * Given a stationary Markov chain with transition matrix $$A$$, the transition matrix for going $$n$$ steps is $$A^n$$
