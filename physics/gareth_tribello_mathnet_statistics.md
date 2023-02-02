@@ -39,6 +39,7 @@ This is a multi-part post:
     * $$\lim_{n \rightarrow \infty} \frac{1}{M_i}\sum_{k=1}^{M_i - 1} T_i \le \lim_{n \rightarrow \infty} \frac{n}{M_i} \le \lim_{n \rightarrow \infty} \frac{1}{M_i}\sum_{k=1}^{M_i} T_i$$
     * By the law of large numbers, $$\mathbb{E}(T_1) \le ac{1}{M_i}\sum_{k=1}^{M_i - 1} T_i \le \mathbb{E}(T_1)$$
     * This completes the proof
+* A states period is the GCD of its return times $$d(j) = gcd\{n\,:\, p^n_{jj} \gt 0\}$$
 
 [Ergodic Markov chains - Why the limiting stationary distribution can be found from the principal left eigenvector of the transition matrix](http://gtribello.github.io/mathNET/limiting-stationary-dist-video2.html)
 
