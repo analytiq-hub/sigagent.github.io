@@ -36,6 +36,7 @@ This is a multi-part post:
   * For $$n \gt 0$$, build a chain of length $$n$$ starting with state $$i$$.
     * We return $$M_i(n)-1$$ times to state $$i$$ in $$n$$ steps, and $$M_i(n)$$ times in more than $$n$$ steps
     * $$\sum_{k=1}^{M_i - 1} T_i \le n \le \sum_{k=1}^{M_i} T_i$$
+    * $$\frac{1}{M_i}\sum_{k=1}^{M_i - 1} T_i \le \frac{n}{M_i} \le \frac{1}{M_i}\sum_{k=1}^{M_i} T_i$$
 
 [Ergodic Markov chains - Why the limiting stationary distribution can be found from the principal left eigenvector of the transition matrix](http://gtribello.github.io/mathNET/limiting-stationary-dist-video2.html)
 
