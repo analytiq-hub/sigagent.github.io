@@ -88,6 +88,12 @@ title: Amazon Web Services
 * SNS
   * A. Patel: [AWS — Difference between SQS and SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5) (2019)
 
+* SSO
+  * Pablo's Spot
+    * [How to setup AWS SSO to manage credentials](https://www.youtube.com/watch?v=0W7kpnXz_Ww)
+    * [How to setup Terraform Infrastructure Code for AWS Single Sign On (SSO)](https://www.youtube.com/watch?v=pMEAK1RC2js&t=103s)
+  * B. Newman: [Multi Account AWS with SSO in under 10 minutes](https://www.youtube.com/watch?v=9hZWPkIZxPw) (2021)
+
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
 * [Machine Learning](../machine_learning.md)
