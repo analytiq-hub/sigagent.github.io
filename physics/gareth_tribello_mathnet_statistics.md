@@ -21,6 +21,9 @@ This is a multi-part post:
   * Here, $$R_i$$ is the number of steps it takes to return to state $$i$$,
 
 [Ergodic Markov chains - Derivation of the Ergodic theorem](http://gtribello.github.io/mathNET/limiting-stationary-dist-video1.html)
+* If all states are recurrent, then $$\lim_{n \rightarrow \infty} A^n$$ has identical rows.
+  * The transition probabilities for all states in $$A^n$$, at the limit, settle to the same values
+* A chain is ergodic if it has a limiting stationary distribution and if none of the elements of this distribution are zero
 
 [Ergodic Markov chains - Why the limiting stationary distribution can be found from the principal left eigenvector of the transition matrix](http://gtribello.github.io/mathNET/limiting-stationary-dist-video2.html)
 
