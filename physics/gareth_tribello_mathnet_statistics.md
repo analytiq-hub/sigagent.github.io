@@ -25,7 +25,11 @@ This is a multi-part post:
   * The transition probabilities for all states in $$A^n$$, at the limit, settle to the same values
 * A chain is ergodic if it has a limiting stationary distribution and if none of the elements of this distribution are zero
   * Ergodic Markov chains cannot have transient states
-
+* Notation:
+  * $$M_i(n)$$ is the number of visits to state $$i$$, $$n$$ is the number of steps in chain
+  * $$T_i$$ is the return time to state $$i$$
+* Ergodic Theorem:
+  * $$\lim_{n \rightarrow \infty} \frac{M_i(n)}{n} = \frac{1}{\mathbb{E}(T_i)}$$
 
 [Ergodic Markov chains - Why the limiting stationary distribution can be found from the principal left eigenvector of the transition matrix](http://gtribello.github.io/mathNET/limiting-stationary-dist-video2.html)
 
