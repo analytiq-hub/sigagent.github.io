@@ -31,7 +31,7 @@ This is a multi-part post:
 * Ergodic Theorem:
   * $$\lim_{n \rightarrow \infty} \frac{M_i(n)}{n} = \frac{1}{\mathbb{E}(T_i)}$$, for recurrent states $$i$$
     * (Andrei) For some reason, Gareth changes notation $$R_i \rightarrow T_i$$
-    * If the state $$i$$ is transient, then $$P(R_i \le \infty) \lt 1$$, and $$R_i$$ is not a proper random variable.
+    * If the state $$i$$ is transient, then $$P(R_i \le \infty) \lt 1$$, and $$R_i$$ is not a proper random variable. So we can't compute $$\mathbb{E}(R_i)$$.
 
 [Ergodic Markov chains - Why the limiting stationary distribution can be found from the principal left eigenvector of the transition matrix](http://gtribello.github.io/mathNET/limiting-stationary-dist-video2.html)
 
