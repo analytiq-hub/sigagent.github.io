@@ -40,6 +40,7 @@ This is a multi-part post:
     * By the law of large numbers, $$\mathbb{E}(T_1) \le ac{1}{M_i}\sum_{k=1}^{M_i - 1} T_i \le \mathbb{E}(T_1)$$
     * This completes the proof
 * A states period is the GCD of its return times $$d(j) = gcd\{n\,:\, p^n_{jj} \gt 0\}$$
+* The proof of the Ergodic theorem breaks down if there are periodic states
 
 [Ergodic Markov chains - Why the limiting stationary distribution can be found from the principal left eigenvector of the transition matrix](http://gtribello.github.io/mathNET/limiting-stationary-dist-video2.html)
 
