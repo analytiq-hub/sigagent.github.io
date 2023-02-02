@@ -23,3 +23,7 @@ This is a multi-part post:
 [Ergodic Markov chains - Derivation of the Ergodic theorem](http://gtribello.github.io/mathNET/limiting-stationary-dist-video1.html)
 
 [Ergodic Markov chains - Why the limiting stationary distribution can be found from the principal left eigenvector of the transition matrix](http://gtribello.github.io/mathNET/limiting-stationary-dist-video2.html)
+
+[Monte Carlo Simulation - Brief Introduction](http://gtribello.github.io/mathNET/monte-carlo-video.html)
+
+[Monte Carlo Simulation - Using Block Averages to Calculate the Statistical Error](http://gtribello.github.io/mathNET/block_averaging_video.html)
