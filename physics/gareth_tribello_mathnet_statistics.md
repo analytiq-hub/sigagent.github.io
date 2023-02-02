@@ -27,3 +27,5 @@ This is a multi-part post:
 [Monte Carlo Simulation - Brief Introduction](http://gtribello.github.io/mathNET/monte-carlo-video.html)
 
 [Monte Carlo Simulation - Using Block Averages to Calculate the Statistical Error](http://gtribello.github.io/mathNET/block_averaging_video.html)
+
+[Markov Chains in Continuous Time](http://gtribello.github.io/mathNET/continuous-time-markov.html)
