@@ -38,6 +38,8 @@ title: Yoga and Pilates
   * Julia Reppel: [25 Min. Full Body Mobility Workout - Circuit Training](https://www.youtube.com/watch?v=jPdft5H34C8) (2022)
 * Cardio
   * Boho Beautiful: [10m yoga sequence to boost up metabolism](https://www.youtube.com/watch?v=YhmOcg17y98) (2018)
+* Power Yoga
+  * Bethany Lyons: [6-minute power yoga sequence](https://www.youtube.com/watch?v=yy_khEjkr9Q) (2016)
 
 #### Other
 * [Philosophy](philosophy.md)
