@@ -3,10 +3,14 @@ layout: page
 mathjax: true
 title: Physics
 ---
-#### Books
+#### General
 * [The Road to Reality](https://www.amazon.com/Road-Reality-Complete-Guide-Universe/dp/0679776311), Roger Penrose (2007). Great companion to other more in-depth books, explains how all the parts of physics 'fit together' in the larger theory. Requires simple understanding of differential geometry (and is in fact a great companion to any rigorous book on differential geometry). I've started with the chapter on Lagrangian and Hamiltonian mechanics, and paired it with the Taylor textbook.
+* [Inward Bound: Of Matter and Forces in the Physical World](https://www.amazon.com/Inward-Bound-Matter-Forces-Physical/dp/0198519710), A. Pais (1986)
 * [Group Theory and Physics](https://www.amazon.com/Group-Theory-Physics-S-Sternberg/dp/0521558859), S. Sternberg (1994)
 * [From Strange Simplicity to Complex Familiarity](https://www.amazon.com/Strange-Simplicity-Complex-Familiarity-Information/dp/0198841949/ref=sr_1_2?crid=DEMFFI3TDU0V&keywords=manfred+eigen&qid=1655433188&sprefix=manfred+eigen%2Caps%2C78&sr=8-2), Manfred Eigen (2013). High level yet dense and covering Physics, Chemistry, Biology. More depth than [101 Quantum Questions](https://www.amazon.com/101-Quantum-Questions-About-World/dp/0674066073).
+
+#### Biographies
+* A. Pais: [Subtle is the Lord: The science and life of Albert Einstein](https://www.amazon.com/Subtle-Lord-Science-Albert-Einstein/dp/0192806726) (2005)
 
 #### Classical Mechanics
 * [Classical Mechanics](https://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/B003I03F42), Charles Taylor (2005). Easy to read, well explained, at the level of 2nd undergrad course in mechanics. Reputed to have the best explanation of the Lagrangian. Replete with well picked exercises. Requires a bit of calculus - derivatives, integrals, very basic PDEs. No differential geometry required.
