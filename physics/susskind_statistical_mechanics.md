@@ -60,7 +60,8 @@ $$
 S &= -\sum_i p_i \ln p_i \\
   &= \frac{1}{Z}\sum_i e^{-\beta E_i} \left( \ln  e^{-\beta E_i} - \ln Z\right) \\
   &= \frac{1}{Z}\sum_i e^{-\beta E_i} \left( -\beta E_i - \ln Z\right) \\
-  &= E + \ln Z
+  &= \beta E + \ln Z \\
+  &= \frac{1}{T}E  + \ln Z
 \end{align*}
 $$
 
