@@ -47,7 +47,7 @@ title: Leonard Susskind - Statistical Mechanics - Andrei's Notes
 * Probability of $$i$$-th microstate: $$p_i = -\frac{1}{Z} e^{-\beta E_i}$$
 * Partition function $$Z = \sum_i e^{-\beta E_i}$$
 * Entropy comes before temprature
-* Temperature is $$T = \frac{1}{\beta}$$. In laboratory units
+* Temperature is $$T = \frac{1}{\beta}$$. To get laboratory units, divide by $$k_B$$.
 * Ideal Gas. Derivation of its partition function:
 
 $$
