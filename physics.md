@@ -132,6 +132,15 @@ title: Physics
       * Next class will solve the Lagrange multipliers for maximizing entropy with a given average energy constraint
       * Temperature will be a Lagrange multiplier
     * [L4: The Boltzmann distribution](https://www.youtube.com/watch?v=rhFkYjaM5kE&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=4)
+      * Occupation number of an ensemble
+      * Lagrange multipliers
+      * Maximizing entropy under constraints
+      * Partition function $$Z$$
+      * Entropy comes before temprature
+      * Temperature is $$\frac{1}{\beta}$$
+      * Ideal Gas
+      * Energy of Ideal Gas
+      * Adding Gravity to Partition function
     * [L5: Pressure of an ideal gas and fluctuations](https://www.youtube.com/watch?v=2BJYXuZZK3c&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=5)
     * [L6: Weakly interacting gases, heat, and work](https://www.youtube.com/watch?v=bW30Rj6w8VI&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=6)
     * [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
