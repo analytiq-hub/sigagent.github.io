@@ -61,9 +61,23 @@ S &= -\sum_i p_i \ln p_i \\
   &= \frac{1}{Z}\sum_i e^{-\beta E_i} \left( \ln  e^{-\beta E_i} - \ln Z\right) \\
   &= \frac{1}{Z}\sum_i e^{-\beta E_i} \left( -\beta E_i - \ln Z\right) \\
   &= \beta E + \ln Z \\
-  &= \frac{1}{T}E  + \ln Z
+  &= \frac{1}{T}E  + \ln Z \\
+A &= E - TS = -T \ln Z \text{ is the Helmholtz Free Energy}
 \end{align*}
 $$
+
+* Helmholtz Free Energy appears everywhere, and therefore is a useful abstraction
+* Math lemma: if $$E, S$$ are dependent variables, and $$T, V$$ are independent variables, then
+
+$$
+\begin{align*}
+\left( \frac{\partial E}{\partial V} \right)_S =
+\left( \frac{\partial E}{\partial V} \right)_T -
+\left( \frac{\partial E}{\partial S} \right)_V
+\left( \frac{\partial S}{\partial V} \right)_T
+\end{align*}
+$$
+
 
 [L6: Weakly interacting gases, heat, and work](https://www.youtube.com/watch?v=bW30Rj6w8VI&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=6)
 
