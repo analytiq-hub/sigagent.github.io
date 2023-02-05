@@ -111,7 +111,7 @@ title: Physics
 * MIT
   * [8-04 Quantum Physics I](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/) (2014)
 * U. Schreiber: [geometry of physics -- perturbative quantum field theory](https://ncatlab.org/nlab/show/geometry+of+physics+--+perturbative+quantum+field+theory) (2017)
-* [Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
+* [Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/), [Andrei's notes](physics/feynman.md)
 
 #### Videos
 * Sean Carroll:
