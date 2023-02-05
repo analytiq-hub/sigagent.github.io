@@ -97,7 +97,8 @@ T
 \end{align*}
 $$
 
-
+* Ideal gas: Express $$\ln Z$$ using the partition function formula, take derivative with respect to $$V$$ at fixed $$T$$
+* Get $$PV=NT$$
 
 [L6: Weakly interacting gases, heat, and work](https://www.youtube.com/watch?v=bW30Rj6w8VI&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=6)
 
