@@ -53,6 +53,16 @@ title: Leonard Susskind - Statistical Mechanics - Andrei's Notes
 * Adding Gravity to Partition function
 
 [L5: Pressure of an ideal gas and fluctuations](https://www.youtube.com/watch?v=2BJYXuZZK3c&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=5)
+* Express entropy $$E$$ using the partition function
+
+$$
+\begin{align*}
+S &= -\sum_i p_i \ln p_i \\
+  &= \frac{1}{Z}\sum_i e^{-\beta E_i} \left( \ln  e^{-\beta E_i} - \ln Z\right) \\
+  &= \frac{1}{Z}\sum_i e^{-\beta E_i} \left( -\beta E_i - \ln Z\right) \\
+  &= E + \ln Z
+\end{align*}
+$$
 
 [L6: Weakly interacting gases, heat, and work](https://www.youtube.com/watch?v=bW30Rj6w8VI&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=6)
 
