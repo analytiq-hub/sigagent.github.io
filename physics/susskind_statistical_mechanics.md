@@ -93,7 +93,7 @@ T
 \left( \frac{\partial S}{\partial V} \right)_T \\
 
 &= - \left( \frac{\partial (E-TS)}{\partial V} \right)_T \\
-&= - \left( \frac{\partial A}{\partial V}\right)_T
+&= - \left( \frac{\partial A}{\partial V}\right)_T = T \left( \frac{\partial \ln Z}{\partial V}\right)_T
 \end{align*}
 $$
 
