@@ -79,6 +79,24 @@ $$
 $$
 
 * A system has multiple energy levels. If a system is at energy level $$E$$, and if it slowly changes adiabatically (i.e., entropy does not change), then the energy level does not chage - even though the energy itself $$E$$ will change.
+* Proof that the pressure $$p$$ is the negative derivative of the Helmholtz Free Energy with respect to $$V$$ at fixed $$T$$:
+
+$$
+\begin{align*}
+-\left( \frac{\partial E}{\partial V} \right)_S &= p = 
+- \left( \frac{\partial E}{\partial V} \right)_T +
+\left( \frac{\partial E}{\partial S} \right)_V
+\left( \frac{\partial S}{\partial V} \right)_T \\
+
+&= - \left( \frac{\partial E}{\partial V} \right)_T +
+T
+\left( \frac{\partial S}{\partial V} \right)_T \\
+
+&= - \left( \frac{\partial (E-TS)}{\partial V} \right)_T \\
+&= - \left( \frac{\partial A}{\partial V}\right)_T
+\end{align*}
+$$
+
 
 
 [L6: Weakly interacting gases, heat, and work](https://www.youtube.com/watch?v=bW30Rj6w8VI&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=6)
