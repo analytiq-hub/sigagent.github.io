@@ -44,7 +44,7 @@ title: Leonard Susskind - Statistical Mechanics - Andrei's Notes
 * Occupation number of an ensemble
 * Lagrange multipliers
 * Maximizing entropy under constraints
-* Probability density: $$p_i = -\frac{1}{Z} e^{-\beta E_i}$$
+* Probability of $$i$$-th microstate: $$p_i = -\frac{1}{Z} e^{-\beta E_i}$$
 * Partition function $$Z = \sum_i e^{-\beta E_i}$$
 * Entropy comes before temprature
 * Temperature is $$T = \frac{1}{\beta}$$. In laboratory units
