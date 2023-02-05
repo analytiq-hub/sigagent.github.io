@@ -44,11 +44,18 @@ title: Leonard Susskind - Statistical Mechanics - Andrei's Notes
 * Occupation number of an ensemble
 * Lagrange multipliers
 * Maximizing entropy under constraints
-* $$p_i = -\frac{1}{Z} e^{-\beta E_i}$$
+* Probability density: $$p_i = -\frac{1}{Z} e^{-\beta E_i}$$
 * Partition function $$Z = \sum_i e^{-\beta E_i}$$
 * Entropy comes before temprature
-* Temperature is $$\frac{1}{\beta}$$
-* Ideal Gas
+* Temperature is $$T = \frac{1}{\beta}$$. In laboratory units
+* Ideal Gas. Derivation of its partition function:
+
+$$
+\begin{align*}
+Z = \frac{V^N}{N!} \left( \frac{2m\pi}{\beta} \right)^{\frac{3N}{2}}
+\end{align*}
+$$
+
 * Energy of Ideal Gas
 * Adding Gravity to Partition function
 
