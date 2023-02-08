@@ -11,6 +11,8 @@ High level talk to high school students about reversibility of all physical laws
 
 [L39 The kinetic theory of gases](https://www.feynmanlectures.caltech.edu/I_39.html)
 * Equal volumes of gases, at the same pressure and temperature, contain the same number of molecules. The law of multiple proportions, that when two gases combine in a chemical reaction the volumes needed always stand in simple integral proportions, was understood ultimately by Avogadro to mean that equal volumes have equal numbers of atoms.
+* Ideal gas law
+* Boltzmann's constant, Avogadro's number
 
 [L40 The Principles of Statistical Mechanics](https://www.feynmanlectures.caltech.edu/I_40.html)
 
