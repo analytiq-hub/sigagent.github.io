@@ -194,6 +194,7 @@ E &=  \frac{\hbar \omega e^{-\beta \hbar \omega}}{1 - e^{-\beta \hbar \omega }} 
 $$
 
 * This matches classical mechanics energy
+* At low temperatures - which means large $$\beta$$
 
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
