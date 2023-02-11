@@ -117,15 +117,13 @@ $$
 
 $$
 \begin{align*}
-\left( \frac{\partial E}{\partial V} \right)_S \\
-
 \mathrm{d}E &= \left( \frac{\partial E}{\partial V} \right)_T \mathrm{d}V + \left( \frac{\partial E}{\partial T} \right)_V \mathrm{d}T \\
 
 &= \left( \frac{\partial E}{\partial V} \right)_T \mathrm{d}V + \left( \frac{\partial E}{\partial S} \right)_V \left( \frac{\partial S}{\partial T} \right)_V \mathrm{d}T \\
 \end{align*}
 $$
 
-* Take $$\frac{\partial}{\partial V}$$ on both sides:
+* Take $$\left( \frac{\partial}{\partial V} \right)_S$$ on both sides:
 
 $$
 \begin{align*}
