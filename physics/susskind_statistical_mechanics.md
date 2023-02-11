@@ -239,7 +239,7 @@ $$
 * The second law is a puzzle, because it says that the world is irreversible, and the entropy is increasing, or stays the same. You'd have to be infinitely careful with a large system to keep entropy the same.
 * On the other hand, Newton's laws of motion are reversible. There's a tension between reversibility of laws of motion, and irreversibility of the observational properties of complicated systems. That took some time to sort out, and people are still confused about it.
 * Imagine a phase space, with many particles. It is a high dimensional space, with coordinates $$x$$ and $$p$$ for each particle.
-* Start with a probability distribution that is constant in a volume $$A$$. Then the entropy is $$\ln A$$.
+* Start with a probability distribution that is constant in a blob of volume $$A$$. Then the entropy is $$\ln A$$.
   * As the volume gets smaller, the entropy goes down
 * As time goes on, the volume stays the same (Liouville theorem). And entropy stays the same.
 * There's another concept of entropy that will increase. It has to do with coarse graining.
@@ -247,6 +247,9 @@ $$
   * There's some resolution of space that you can't get smaller than.
   * In quantum mechanics, that resolution is built in. The smallest uncertainty is given by Planck's constant.
   * Instead of points in phase space, you talk about resolved, or coarse grained points in phase space.
+* Suppose you start with a blob $$A$$ in phase space. Suppose that we have a dynamics that takes the blob and turns it into a long snake, extremely thin, and of the same total volume.
+* Because of our limited resolution powers, we can't tell one phase space point from another. So we take the points on the snake, and we blobify them.
+* 
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
