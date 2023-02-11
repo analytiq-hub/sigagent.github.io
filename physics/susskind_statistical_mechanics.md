@@ -254,7 +254,7 @@ $$
 * The average energy in terms of the partition function is $$\lt E \gt = - \frac{\partial \ln Z}{\partial \beta}$$
 * This was calculated as $$\lt E \gt = \sum_i p_i E_i = \sum_i \frac{e^{- \beta E_i}}{Z} E_i = - \frac{1}{Z} \frac{\partial Z}{\partial \beta} = - \frac{\partial \ln Z}{\partial \beta}$$
 * The average of energy square is $$\lt E^2 \gt = \sum_i p_i E_i^2 = \sum_i \frac{e^{- \beta E_i}}{Z} E_i^2 = \frac{1}{Z} \frac{\partial^2 Z}{\partial \beta^2}$$
-* The energy variance $$(\Delta E)^2 = $$
+* The energy variance $$(\Delta E)^2 = \lt E \gt ^2 - \lt E^2 \gt = \frac{1}{Z} \frac{\partial^2 Z}{\partial \beta^2} - \frac{1}{Z^2} \left( \frac{\partial Z}{\partial \beta}\right)^2$$
 
 [L6: Weakly interacting gases, heat, and work](https://www.youtube.com/watch?v=bW30Rj6w8VI&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=6)
 * Will talk about 2nd law of thermodynamics
