@@ -171,6 +171,27 @@ $$
 \end{align*}
 $$
 
+* Another way to prove this lemma, suggested in a youtube comment, is to expand the 1, 1 entry in the Jacobian matrix product, then do a bit more manipulation
+
+$$
+\begin{align*}
+\begin{pmatrix}
+\frac{\partial E}{\partial V} & \frac{\partial E}{\partial S} \\
+\frac{\partial S}{\partial V} & \frac{\partial S}{\partial S}=1
+\end{pmatrix}
+= 
+\begin{pmatrix}
+\frac{\partial E}{\partial V} & \frac{\partial E}{\partial T} \\
+\frac{\partial S}{\partial V} & \frac{\partial S}{\partial T}
+\end{pmatrix}
+\begin{pmatrix}
+\frac{\partial V}{\partial V}=1 & \frac{\partial V}{\partial S} \\
+\frac{\partial T}{\partial V} & \frac{\partial T}{\partial S}
+\end{pmatrix}
+\end{align*}
+$$
+
+
 * Pressure is just a special case of a response to a control parameter.
 * What is pressure, really? With a cilinder and piston, if pressure moves the piston of area $$A$$ by an amount $$\mathrm{d} x$$, then the change in energy $$\mathrm{d}E = pA \mathrm{d} x$$.
   * We do this slowly. Odd things can happen if you do it fast. For example, if you do it too fast, no molecule may hit the piston as you're moving it.
@@ -227,6 +248,8 @@ $$
   * Using the density $$\rho$$, get $$P \rho = T$$
   * It's what you would have computed, using kinetic energy and particles bouncing off walls
   * But there is power in this method, because whenever you have the partition function, you have a precise way to calculate pressure.
+  * The ideal gas is just the simplest applicationxs
+* Fluctuations - the variance of energy.
 
 [L6: Weakly interacting gases, heat, and work](https://www.youtube.com/watch?v=bW30Rj6w8VI&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=6)
 * Will talk about 2nd law of thermodynamics
