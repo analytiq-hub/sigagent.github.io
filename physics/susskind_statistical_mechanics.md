@@ -167,6 +167,17 @@ $$
 
 * We keep $$\hbar$$, but throw away $$k_B$$. Susskind refuses to keep track of both of them.
 
+$$
+\begin{align*}
+E &= - \frac{\partial \ln Z}{\partial \beta} = - \frac{1}{Z} \frac{\partial Z}{\partial \beta} \\
+
+&=  \left(1 - e^{-\beta \hbar \omega}\right) \frac{\hbar \omega e^{-\beta \hbar \omega}}{(1 - e^{-\beta \hbar \omega })^2} \\
+
+&= \frac{\hbar \omega e^{-\beta \hbar \omega}}{1 - e^{-\beta \hbar \omega }}
+\end{align*}
+$$
+
+
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
 [L8: Entropy, reversibility, and magnetism](https://www.youtube.com/watch?v=3hh0lJZbUfo)
