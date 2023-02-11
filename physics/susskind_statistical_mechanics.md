@@ -203,6 +203,8 @@ $$
 * This explains the puzzle about the diatomic molecule.
   * When $$\hbar \omega \gt T$$, in quantum regime - the oscillator has exponentially lower energy than what it would be classically
   * When $$\hbar \omega \lt T$$, in classical regime - the oscillator begins to be activated
+* At low temperature, the diatomic molecule behaves like a mono particle. You do not start the oscillations.
+* At some temperature, the diatomic molecule starts to behave like a diatomic molecule.
 
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
