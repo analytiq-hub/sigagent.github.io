@@ -211,8 +211,9 @@ $$
 * This is an example of quantum mechanics solving a problem that physicists had been deeply confused about.
 * Solids are molecules in a lattice. Each atom is an oscillator. The energy of the oscillation determines the specific heat of the crystal. This heat capacity was estimated by classical physics to be much much larger than observed. It was Einstein who figured out that the quantum nature of the oscillators suppressed the oscillators until the temperature got high enough. This is one of Einstein's small minor contributions. This was long before quantum mechanics was understood. He just knew that the quantum energy levels were proportional to $$n$$.
 * Compare classical and quantum partition functions
-* The quantum partition function $$Z = \frac{1}{1 - e^{-\beta \hbar \omega}}$$, at high temperature, is $$Z \approx \frac{1}{\beta \hbar \omega} = \frac{1}{\hbar} \frac{1}{\beta \omega}$$. The inverse Planck constant $$\hbar$$ is always present in front of partition functions, so we can keep it separate.
-* The classical partition function was $$Z = 2\pi \frac{1}{\beta \omega}$$. The $$2\pi$$ is a constant.
+  * The quantum partition function $$Z = \frac{1}{1 - e^{-\beta \hbar \omega}}$$, at high temperature, is $$Z \approx \frac{1}{\beta \hbar \omega} = \frac{1}{\hbar} \frac{1}{\beta \omega}$$. The inverse Planck constant $$\hbar$$ is always present in front of partition functions, so we can keep it separate.
+  * The classical partition function was $$Z = 2\pi \frac{1}{\beta \omega}$$. The $$2\pi$$ is a constant.
+  * In the quantum case, we get the constant $$\frac{1}{\hbar}$$, which will not matter, once we differentiate the partition function $$Z$$
 
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
