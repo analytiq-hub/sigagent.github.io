@@ -217,7 +217,7 @@ $$
   * For any control parameter, there's a derivative of energy $$E$$ with respect to it, at fixed entropy $$S$$.
   * That is called the conjugate thermodynamic variable.
   * This conjugate thermodynamic variable is like pressure. It serves the role of pressure.
-* You see the power of $$\ln Z$$. It appears all over. Remember that $$\frac{\ln Z}{\beta} = \left< E \right>$$
+* You see the power of $$\ln Z$$. It appears all over. Remember that $$-\frac{\ln Z}{\beta} = \left< E \right>$$
 * Ideal gas: Express $$\ln Z$$ using the partition function formula, take derivative with respect to $$V$$ at fixed $$T$$
 * Get $$PV=NT$$
 
