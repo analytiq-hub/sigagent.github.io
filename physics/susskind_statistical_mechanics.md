@@ -68,7 +68,7 @@ S &= -\sum_i p_i \ln p_i \\
   &= \frac{1}{Z}\sum_i e^{-\beta E_i} \left( \ln  e^{-\beta E_i} - \ln Z\right) \\
   &= \frac{1}{Z}\sum_i e^{-\beta E_i} \left( -\beta E_i - \ln Z\right) \\
   &= \beta E + \ln Z \\
-  &= \frac{1}{T}E  + \ln Z \\
+  &= \frac{E}{T}  + \ln Z \\
 A &= E - TS = -T \ln Z \text{ is the Helmholtz Free Energy}
 \end{align*}
 $$
