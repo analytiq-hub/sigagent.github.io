@@ -214,6 +214,7 @@ $$
   * The quantum partition function $$Z = \frac{1}{1 - e^{-\beta \hbar \omega}}$$, at high temperature, is $$Z \approx \frac{1}{\beta \hbar \omega} = \frac{1}{\hbar} \frac{1}{\beta \omega}$$. The inverse Planck constant $$\hbar$$ is always present in front of partition functions, so we can keep it separate.
   * The classical partition function was $$Z = 2\pi \frac{1}{\beta \omega}$$. The $$2\pi$$ is a constant.
   * In the quantum case, we get the constant $$\frac{1}{\hbar}$$, which will not matter, once we differentiate the partition function $$Z$$
+* This is an example of the derivation of classical mechanics from quantum mechanics. This is really the right way to go.
 
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
