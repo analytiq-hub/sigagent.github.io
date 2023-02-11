@@ -145,7 +145,8 @@ $$
 * Energy of oscillator is $$E = - \frac{\partial \ln Z}{\partial \beta} = \frac{1}{\beta} = T$$
 * Not so different than the energy of the ideal gas $$E = \frac{3}{2}\frac{1}{\beta} = \frac{3}{2} T$$ (times $$k_B$$ for lab units, but we're using energy units for temperature)
 * Why no factor of $$3$$? Because the oscillator goes in a single dimesion. Why no factor of $$\frac{1}{2}$$? Because the elastic oscillator doubles the energy of the ideal gas.
-* Notice that it does not depend on the spring constant $$k$$
+* The energy does not depend on the mass of the particle $$m$$. This is same for ideal gas - where energy did not depend on $$m$$ - if the mass $$m$$ was higher, the speed of the particle was lower, so energy's expected value was fixed.
+* Notice that the energy also does not depend on the spring constant $$k$$
   * If $$k$$ is very large, and the oscillator is rigid, the energy does not change. But the rigid oscillator should add zero energy!
   * So there is a mistake somewhere. This puzzled physicists at the end of 19th Century.
   * Mistake is - we're not accounting for quantum mechanics!
