@@ -131,6 +131,14 @@ $$
 \end{align*}
 $$
 
+* We also have
+
+$$
+\begin{align*}
+\mathrm{d}S &= \left. \frac{\partial S}{\partial V} \right|_T \mathrm{d}V + \left. \frac{\partial S}{\partial T} \right|_V \mathrm{d}T \\
+\end{align*}
+$$
+
 
 
 
