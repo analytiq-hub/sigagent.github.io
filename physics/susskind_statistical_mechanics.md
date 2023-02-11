@@ -132,6 +132,7 @@ T
 &= - \left. \frac{\partial A}{\partial V}\right|_T = T \left. \frac{\partial \ln Z}{\partial V}\right|_T
 \end{align*}
 $$
+* He likes the proof so much because he figured it out himself :)
 
 * Ideal gas: Express $$\ln Z$$ using the partition function formula, take derivative with respect to $$V$$ at fixed $$T$$
 * Get $$PV=NT$$
