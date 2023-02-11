@@ -67,6 +67,7 @@ $$
   * But how do you know? Not from the particle kinetic energy model, but from the principles of statistical mechanics.
 * The foundations of statistical mechanics are mathematical, not intuitive. You throw away intuition. You plug in the formulas. All great physicists, Susskind says, were very good at it. They loved thermodynamics - why - it's fun, and full of surprises. Einstein was a grand master, so was Feynman, and so is Susskind... maybe!
 * Calculate the pressure on the wall given all molecules have mass $$m$$ and velocity $$v$$: we get $$\frac{1}{2}mv^2 = \frac{3}{2}T$$
+* We can compute the pressure on the wall, from the velocity, if we assume the particles are equally distributed, and the direction of particles is isotropic - which at this point we assume we don't know for sure. Force is rate of change of momentum, we can calculate that. Pressure is force per area, we can calculate that too.
   
 * Express entropy $$E$$ using the partition function
 
