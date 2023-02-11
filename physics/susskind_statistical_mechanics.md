@@ -165,7 +165,7 @@ Z &= \sum_n e^{-\beta (\text{energy of n-th state})} \\
 \end{align*}
 $$
 
-* We keep $\hbar$$, but throw away $$k_B$$. Susskind refuses to keep track of both of them.
+* We keep $$\hbar$$, but throw away $$k_B$$. Susskind refuses to keep track of both of them.
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
