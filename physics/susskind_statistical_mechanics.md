@@ -235,6 +235,11 @@ $$
   * But most oscillations have high frequency. Most oscillations, at a given temperature, are frozen out by quantum mechanics.
   * As the temperature goes up, more oscillations begin to have energy.
   * The partition function would be the product for each oscillators, the logarithm would be the sum, and the energy would be the sum.
+* Start talking about the second law.
+* The second law is a puzzle, because it says that the world is irreversible, and the entropy is increasing, or stays the same. You'd have to be infinitely careful with a large system to keep entropy the same.
+* On the other hand, Newton's laws of motion are reversible. There's a tension between reversibility of laws of motion, and irreversibility of the observational properties of complicated systems. That took some time to sort out, and people are still confused about it.
+* Imagine a phase space, with many particles. It is a high dimensional space, with coordinates $$x$$ and $$p$$ for each particle.
+* Start with a probability distribution that is constant in a volume $$A$$. Then the entropy is $$\ln A$$.
 
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
