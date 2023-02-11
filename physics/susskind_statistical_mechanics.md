@@ -152,6 +152,10 @@ $$
     * Suppose the particle is a di-atomic molecule. It is an elastic oscillator, pretty rigid - but still an oscillator. But the formula does not seem to care.
   * This is a correct classical mechanics result
   * Mistake is - we're not accounting for quantum mechanics!
+Corresponding quantum mechanical calculation of harmonic oscillator in equilibrium
+* We need the expression of the energy of a quantum harmonic oscillator
+  * Energy is quantized. It comes in discrete multiples of Planck's constant times the frequency $$\hbar \omega$$
+  * Energy of oscillator is $$n \hbar \omega$$
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
