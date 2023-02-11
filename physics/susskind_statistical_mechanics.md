@@ -226,6 +226,12 @@ $$
   * You don't discover the complexity at low temperature - you discover the quamtum behavior of things.
   * As you raise the temperature, they unfreeze themselves from the quantum behavior, and start to behave classically.
   * This has to do with black body radiation. We'll come to that.
+* Relate it to violin string. Mathematically, the violin string consists a larne number of oscillators.
+  * Lowest harmonic oscillation
+  * Second harmonic (half wavelength)
+  * Third harmonic (one third wavelength)
+  * The string consists of an infinite number of oscillators, with shorter and shorter wavelength.
+  * If each oscillator would have an amount of energy equal to the temperature $$E=T$$, that string would have an infinite amount of energy.
 
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
