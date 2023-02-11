@@ -73,7 +73,7 @@ A &= E - TS = -T \ln Z \text{ is the Helmholtz Free Energy}
 \end{align*}
 $$
 
-* Helmholtz Free Energy appears everywhere, and therefore is a useful abstraction
+* Helmholtz Free Energy $$A = -T \ln Z$$ appears everywhere, and therefore is a useful abstraction
 * Math lemma: if $$E, S$$ are dependent variables, and $$T, V$$ are independent variables, then
 
 $$
