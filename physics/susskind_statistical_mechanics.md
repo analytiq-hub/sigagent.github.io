@@ -149,6 +149,7 @@ $$
 
 $$
 \begin{align*}
+{\color{red}{\left( \frac{\partial T}{\partial V} \right)_S = - \frac{\left( \frac{\partial S}{\partial V} \right)_T}{\left( \frac{\partial S}{\partial T} \right)_V}}}
 \end{align*}
 $$
 
@@ -158,7 +159,7 @@ $$
 $$
 \begin{align*}
 \left( \frac{\partial E}{\partial V} \right)_S&= \left( \frac{\partial E}{\partial V} \right)_T + \left( \frac{\partial E}{\partial S} \right)_V \left( \frac{\partial S}{\partial T} \right)_V 
-{\color{red}{{\left( \frac{\partial T}{\partial V} \right)_S }}}\\
+{\color{red}{\left( \frac{\partial T}{\partial V} \right)_S }} \\
 
 &= \left( \frac{\partial E}{\partial V} \right)_T - \left( \frac{\partial E}{\partial S} \right)_V \left( \frac{\partial S}{\partial T} \right)_V {\color{red}{\frac{\left( \frac{\partial S}{\partial V} \right)_T}{\left( \frac{\partial S}{\partial T} \right)_V}}} \\
 
