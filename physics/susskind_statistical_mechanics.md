@@ -61,7 +61,13 @@ $$
 
 [L5: Pressure of an ideal gas and fluctuations](https://www.youtube.com/watch?v=2BJYXuZZK3c&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=5)
 * Statistical mechanics is all in the calculus tricks
-* For the ideal gas, we have calculated the average energy $$E = \frac{3}{2}k_B T$$
+* For the ideal gas, we have calculated the average energy $$E = \frac{3}{2}k_B T$$. We know how fast they're moving.
+* What is distribution of velocities near a wall?
+  * Same as the interior velocity.
+  * But how do you know? Not from the particle kinetic energy model, but from the principles of statistical mechanics.
+* The foundations of statistical mechanics are mathematical, not intuitive. You throw away intuition. You plug in the formulas. All great physicists, Susskind says, were very good at it. They loved thermodynamics - why - it's fun, and full of surprises. Einstein was a grand master, so was Feynman, and so is Susskind... maybe!
+* Calculate the pressure on the wall given all molecules have mass $$m$$ and velocity $$v$$: we get $$\frac{1}{2}mv^2 = \frac{3}{2}T$$
+  
 * Express entropy $$E$$ using the partition function
 
 $$
