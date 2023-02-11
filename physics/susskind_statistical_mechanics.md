@@ -263,6 +263,8 @@ $$
   * But, eventually, the point will get back to where it started.
   * How long do you have to wait? It depends on the precision tolerance you are willing to accept.
   * On one hand, entropy increases. On the other hand, you will eventually return to the original state.
+  * You don't lose information. Anything that can happen, the reverse can happen.
+  * We'll talk about it more - how this paradox of reversibility can be resolved.
   
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
