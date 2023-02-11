@@ -267,7 +267,7 @@ $$
   * We'll talk about it more - how this paradox of reversibility can be resolved.
 * This drove Boltzmann to distraction. Maybe did not cause his suicide, but it depressed him. But he eventually came with the right answer. Which is not that the system is irreversible, but that it is more likely to go to a state with higher entropy. Entropy probably increases. The probability of a configuration aiming itself to go to an unusual configuration is small.
 * Chaotic systems - an example is the weather. A counterexample is the harmonic oscillator, which has a periodic movement.
-* The three body problem is chaotic in general, for example.
+* The three body problem is chaotic in general, for example. The ordinary pendulum is not chaotic. A double pendulum is chaotic.
   
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
