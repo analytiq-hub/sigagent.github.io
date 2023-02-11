@@ -174,6 +174,9 @@ $$
 * Pressure is just a special case of a response to a control parameter.
 * What is pressure, really? With a cilinder and piston, if pressure moves the piston of area $$A$$ by an amount $$\mathrm{d} x$$, then the change in energy $$\mathrm{d}E = pA \mathrm{d} x$$.
   * We do this slowly. Odd things can happen if you do it fast. For example, if you do it too fast, no molecule may hit the piston as you're moving it.
+  * You want to define pressure by averaging over many collision
+  * So, move the piston slowly
+  * You also want no energy to come in from the outside. Isolate the walls of the cylinder.
 
 * In quantum mechanics, a system has multiple energy levels. If a system is at energy level $$E$$, and if it slowly changes adiabatically (i.e., entropy does not change), then the energy level does not chage - even though the energy itself $$E$$ will change.
 * Proof that the pressure $$p$$ is the negative derivative of the Helmholtz Free Energy with respect to $$V$$ at fixed $$T$$:
