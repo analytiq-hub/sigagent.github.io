@@ -187,7 +187,9 @@ $$
   * Explain it quantum mechanically. Only thing we use is that energy levels are discrete.
   * In quantum mechanics, a system has multiple energy levels. If a system is at energy level $$E$$, and you change the volume, the energy levels change. If vlume changes slowly, adiabatically (i.e., entropy does not change), then the energy level does not chage - even though the energy itself $$E$$ will change.
   * If you change the system rapidly, the energy can jump from one level to another
-  * With an adiabatic change, if you started with a collection of probabilities $$p_i$$ for each energy level, the probabilities stay the same.
+  * With an adiabatic change, if you started with a collection of probabilities $$p_i$$ for each energy level, the probabilities stay the same. And the entropy is built from the $$p_i$$, so entropy stays the same.
+  * Adiabatic processes don't change the entropy. That is the general definition of adiabatic.
+  * But if you put heat in the system, it corrupts the system, and entropy changes.
 * Proof that the pressure $$p$$ is the negative derivative of the Helmholtz Free Energy with respect to $$V$$ at fixed $$T$$:
 
 $$
