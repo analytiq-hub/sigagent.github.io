@@ -225,6 +225,8 @@ $$
   * Take derivative with respect to $$V$$ at fixed $$T$$: get $$p = T \frac{\partial \ln Z}{\partial V} = \frac{NT}{V} $$
   * Get the ideal gas law $$PV=NT$$
   * Using the density $$\rho$$, get $$P \rho = T$$
+  * It's what you would have computed, using kinetic energy and particles bouncing off walls
+  * But there is power in this method, because whenever you have the partition function, you have a precise way to calculate pressure.
 
 [L6: Weakly interacting gases, heat, and work](https://www.youtube.com/watch?v=bW30Rj6w8VI&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=6)
 * Will talk about 2nd law of thermodynamics
