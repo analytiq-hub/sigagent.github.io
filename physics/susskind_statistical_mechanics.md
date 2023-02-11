@@ -99,6 +99,7 @@ $$
     * You could move the piston and change the pressure - but you're changing it indirectly, by changing the volume.
 * We're not even assuming the system is made of atoms. It's whatever it's made of.
   * We're not assuming it's a gas. Could be a liquid. Could be a solid.
+  * That's why you need a general mechanism. You can't use the ideal gas law for everything.
 * Math lemma: if $$E, S$$ are dependent variables, and $$T, V$$ are independent variables, then
 
 $$
