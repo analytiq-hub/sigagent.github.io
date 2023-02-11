@@ -224,6 +224,7 @@ $$
   * Express $$\ln Z = N \ln V + \text{const}$$ using the partition function formula
   * Take derivative with respect to $$V$$ at fixed $$T$$: get $$p = T \frac{\partial \ln Z}{\partial V} = \frac{NT}{V} $$
   * Get the ideal gas law $$PV=NT$$
+  * Using the density $$\rho$$, get $$P \rho = T$$
 
 [L6: Weakly interacting gases, heat, and work](https://www.youtube.com/watch?v=bW30Rj6w8VI&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=6)
 * Will talk about 2nd law of thermodynamics
