@@ -73,7 +73,8 @@ $$
 * The rules of statistical mechanics are very general. You can calculate the expression of pressure in terms of other variables very generally.
 * We would like to calculate the pressure $$p$$ as a function of temperature $$T$$, volume $$V$$, the number of molecules $$N$$.
 * We need principles, and work out the pressure of an ideal gas, not using intuition, but using foundations.
-  
+* There are times when you want to suppress intuition, and work with the mathematics. Because you want the rules to be general.
+* Formula Susskind proved when he was young, and he's very proud of it.
 * Express entropy $$E$$ using the partition function
 
 $$
