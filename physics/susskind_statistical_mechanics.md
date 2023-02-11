@@ -254,7 +254,8 @@ $$
 * The average energy in terms of the partition function is $$\lt E \gt = - \frac{\partial \ln Z}{\partial \beta}$$
 * This was calculated as $$\lt E \gt = \sum_i p_i E_i = \sum_i \frac{e^{- \beta E_i}}{Z} E_i = - \frac{1}{Z} \frac{\partial Z}{\partial \beta} = - \frac{\partial \ln Z}{\partial \beta}$$
 * The average of energy square is $$\lt E^2 \gt = \sum_i p_i E_i^2 = \sum_i \frac{e^{- \beta E_i}}{Z} E_i^2 = \frac{1}{Z} \frac{\partial^2 Z}{\partial \beta^2}$$
-* The energy variance $$(\Delta E)^2 = \lt E \gt ^2 - \lt E^2 \gt = \frac{1}{Z} \frac{\partial^2 Z}{\partial \beta^2} - \frac{1}{Z^2} \left( \frac{\partial Z}{\partial \beta}\right)^2 = \frac{\partial}{\partial \beta} \left( \frac{1}{Z} \frac{\partial Z}{\partial\beta} \right) = - \frac{\partial}{\partial \beta} \lt E \gt = \frac{\partial}{\partial T} \lt E \gt T^2 = C_V T^2$$, where $$C_V$$ is the specific heat at fixed volume, defined to be $$C_V = \frac{\partial}{\partial T} \lt E \gt$$
+* The energy variance $$(\Delta E)^2 = \lt E \gt ^2 - \lt E^2 \gt = \frac{1}{Z} \frac{\partial^2 Z}{\partial \beta^2} - \frac{1}{Z^2} \left( \frac{\partial Z}{\partial \beta}\right)^2 = \frac{\partial}{\partial \beta} \left( \frac{1}{Z} \frac{\partial Z}{\partial\beta} \right) = - \frac{\partial}{\partial \beta} \lt E \gt = \frac{\partial}{\partial T} \lt E \gt T^2 = C_V T^2$$, where $$C_V$$ is the specific heat at fixed volume, defined to be $$C_V = \frac{\partial}{\partial T} \lt E \gt$$.
+  * In lab units, this would have a $$k_B$$ in front of it.
 * All of the power of statistical mechanics is about the power of the partition function, and the power of differentiation
 
 [L6: Weakly interacting gases, heat, and work](https://www.youtube.com/watch?v=bW30Rj6w8VI&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=6)
