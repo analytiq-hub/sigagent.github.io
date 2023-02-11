@@ -269,6 +269,7 @@ $$
 * Chaotic systems - an example is the weather. A counterexample is the harmonic oscillator, which has a periodic movement.
 * The three body problem is chaotic in general, for example. The ordinary pendulum is not chaotic. A double pendulum is chaotic.
 * Hard question - why some systems are chaotics, and other are not. It's very hard to look at a a Hamiltonian, and say if the system is chaotic. Except when the Hamiltonian is complicated - then, usually it is chaotic.
+* The Lyapunov coefficient telling you exponentially how far trajectories diverge.
   
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
