@@ -219,8 +219,11 @@ $$
   * This conjugate thermodynamic variable is like pressure. It serves the role of pressure.
 * You see the power of $$\ln Z$$. It appears all over. Remember that $$-\frac{\ln Z}{\beta} = \left< E \right>$$
 * If you make a sudden change, for example in a fluid, you get a shockwave. It is not controlled by simple statistical mechanics, but by non-equilibrium dynamics. Only thing you can be sure is that entropy increases.
-* Ideal gas: Express $$\ln Z$$ using the partition function formula, take derivative with respect to $$V$$ at fixed $$T$$
-* Get $$PV=NT$$
+* Ideal gas:
+  * The partition function $$Z = \frac{V^N}{N!} f(\beta)$$, for some fuction $$f()$$
+  * Express $$\ln Z = N \ln V + \text{const}$$ using the partition function formula
+  * Take derivative with respect to $$V$$ at fixed $$T$$: get $$p = T \frac{\partial \ln Z}{\partial V} = \frac{NT}{V} $$
+  * Get the ideal gas law $$PV=NT$$
 
 [L6: Weakly interacting gases, heat, and work](https://www.youtube.com/watch?v=bW30Rj6w8VI&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=6)
 * Will talk about 2nd law of thermodynamics
