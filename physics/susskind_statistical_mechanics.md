@@ -181,7 +181,7 @@ $$
   * For high temperature, classic theory is good.
     * Each quanta of energy are very small.
     * The classical system, in quantum units, has a lot of energy.
-    * Quantum systems become classical when the temperature is very high.
+    * Quantum systems become classical when the temperature is very high. The quantization of energy becomes unimportant.
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
