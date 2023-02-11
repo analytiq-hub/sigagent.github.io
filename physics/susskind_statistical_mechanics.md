@@ -190,6 +190,8 @@ $$
   * With an adiabatic change, if you started with a collection of probabilities $$p_i$$ for each energy level, the probabilities stay the same. And the entropy is built from the $$p_i$$, so entropy stays the same.
   * Adiabatic processes don't change the entropy. That is the general definition of adiabatic.
   * But if you put heat in the system, it corrupts the system, and entropy changes.
+* Now we know how to change the definition of pressure: $$p = -\left( \frac{\partial E}{\partial V} \right)_S$$.
+  * That's why we proved the lemma above
 * Proof that the pressure $$p$$ is the negative derivative of the Helmholtz Free Energy with respect to $$V$$ at fixed $$T$$:
 
 $$
