@@ -160,6 +160,8 @@ Corresponding quantum mechanical calculation of harmonic oscillator in equilibri
 
 $$
 \begin{align*}
+Z &= \sum_n e^{-\beta (\text{energy of n-th state})} \\
+&= \sum_n e^{-\beta n \hbar \omega} = \frac{1}{1 - e^{-\beta \hbar \omega}}
 \end{align*}
 $$
 
