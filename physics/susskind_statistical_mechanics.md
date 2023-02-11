@@ -156,6 +156,14 @@ Corresponding quantum mechanical calculation of harmonic oscillator in equilibri
 * We need the expression of the energy of a quantum harmonic oscillator
   * Energy is quantized. It comes in discrete multiples of Planck's constant times the frequency $$\hbar \omega$$
   * Energy of oscillator is $$n \hbar \omega$$
+* We can calculate the partition function for the quantum mechanical oscillator
+
+$$
+\begin{align*}
+\end{align*}
+$$
+
+* We keep $\hbar$$, but throw away $$k_B$$. Susskind refuses to keep track of both of them.
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
