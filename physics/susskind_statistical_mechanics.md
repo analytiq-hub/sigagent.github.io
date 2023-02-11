@@ -182,6 +182,19 @@ $$
     * Each quanta of energy are very small.
     * The classical system, in quantum units, has a lot of energy.
     * Quantum systems become classical when the temperature is very high. The quantization of energy becomes unimportant.
+* At high energy:
+
+$$
+\begin{align*}
+E &=  \frac{\hbar \omega e^{-\beta \hbar \omega}}{1 - e^{-\beta \hbar \omega }} \\
+&\approx \frac{\hbar \omega}{1 - e^{-\beta \hbar \omega }} \\
+&= \frac{\hbar \omega}{1 -(1 - \beta \hbar \omega + \frac{(\beta \hbar \omega)^2}{2!} - ...)} \\
+&\approx \frac{\hbar \omega}{1 -(1 - \beta \hbar \omega)} = \frac{1}{\beta}
+\end{align*}
+$$
+
+* This matches classical mechanics energy
+
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
