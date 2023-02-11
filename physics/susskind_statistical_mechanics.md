@@ -249,7 +249,9 @@ $$
   * Instead of points in phase space, you talk about resolved, or coarse grained points in phase space.
 * Suppose you start with a blob $$A$$ in phase space. Suppose that we have a dynamics that takes the blob and turns it into a long snake, extremely thin, and of the same total volume.
 * Because of our limited resolution powers, we can't tell one phase space point from another. So we take the points on the snake, and we blobify them.
-* 
+* If we were to ask what is the volume of the blob, we'll come to the conclusion it's uniformly distributed over the larger volume, because we have limited precision.
+* The volume then increases.
+* For example, what is the volume of a cotton blob? At a coarse grained resolution, it is higher than the volume than the actual piece of fiber.
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
