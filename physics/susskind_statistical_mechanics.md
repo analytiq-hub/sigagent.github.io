@@ -108,6 +108,16 @@ $$
 * Get $$PV=NT$$
 
 [L6: Weakly interacting gases, heat, and work](https://www.youtube.com/watch?v=bW30Rj6w8VI&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=6)
+* Will talk about 2nd law of thermodynamics
+* Speed of sound in ideal gas with molecules of mass $$m$$
+  * It is the speed of molecules
+  * Energy is $$E = \frac{3}{2} k_B T = \frac{1}{2} m v^2$$
+  * So speed of molecules is $$v^2 = \frac{3 k_B T}{m}$$
+* There is a more exact formula, not proved in this class, but the speed of sound squared $$c^2 = \frac{\partial p}{\partial (\text{mass density})}$$
+
+* Energy of ideal gas is $$E = \frac{\partial Z}{\partial \beta} = \frac{3}{2}\frac{1}{\beta} = \frac{3}{2} T$$
+* Partition function of oscilator
+* Energy of  is $$E = \frac{\partial Z}{\partial \beta} = \frac{3}{2}\frac{1}{\beta} = \frac{3}{2} T$$
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
