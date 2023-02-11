@@ -258,6 +258,11 @@ $$
 * Think of a gas, with a large number of particles in a box. Then, the phase space is bounded. The momentum can't be anything - the energy bounds it.
   * Now, the phase point starts somewhere. The system evolves for a time, the point evolves along a path.
   * If you start near it, the point evolves initially along a similar path, then it diverges from the other path.
+  * If you wait long enough, you'll pass very close to every point in the phase space.
+  * Gets to the point where you can't tell anything anymore. Entropy is very large.
+  * But, eventually, the point will get back to where it started.
+  * How long do you have to wait? It depends on the precision tolerance you are willing to accept.
+  
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
