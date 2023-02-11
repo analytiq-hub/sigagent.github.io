@@ -60,6 +60,8 @@ $$
 * Adding Gravity to Partition function
 
 [L5: Pressure of an ideal gas and fluctuations](https://www.youtube.com/watch?v=2BJYXuZZK3c&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=5)
+* Statistical mechanics is all in the calculus tricks
+* For the ideal gas, we have calculated the average energy $$E = \frac{3}{2}k_B T$$
 * Express entropy $$E$$ using the partition function
 
 $$
