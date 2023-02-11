@@ -149,7 +149,6 @@ $$
 
 $$
 \begin{align*}
-{\color{red}{\left( \frac{\partial T}{\partial V} \right)_S = - \frac{\left( \frac{\partial S}{\partial V} \right)_T}{\left( \frac{\partial S}{\partial T} \right)_V}}}
 \end{align*}
 $$
 
