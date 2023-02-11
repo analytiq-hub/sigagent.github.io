@@ -89,6 +89,16 @@ A &= E - TS = -T \ln Z \text{ is the Helmholtz Free Energy}
 $$
 
 * Helmholtz Free Energy $$A = -T \ln Z$$ appears everywhere, and therefore is a useful abstraction. It plays a leading role in computing pressure, and all sorts of other things.
+* We'll introduce another variable to the problem. It is a control parameter - this is a parameter that is easy to change.
+  * An example is the volume of a gas - in a cylinder, move the piston back and forth, to change the volume.
+  * Another could be the magnetic field, or the electric field.
+* Variables come in pairs.
+  * One is called the parameter
+  * The other, the conjugate thermodynamic parameter
+  * Pressure and volume are closely related, and are called conjugate pairs.
+    * You could move the piston and change the pressure - but you're changing it indirectly, by changing the volume.
+* We're not even assuming the system is made of atoms. It's whatever it's made of.
+  * We're not assuming it's a gas. Could be a liquid. Could be a solid.
 * Math lemma: if $$E, S$$ are dependent variables, and $$T, V$$ are independent variables, then
 
 $$
