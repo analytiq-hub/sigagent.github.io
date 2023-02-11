@@ -101,7 +101,7 @@ $$
   * We're not assuming it's a gas. Could be a liquid. Could be a solid.
   * That's why you need a general mechanism. You can't use the ideal gas law for everything.
   * If it's a boiling liquid, it is a mixture of liquid, attracted by gravity to the bottom, and gas, going to the top. You could still study it with the same statistical mechanics methods.
-* Math lemma: if $$E, S$$ are dependent variables, and $$T, V$$ are independent variables, then
+* Math lemma: if $$E, S$$ are two functions of independent variabls $$T, V$$, then
 
 $$
 \begin{align*}
