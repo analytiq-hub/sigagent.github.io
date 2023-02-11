@@ -144,6 +144,8 @@ $$
 * $$\ln Z = \text{const} - \ln \beta$$
 * Energy of oscillator is $$E = - \frac{\partial \ln Z}{\partial \beta} = \frac{1}{\beta} = T$$
 * Not so different than the energy of the ideal gas $$E = \frac{3}{2}\frac{1}{\beta} = \frac{3}{2} T$$ (times $$k_B$$ for lab units, but we're using energy units for temperature)
+* Notice that it does not depend on the spring constant $$k$$
+* If $$k$$ is very large, and the oscillator is rigid, the energy does not change
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
