@@ -262,6 +262,7 @@ $$
   * Gets to the point where you can't tell anything anymore. Entropy is very large.
   * But, eventually, the point will get back to where it started.
   * How long do you have to wait? It depends on the precision tolerance you are willing to accept.
+  * On one hand, entropy increases. On the other hand, you will eventually return to the original state.
   
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
