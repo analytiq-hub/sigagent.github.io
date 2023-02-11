@@ -250,6 +250,7 @@ $$
   * But there is power in this method, because whenever you have the partition function, you have a precise way to calculate pressure.
   * The ideal gas is just the simplest applicationxs
 * Fluctuations - the variance of energy.
+* The variance of energy $$(\Delta E)^2 = \lt E \gt ^2 - \lt E^2 \gt$$
 
 [L6: Weakly interacting gases, heat, and work](https://www.youtube.com/watch?v=bW30Rj6w8VI&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=6)
 * Will talk about 2nd law of thermodynamics
