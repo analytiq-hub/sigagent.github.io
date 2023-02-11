@@ -140,10 +140,11 @@ $$
 * We get $$Z = \sqrt{\frac{2m\pi}{\beta}} \sqrt{\frac{2\pi}{k\beta}} = 2\pi\sqrt{\frac{m}{k}} \frac{1}{\beta}$$
 * But $$ \sqrt{\frac{k}{m}} = \omega$$ where $$\omega$$ is the frequency of the oscillator
 * So $$Z = \frac{2\pi}{\omega} \frac{1}{\beta}$$
-
-* Energy of ideal gas is $$E = \frac{\partial Z}{\partial \beta} = \frac{3}{2}\frac{1}{\beta} = \frac{3}{2} T$$
-* Partition function of oscilator
-* Energy of  is $$E = \frac{\partial Z}{\partial \beta} = \frac{3}{2}\frac{1}{\beta} = \frac{3}{2} T$$
+* Only useful thing is $$\ln E$$ as a function of $$\beta$$
+* $$\ln Z = \text{const} - \ln \beta$$
+* Energy of ideal gas is $$E = \frac{3}{2}\frac{1}{\beta} = \frac{3}{2} T$$ (times $$k_B$$ for lab units, but we're using energy units for temperature)
+* Energy of oscillator is $$E = - \frac{\partial \ln Z}{\partial \beta} = \frac{1}{\beta} = T$$
+* So 
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
