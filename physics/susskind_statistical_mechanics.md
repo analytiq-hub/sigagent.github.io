@@ -234,6 +234,7 @@ $$
   * If each oscillator would have an amount of energy equal to the temperature $$E=T$$, that string would have an infinite amount of energy, when it came to thermal equilibrium.
   * But most oscillations have high frequency. Most oscillations, at a given temperature, are frozen out by quantum mechanics.
   * As the temperature goes up, more oscillations begin to have energy.
+  * The partition function would be the product for each oscillators, the logarithm would be the sum, and the energy would be the sum.
 
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
