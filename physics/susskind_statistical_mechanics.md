@@ -140,8 +140,7 @@ $$
 * We get $$Z = \sqrt{\frac{2m\pi}{\beta}} \sqrt{\frac{2\pi}{k\beta}} = 2\pi\sqrt{\frac{m}{k}} \frac{1}{\beta}$$
 * But $$ \sqrt{\frac{k}{m}} = \omega$$ where $$\omega$$ is the frequency of the oscillator
 * So $$Z = \frac{2\pi}{\omega} \frac{1}{\beta}$$
-* Only useful thing is $$\ln E$$ as a function of $$\beta$$
-* $$\ln Z = \text{const} - \ln \beta$$
+* Only useful thing is $$\ln E$$ as a function of $$\beta$$. The formula is $$\ln Z = \text{const} - \ln \beta$$
 * Energy of oscillator is $$E = - \frac{\partial \ln Z}{\partial \beta} = \frac{1}{\beta} = T$$
 * Not so different than the energy of the ideal gas $$E = \frac{3}{2}\frac{1}{\beta} = \frac{3}{2} T$$ (times $$k_B$$ for lab units, but we're using energy units for temperature)
 * Why no factor of $$3$$? Because the oscillator goes in a single dimesion. Why no factor of $$\frac{1}{2}$$? Because the elastic oscillator doubles the energy of the ideal gas.
