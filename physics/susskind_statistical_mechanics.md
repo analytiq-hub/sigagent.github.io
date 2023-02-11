@@ -206,6 +206,8 @@ $$
 * At low temperature, the diatomic molecule behaves like a mono particle. You do not start the oscillations.
 * At some temperature, the diatomic molecule starts to behave like a diatomic molecule.
 * The stiffness of the molecule determines $$\omega$$. The stiffer the molecule, the larger the frequency.
+* Molecules are pretty stiff. The temperature at which a mono-molecule starts behaving like a diatomic molecule is pretty high.
+* If you heat it even more, the atoms themselves begin to vibrate. They eventually become ionized. Then it does not become an atom at all - but as an electron and a proton (in the case of hydrogen)
 
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
