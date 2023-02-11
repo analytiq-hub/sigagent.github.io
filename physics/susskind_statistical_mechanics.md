@@ -192,6 +192,8 @@ $$
   * But if you put heat in the system, it corrupts the system, and entropy changes.
 * Now we know how to change the definition of pressure: $$p = -\left( \frac{\partial E}{\partial V} \right)_S$$.
   * That's why we proved the lemma above
+* The easy thing to calculate is how things vary with temperature. Always easier to work as a function of temperature, than a function of everything else.
+* Remember also that, holding the volume fixed, the derivative of energy wrt entropy is the temperature: $$\left( \frac{\partial E}{\partial S} \right)_V = T$$
 * Proof that the pressure $$p$$ is the negative derivative of the Helmholtz Free Energy with respect to $$V$$ at fixed $$T$$:
 
 $$
