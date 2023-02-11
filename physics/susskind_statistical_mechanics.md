@@ -185,7 +185,9 @@ $$
   * The 2nd law of thermodynamic says that entropy increases, except when it doesn't. When it doesn't, it stays the same. It never decreases - Susskind says, never say never, but never mind (laughter)
   * What are the processes when it does not increase? Those are the adiabatic ones.
   * Explain it quantum mechanically. Only thing we use is that energy levels are discrete.
-  * In quantum mechanics, a system has multiple energy levels. If a system is at energy level $$E$$, and if it slowly changes adiabatically (i.e., entropy does not change), then the energy level does not chage - even though the energy itself $$E$$ will change.
+  * In quantum mechanics, a system has multiple energy levels. If a system is at energy level $$E$$, and you change the volume, the energy levels change. If vlume changes slowly, adiabatically (i.e., entropy does not change), then the energy level does not chage - even though the energy itself $$E$$ will change.
+  * If you change the system rapidly, the energy can jump from one level to another
+  * With an adiabatic change, if you started with a collection of probabilities $$p_i$$ for each energy level, the probabilities stay the same.
 * Proof that the pressure $$p$$ is the negative derivative of the Helmholtz Free Energy with respect to $$V$$ at fixed $$T$$:
 
 $$
