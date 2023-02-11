@@ -219,6 +219,9 @@ $$
 * The higher the spring constant $$k$$, the more rigid the harmonic oscillator, the more quantum mechanical the partition function behaves, and the smaller the oscillator part of the energy.
 * If you heat a system, you discover it has more and more degrees of freedom.
   * Assume a molecule x-y, seen as an oscillator, where the spring is stiff, and where y consists of two atoms y1-y2, where the spring is a lot stiffer.
+  * At low temperature, it all behaves like a point.
+  * You heat it up to a temperature that activates the x-y oscillations, but not enough to activate y1-y2, then it behaves like a diatomic molecule.
+  * You heat it more, it starts behaving like a molecule with three atoms
 
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
