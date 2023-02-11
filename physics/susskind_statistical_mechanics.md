@@ -243,6 +243,10 @@ $$
   * As the volume gets smaller, the entropy goes down
 * As time goes on, the volume stays the same (Liouville theorem). And entropy stays the same.
 * There's another concept of entropy that will increase. It has to do with coarse graining.
+  * When you do experiments, you can't tell precisely the location in phase space. You could not tell precisely if two states in state space were too close.
+  * There's some resolution of space that you can't get smaller than.
+  * In quantum mechanics, that resolution is built in. The smallest uncertainty is given by Planck's constant.
+  * Instead of points in phase space, you talk about resolved, or coarse grained points in phase space.
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
