@@ -105,34 +105,54 @@ $$
 
 $$
 \begin{align*}
-\left. \frac{\partial E}{\partial V} \right|_S =
-\left. \frac{\partial E}{\partial V} \right|_T -
-\left. \frac{\partial E}{\partial S} \right|_V
-\left. \frac{\partial S}{\partial V} \right|_T
+\left( \frac{\partial E}{\partial V} \right)_S =
+\left( \frac{\partial E}{\partial V} \right)_T -
+\left( \frac{\partial E}{\partial S} \right)_V
+\left( \frac{\partial S}{\partial V} \right)_T
 \end{align*}
 $$
 * Later, $$E$$ will be energy,  and $$S$$ will be entropy.
 * $$\left( \frac{\partial E}{\partial V} \right)_S$$ is a funny thing to do. Usually, we keep an independent variable fixed. Here, we keep the value of the other function $$S$$ fixed.
+* He likes the proof so much because he figured it out himself :)
+
+$$
+\begin{align*}
+\left( \frac{\partial E}{\partial V} \right)_S \\
+
+\mathrm{d}E &= \left( \frac{\partial E}{\partial V} \right)_T \mathrm{d}V + \left( \frac{\partial E}{\partial T} \right)_V \mathrm{d}T \\
+
+&= \left( \frac{\partial E}{\partial V} \right)_T \mathrm{d}V + \left( \frac{\partial E}{\partial S} \right)_V \left( \frac{\partial S}{\partial T} \right)_V \mathrm{d}T \\
+\end{align*}
+$$
+
+* Take $$\frac{\partial}{\partial V}$$ on both sides:
+
+$$
+\begin{align*}
+\end{align*}
+$$
+
+
+
 
 * In quantum mechanics, a system has multiple energy levels. If a system is at energy level $$E$$, and if it slowly changes adiabatically (i.e., entropy does not change), then the energy level does not chage - even though the energy itself $$E$$ will change.
 * Proof that the pressure $$p$$ is the negative derivative of the Helmholtz Free Energy with respect to $$V$$ at fixed $$T$$:
 
 $$
 \begin{align*}
--\left. \frac{\partial E}{\partial V} \right|_S &= p = 
-- \left. \frac{\partial E}{\partial V} \right|_T +
-\left. \frac{\partial E}{\partial S} \right|_V
-\left. \frac{\partial S}{\partial V} \right|_T \\
+-\left( \frac{\partial E}{\partial V} \right)_S &= p = 
+- \left( \frac{\partial E}{\partial V} \right)_T +
+\left( \frac{\partial E}{\partial S} \right)_V
+\left( \frac{\partial S}{\partial V} \right)_T \\
 
-&= - \left. \frac{\partial E}{\partial V} \right|_T +
+&= - \left( \frac{\partial E}{\partial V} \right)_T +
 T
-\left. \frac{\partial S}{\partial V} \right|_T \\
+\left( \frac{\partial S}{\partial V} \right)_T \\
 
-&= - \left. \frac{\partial (E-TS)}{\partial V} \right|_T \\
-&= - \left. \frac{\partial A}{\partial V}\right|_T = T \left. \frac{\partial \ln Z}{\partial V}\right|_T
+&= - \left( \frac{\partial (E-TS)}{\partial V} \right)_T \\
+&= - \left( \frac{\partial A}{\partial V}\right)_T = T \left( \frac{\partial \ln Z}{\partial V}\right)_T
 \end{align*}
 $$
-* He likes the proof so much because he figured it out himself :)
 
 * Ideal gas: Express $$\ln Z$$ using the partition function formula, take derivative with respect to $$V$$ at fixed $$T$$
 * Get $$PV=NT$$
