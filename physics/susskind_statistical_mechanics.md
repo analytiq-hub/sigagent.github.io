@@ -224,6 +224,7 @@ $$
   * You heat it more, it starts behaving like a molecule with three atoms
   * As you heat things, you get more degrees of freedom, and you start discovering the complexity of things.
   * You don't discover the complexity at low temperature - you discover the quamtum behavior of things.
+  * As you raise the temperature, they unfreeze themselves from the quantum behavior, and start to behave classically.
 
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
