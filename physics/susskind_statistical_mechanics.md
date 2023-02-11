@@ -148,7 +148,8 @@ $$
 * The energy does not depend on the mass of the particle $$m$$. This is same for ideal gas - where energy did not depend on $$m$$ - if the mass $$m$$ was higher, the speed of the particle was lower, so energy's expected value was fixed.
 * Notice that the energy also does not depend on the spring constant $$k$$
   * If $$k$$ is very large, and the oscillator is rigid, the energy does not change. But the rigid oscillator should add zero energy!
-  * So there is a mistake somewhere. This puzzled physicists at the end of 19th Century.
+  * So there is a mistake somewhere. This puzzled physicists at the end of 19th Century. The ideal gas law, and the kinetic energy formula seemed to work pretty well, when the particle was treated as a point particle
+    * Suppose the particle is a di-atomic molecule. It is an elastic oscillator, pretty rigid - but still an oscillator. But the formula does not seem to care.
   * This is a correct classical mechanics result
   * Mistake is - we're not accounting for quantum mechanics!
 
