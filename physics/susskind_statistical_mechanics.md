@@ -255,6 +255,9 @@ $$
 * Entropy is not really a property of the system. It's a property of the system, and what you know about the system.
 * If you could follow in infinite detail the system, then entropy would be conserved. But if you take into account that you don't know exactly where points are, because of the limits of resolution, then entropy increases.
 * The right name for how systems evolve is - chaos. The blob starts evolving chaos boundaries. No matter how good the resolution is, the entropy increases. That's what the 2nd law says.
+* Think of a gas, with a large number of particles in a box. Then, the phase space is bounded. The momentum can't be anything - the energy bounds it.
+  * Now, the phase point starts somewhere. The system evolves for a time, the point evolves along a path.
+  * If you start near it, the point evolves initially along a similar path, then it diverges from the other path.
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
