@@ -136,7 +136,7 @@ Z &= \int_{p,x} \mathrm{d}p\, \mathrm{d}x \, e^{-\beta \frac{mp^2}{2}} e^{-\beta
 \end{align*}
 $$
 
-* Change variables $$\beta \frac{mp^2}{2} = x^2$$, keep in mind that $$\int_{x} \mathrm{d}x \,e^{\frac{x^2}{2}} = \sqrt{\pi}$$
+* Change variables $$\beta \frac{mp^2}{2} = x^2$$, keep in mind that $$\int_{x} \mathrm{d}x \,e^{\frac{-x^2}{2}} = \sqrt{\pi}$$
 * We get $$Z = \sqrt{\frac{2m\pi}{\beta}} \sqrt{\frac{2\pi}{k\beta}} = 2\pi\sqrt{\frac{m}{k}} \frac{1}{\beta}$$
 * But $$ \sqrt{\frac{k}{m}} = \omega$$ where $$\omega$$ is the frequency of the oscillator
 * So $$Z = \frac{2\pi}{\omega} \frac{1}{\beta}$$
