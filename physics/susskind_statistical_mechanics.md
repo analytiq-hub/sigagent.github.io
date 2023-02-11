@@ -149,6 +149,7 @@ $$
 * Notice that the energy also does not depend on the spring constant $$k$$
   * If $$k$$ is very large, and the oscillator is rigid, the energy does not change. But the rigid oscillator should add zero energy!
   * So there is a mistake somewhere. This puzzled physicists at the end of 19th Century.
+  * This is a correct classical mechanics result
   * Mistake is - we're not accounting for quantum mechanics!
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
