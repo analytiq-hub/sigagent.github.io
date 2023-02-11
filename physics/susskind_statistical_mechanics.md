@@ -122,7 +122,8 @@ $$
   * However, even the earlier formula $$v^2 = \frac{3 k_B T}{m}$$ was of the same order of magnitude
 * This works at low pressure, with an ideal gas.
   * If pressure is higher, $$p$$ is not a linear function of $$\rho$$ (it could be linear on $$\rho^2$$)
-* Next, we're computing the partition function of an elastic oscillator of mass $$m$$ and elastic constant $$k$$
+* Next, we're computing the partition function of an harmonic oscillator of mass $$m$$ and elastic constant $$k$$, in the ideal gas, in a heat bath at temperature $$T$$
+* When we talk of harmonic oscilator, it could be a mass attached to a spring, or electromagnetic waves, or a crystal - there's an extremely large class of systems that are harmonic oscillators
 
 * Energy of ideal gas is $$E = \frac{\partial Z}{\partial \beta} = \frac{3}{2}\frac{1}{\beta} = \frac{3}{2} T$$
 * Partition function of oscilator
