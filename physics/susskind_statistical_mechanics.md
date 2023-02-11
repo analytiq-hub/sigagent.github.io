@@ -135,10 +135,41 @@ $$
 
 $$
 \begin{align*}
-\mathrm{d}S &= \left. \frac{\partial S}{\partial V} \right|_T \mathrm{d}V + \left. \frac{\partial S}{\partial T} \right|_V \mathrm{d}T \\
+\mathrm{d}S &= \left( \frac{\partial S}{\partial V} \right)_T \mathrm{d}V + \left( \frac{\partial S}{\partial T} \right)_V \mathrm{d}T \\
 \end{align*}
 $$
 
+* Along constant $$S$$, $$\mathrm{d}S = 0$$. So 
+
+$$
+\begin{align*}
+0 &= \left( \frac{\partial S}{\partial V} \right)_T + \left( \frac{\partial S}{\partial T} \right)_V \left( \frac{\partial T}{\partial V} \right)_S \\ 
+\end{align*}
+$$
+
+$$
+\begin{align*}
+{\color{red}{\left( \frac{\partial T}{\partial V} \right)_S = - \frac{\left( \frac{\partial S}{\partial V} \right)_T}{\left( \frac{\partial S}{\partial T} \right)_V}}}
+\end{align*}
+$$
+
+
+* Plugging back in the earlier formula:
+
+$$
+\begin{align*}
+\left( \frac{\partial E}{\partial V} \right)_S&= \left( \frac{\partial E}{\partial V} \right)_T + \left( \frac{\partial E}{\partial S} \right)_V \left( \frac{\partial S}{\partial T} \right)_V 
+{\color{red}{{\left( \frac{\partial T}{\partial V} \right)_S }}}\\
+
+&= \left( \frac{\partial E}{\partial V} \right)_T - \left( \frac{\partial E}{\partial S} \right)_V \left( \frac{\partial S}{\partial T} \right)_V {\color{red}{\frac{\left( \frac{\partial S}{\partial V} \right)_T}{\left( \frac{\partial S}{\partial T} \right)_V}}} \\
+
+&= \left( \frac{\partial E}{\partial V} \right)_T - \left( \frac{\partial E}{\partial S} \right)_V 
+{\color{blue}{\left( \frac{\partial S}{\partial T} \right)_V}}
+\frac{\left( \frac{\partial S}{\partial V} \right)_T}{\color{blue}{\left( \frac{\partial S}{\partial T} \right)_V}} \\
+
+&= \left( \frac{\partial E}{\partial V} \right)_T - \left( \frac{\partial E}{\partial S} \right)_V {\color{blue}{\left( \frac{\partial S}{\partial V} \right)_T}}
+\end{align*}
+$$
 
 
 
