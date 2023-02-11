@@ -122,8 +122,21 @@ $$
   * However, even the earlier formula $$v^2 = \frac{3 k_B T}{m}$$ was of the same order of magnitude
 * This works at low pressure, with an ideal gas.
   * If pressure is higher, $$p$$ is not a linear function of $$\rho$$ (it could be linear on $$\rho^2$$)
-* Next, we're computing the partition function of an harmonic oscillator of mass $$m$$ and elastic constant $$k$$, in the ideal gas, in a heat bath at temperature $$T$$
+* Next, we're computing the partition function of an harmonic oscillator of mass $$m$$ and spring constant $$k$$, in the ideal gas, in a heat bath at temperature $$T$$
 * When we talk of harmonic oscilator, it could be a mass attached to a spring, or electromagnetic waves, or a crystal - there's an extremely large class of systems that are harmonic oscillators
+
+The statistical mechanics of a harmonic oscillator:
+* Hamiltonian energy is $$H = \frac{mp^2}{2} + \frac{kx^2}{2}$$
+* Partition function is
+
+$$
+\begin{align*}
+Z &= \int_{p,x} \mathrm{d}p\, \mathrm{d}x \, e^{-\beta \frac{mp^2}{2}} e^{-\beta \frac{mx^2}{2}} \\
+&= \int_{p} \mathrm{d}p\,  e^{-\beta \frac{mp^2}{2}} \int_{x} \mathrm{d}x \,e^{-\beta \frac{mx^2}{2}}
+\end{align*}
+$$
+
+* Change variables $$\beta \frac{mp^2}{2} = x^2$$, keep in mind that $$\int_{x} \mathrm{d}x \,e^{\frac{x^2}{2}} = \sqrt{\pi}$$
 
 * Energy of ideal gas is $$E = \frac{\partial Z}{\partial \beta} = \frac{3}{2}\frac{1}{\beta} = \frac{3}{2} T$$
 * Partition function of oscilator
