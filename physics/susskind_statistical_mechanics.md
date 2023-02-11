@@ -177,8 +177,15 @@ $$
   * You want to define pressure by averaging over many collision
   * So, move the piston slowly
   * You also want no energy to come in from the outside. Isolate the walls of the cylinder.
-
-* In quantum mechanics, a system has multiple energy levels. If a system is at energy level $$E$$, and if it slowly changes adiabatically (i.e., entropy does not change), then the energy level does not chage - even though the energy itself $$E$$ will change.
+* What does adiabatic mean? Slowly, and no heat comes into the system
+  * The change in energy is $$\mathrm{d}E = - pA \mathrm{dx} = - p \mathrm{d}V$$
+  * This defines pressure
+  * So $$\frac{\partial E}{\partial V} = -p$$, if you do the change adiabatically
+* There is also another meaning to adiabatic.
+  * The 2nd law of thermodynamic says that entropy increases, except when it doesn't. When it doesn't, it stays the same. It never decreases - Susskind says, never say never, but never mind (laughter)
+  * What are the processes when it does not increase? Those are the adiabatic ones.
+  * Explain it quantum mechanically. Only thing we use is that energy levels are discrete.
+  * In quantum mechanics, a system has multiple energy levels. If a system is at energy level $$E$$, and if it slowly changes adiabatically (i.e., entropy does not change), then the energy level does not chage - even though the energy itself $$E$$ will change.
 * Proof that the pressure $$p$$ is the negative derivative of the Helmholtz Free Energy with respect to $$V$$ at fixed $$T$$:
 
 $$
