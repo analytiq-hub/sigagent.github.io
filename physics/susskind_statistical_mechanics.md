@@ -105,10 +105,10 @@ $$
 
 $$
 \begin{align*}
-\left( \frac{\partial E}{\partial V} \right)_S =
-\left( \frac{\partial E}{\partial V} \right)_T -
-\left( \frac{\partial E}{\partial S} \right)_V
-\left( \frac{\partial S}{\partial V} \right)_T
+\left. \frac{\partial E}{\partial V} \right|_S =
+\left. \frac{\partial E}{\partial V} \right|_T -
+\left. \frac{\partial E}{\partial S} \right|_V
+\left. \frac{\partial S}{\partial V} \right|_T
 \end{align*}
 $$
 * Later, $$E$$ will be energy,  and $$S$$ will be entropy.
