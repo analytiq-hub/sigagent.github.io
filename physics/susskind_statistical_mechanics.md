@@ -198,7 +198,8 @@ $$
 * Quantum mechanics tends to have exponentially small energy, at low temperature
 * Where is the crossover, from quantum to classical? Where the exponential $$e^{-\beta \hbar \omega}$$ goes from being small to being close to $$1$$.
   * When $$\beta \hbar \omega \gt 1$$, quantum behavior (why did Susskind compare the exponent to 1, and not the exponential?)
-  $ When $$\beta \hbar \omega \lt 1$$, classical behavior.
+  * When $$\beta \hbar \omega \lt 1$$, classical behavior.
+  * Crossover point: $$\hbar \omega = T$$
 
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
