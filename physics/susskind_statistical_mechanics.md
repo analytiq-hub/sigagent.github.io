@@ -142,9 +142,8 @@ $$
 * So $$Z = \frac{2\pi}{\omega} \frac{1}{\beta}$$
 * Only useful thing is $$\ln E$$ as a function of $$\beta$$
 * $$\ln Z = \text{const} - \ln \beta$$
-* Energy of ideal gas is $$E = \frac{3}{2}\frac{1}{\beta} = \frac{3}{2} T$$ (times $$k_B$$ for lab units, but we're using energy units for temperature)
 * Energy of oscillator is $$E = - \frac{\partial \ln Z}{\partial \beta} = \frac{1}{\beta} = T$$
-* So 
+* Not so different than the energy of the ideal gas $$E = \frac{3}{2}\frac{1}{\beta} = \frac{3}{2} T$$ (times $$k_B$$ for lab units, but we're using energy units for temperature)
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
