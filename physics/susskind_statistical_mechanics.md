@@ -115,6 +115,8 @@ $$
   * So speed of molecules is $$v^2 = \frac{3 k_B T}{m}$$
 * There is a more exact formula, not proved in this class, but the speed of sound squared $$c^2 = \frac{\partial p}{\partial (\text{mass density})} = \frac{\partial p}{m \partial \rho}$$, where $$\rho$$ is the density
 * The ideal gas formula is $$pV=Nk_B T$$, or $$p  = \rho k_B T$$
+  * This gives $$p$$ as function of $$\rho$$
+  $ So $$\frac{\partial p}{m \partial \rho} = k_B T$$
 
 * Energy of ideal gas is $$E = \frac{\partial Z}{\partial \beta} = \frac{3}{2}\frac{1}{\beta} = \frac{3}{2} T$$
 * Partition function of oscilator
