@@ -216,6 +216,7 @@ $$
   * In the quantum case, we get the constant $$\frac{1}{\hbar}$$, which will not matter, once we differentiate the partition function $$Z$$
 * This is an example of the derivation of classical mechanics from quantum mechanics. This is really the right way to go.
 * But this formula was known long before quantum mechanics. They were doing something right. They intuited that phase space is the right way to think about classical physics.
+* The higher the spring constant $$k$$, the more rigid the harmonic oscillator, the more quantum mechanical the partition function behaves, and the smaller the oscillator part of the energy.
 
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
