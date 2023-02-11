@@ -127,6 +127,7 @@ $$
 
 $$
 \begin{align*}
+\left( \frac{\partial E}{\partial V} \right)_S&= \left( \frac{\partial E}{\partial V} \right)_T + \left( \frac{\partial E}{\partial S} \right)_V \left( \frac{\partial S}{\partial T} \right)_V \left( \frac{\partial T}{\partial V} \right)_S
 \end{align*}
 $$
 
