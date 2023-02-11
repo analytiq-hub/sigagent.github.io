@@ -215,6 +215,8 @@ $$
 * Everything above is completely general. Does not matter if it's a liquid, a plasma, a solid. Does not matter what the chemical composition is. This is statistical mechanics. Does not matter what the kinetic energy of particle is.
 * You can carry this for any control parameter. Susskind used volume because it's familiar.
   * For any control parameter, there's a derivative of energy $$E$$ with respect to it, at fixed entropy $$S$$.
+  * That is called the conjugate thermodynamic variable.
+  * This conjugate thermodynamic variable is like pressure. It serves the role of pressure.
 * Ideal gas: Express $$\ln Z$$ using the partition function formula, take derivative with respect to $$V$$ at fixed $$T$$
 * Get $$PV=NT$$
 
