@@ -254,7 +254,7 @@ $$
 * For example, what is the volume of a cotton blob? At a coarse grained resolution, it is higher than the volume than the actual piece of fiber.
 * Entropy is not really a property of the system. It's a property of the system, and what you know about the system.
 * If you could follow in infinite detail the system, then entropy would be conserved. But if you take into account that you don't know exactly where points are, because of the limits of resolution, then entropy increases.
-* The right name for how systems evolve is - chaos.
+* The right name for how systems evolve is - chaos. The blob starts evolving chaos boundaries. No matter how good the resolution is, the entropy increases. That's what the 2nd law says.
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
