@@ -209,7 +209,7 @@ $$
 * Molecules are pretty stiff. The temperature at which a mono-molecule starts behaving like a diatomic molecule is pretty high.
 * If you heat it even more, the atoms themselves begin to vibrate. They eventually become ionized. Then it does not become an atom at all - but as an electron and a proton (in the case of hydrogen)
 * This is an example of quantum mechanics solving a problem that physicists had been deeply confused about.
-* Solids are molecules in a lattice. Each atom is an oscillator. The energy of the oscillation determines the specific heat of the crystal. This heat capacity was estimated by classical physics to be much much larger than observed. It was Einstein who figured out that the quantum nature of the oscillators suppressed the oscillators until the temperature got high enough. This is one of Einstein's small minor contributions. This was long before quantum mechanics was understood.
+* Solids are molecules in a lattice. Each atom is an oscillator. The energy of the oscillation determines the specific heat of the crystal. This heat capacity was estimated by classical physics to be much much larger than observed. It was Einstein who figured out that the quantum nature of the oscillators suppressed the oscillators until the temperature got high enough. This is one of Einstein's small minor contributions. This was long before quantum mechanics was understood. He just knew that the quantum energy levels were proportional to $$n$$.
 
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
