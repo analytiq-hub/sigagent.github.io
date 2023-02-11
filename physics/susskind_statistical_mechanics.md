@@ -242,6 +242,7 @@ $$
 * Start with a probability distribution that is constant in a volume $$A$$. Then the entropy is $$\ln A$$.
   * As the volume gets smaller, the entropy goes down
 * As time goes on, the volume stays the same (Liouville theorem). And entropy stays the same.
+* There's another concept of entropy that will increase. It has to do with coarse graining.
 
 [L7: Entropy versus reversibility](https://www.youtube.com/watch?v=sg15UClUY48&list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0&index=7)
 
