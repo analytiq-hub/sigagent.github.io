@@ -56,7 +56,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Linear Algebra](math/linear_algebra.md)
   * [High School Problems](math/high_school.md)
   * [High School Problem Hints and Solutions](math/high_school_solutions.md)
-  * [Mathematical Physics](mathematical_physics.md)
+  * [Mathematical Physics](math/mathematical_physics.md)
   * [Representation Theory](math/representation_theory.md)
   * [Topology](math/topology.md)
 * [Meta Learning](meta_learning.md)
