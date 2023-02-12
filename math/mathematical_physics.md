@@ -6,8 +6,10 @@ title: Mathematical Physics
 
 #### Videos
 * Legendre Transform
-  * Ross Ncgowan: [Legendre Transform Intuition](https://www.youtube.com/watch?v=YakVC1E3Zbg)
-    * Legendre Transform [calculator](https://www.desmos.com/calculator/s70pundo20)
+  * Ross Ncgowan
+    * [Legendre Transform Intuition](https://www.youtube.com/watch?v=YakVC1E3Zbg&list=PLZlHzKk21aIm7LhDTxFWlVfurbTUg5hMb&index=1), [calculator](https://www.desmos.com/calculator/s70pundo20)
+    * [Legendre Transform Mathematics](https://www.youtube.com/watch?v=6_G_11gvBjk&list=PLZlHzKk21aIm7LhDTxFWlVfurbTUg5hMb&index=2), [calculator](https://www.desmos.com/calculator/ss1kordgrc)
+    
 
 #### Books
 
