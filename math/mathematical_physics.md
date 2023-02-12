@@ -1,18 +1,20 @@
 ---
 layout: page
 mathjax: true
-title: Algebraic Topology
+title: Mathematical Physics
 ---
 
+#### Videos
+* Legendre Transform
+  * Ross Ncgowan: [Legendre Transform Intuition](https://www.youtube.com/watch?v=YakVC1E3Zbg)
+
 #### Books
-* Algebraic Geometryg
-  * Robin Hartshorne: [Algebraic Geometry](https://www.amazon.com/Algebraic-Geometry-Graduate-Texts-Mathematics/dp/0387902449), 2nd ed (1997)
-  * David Mumford: [The Red Book of Varieties and Schemes](https://www.amazon.com/Red-Book-Varieties-Schemes-Mathematics/dp/354063293X), 2nd edition
 
 #### Links
-* Math
   * [Abstract Nonsense](math/abstract_nonsense.md)
+  * [Algebra](math/algebra.md)
   * [Algebraic Geometry](math/algebraic_geometry.md)
+  * [Analysis](math/analysis.md)
   * [Automated Theorem Proving](math/automated_theorem_proving.md)
   * [Engineering Math](math/engineering_math.md)
   * [Linear Algebra](math/linear_algebra.md)

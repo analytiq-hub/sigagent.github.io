@@ -18,6 +18,7 @@ title: Algebra
   * [Automated Theorem Proving](math/automated_theorem_proving.md)
   * [Engineering Math](math/engineering_math.md)
   * [Linear Algebra](math/linear_algebra.md)
+  * [Mathematical Physics](mathematical_physics.md)
   * [Representation Theory](math/representation_theory.md)
   * [Topology](math/topology.md)
 * [Physics](physics.md)
