@@ -10,6 +10,7 @@ title: Mathematical Physics
     * [Legendre Transform Intuition](https://www.youtube.com/watch?v=YakVC1E3Zbg&list=PLZlHzKk21aIm7LhDTxFWlVfurbTUg5hMb&index=1), [calculator](https://www.desmos.com/calculator/s70pundo20)
     * [Legendre Transform Mathematics](https://www.youtube.com/watch?v=6_G_11gvBjk&list=PLZlHzKk21aIm7LhDTxFWlVfurbTUg5hMb&index=2), [calculator](https://www.desmos.com/calculator/ss1kordgrc)
     * [Legendre Transforms Examples](https://www.youtube.com/watch?v=mdk8bCZzdPs&list=PLZlHzKk21aIm7LhDTxFWlVfurbTUg5hMb&index=3)
+    * [Legendre Transform Properties](https://www.youtube.com/watch?v=1OXdtbQa22I&list=PLZlHzKk21aIm7LhDTxFWlVfurbTUg5hMb&index=4)
     
 
 #### Books
