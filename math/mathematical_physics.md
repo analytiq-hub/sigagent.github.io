@@ -12,6 +12,7 @@ title: Mathematical Physics
     * [Legendre Transforms Examples](https://www.youtube.com/watch?v=mdk8bCZzdPs&list=PLZlHzKk21aIm7LhDTxFWlVfurbTUg5hMb&index=3)
     * [Legendre Transform Properties](https://www.youtube.com/watch?v=1OXdtbQa22I&list=PLZlHzKk21aIm7LhDTxFWlVfurbTUg5hMb&index=4)
     * [Legendre Transform Differentials](https://www.youtube.com/watch?v=8GG--UR73wY&list=PLZlHzKk21aIm7LhDTxFWlVfurbTUg5hMb&index=5)
+    * [Legendre Transform Differentials Graphical](https://www.youtube.com/watch?v=pmjt2WTo72w&list=PLZlHzKk21aIm7LhDTxFWlVfurbTUg5hMb&index=6)
     
 
 #### Books
