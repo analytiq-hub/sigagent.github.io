@@ -52,6 +52,7 @@ title: Machine Learning
   * Volodymyr Kuleshov: CS 5787: [Applied Machine Learning](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83), [github](https://github.com/kuleshov/cornell-cs5785-2020-applied-ml) (2020)
 * DeepMind: [David Silver: Introduction to Reinforcement Learning](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
 * FastAI: [Practical Deep Learning for Coders](https://course.fast.ai/), Jeremy Howard et al.
+* Andrej Karpathy: [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&t=0s)
 * Hugo Larochelle: math heavy [Neural networks class](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH), Université de Sherbrooke]
 * MIT
   * 6.036 Artificial Intelligence: Patrick Winston Fall 2010 [videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi), Tamara Broderick Fall 2020 [videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi), [slides](https://tamarabroderick.com/ml.html)
