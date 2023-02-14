@@ -29,6 +29,7 @@ title: Yoga and Pilates
   * Stu Girling: [Yoga and Knee Pain/Injury/Relief Exercises](https://www.youtube.com/watch?v=S6g7M2FDFgA)
 * Pilates
   * [Full Length Total Body Barre Workout - 40 Minutes](https://www.youtube.com/watch?v=NtwAHL_F2p8&t=1602s)
+  * Eleni Fit: [40m Pilates HIIT](https://www.youtube.com/watch?v=vNQZ6g_Lz1c) (2022)
 * Full body
   * [40m dancer workout](https://www.youtube.com/watch?v=CxfAULXP8SM), [35m full body barre](https://www.youtube.com/watch?v=TC3HV61YoOg)
 * Stretch
