@@ -57,3 +57,4 @@ This is a multi-part post:
 * At start, probability matrix is $$P(0)$$. At time $$t$$, it is $$P(t)$$.
 * The $$P(t)$$ gives us a matrix, not a number.
 * We have $$\frac{\mathrm{d}P(t)}{\mathrm{d}t} = \lim_{\delta t \rightarrow 0} \frac{P(t+\delta t) - P(t)}{\delta t}$$
+* Chapman-Kolmogorov relation for a discrete Markov chain was $$A^{m+n}=A^m A^n$$
