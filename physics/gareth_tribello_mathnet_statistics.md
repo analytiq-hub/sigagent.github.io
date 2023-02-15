@@ -49,3 +49,7 @@ This is a multi-part post:
 [Monte Carlo Simulation - Using Block Averages to Calculate the Statistical Error](http://gtribello.github.io/mathNET/block_averaging_video.html)
 
 [Markov Chains in Continuous Time](http://gtribello.github.io/mathNET/continuous-time-markov.html)
+* Suppose a rectangle changes color randomly. How can that be modeled?
+  * Could be modeled with a discrete Markov chain. Divide the time axis in intervals of size $$t$$, and at interval boundary $$n$$, assume that the color changes with a probability $$p_n$$ independent of earlier states.
+  * Problem with this is that the transition points are discrete.
+  * Why not divide the time intervals into half-intervals of size $$t/2$$?
