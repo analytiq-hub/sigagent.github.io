@@ -59,3 +59,13 @@ This is a multi-part post:
 * We have $$\frac{\mathrm{d}P(t)}{\mathrm{d}t} = \lim_{\delta t \rightarrow 0} \frac{P(t+\delta t) - P(t)}{\delta t}$$
 * Chapman-Kolmogorov relation for a discrete Markov chain was $$A^{m+n}=A^m A^n$$
 * A continuous analogue is $$P(t+h)=P(t)P(h)$$
+* Assuming continuous Chapman-Kolmogorov:
+
+$$
+\begin{align*}
+\frac{\mathrm{d}P(t)}{\mathrm{d}t} &= \lim_{\delta t \rightarrow 0} \frac{P(t+\delta t) - P(t)}{\delta t} = \lim_{\delta t \rightarrow 0} P(t)\frac{P(\delta t) - I}{\delta t} \\
+&= P(t) \lim_{\delta t \rightarrow 0} \frac{P(\delta t) - I}{\delta t} = P(t) \frac{\mathrm{d}P(0)}{\mathrm{d}t}
+\end{align*}
+$$
+
+* Let $$\frac{\mathrm{d}P(0)}{\mathrm{d}t} = Q$$
