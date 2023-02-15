@@ -70,4 +70,5 @@ $$
 
 * Let $$\frac{\mathrm{d}P(0)}{\mathrm{d}t} = Q$$
 * We can set $$Q$$ to anything, the only condition is that the sum of each row's elements is zero - because $$P(\delta t)$$ is a probability matrix, so each of its rows has sum $$1$$.
-* The differential equation $$\frac{\mathrm{d}P(t)}{\mathrm{d}t} = P(t)Q$$
+* The differential equation $$\frac{\mathrm{d}P(t)}{\mathrm{d}t} = P(t)Q$$ is called the Kolmogorov forward relationship. $$Q$$ is called the jump rate matrix.
+* Solution is $$P(t) = e^{tQ}$$
