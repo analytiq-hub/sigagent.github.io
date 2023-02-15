@@ -53,3 +53,5 @@ This is a multi-part post:
   * Could be modeled with a discrete Markov chain. Divide the time axis in intervals of size $$t$$, and at interval boundary $$n$$, assume that the color changes with a probability $$p_n$$ independent of earlier states.
   * Problem with this is that the transition points are discrete.
   * Why not divide the time intervals into half-intervals of size $$t/2$$?
+* Solution is to use calculus. Write the transition probability matrix as a function of time.
+* At start, probability matrix is $$P(0)$$. At time $$t$$, it is $$P(t)$$.
