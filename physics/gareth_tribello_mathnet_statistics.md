@@ -55,3 +55,5 @@ This is a multi-part post:
   * Why not divide the time intervals into half-intervals of size $$t/2$$?
 * Solution is to use calculus. Write the transition probability matrix as a function of time.
 * At start, probability matrix is $$P(0)$$. At time $$t$$, it is $$P(t)$$.
+* The $$P(t)$$ gives us a matrix, not a number.
+* We have $$\frac{\mathrm{d}P(t)}{\mathrm{d}t} = \lim_{\delta t \rightarrow 0} \frac{P(t+\delta t) - P(t)}{\delta t}$$
