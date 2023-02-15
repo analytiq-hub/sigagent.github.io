@@ -69,4 +69,4 @@ $$
 $$
 
 * Let $$\frac{\mathrm{d}P(0)}{\mathrm{d}t} = Q$$
-* We can set $$Q$$ to anything, the only condition is that the sum of each row's elements is zero.
+* We can set $$Q$$ to anything, the only condition is that the sum of each row's elements is zero - because $$P(\delta t)$$ is a probability matrix, so each of its rows has sum $$1$$.
