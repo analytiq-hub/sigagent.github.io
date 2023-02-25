@@ -269,6 +269,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * TalkRL: [John Schulman](https://share.transistor.fm/s/2bfa4dc4) interview (2022)
 * A. Karpathy: [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) (2023)
   * Github: [nanoGPT](https://github.com/karpathy/nanoGPT)
+  * Tokenizers: [sentencepiece](https://github.com/google/sentencepiece), [tiktoken](https://github.com/openai/tiktoken)
 
 ### AGI
 * [AIXI](https://en.wikipedia.org/wiki/AIXI)
