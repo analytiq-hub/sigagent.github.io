@@ -265,6 +265,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/index.html)
 
 #### Language Models
+* J. Hoffman et al: [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf) (2022)
 * A. Chowdhery et al: [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf) (2022)
 * G. Lample et al: [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/) (2023)
 
