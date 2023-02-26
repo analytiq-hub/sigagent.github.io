@@ -7,7 +7,11 @@ title: Natural Language Processing
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf), J. Devlin et al (2019)
 * [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html), A. Rush et al (2018)
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf), A. Vaswani et al (2017)
+
+#### Language Models
+* [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf), J. Hoffman et al (2022)
 * [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf), A. Chowdhery et al (2022)
+* [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/), G. Lample et al (2023)
 
 #### Posts
 * Veysel Kocaman: [Introduction to Spark NLP: Foundations and Basic Components](https://towardsdatascience.com/introduction-to-spark-nlp-foundations-and-basic-components-part-i-c83b7629ed59) (2019)

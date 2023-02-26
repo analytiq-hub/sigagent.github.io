@@ -264,11 +264,6 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * R. Sutton, A. Barto: [Reinforcement Learning, second edition: An Introduction](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=d_pd_sim_sccl_3_1/146-1943148-1230166) (2018)
 * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/index.html)
 
-#### Language Models
-* J. Hoffman et al: [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf) (2022)
-* A. Chowdhery et al: [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf) (2022)
-* G. Lample et al: [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/) (2023)
-
 #### Chat Agents
 * L. Ouyang el al: [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf) (2022)
 * TalkRL: [John Schulman](https://share.transistor.fm/s/2bfa4dc4) interview (2022)
