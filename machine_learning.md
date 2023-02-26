@@ -388,6 +388,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 #### MLOps
 * D. Sculley et al: [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) (2015)
 * Berkeley: Full Stack Deep Learning: [Lecture 6: MLOps Infrastructure & Tooling](https://fullstackdeeplearning.com/spring2021/lecture-6/)
+* std::bodun::blog: [Pathways: Google's New ML System](https://www.bodunhu.com/blog/posts/pathways-googles-new-ml-system/) (2022)
 
 #### People
 * [Justin Johnson](https://web.eecs.umich.edu/~justincj/)
