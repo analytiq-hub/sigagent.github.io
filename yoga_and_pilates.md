@@ -32,6 +32,7 @@ title: Yoga and Pilates
   * Eleni Fit:
     * [40m Pilates HIIT](https://www.youtube.com/watch?v=vNQZ6g_Lz1c) (2022)
     * [30 Min Standing Pilates Legs](https://www.youtube.com/watch?v=LQHLAUugetQ) (2022)
+    * [45 Min Full Body Pilates HIIT](https://www.youtube.com/watch?v=ciACs4HAQfg)
 * Caroline Girvan: [EPIC Program](https://www.youtube.com/playlist?list=PLhu1QCKrfgPW3VAMHM-wefcO4ZyXf6cwt) (2022)
 * Full body
   * [40m dancer workout](https://www.youtube.com/watch?v=CxfAULXP8SM), [35m full body barre](https://www.youtube.com/watch?v=TC3HV61YoOg)
