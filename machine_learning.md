@@ -267,10 +267,6 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 #### Chat Agents
 * L. Ouyang el al: [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf) (2022)
 * TalkRL: [John Schulman](https://share.transistor.fm/s/2bfa4dc4) interview (2022)
-* A. Karpathy: [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) (2023)
-  * Github: [nanoGPT](https://github.com/karpathy/nanoGPT), Andrei's [fork](https://github.com/andrei-radulescu-banu/nanoGPT)
-  * Notebook: [gpt_dev.ipynb](https://github.com/andrei-radulescu-banu/nanoGPT/blob/master/gpt_dev.ipynb)
-  * Tokenizers: [sentencepiece](https://github.com/google/sentencepiece), [tiktoken](https://github.com/openai/tiktoken)
 
 ### AGI
 * [AIXI](https://en.wikipedia.org/wiki/AIXI)

@@ -13,6 +13,13 @@ title: Natural Language Processing
 * [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf), A. Chowdhery et al (2022)
 * [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/), G. Lample et al (2023)
 
+#### Courses
+* A. Karpathy: [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) (2023)
+  * Github: [nanoGPT](https://github.com/karpathy/nanoGPT), Andrei's [fork](https://github.com/andrei-radulescu-banu/nanoGPT)
+  * Notebook: [gpt_dev.ipynb](https://github.com/andrei-radulescu-banu/nanoGPT/blob/master/gpt_dev.ipynb)
+  * Tokenizers: [sentencepiece](https://github.com/google/sentencepiece), [tiktoken](https://github.com/openai/tiktoken)
+
+
 #### Posts
 * Veysel Kocaman: [Introduction to Spark NLP: Foundations and Basic Components](https://towardsdatascience.com/introduction-to-spark-nlp-foundations-and-basic-components-part-i-c83b7629ed59) (2019)
 
