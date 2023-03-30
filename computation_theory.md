@@ -6,6 +6,7 @@ title: Computation Theory
 * Stephen Wolfram: [A New Kind of Science](https://www.wolframscience.com/nks/)
 * ncat lab [Homotopy Type Theory](https://ncatlab.org/nlab/show/homotopy+type+theory#Code)
 * [The Church-Turing Thesis](https://seop.illc.uva.nl/entries/church-turing/#Bloopers) (and how it is often misunderstood), at the Stanford Encyclopedia of Philosophy
+* M.R. Garey, D.S. Johnson:[Computers and Intractability: A Guide to the Theory of NP-Completeness](https://www.amazon.com/Computers-Intractability-NP-Completeness-Mathematical-Sciences/dp/0716710455) (1979)
 
 #### Videos
 * [Stephen Wolfram: Cellular Automata, Computation, and Physics](https://www.youtube.com/watch?v=ez773teNFYA&t=2539s), Lex Fridman Podcast #89 (2020)
