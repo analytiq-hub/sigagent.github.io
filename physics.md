@@ -143,6 +143,7 @@ title: Physics
 * Sabine Hossenfelder [blog](http://backreaction.blogspot.com/), [youtube](https://www.youtube.com/c/SabineHossenfelder)
 * [Physics with Elliot](https://www.youtube.com/@PhysicswithElliot)
   * [To Understand the Fourier Transform, Start From Quantum Mechanics](https://www.youtube.com/watch?v=W8QZ-yxebFA)
+* [Scott Aaronson - Meaning of Life - Quantum Computing](https://www.youtube.com/watch?v=w2PXd46ExiM&list=PLypiXJdtIca7i8IrNye4IenjnUCP9LF35&index=9) (2019)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
