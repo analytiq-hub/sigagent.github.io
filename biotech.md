@@ -18,7 +18,9 @@ title: Biotech
 * Yuri Lazebnick: [Can a biologist fix a radio?— Or, what I learned while studying apoptosis](https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf) (2002)
 
 #### Interviews
-* Lex Fridman Podcast #325: [Michael Levin: Biology, Life, Aliens, Evolution, Embryogenesis & Xenobots](https://www.youtube.com/watch?v=p3lsYlod5OU) (2022)
+* Lex Fridman Podcast
+  * #133: [ Manolis Kellis: Biology of Disease](https://www.youtube.com/watch?v=Aq9UPIXbtKI) (2020)
+  * #325: [Michael Levin: Biology, Life, Aliens, Evolution, Embryogenesis & Xenobots](https://www.youtube.com/watch?v=p3lsYlod5OU) (2022)  
 
 #### People
 * [Michael Levin](https://wyss.harvard.edu/team/associate-faculty/michael-levin-ph-d/): "Biophysical mechanisms that implement decision-making during complex pattern regulation, and harnessing endogenous bioelectric dynamics toward rational control of growth and form."
