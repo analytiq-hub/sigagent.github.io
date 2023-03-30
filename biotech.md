@@ -19,7 +19,8 @@ title: Biotech
 
 #### Interviews
 * Lex Fridman Podcast
-  * #133: [ Manolis Kellis: Biology of Disease](https://www.youtube.com/watch?v=Aq9UPIXbtKI) (2020)
+  * #133: [Manolis Kellis: Biology of Disease](https://www.youtube.com/watch?v=Aq9UPIXbtKI) (2020)
+  * #142: [Manolis Kellis: Meaning of Life, the Universe, and Everything](https://www.youtube.com/watch?v=bgNzUxyS-kQ) (2020)
   * #325: [Michael Levin: Biology, Life, Aliens, Evolution, Embryogenesis & Xenobots](https://www.youtube.com/watch?v=p3lsYlod5OU) (2022)  
 
 #### People
