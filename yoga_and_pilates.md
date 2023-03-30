@@ -19,7 +19,9 @@ title: Yoga and Pilates
   * [30m stretch routine](https://www.youtube.com/watch?v=RvCntPg7oPE) (2021)
 * Abs
   * Christine Khuri:, [30 Min Ab Workout](https://www.youtube.com/watch?v=AdWyo_3KrfA), [20 Min Ultimate Ab Workout](https://www.youtube.com/watch?v=q6NIWNnvOK0) (2017)
-  * Train with GainsbyBrains: [20m intense abs workout](https://www.youtube.com/watch?v=1rRehXq1diw)
+  * Train with GainsbyBrains:
+    * [20m intense abs workout](https://www.youtube.com/watch?v=1rRehXq1diw)
+    * [20m ultimate ab workout](https://www.youtube.com/watch?v=Ut6xnNEQXz8)
 * Arms and legs
   * [30m arms & legs workout - at home Pilates](https://www.youtube.com/watch?v=XM6N1yl3UYw)
 * Arms and Shoulders
