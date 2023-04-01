@@ -40,6 +40,18 @@ Podcast work and reward:
 - Lex got a lot of pushback, and got attacked, early when he started the podcast. He was researching something about Tesla self driving cars, and he had an interview at the same time with Elon Musk. Which seemed like a conflict of interest. Was so impacted by these attacks, that he decided to drop the Tesla research, even if he did not have to do it.
 - It helped Lex, at that time, when Musk told him "you're doing all right". That cleared the doubts Lex was feeling.
 
+Thinking about love and death
+- Life's meaning is love
+- When doing podcasts, Lex is very attentive to not use trigger words. He sometimes even edits the triggers out, and gives guests a chance of a retake.
+- Lex meditates daily, and constantly thinks about death.
+- He imagines what it would be to die when the night's event is over. And asks himself what he accomplished that night.
+- He noticed that, when asking guests about how they think about death - religious people have a more thought-out response.
+- Engineers, usually, are annoyed with the question
+- Lex used to ask the "what do you think about death" question at the very end of the interview.
+- Then, he noticed how, after the interview has finished - it is only then that the guest really thinks the question through, and opens up.
+- Now, Lex asks the question fifteen minutes before the end of the interview, to give the guest enough time to absorb the question.
+
+
 What are common traits he noticed in the people he speaks to?
 - All his guests are very human, and have to figure out how to schedule their finite amount of time in the day - even when they seem, from the outside, to be super-human
 - The tech leaders, who are atop wealthy companies - live life their own way. They don't follow the grain. They do what they want, and have a lot more time on their hand than you'd assume.
