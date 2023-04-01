@@ -4,7 +4,9 @@ layout: post
 categories: machine learning, society
 ---
 
-For once, Lex was responding to questions, instead of asking them:
+In his trademark black suit, well built, not tall — reserved when speaking in person, self effacing at all times, thoughtful, listening, attentive, and never interrupting others.
+
+For once, Lex was responding to questions, instead of asking them. Gracious thanks to the host, Manolis Kellis, for hosting, organizing, and asking Lex the right questions:
 
 AGI:
 - Concerns about AI: How chatbots can do great good, but also poison social media. How the world is on a hair trigger, with much depending on the mood of a few people who can trigger nuclear war.
@@ -39,6 +41,11 @@ Podcast work and reward:
 - Says Manolis Kellis was the best prepared on the podcast - preparing 8 pages of written notes in 2 hours ahead of interview. Manollis responded - it was because the Lex podcast has an audience of a million, while the class he teaches at MIT has an audience of 200.
 - Lex got a lot of pushback, and got attacked, early when he started the podcast. He was researching something about Tesla self driving cars, and he had an interview at the same time with Elon Musk. Which seemed like a conflict of interest. Was so impacted by these attacks, that he decided to drop the Tesla research, even if he did not have to do it.
 - It helped Lex, at that time, when Musk told him "you're doing all right". That cleared the doubts Lex was feeling.
+
+What are people not paying enough attention to?
+- The Ukraine war. Lex has relatives on both sides. He’s been on the front lines. The war is fought with old WW2 style weapons, mostly. Ukraine is getting some weapons from the Occident.
+- Not enough Americans know, or care enough of this war.
+- Lex will go back in a couple of weeks and interview Zelensky. Who is one of the few disruptive political leaders in the world.
 
 Thinking about love and death
 - Life's meaning is love
