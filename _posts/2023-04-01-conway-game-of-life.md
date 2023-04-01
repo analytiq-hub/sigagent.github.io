@@ -7,7 +7,7 @@ categories: python
 
 This is a Python implementation of the Conway Game of Life. Implemented in VSCode with Github Copilot (or, rather, by Github Copilot, mostly).
 
-```
+```python
 # Conway's Game of Life
 
 import pygame
