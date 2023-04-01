@@ -4,7 +4,7 @@ layout: post
 categories: machine learning, society
 ---
 
-For once, Lex was responding to questions, instead of asking questions:
+For once, Lex was responding to questions, instead of asking them:
 
 AGI:
 - Concerns about AI: How chatbots can do great good, but also poison social media. How the world is on a hair trigger, with much depending on the mood of a few people who can trigger nuclear war.
