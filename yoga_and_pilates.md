@@ -49,6 +49,8 @@ title: Yoga and Pilates
   * Train with GainsbyBrains: [30m intense cardio & ab workout](https://www.youtube.com/watch?v=HZzMBznvT6E)
 * Power Yoga
   * Bethany Lyons: [6-minute power yoga sequence](https://www.youtube.com/watch?v=yy_khEjkr9Q) (2016)
+* Eyes
+  * Yogalates with Rashimi: [Eye Exercises - Daily Yoga for Eyes](https://www.youtube.com/watch?v=J7KVbo1ABcc) (2020)
 
 #### Other
 * [Philosophy](philosophy.md)
