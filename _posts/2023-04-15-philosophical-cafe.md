@@ -4,11 +4,11 @@ layout: post
 categories: python
 ---
 
-Cafeneaua Filozofică is a weekly meetup, moderated by Dana Jalobeanu - a window into Romania, seeing as it looks back at the wider world, at literature, spirituality and philosophy.
+[Cafeneaua Filozofică](https://www.youtube.com/@Cafeneauafilosofica) is a weekly meetup, moderated by [Dana Jalobeanu](https://danajalobeanu.com/) - a window into Romania, seeing as it looks back at the wider world, at literature, spirituality and philosophy.
 
-I was glad to see Episode 92 was in English, thus accessible.
+I was glad to see [Episode 92](https://www.youtube.com/watch?v=qsZ92iGzT4E) was in English, thus accessible.
 
-The subject: Descartes Musketeer. Guest speakers are Harold Cook, who wrote The Young Descartes, and Daniel Garber.
+The subject: [Descartes Musketeer](https://www.youtube.com/watch?v=qsZ92iGzT4E). Guest speakers are Harold Cook, who wrote [The Young Descartes](https://www.amazon.com/Young-Descartes-Nobility-Rumor-War/dp/022646296X), and [Daniel Garber](https://press.uchicago.edu/ucp/books/book/chicago/D/bo3646202.html).
 
 Much to be said about René Descartes (1596–1650). When we use x, y coordinate systems - these are cartesian coordinates. Cartesian comes from the latin spelling of his name, Descartes.
 
@@ -40,7 +40,7 @@ Looking back at Descartes - now this is very interesting! - biographers that wro
 
 Harold Cook describes Descartes as, in some way, similar to another famous Musqueteer-philosopher of the time: Cyrano de Bergerac.
 
-Cyrano, of course, is known from the recent Peter Dinklage movie. My favorite, though, would be the 1990 film directed by Jean-Paul Rappeneau and starring Gerard Depardieu in one of his best-ever performances.
+Cyrano, of course, is known from the recent [Peter Dinklage movie](https://www.imdb.com/title/tt12889404/). My favorite, though, would be the [1990 film](https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_(1990_film)) directed by Jean-Paul Rappeneau and starring Gerard Depardieu in one of his best-ever performances.
 
 Back to Descartes - there's another interesting episode, and it's not discussed in the Philosophical Cafe episode. This is from Wiki:
 
