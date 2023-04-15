@@ -1,4 +1,3 @@
-
 ---
 title: "The Conway Game of Life"
 layout: post

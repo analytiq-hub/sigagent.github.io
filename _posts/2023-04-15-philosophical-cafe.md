@@ -1,4 +1,3 @@
-
 ---
 title: "The Philosophical Cafe"
 layout: post
