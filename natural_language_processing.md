@@ -34,8 +34,8 @@ title: Natural Language Processing
 
 #### Companies
 * Hugging Face
-  * AssemblyAI: [Getting Started With Hugging Face in 15 Minutes | Transformers, Pipeline, Tokenizer, Models](https://www.youtube.com/watch?v=QEaBAZQCtwE) (2022)
-  * 1littecoder: [What is Hugging Face - Crash Course (No Coding) | ML Products for Beginners](https://www.youtube.com/watch?v=x8gdOPO35HA) (2022)
+  * AssemblyAI: [Getting Started With Hugging Face in 15 Minutes: Transformers, Pipeline, Tokenizer, Models](https://www.youtube.com/watch?v=QEaBAZQCtwE) (2022)
+  * 1littecoder: [What is Hugging Face - Crash Course (No Coding): ML Products for Beginners](https://www.youtube.com/watch?v=x8gdOPO35HA) (2022)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
