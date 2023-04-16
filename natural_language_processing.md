@@ -33,6 +33,7 @@ title: Natural Language Processing
 * [Advanced Natural Language Processing with Apache Spark NLP](https://www.youtube.com/watch?v=V9NBkxvSZmU&t=237s) (2021)
 * Yannic Kilcher
   * [GPT-3: Language Models are Few-Shot Learners](https://www.youtube.com/watch?v=SY5PvZrJhLE&list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu&index=20) (Paper Explained)
+* PI School: Lukasz Kaiser: [Attention is all you need; Attention neural network models](https://www.youtube.com/watch?v=rBCqOTEfxvg) (2018)
 
 #### Companies
 * Hugging Face
