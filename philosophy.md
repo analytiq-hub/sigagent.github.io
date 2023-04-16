@@ -13,6 +13,8 @@ title: Philosophy
   * Gabriel Liiceanu: [Emil Cioran - Continentele Insomniei](https://www.youtube.com/watch?v=p8HZ48i4KX0)
 * Cafeneaua filosofică 50: [Cealaltă filosofie. Epicur și epicureismul.](https://www.youtube.com/watch?v=Nsnt9xoW-M4), cu Andrei Cornea (2021)
 * Cafeneaua filosofică 76: [Despre iubire la Platon](https://www.youtube.com/watch?v=3Qa0oms11ys) (2022)
+* Cafeneaua filosofică 92: [Descartes Musketeer](https://www.youtube.com/watch?v=qsZ92iGzT4E) (2023)
+  * Harold Cook: [The young Descartes](https://www.amazon.com/Young-Descartes-Nobility-Rumor-War/dp/022646296X) (2018)
 
 #### Essays
 * [Costica Bradatan](https://lareviewofbooks.org/contributor/costica-bradatan): [The Philosopher of Failure: Emil Cioran’s Heights of Despair](https://lareviewofbooks.org/article/philosopher-failure-emil-ciorans-heights-despair/#!) (2016)
