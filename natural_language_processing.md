@@ -26,7 +26,7 @@ title: Natural Language Processing
   * [Controllable Neural Text Generation](https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/) (Jan 2021)
   * [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) (Mar 2023)
 * K. Rink: [Leverage LLMs Like GPT to Analyze Your Documents or Transcripts](https://towardsdatascience.com/leverage-llms-like-gpt-to-analyze-your-documents-or-transcripts-c640a266ad52) (2023)
-* Jay Allamar: [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer) (2019)
+* Jay Alammar: [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer) (2019)
 * S. Raschka: [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models) (2023). A Cross-Section of the Most Relevant Literature To Get Up to Speed.
 
 #### Talks
