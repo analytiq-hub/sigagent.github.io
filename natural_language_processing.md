@@ -36,7 +36,9 @@ title: Natural Language Processing
 * PI School: Lukasz Kaiser: [Attention is all you need; Attention neural network models](https://www.youtube.com/watch?v=rBCqOTEfxvg) (2018)
 * [John Schulman - Reinforcement Learning from Human Feedback: Progress and Challenges](https://www.youtube.com/watch?v=hhiLw5Q_UFg) (2023)
 * [Mapping the future of *truly* Open Models and Training Dolly for $30 — with Mike Conover of Databricks](https://www.latent.space/p/mike-conover?utm_source=twitter&utm_medium=social&utm_campaign=twitter-embed#details) (2023)
-* Swyx: [The Anatomy of Autonomy: Why Agents are the next AI Killer App after ChatGPT](https://www.latent.space/p/agents) (2023)!
+* Swyx: [The Anatomy of Autonomy: Why Agents are the next AI Killer App after ChatGPT](https://www.latent.space/p/agents) (2023)
+* LangChain Blog: [Autonomous Agents & Agent Simulations](https://blog.langchain.dev/agents-round/) (2023)
+* Matt Schlicht: [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) (2023)
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
