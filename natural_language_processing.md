@@ -35,6 +35,7 @@ title: Natural Language Processing
   * [GPT-3: Language Models are Few-Shot Learners](https://www.youtube.com/watch?v=SY5PvZrJhLE&list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu&index=20) (Paper Explained)
 * PI School: Lukasz Kaiser: [Attention is all you need; Attention neural network models](https://www.youtube.com/watch?v=rBCqOTEfxvg) (2018)
 * [John Schulman - Reinforcement Learning from Human Feedback: Progress and Challenges](https://www.youtube.com/watch?v=hhiLw5Q_UFg) (2023)
+* [Mapping the future of *truly* Open Models and Training Dolly for $30 — with Mike Conover of Databricks](https://www.latent.space/p/mike-conover?utm_source=twitter&utm_medium=social&utm_campaign=twitter-embed#details) (2023)
 
 #### Companies
 * Hugging Face
