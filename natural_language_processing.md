@@ -28,6 +28,7 @@ title: Natural Language Processing
 * K. Rink: [Leverage LLMs Like GPT to Analyze Your Documents or Transcripts](https://towardsdatascience.com/leverage-llms-like-gpt-to-analyze-your-documents-or-transcripts-c640a266ad52) (2023)
 * Jay Alammar: [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer) (2019)
 * S. Raschka: [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models) (2023). A Cross-Section of the Most Relevant Literature To Get Up to Speed.
+* Databricks: Mike Conover et al: [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
 
 #### Talks
 * [Advanced Natural Language Processing with Apache Spark NLP](https://www.youtube.com/watch?v=V9NBkxvSZmU&t=237s) (2021)
