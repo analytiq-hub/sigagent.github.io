@@ -41,6 +41,7 @@ title: Natural Language Processing
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
 * [Pinecone](https://www.pinecone.io/)
+* [Replit](https://replit.com)
 
 #### Companies
 * Hugging Face
