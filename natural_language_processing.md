@@ -7,6 +7,7 @@ title: Natural Language Processing
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf), J. Devlin et al (2019)
 * [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html), A. Rush et al (2018)
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf), A. Vaswani et al (2017)
+* [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf) (2023)
 
 #### Language Models
 * [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf), J. Hoffman et al (2022)
