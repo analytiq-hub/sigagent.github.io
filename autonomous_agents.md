@@ -5,6 +5,11 @@ title: Natural Language Processing
 ---
 #### Articles
 * [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf) (2023)
+* M. Reddy,  GMP O'Hare: [The blackboard model: a survey of its application](https://link.springer.com/article/10.1007/BF00143760) (1991)
+
+#### Courses
+* Old Duke U. class on [Agent Architecture](https://users.cs.duke.edu/~brd/Teaching/Previous/AI/Lectures/Summaries/architectures.html) (table of contents only)
+
 
 #### Posts
 * Swyx: [The Anatomy of Autonomy: Why Agents are the next AI Killer App after ChatGPT](https://www.latent.space/p/agents) (2023)
