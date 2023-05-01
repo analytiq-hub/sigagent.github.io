@@ -20,6 +20,7 @@ blog_posts_by_category_title: Blog Posts by Category
 ## Things I read, watch or follow
 
 * [Artificial Intelligence](artificial_intelligence.md)
+* [Autonomous Agents](autonomous_agents.md)
 * [Biotech](biotech.md)
 * [Cloud Data Platform](cloud_data_platform.md)
 * [Cognitive Science](cognitive_science.md)

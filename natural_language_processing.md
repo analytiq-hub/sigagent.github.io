@@ -9,6 +9,7 @@ title: Natural Language Processing
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf), A. Vaswani et al (2017)
 * [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf) (2023)
 
+
 #### Language Models
 * [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf), J. Hoffman et al (2022)
 * [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf), A. Chowdhery et al (2022)
@@ -38,10 +39,6 @@ title: Natural Language Processing
 * PI School: Lukasz Kaiser: [Attention is all you need; Attention neural network models](https://www.youtube.com/watch?v=rBCqOTEfxvg) (2018)
 * [John Schulman - Reinforcement Learning from Human Feedback: Progress and Challenges](https://www.youtube.com/watch?v=hhiLw5Q_UFg) (2023)
 * [Mapping the future of *truly* Open Models and Training Dolly for $30 — with Mike Conover of Databricks](https://www.latent.space/p/mike-conover?utm_source=twitter&utm_medium=social&utm_campaign=twitter-embed#details) (2023)
-* Swyx: [The Anatomy of Autonomy: Why Agents are the next AI Killer App after ChatGPT](https://www.latent.space/p/agents) (2023)
-* LangChain Blog: [Autonomous Agents & Agent Simulations](https://blog.langchain.dev/agents-round/) (2023)
-* Matt Schlicht: [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) (2023)
-* [LangChain Agents webinar](https://www.crowdcast.io/c/46erbpbz609r) (2023): prompt engineering, BabyAGI
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
@@ -55,6 +52,7 @@ title: Natural Language Processing
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
+* [Autonomous Agents](autonomous_agents.md)
 * [Cognitive Science](cognitive_science.md)
 * [Computation Theory](computation_theory.md)
 * [Meta Learning](meta_learning.md)

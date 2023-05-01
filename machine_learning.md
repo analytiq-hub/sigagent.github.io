@@ -398,6 +398,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
+* [Autonomous Agents](autonomous_agents.md)
 * [Cloud Data Platform](cloud_data_platform.md)
 * [Cognitive Science](cognitive_science.md)
 * [Computation Theory](computation_theory.md)
