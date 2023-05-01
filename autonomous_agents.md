@@ -20,6 +20,9 @@ title: Natural Language Processing
 * [Pinecone](https://www.pinecone.io/)
 * [Replit](https://replit.com)
 
+#### Repos
+* [mbusigin](https://github.com/mbusigin)/[yaml-runner](https://github.com/mbusigin/yaml-runner)
+
 #### Companies
 * TO DO
 
