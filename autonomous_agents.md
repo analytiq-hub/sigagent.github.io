@@ -25,6 +25,7 @@ title: Natural Language Processing
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
 * [Pinecone](https://www.pinecone.io/)
 * [Replit](https://replit.com)
+* [Camel](https://www.camel-ai.org/)
 
 #### Repos
 * [mbusigin](https://github.com/mbusigin)/[yaml-runner](https://github.com/mbusigin/yaml-runner)
