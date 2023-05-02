@@ -22,6 +22,7 @@ title: Natural Language Processing
 #### Talks
 * [Langchain](https://www.crowdcast.io/@langchain) crowdcast:
   * [LangChain Agents webinar](https://www.crowdcast.io/c/46erbpbz609r) (2023): prompt engineering, BabyAGI
+  * [Langchain NoCode webinar](https://www.crowdcast.io/c/38stgg2vma7m) (2023)
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
