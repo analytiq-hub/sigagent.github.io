@@ -11,7 +11,7 @@ title: Webdev
 * [three.js](https://threejs.org/) - WebGL wrapper
 * [deck.gl](http://deck.gl/) - WebGL wrapper
 * [bubble.io](https://bubble.io) - WYSIWYG web editor
-* [pipedream](https://pipedream.com) - API integration
+* [pipedream](https://pipedream.com) - API integration for, e.g., being notified when a tweet with a given hashtag is sent. The tweet can be parsed, saved to a Google sheet, can be translated, etc
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
