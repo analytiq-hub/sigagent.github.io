@@ -91,6 +91,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Altair Charts](altair.md)
   * [Colab](colab.md)
 * [Computational Topology](computational_topology.md)
+* [Webdev](webdev.md)
 * [Writing Blog Posts](writing_blog_posts.md)
 * [Writing Documentation](writing_documentation.md)
 * [Yoga and Pilates](yoga_and_pilates.md)
