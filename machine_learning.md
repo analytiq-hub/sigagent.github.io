@@ -250,6 +250,8 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 
 #### Object Detection from Images
 * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf), J. Redmon et al (2016), [http://pjreddie.com/yolo/](http://pjreddie.com/yolo/), Y Liao et al (2021)
+* Latent Space: [Segment Anything Model and the Hard Problems of Computer Vision — with Joseph Nelson of Roboflow](https://www.latent.space/p/segment-anything-roboflow#details) (2023)
+  * Check out the roboflow.com video demo and hands-on demo. SAM makes image annotation as simple as a point-click.
 
 #### Geometric Deep Learning
 * Michael Bronstein: [Geometric Deep Learning: the Erlangen Programme of ML](https://iclr.cc/virtual/2021/invited-talk/3717) (2021)
