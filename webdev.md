@@ -10,7 +10,7 @@ title: Webdev
 * [render](https://render.com) - point to github repo and render web site
 * [three.js](https://threejs.org/) - WebGL wrapper
 * [deck.gl](http://deck.gl/) - WebGL wrapper
-* [bubble.io](https://bubble.io) - WYSIWYG web editor
+* [bubble.io](https://bubble.io) - WYSIWYG nohtml web editor
 * [pipedream](https://pipedream.com) - API integration for, e.g., being notified when a tweet with a given hashtag is sent. The tweet can be parsed, saved to a Google sheet, can be translated, etc
 
 #### Other
