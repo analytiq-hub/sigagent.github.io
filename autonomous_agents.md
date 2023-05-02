@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: Natural Language Processing
+title: Autonomous Agents
 ---
 #### Articles
 * [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf) (2023)
