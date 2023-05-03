@@ -24,6 +24,7 @@ title: Autonomous Agents
   * [LangChain Agents webinar](https://www.crowdcast.io/c/46erbpbz609r) (2023): prompt engineering, BabyAGI
   * [Langchain NoCode webinar](https://www.crowdcast.io/c/38stgg2vma7m) (2023)
   * [Langchain Prompt Injection](https://www.crowdcast.io/c/ht7qt3rvesvg) (2023)
+* Sal Khan Ted Talk: [The amazing AI super tutor for students and teachers](https://www.ted.com/talks/sal_khan_the_amazing_ai_super_tutor_for_students_and_teachers/c) (2023)
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
