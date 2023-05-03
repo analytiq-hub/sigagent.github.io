@@ -248,11 +248,6 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
   * [Optimisation of the PointPillars network for 3D object detection in point clouds](https://arxiv.org/pdf/2007.00493v1.pdf), J. Stanisz et al (2020)
 * Y. Guo et al: [Deep Learning for 3D Point Clouds: A Survey](https://arxiv.org/pdf/1912.12033.pdf) (2020)
 
-#### Object Detection from Images
-* [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf), J. Redmon et al (2016), [http://pjreddie.com/yolo/](http://pjreddie.com/yolo/), Y Liao et al (2021)
-* Latent Space: [Segment Anything Model and the Hard Problems of Computer Vision — with Joseph Nelson of Roboflow](https://www.latent.space/p/segment-anything-roboflow#details) (2023)
-  * Check out the roboflow.com video demo and hands-on demo. SAM makes image annotation as simple as a point-click.
-
 #### Geometric Deep Learning
 * Michael Bronstein: [Geometric Deep Learning: the Erlangen Programme of ML](https://iclr.cc/virtual/2021/invited-talk/3717) (2021)
   * [Geometric Deep Learning: Grids, Groups, Graphs,Geodesics, and Gauges](https://arxiv.org/pdf/2104.13478.pdf), M. Bronstein et al (2021)
