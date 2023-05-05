@@ -34,6 +34,7 @@ title: Autonomous Agents
 * [Replit](https://replit.com)
 * [Camel](https://www.camel-ai.org/)
 * [Flowiseai.com](https://flowiseai.com/)
+* [Lamini](https://lamini.ai/)
 
 #### Repos
 * [mbusigin](https://github.com/mbusigin)/[yaml-runner](https://github.com/mbusigin/yaml-runner)
