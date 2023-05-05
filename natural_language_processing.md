@@ -53,6 +53,7 @@ title: Natural Language Processing
 * Simon Willison's Weblog:
   * [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/) (2023)
   * [Running LLaMA 7B and 13B on a 64GB M2 MacBook Pro with llama.cpp](https://til.simonwillison.net/llms/llama-7b-m2) (2023)
+* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
 
 #### Companies
 * Hugging Face
