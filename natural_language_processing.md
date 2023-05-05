@@ -45,6 +45,9 @@ title: Natural Language Processing
 * [Pinecone](https://www.pinecone.io/)
 * [Replit](https://replit.com)
 
+#### Models
+* [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)
+
 #### Companies
 * Hugging Face
   * AssemblyAI: [Getting Started With Hugging Face in 15 Minutes: Transformers, Pipeline, Tokenizer, Models](https://www.youtube.com/watch?v=QEaBAZQCtwE) (2022)
