@@ -48,7 +48,8 @@ title: Natural Language Processing
 #### Models
 * [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)
 * [alpaca-lora](https://github.com/tloen/alpaca-lora), [huggingface](https://huggingface.co/spaces/tloen/alpaca-lora)
-* [Chat with Open Large Language Models](https://chat.lmsys.org/)
+* Vicuna [FastChat](https://github.com/lm-sys/FastChat)
+  * [Chat with Open Large Language Models](https://chat.lmsys.org/)
 
 #### Companies
 * Hugging Face
