@@ -47,6 +47,7 @@ title: Natural Language Processing
 
 #### Models
 * [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)
+* [alpaca-lora](https://github.com/tloen/alpaca-lora)
 
 #### Companies
 * Hugging Face
