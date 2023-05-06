@@ -55,6 +55,7 @@ title: Natural Language Processing
 * Simon Willison's Weblog:
   * [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/) (2023)
   * [Running LLaMA 7B and 13B on a 64GB M2 MacBook Pro with llama.cpp](https://til.simonwillison.net/llms/llama-7b-m2) (2023)
+  * [Run Vicuna-13B On Your Local Computer](https://www.youtube.com/watch?v=F_pFH-AngoE), tutorial (GPU)
 * [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
   * ggerganov: [What is the meaning of hacked?](https://github.com/ggerganov/llama.cpp/issues/33#issuecomment-1465108022)
   
