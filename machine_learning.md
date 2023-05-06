@@ -379,6 +379,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * Sebastian Raschka [Ahead of AI](https://www.linkedin.com/newsletters/ahead-of-ai-6994407435943772160/) (2022)
   * [#1: A Diffusion of Innovations](https://www.linkedin.com/pulse/ahead-ai-1-diffusion-innovations-sebastian-raschka-phd/)
   * [#2 - Transformers, Fast and Slow](https://www.linkedin.com/pulse/ahead-ai-2-transformers-fast-slow-sebastian-raschka-phd/?trackingId=h2oFDMetQ%2FyynqBmG4FUzQ%3D%3D)
+* [Simon Willison Weblog](https://simonwillison.net): [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/)
 * Google leak: ["We have no moat, and neither does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) (2023)
   * [Simon Willison Weblog](https://simonwillison.net): [Leaked Google document: “We Have No Moat, And Neither Does OpenAI”](https://simonwillison.net/2023/May/4/no-moat/)
 
