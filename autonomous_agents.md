@@ -35,7 +35,7 @@ title: Autonomous Agents
 * [Camel](https://www.camel-ai.org/)
 * [Flowiseai.com](https://flowiseai.com/)
 * [Lamini](https://lamini.ai/)
-* [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
+* [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT), [docs](https://docs.agpt.co/setup/)
   * [Auto-GPT Explained! 10 Ways To Start Using AutoGPT Today! (Better Than ChatGPT)](https://www.youtube.com/watch?v=465RFn6KmiQ) (2023)
 
 #### Repos
