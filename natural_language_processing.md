@@ -45,6 +45,7 @@ title: Natural Language Processing
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
 * [Pinecone](https://www.pinecone.io/)
 * [Replit](https://replit.com)
+* [Langview](https://twitter.com/pomber/status/1653339572590333954) demo
 
 #### Models
 * [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)
