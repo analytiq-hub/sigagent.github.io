@@ -142,6 +142,7 @@ See [GPUs](gpus.md) page
   * [Andrew Ng: Deep Learning, Education, and Real-World AI](https://www.youtube.com/watch?v=0jspaMLxBig), Lex Fridman Podcast #73 (2020)
   * [Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning](https://www.youtube.com/watch?v=SGzMElJ11Cc), Lex Fridman Podcast #258 (2022)
   * [Demis Hassabis: DeepMind - AI, Superintelligence & the Future of Humanity](https://www.youtube.com/watch?v=Gfr50f6ZBvo) (2022)
+* Swix: [Bringing ML to the data, and Minimum Viable DevRel — Montana Low, PostgresML](https://www.youtube.com/watch?v=j8hE8-jZJGU) (2023)
 
 #### Linear Discriminant Analysis (LDA)
 * G. Chen: Math 253: Mathematical Methods for Data Visualization: [Lec 11, LDA](https://www.sjsu.edu/faculty/guangliang.chen/Math253S20/lec11lda.pdf), explains math behind LDA
@@ -378,11 +379,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * Sebastian Raschka [Ahead of AI](https://www.linkedin.com/newsletters/ahead-of-ai-6994407435943772160/) (2022)
   * [#1: A Diffusion of Innovations](https://www.linkedin.com/pulse/ahead-ai-1-diffusion-innovations-sebastian-raschka-phd/)
   * [#2 - Transformers, Fast and Slow](https://www.linkedin.com/pulse/ahead-ai-2-transformers-fast-slow-sebastian-raschka-phd/?trackingId=h2oFDMetQ%2FyynqBmG4FUzQ%3D%3D)
-
-#### ML Business
-* Google: ["We have no moat, and neither does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) (2023)
-* Swix: [Bringing ML to the data, and Minimum Viable DevRel — Montana Low, PostgresML](https://www.youtube.com/watch?v=j8hE8-jZJGU) (2023)
-
+* Google leak: ["We have no moat, and neither does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) (2023)
 
 #### Web sites
 * [Papers with Code](https://paperswithcode.com/)
