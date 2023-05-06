@@ -39,6 +39,7 @@ title: Natural Language Processing
 * PI School: Lukasz Kaiser: [Attention is all you need; Attention neural network models](https://www.youtube.com/watch?v=rBCqOTEfxvg) (2018)
 * [John Schulman - Reinforcement Learning from Human Feedback: Progress and Challenges](https://www.youtube.com/watch?v=hhiLw5Q_UFg) (2023)
 * [Mapping the future of *truly* Open Models and Training Dolly for $30 — with Mike Conover of Databricks](https://www.latent.space/p/mike-conover?utm_source=twitter&utm_medium=social&utm_campaign=twitter-embed#details) (2023)
+* Latent Space: [ Latent Space Live: Responding to the Leaked Google vs OpenAI strategy memo ](https://www.youtube.com/watch?v=GR8i7PfWaVw) (2023)
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
@@ -54,6 +55,8 @@ title: Natural Language Processing
   * [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/) (2023)
   * [Running LLaMA 7B and 13B on a 64GB M2 MacBook Pro with llama.cpp](https://til.simonwillison.net/llms/llama-7b-m2) (2023)
 * [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
+  * ggerganov: [What is the meaning of hacked?](https://github.com/ggerganov/llama.cpp/issues/33#issuecomment-1465108022)
+  
 
 #### Companies
 * Hugging Face
