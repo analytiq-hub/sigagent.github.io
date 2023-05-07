@@ -16,7 +16,8 @@ title: Natural Language Processing
 * [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/), G. Lample et al (2023)
 
 #### Derivatives of LLaMA
-* C. Wu et al [PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/pdf/2304.14454.pdf) (2023)
+* E. Hu et al: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685), 2021
+* C. Wu et al: [PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/pdf/2304.14454.pdf) (2023)
 
 #### Courses
 * A. Karpathy: [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) (2023)
