@@ -12,6 +12,12 @@ title: GPUs
   * [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/), 2023
   * [LLM.int8() and Emergent Features](https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/), Aug 2022
 
+#### Companies
+* Tesla
+  * [Tesla Hardware 3 (Full Self-Driving Computer) Detailed](https://www.autopilotreview.com/tesla-custom-ai-chips-hardware-3/)
+  * [Tesla FSD Chip - Revolutionary or Over Hyped?](https://www.youtube.com/watch?v=zdUHp3y8VkU&feature=emb_rel_end)
+  
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cloud Data Platform](cloud_data_platform.md)
