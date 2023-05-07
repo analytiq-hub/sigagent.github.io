@@ -48,6 +48,8 @@ title: Natural Language Processing
 * [Langview](https://twitter.com/rupert_parry/status/1653780093712633859) demo
 
 #### Models
+* LLaMa
+  * [How to run Meta's LLaMA on your computer (Windows, Linux tutorial)](https://aituts.com/llama/)
 * [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)
 * [alpaca-lora](https://github.com/tloen/alpaca-lora), [huggingface](https://huggingface.co/spaces/tloen/alpaca-lora)
 * Vicuna [FastChat](https://github.com/lm-sys/FastChat)
