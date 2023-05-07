@@ -52,7 +52,7 @@ title: Natural Language Processing
 * [alpaca-lora](https://github.com/tloen/alpaca-lora), [huggingface](https://huggingface.co/spaces/tloen/alpaca-lora)
 * Vicuna [FastChat](https://github.com/lm-sys/FastChat)
   * [Chat with Open Large Language Models](https://chat.lmsys.org/)
-  * [Run Vicuna-13B On Your Local Computer](https://www.youtube.com/watch?v=F_pFH-AngoE), tutorial (GPU)
+  * [Run Vicuna-13B On Your Local Computer](https://www.youtube.com/watch?v=F_pFH-AngoE), tutorial (GPU). Use my fork [Bitdribble/FastChat](https://github.com/Bitdribble/FastChat)
   * Nischal Harohalli Padmanabha: [A step-by-step guide to running Vicuna-13B Large Language Model on your GPU / CPU machine](https://www.linkedin.com/pulse/step-by-step-guide-running-vicuna-13b-large-language-nischal/) (2023)
 * Simon Willison's Weblog:
   * [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/) (2023)
