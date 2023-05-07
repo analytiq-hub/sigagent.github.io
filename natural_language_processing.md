@@ -54,11 +54,20 @@ title: Natural Language Processing
   * [Chat with Open Large Language Models](https://chat.lmsys.org/)
   * [Run Vicuna-13B On Your Local Computer](https://www.youtube.com/watch?v=F_pFH-AngoE), tutorial (GPU)
   * Nischal Harohalli Padmanabha: [A step-by-step guide to running Vicuna-13B Large Language Model on your GPU / CPU machine](https://www.linkedin.com/pulse/step-by-step-guide-running-vicuna-13b-large-language-nischal/) (2023)
+    * g4dn.4xlarge EC2 instance
+      * Memory - 64GB
+      * GPU - Not mandatory, but advised. Tesla T4 - 16GB
+      * CPU - 16 Core
+      * Disk space - 200 GB
 * Simon Willison's Weblog:
   * [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/) (2023)
   * [Running LLaMA 7B and 13B on a 64GB M2 MacBook Pro with llama.cpp](https://til.simonwillison.net/llms/llama-7b-m2) (2023)
 * [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
   * ggerganov: [What is the meaning of hacked?](https://github.com/ggerganov/llama.cpp/issues/33#issuecomment-1465108022)
+
+#### Scale of Models
+* Harm de Vries: [Go smol or go home](https://www.harmdevries.com/post/model-size-vs-compute-overhead/), Apr 2023
+  * [Karpathy tweet about the 'Chincilla trap' and the deVries post](https://twitter.com/karpathy/status/1654898539661754368)
   
 
 #### Companies
