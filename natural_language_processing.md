@@ -48,13 +48,11 @@ title: Natural Language Processing
 * [Langview](https://twitter.com/rupert_parry/status/1653780093712633859) demo
 
 #### Models
-* LLaMa
-  * [How to run Meta's LLaMA on your computer (Windows, Linux tutorial)](https://aituts.com/llama/)
 * [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)
 * [alpaca-lora](https://github.com/tloen/alpaca-lora), [huggingface](https://huggingface.co/spaces/tloen/alpaca-lora)
 * Vicuna [FastChat](https://github.com/lm-sys/FastChat)
   * [Chat with Open Large Language Models](https://chat.lmsys.org/)
-  * [Run Vicuna-13B On Your Local Computer](https://www.youtube.com/watch?v=F_pFH-AngoE), tutorial (GPU). Use my fork [Bitdribble/FastChat](https://github.com/Bitdribble/FastChat)
+  * [Run Vicuna-13B On Your Local Computer](https://www.youtube.com/watch?v=F_pFH-AngoE), tutorial (GPU)
   * Nischal Harohalli Padmanabha: [A step-by-step guide to running Vicuna-13B Large Language Model on your GPU / CPU machine](https://www.linkedin.com/pulse/step-by-step-guide-running-vicuna-13b-large-language-nischal/) (2023)
     * g4dn.4xlarge EC2 instance
       * Memory - 64GB
@@ -69,7 +67,10 @@ title: Natural Language Processing
 
 #### Scale of Models
 * Harm de Vries: [Go smol or go home](https://www.harmdevries.com/post/model-size-vs-compute-overhead/), Apr 2023
-  * [Karpathy tweet about the 'Chincilla trap' and the deVries post](https://twitter.com/karpathy/status/1654898539661754368)
+  * Andrej Karpathy tweet: [The 'Chincilla trap' and the deVries post](https://twitter.com/karpathy/status/1654898539661754368)
+
+### Open Source Movement
+* Andrej Karpathy tweet: [Roughly speaking the story as of now](https://twitter.com/karpathy/status/1654892810590650376?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), Apr 2023
   
 
 #### Companies
