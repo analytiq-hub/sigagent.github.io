@@ -15,6 +15,14 @@ title: GPUs
 * [Tim Dettmers](https://timdettmers.com/):
   * [LLM.int8() and Emergent Features](https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/), Aug 2022
 * Y. Belkada, T. Dettmers: [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
+  * While, ideally the training and inference should be done in FP32, it is two times slower than FP16/BF16
+  * Experimentially, we have discovered that instead of using the 4-byte FP32 precision, we can get an almost identical inference outcome with 2-byte BF16/FP16 half-precision, which halves the model size.
+  * LLM.int8(): zero degradation matrix multiplication for Large Language Models
+  * In essence, LLM.int8() seeks to complete the matrix multiplication computation in three steps:
+    * From the input hidden states, extract the outliers (i.e. values that are larger than a certain threshold) by column.
+    * Perform the matrix multiplication of the outliers in FP16 and the non-outliers in int8.
+    * Dequantize the non-outlier results and add both outlier and non-outlier results together to receive the full result in FP16.
+
 
 #### Companies
 * Tesla
