@@ -91,6 +91,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * Tools
   * [Altair Charts](altair.md)
   * [Colab](colab.md)
+  * [Editors](editors.md)
 * [Computational Topology](computational_topology.md)
 * [Webdev](webdev.md)
 * [Writing Blog Posts](writing_blog_posts.md)

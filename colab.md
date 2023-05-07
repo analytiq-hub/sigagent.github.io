@@ -40,3 +40,9 @@ title: Colab
 * In Colab, use `!shell_cmd` to execute a shell command.
 * To execute it in the Colab environment, rather than as a subcommand, do `%shell_cmd`. This is useful when changing directory, for example.
 
+#### Other
+* Tools
+  * [Altair Charts](altair.md)
+  * [Colab](colab.md)
+  * [Editors](editors.md)
+
