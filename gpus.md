@@ -10,6 +10,7 @@ title: GPUs
 #### Blogs
 * [Tim Dettmers](https://timdettmers.com/):
   * [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/), 2023
+  * [TPUs vs GPUs for Transformers (BERT)](https://timdettmers.com/2018/10/17/tpus-vs-gpus-for-transformers-bert/), 2018
 
 #### Quantization
 * [Tim Dettmers](https://timdettmers.com/):
