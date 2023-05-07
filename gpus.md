@@ -22,6 +22,7 @@ title: GPUs
     * From the input hidden states, extract the outliers (i.e. values that are larger than a certain threshold) by column.
     * Perform the matrix multiplication of the outliers in FP16 and the non-outliers in int8.
     * Dequantize the non-outlier results and add both outlier and non-outlier results together to receive the full result in FP16.
+  * HuggingFace python implementation
 
 
 #### Companies
