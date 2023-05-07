@@ -17,6 +17,7 @@ title: Yoga and Pilates
   * Stu Girling: [Ashtanga Everyday Essentials with Deepika Mehta](https://www.youtube.com/watch?v=jCSnfbgj4u0) (2018)
 * Hip flexibility
   * [30m stretch routine](https://www.youtube.com/watch?v=RvCntPg7oPE) (2021)
+  * Boho Beautiful: [Yoga for Flexibility. Stretch Yoga To Achieve The Splits & Release Tight Hips](https://www.youtube.com/watch?v=IZCJiTqdPm8&list=PLb09q0R7gAwRDiIjDHWMKqVPxE79AIWx0&index=3) (2000), hard
 * Abs
   * Christine Khuri:, [30 Min Ab Workout](https://www.youtube.com/watch?v=AdWyo_3KrfA), [20 Min Ultimate Ab Workout](https://www.youtube.com/watch?v=q6NIWNnvOK0) (2017)
   * Train with GainsbyBrains:
