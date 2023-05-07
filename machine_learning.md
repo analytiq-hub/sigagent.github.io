@@ -90,6 +90,9 @@ title: Machine Learning
 * [arxiv](https://arxiv.org/), [arxiv-sanity](http://www.arxiv-sanity.com), [arxiv-sanity-lite](https://arxiv-sanity-lite.com)
 * [OpenReview](https://openreview.net/)
 
+#### Discord Servers
+* [HuggingFace](https://discuss.huggingface.co/t/join-the-hugging-face-discord/11263)
+
 #### Tools
 * [Jax](machine_learning/jax.md)
 * [PyTorch](machine_learning/pytorch.md)

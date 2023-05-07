@@ -48,11 +48,13 @@ title: Natural Language Processing
 * [Langview](https://twitter.com/rupert_parry/status/1653780093712633859) demo
 
 #### Models
+* LLaMa
+  * [How to run Meta's LLaMA on your computer (Windows, Linux tutorial)](https://aituts.com/llama/)
 * [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)
 * [alpaca-lora](https://github.com/tloen/alpaca-lora), [huggingface](https://huggingface.co/spaces/tloen/alpaca-lora)
 * Vicuna [FastChat](https://github.com/lm-sys/FastChat)
   * [Chat with Open Large Language Models](https://chat.lmsys.org/)
-  * [Run Vicuna-13B On Your Local Computer](https://www.youtube.com/watch?v=F_pFH-AngoE), tutorial (GPU)
+  * [Run Vicuna-13B On Your Local Computer](https://www.youtube.com/watch?v=F_pFH-AngoE), tutorial (GPU). Use my fork [Bitdribble/FastChat](https://github.com/Bitdribble/FastChat)
   * Nischal Harohalli Padmanabha: [A step-by-step guide to running Vicuna-13B Large Language Model on your GPU / CPU machine](https://www.linkedin.com/pulse/step-by-step-guide-running-vicuna-13b-large-language-nischal/) (2023)
     * g4dn.4xlarge EC2 instance
       * Memory - 64GB
