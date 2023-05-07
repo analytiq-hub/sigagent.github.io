@@ -68,6 +68,8 @@ title: Natural Language Processing
 #### Scale of Models
 * Harm de Vries: [Go smol or go home](https://www.harmdevries.com/post/model-size-vs-compute-overhead/), Apr 2023
   * Andrej Karpathy tweet: [The 'Chincilla trap' and the deVries post](https://twitter.com/karpathy/status/1654898539661754368)
+* [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+* Tim Dettmers tweet: [Next week: bitsandbytes 4-bit closed beta that allows you to finetune 30B/65B LLaMA models on a single 24/48 GB GPU (no degradation vs full fine-tuning in 16-bit)](https://twitter.com/Tim_Dettmers/status/1654917326381228033), May 2023
 
 ### Open Source Movement
 * Andrej Karpathy tweet: [Roughly speaking the story as of now](https://twitter.com/karpathy/status/1654892810590650376?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), Apr 2023
