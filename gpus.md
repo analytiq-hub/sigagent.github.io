@@ -10,7 +10,11 @@ title: GPUs
 #### Blogs
 * [Tim Dettmers](https://timdettmers.com/):
   * [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/), 2023
+
+#### Quantization
+* [Tim Dettmers](https://timdettmers.com/):
   * [LLM.int8() and Emergent Features](https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/), Aug 2022
+* Y. Belkada, T. Dettmers: [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
 
 #### Companies
 * Tesla
