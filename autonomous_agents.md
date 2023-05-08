@@ -39,9 +39,8 @@ title: Autonomous Agents
   * [Auto-GPT Explained! 10 Ways To Start Using AutoGPT Today! (Better Than ChatGPT)](https://www.youtube.com/watch?v=465RFn6KmiQ) (2023)
   * Steps
     * Fork [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT). Include all branches. Don't tick `copy the master branch only.
-    * Check out `stable` branch
-    * ...
-    * `pip install -r requirements.txt`
+    * Select `stable` branch in UI. Click green `Code` button, start `Codespace` on `stable` branch
+    * At the code space terminal, run `pip install -r requirements.txt`
     * Copy `.env.template` to `.env`. Set the `OPENAPI_API_KEY`, `PINECONE_API_KEY`, `PINECONE_ENV`.
       * The OpenAPI key requires payment, the Pinecone key can be gotten for free.
     * `python -m autogpt` (run with `-h` for parameters)
