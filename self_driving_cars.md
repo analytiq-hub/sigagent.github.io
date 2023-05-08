@@ -78,6 +78,7 @@ title: Self Driving Cars
   * [Behavioral and Motion Planning in Autoware](https://vimeo.com/showcase/7812155/video/480450941#t=0h55m55s)
 * Chris Urmson: [Delivering the benefits of self-driving technology: Aurora's approach to development](https://www.youtube.com/watch?v=_zz2k6XOidI) (Apr 2021)
 * [David Held - 6th BMTT Workshop ICCV 2021](https://www.youtube.com/watch?v=buVQ5Pe8_Wk)
+* Mac Schwager: [Game Theory for Simultaneous Behavior Prediction and Trajectory Planning in AVs](https://www.youtube.com/watch?v=nS3W__XQkEE&t=6203s) (2022)
 
 #### Sensors and Sensor Fusion
 * De Jong Yang et al: [Sensor and Sensor Fusion Technology in Autonomous Vehicles: A Review](https://mdpi-res.com/d_attachment/sensors/sensors-21-02140/article_deploy/sensors-21-02140-v2.pdf?version=1616339580) (2021)
