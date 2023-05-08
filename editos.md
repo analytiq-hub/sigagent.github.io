@@ -1,6 +1,3 @@
----
-layout: page
----
 layout: page
 title: Editors
 ---
