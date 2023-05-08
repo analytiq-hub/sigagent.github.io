@@ -37,6 +37,15 @@ title: Autonomous Agents
 * [Lamini](https://lamini.ai/)
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT), [docs](https://docs.agpt.co/setup/)
   * [Auto-GPT Explained! 10 Ways To Start Using AutoGPT Today! (Better Than ChatGPT)](https://www.youtube.com/watch?v=465RFn6KmiQ) (2023)
+  * Steps
+    * Fork [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT). Include all branches. Don't tick `copy the master branch only.
+    * Check out `stable` branch
+    * ...
+    * `pip install -r requirements.txt`
+    * Copy `.env.template` to `.env`. Set the `OPENAPI_API_KEY`, `PINECONE_API_KEY`, `PINECONE_ENV`.
+      * The OpenAPI key requires payment, the Pinecone key can be gotten for free.
+    * `python -m autogpt` (run with `-h` for parameters)
+    * Also see lalab.ai's [Auto-GPT tutorial: How to set up Auto-GPT](https://lablab.ai/t/auto-gpt-tutorial-how-to-set-up-auto-gpt)
 
 #### Repos
 * [mbusigin](https://github.com/mbusigin)/[yaml-runner](https://github.com/mbusigin/yaml-runner)

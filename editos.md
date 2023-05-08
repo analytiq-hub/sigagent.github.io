@@ -11,6 +11,9 @@ More recently, I started using VSCode, with the Github Copilot extension. Copilo
 
 #### Posts
 *  Amit Sahu: [Colab + Vs Code + GitHub + Jupyter (Perfect for Deep Learning)](https://medium.com/analytics-vidhya/colab-vs-code-github-jupyter-perfect-for-deep-learning-2b257ae94d01) (2021)
+* [How to Use Google Colab with VS Code](https://www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/) as modified below:
+  * [Run VS Code on Google Colab](https://www.youtube.com/watch?v=RMCRwjnv2MI) (2022)
+* [Connect your remote GPU-Jupyter to your local VS Code — A great Deep Learning Solution](https://cschranz.medium.com/connect-vs-code-to-your-remote-gpu-jupyter-instance-58b86a195d9e)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
