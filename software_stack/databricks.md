@@ -68,6 +68,9 @@ title: Databricks Software Stack
 * [The Big Book Of Machine Learning Use Cases](https://www.databricks.com/explore/data-science-machine-learning/big-book-of-ml)
 * [The Big Book of MLOps](https://www.databricks.com/explore/data-science-machine-learning/big-book-of-MLOps)
 
+#### Data Loading
+* [DeltaTorch](https://github.com/mshtelma/deltatorch/tree/main). Example: [DeltaTorch with PyTorch Lightning for image classification](https://github.com/mshtelma/deltatorch/blob/main/examples/cv_caltech256_ddp_mr.py) This example also uses SparkTorchDistributor, which you can run either locally (if you have one big machine with multiple GPUs) or in a distributed way with multiple machines. Most efficient to use DeltaTorch and load the data from S3 using DBFS.
+
 #### MLFlow
 * Workshop: Managing the Complete Machine Learning Lifecycle with MLflow [1](https://www.databricks.com/discover/managing-machine-learning-lifecycle/mlflow-tracking) [2](https://www.databricks.com/discover/managing-machine-learning-lifecycle/mlflow-projects-and-models) [3](https://www.databricks.com/discover/managing-machine-learning-lifecycle/mlflow-model-registry-workflows) [2020]
 * Vaibhav Satpathy
