@@ -36,15 +36,29 @@ title: Autonomous Agents
 * [Flowiseai.com](https://flowiseai.com/)
 * [Lamini](https://lamini.ai/)
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT), [docs](https://docs.agpt.co/setup/)
+* [weaviate.io](https://weaviate.io/)
+
+#### Demos
+* [Flowiseai.com](https://flowiseai.com/)
+  * Fork [lowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+  * Clone locally, `cd Flowise`. Or open in Codespace.
+  * `yarn install; yarn build; yarn start`
+  * You can access the app on [http://localhost:3000](http://localhost:3000)
+  * Get OpenAI, Pinecone, Serp API tokens
+  
+* [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT), [docs](https://docs.agpt.co/setup/)
   * [Auto-GPT Explained! 10 Ways To Start Using AutoGPT Today! (Better Than ChatGPT)](https://www.youtube.com/watch?v=465RFn6KmiQ) (2023)
   * Steps
     * Fork [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT). Include all branches. Don't tick `copy the master branch only.
     * Select `stable` branch in UI. Click green `Code` button, start `Codespace` on `stable` branch
+      * Alternative: Clone locally, cd to folder, run `pipenv shell` to create a virtual environment for the folder
     * At the code space terminal, run `pip install -r requirements.txt`
     * Copy `.env.template` to `.env`. Set the `OPENAPI_API_KEY`, `PINECONE_API_KEY`, `PINECONE_ENV`.
       * The OpenAPI key requires payment, the Pinecone key can be gotten for free.
     * `python -m autogpt` (run with `-h` for parameters)
     * Also see lalab.ai's [Auto-GPT tutorial: How to set up Auto-GPT](https://lablab.ai/t/auto-gpt-tutorial-how-to-set-up-auto-gpt)
+  * Prompts that work:
+    * Write a python program that takes as input an integer, and returns the prime number factorization. Write a unit tester as well.
 
 #### Repos
 * [mbusigin](https://github.com/mbusigin)/[yaml-runner](https://github.com/mbusigin/yaml-runner)

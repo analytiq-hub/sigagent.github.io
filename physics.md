@@ -149,6 +149,10 @@ title: Physics
   * [To Understand the Fourier Transform, Start From Quantum Mechanics](https://www.youtube.com/watch?v=W8QZ-yxebFA)
 * [Scott Aaronson - Meaning of Life - Quantum Computing](https://www.youtube.com/watch?v=w2PXd46ExiM&list=PLypiXJdtIca7i8IrNye4IenjnUCP9LF35&index=9) (2019)
 
+#### AI in Physics
+* Silviu-Marian Udrescu, Max Tegmark: [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481.pdf) (2020)
+* Silviu-Marian Udrescu et al: [AI Feynman 2.0: Pareto-optimal symbolic regression exploiting graph modularity](https://proceedings.neurips.cc/paper/2020/file/33a854e247155d590883b93bca53848a-Paper.pdf) (2020)
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cognitive Science](cognitive_science.md)
