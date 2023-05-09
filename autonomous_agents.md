@@ -38,6 +38,14 @@ title: Autonomous Agents
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT), [docs](https://docs.agpt.co/setup/)
 
 #### Demos
+* [Flowiseai.com](https://flowiseai.com/)
+  * Fork [lowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+  * Clone locally
+  * `cd Flowise`
+  * `yarn install; yarn build; yarn start`
+  * You can access the app on [http://localhost:3000](http://localhost:3000)
+  *
+  
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT), [docs](https://docs.agpt.co/setup/)
   * [Auto-GPT Explained! 10 Ways To Start Using AutoGPT Today! (Better Than ChatGPT)](https://www.youtube.com/watch?v=465RFn6KmiQ) (2023)
   * Steps
