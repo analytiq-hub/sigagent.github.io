@@ -36,6 +36,7 @@ title: Autonomous Agents
 * [Flowiseai.com](https://flowiseai.com/)
 * [Lamini](https://lamini.ai/)
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT), [docs](https://docs.agpt.co/setup/)
+* [weaviate.io](https://weaviate.io/)
 
 #### Demos
 * [Flowiseai.com](https://flowiseai.com/)
@@ -56,6 +57,8 @@ title: Autonomous Agents
       * The OpenAPI key requires payment, the Pinecone key can be gotten for free.
     * `python -m autogpt` (run with `-h` for parameters)
     * Also see lalab.ai's [Auto-GPT tutorial: How to set up Auto-GPT](https://lablab.ai/t/auto-gpt-tutorial-how-to-set-up-auto-gpt)
+  * Prompts that work:
+    * Write a python program that takes as input an integer, and returns the prime number factorization. Write a unit tester as well.
 
 #### Repos
 * [mbusigin](https://github.com/mbusigin)/[yaml-runner](https://github.com/mbusigin/yaml-runner)
