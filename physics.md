@@ -102,10 +102,6 @@ title: Physics
   * [Statistical Mechanics](https://theoreticalminimum.com/courses/statistical-mechanics/2013/spring) (Spring 2013), [Andrei's notes](physics/susskind_statistical_mechanics.md)
   * [Supplemental Courses](https://theoreticalminimum.com/courses/supplemental), [Archived Courses](https://theoreticalminimum.com/courses/archive)
 
-#### Physics and AI
-* S.-M. Udrescu, Max Tegmark: [AI Feynman: A physics-inspired method for symbolic regression](https://www.science.org/doi/10.1126/sciadv.aay2631) (2020)
-* K. Desai et al: [SymmetryGAN: Symmetry Discovery with Deep Learning](https://arxiv.org/pdf/2112.05722.pdf) (2022)
-
 #### Surveys
 * [Seminaire Poincare - Information, 2018](http://www.bourbaphy.fr/novembre2018.html)
   * K. Mallick: [Thermodynamics and Information Theory](http://www.bourbaphy.fr/mallick.pdf), [video](https://www.youtube.com/watch?v=pXyONXaqqP8)
@@ -152,6 +148,7 @@ title: Physics
 #### AI in Physics
 * Silviu-Marian Udrescu, Max Tegmark: [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481.pdf) (2020)
 * Silviu-Marian Udrescu et al: [AI Feynman 2.0: Pareto-optimal symbolic regression exploiting graph modularity](https://proceedings.neurips.cc/paper/2020/file/33a854e247155d590883b93bca53848a-Paper.pdf) (2020)
+* K. Desai et al: [SymmetryGAN: Symmetry Discovery with Deep Learning](https://arxiv.org/pdf/2112.05722.pdf) (2022)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
