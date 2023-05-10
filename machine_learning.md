@@ -236,6 +236,9 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 #### Text to image
 * Yannic Kilcher: [OpenAI CLIP: ConnectingText and Images (Paper Explained)](https://www.youtube.com/watch?v=T9XSU0pKX2E) (2022)
 
+### Multimodal AI
+* Meta: R. Girdhar et al: [ImageBind: a new way to ‘link’ AI across the senses](https://imagebind.metademolab.com/) (2023)
+
 #### Convolutional Nets
 * [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567v1.pdf), C. Szegedy el at (2015)
 * Blog: [Speeding up Convolutional Neural Networks](https://towardsdatascience.com/speeding-up-convolutional-neural-networks-240beac5e30f), [Alex Burlacu](https://alexandruburlacu.github.io/) (2018)
