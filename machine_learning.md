@@ -233,11 +233,10 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [Lil'Log](https://lilianweng.github.io): [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) (2021)
 * M. Welling, Y.W. Teh: [Bayesian Learning via Stochastic Gradient Langevin Dynamics](https://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf) (2011). Compared to standard SGD, stochastic gradient Langevin dynamics injects Gaussian noise into the parameter updates to avoid collapses into local minima.
 
-#### Text to image
+#### Multimodal AI; Text to image
 * Yannic Kilcher: [OpenAI CLIP: ConnectingText and Images (Paper Explained)](https://www.youtube.com/watch?v=T9XSU0pKX2E) (2022)
-
-### Multimodal AI
 * Meta: R. Girdhar et al: [ImageBind: a new way to ‘link’ AI across the senses](https://imagebind.metademolab.com/) (2023)
+* OpenAI: Heewoo Jun, Alex Nichol: [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463) (2023), [openai/shap-e](https://github.com/openai/shap-e)
 
 #### Convolutional Nets
 * [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567v1.pdf), C. Szegedy el at (2015)
