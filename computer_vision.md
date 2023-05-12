@@ -23,6 +23,8 @@ For now, see [machine_learning](machine_learning.md) and [self_driving_cars](sel
 #### Curation
 * Scale.ai
 * Voxel51 (open source, modular design)
+  * E. Hofesman:[The ML Menu for Model Selection: Hugging Face, Weights & Biases, and FiftyOne](https://voxel51.com/blog/ml-menu-for-model-selection-hugging-face-weights-and-biases-fiftyone/) (2023)
+
 
 #### Other
 * [Computer Vision](computer_vision.md)
