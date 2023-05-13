@@ -89,8 +89,8 @@ blog_posts_by_category_title: Blog Posts by Category
   * [How to Build a Self Driving Car](self_driving_cars/how_to_build_a_self_driving_car.md)
 * [Theater](theater.md)
 * Tools
-  * [Altair Charts](altair.md)
   * [Colab](colab.md)
+  * [Data Visualization](data_visualization.md)
   * [Editors](editors.md)
 * [Computational Topology](computational_topology.md)
 * [Webdev](webdev.md)
