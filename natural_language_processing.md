@@ -93,6 +93,10 @@ gradient for the vast majority of the parameters
 * [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 * Tim Dettmers tweet: [Next week: bitsandbytes 4-bit closed beta that allows you to finetune 30B/65B LLaMA models on a single 24/48 GB GPU (no degradation vs full fine-tuning in 16-bit)](https://twitter.com/Tim_Dettmers/status/1654917326381228033), May 2023
 
+#### Fine Tuning
+* [huggingface/peft](https://github.com/huggingface/peft), supports LORA, Prefix-Tuning, P-Tuning, Prompt Tuning, AdaLoRA. Runs on consumer hardware.
+  * Mark Tenenholtz: [tweet](https://twitter.com/marktenenholtz/status/1655582062663852036): Everyone can fine-tune LLMs on a single GPU.
+
 ### Open Source Movement
 * Andrej Karpathy tweet: [Roughly speaking the story as of now](https://twitter.com/karpathy/status/1654892810590650376?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), Apr 2023
   
