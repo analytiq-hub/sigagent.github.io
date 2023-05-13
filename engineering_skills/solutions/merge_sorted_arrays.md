@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Merge sorted array
+title: Merge sorted arrays
 mathjax: true
 ---
 
-* [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+* [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/)
 
 ```python
 class Solution:
