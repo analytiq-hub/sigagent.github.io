@@ -102,4 +102,4 @@ blog_posts_by_category_title: Blog Posts by Category
 * [lex-wiki.org](http://lex-wiki.org), Andrei's local wiki for Lexington
 * From way back
   * [lex4lang.org](https://web.archive.org/web/20150103052312/https://sites.google.com/site/lexington4languages/) - advocacy for Foreign Languages in Lexington, MA Elementary Schools
-  * [andrei4schools.com<](https://web.archive.org/web/20130817181328/http://andrei4schools.com/) - Andrei's School Committee campaign web site from Spring 2012
+  * [andrei4schools.com](https://web.archive.org/web/20130817181328/http://andrei4schools.com/) - Andrei's School Committee campaign web site from Spring 2012
