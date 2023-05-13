@@ -13,9 +13,9 @@ blog_posts_by_category_title: Blog Posts by Category
 
 <img src="src/images/andrei_circle.png" align="right" width="15%" height="15%" />
 
-## Andrei Radulescu-Banu … AI, Robotics, and Math
+## … AI, Robotics, and Math
 
-* Andrei's [blog](blog), [posts on Medium](medium.md), [Amazon reviews](https://www.amazon.com/gp/profile/amzn1.account.AH2JFOWQ673YGWLX22JI2BKYOUXA/ref=cm_cr_dp_d_gw_tr?ie=UTF8), [github](https://github.com/bitdribble), [LinkedIn](https://www.linkedin.com/in/andrei-radulescu-banu).
+* Andrei's [twitter](https://twitter.com/bitdribble), [Medium](medium.md), [Amazon reviews](https://www.amazon.com/gp/profile/amzn1.account.AH2JFOWQ673YGWLX22JI2BKYOUXA/ref=cm_cr_dp_d_gw_tr?ie=UTF8), [github](https://github.com/bitdribble), [LinkedIn](https://www.linkedin.com/in/andrei-radulescu-banu).
 
 ## Things I read, watch or follow
 
