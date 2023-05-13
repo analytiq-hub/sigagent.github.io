@@ -148,6 +148,7 @@ title: Physics
 #### AI in Physics
 * Silviu-Marian Udrescu, Max Tegmark: [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/pdf/1905.11481.pdf) (2020)
 * Silviu-Marian Udrescu et al: [AI Feynman 2.0: Pareto-optimal symbolic regression exploiting graph modularity](https://proceedings.neurips.cc/paper/2020/file/33a854e247155d590883b93bca53848a-Paper.pdf) (2020)
+* K. Desai et al: [SymmetryGAN: Symmetry Discovery with Deep Learning](https://arxiv.org/pdf/2112.05722.pdf) (2022)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
