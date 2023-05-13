@@ -42,4 +42,4 @@ class Trie:
 ```
 
 #### Other
-* [Engineering Skills](engineering_skills.md)
+* [Engineering Skills](/engineering_skills)

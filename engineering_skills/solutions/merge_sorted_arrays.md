@@ -25,4 +25,4 @@ class Solution:
 ```
 
 #### Other
-* [Engineering Skills](engineering_skills.md)
+* [Engineering Skills](/engineering_skills)
