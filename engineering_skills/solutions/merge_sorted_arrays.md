@@ -14,7 +14,7 @@ class Solution:
         """
         k = m+n-1
         while k >= 0:
-            print(f"m={m}, n={n}, k={k}, nums1={nums1}, nums2={nums2}")
+            # print(f"m={m}, n={n}, k={k}, nums1={nums1}, nums2={nums2}")
             if n <= 0 or (m > 0 and nums1[m-1] > nums2[n-1]):
                 nums1[k] = nums1[m-1]
                 m -= 1
