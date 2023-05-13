@@ -15,7 +15,7 @@ blog_posts_by_category_title: Blog Posts by Category
 
 ## … AI, Robotics, and Math
 
-* Andrei Radulescu-Banu's source code and information repository
+* Andrei Radulescu-Banu's knowledge repository
 * His [Twitter](https://twitter.com/bitdribble), [Medium](medium.md), [Amazon Reviews](https://www.amazon.com/gp/profile/amzn1.account.AH2JFOWQ673YGWLX22JI2BKYOUXA/ref=cm_cr_dp_d_gw_tr?ie=UTF8), [GitHub](https://github.com/bitdribble), [LinkedIn](https://www.linkedin.com/in/andrei-radulescu-banu).
 
 ## Things I read, watch or follow
