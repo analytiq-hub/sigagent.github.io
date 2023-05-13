@@ -60,6 +60,9 @@ title: Autonomous Agents
   * Prompts that work:
     * Write a python program that takes as input an integer, and returns the prime number factorization. Write a unit tester as well.
 
+#### AutoGPT
+* Rocky Chen: [How to config and run Auto-GPT?](https://medium.com/codex/how-to-config-and-run-auto-gpt-11f406d9fba4)
+
 #### Repos
 * [mbusigin](https://github.com/mbusigin)/[yaml-runner](https://github.com/mbusigin/yaml-runner)
 
