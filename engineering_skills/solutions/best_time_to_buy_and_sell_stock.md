@@ -5,7 +5,7 @@ mathjax: true
 ---
 
 * [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-```
+```python
 class Solution:
     def maxProfit(self,prices):
         left = 0 # Buy
