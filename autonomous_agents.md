@@ -35,7 +35,7 @@ title: Autonomous Agents
 * [Camel](https://www.camel-ai.org/)
 * [Flowiseai.com](https://flowiseai.com/)
   * Tutorials
-    * [Flowise is an open source no-code UI visual tool to build LangChain applications](https://www.youtube.com/watch?v=CovAPtQPU0k&t=7s) (2023)
+    * [Flowise is an open source no-code UI visual tool to build LangChain applications](https://www.youtube.com/watch?v=CovAPtQPU0k&t=7s), [medium](https://cobusgreyling.medium.com/flowise-for-langchain-b7c4023ffa71) (2023)
 * [Lamini](https://lamini.ai/)
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT), [docs](https://docs.agpt.co/setup/)
 * [weaviate.io](https://weaviate.io/)
