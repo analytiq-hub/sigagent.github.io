@@ -30,6 +30,8 @@ title: Autonomous Agents
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
+  * Tutorials
+    * Misbah Syed: [Build a Langchain agent in under 30m](https://twitter.com/MisbahSy/status/1655587763679289351)
 * [Pinecone](https://www.pinecone.io/)
 * [Replit](https://replit.com)
 * [Camel](https://www.camel-ai.org/)
