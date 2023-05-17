@@ -11,6 +11,8 @@ title: Webdev
 * [three.js](https://threejs.org/) - more modern WebGL wrapper
 * [deck.gl](http://deck.gl/) - WebGL wrapper used by xviz
 * [bubble.io](https://bubble.io) - WYSIWYG nohtml web editor
+  * Tutorials
+    * [Getting Started](https://bubble.io/blog/getting-started/)
 * [pipedream](https://pipedream.com) - API integration for, e.g., being notified when a tweet with a given hashtag is sent. The tweet can be parsed, saved to a Google sheet, can be translated, etc. Can run python code; you can run langchain. Similar to [zappier](https://zappier.com).
 
 #### Other
