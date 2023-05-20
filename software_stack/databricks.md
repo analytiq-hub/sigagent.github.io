@@ -35,6 +35,7 @@ title: Databricks Software Stack
 * [Databricks Access Control – The 3 Most Important Steps](https://www.confessionsofadataguy.com/databricks-access-control-the-3-most-important-steps/) (2022)
 * Towards Data Science: [Unleash The Power of Databricks CLI](https://towardsdatascience.com/unleash-the-power-of-databricks-cli-59480868eb0e) (2021)
 * [ML Solutions Accelerators](https://www.databricks.com/solutions/accelerators)
+* N. Karpov: [Introducing Support for Delta Lake Tables in AWS Lambda](https://delta.io/blog/2023-04-06-deltalake-aws-lambda-wrangler-pandas/) (2023)
 
 #### Containers
 * Conde Nast: [Bring Your Own Container: Using Docker Images In Production](https://www.databricks.com/session_na21/bring-your-own-container-using-docker-images-in-production) (2021)
