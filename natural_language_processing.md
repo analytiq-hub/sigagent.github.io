@@ -61,7 +61,9 @@ gradient for the vast majority of the parameters
 * PI School: Lukasz Kaiser: [Attention is all you need; Attention neural network models](https://www.youtube.com/watch?v=rBCqOTEfxvg) (2018)
 * [John Schulman - Reinforcement Learning from Human Feedback: Progress and Challenges](https://www.youtube.com/watch?v=hhiLw5Q_UFg) (2023)
 * [Mapping the future of *truly* Open Models and Training Dolly for $30 — with Mike Conover of Databricks](https://www.latent.space/p/mike-conover?utm_source=twitter&utm_medium=social&utm_campaign=twitter-embed#details) (2023)
-* Latent Space: [ Latent Space Live: Responding to the Leaked Google vs OpenAI strategy memo ](https://www.youtube.com/watch?v=GR8i7PfWaVw) (2023)
+* Latent Space:
+  * [Latent Space Live: Responding to the Leaked Google vs OpenAI strategy memo ](https://www.youtube.com/watch?v=GR8i7PfWaVw) (2023)
+  * [Training Mosaic's "llongboi" MPT-7B in 9 days for $200k with an empty logbook, how to prep good data for your training, and the future of open models](https://www.latent.space/p/mosaic-mpt-7b#details) (2023)
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
