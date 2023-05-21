@@ -323,6 +323,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 
 #### Dataset Pruning
 * Surya Ganguli: [Statistical mechanics of neural networks](https://www.youtube.com/watch?v=D_TyXVzD3hs) (2022), 2nd part
+* Jonathan Frankle: [Jonathan Frankle: Neural Network Pruning and Training](https://wandb.ai/wandb_fc/gradient-dissent/reports/Jonathan-Frankle-Neural-Network-Pruning-and-Training--Vmlldzo0MDIyNDIz) (2023)
 
 #### Contrastive Learning
 * G. Hinton: [The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf), [talk](https://nips.cc/virtual/2022/invited-talk/55869) (2022)
