@@ -70,6 +70,7 @@ gradient for the vast majority of the parameters
 * [Pinecone](https://www.pinecone.io/)
 * [Replit](https://replit.com)
 * [Langview](https://twitter.com/rupert_parry/status/1653780093712633859) demo
+* [Mosaic](https://www.mosaicml.com) - open source LLM infrastructure for enterprise market.
 
 #### Models
 * [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)
