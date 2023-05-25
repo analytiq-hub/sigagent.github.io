@@ -21,6 +21,7 @@ title: Biotech
 * MIT Tech Review:
   * [AI is dreaming up drugs that no one has ever seen. Now we’ve got to see if they work.](https://www.technologyreview.com/2023/02/15/1067904/ai-automation-drug-development/) (2023)
   * [An algorithm that can spot cause and effect could supercharge medical AI](https://www.technologyreview.com/2020/02/05/349131/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/) (2020)
+  * [Your next doctor’s appointment might be with an AI](https://www.technologyreview.com/2018/10/16/139443/your-next-doctors-appointment-might-be-with-an-ai/) (2018)
 
 #### Interviews
 * Lex Fridman Podcast
