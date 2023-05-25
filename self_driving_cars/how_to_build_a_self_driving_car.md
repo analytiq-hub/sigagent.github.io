@@ -2,6 +2,8 @@
 layout: page
 title: How to Build a Self Driving Car
 ---
+Under construction! With more updates coming soon.
+
 * [Book plan](https://docs.google.com/document/d/15Rc6v16nYicFrKGgcgL0Z0sjlAdeHwIArOOi_doQgKM/edit#)
 
 Our goal is to describe
