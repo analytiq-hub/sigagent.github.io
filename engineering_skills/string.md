@@ -8,7 +8,7 @@ Essential questions:
 * [Valid Anagram](https://leetcode.com/problems/valid-anagram) ([solution](/engineering_skills/solutions/valid_anagram)) (sort then compare)
 * [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) ([solution](/engineering_skills/solutions/valid_palindrome)) (for loop)
 * [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([solution](/engineering_skills/solutions/longest_substring)) (use sliding window)
-* [Rabin-Karp rolling hash algorithm](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)
+* [Rabin-Karp rolling hash algorithm](/engineering_skills/solutions/rabin_karp_algorithm)
 
 Recommended questions:
 * [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)

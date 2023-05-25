@@ -30,10 +30,14 @@ title: Autonomous Agents
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
+  * Tutorials
+    * Misbah Syed: [Build a Langchain agent in under 30m](https://twitter.com/MisbahSy/status/1655587763679289351), [youtube](https://www.youtube.com/watch?v=jDJIIVWTZDE) (2023)
 * [Pinecone](https://www.pinecone.io/)
 * [Replit](https://replit.com)
 * [Camel](https://www.camel-ai.org/)
 * [Flowiseai.com](https://flowiseai.com/)
+  * Tutorials
+    * [Flowise is an open source no-code UI visual tool to build LangChain applications](https://www.youtube.com/watch?v=CovAPtQPU0k&t=7s), [medium](https://cobusgreyling.medium.com/flowise-for-langchain-b7c4023ffa71) (2023)
 * [Lamini](https://lamini.ai/)
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT), [docs](https://docs.agpt.co/setup/)
 * [weaviate.io](https://weaviate.io/)
@@ -59,6 +63,9 @@ title: Autonomous Agents
     * Also see lalab.ai's [Auto-GPT tutorial: How to set up Auto-GPT](https://lablab.ai/t/auto-gpt-tutorial-how-to-set-up-auto-gpt)
   * Prompts that work:
     * Write a python program that takes as input an integer, and returns the prime number factorization. Write a unit tester as well.
+
+#### AutoGPT
+* Rocky Chen: [How to config and run Auto-GPT?](https://medium.com/codex/how-to-config-and-run-auto-gpt-11f406d9fba4)
 
 #### Repos
 * [mbusigin](https://github.com/mbusigin)/[yaml-runner](https://github.com/mbusigin/yaml-runner)

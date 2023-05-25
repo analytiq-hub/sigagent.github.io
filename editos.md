@@ -21,6 +21,6 @@ More recently, I started using VSCode, with the Github Copilot extension. Copilo
 * [Robotics](robotics.md)
 * [Self Driving Cars](self_driving_cars.md)
 * Tools
-  * [Altair Charts](altair.md)
   * [Colab](colab.md)
+  * [Data Visualization](data_visualization.md)
   * [Editors](editors.md)

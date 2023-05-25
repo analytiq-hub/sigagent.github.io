@@ -18,6 +18,12 @@ title: Natural Language Processing
 #### Explainability
 * OpenAI: S. Bills et al: [Language models can explain neurons in language models](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) (2023)
 
+#### Courses
+* [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) (2023)
+  * Charles Frye: [Learn to Spell: Prompt Engineering](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/)
+    * D. Dohan et al: [The Language Model Cascades](https://arxiv.org/pdf/2207.10342.pdf) (2022)
+    * The primary goal of prompting is subtractive; it focuses the mass of predictions to hone in on a specific world by conditioning the probabilistic model.
+
 #### Derivatives of LLaMA
 * E. Hu et al: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685), 2021
   * LoRA freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture
@@ -55,13 +61,16 @@ gradient for the vast majority of the parameters
 * PI School: Lukasz Kaiser: [Attention is all you need; Attention neural network models](https://www.youtube.com/watch?v=rBCqOTEfxvg) (2018)
 * [John Schulman - Reinforcement Learning from Human Feedback: Progress and Challenges](https://www.youtube.com/watch?v=hhiLw5Q_UFg) (2023)
 * [Mapping the future of *truly* Open Models and Training Dolly for $30 — with Mike Conover of Databricks](https://www.latent.space/p/mike-conover?utm_source=twitter&utm_medium=social&utm_campaign=twitter-embed#details) (2023)
-* Latent Space: [ Latent Space Live: Responding to the Leaked Google vs OpenAI strategy memo ](https://www.youtube.com/watch?v=GR8i7PfWaVw) (2023)
+* Latent Space:
+  * [Latent Space Live: Responding to the Leaked Google vs OpenAI strategy memo ](https://www.youtube.com/watch?v=GR8i7PfWaVw) (2023)
+  * [Training Mosaic's "llongboi" MPT-7B in 9 days for $200k with an empty logbook, how to prep good data for your training, and the future of open models](https://www.latent.space/p/mosaic-mpt-7b#details) (2023)
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
 * [Pinecone](https://www.pinecone.io/)
 * [Replit](https://replit.com)
 * [Langview](https://twitter.com/rupert_parry/status/1653780093712633859) demo
+* [Mosaic](https://www.mosaicml.com) - open source LLM infrastructure for enterprise market.
 
 #### Models
 * [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)
@@ -86,6 +95,10 @@ gradient for the vast majority of the parameters
   * Andrej Karpathy tweet: [The 'Chincilla trap' and the deVries post](https://twitter.com/karpathy/status/1654898539661754368)
 * [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 * Tim Dettmers tweet: [Next week: bitsandbytes 4-bit closed beta that allows you to finetune 30B/65B LLaMA models on a single 24/48 GB GPU (no degradation vs full fine-tuning in 16-bit)](https://twitter.com/Tim_Dettmers/status/1654917326381228033), May 2023
+
+#### Fine Tuning
+* [huggingface/peft](https://github.com/huggingface/peft), supports LORA, Prefix-Tuning, P-Tuning, Prompt Tuning, AdaLoRA. Runs on consumer hardware.
+  * Mark Tenenholtz: [tweet](https://twitter.com/marktenenholtz/status/1655582062663852036): Everyone can fine-tune LLMs on a single GPU.
 
 ### Open Source Movement
 * Andrej Karpathy tweet: [Roughly speaking the story as of now](https://twitter.com/karpathy/status/1654892810590650376?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), Apr 2023
