@@ -16,6 +16,7 @@ title: Biotech
 
 #### Papers
 * Yuri Lazebnick: [Can a biologist fix a radio?— Or, what I learned while studying apoptosis](https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf) (2002)
+* H. Fraser et al: [Safety of patient-facing digital symptom checkers](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32819-8/fulltext), Lancet (2018)
 
 #### Reports
 * MIT Tech Review:
