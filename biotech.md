@@ -17,6 +17,11 @@ title: Biotech
 #### Papers
 * Yuri Lazebnick: [Can a biologist fix a radio?— Or, what I learned while studying apoptosis](https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf) (2002)
 
+#### Reports
+* MIT Tech Review:
+  * [AI is dreaming up drugs that no one has ever seen. Now we’ve got to see if they work.](https://www.technologyreview.com/2023/02/15/1067904/ai-automation-drug-development/) (2023)
+  * [An algorithm that can spot cause and effect could supercharge medical AI](https://www.technologyreview.com/2020/02/05/349131/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/) (2020)
+
 #### Interviews
 * Lex Fridman Podcast
   * #133: [Manolis Kellis: Biology of Disease](https://www.youtube.com/watch?v=Aq9UPIXbtKI) (2020)
