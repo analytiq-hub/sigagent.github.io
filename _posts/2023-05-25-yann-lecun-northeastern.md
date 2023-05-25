@@ -23,6 +23,23 @@ For professionals dedicated to fostering the healthy development of Artificial G
 - He stresses the importance of cultivating critical and independent thinking to avoid succumbing to herd mentality.
 - LeCun laments the numerous short-lived trends he has witnessed in the AI field, leaving behind nothing but confusion.
 
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
+</p>
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/2.jpg"><br>
+</p>
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/3.jpg"><br>
+</p>
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/4.jpg"><br>
+</p>
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/5.jpg"><br>
+</p>
+
+
 Andrei's take:
 --------------
 
