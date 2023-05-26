@@ -5,9 +5,10 @@ categories: machine_learning
 ---
 
 Summary of [Yann LeCun's talk at Northeastern](https://www.youtube.com/watch?v=mViTAXCg1xQ):
-- He is critical of Large Language Models (LLMs), saying that without further improvements, the vast parameters and computational power will ultimately lead to failure.
-- He says LLMs are prone to numerous irreparable and uncontrollable hallucination errors, lacking reasoning and planning abilities.
-- While LLMs they may approximate certain aspects of the human brain's Broca/Wernicke language areas, they fall far short of true human intelligence.
+- He is critical of auto-regressive Large Language Models (LLMs), saying that without further improvements, the vast parameters and computational power will ultimately lead to failure.
+  - Key here is `auto-regressive`. Other LLMs, with updated architecture, doing planning, chain of thought, etc - these won't necessarily have this problem
+- He says auto-regressive LLMs are prone to numerous irreparable and uncontrollable hallucination errors, lacking reasoning and planning abilities.
+- While auto-regressive LLMs they may approximate certain aspects of the human brain's Broca/Wernicke language areas, they fall far short of true human intelligence.
 
 In terms of future AI development, LeCun puts forth several propositions.
 - He predicts that LLM-based ChatGPT will fade into obscurity within five years.
