@@ -124,6 +124,7 @@ Here's a 'system 2' implementation:
 - The world model is the green module
 - The different instances of the green module are the state of the systems at differnt time steps
 - Think of it like a recurrent net that you unfolded
+- What the world model is supposed to predict: Given a representation of the state of the world at time `t`, and an imagined action at time `t` - what is going to be the predicted state of the world at time `t+1`
 
 
 <p align="center">
