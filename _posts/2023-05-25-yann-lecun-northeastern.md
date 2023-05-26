@@ -277,8 +277,11 @@ Early experiments with video, trying to predict what's next:
 <img width="350" height="200" src="/src/images/yann_lecun/18.png"><br>
 </p>
 
+He says it's working pretty well (but does not provide details)
 
-
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/19.png"><br>
+</p>
 
 
 Andrei's take:
