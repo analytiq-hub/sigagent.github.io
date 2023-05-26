@@ -170,7 +170,12 @@ Ultimately, we want hierarchical version of this. (This is at the 30m mark in th
 - This is the equivalent of a vision system where the features at every level are hard wired.
 - There's no system today that can learn hierarchical representations for action plans.
 - So that's a big challenge.
-  
+
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/9.png"><br>
+</p>
+
+
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
