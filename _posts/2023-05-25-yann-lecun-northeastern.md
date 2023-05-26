@@ -161,6 +161,9 @@ Ultimately, we want hierarchical version of this. (This is at the 30m mark in th
   - How do I get out of this building? I have to get out of the door.
   - How do I get out of the door? I have to put one leg in front of the other. Go around obstacles. All the way down to millisecond - motion control for very short period. Which is replanned as we go.
 - No AI system today can do any of this!
+- This is completely virgin territory!
+- A lot of people worked on hierarchical planning, but in situations when the representations at every level are hard wired - known in advance. Predetermined.
+- This is the equivalent of a vision system where the features at every level are hard wired.
   
 
 <p align="center">
