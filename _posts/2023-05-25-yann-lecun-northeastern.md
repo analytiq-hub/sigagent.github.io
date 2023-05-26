@@ -120,7 +120,7 @@ Here's a 'system 2' implementation:
 <img width="350" height="200" src="/src/images/yann_lecun/7.png"><br>
 </p>
 
-
+- Similar to Model-Predictive Control (MPC)
 
 
 <p align="center">
