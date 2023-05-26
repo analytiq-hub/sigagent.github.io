@@ -64,6 +64,7 @@ In terms of how models work:
   - They accummulate enormous amounts of background knowledge
     - About the structure of the world, like intuitive physics
   - Perhaps common sense emerges from this knowledge
+- General intelligence will probably emerge from the ability of machines to learn how the world works by observation, the way babies and animals do it
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
