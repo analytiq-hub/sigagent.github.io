@@ -88,7 +88,8 @@ LeCun describes his paper from last year, [A Path Towards Autonomous Machine Int
   - World Model
   - Cost
     - Cost function is a measure of disconfort of the agent
-    - Basal ganglia has things like that - tells you when you're hungry, for example
+    - Basal ganglia has things like that - tells you when you're hungry, for example, or you're hurting
+    - Nature tells you that you're hungry, but not how to feed yourself. You have to plan that.
   - Actor
   - Short-term memory
 
