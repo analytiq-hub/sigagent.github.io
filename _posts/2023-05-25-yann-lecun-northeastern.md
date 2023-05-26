@@ -121,6 +121,9 @@ Here's a 'system 2' implementation:
 </p>
 
 - Similar to Model-Predictive Control (MPC)
+- The world model is the green module
+- The different instances of the green module are the state of the systems at differnt time steps
+- Think of it like a recurrent net that you unfolded
 
 
 <p align="center">
