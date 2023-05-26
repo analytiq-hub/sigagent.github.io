@@ -44,6 +44,11 @@ In terms of how models work:
 - No knowledge of underlying reality.
 - No common sense, no ability to plan answer (not the auto-regressive LLMs themselves)
 - Auto-regressive LLMs cannot be made factual, non-toxic.
+- Auto-regressive process diverges from correct answer exponentially
+- Not fixable with current architecture.
+- His bold prediction is that the shelf life of auto-regressive LLMs is very short.
+  - 5 years from now, no one in their right mind will use them
+  - Will be replaced by things that are better
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
