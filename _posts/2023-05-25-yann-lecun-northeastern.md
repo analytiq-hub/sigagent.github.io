@@ -91,6 +91,7 @@ LeCun describes his paper from last year, [A Path Towards Autonomous Machine Int
     - Basal ganglia has things like that - tells you when you're hungry, for example, or you're hurting
     - Nature tells you that you're hungry, but not how to feed yourself. You have to plan that.
     - Imagine this is a robot. The battery level is the cost fuction. The battery starts to get drained.
+      - Robot has to plan to attach itself to a socket, to recharge.
   - Actor
   - Short-term memory
 
