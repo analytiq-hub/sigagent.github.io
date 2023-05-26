@@ -56,6 +56,14 @@ In terms of how models work:
   - Physics: stability support, understanding gravity, inertia, conservation of motion
   - Objects: object permanence, solidity, rigidity, natural kind categories, shape, consistency
 - How can teenagers learn to drive with 20h of practice?
+- We're missing something big
+- The path to general AI, to self driving cars, is not to make LLMs bigger.
+
+- How do babies learn how the world works?
+  - Largely by observation, with little interaction (initially)
+  - They accummulate enormous amounts of background knowledge
+    - About the structure of the world, like intuitive physics
+  - Perhaps common sense emerges from this knowledge
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
