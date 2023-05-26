@@ -83,6 +83,12 @@ Three challenges for AI over the next decade or so:
 LeCun describes his paper from last year, [A Path Towards Autonomous Machine Intelligence](http://a%20path%20towards%20autonomous%20machine%20intelligence/), posted on openreview.net.
 - The technical talk for it is [From Machine Learning to Autonomous Intelligence](https://www.youtube.com/watch?v=VRzvpV9DZ8Y) (2022) (Berkeley)
 - It is based on a cognitive architecture
+  - Configurator/orchestrator
+  - Perception
+  - World Model
+  - Cost
+  - Actor
+  - Short-term memory
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
