@@ -5,8 +5,17 @@ categories: machine_learning
 ---
 
 Summary of [Yann LeCun's talk at Northeastern](https://www.youtube.com/watch?v=mViTAXCg1xQ):
+
+- What is a model for AGI
+- Why a hierarchical planning is needed
+- How hierarchical learned planning has not been solved
+- Why energy models are necessary, in this context
+- How to use energy models and joint embeddings for this
+- Example of unsupervised model for predicting outcome in video - implementing some form of the hierarchical planner
+
+About LLMs:
 - He is critical of auto-regressive Large Language Models (LLMs), saying that without further improvements, the vast parameters and computational power will ultimately lead to failure.
-  - Key here is `auto-regressive`. Other LLMs, with updated architecture, doing planning, chain of thought, etc - these won't necessarily have this problem
+  - Key here is `auto-regressive`. Putting a planner on top of LLMs, or a chain of thought, etc - these can solve the problem
 - He says auto-regressive LLMs are prone to numerous irreparable and uncontrollable hallucination errors, lacking reasoning and planning abilities.
 - While auto-regressive LLMs they may approximate certain aspects of the human brain's Broca/Wernicke language areas, they fall far short of true human intelligence.
 
