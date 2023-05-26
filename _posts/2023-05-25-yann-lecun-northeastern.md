@@ -218,12 +218,17 @@ But you don't want to predict every detail of the world!
 - If I shoot a video of the room here, and pan in the camera, it would be able to predict there are multiple people, and where they sit - but could not predict your age, gender, hairstyle, details like that
 - Issue with this model: if you train the system with `x` a piece of video, and `y` a following piece of video, it collapses
 - How do we prevent collapse?
+- There are three flavors
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/12.png"><br>
 </p>
 
-- There are three flavors
+- How do you train them?
+
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/13.png"><br>
+</p>
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
@@ -231,6 +236,8 @@ But you don't want to predict every detail of the world!
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/4.jpg"><br>
 </p>
+
+
 
 
 Andrei's take:
