@@ -13,6 +13,7 @@ title: Cell Simulations
   * [CTag announcement](https://ctag.com/en/cell-os-robotic-cell-operative-system/)
 * NVidia WaterWorks, WaveWorks
   * [Used in videogaming](https://forums.unrealengine.com/t/nvidia-waveworks-how-to-implement-into-ue4-in-2020/146850)
+* [Novartis/watMD](https://github.com/Novartis/watMD)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence.md)
