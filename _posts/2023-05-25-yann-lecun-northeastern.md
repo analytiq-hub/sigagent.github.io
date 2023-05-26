@@ -155,6 +155,8 @@ Ultimately, we want hierarchical version of this. (This is at the 30m mark in th
   - They define a cost function for the next level down.
   - The lower level is - how do I catch a taxi to go to the train station
     - No, this is Boston, so I need to catch an Uber or something
+  - So I go on the street `z1[0]`, and call an Uber `z1[1]`
+    - (There's a typo on this slide)
   
 
 <p align="center">
