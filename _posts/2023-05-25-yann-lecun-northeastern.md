@@ -157,6 +157,7 @@ Ultimately, we want hierarchical version of this. (This is at the 30m mark in th
     - No, this is Boston, so I need to catch an Uber or something
   - So I go on the street `z1[0]`, and call an Uber `z1[1]`
     - (There's a typo on this slide)
+  - How do I go on the street? There's going to be lower levels. I have to go out of this building. How do I get out of this building? I have to get out of the door.
   
 
 <p align="center">
