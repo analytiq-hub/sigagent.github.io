@@ -91,9 +91,19 @@ LeCun describes his paper from last year, [A Path Towards Autonomous Machine Int
     - Basal ganglia has things like that - tells you when you're hungry, for example, or you're hurting
     - Nature tells you that you're hungry, but not how to feed yourself. You have to plan that.
     - Imagine this is a robot. The battery level is the cost fuction. The battery starts to get drained.
-      - Robot has to plan to attach itself to a socket, to recharge.
+      - Robot has to plan to attach itself to a socket, to recharge. That will eventually minimize the cost function
   - Actor
   - Short-term memory
+
+Here is a 'system 1' implementation of this:
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/6.png"><br>
+</p>
+- The encoder (=perception system, in pink) makes an estimation of the world
+- The state of the world runs through a policy network (in yellow)
+- That produces an action
+- The action goes into the world
+
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
