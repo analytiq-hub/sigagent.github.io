@@ -125,7 +125,21 @@ Here's a 'system 2' implementation:
 - The different instances of the green module are the state of the systems at differnt time steps
 - Think of it like a recurrent net that you unfolded
 - What the world model is supposed to predict: Given a representation of the state of the world at time `t`, and an imagined action at time `t` - what is going to be the predicted state of the world at time `t+1`
+- I can imagine the sequence of steps I might take. I can imagine the sequence of actions.
+- I can project my cost, at each time `t`, and measure if my cost is going to be minimized by this action sequence.
+- What I should do - run an optimization procedure that will search through this sequence of actions and minimizes the cost, given the prediction given to me by the world model
+- This type of planning is very classic in optimal control
+  - Called Model-Predictive Control
+- In classical control, the model is not learned. It's just hand crafted.
+- Here, we are thinking of a situation where the world model is learned
+  - Learned by, for example, watching the world go by, by video
+  - Also, by observing actions in the world, and seeing the effects
 
+Ultimately, we want hierarchical version of this.
+
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/8.png"><br>
+</p>
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
