@@ -67,8 +67,13 @@ In terms of how models work:
   - Perhaps common sense emerges from this knowledge
 - General intelligence will probably emerge from the ability of machines to learn how the world works by observation, the way babies and animals do it
 
-Three challenges for AI going forward:
+Three challenges for AI over the next decade or so:
 1. Learning representations of the world. Learn to predict the world.
+   - Self-supervised learning
+   - Learning dependencies
+   - Ability to fill in the blank
+   - ...But in a non task-specific way
+   - Learning predictive models for planning and control
 2. Learning to reason.
    - Should work like Daniel Kahneman's System 1 (subconscious), System 2 (conscious) thinking
    - Reasoning and planning should be a form of energy minimization
