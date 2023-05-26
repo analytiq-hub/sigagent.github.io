@@ -36,10 +36,14 @@ In terms of how models work:
 - Amazing performance, stupid mistakes.
   - Factual errors, logical errors, inconsistencies, limited reasoning abilities.
   - Gullible. You can persuade them that 2+2=5.
-  - Can use them for writing text, code genration.
+  - Can hallucinate.
+  - Not good for reasoning, planning, arithmetic
+  - Can use them for writing assistance, first draft generation, code generation.
   - Software engineerig will be revolutionized.
+  
 - No knowledge of underlying reality.
-- No common sense, no ability to plan answer (at least not directly themselves)
+- No common sense, no ability to plan answer (not the auto-regressive LLMs themselves)
+- Auto-regressive LLMs cannot be made factual, non-toxic.
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
