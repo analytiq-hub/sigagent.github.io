@@ -147,6 +147,10 @@ Ultimately, we want hierarchical version of this. (This is at the 30m mark in th
   - Partly b/c you don't have a perfect model of the environment
   - You don't know, once you go out of the room, what is going to be in the way, and how you'll go around that
   - So you can't completely plan in advance.
+  - So I have to plan hierarchically.
+  - The cost function at the top is the distance to NYC
+  - The 1st thing I have to do is - go to the train station an catch a train
+  
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
