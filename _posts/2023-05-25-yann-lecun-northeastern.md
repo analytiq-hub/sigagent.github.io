@@ -150,6 +150,11 @@ Ultimately, we want hierarchical version of this. (This is at the 30m mark in th
   - So I have to plan hierarchically.
   - The cost function at the top is the distance to NYC
   - The 1st thing I have to do is - go to the train station an catch a train
+  - The top predictors say - if I catch a taxi, I can go to the train station. If I go to the train station, I can catch the train.
+  - These intermediary states are the `z` variables here.
+  - They define a cost function for the next level down.
+  - The lower level is - how do I catch a taxi to go to the train station
+    - No, this is Boston, so I need to catch an Uber or something
   
 
 <p align="center">
