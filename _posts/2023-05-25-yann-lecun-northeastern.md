@@ -114,6 +114,12 @@ Here is a 'system 1' implementation of this:
 
 LLMs are like this. They are 'System 1'. No reasoning necessary.
 
+Here's a 'system 2' implementation:
+
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/7.png"><br>
+</p>
+
 
 
 
