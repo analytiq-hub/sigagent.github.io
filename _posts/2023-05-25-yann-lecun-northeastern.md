@@ -212,7 +212,9 @@ But you don't want to predict every detail of the world!
 - The reason we have LLMs that work so well is - text is easy. Language is simple.
   - It's also processed in the brain by two tiny areas - the Wernicke area, for understanding, and the Broca area, for production [there's two other small areas, Angular Gyrus and Superior Temporal Gyrus, says ChatGPT]
   - What about the prefrontal cortex, where we think?
-
+  
+- LeCun proposes replacing the generative architecture with a joint embedding architecture
+- The purpos of `Enc(y)` is to drop details about `y` that are not essential
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
