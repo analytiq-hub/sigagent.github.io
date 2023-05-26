@@ -215,6 +215,15 @@ But you don't want to predict every detail of the world!
   
 - LeCun proposes replacing the generative architecture with a joint embedding architecture
 - The purpos of `Enc(y)` is to drop details about `y` that are not essential
+- If I shoot a video of the room here, and pan in the camera, it would be able to predict there are multiple people, and where they sit - but could not predict your age, gender, hairstyle, details like that
+- Issue with this model: if you train the system with `x` a piece of video, and `y` a following piece of video, it collapses
+- How do we prevent collapse?
+
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/12.png"><br>
+</p>
+
+- There are three flavors
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
