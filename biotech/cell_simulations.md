@@ -10,6 +10,8 @@ title: Cell Simulations
 #### Tools
 * Matlab/Simulink
   * Can be integrated in Databricks to run at scale, but would be expensive to approach this way
+* [Maestro](https://www.schrodinger.com/products/maestro)
+* [PyMOL](https://pymol.org/2/)
 * Cell-OS
   * [CTag announcement](https://ctag.com/en/cell-os-robotic-cell-operative-system/)
 * NVidia WaterWorks, WaveWorks
