@@ -183,6 +183,15 @@ Ultimately, we want hierarchical version of this. (This is at the 30m mark in th
 - The cost is a sum of intrinsic cost IC (immutable cost module, hard wired), and trainable cost TC (predicting the future IC - equivalent to critic in RL).
 - The TC implements subgoals
 
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/10.png"><br>
+</p>
+
+How do we build the world model?
+- How do we build it to predict the world
+- World is not always predictable
+- LeCun's solution: Joint embedding predictive architecture
+
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
