@@ -193,7 +193,11 @@ How do we build the world model?
   - Probabilistic models intractable in continuous domain
   - Generative models must predict every detail of the world
 - LeCun's solution: Joint embedding predictive architecture
+- This is the most important slide of the talk
 
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/11.png"><br>
+</p>
 
 
 <p align="center">
