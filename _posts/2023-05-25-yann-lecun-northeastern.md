@@ -42,6 +42,10 @@ In terms of how models work:
   - Not good for reasoning, planning, arithmetic
   - Can use them for writing assistance, first draft generation, code generation.
   - Software engineerig will be revolutionized.
+
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/3.jpg"><br>
+</p>
   
 - No knowledge of underlying reality.
 - No common sense, no ability to plan answer (not the auto-regressive LLMs themselves)
@@ -51,6 +55,10 @@ In terms of how models work:
 - His bold prediction is that the shelf life of auto-regressive LLMs is very short.
   - 5 years from now, no one in their right mind will use them
   - Will be replaced by things that are better
+
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/2.jpg"><br>
+</p>
 
 - How could machines learn like animals and humans? Babies under 14 month gradually understand: (per Emmanuel Dupoux)
   - Actions: face tracking, biological motion, rational goal-directed actions
@@ -104,15 +112,13 @@ Here is a 'system 1' implementation of this:
 - That produces an action
 - The action goes into the world
 
+LLMs are like this. They are 'System 1'. No reasoning necessary.
+
+
+
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
-</p>
-<p align="center">
-<img width="350" height="200" src="/src/images/yann_lecun/2.jpg"><br>
-</p>
-<p align="center">
-<img width="350" height="200" src="/src/images/yann_lecun/3.jpg"><br>
 </p>
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/4.jpg"><br>
