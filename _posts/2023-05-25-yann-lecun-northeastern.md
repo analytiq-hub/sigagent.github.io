@@ -87,6 +87,8 @@ LeCun describes his paper from last year, [A Path Towards Autonomous Machine Int
   - Perception
   - World Model
   - Cost
+    - Cost function is a measure of disconfort of the agent
+    - Basal ganglia has things like that - tells you when you're hungry, for example
   - Actor
   - Short-term memory
 
