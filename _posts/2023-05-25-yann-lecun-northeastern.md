@@ -51,7 +51,7 @@ In terms of how models work:
   - 5 years from now, no one in their right mind will use them
   - Will be replaced by things that are better
 
-- How could machines learn like animals and humans? Babies under 14 month gradually understand: (per Emmanuel Dupuis)
+- How could machines learn like animals and humans? Babies under 14 month gradually understand: (per Emmanuel Dupoux)
   - Actions: face tracking, biological motion, rational goal-directed actions
   - Physics: stability support, understanding gravity, inertia, conservation of motion
   - Objects: object permanence, solidity, rigidity, natural kind categories, shape, consistency
