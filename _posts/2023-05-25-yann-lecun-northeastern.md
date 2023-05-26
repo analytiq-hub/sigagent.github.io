@@ -11,7 +11,8 @@ Summary of [Yann LeCun's talk at Northeastern](https://www.youtube.com/watch?v=m
 - While auto-regressive LLMs they may approximate certain aspects of the human brain's Broca/Wernicke language areas, they fall far short of true human intelligence.
 
 In terms of future AI development, LeCun puts forth several propositions.
-- He predicts that LLM-based ChatGPT will fade into obscurity within five years.
+- He predicts that autoregressive LLM-based ChatGPT will fade into obscurity within five years.
+  - Other architectures will replace them
 - He emphasizes the necessity for future tech giants to prioritize the creation of open-source infrastructure for the next generation of artificial intelligence. This approach would eliminate the need for every company to compete solely based on computational power and parameter quantity.
 - LeCun highlights the limitations of current AI systems, emphasizing their struggles with autonomous driving and the complexity of pharmaceutical engineering.
 - As a result, AI applications remain confined to specific domains.
