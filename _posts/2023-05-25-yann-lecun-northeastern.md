@@ -90,6 +90,7 @@ LeCun describes his paper from last year, [A Path Towards Autonomous Machine Int
     - Cost function is a measure of disconfort of the agent
     - Basal ganglia has things like that - tells you when you're hungry, for example, or you're hurting
     - Nature tells you that you're hungry, but not how to feed yourself. You have to plan that.
+    - Imagine this is a robot. The battery level is the cost fuction. The battery starts to get drained.
   - Actor
   - Short-term memory
 
