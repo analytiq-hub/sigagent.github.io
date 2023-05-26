@@ -209,6 +209,7 @@ But you don't want to predict every detail of the world!
 - Predicting probabilities for next word over all words in the dictionary is possible
 - Can't do this over every frame in a video clip
 - Cannot possibly represent a distribution over all video frames
+- The reason we have LLMs that work so well is - text is easy
 
 
 <p align="center">
