@@ -25,7 +25,10 @@ For professionals dedicated to fostering the healthy development of Artificial G
 - He stresses the importance of cultivating critical and independent thinking to avoid succumbing to herd mentality.
 - LeCun laments the numerous short-lived trends he has witnessed in the AI field, leaving behind nothing but confusion.
 
-In terms of how models work:
+----
+
+In more detail:
+
 - He compares supervised with unsupervised models
 - Explains BERT
 - Explains text-based generative models
@@ -55,6 +58,10 @@ In terms of how models work:
 - His bold prediction is that the shelf life of auto-regressive LLMs is very short.
   - 5 years from now, no one in their right mind will use them
   - Will be replaced by things that are better
+
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
+</p>
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/2.jpg"><br>
@@ -252,9 +259,6 @@ But you don't want to predict every detail of the world!
 <img width="350" height="200" src="/src/images/yann_lecun/16.png"><br>
 </p>
 
-<p align="center">
-<img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
-</p>
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/4.jpg"><br>
 </p>
