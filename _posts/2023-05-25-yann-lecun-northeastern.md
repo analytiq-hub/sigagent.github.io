@@ -208,6 +208,7 @@ But you don't want to predict every detail of the world!
 - That would be easy if it's text, because text is discrete
 - Predicting probabilities for next word over all words in the dictionary is possible
 - Can't do this over every frame in a video clip
+- Cannot possibly represent a distribution over all video frames
 
 
 <p align="center">
