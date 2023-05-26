@@ -4,7 +4,7 @@ layout: post
 categories: machine_learning
 ---
 
-Summary of Yann LeCun's talk at Northeastern:
+Summary of [Yann LeCun's talk at Northeastern](https://www.youtube.com/watch?v=mViTAXCg1xQ):
 - He is critical of Large Language Models (LLMs), saying that without further improvements, the vast parameters and computational power will ultimately lead to failure.
 - He says LLMs are prone to numerous irreparable and uncontrollable hallucination errors, lacking reasoning and planning abilities.
 - While LLMs they may approximate certain aspects of the human brain's Broca/Wernicke language areas, they fall far short of true human intelligence.
