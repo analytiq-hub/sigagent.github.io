@@ -238,6 +238,9 @@ But you don't want to predict every detail of the world!
 <img width="350" height="200" src="/src/images/yann_lecun/14.png"><br>
 </p>
 
+- Energy function `F(x, y)` is minimized when `y` corresponds to `x`.
+- This gives `y` as implicit function of `x`
+
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
