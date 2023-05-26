@@ -209,7 +209,9 @@ But you don't want to predict every detail of the world!
 - Predicting probabilities for next word over all words in the dictionary is possible
 - Can't do this over every frame in a video clip
 - Cannot possibly represent a distribution over all video frames
-- The reason we have LLMs that work so well is - text is easy
+- The reason we have LLMs that work so well is - text is easy. Language is simple.
+  - It's also processed in the brain by two tiny areas - the Wernicke area, for understanding, and the Broca area, for production
+  - What about the prefrontal cortex, where we think?
 
 
 <p align="center">
