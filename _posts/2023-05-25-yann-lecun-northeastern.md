@@ -283,6 +283,11 @@ He says it's working pretty well (but does not provide details)
 <img width="350" height="200" src="/src/images/yann_lecun/19.png"><br>
 </p>
 
+Summary slide at the end:
+
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/20.png"><br>
+</p>
 
 Andrei's take:
 --------------
