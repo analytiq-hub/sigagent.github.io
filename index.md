@@ -22,6 +22,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Autonomous Agents](autonomous_agents.md)
 * [Biotech](biotech.md)
+  * [Cell Simulations](biotech/cell_simulations.md)
 * [Cloud Data Platform](cloud_data_platform.md)
 * [Cognitive Science](cognitive_science.md)
 * [Computation Theory](computation_theory.md)

@@ -4,7 +4,8 @@ mathjax: true
 title: Cell Simulations
 ---
 #### Articles
-*
+* Biodynamics
+  * H. Wan, R. Pearlstein: [Toward a first principles understanding of the activation and deactivation mechanisms of class A G-protein coupled receptors and voltage-gated cation channels](https://www.biorxiv.org/content/10.1101/2022.03.29.486149v2.full.pdf+html) (2022)
 
 #### Tools
 * Matlab/Simulink
