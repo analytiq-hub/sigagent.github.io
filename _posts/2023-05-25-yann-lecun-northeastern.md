@@ -55,6 +55,7 @@ In terms of how models work:
   - Actions: face tracking, biological motion, rational goal-directed actions
   - Physics: stability support, understanding gravity, inertia, conservation of motion
   - Objects: object permanence, solidity, rigidity, natural kind categories, shape, consistency
+- How can teenagers learn to drive with 20h of practice?
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
