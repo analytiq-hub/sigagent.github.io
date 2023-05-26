@@ -263,6 +263,14 @@ But you don't want to predict every detail of the world!
 <img width="350" height="200" src="/src/images/yann_lecun/4.jpg"><br>
 </p>
 
+I'll skip some details from his presentation. He goes through 4-5 slides rather quick.
+
+Then he says - the reason to do JEPA is that it implements a world model, and multi-scale predictions
+
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/17.png"><br>
+</p>
+
 
 
 
