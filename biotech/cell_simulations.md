@@ -14,6 +14,11 @@ title: Cell Simulations
 * NVidia WaterWorks, WaveWorks
   * [Used in videogaming](https://forums.unrealengine.com/t/nvidia-waveworks-how-to-implement-into-ue4-in-2020/146850)
 * [Novartis/watMD](https://github.com/Novartis/watMD)
+* CompuCell3D - open-source, allows researchers to create detailed models of cells and tissues and simulate their behaviors in 2D or 3D environments.
+* BioNetGen - modeling and simulation of biochemical reaction networks
+* Virtual Cell - modeling and simulating biological systems at the cellular level. Visual interface for constructing and simulating computational models of cellular processes, such as signal transduction, gene regulation, and cell signaling
+* COPASI (Complex Pathway Simulator) - simulation and analysis of biochemical networks. GUI for building and simulating models of cellular processes and offers various analysis features, including parameter estimation, sensitivity analysis, and optimization.
+* NetLogo - agent-based modeling platform that allows for simulating and studying complex systems, including cellular processes. Simple programming language and a user-friendly interface
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence.md)
