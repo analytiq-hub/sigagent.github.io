@@ -23,6 +23,24 @@ For professionals dedicated to fostering the healthy development of Artificial G
 - He stresses the importance of cultivating critical and independent thinking to avoid succumbing to herd mentality.
 - LeCun laments the numerous short-lived trends he has witnessed in the AI field, leaving behind nothing but confusion.
 
+In terms of how models work:
+- He compares supervised with unsupervised models
+- Explains BERT
+- Explains text-based generative models
+  - Trained to predict next token (word or subword)
+  - Have to train on 1-2 trillions of tokens, for the biggest models
+  - With 1B to 500B parameters
+  - Once trained, pass in a prompt, and use recursively to predict next, and next token. This is called auto-regressive prediction.
+  - That's how all big LLMs work
+    BlenderBot, Galactica, LLaMa(Meta), Alpaca(Stanford), LaMDA/Bard(Google), Chinchilla(DeepMind), ChatGPT(OpenAI), GPT-4...
+- Amazing performance, stupid mistakes.
+  - Factual errors, logical errors, inconsistencies, limited reasoning abilities.
+  - Gullible. You can persuade them that 2+2=5.
+  - Can use them for writing text, code genration.
+  - Software engineerig will be revolutionized.
+- No knowledge of underlying reality.
+- No common sense, no ability to plan answer (at least not directly themselves)
+
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
 </p>
