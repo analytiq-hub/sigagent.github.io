@@ -201,6 +201,8 @@ How do we build the world model?
 
 - The left is a generative network - for example, you run the model for a while, train it to predict `y`, then predict `y`
 - Examples: variational autoencoder, masked autoencoders
+- All NLP systems, including LLMs, are of this type
+- They're generative models
 
 
 <p align="center">
