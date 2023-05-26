@@ -88,6 +88,10 @@ Three challenges for AI over the next decade or so:
 3. Learning to plan complex action sequences
    - Decomposing them into simpler ones
 
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/5.jpg"><br>
+</p>
+
 LeCun describes his paper from last year, [A Path Towards Autonomous Machine Intelligence](http://a%20path%20towards%20autonomous%20machine%20intelligence/), posted on openreview.net.
 - The technical talk for it is [From Machine Learning to Autonomous Intelligence](https://www.youtube.com/watch?v=VRzvpV9DZ8Y) (2022) (Berkeley)
 - It is based on a cognitive architecture
@@ -173,9 +177,6 @@ Ultimately, we want hierarchical version of this. (This is at the 30m mark in th
 </p>
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/4.jpg"><br>
-</p>
-<p align="center">
-<img width="350" height="200" src="/src/images/yann_lecun/5.jpg"><br>
 </p>
 
 
