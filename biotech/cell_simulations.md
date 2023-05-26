@@ -5,8 +5,8 @@ title: Cell Simulations
 ---
 #### Articles
 * Biodynamics
-  * H. Wan, R. Pearlstein: [Toward a first principles understanding of the activation and deactivation mechanisms of class A G-protein coupled receptors and voltage-gated cation channels](https://www.biorxiv.org/content/10.1101/2022.03.29.486149v2.full.pdf+html) (2022)
   * R.Pearlstein et al: [Improving the preclinical and clinical success rates of LMW drugs depends on radical revisions to the status quo scientific foundations of medicinal chemistry: a case study on COVID Mpro inhibition](https://www.biorxiv.org/content/10.1101/2022.10.31.514572v2.full.pdf) (2023)
+  * H. Wan, R. Pearlstein: [Toward a first principles understanding of the activation and deactivation mechanisms of class A G-protein coupled receptors and voltage-gated cation channels](https://www.biorxiv.org/content/10.1101/2022.03.29.486149v2.full.pdf+html) (2022)
 
 #### Tools
 * Cell-OS
