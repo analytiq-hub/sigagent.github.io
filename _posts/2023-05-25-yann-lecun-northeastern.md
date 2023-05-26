@@ -239,8 +239,18 @@ But you don't want to predict every detail of the world!
 </p>
 
 - Energy function `F(x, y)` is minimized when `y` corresponds to `x`.
-- This gives `y` as implicit function of `x`
+- This gives `y` as implicit function
+- How do you train them?
 
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/15.png"><br>
+</p>
+
+- Use contrastive method, regularized method
+
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/16.png"><br>
+</p>
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
