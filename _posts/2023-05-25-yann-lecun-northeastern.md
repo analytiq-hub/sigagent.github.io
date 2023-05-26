@@ -178,6 +178,7 @@ Ultimately, we want hierarchical version of this. (This is at the 30m mark in th
 - A lot of people are talking today about AI systems that are not steerable, difficult to control, perhaps toxic
 - The system I describe cannot produce output that does not minimize the cost
 - Having a system like this is guaranteed to be safe. You program the safety in the cost.
+- LeCun does not think the problem of making AI safe is such a huge problem
 
 - The cost is a sum of intrinsic cost IC (immutable cost module, hard wired), and trainable cost TC (predicting the future IC - equivalent to critic in RL).
 - The TC implements subgoals
