@@ -159,7 +159,7 @@ Ultimately, we want hierarchical version of this. (This is at the 30m mark in th
     - (There's a typo on this slide)
   - How do I go on the street? There's going to be lower levels. I have to go out of this building.
   - How do I get out of this building? I have to get out of the door.
-  - How do I get out of the door? I have to put one leg in front of the other. Go around obstacles. All the way down to millisecond - motion control for very short period.
+  - How do I get out of the door? I have to put one leg in front of the other. Go around obstacles. All the way down to millisecond - motion control for very short period. Which is replanned as we go.
   
 
 <p align="center">
