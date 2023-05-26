@@ -6,14 +6,14 @@ title: Cloud Data Platform
 #### Software Stacks
 * [BDAS, the Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/)
 * [Databricks](software_stack/databricks.md)
-* [Docker](software_stack/databricks.md)
+* [Docker](software_stack/docker.md)
 * [AWS](software_stack/amazon_web_services.md)
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Google](software_stack/google.md)
 * [Lyft](software_stack/lydt.md)
 * [Neptune.ai](https://neptune.ai/)
-* [Onehouse](software_stack/onehouse/)
-* [OpenAI](software_stack/openai/)
+* [Onehouse](software_stack/onehouse.md)
+* [OpenAI](software_stack/openai.md)
 * [Jupyterhub](https://jupyterhub.readthedocs.io)
   * Amazon EMR
     * [Create a cluster with JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub-launch.html)
