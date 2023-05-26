@@ -164,6 +164,8 @@ Ultimately, we want hierarchical version of this. (This is at the 30m mark in th
 - This is completely virgin territory!
 - A lot of people worked on hierarchical planning, but in situations when the representations at every level are hard wired - known in advance. Predetermined.
 - This is the equivalent of a vision system where the features at every level are hard wired.
+- There's no system today that can learn hierarchical representations for action plans.
+- So that's a big challenge.
   
 
 <p align="center">
