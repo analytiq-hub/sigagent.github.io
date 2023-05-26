@@ -230,6 +230,15 @@ But you don't want to predict every detail of the world!
 <img width="350" height="200" src="/src/images/yann_lecun/13.png"><br>
 </p>
 
+- Have to explain energy model
+- When using joint embedding, the proabilistic model paradigm goes out the window
+- What is an energy based model?
+
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/14.png"><br>
+</p>
+
+
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
 </p>
