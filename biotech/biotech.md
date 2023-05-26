@@ -6,6 +6,13 @@ title: Cell Simulations
 #### Articles
 *
 
+#### Tools
+* Matlab/Simulink
+  * Can be integrated in Databricks to run at scale, but would be expensive to approach this way
+* Cell-OS
+  * [CTag announcement](https://ctag.com/en/cell-os-robotic-cell-operative-system/)
+* NVidia WaterWorks, WaveWorks
+  * [Used in videogaming](https://forums.unrealengine.com/t/nvidia-waveworks-how-to-implement-into-ue4-in-2020/146850)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence.md)
