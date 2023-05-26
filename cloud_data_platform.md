@@ -12,6 +12,7 @@ title: Cloud Data Platform
 * [Google](software_stack/google.md)
 * [Lyft](software_stack/lydt.md)
 * [Neptune.ai](https://neptune.ai/)
+* [Onehouse](software_stack/onehouse/)
 * [OpenAI](software_stack/openai/)
 * [Jupyterhub](https://jupyterhub.readthedocs.io)
   * Amazon EMR
