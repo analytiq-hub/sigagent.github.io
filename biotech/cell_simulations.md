@@ -8,10 +8,6 @@ title: Cell Simulations
   * H. Wan, R. Pearlstein: [Toward a first principles understanding of the activation and deactivation mechanisms of class A G-protein coupled receptors and voltage-gated cation channels](https://www.biorxiv.org/content/10.1101/2022.03.29.486149v2.full.pdf+html) (2022)
 
 #### Tools
-* Matlab/Simulink
-  * Can be integrated in Databricks to run at scale, but would be expensive to approach this way
-* [Maestro](https://www.schrodinger.com/products/maestro)
-* [PyMOL](https://pymol.org/2/)
 * Cell-OS
   * [CTag announcement](https://ctag.com/en/cell-os-robotic-cell-operative-system/)
 * NVidia WaterWorks, WaveWorks

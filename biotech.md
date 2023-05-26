@@ -32,6 +32,13 @@ title: Biotech
   * #325: [Michael Levin: Biology, Life, Aliens, Evolution, Embryogenesis & Xenobots](https://www.youtube.com/watch?v=p3lsYlod5OU) (2022)
   * #373: [Manolis Kellis: Evolution of Human Civilization and Superintelligent AI](https://www.youtube.com/watch?v=wMavKrA-4do) (2022)
 
+#### Software stacks
+* Matlab/Simulink
+  * Can be integrated in Databricks to run at scale, but would be expensive to approach this way
+* [Schrodinger](/biotech/tools/schrodinger.md)
+* [Maestro](https://www.schrodinger.com/products/maestro)
+* [PyMOL](https://pymol.org/2/)
+
 #### People
 * [Michael Levin](https://wyss.harvard.edu/team/associate-faculty/michael-levin-ph-d/): "Biophysical mechanisms that implement decision-making during complex pattern regulation, and harnessing endogenous bioelectric dynamics toward rational control of growth and form."
   * [The Levin Lab](https://drmichaellevin.org/), [FAQ](https://drmichaellevin.org/resources/)
