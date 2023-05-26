@@ -190,7 +190,10 @@ Ultimately, we want hierarchical version of this. (This is at the 30m mark in th
 How do we build the world model?
 - How do we build it to predict the world
 - World is not always predictable
+  - Probabilistic models intractable in continuous domain
+  - Generative models must predict every detail of the world
 - LeCun's solution: Joint embedding predictive architecture
+
 
 
 <p align="center">
