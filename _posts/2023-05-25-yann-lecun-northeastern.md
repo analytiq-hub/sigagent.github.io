@@ -175,6 +175,8 @@ Ultimately, we want hierarchical version of this. (This is at the 30m mark in th
 <img width="350" height="200" src="/src/images/yann_lecun/9.png"><br>
 </p>
 
+- The cost is a sum of intrinsic cost IC (immutable cost module, hard wired), and trainable cost TC (predicting the future IC - equivalent to critic in RL).
+- The TC implements subgoals
 
 
 <p align="center">
