@@ -204,6 +204,11 @@ How do we build the world model?
 - All NLP systems, including LLMs, are of this type
 - They're generative models
 
+But you don't want to predict every detail of the world!
+- That would be easy if it's text, because text is discrete
+- Predicting probabilities for next word over all words in the dictionary is possible
+- Can't do this over every frame in a video clip
+
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
