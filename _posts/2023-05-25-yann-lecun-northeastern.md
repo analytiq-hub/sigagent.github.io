@@ -135,11 +135,18 @@ Here's a 'system 2' implementation:
   - Learned by, for example, watching the world go by, by video
   - Also, by observing actions in the world, and seeing the effects
 
-Ultimately, we want hierarchical version of this.
+Ultimately, we want hierarchical version of this. (This is at the 30m mark in the clip.)
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/8.png"><br>
 </p>
+
+- If you want the system to plan complex actions, we can't plan it at the lowest level
+  - For example, if I want to plan to go from here to NYC, I would have to basically plan every millisecond exactly what muscle actions I should take.
+  - That's impossible to do just that. You can't plan the entire trip to NYC like this.
+  - Partly b/c you don't have a perfect model of the environment
+  - You don't know, once you go out of the room, what is going to be in the way, and how you'll go around that
+  - So you can't completely plan in advance.
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
