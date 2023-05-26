@@ -271,6 +271,13 @@ Then he says - the reason to do JEPA is that it implements a world model, and mu
 <img width="350" height="200" src="/src/images/yann_lecun/17.png"><br>
 </p>
 
+Early experiments with video, trying to predict what's next:
+
+<p align="center">
+<img width="350" height="200" src="/src/images/yann_lecun/18.png"><br>
+</p>
+
+
 
 
 
