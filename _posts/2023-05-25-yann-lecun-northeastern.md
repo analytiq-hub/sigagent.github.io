@@ -199,6 +199,9 @@ How do we build the world model?
 <img width="350" height="200" src="/src/images/yann_lecun/11.png"><br>
 </p>
 
+- The left is a generative network - for example, you run the model for a while, train it to predict `y`, then predict `y`
+- Examples: variational autoencoder, masked autoencoders
+
 
 <p align="center">
 <img width="350" height="200" src="/src/images/yann_lecun/1.jpg"><br>
