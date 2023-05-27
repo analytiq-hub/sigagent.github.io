@@ -19,6 +19,11 @@ title: Cell Simulations
 * Virtual Cell - modeling and simulating biological systems at the cellular level. Visual interface for constructing and simulating computational models of cellular processes, such as signal transduction, gene regulation, and cell signaling
 * COPASI (Complex Pathway Simulator) - simulation and analysis of biochemical networks. GUI for building and simulating models of cellular processes and offers various analysis features, including parameter estimation, sensitivity analysis, and optimization.
 * NetLogo - agent-based modeling platform that allows for simulating and studying complex systems, including cellular processes. Simple programming language and a user-friendly interface
+* Amber, free to academis. Charges $25,000 for pharma companies.
+* Alphafold - can predict structure of protein from sequence from aminoacic sequence. There are 20 aminoacids. Determines shape of molecule. But, can be amended for 
+* CellOS in matlab
+* Symbiology is add on to Matlab. 
+* CellML (like XML) and SBML (Systems Biology Markup Language)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence.md)
