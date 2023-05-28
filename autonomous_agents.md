@@ -44,6 +44,7 @@ title: Autonomous Agents
 * [Lamini](https://lamini.ai/)
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT), [docs](https://docs.agpt.co/setup/)
 * [weaviate.io](https://weaviate.io/)
+* [Vertex AI](https://cloud.google.com/vertex-ai) on GCP
 
 #### Demos
 * [Flowiseai.com](https://flowiseai.com/)
