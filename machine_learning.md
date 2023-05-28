@@ -102,6 +102,7 @@ title: Machine Learning
 * Others: Caffe(Berkeley), Caffe2(Facebook), MXNet(Amazon), CNTK(Microsoft), Paddle(Baidu)
 * FBLearner Flow
   * [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/2016/05/09/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/)
+* [Gradio](https://gradio.app/), [demos](https://gradio.app/demos/) on Colab. Can be embedded in Huggingface.
 
 #### GPUs
 See [GPUs](gpus.md) page
