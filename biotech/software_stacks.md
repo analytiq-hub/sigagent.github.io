@@ -11,6 +11,7 @@ title: Biotech Software Stacks
 
 
 #### Tools
+* [Schrodinger](/biotech/tools/schrodinger.md))
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence.md)
