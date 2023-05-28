@@ -14,6 +14,9 @@ title: Biotech Software Stacks
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence.md)
+* [Biotech](/biotech.md)
+* [Biotech Cell Simulations](/biotech/cell_simulations.md)
+* [Biotech Software Stacks](/biotech/software_stacks.md)
 * [Cloud Data Platform](/cloud_data_platform.md)
 * [Cognitive Science](/cognitive_science.md)
 * [Computation Theory](/computation_theory.md)
