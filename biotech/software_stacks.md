@@ -6,6 +6,8 @@ title: Biotech Software Stacks
 #### Companies
 * [Tempus](https://www.tempus.com/)
   * Precision medicine for Oncology, Neurology & Psichiatry, Infectious Disease, Cardiology, ...
+* [KungFu.ai](https://www.kungfu.ai/)
+  * Policy reporter, categorize documents by insurance coding, patient outcomes
 
 #### Open Source
 
