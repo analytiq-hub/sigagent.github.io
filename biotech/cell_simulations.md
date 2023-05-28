@@ -26,7 +26,7 @@ title: Biotech Cell Simulations
 * CellML (like XML) and SBML (Systems Biology Markup Language)
 
 #### Other
-* [Artificial Intelligence](/artificial_intelligence.md)
+* [Artificial Intelligence](/artificial_intelligence)
 * [Biotech](/biotech.md)
 * [Biotech Cell Simulations](/biotech/cell_simulations.md)
 * [Biotech Software Stacks](/biotech/software_stacks.md)
