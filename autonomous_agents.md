@@ -29,6 +29,7 @@ title: Autonomous Agents
   * [Langchain Document Question-Answering](https://www.crowdcast.io/c/rh66hcwivly0)
     * [paper-qa](https://github.com/whitead/paper-qa)
 * Sal Khan Ted Talk: [The amazing AI super tutor for students and teachers](https://www.ted.com/talks/sal_khan_the_amazing_ai_super_tutor_for_students_and_teachers/c) (2023)
+* Latent Space: [Codium demo](https://www.youtube.com/watch?v=9tPKJPqVqLs) (2023)
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
