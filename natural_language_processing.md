@@ -71,6 +71,10 @@ gradient for the vast majority of the parameters
 * [Replit](https://replit.com)
 * [Langview](https://twitter.com/rupert_parry/status/1653780093712633859) demo
 * [Mosaic](https://www.mosaicml.com) - open source LLM infrastructure for enterprise market.
+  * [BioMedLM: a Domain-Specific Large Language Model for Biomedical Text](https://www.mosaicml.com/blog/introducing-pubmed-gpt) (2022)
+    * Data stored in S3
+    * Training on cheaper cloud infrastructure than EC2
+    * Data loading with [mosaicml/streaming](https://github.com/mosaicml/streaming)
 
 #### Models
 * [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)
