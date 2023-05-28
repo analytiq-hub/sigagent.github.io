@@ -45,6 +45,7 @@ title: Autonomous Agents
 * [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT), [docs](https://docs.agpt.co/setup/)
 * [weaviate.io](https://weaviate.io/)
 * [Vertex AI](https://cloud.google.com/vertex-ai) on GCP
+  * [Use PaLM models with enterprise grade privacy. Python and JavaScript.](https://twitter.com/hwchase17/status/1661756592025649152) (2023)
 
 #### Demos
 * [Flowiseai.com](https://flowiseai.com/)
