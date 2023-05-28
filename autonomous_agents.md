@@ -19,6 +19,7 @@ title: Autonomous Agents
 * T.L. Griffiths et al: [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf) (2023)
 * Wiki: [SOAR](https://en.wikipedia.org/wiki/Soar_(cognitive_architecture)) architecture
 * Philip Carter: [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm) (2023)
+* Simon Willison: [Prompt injection explained](https://simonwillison.net/2023/May/2/prompt-injection-explained/) (2023)
 
 #### Talks
 * [Langchain](https://www.crowdcast.io/@langchain) crowdcast:
