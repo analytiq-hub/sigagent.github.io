@@ -10,7 +10,69 @@ Our goal is to describe
 * The components of a self driving car
 * The engineering needed to build it, incrementally, and component wise. The best technology is built by evolution of simpler components, from basic to complex.
 * The skills needed to build each component
-* How to find information about building the various components. Some good books describing general robotics or machine learning are available ([Probabilistic Robots](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf), and [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/14920326461)). However, no book seems to exist in print at this time that will describe the full technological stack of a self driving car, from start to end. 
+* How to find information about building the various components. Some good books describing general robotics or machine learning are available ([Probabilistic Robots](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf), and [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/14920326461)). However, no book seems to exist in print at this time that will describe the full technological stack of a self driving car, from start to end.
+
+#### At a glance
+* A self driving car has planner, controller, and computer vision sensors
+* [Insert architecture diagram]
+  * The planner computes the path the car should follow. For example: drive along the 1st lane, stop at the intersection, wait for crossing traffic, then turn left
+  * The controller will set the motors and actuators - i.e., set the gear to forward, set the speed, set the steering, or break
+  * The controller will report back the sensor data - i.e., gps position (car is equipped typically with dual gps, to get both position and direction. Also, current time, steering angle, speed, gear.
+    * Controller is equipped with some GPS-enhancing sensors, e.g. gyro and IMU, allowing it to estimate position when GPS is temporarily not available, e.g. beause the car is in a tunnel. This allows it to interpolate a more precise GPS
+  * The GPS tick from the satellite comes at 1Hz (1pps). The controller needs to report sensor data to perception and to the planner at higer frequency. This could be anywhere between 50Hz to 5Hz.
+* Frequency considerations
+  * If the frequency is high, the system will do obstacle avoidance in a timely fashion.
+  * However, the compute power necessary to handle high frequency is proportional to the frequency. Higher frequency means, proportionally - more CPU power, and larger FPGA (or FPGAs).
+* The planner <-> controller cycle runs in a continuous loop, at high frequency.
+* However, vision sensors can't maintain the same high frequency, due to the compute requirements.
+* Vision sensors will use a higher data bandwith, and will run at slower frequency, typically 5-50Hz (but closer to the low end of the range).
+* Vision sensors include one or more cameras, lidars, radars...
+  * [Insert diagram here of vision sensors]
+* Data flow for vision is vision_sensor->planner.
+  * This is b/c vision sensors are passive sensors.
+* That being said, vision sensor data needs to be cleaned up, and synchronized. Ground points need to be marked.
+* Vision sensor data is not passed directly to the planner. In between, we have the detection nodes. The following types of detections are performed:
+  * Auto-calibration of the sensors.
+  * Accummulated occupancy grid. This is used by the planner to determine the drivable area. The occupancy grid is discretized into voxels. Voxels that are occupied multiple frames are accummulated, and determine the accummulated occupancy grid.
+  * Synchronization of multiple sensors - so data can be processed in a synchronized fashion, not in interspersed chunks.
+  * Lidar motion compensation, for rotational lidars - in case it is not performed by the lidar itself.
+  * Segmentation - including ground segmentation.
+  * SLAM - simultaneous localization and mapping
+    * This has a different, simpler implementation when the vehicle moves in a closed circuit - e.g., on a warehouse floor,  on a public transportation route, in a well-known campus, or in a parking lot.
+    * If an over the road vehicle, the map infrastructure is a lot more complicated, and needs to be dynamically updated, requiring extra back-end infrastructure.
+    * SLAM is an industry term for the algorithm designed to improve the quality of localization (GPS) by fusing it with visual sensor data about known static obstacles on the map.
+  * Static object detection - specialized for the types of static objects. For example: traffic signage. Parked vehicles. Treating static objects separately in the detection pipeline allows for more efficient algorithms specialized for static objects.
+  * Dynamic object detection, incluing pedestrian detection.
+  * Object tracking. Object prediction.
+
+#### Development cycle
+* The underlying robotics platform needs to support individual developers who specialize in specific components: planner, controller, various perception components.
+* Each component needs to be able to run independently, in unit testing mode - with inputs replayed from recordings, so developers can do their work without having to bring the entire system up
+* Here is where Robot OS (ROS) comes in handy. It is basically a pub/sub system where each node is an independent process, and messages between nodes can be recorded to disk, and can be replayed.
+* Developers can pick a ROS node, start it manually, replay the input messages, and do development to ensure that the output messages are working as expected
+* ROS, however, is not able to do deterministic replays. Question: is there a similar middleware that can accomplish that?
+* Also, ROS is not safety-critical, and not even real time.
+  * Real-time means that it can respond to a stimulus witin a very short, quantifiable time interval - so upper bounds for latencies in processing can be estimated from components to the entire system
+  * Safety critical means that, additionally, the failure rate is very small, and quantifiable - so failure rates can be estimated from components to the entire system
+* One advantage of ROS is that nodes can be either C++, or Python. The overall system has some nodes implemented in Python, and some in C++. As development gets closer to production, all nodes need to be moved to C++ - and, ideally, multiple nodes need to be merged into one, to achieve higher performance.
+* Whatever the middleware may be, an orchestrator is used to control the start/stop of each component, as well as monitoring their health
+
+#### Transforms
+* TO DO
+
+#### Simulation
+* The system is difficult to test each time in its entirety. It's not mere equipment on a rack in a lab - so different testing techniques are necessary
+* Simulation is run either as component-in-the-loop, software-in-the-loop, hardware-in-the-loop
+
+#### Back-end cloud system
+* Recordings are uploaded to cloud blob storage
+  * Could be just the sensor data - or the full recordings
+  * This could result in tens of terabytes of recordings per vehicle per day.
+  * Upload is either automated - or manual
+* These recordings become input to the Data Lake, where recordings are processed for
+  * Offline segmentation and object detection annotations
+  * Offline perception
+* Data needs to be curated into scenes, which are sequences of frames
 
 #### What are the components of a self driving car?
 The architecture discussed here is the *modular* architecture, as opposed to the *end to end architecture* described for example [here](https://arxiv.org/pdf/2003.06404.pdf)
