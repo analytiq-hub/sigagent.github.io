@@ -3,6 +3,9 @@ layout: page
 title: Data Centers
 ---
 
+#### Companies
+* [DCX](https://www.dcx.us/about/)
+
 #### People
 * George Slessman
   * [Data Center Insights: George Slessman of DCX](https://www.datacenterfrontier.com/executive-roundtable/article/33002272/data-center-insights-george-slessman-of-dcx) (2023)
