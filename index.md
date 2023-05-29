@@ -29,6 +29,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Computer Vision](computer_vision.md)
 * [Control Theory](control_theory.md)
 * [Crypto Currencies](crypto_currencies.md)
+* [Data Centers](/data_centers)
 * [Dev/Ops](devops.md)
 * [EBooks](ebooks.md)
 * [Embedded Programming](embedded_programming.md)

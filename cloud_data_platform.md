@@ -127,6 +127,8 @@ title: Cloud Data Platform
 * [Ali Ghodsi](https://people.eecs.berkeley.edu/~alig/), Berkeley
 
 #### Other
+* [Cloud Data Platforms](/cloud_data_platforms)
+* [Data Centers](/data_centers)
 * [Machine Learning](machine_learning.md)
 * [Robotics](robotics.md)
 * [Self Driving Cars](self_driving_cars.md)
