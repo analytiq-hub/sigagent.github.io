@@ -44,6 +44,8 @@ Our goal is to describe
   * Static object detection - specialized for the types of static objects. For example: traffic signage. Parked vehicles. Treating static objects separately in the detection pipeline allows for more efficient algorithms specialized for static objects.
   * Dynamic object detection, incluing pedestrian detection.
   * Object tracking. Object prediction.
+    * Sometimes, this is implemented as a single deep learning layer fused with the object detection layer.
+    * Other times, this is implemented as separate layers.
 
 #### Development cycle
 * The underlying robotics platform needs to support individual developers who specialize in specific components: planner, controller, various perception components.
