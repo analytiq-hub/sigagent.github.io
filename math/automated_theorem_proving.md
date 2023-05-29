@@ -40,6 +40,8 @@ title: Automated Theorem Proving
   * [Formal Reasoning, Program Synthesis](https://www.youtube.com/watch?v=ehNGGYFO6ms) (2021)
   * [Scale.ai interview with C. Szegedy](https://www.youtube.com/watch?v=p_UXra-_ORQ)
 * Adam Pease: [How (and why) to Build and Automated Theorem Prover: De-mystifying Logical Inference](https://www.youtube.com/watch?v=J3Pm43O48Uo) (2021)
+
+#### Papers
 * [Robert Harper](http://www.cs.cmu.edu/~rwh/)
 * [Anders Mortberg](https://staff.math.su.se/anders.mortberg/): [Synthetic Cohomology Theory in Cubical Agda](https://staff.math.su.se/anders.mortberg/papers/zcohomology.pdf) (2023)
 
