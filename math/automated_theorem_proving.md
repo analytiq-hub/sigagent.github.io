@@ -33,12 +33,14 @@ title: Automated Theorem Proving
 * V. Voevodsky
   * [UniMath](https://www.youtube.com/watch?v=gOBqROtRoPA), Heidelberg (2016), [slides](https://www.math.ias.edu/vladimir/sites/math.ias.edu.vladimir/files/2016_09_22_HLF_Heidelberg.pdf)
   * [Univalent Foundations: New Foundations of Mathematics](https://www.youtube.com/watch?v=E9RiR9AcXeE), IAS Faculty Lecture (2014), [outline](https://www.ias.edu/ideas/2014/voevodsky-origins)
-  * [Foundations of Mathematics and Homotopy Theory](https://www.youtube.com/watch?v=kkKTW-Q0qkc)
+  * [Foundations of Mathematics and Homotopy Theory](https://www.youtube.com/watch?v=kkKTW-Q0qkc), (2006), see links in the description
   * Search `univalent` at [ias.edu](https://www.ias.edu/search?search=univalent)
 * C. Szegedy
   * [Formal Reasoning, Program Synthesis](https://www.youtube.com/watch?v=ehNGGYFO6ms) (2021)
   * [Scale.ai interview with C. Szegedy](https://www.youtube.com/watch?v=p_UXra-_ORQ)
 * Adam Pease: [How (and why) to Build and Automated Theorem Prover: De-mystifying Logical Inference](https://www.youtube.com/watch?v=J3Pm43O48Uo) (2021)
+* [Robert Harper](http://www.cs.cmu.edu/~rwh/)
+* [Anders Mortberg](https://staff.math.su.se/anders.mortberg/): [Synthetic Cohomology Theory in Cubical Agda](https://staff.math.su.se/anders.mortberg/papers/zcohomology.pdf) (2023)
 
 #### Seminars
 * Harvard CMSA: [New Technologies in Mathematics](https://www.youtube.com/watch?v=5AoOpFFjW28)
