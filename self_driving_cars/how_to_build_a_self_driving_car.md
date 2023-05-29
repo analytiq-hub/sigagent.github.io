@@ -47,6 +47,33 @@ Our goal is to describe
     * Sometimes, this is implemented as a single deep learning layer fused with the object detection layer.
     * Other times, this is implemented as separate layers.
 
+#### Robotics kinematics vs dynamics
+* Robot `kinematics` and `dynamics` are two fundamental aspects of robotics that deal with different aspects of robot motion. Here's a brief explanation of each:
+* Robot Kinematics:
+  * Robot `kinematics` is the branch of robotics that focuses on the study of robot motion without considering the forces and torques involved. It involves analyzing the geometry and motion of a robot's structure, such as its joints, links, and end effectors, to determine the position, orientation, and velocity of the robot's various parts.
+    * `Forward kinematics`: It deals with determining the position and orientation of the robot's end effector (e.g., gripper or tool) given the joint angles or joint displacements. It answers the question, "Where is the end effector located and oriented in the workspace?"
+    * `Inverse kinematics`: It involves solving for the joint angles or joint displacements that will position the robot's end effector at a desired location and orientation in the workspace. It answers the question, "What joint angles are required to achieve a specific end effector position and orientation?"
+  * `Robot Dynamics`:
+    * `Robot dynamics`, on the other hand, is concerned with the study of robot motion while considering the forces and torques acting on the robot. It involves understanding how these forces and torques affect the motion of the robot's joints and links, as well as the resulting motion of the end effector.
+    * `Inverse dynamics`: It deals with determining the forces and torques required at the robot's joints to generate a desired motion or trajectory. It answers the question, "What forces and torques should be applied at the joints to achieve a desired robot motion?"
+    * Forward dynamics`: It involves predicting the resulting motion of the robot's joints and links when specific forces and torques are applied at the joints. It answers the question, "Given applied forces and torques at the joints, how will the robot move?"
+  * `Robot dynamics` is particularly important for tasks such as robot control, trajectory planning, and collision avoidance, as it allows for the prediction and control of a robot's motion while considering the physical constraints and interactions with the environment.
+* Both robot kinematics and dynamics play important roles in the development and operation of self-driving cars. Here's how they are relevant:
+  * Robot Kinematics:
+    * Robot kinematics is crucial for self-driving cars in terms of understanding the vehicle's position, orientation, and motion in the environment. It involves determining the vehicle's pose (position and orientation) relative to a reference frame and its corresponding motion parameters, such as velocity and acceleration.
+  * For self-driving cars, kinematics is employed in tasks such as:
+    *  Localization: Determining the vehicle's position and orientation in a known map or global coordinate system.
+    * Mapping: Creating and updating maps of the environment using sensor data and kinematic information.
+    * Path Planning: Calculating optimal paths or trajectories for the vehicle to follow to reach a destination while considering constraints and avoiding obstacles.
+    * Motion Control: Controlling the vehicle's steering, acceleration, and braking based on kinematic models and desired trajectories.
+  * Robot Dynamics:
+    * Robot dynamics becomes relevant in self-driving cars when considering the interaction of the vehicle with the physical world and the forces and torques involved. While kinematics focuses on the motion itself, dynamics deals with the forces and torques required to achieve and maintain that motion.
+  * In the context of self-driving cars, dynamics is important for:
+    * Vehicle Control: Determining the appropriate forces and torques to be applied to the steering, braking, and acceleration systems for maintaining stability, traction, and maneuverability.
+    * Collision Avoidance: Predicting the dynamic behavior of other vehicles, pedestrians, and objects in the environment to plan and execute evasive maneuvers if necessary.
+    * Ride Comfort and Safety: Analyzing the effects of vehicle dynamics on passenger comfort, stability, and safety during different driving conditions, such as cornering, braking, and acceleration.
+
+
 #### Development cycle
 * The underlying robotics platform needs to support individual developers who specialize in specific components: planner, controller, various perception components.
 * Each component needs to be able to run independently, in unit testing mode - with inputs replayed from recordings, so developers can do their work without having to bring the entire system up
@@ -60,7 +87,18 @@ Our goal is to describe
 * Whatever the middleware may be, an orchestrator is used to control the start/stop of each component, as well as monitoring their health
 
 #### Transforms
-* TO DO
+* Different algorithms in the system - or different components - are more efficiently implemented in their own coordinate system
+* For example, in a robot arm:
+  * Each moving part of the arm can be normalized to view the world through its independent coordinate system.
+  * Then, converting from transforms of adjointed parts constituting the arm, we get a dynamic coordinate transform.
+  * Composing these dynamic coordinate transforms gives coordinate transforms between any two moving parts of the robot arm
+* In physics, these are called rigid-body transforms
+* In math, these are 3D affine transformations
+  * Given by a translation `(dx, dy, dz)` followed by a rotation `(roll, pitch, yaw)`.
+    * The above 3D rotation coordinates are called Euler rotation coordinates
+    * The 3D rotation coordinates can also be expressed as quaternions `q = (w, x, y, z))`
+    * Quaternions have several advantages over other representations, such as Euler angles, when it comes to representing rotations in robotics. They avoid the problem of gimbal lock, provide efficient interpolation between orientations, and have a compact representation.
+* ROS has great documentation in regards to transforms. But non-ROS systems also can adopt the same transform architecture.
 
 #### Simulation
 * The system is difficult to test each time in its entirety. It's not mere equipment on a rack in a lab - so different testing techniques are necessary
