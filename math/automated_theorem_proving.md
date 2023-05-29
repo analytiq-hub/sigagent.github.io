@@ -20,6 +20,7 @@ title: Automated Theorem Proving
 * [Isabelle](https://isabelle.in.tum.de/)
   * [Comparison of Two Theorem Provers: Isabelle/HOL and Coq](https://arxiv.org/pdf/1808.09701.pdf)
   * [Isabelle Theorem Prover tutorial](https://www.youtube.com/watch?v=1nEpUoVopT0)
+* [Homotopy Type Theory](https://homotopytypetheory.org) [Code](https://homotopytypetheory.org/coq/): COQ and AGDA
 
 #### Posts
 * [Building the Mathematical Library of the Future](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/), Kevin Hartnett (2020)
@@ -45,6 +46,7 @@ title: Automated Theorem Proving
 #### Seminars
 * Harvard CMSA: [New Technologies in Mathematics](https://www.youtube.com/watch?v=5AoOpFFjW28)
   * Yuhai Wu: [Memorizing Transformers](https://www.youtube.com/watch?v=5AoOpFFjW28) (2022)
+* [HoTT 2023](https://homotopytypetheory.org/2023/01/25/hott-2023/)
 
 #### Summer Schools
 * [School on Univalent Mathematics '22](https://unimath.github.io/cortona2022/), ['19](https://unimath.github.io/Schools/)
