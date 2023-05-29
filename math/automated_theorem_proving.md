@@ -33,6 +33,8 @@ title: Automated Theorem Proving
 * V. Voevodsky
   * [UniMath](https://www.youtube.com/watch?v=gOBqROtRoPA), Heidelberg (2016), [slides](https://www.math.ias.edu/vladimir/sites/math.ias.edu.vladimir/files/2016_09_22_HLF_Heidelberg.pdf)
   * [Univalent Foundations: New Foundations of Mathematics](https://www.youtube.com/watch?v=E9RiR9AcXeE), IAS Faculty Lecture (2014), [outline](https://www.ias.edu/ideas/2014/voevodsky-origins)
+  * [Foundations of Mathematics and Homotopy Theory](https://www.youtube.com/watch?v=kkKTW-Q0qkc)
+  * Search `univalent` at [ias.edu](https://www.ias.edu/search?search=univalent)
 * C. Szegedy
   * [Formal Reasoning, Program Synthesis](https://www.youtube.com/watch?v=ehNGGYFO6ms) (2021)
   * [Scale.ai interview with C. Szegedy](https://www.youtube.com/watch?v=p_UXra-_ORQ)
