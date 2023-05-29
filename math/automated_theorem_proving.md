@@ -73,6 +73,6 @@ title: Automated Theorem Proving
 
 
 #### Other
-* [Computation Theory](computation_theory.md)
-* [Engineering Math](math/engineering_math.md)
+* [Computation Theory](/computation_theory)
+* [Engineering Math](/math/engineering_math)
 
