@@ -18,6 +18,9 @@ title: Entrepreneurship
 * Blitzscaling 08: [Eric Schmidt on Structuring Teams and Scaling Google](https://www.youtube.com/watch?v=hcRxFRgNpns) (2015)
 * How to Start a Startup Lecture 13: [How to Be a Great Founder with Reid Hoffman](https://www.youtube.com/watch?v=pkAum45ubWc&list=RDLVhcRxFRgNpns&index=6) (2014)
 
+#### Management
+* Andreas Klinger: [How to use Gmail more efficiently](https://klinger.io/posts/how-to-use-gmail-more-efficiently) (2013)
+
 #### Pitching in Boston
 * [Startupalooza: Pitch Angel VCs at CIC Boston](https://cic.com/new-events/https/wwweventbritecom/e/pitch-angel-vcs-at-cic-boston-free-capital-raising-workshop-tickets-54868682707discountcic), [meetup](https://www.meetup.com/startupalooza/)
 * [Angel Investors in MA](https://www.angelinvestmentnetwork.us/angel-investors-massachusetts)
