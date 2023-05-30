@@ -62,6 +62,9 @@ title: Automated Theorem Proving
 * Y. Wu, C. Szegedy et al: [Autoformalization with Large Language Models](https://arxiv.org/pdf/2205.12615.pdf) (2022)
 * M Chen, I. Sutskever, W. Zaremba et al: [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf) (2021)
 
+#### Software Verification
+* V. D'Silva et al: [A Survey of Automated Techniques for Formal Software Verification](https://cse.usf.edu/~haozheng/lib/verification/general/survey-sw-fv.pdf) (2008)
+
 #### Benchmarks
 * [HOList](https://sites.google.com/view/holist/home)
 
