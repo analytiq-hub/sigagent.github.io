@@ -20,7 +20,7 @@ title: Entrepreneurship
 
 #### Funders
 * Paul Graham:[What to look for in founders](http://www.paulgraham.com/founders.html) (2010)
-* Margaret Heffernan: [Want to Start a Business? First, Find a Partner](www.inc.com/margaret-heffernan/you-need-a-partner-to-start-a-business.html) (2012)
+* Margaret Heffernan: [Want to Start a Business? First, Find a Partner](http://www.inc.com/margaret-heffernan/you-need-a-partner-to-start-a-business.html) (2012)
 
 Excerpt From
 Disciplined Entrepreneurship
