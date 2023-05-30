@@ -20,6 +20,13 @@ title: Entrepreneurship
 
 #### Funders
 * Paul Graham:[What to look for in founders](http://www.paulgraham.com/founders.html) (2010)
+* Margaret Heffernan: [Want to Start a Business? First, Find a Partner](www.inc.com/margaret-heffernan/you-need-a-partner-to-start-a-business.html) (2012)
+
+Excerpt From
+Disciplined Entrepreneurship
+Bill Aulet
+https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewBook?id=0
+This material may be protected by copyright.
 
 #### Management
 * Andreas Klinger: [How to use Gmail more efficiently](https://klinger.io/posts/how-to-use-gmail-more-efficiently) (2013)
