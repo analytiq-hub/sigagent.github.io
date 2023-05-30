@@ -18,6 +18,9 @@ title: Entrepreneurship
 * Blitzscaling 08: [Eric Schmidt on Structuring Teams and Scaling Google](https://www.youtube.com/watch?v=hcRxFRgNpns) (2015)
 * How to Start a Startup Lecture 13: [How to Be a Great Founder with Reid Hoffman](https://www.youtube.com/watch?v=pkAum45ubWc&list=RDLVhcRxFRgNpns&index=6) (2014)
 
+#### Funders
+* Paul Graham:[What to look for in founders](http://www.paulgraham.com/founders.html) (2010)
+
 #### Management
 * Andreas Klinger: [How to use Gmail more efficiently](https://klinger.io/posts/how-to-use-gmail-more-efficiently) (2013)
 
