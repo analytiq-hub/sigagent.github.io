@@ -22,7 +22,7 @@ title: Entrepreneurship
 * Paul Graham:[What to look for in founders](http://www.paulgraham.com/founders.html) (2010)
 * Margaret Heffernan: [Want to Start a Business? First, Find a Partner](http://www.inc.com/margaret-heffernan/you-need-a-partner-to-start-a-business.html) (2012)
 * Pejman Pour-Moezzi: [How to Find That Special Someone: Your Co-Founder](https://www.geekwire.com/2012/find-special-cofounder) (2012)
-* Helge Seetzen: [5 Rules for Cofounder Heaven](http://www.techentrepreneurship.com/2012/03/27/5-rules-for-cofounder-heaven) (2012)
+* Helge Seetzen: [5 Rules for Cofounder Heaven](http://helgeseetzen.com/5-rules-for-cofounder-heaven/) (2012)
 
 #### Management
 * Andreas Klinger: [How to use Gmail more efficiently](https://klinger.io/posts/how-to-use-gmail-more-efficiently) (2013)
