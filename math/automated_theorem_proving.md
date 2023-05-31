@@ -21,6 +21,7 @@ title: Automated Theorem Proving
   * [Comparison of Two Theorem Provers: Isabelle/HOL and Coq](https://arxiv.org/pdf/1808.09701.pdf)
   * [Isabelle Theorem Prover tutorial](https://www.youtube.com/watch?v=1nEpUoVopT0)
 * [Homotopy Type Theory](https://homotopytypetheory.org) [Code](https://homotopytypetheory.org/coq/): COQ and AGDA
+* AGDA [wiki](https://en.wikipedia.org/wiki/Agda_(programming_language))
 
 #### Posts
 * [Building the Mathematical Library of the Future](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/), Kevin Hartnett (2020)
