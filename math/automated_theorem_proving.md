@@ -68,7 +68,8 @@ title: Automated Theorem Proving
 * S. Polu, I. Sutskever: [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/pdf/2009.03393.pdf) (2020)
 * Y. Wu, C. Szegedy et al: [Autoformalization with Large Language Models](https://arxiv.org/pdf/2205.12615.pdf) (2022)
 * M Chen, I. Sutskever, W. Zaremba et al: [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf) (2021)
-* X. Zhao et al: [Decomposing the Enigma: Subgoal-based Demonstration Learning for Formal Theorem Proving](https://arxiv.org/pdf/2305.16366.pdf) (2023)zsggxs
+* X. Zhao et al: [Decomposing the Enigma: Subgoal-based Demonstration Learning for Formal Theorem Proving](https://arxiv.org/pdf/2305.16366.pdf) (2023)
+* S. Polu et al: [Formal Mathematics Statement Curriculum Learning](https://cdn.openai.com/papers/Formal_Mathematics_Statement_Curriculum_Learning__ICML_2022.pdf) (2022)
 
 #### Software Verification
 * V. D'Silva et al: [A Survey of Automated Techniques for Formal Software Verification](https://cse.usf.edu/~haozheng/lib/verification/general/survey-sw-fv.pdf) (2008)
