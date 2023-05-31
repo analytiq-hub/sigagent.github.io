@@ -86,6 +86,9 @@ title: Automated Theorem Proving
 * Stanislas Polu
 * [Jeremy Avigad](https://www.andrew.cmu.edu/user/avigad/research.html)
   * [Mathematical Logic and Computation](https://www.amazon.com/Mathematical-Logic-Computation-Jeremy-Avigad/dp/1108478751) (2022, 2nd ed)
+* [David McAllester](https://home.ttic.edu/~dmcallester)
+  * [Blog](https://machinethoughts.wordpress.com/2017/07/17/formalism-platonism-and-mentalese/)
+  * [MathZero, the Classification Problem, and Set-Theoretic Type Theory](https://arxiv.org/pdf/2005.05512.pdf) (2020)
 
 
 #### Other
