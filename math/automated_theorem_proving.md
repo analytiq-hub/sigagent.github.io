@@ -49,6 +49,7 @@ title: Automated Theorem Proving
 #### Seminars
 * Harvard CMSA: [New Technologies in Mathematics](https://www.youtube.com/watch?v=5AoOpFFjW28)
   * Yuhai Wu: [Memorizing Transformers](https://www.youtube.com/watch?v=5AoOpFFjW28) (2022)
+* [HoTTTest Summer School 2022](https://www.youtube.com/playlist?list=PLtIZ5qxwSNnzpNqfXzJjlHI9yCAzRzKtx)
 * [HoTT 2023](https://homotopytypetheory.org/2023/01/25/hott-2023/)
   * [Talks](https://hott.github.io/HoTT-2023/programme/)
 
