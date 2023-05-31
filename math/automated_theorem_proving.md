@@ -87,7 +87,8 @@ title: Automated Theorem Proving
 * [Jeremy Avigad](https://www.andrew.cmu.edu/user/avigad/research.html)
   * [Mathematical Logic and Computation](https://www.amazon.com/Mathematical-Logic-Computation-Jeremy-Avigad/dp/1108478751) (2022, 2nd ed)
 * [David McAllester](https://home.ttic.edu/~dmcallester)
-  * [Blog](https://machinethoughts.wordpress.com/2017/07/17/formalism-platonism-and-mentalese/)
+  * [Blog](https://machinethoughts.wordpress.com)
+    * [Formalism, Platonism and Mentalese](https://machinethoughts.wordpress.com/2017/07/17/formalism-platonism-and-mentalese/) (2017)
   * [MathZero, the Classification Problem, and Set-Theoretic Type Theory](https://arxiv.org/pdf/2005.05512.pdf) (2020)
 
 
