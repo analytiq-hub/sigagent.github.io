@@ -43,6 +43,8 @@ title: Automated Theorem Proving
   * [Formal Reasoning, Program Synthesis](https://www.youtube.com/watch?v=ehNGGYFO6ms) (2021)
   * [Scale.ai interview with C. Szegedy](https://www.youtube.com/watch?v=p_UXra-_ORQ)
 * Adam Pease: [How (and why) to Build and Automated Theorem Prover: De-mystifying Logical Inference](https://www.youtube.com/watch?v=J3Pm43O48Uo) (2021)
+* S. Polu
+  * [Formal Mathematics: Statement Curriculum Learning](https://www.youtube.com/watch?v=4zINaGrPc9M) (2022), at Harvard CMSA
 
 #### Papers
 * [Robert Harper](http://www.cs.cmu.edu/~rwh/)
@@ -79,6 +81,7 @@ title: Automated Theorem Proving
 * [Christian Szegedy](https://research.google/people/ChristianSzegedy/)
 * [Vladimir Voevodsky](https://www.math.ias.edu/vladimir/home) (1966-2017)
 * [Yuhuai(Tony) Wu](http://www.cs.toronto.edu/~ywu/)
+* Stanislas Polu
 
 
 #### Other
