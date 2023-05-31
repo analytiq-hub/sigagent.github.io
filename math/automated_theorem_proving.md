@@ -84,6 +84,7 @@ title: Automated Theorem Proving
 * [Vladimir Voevodsky](https://www.math.ias.edu/vladimir/home) (1966-2017)
 * [Yuhuai(Tony) Wu](http://www.cs.toronto.edu/~ywu/)
 * Stanislas Polu
+* [Jeremy Avigad](https://www.andrew.cmu.edu/user/avigad/research.html)
 
 
 #### Other
