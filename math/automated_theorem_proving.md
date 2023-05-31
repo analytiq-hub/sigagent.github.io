@@ -5,6 +5,7 @@ title: Automated Theorem Proving
 ---
 #### Books
 * [Homotopy Type Theory](https://hott.github.io/book/nightly/hott-online-1274-gd98a32f.pdf) - Univalent Foundations of Mathematics
+* Egbert Rijke: [Introduction to Homotopy Type Theory](https://raw.githubusercontent.com/martinescardo/HoTTEST-Summer-School/main/HoTT/hott-intro.pdf) (2022)
 
 #### Languages
 * [Coq](https://coq.inria.fr/)
