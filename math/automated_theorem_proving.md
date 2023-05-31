@@ -43,8 +43,6 @@ title: Automated Theorem Proving
   * [Formal Reasoning, Program Synthesis](https://www.youtube.com/watch?v=ehNGGYFO6ms) (2021)
   * [Scale.ai interview with C. Szegedy](https://www.youtube.com/watch?v=p_UXra-_ORQ)
 * Adam Pease: [How (and why) to Build and Automated Theorem Prover: De-mystifying Logical Inference](https://www.youtube.com/watch?v=J3Pm43O48Uo) (2021)
-* S. Polu
-  * [Formal Mathematics: Statement Curriculum Learning](https://www.youtube.com/watch?v=4zINaGrPc9M) (2022), at Harvard CMSA
 
 #### Papers
 * [Robert Harper](http://www.cs.cmu.edu/~rwh/)
@@ -53,6 +51,7 @@ title: Automated Theorem Proving
 #### Seminars
 * Harvard CMSA: [New Technologies in Mathematics](https://www.youtube.com/watch?v=5AoOpFFjW28)
   * Yuhai Wu: [Memorizing Transformers](https://www.youtube.com/watch?v=5AoOpFFjW28) (2022)
+  * S. Polu: [Formal Mathematics: Statement Curriculum Learning](https://www.youtube.com/watch?v=4zINaGrPc9M) (2022)
 * [HoTTTest Summer School 2022](https://www.youtube.com/playlist?list=PLtIZ5qxwSNnzpNqfXzJjlHI9yCAzRzKtx)
 * [HoTT 2023](https://homotopytypetheory.org/2023/01/25/hott-2023/)
   * [Talks](https://hott.github.io/HoTT-2023/programme/)
