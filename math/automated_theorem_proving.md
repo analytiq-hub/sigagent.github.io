@@ -85,6 +85,7 @@ title: Automated Theorem Proving
 * [Yuhuai(Tony) Wu](http://www.cs.toronto.edu/~ywu/)
 * Stanislas Polu
 * [Jeremy Avigad](https://www.andrew.cmu.edu/user/avigad/research.html)
+  * [Mathematical Logic and Computation](https://www.amazon.com/Mathematical-Logic-Computation-Jeremy-Avigad/dp/1108478751) (2022, 2nd ed)
 
 
 #### Other
