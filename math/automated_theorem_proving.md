@@ -70,6 +70,7 @@ title: Automated Theorem Proving
 * M Chen, I. Sutskever, W. Zaremba et al: [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf) (2021)
 * X. Zhao et al: [Decomposing the Enigma: Subgoal-based Demonstration Learning for Formal Theorem Proving](https://arxiv.org/pdf/2305.16366.pdf) (2023)
 * S. Polu et al: [Formal Mathematics Statement Curriculum Learning](https://cdn.openai.com/papers/Formal_Mathematics_Statement_Curriculum_Learning__ICML_2022.pdf) (2022)
+* K. Zheng et al: [MiniF2F: A Cross-System Benchmark for Formal Olympiad-Level Mathematics](https://arxiv.org/pdf/2109.00110.pdf) (2022)
 
 #### Software Verification
 * V. D'Silva et al: [A Survey of Automated Techniques for Formal Software Verification](https://cse.usf.edu/~haozheng/lib/verification/general/survey-sw-fv.pdf) (2008)
