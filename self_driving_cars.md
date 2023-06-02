@@ -138,6 +138,9 @@ title: Self Driving Cars
 * [LiDAR and Camera Calibration using Motion Estimated by Sensor Fusion Odometry](https://arxiv.org/pdf/1804.05178.pdf), Ishikawa et al (2018)
 * [Automatic Extrinsic Calibration of a Camera and a 3D LiDAR using Line and Plane Correspondences](https://www.cs.cmu.edu/~kaess/pub/Zhou18iros.pdf), Zhou et al (2018)
 
+#### Simulation
+* Wayve: [Neural Rendering](https://wayve.ai/neural-rendering/) (2023)
+
 #### Blogs, Videos
 * [Pixelopolis, a self-driving car demo from Google I/O built with TF-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html) (July 13, 2020)
 * Alex Kendall: [Now is the Time for Reinforcement Learning on Real Robots](https://alexgkendall.com/reinforcement_learning/now_is_the_time_for_reinforcement_learning_on_real_robots/)

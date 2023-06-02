@@ -32,6 +32,7 @@ title: Automated Theorem Proving
 * [How Close Are Computers to Automating Mathematical Reasoning?](https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/), S. Ornes (2020)
 * [OpenAI Proof Assistant for Metamath](https://groups.google.com/g/metamath/c/D09W2QVR-_I/m/g_rsqGj0AAAJ) (2020)
 * Jeremy Avigad: [Mathematics and the formal turn](https://www.andrew.cmu.edu/user/avigad/Papers/formal_turn.pdf) (2023)
+* OpenAI: Hunter Lightman et al: [Improving mathematical reasoning with process supervision](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision) (2023), [paper](https://cdn.openai.com/improving-mathematical-reasoning-with-process-supervision/Lets_Verify_Step_by_Step.pdf), [Stanislas Polu Tweet](https://twitter.com/spolu/status/1663991187689054208)
 
 #### Talks
 * V. Voevodsky
