@@ -49,6 +49,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Literature](literature.md)
 * [Machine Learning](machine_learning.md)
 * [Market Trading](market_trading.md)
+* [Marketing](/marketing)
 * Math
   * [Abstract Nonsense](math/abstract_nonsense.md)
   * [Algebra](math/algebra.md)
