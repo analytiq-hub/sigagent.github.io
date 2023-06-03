@@ -9,6 +9,7 @@ title: Marketing
 
 #### Blogs
 * [@luv1oh1](https://twitter.com/luv1oh1): [Marketing Shots](https://marketingshots.substack.com/)
+  * [Why I think my thread got 1,266 Retweets, 4,722 Likes, 867,300 Impressions](https://twitter.com/luv1oh1/status/1401484487792287747)
 
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
