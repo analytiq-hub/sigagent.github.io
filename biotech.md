@@ -36,6 +36,7 @@ title: Biotech
 * Matlab/Simulink
   * Can be integrated in Databricks to run at scale, but would be expensive to approach this way
 * [Schrodinger](/biotech/tools/schrodinger.md)
+* [Amber22](https://ambermd.org/doc12/Amber22.pdf)
 
 #### People
 * [Michael Levin](https://wyss.harvard.edu/team/associate-faculty/michael-levin-ph-d/): "Biophysical mechanisms that implement decision-making during complex pattern regulation, and harnessing endogenous bioelectric dynamics toward rational control of growth and form."
