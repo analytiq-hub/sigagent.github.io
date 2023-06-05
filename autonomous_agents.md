@@ -35,6 +35,7 @@ title: Autonomous Agents
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
   * Tutorials
     * Misbah Syed: [Build a Langchain agent in under 30m](https://twitter.com/MisbahSy/status/1655587763679289351), [youtube](https://www.youtube.com/watch?v=jDJIIVWTZDE) (2023)
+    * A. Kumar: [Dolly2 and LangChain: A Game Changer for Data Analytics](https://ashukumar27.medium.com/dolly2-and-langchain-a-game-changer-for-text-data-analytics-7518d48d0ad7) (2023)
 * [Pinecone](https://www.pinecone.io/)
 * [Replit](https://replit.com)
 * [Camel](https://www.camel-ai.org/)
