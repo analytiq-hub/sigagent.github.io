@@ -103,6 +103,8 @@ title: Machine Learning
 * FBLearner Flow
   * [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/2016/05/09/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/)
 * [Gradio](https://gradio.app/), [demos](https://gradio.app/demos/) on Colab. Can be embedded in Huggingface.
+* [MosaicML](https://mosaicml.com)
+  * [StreamingDataset](https://docs.mosaicml.com/projects/streaming/en/stable/), [github](https://github.com/mosaicml/streaming), [blog post](https://www.mosaicml.com/blog/mosaicml-streamingdataset)
 
 #### GPUs
 See [GPUs](gpus.md) page
