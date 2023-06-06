@@ -390,6 +390,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * Google leak: ["We have no moat, and neither does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) (2023)
   * [Simon Willison Weblog](https://simonwillison.net): [Leaked Google document: “We Have No Moat, And Neither Does OpenAI”](https://simonwillison.net/2023/May/4/no-moat/)
   * Jordan Burgess tweet: [This leaked google memo is a great overview of what open source AI has achieved... but the conclusion is wrong.](https://twitter.com/jordnb/status/1654496023778131970)
+* [There's an AI for that](https://theresanaiforthat.com/)
 
 #### Web sites
 * [Papers with Code](https://paperswithcode.com/)
