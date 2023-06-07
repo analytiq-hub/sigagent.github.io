@@ -96,6 +96,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Data Visualization](data_visualization.md)
   * [Editors](editors.md)
 * [Computational Topology](computational_topology.md)
+* [Unidentified Aerial Phenomena](/unidentified_aerial_phenomena)
 * [Webdev](webdev.md)
 * [Writing Blog Posts](writing_blog_posts.md)
 * [Writing Documentation](writing_documentation.md)
