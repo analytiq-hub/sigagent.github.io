@@ -23,6 +23,10 @@ title: Natural Language Processing
   * Charles Frye: [Learn to Spell: Prompt Engineering](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/)
     * D. Dohan et al: [The Language Model Cascades](https://arxiv.org/pdf/2207.10342.pdf) (2022)
     * The primary goal of prompting is subtractive; it focuses the mass of predictions to hone in on a specific world by conditioning the probabilistic model.
+  * Josh Tobin:
+    * [Prompt Engineering](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/)
+    * [LLMOps](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llmops/)
+  * Harrison Chase: [Agents](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/chase-agents/)
 
 #### Derivatives of LLaMA
 * E. Hu et al: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685), 2021
