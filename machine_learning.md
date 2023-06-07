@@ -148,6 +148,7 @@ See [GPUs](gpus.md) page
   * [Andrew Ng: Deep Learning, Education, and Real-World AI](https://www.youtube.com/watch?v=0jspaMLxBig), Lex Fridman Podcast #73 (2020)
   * [Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning](https://www.youtube.com/watch?v=SGzMElJ11Cc), Lex Fridman Podcast #258 (2022)
   * [Demis Hassabis: DeepMind - AI, Superintelligence & the Future of Humanity](https://www.youtube.com/watch?v=Gfr50f6ZBvo) (2022)
+  * [Chris Lattner: Future of Programming and AI](https://www.youtube.com/watch?v=pdJQ8iVTwj8) (2023)
 * Swix: [Bringing ML to the data, and Minimum Viable DevRel — Montana Low, PostgresML](https://www.youtube.com/watch?v=j8hE8-jZJGU) (2023)
 
 #### Linear Discriminant Analysis (LDA)
