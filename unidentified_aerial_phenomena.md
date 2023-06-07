@@ -6,6 +6,9 @@ title: Unidentified Aerial Phenomena
 #### Talks
 * Alex Klokus: [Interview with Garry Nolan](), Standord U. School of Medicine (2023), SALT iConnections
 
+#### People
+* [Garry Nolan](https://med.stanford.edu/profiles/garry-nolan)
+
 #### Other
 * [Artificial Intelligence](artificial_intelligence.md)
 * [Cognitive Science](cognitive_science.md)
