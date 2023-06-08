@@ -18,6 +18,10 @@ title: Entrepreneurship
 * Blitzscaling 08: [Eric Schmidt on Structuring Teams and Scaling Google](https://www.youtube.com/watch?v=hcRxFRgNpns) (2015)
 * How to Start a Startup Lecture 13: [How to Be a Great Founder with Reid Hoffman](https://www.youtube.com/watch?v=pkAum45ubWc&list=RDLVhcRxFRgNpns&index=6) (2014)
 
+#### Podcasts
+* Sarah Guo: No Priors Podcast
+  * Ep. 14: [With Sarah Guo and Elad Gil](https://www.youtube.com/watch?v=B5461t6ACpk) (Apr 2023)
+
 #### Founders
 * Paul Graham:[What to look for in founders](http://www.paulgraham.com/founders.html) (2010)
 * Margaret Heffernan: [Want to Start a Business? First, Find a Partner](http://www.inc.com/margaret-heffernan/you-need-a-partner-to-start-a-business.html) (2012)
