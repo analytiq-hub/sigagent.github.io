@@ -19,8 +19,11 @@ title: Entrepreneurship
 * How to Start a Startup Lecture 13: [How to Be a Great Founder with Reid Hoffman](https://www.youtube.com/watch?v=pkAum45ubWc&list=RDLVhcRxFRgNpns&index=6) (2014)
 * Sarah Guo: No Priors Podcast
   * Ep. 14: [With Sarah Guo and Elad Gil](https://www.youtube.com/watch?v=B5461t6ACpk) (Apr 2023)
+  * Ep. 20: [With Sarah Guo and Elad Gil](https://www.youtube.com/watch?v=eTFUcPiodGU)
 * Tomorrow Talk:
   * [Elad Gil on the power of peer groups, investing in 40+ unicorns, AI today, and staying dynamic](https://www.youtube.com/watch?v=ifK3k46_zMI) (2023)
+* Fireside Chat w/ Elad Gil:
+  * [Reid Hoffman - AI, Big Tech, & Startups](https://www.youtube.com/watch?v=6QySKWkYlPc) (2023)
 
 #### Founders
 * Paul Graham:[What to look for in founders](http://www.paulgraham.com/founders.html) (2010)
