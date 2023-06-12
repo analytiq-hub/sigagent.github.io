@@ -44,7 +44,9 @@ title: Entrepreneurship
 * MIT's [The Engine](https://www.engine.xyz)
 * [HBS Angels of Boston](https://www.hbsab.org/s/1738/cc/21/page.aspx?sid=1738&gid=8&pgid=71688&crid=0&calpgid=13&calcid=1270)
 * [TiE Boston](https://www.tieboston.org/)
-* [@RussWilcox](https://twitter.com/Russ_Wilcox) [how to pitch successfully](https://twitter.com/Russ_Wilcox/status/1583872118764146688)
+* [@RussWilcox](https://twitter.com/Russ_Wilcox)
+  * [How to pitch successfully](https://twitter.com/Russ_Wilcox/status/1583872118764146688)
+  * [How To: Raise a Seed Full Guide](https://www.pillar.vc/playlist/article/how-to-raise-seed-full-guide/)
 
 #### Incubators
 * [MassRobotics](https://www.massrobotics.org), [@MassRobotics](https://twitter.com/MassRobotics)
