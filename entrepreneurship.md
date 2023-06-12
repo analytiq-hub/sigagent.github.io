@@ -47,6 +47,7 @@ title: Entrepreneurship
 * [@RussWilcox](https://twitter.com/Russ_Wilcox)
   * [How to pitch successfully](https://twitter.com/Russ_Wilcox/status/1583872118764146688)
   * [How To: Raise a Seed Full Guide](https://www.pillar.vc/playlist/article/how-to-raise-seed-full-guide/)
+* Pillar's [Founder Playlist](https://www.pillar.vc/playlist/)
 
 #### Incubators
 * [MassRobotics](https://www.massrobotics.org), [@MassRobotics](https://twitter.com/MassRobotics)
