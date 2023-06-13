@@ -26,6 +26,8 @@ title: Entrepreneurship
   * [Elad Gil on the power of peer groups, investing in 40+ unicorns, AI today, and staying dynamic](https://www.youtube.com/watch?v=ifK3k46_zMI) (2023)
 * Fireside Chat w/ Elad Gil:
   * [Reid Hoffman - AI, Big Tech, & Startups](https://www.youtube.com/watch?v=6QySKWkYlPc) (2023)
+* TechCrunch
+  * [5 investors discuss Boston’s resilient tech ecosystem](https://techcrunch.com/2023/02/27/5-investors-discuss-why-bostons-tech-ecosystem-is-as-resilient-as-they-come/) (Feb 2023)
 
 #### Founders
 * Paul Graham:[What to look for in founders](http://www.paulgraham.com/founders.html) (2010)
