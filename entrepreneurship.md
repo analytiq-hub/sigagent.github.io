@@ -15,6 +15,9 @@ title: Entrepreneurship
 * Bill Oulet: [Disciplined Entrepreneurship: 24 Steps to a Successful Startup](https://www.amazon.com/Disciplined-Entrepreneurship-Steps-Successful-Startup/dp/1118692284/) (2013)
 * Elad Gil: [High Growth Handbook: Scaling Startups from 10 to 10,000 People](https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100/) (2018)
 
+#### Customer Discovery and Sales
+* Rob Fitzpatrick: [The Mom Test](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742) (2013)
+
 #### Talks
 * Aaron Harris: [How to Get Meetings with Investors and Raise Money by Aaron Harris](https://www.youtube.com/watch?v=Jzz4AEIddzY) (2018)
 * Blitzscaling 08: [Eric Schmidt on Structuring Teams and Scaling Google](https://www.youtube.com/watch?v=hcRxFRgNpns) (2015)
