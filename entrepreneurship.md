@@ -24,6 +24,7 @@ title: Entrepreneurship
 * How to Start a Startup Lecture 13: [How to Be a Great Founder with Reid Hoffman](https://www.youtube.com/watch?v=pkAum45ubWc&list=RDLVhcRxFRgNpns&index=6) (2014)
 * Sarah Guo: No Priors Podcast
   * Ep. 14: [With Sarah Guo and Elad Gil](https://www.youtube.com/watch?v=B5461t6ACpk) (Apr 2023)
+  * Ep. 16: [With Mustafa Suleyman, Founder of DeepMind and Inflection](https://www.youtube.com/watch?v=g4VszCFonPk)
   * Ep. 20: [With Sarah Guo and Elad Gil](https://www.youtube.com/watch?v=eTFUcPiodGU)
   * Ep. 21: [With Datadog Co-founder/CEO Olivier Pomel](https://www.youtube.com/watch?v=x0BIJeRyfBE)
 * Tomorrow Talk:
