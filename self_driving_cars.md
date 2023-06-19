@@ -90,7 +90,6 @@ title: Self Driving Cars
 * Vora, Sourabh, Alex H. Lang, Bassam Helou, Oscar Beijbom. [Pointpainting: Sequential fusion for 3d object detection](https://arxiv.org/abs/1911.10150) (2019)
 * Li, Yingwei, Adams Wei Yu, Tianjian Meng, Ben Caine, Jiquan Ngiam, Daiyi Peng, Junyang Shen et al. [Deepfusion: Lidar-camera deep fusion for multi-modal 3d object detection](https://arxiv.org/pdf/2203.08195.pdf) (2022).
 
-
 #### Sensor hardware
 * [Tech Highlight: Sony IMX490 Automotive Sensor Explained](https://www.youtube.com/watch?v=CUWHlke-yjc)
 
@@ -138,8 +137,12 @@ title: Self Driving Cars
 * [LiDAR and Camera Calibration using Motion Estimated by Sensor Fusion Odometry](https://arxiv.org/pdf/1804.05178.pdf), Ishikawa et al (2018)
 * [Automatic Extrinsic Calibration of a Camera and a 3D LiDAR using Line and Plane Correspondences](https://www.cs.cmu.edu/~kaess/pub/Zhou18iros.pdf), Zhou et al (2018)
 
+#### Self-supervised perception
+* K. Stocking et al: [Linking vision and motion for self-supervised object-centric perception](http://vcad.site/papers/24/CameraReady/paper.pdf) (2023)
+
 #### Simulation
 * [Wayve](https://wayve.ai/thinking/): [Neural Rendering](https://wayve.ai/neural-rendering/) (2023)
+* F. Mutsch et al: [From Model-Based to Data-Driven Simulation: Challenges and Trends in Autonomous Driving](http://vcad.site/papers/11/CameraReady/paper.pdf) (2023)
 
 #### Blogs, Videos
 * [Pixelopolis, a self-driving car demo from Google I/O built with TF-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html) (July 13, 2020)
