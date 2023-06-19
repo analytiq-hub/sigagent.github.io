@@ -18,6 +18,7 @@ title: Self Driving Cars
 
 #### Workshops
 * CVPR 2023
+  * [End-to-End Autonomous Driving](https://opendrivelab.com/e2ead/cvpr23.html) (2023)
   * [Vision-Centric Autonomous Driving (VCAD)](http://vcad.site/#/) (2023)
 
 #### Survey Papers
