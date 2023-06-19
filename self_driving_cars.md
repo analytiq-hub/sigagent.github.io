@@ -17,6 +17,8 @@ title: Self Driving Cars
   * [Self Driving Cars An Introduction to Vehicle Autonomy Stack](https://www.youtube.com/watch?v=VEY55D_vqt0&t=373s)
 
 #### Workshops
+* CVPR 2022
+  * [Workshop on Autonomous Driving](https://www.youtube.com/playlist?list=PLvXze1V52Yy3YfsHjqkKTijvYDPOvy9L2) (2022)
 * CVPR 2023
   * [End-to-End Autonomous Driving](https://opendrivelab.com/e2ead/cvpr23.html) (2023)
   * [Vision-Centric Autonomous Driving (VCAD)](http://vcad.site/#/) (2023)
@@ -126,7 +128,7 @@ title: Self Driving Cars
   * [KPConv - How Does It Work?](https://liorhirsch.hashnode.dev/kpconv-how-does-it-work) (2021)
 
 #### Drivable Area, Occupancy Grid, Occupancy Networks
-* Ashok Elluswamy, Tesla: [CVPR'22 WAD Keynote](https://www.youtube.com/watch?v=jPCV4GKX9Dw)
+* Ashok Elluswamy, Tesla: [CVPR'22 WAD Keynote](https://www.youtube.com/watch?v=jPCV4GKX9Dw).Occupancy networks, NeRFs, implicit networks for collision avoidance
 
 #### Auto Labeling Data
 * [Auto4d: Learning to label 4d objects from sequential point clouds](https://arxiv.org/pdf/2101.06586.pdf), B. Yang et al, Uber (2021)
