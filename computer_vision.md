@@ -12,6 +12,13 @@ For now, see [machine_learning](machine_learning.md) and [self_driving_cars](sel
 #### From Videos
 * [Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition](https://moygcc.github.io/vid2avatar/) (2023)
 
+#### From Point Clouds
+* PapersWithCode: [PointPillars](https://paperswithcode.com/search?q_meta=&q_type=&q=pointpillars)
+  * [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/pdf/1812.05784v2.pdf), Alex H. Lang et al (2019)
+  * [Optimisation of the PointPillars network for 3D object detection in point clouds](https://arxiv.org/pdf/2007.00493v1.pdf), J. Stanisz et al (2020)
+* Y. Guo et al: [Deep Learning for 3D Point Clouds: A Survey](https://arxiv.org/pdf/1912.12033.pdf) (2020)
+* Jinyu Li et al: [PillarNeXt: Rethinking Network Designs for 3D Object Detection in LiDAR Point Clouds](https://arxiv.org/pdf/2305.04925.pdf) (2023)
+
 #### Annotation
 * Scale.ai
 * AWS Ground Truth
