@@ -20,6 +20,7 @@ title: Self Driving Cars
 * CVPR 2023
   * [End-to-End Autonomous Driving](https://opendrivelab.com/e2ead/cvpr23.html) (2023)
   * [Vision-Centric Autonomous Driving (VCAD)](http://vcad.site/#/) (2023)
+  * [Workshop on Autonomous Driving](https://cvpr2023.wad.vision/) (2023)
 
 #### Survey Papers
 * [Autonomous Agents Modelling Other Agents:A Comprehensive Survey and Open Problems](https://arxiv.org/pdf/1709.08071.pdf), S.V. Albrecht(2018)
