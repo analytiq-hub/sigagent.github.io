@@ -125,6 +125,8 @@ title: Self Driving Cars
   * [KPConv: Flexible and Deformable Convolution for Point Clouds](https://arxiv.org/pdf/1904.08889.pdf) (2019)
   * [KPConv - How Does It Work?](https://liorhirsch.hashnode.dev/kpconv-how-does-it-work) (2021)
 
+#### Drivable Area, Occupancy Grid, Occupancy Networks
+* Ashok Elluswamy, Tesla: [CVPR'22 WAD Keynote](https://www.youtube.com/watch?v=jPCV4GKX9Dw)
 
 #### Auto Labeling Data
 * [Auto4d: Learning to label 4d objects from sequential point clouds](https://arxiv.org/pdf/2101.06586.pdf), B. Yang et al, Uber (2021)
