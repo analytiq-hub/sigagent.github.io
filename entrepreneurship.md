@@ -25,6 +25,7 @@ title: Entrepreneurship
 * Sarah Guo: No Priors Podcast
   * Ep. 14: [With Sarah Guo and Elad Gil](https://www.youtube.com/watch?v=B5461t6ACpk) (Apr 2023)
   * Ep. 20: [With Sarah Guo and Elad Gil](https://www.youtube.com/watch?v=eTFUcPiodGU)
+  * Ep. 21: [With Datadog Co-founder/CEO Olivier Pomel](https://www.youtube.com/watch?v=x0BIJeRyfBE)
 * Tomorrow Talk:
   * [Elad Gil on the power of peer groups, investing in 40+ unicorns, AI today, and staying dynamic](https://www.youtube.com/watch?v=ifK3k46_zMI) (2023)
 * Fireside Chat w/ Elad Gil:
