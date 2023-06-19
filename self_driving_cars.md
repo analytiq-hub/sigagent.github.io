@@ -140,10 +140,6 @@ title: Self Driving Cars
 #### Self-supervised perception
 * K. Stocking et al: [Linking vision and motion for self-supervised object-centric perception](http://vcad.site/papers/24/CameraReady/paper.pdf) (2023)
 
-#### Simulation
-* [Wayve](https://wayve.ai/thinking/): [Neural Rendering](https://wayve.ai/neural-rendering/) (2023)
-* F. Mutsch et al: [From Model-Based to Data-Driven Simulation: Challenges and Trends in Autonomous Driving](http://vcad.site/papers/11/CameraReady/paper.pdf) (2023)
-
 #### Blogs, Videos
 * [Pixelopolis, a self-driving car demo from Google I/O built with TF-Lite](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html) (July 13, 2020)
 * Alex Kendall: [Now is the Time for Reinforcement Learning on Real Robots](https://alexgkendall.com/reinforcement_learning/now_is_the_time_for_reinforcement_learning_on_real_robots/)
@@ -247,6 +243,8 @@ title: Self Driving Cars
     * Retraining can be done on such a slice of failed scenes, for accelerated learning.
 
 #### Simulation
+* [Wayve](https://wayve.ai/thinking/): [Neural Rendering](https://wayve.ai/neural-rendering/) (2023)
+* F. Mutsch et al: [From Model-Based to Data-Driven Simulation: Challenges and Trends in Autonomous Driving](http://vcad.site/papers/11/CameraReady/paper.pdf) (2023)
 * Uber [simulation](https://www.uber.com/us/en/atg/research-and-development/simulation/)
   * [Inside Uber ATG’s Data Mining Operation: Identifying Real Road Scenarios at Scale for Machine Learning](https://eng.uber.com/uber-atg-data-mining/)
   * [Engineering Uber’s Self-Driving Car Visualization Platform for the Web](https://eng.uber.com/atg-dataviz/) (2017)
