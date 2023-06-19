@@ -2,6 +2,13 @@
 layout: page
 title: Self Driving Cars
 ---
+#### Books
+* Engineering Autonomous Vehicle and Robots, by Shaoshan Liu et al, new edition 2020
+* [Creating Autonomous Vehicle Systems](https://innovate.ieee.org/wp-content/uploads/2020/03/MC-CAVS.pdf), by Shaoshan Liu et al, new edition 2020
+* [Computational Geometry: Algorithms and Applications](https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736), Mark de Berg et al (2018)
+* [Computer Vision for Autonomous Vehicles: Problems, Datasets and State of the Art](https://arxiv.org/pdf/1704.05519.pdf), J. Janai et al (2021)
+  * [Summaries of all papers in survey](http://www.cvlibs.net/projects/autonomous_vision_survey/)
+
 #### Courses
 * <a href="https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2016/">Cognitive Robotics</a>, 16.412J/6.836J MIT Open Courseware (Spring 2016)
 * <a href="https://www.apex.ai/autoware-course">Self-Driving Cars with ROS and Autoware</a> by APEX.ai, 20 classes <a href="https://www.youtube.com/watch?v=XTmlhvlmcf8&t=4103s">YouTube Course</a> (2020). This is a system-level intro to [Apollo ROS](http://www.apollo.auto/), the open source project from Baidu for self driving cars.
@@ -9,12 +16,9 @@ title: Self Driving Cars
 * Introductions
   * [Self Driving Cars An Introduction to Vehicle Autonomy Stack](https://www.youtube.com/watch?v=VEY55D_vqt0&t=373s)
 
-#### Books
-* Engineering Autonomous Vehicle and Robots, by Shaoshan Liu et al, new edition 2020
-* [Creating Autonomous Vehicle Systems](https://innovate.ieee.org/wp-content/uploads/2020/03/MC-CAVS.pdf), by Shaoshan Liu et al, new edition 2020
-* [Computational Geometry: Algorithms and Applications](https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736), Mark de Berg et al (2018)
-* [Computer Vision for Autonomous Vehicles: Problems, Datasets and State of the Art](https://arxiv.org/pdf/1704.05519.pdf), J. Janai et al (2021)
-  * [Summaries of all papers in survey](http://www.cvlibs.net/projects/autonomous_vision_survey/)
+#### Workshops
+* CVPR 2023
+  * [Vision-Centric Autonomous Driving (VCAD)](http://vcad.site/#/) (2023)
 
 #### Survey Papers
 * [Autonomous Agents Modelling Other Agents:A Comprehensive Survey and Open Problems](https://arxiv.org/pdf/1709.08071.pdf), S.V. Albrecht(2018)
