@@ -13,7 +13,7 @@ title: Entrepreneurship
 * Steve Blank: [The Four Steps to the Epiphany:  Successful Strategies for Products that Win](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/1119690358) (2007, fourth ed)
 * Matt Mochary: [The Great CEO Within: The Tactical Guide to Company Building](https://www.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287) (2019), [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/edit#)
 * Bill Oulet: [Disciplined Entrepreneurship: 24 Steps to a Successful Startup](https://www.amazon.com/Disciplined-Entrepreneurship-Steps-Successful-Startup/dp/1118692284/) (2013)
-  * [Intro to Disciplined Entrepreneurship](https://www.youtube.com/watch?v=FqmCN5Tt0Jo) (2017)
+  * [Intro to Disciplined Entrepreneurship](https://www.youtube.com/watch?v=FqmCN5Tt0Jo), [Workbook](https://www.amazon.com/Disciplined-Entrepreneurship-Workbook-Bill-Aulet/dp/1119365791) (2017)
 * Elad Gil: [High Growth Handbook: Scaling Startups from 10 to 10,000 People](https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100/) (2018)
 
 #### Customer Discovery and Sales
