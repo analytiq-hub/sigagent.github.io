@@ -126,6 +126,7 @@ title: Self Driving Cars
 * [Supervised & Unsupervised Approaches for LiDAR Perception in Urban Environments by C Stachniss](https://www.youtube.com/watch?v=hiNpKpeYgDs) (2022)
   * [KPConv: Flexible and Deformable Convolution for Point Clouds](https://arxiv.org/pdf/1904.08889.pdf) (2019)
   * [KPConv - How Does It Work?](https://liorhirsch.hashnode.dev/kpconv-how-does-it-work) (2021)
+* [Haotian Tang](http://kentang.net/), [Shang Yang](https://ys-2020.github.io/) et al: [TorchSparse: Efficient Point Cloud Inference Engine](https://torchsparse.mit.edu/), [slides](https://torchsparse.mit.edu/assets/slides.pdf), [github](https://github.com/mit-han-lab/torchsparse)
 
 #### Drivable Area, Occupancy Grid, Occupancy Networks
 * Ashok Elluswamy, Tesla: [CVPR'22 WAD Keynote](https://www.youtube.com/watch?v=jPCV4GKX9Dw).Occupancy networks, NeRFs, implicit networks for collision avoidance
