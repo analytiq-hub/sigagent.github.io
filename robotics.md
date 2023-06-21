@@ -56,6 +56,10 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 #### Generalist Agents
 * Scott Reed et al: [A Generalist Agent](https://openreview.net/pdf?id=1ikK0kHjvj), DeepMind (2022), [blog](https://www.deepmind.com/blog/a-generalist-agent)
 
+#### Robotics Entrepreneurship
+* [The Robot Report](https://www.therobotreport.com/)
+
+
 #### Links
 * [Autonomous Agents](autonomous_agents.md)
 * [Crypto Currencies](crypto_currencies.md)
