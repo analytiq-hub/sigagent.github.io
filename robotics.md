@@ -62,6 +62,7 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 * [The Robot Report](https://www.therobotreport.com/)
 * [Robotics Business Review](https://www.roboticsbusinessreview.com/)
 * [Collaborative Robotics Trends](https://www.cobottrends.com/)
+* [Mobile Robot Guide](https://mobilerobotguide.com/)
 
 
 #### Links
