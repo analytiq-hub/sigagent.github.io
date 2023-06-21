@@ -205,6 +205,9 @@ title: Self Driving Cars
 * Cruise
   * [75 Minutes of Autonomous Driving with Kyle Vogt and Sam Altman](https://www.youtube.com/watch?v=sliYTyRpRB8&t=994s) (2020)
   * CVPR22: [Workshop on Autonomous Driving](https://www.youtube.com/watch?v=EJ0hgOc0XLA) (2022)
+* John Deere
+  * [John Deere 2023 Tech Summit recap](https://www.therobotreport.com/john-deere-2023-tech-summit-recap/)
+  * [Autonomous vehicle technology deep dive with John Deere and Zoox](https://www.therobotreport.com/autonomous-vehicle-technology-deep-dive-with-john-deere-and-zoox/)
 * Tesla
   * [Tesla AI Day 2021](https://www.youtube.com/watch?v=fdtC1AxFNkk)
     * Vincent Feng: [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
@@ -254,6 +257,8 @@ title: Self Driving Cars
     * Model runs can be committed. Inference results for committed models can be analysed for things like detection failures, false positives, etc.
     * Scenes that failed to be detected correctly can be added to a 'slice', sent to the contractor to be re-annotated, before the model can be re-run.
     * Retraining can be done on such a slice of failed scenes, for accelerated learning.
+* Zoox
+  * [How Zoox Autonomous Vehicles 'Perceive' Their Surroundings](https://www.youtube.com/watch?v=5E2NYmgvo3E) (2022)
 
 #### Simulation
 * [Wayve](https://wayve.ai/thinking/): [Neural Rendering](https://wayve.ai/neural-rendering/) (2023)
