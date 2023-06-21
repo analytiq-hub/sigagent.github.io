@@ -4,6 +4,10 @@ title: Computer Vision
 ---
 For now, see [machine_learning](machine_learning.md) and [self_driving_cars](self_driving_cars.md)
 
+#### Conferences
+* CVPR 2023
+  * [Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/)
+
 #### Object Detection from Images
 * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf), J. Redmon et al (2016), [http://pjreddie.com/yolo/](http://pjreddie.com/yolo/), Y Liao et al (2021)
 * Latent Space: [Segment Anything Model and the Hard Problems of Computer Vision — with Joseph Nelson of Roboflow](https://www.latent.space/p/segment-anything-roboflow#details) (2023)
