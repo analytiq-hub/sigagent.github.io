@@ -60,6 +60,7 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 * [Mass Robotics](https://www.massrobotics.org)
   * [Newsletter](https://www.massrobotics.org/join-massrobotics/), [Calendar](https://www.massrobotics.org/events/#calendar)
 * [The Robot Report](https://www.therobotreport.com/)
+* [Robotics Business Review](https://www.roboticsbusinessreview.com/)
 
 
 #### Links
