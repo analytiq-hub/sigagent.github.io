@@ -15,6 +15,7 @@ title: Entrepreneurship
 * Bill Oulet: [Disciplined Entrepreneurship: 24 Steps to a Successful Startup](https://www.amazon.com/Disciplined-Entrepreneurship-Steps-Successful-Startup/dp/1118692284/) (2013)
   * [Intro to Disciplined Entrepreneurship](https://www.youtube.com/watch?v=FqmCN5Tt0Jo), [Workbook](https://www.amazon.com/Disciplined-Entrepreneurship-Workbook-Bill-Aulet/dp/1119365791) (2017)
 * Elad Gil: [High Growth Handbook: Scaling Startups from 10 to 10,000 People](https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100/) (2018)
+* Charles Duhigg: [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) (2014)
 
 #### Customer Discovery and Sales
 * Rob Fitzpatrick: [The Mom Test](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742) (2013)
