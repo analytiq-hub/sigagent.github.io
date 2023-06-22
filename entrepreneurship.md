@@ -14,7 +14,7 @@ title: Entrepreneurship
 * Matt Mochary: [The Great CEO Within: The Tactical Guide to Company Building](https://www.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287) (2019), [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/edit#)
 * Bill Oulet: [Disciplined Entrepreneurship: 24 Steps to a Successful Startup](https://www.amazon.com/Disciplined-Entrepreneurship-Steps-Successful-Startup/dp/1118692284/) (2013)
   * [Intro to Disciplined Entrepreneurship](https://www.youtube.com/watch?v=FqmCN5Tt0Jo), [Workbook](https://www.amazon.com/Disciplined-Entrepreneurship-Workbook-Bill-Aulet/dp/1119365791) (2017)
-  *  What is Disciplined Entrepreneurship & why is it important? [Part 1](https://www.youtube.com/watch?v=2j-JEhm6H-U) (2021)
+  * What is Disciplined Entrepreneurship & why is it important? [Part 1](https://www.youtube.com/watch?v=2j-JEhm6H-U) (2021)
 * Elad Gil: [High Growth Handbook: Scaling Startups from 10 to 10,000 People](https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100/) (2018)
 * Charles Duhigg: [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) (2014)
 
