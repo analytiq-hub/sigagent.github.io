@@ -26,7 +26,7 @@ title: Entrepreneurship
 * Aaron Harris: [How to Get Meetings with Investors and Raise Money by Aaron Harris](https://www.youtube.com/watch?v=Jzz4AEIddzY) (2018)
 * Blitzscaling 08: [Eric Schmidt on Structuring Teams and Scaling Google](https://www.youtube.com/watch?v=hcRxFRgNpns) (2015)
 * How to Start a Startup Lecture 13: [How to Be a Great Founder with Reid Hoffman](https://www.youtube.com/watch?v=pkAum45ubWc&list=RDLVhcRxFRgNpns&index=6) (2014)
-* Sarah Guo: No Priors Podcast
+* Sarah Guo, Elad Gil: No Priors Podcast
   * Ep. 14: [With Sarah Guo and Elad Gil](https://www.youtube.com/watch?v=B5461t6ACpk) (Apr 2023)
   * Ep. 16: [With Mustafa Suleyman, Founder of DeepMind and Inflection](https://www.youtube.com/watch?v=g4VszCFonPk)
   * Ep. 19: [With Anduril CEO Brian Schimpf](https://www.youtube.com/watch?v=vgrhVCwdv7c)
