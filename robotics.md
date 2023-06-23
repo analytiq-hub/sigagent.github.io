@@ -12,7 +12,6 @@ title: Robotics
   * [AA289 - Robotics and Autonomous Systems Seminar](https://www.youtube.com/playlist?list=PLoROMvodv4rMeercb-kvGLUrOq4HR6BZD)
     * Adrien Gaidon, Toyota Research Institute: [Pseudo-lidar/Monocular Depth Estimation](https://www.youtube.com/watch?v=SLEK2vAgjOI&list=PLoROMvodv4rMeercb-kvGLUrOq4HR6BZD&index=13) (2019)
 
-
 #### Videos
 * Matlab videos: [Understanding Kalman Filters](https://www.youtube.com/watch?v=mwn8xhgNpFY) (7 videos)
 *  Michel van Biezen: The Kalman Filter [ilectureonline.com](http://www.ilectureonline.com/lectures/subject/SPECIAL%20TOPICS/26/190), [youtube](https://www.youtube.com/watch?v=CaCcOwJPytQ) (55 videos)
@@ -63,6 +62,7 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 * [Robotics Business Review](https://www.roboticsbusinessreview.com/)
 * [Collaborative Robotics Trends](https://www.cobottrends.com/)
 * [Mobile Robot Guide](https://mobilerobotguide.com/)
+* [Robotics 24/7](https://www.robotics247.com/)
 
 
 #### Links
