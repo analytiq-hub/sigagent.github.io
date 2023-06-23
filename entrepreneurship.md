@@ -40,6 +40,9 @@ title: Entrepreneurship
 * TechCrunch
   * [5 investors discuss Boston’s resilient tech ecosystem](https://techcrunch.com/2023/02/27/5-investors-discuss-why-bostons-tech-ecosystem-is-as-resilient-as-they-come/) (Feb 2023)
 
+#### Funding Competitions
+* [AI Grant](https://aigrant.org/)
+
 #### Founders
 * Paul Graham:[What to look for in founders](http://www.paulgraham.com/founders.html) (2010)
 * Margaret Heffernan: [Want to Start a Business? First, Find a Partner](http://www.inc.com/margaret-heffernan/you-need-a-partner-to-start-a-business.html) (2012)
