@@ -29,8 +29,10 @@ title: Entrepreneurship
 * Sarah Guo: No Priors Podcast
   * Ep. 14: [With Sarah Guo and Elad Gil](https://www.youtube.com/watch?v=B5461t6ACpk) (Apr 2023)
   * Ep. 16: [With Mustafa Suleyman, Founder of DeepMind and Inflection](https://www.youtube.com/watch?v=g4VszCFonPk)
+  * Ep. 19: [With Anduril CEO Brian Schimpf](https://www.youtube.com/watch?v=vgrhVCwdv7c)
   * Ep. 20: [With Sarah Guo and Elad Gil](https://www.youtube.com/watch?v=eTFUcPiodGU)
   * Ep. 21: [With Datadog Co-founder/CEO Olivier Pomel](https://www.youtube.com/watch?v=x0BIJeRyfBE)
+  * Ep. 22: [With Instacart CEO Fidji Simo](https://www.youtube.com/watch?v=bhlPHBkIEYs)
 * Tomorrow Talk:
   * [Elad Gil on the power of peer groups, investing in 40+ unicorns, AI today, and staying dynamic](https://www.youtube.com/watch?v=ifK3k46_zMI) (2023)
 * Fireside Chat w/ Elad Gil:
