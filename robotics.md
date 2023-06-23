@@ -64,6 +64,9 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 * [Mobile Robot Guide](https://mobilerobotguide.com/)
 * [Robotics 24/7](https://www.robotics247.com/)
 
+#### News
+* Brian Heater: [13 VCs talk about the state of robotics investing in 2023](https://techcrunch.com/2023/04/13/13-vcs-talk-about-the-state-of-robotics-investing-in-2023/) (2023)
+
 
 #### Links
 * [Autonomous Agents](autonomous_agents.md)
