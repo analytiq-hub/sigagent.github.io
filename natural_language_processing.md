@@ -18,6 +18,9 @@ title: Natural Language Processing
 #### Explainability
 * OpenAI: S. Bills et al: [Language models can explain neurons in language models](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) (2023)
 
+#### Tech stack
+*  Matt Bornstein, Rajko Radovanovic: [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/) (2023)
+
 #### Courses
 * [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) (2023)
   * Charles Frye: [Learn to Spell: Prompt Engineering](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/)
