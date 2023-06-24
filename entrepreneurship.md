@@ -81,6 +81,7 @@ title: Entrepreneurship
 
 #### Incorporation
 * [Stripe Atlas](https://stripe.com/atlas)
+  * [5K in AWS credits](https://stripe.com/partners/directory/aws)
 * [Clerky](https://www.clerky.com/)
 * [Legal Zoom](https://www.legalzoom.com/)
 * Reviews
