@@ -75,6 +75,10 @@ title: Entrepreneurship
 * Flagship Pioneering,  [@FlagshipPioneer](https://twitter.com/FlagshipPioneer)
 * Techstars, [@Techstars](https://twitter.com/Techstars)
 
+#### Fundraising
+* SAFE Notes
+  * [What are safe notes](https://kruzeconsulting.com/safe-notes/)
+
 #### News
 * [After Record Year, Robotics Investment Stays Strong Even In Shaky VC Market](https://news.crunchbase.com/ai-robotics/robotics-vc-funding/) (2022)
 
