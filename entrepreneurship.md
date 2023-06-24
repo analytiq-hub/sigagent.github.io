@@ -90,6 +90,11 @@ title: Entrepreneurship
   * Satchel: [The Best Startup Incorporation Service](https://satchel.com/incorporation/)
   * LLC University:[Best Registered Agent Service in Massachusetts](https://www.llcuniversity.com/best-registered-agent-service-in-massachusetts/) (2023)
 
+#### Startup Software Deals
+* [The 27 Best Startup Software Deals](https://capiche.com/e/best-startup-deals) (2019)
+* AWS
+  * [AWS Activate](https://aws.amazon.com/activate/?tag=capiche05-20), [AWS Startup Loft Accelerator](https://aws-startup-lofts.com/emea/program/accelerator)
+
 #### News
 * [After Record Year, Robotics Investment Stays Strong Even In Shaky VC Market](https://news.crunchbase.com/ai-robotics/robotics-vc-funding/) (2022)
 
