@@ -74,6 +74,7 @@ title: Entrepreneurship
   * [AWS Robotics Startup Accelerator](https://www.massrobotics.org/opportunities/aws-robotics-startup-accelerator/) (2022)
 * Flagship Pioneering,  [@FlagshipPioneer](https://twitter.com/FlagshipPioneer)
 * Techstars, [@Techstars](https://twitter.com/Techstars)
+* [AWS Startup Loft Accelerator](https://aws-startup-lofts.com/emea/program/accelerator)
 
 #### Fundraising
 * SAFE Notes
@@ -93,7 +94,7 @@ title: Entrepreneurship
 #### Startup Software Deals
 * [The 27 Best Startup Software Deals](https://capiche.com/e/best-startup-deals) (2019)
 * AWS
-  * [AWS Activate](https://aws.amazon.com/activate/?tag=capiche05-20), [AWS Startup Loft Accelerator](https://aws-startup-lofts.com/emea/program/accelerator)
+  * [AWS Activate](https://aws.amazon.com/activate/?tag=capiche05-20)
 
 #### News
 * [After Record Year, Robotics Investment Stays Strong Even In Shaky VC Market](https://news.crunchbase.com/ai-robotics/robotics-vc-funding/) (2022)
