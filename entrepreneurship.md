@@ -83,6 +83,7 @@ title: Entrepreneurship
 * [Stripe Atlas](https://stripe.com/atlas)
 * [Legal Zoom](https://www.legalzoom.com/)
 * Reviews
+  * Reddit: [Stripe Atlas vs Alternatives?](https://www.reddit.com/r/startups/comments/ibj2lj/comment/g1wjgpw/)
   * [Stripe Atlas Vs Clerky Vs Gust Vs LegalZoom Vs ZenBusiness](https://www.rebellink.com/stripe-atlas-vs-clerky-vs-gust-vs-legal-zoom-vs-zenbusiness/)
   * LLC University:[Best Registered Agent Service in Massachusetts](https://www.llcuniversity.com/best-registered-agent-service-in-massachusetts/) (2023)
 
