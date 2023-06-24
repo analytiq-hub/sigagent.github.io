@@ -20,6 +20,7 @@ title: Natural Language Processing
 
 #### Tech stack
 *  Matt Bornstein, Rajko Radovanovic: [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/) (2023)
+   * Andrei's [tweet](https://twitter.com/bitdribble/status/1672233355914428417)
 
 #### Courses
 * [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) (2023)
