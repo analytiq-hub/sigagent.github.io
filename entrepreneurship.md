@@ -79,6 +79,9 @@ title: Entrepreneurship
 * SAFE Notes
   * [What are safe notes](https://kruzeconsulting.com/safe-notes/)
 
+#### Incorporation
+* [Stripe Atlas](https://stripe.com/atlas)
+
 #### News
 * [After Record Year, Robotics Investment Stays Strong Even In Shaky VC Market](https://news.crunchbase.com/ai-robotics/robotics-vc-funding/) (2022)
 
