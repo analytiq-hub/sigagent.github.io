@@ -19,5 +19,8 @@ title: Funding for Entrepreneurship
 #### Tools
 * [Brief Link](https://brieflink.com/)
 
+#### Advice
+* [Mark Suster (Upfront Ventures) on How to Find the Right VCs For Your Startup](https://www.youtube.com/watch?v=MoLJqxWw6dA)
+
 #### Other
 * [Entrepreneurship](/entrepreneurship)
