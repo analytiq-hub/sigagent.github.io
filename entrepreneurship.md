@@ -27,11 +27,11 @@ title: Entrepreneurship
 * Blitzscaling 08: [Eric Schmidt on Structuring Teams and Scaling Google](https://www.youtube.com/watch?v=hcRxFRgNpns) (2015)
 * How to Start a Startup Lecture 13: [How to Be a Great Founder with Reid Hoffman](https://www.youtube.com/watch?v=pkAum45ubWc&list=RDLVhcRxFRgNpns&index=6) (2014)
 * Sarah Guo, Elad Gil: No Priors Podcast
-  * Ep. 5: [With Huggingface's Clem Delangue](https://www.youtube.com/watch?v=dvKdTzYQJCc)
+  * Ep. 5: [With Huggingface's Clem Delangue](https://www.youtube.com/watch?v=dvKdTzYQJCc). [Andrei's summary](https://twitter.com/bitdribble/status/1673055247160188929)
   * Ep. 11: [With Matei Zaharia, CTO of Databricks](https://www.youtube.com/watch?v=sCHGWRlydJ8)
   * Ep. 14: [With Sarah Guo and Elad Gil](https://www.youtube.com/watch?v=B5461t6ACpk) (Apr 2023)
   * Ep. 16: [With Mustafa Suleyman, Founder of DeepMind and Inflection](https://www.youtube.com/watch?v=g4VszCFonPk)
-  * Ep. 19: [With Anduril CEO Brian Schimpf](https://www.youtube.com/watch?v=vgrhVCwdv7c)
+  * Ep. 19: [With Anduril CEO Brian Schimpf](https://www.youtube.com/watch?v=vgrhVCwdv7c). [Andrei's summary](https://twitter.com/bitdribble/status/1672065174000353280)
   * Ep. 20: [With Sarah Guo and Elad Gil](https://www.youtube.com/watch?v=eTFUcPiodGU)
   * Ep. 21: [With Datadog Co-founder/CEO Olivier Pomel](https://www.youtube.com/watch?v=x0BIJeRyfBE)
   * Ep. 22: [With Instacart CEO Fidji Simo](https://www.youtube.com/watch?v=bhlPHBkIEYs)
