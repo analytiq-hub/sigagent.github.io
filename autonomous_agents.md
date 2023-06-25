@@ -13,7 +13,9 @@ title: Autonomous Agents
 
 
 #### Posts
-* Swyx: [The Anatomy of Autonomy: Why Agents are the next AI Killer App after ChatGPT](https://www.latent.space/p/agents) (2023)
+* Swyx
+  * [The Anatomy of Autonomy: Why Agents are the next AI Killer App after ChatGPT](https://www.latent.space/p/agents) (2023)
+  * [ai-notes](https://github.com/swyxio/ai-notes), [@swyx](https://twitter.com/swyx)'s [https://twitter.com/swyx/status/1672110117045821440](background research)
 * LangChain Blog: [Autonomous Agents & Agent Simulations](https://blog.langchain.dev/agents-round/) (2023)
 * Matt Schlicht: [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) (2023)
 * T.L. Griffiths et al: [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf) (2023)
