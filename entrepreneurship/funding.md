@@ -9,7 +9,7 @@ title: Funding for Entrepreneurship
   * $1M, $1.5M, $2M SAFE for 15%
   * Feedback in 4 days
   * Decision in 9 days
-* neo.com
+* [Neo](http://neo.com)
 * oshaughnessy
 
 #### Funding Securities
