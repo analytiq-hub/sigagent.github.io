@@ -35,6 +35,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Embedded Programming](embedded_programming.md)
 * [Engineering Skills](engineering_skills.md)
 * [Entrepreneurship](entrepreneurship.md)
+  * [Funding](/entrepreneurship/funding)
 * [Film](film.md)
 * [Game Theory](game_theory.md)
 * [GPUs](gpus.md)
