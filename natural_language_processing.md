@@ -85,6 +85,8 @@ gradient for the vast majority of the parameters
     * Data loading with [mosaicml/streaming](https://github.com/mosaicml/streaming)
  * [Unstructured](https://www.unstructured.io/)
    * [How Unstructured Unlocked 100k+ Pages of IRS Manuals](https://medium.com/@unstructured-io/leveraging-enterprise-specific-data-with-llms-how-unstructured-unlocked-100k-pages-of-irs-manuals-33e16308c1e3) (2023)
+* Summarization
+  * [WordTune](http://wordtune.com)
 
 #### Models
 * [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)
