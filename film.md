@@ -28,7 +28,7 @@ title: Film
 * [Cinessance](https://cinessance.com), use code FREE30
 
 #### Links
-* [Philosophy](philosophy.md)
-* [Religion](religion.md)
-* [Theater](theater.md)
+* [Philosophy](/philosophy)
+* [Religion](/religion)
+* [Theater](/theater)
 

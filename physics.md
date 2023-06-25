@@ -28,9 +28,9 @@ title: Physics
 * [Statistical mechanics - a set of lectures](https://www.amazon.com/Statistical-Mechanics-Lectures-Frontiers-Physics/dp/0201360764), R. Feynman (1981)
 * Gareth Tribello [MathsNet](http://gtribello.github.io/mathNET/)
   * Andrei's notes:
-    * [MathNet - Classical Thermodynamics](physics/gareth_tribello_mathnet_classical_thermodynamics.md)
-    * [MathNet - Statistical Mechanics](physics/gareth_tribello_mathnet_statistical_mechanics.md)
-    * [MathNet - Statistics](gareth_tribello_mathnet_statistics.md)
+    * [MathNet - Classical Thermodynamics](/physics/gareth_tribello_mathnet_classical_thermodynamics)
+    * [MathNet - Statistical Mechanics](/physics/gareth_tribello_mathnet_statistical_mechanics)
+    * [MathNet - Statistics](/gareth_tribello_mathnet_statistics)
 * Arieh Ben-Naim: [Farewell To Entropy, A: Statistical Thermodynamics Based On Information](https://www.amazon.com/Farewell-Entropy-Statistical-Thermodynamics-Information/dp/9812707077) (2008)
 * MIT 8.333 [Statistical Mechanics I: Statistical Mechanics of Particles](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg) (2013)
   * Mehran Kardar: [Statistical Physics of Particles](https://www.amazon.com/Statistical-Physics-Particles-Mehran-Kardar/dp/0521873428)
@@ -99,7 +99,7 @@ title: Physics
   * [Quantum Mechanics](https://theoreticalminimum.com/courses/quantum-mechanics/2012/winter) (Winter 2012), not yet watched
   * [Special Relativity and Electrodynamics](https://theoreticalminimum.com/courses/special-relativity-and-electrodynamics/2012/spring) (Spring 2012), not yet watched
   * [Cosmology](https://theoreticalminimum.com/courses/cosmology/2013/winter) (Winter 2013), not yet watched
-  * [Statistical Mechanics](https://theoreticalminimum.com/courses/statistical-mechanics/2013/spring) (Spring 2013), [Andrei's notes](physics/susskind_statistical_mechanics.md)
+  * [Statistical Mechanics](https://theoreticalminimum.com/courses/statistical-mechanics/2013/spring) (Spring 2013), [Andrei's notes](/physics/susskind_statistical_mechanics)
   * [Supplemental Courses](https://theoreticalminimum.com/courses/supplemental), [Archived Courses](https://theoreticalminimum.com/courses/archive)
 
 #### Surveys
@@ -111,7 +111,7 @@ title: Physics
 * MIT
   * [8-04 Quantum Physics I](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/) (2014)
 * U. Schreiber: [geometry of physics -- perturbative quantum field theory](https://ncatlab.org/nlab/show/geometry+of+physics+--+perturbative+quantum+field+theory) (2017)
-* [Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/), [Andrei's notes](physics/feynman.md)
+* [Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/), [Andrei's notes](/physics/feynman)
 
 #### Videos
 * Sean Carroll:
@@ -151,12 +151,12 @@ title: Physics
 * K. Desai et al: [SymmetryGAN: Symmetry Discovery with Deep Learning](https://arxiv.org/pdf/2112.05722.pdf) (2022)
 
 #### Other
-* [Artificial Intelligence](artificial_intelligence.md)
-* [Cognitive Science](cognitive_science.md)
-* [Computation Theory](computation_theory.md)
-* [Meta Learning](meta_learning.md)
-* [Probabilities and Statistics](probabilities_and_statistics.md)
-* [Quantum Computers](quantum_computers.md)
-* [Robotics](robotics.md)
-* [Self Driving Cars](self_driving_cars.md)
-* [Computational Topology](computational_topology.md)
+* [Artificial Intelligence](/artificial_intelligence)
+* [Cognitive Science](/cognitive_science)
+* [Computation Theory](/computation_theory)
+* [Meta Learning](/meta_learning)
+* [Probabilities and Statistics](/probabilities_and_statistics)
+* [Quantum Computers](/quantum_computers)
+* [Robotics](/robotics)
+* [Self Driving Cars](/self_driving_cars)
+* [Computational Topology](/computational_topology)

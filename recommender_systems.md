@@ -12,7 +12,7 @@ title: Recommender Systems
 
 #### Courses
 * EdX: UMontreal: Laurent Charlin: [Recommender Systems: Behind the Screen](https://learning.edx.org/course/course-v1:UMontrealX+RECM1EN+1T2021/home)
-  * [Andrei's notes](recommender_systems/edx_recommender_systems_course.md)
+  * [Andrei's notes](/recommender_systems/edx_recommender_systems_course)
 * Google: [Recommendation system](https://developers.google.com/machine-learning/recommendation) course
 
 #### Blog Posts
@@ -27,8 +27,8 @@ title: Recommender Systems
 * A. Malevich: [Practical Recommendations for Building Recommender Systems with Facebook](https://www.youtube.com/watch?v=RETEn5YLyO4) (2020)
 
 #### Other
-* [Artificial Intelligence](artificial_intelligence.md)
-* [Cloud Data Platform](cloud_data_platform.md)
-* [Machine Learning](machine_learning.md)
-* [Natural Language Processing](natural_language_processing.md)
-* [Probabilities and Statistics](probabilities_and_statistics.md)
+* [Artificial Intelligence](/artificial_intelligence)
+* [Cloud Data Platform](/cloud_data_platform)
+* [Machine Learning](/machine_learning)
+* [Natural Language Processing](/natural_language_processing)
+* [Probabilities and Statistics](/probabilities_and_statistics)

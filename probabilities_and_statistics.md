@@ -61,6 +61,6 @@ title: Probabilities and Statistics
   * [Multi-Armed Bandit](https://www.youtube.com/watch?v=e3L4VocZnnQ&list=PLvcbYUQ5t0UH2MS_B6maLNJhK0jNyPJUY&index=65)
 
 #### Other
-* [Market Trading](market_trading.md)
-* [Robotics](robotics.md)
-* [Self Driving Cars](self_driving_cars.md)
+* [Market Trading](/market_trading)
+* [Robotics](/robotics)
+* [Self Driving Cars](/self_driving_cars)

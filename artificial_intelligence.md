@@ -8,10 +8,10 @@ title: Artificial Intelligence
 * [Why AI is Harder Than We Think](https://arxiv.org/pdf/2104.12871.pdf)
 
 #### Other
-* [Cognitive Science](cognitive_science.md)
-* [Computation Theory](computation_theory.md)
-* [Machine Learning](machine_learning.md)
-* [Probabilities and Statistics](probabilities_and_statistics.md)
-* [Robotics](robotics.md)
-* [Self Driving Cars](self_driving_cars.md)
-* [Computational Topology](computational_topology.md)
+* [Cognitive Science](/cognitive_science)
+* [Computation Theory](/computation_theory)
+* [Machine Learning](/machine_learning)
+* [Probabilities and Statistics](/probabilities_and_statistics)
+* [Robotics](/robotics)
+* [Self Driving Cars](/self_driving_cars)
+* [Computational Topology](/computational_topology)

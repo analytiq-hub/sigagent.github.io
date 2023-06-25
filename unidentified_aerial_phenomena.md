@@ -15,11 +15,11 @@ title: Unidentified Aerial Phenomena
 * [Garry Nolan](https://med.stanford.edu/profiles/garry-nolan)
 
 #### Other
-* [Artificial Intelligence](artificial_intelligence.md)
-* [Cognitive Science](cognitive_science.md)
-* [Computation Theory](computation_theory.md)
-* [Machine Learning](machine_learning.md)
-* [Probabilities and Statistics](probabilities_and_statistics.md)
-* [Robotics](robotics.md)
-* [Self Driving Cars](self_driving_cars.md)
+* [Artificial Intelligence](/artificial_intelligence)
+* [Cognitive Science](/cognitive_science)
+* [Computation Theory](/computation_theory)
+* [Machine Learning](/machine_learning)
+* [Probabilities and Statistics](/probabilities_and_statistics)
+* [Robotics](/robotics)
+* [Self Driving Cars](/self_driving_cars)
 * [Unidentified Aerial Phenomena](/unidentified_aerial_phenomena)

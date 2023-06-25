@@ -42,7 +42,7 @@ title: Colab
 
 #### Other
 * Tools
-  * [Altair Charts](altair.md)
-  * [Colab](colab.md)
-  * [Editors](editors.md)
+  * [Altair Charts](/altair)
+  * [Colab](/colab)
+  * [Editors](/editors)
 

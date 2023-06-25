@@ -16,9 +16,9 @@ title: Cognitive Science
 * [Donald D. Hoffman](https://en.wikipedia.org/wiki/Donald_D._Hoffman)
 
 #### Other
-* [Artificial Intelligence](artificial_intelligence.md)
-* [Computation Theory](computation_theory.md)
-* [Machine Learning](machine_learning.md)
-* [Probabilities and Statistics](probabilities_and_statistics.md)
-* [Robotics](robotics.md)
-* [Self Driving Cars](self_driving_cars.md)
+* [Artificial Intelligence](/artificial_intelligence)
+* [Computation Theory](/computation_theory)
+* [Machine Learning](/machine_learning)
+* [Probabilities and Statistics](/probabilities_and_statistics)
+* [Robotics](/robotics)
+* [Self Driving Cars](/self_driving_cars)

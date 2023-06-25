@@ -12,5 +12,5 @@ title: Music
 * Wagner: [Das Rheingold](https://www.youtube.com/watch?v=yFCFq6WWmGE), Berliner Philharmoniker, Karajan (1978)
 
 #### Links
-* [Philosophy](philosophy.md)
-* [Religion](religion.md)
+* [Philosophy](/philosophy)
+* [Religion](/religion)

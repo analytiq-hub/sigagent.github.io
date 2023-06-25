@@ -10,7 +10,7 @@ title: Literature
 * [Cafeneaua filosofică 55: Strategii ale subversiunii: Nicolae Steinhardt și Ion D. Sârbu](https://www.youtube.com/watch?v=rmZlWIZCbhc&t=2658s) (2022)
 
 #### Links
-* [Literature](literature.md)
-* [History](history.md)
-* [Philosophy](philosophy.md)
-* [Religion](religion.md)
+* [Literature](/literature)
+* [History](/history)
+* [Philosophy](/philosophy)
+* [Religion](/religion)

@@ -27,8 +27,8 @@ title: Theater
   * [Nocturne cu Liviu Ciulei](https://www.youtube.com/watch?v=jPlsAFeWC6E)
 
 #### Links
-* [Film](film.md)
-* [Opera](opera.md)
-* [Philosophy](philosophy.md)
-* [Religion](religion.md)
+* [Film](/film)
+* [Opera](/opera)
+* [Philosophy](/philosophy)
+* [Religion](/religion)
 

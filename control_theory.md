@@ -7,5 +7,5 @@ title: Control Theory
 * Jason Choi: [Introduction to Control Lyapunov Functions and Control Barrier Functions](https://youtu.be/_Tkn_Hzo4AA)
 
 #### Links
-* [Robotics](robotics.md)
+* [Robotics](/robotics)
 

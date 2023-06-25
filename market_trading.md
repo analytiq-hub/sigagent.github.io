@@ -28,4 +28,4 @@ title: Market Trading
   * <a href="https://www.youtube.com/watch?v=WpZhIpVStgI">EP 77: How to be a profitable short-term trader in a high frequency world - Dennis Dick</a>
 
 #### Other
-* [Probabilities and Statistics](probabilities_and_statistics.md)
+* [Probabilities and Statistics](/probabilities_and_statistics)

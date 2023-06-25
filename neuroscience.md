@@ -4,7 +4,7 @@ mathjax: true
 title: Neuroscience
 ---
 #### Consciousness
-* T. Parr, G. Pezzulo, K. Friston: [Active Inference: The Free Energy Principle in Mind, Brain, and Behavior](https://www.amazon.com/Active-Inference-Energy-Principle-Behavior/dp/0262045354) (2022). Andrei's [notes](neuroscience/active_inference_free_energy_principle.md).
+* T. Parr, G. Pezzulo, K. Friston: [Active Inference: The Free Energy Principle in Mind, Brain, and Behavior](https://www.amazon.com/Active-Inference-Energy-Principle-Behavior/dp/0262045354) (2022). Andrei's [notes](/neuroscience/active_inference_free_energy_principle).
 * Anil Seth: [Being You: A New Science of Consciousness](https://www.amazon.com/Being-You-New-Science-Consciousness/dp/1524742872) (2021)
 * Andy Clark: [Surfing Uncertainty: Prediction, Action, and the Embodied Mind](https://www.amazon.com/Surfing-Uncertainty-Prediction-Action-Embodied/dp/0190933216/ref=d_pd_sbs_sccl_4_5/146-1943148-1230166), [review](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/)
 * Giulio Tononi: [Phi: A Voyage from the Brain to the Soul](https://www.amazon.com/Phi-Voyage-Brain-Giulio-Tononi/dp/030790721X/) (2012)
@@ -45,13 +45,13 @@ title: Neuroscience
 * Simons Institute: [The Brain and Computation Boot Camp](https://www.youtube.com/watch?v=R2US2yVO4us&list=PLgKuh-lKre10qVKXL6EqR08qxyHf8R7-A) (2018)
 
 #### Other
-* [Artificial Intelligence](artificial_intelligence.md)
-* [Cognitive Science](cognitive_science.md)
-* [Computation Theory](computation_theory.md)
-* [Meta Learning](meta_learning.md)
-* [MLOps](mlops.md)
-* [Natural Language Processing](natural_language_processing.md)
-* [Probabilities and Statistics](probabilities_and_statistics.md)
-* [Robotics](robotics.md)
-* [Self Driving Cars](self_driving_cars.md)
-* [Computational Topology](computational_topology.md)
+* [Artificial Intelligence](/artificial_intelligence)
+* [Cognitive Science](/cognitive_science)
+* [Computation Theory](/computation_theory)
+* [Meta Learning](/meta_learning)
+* [MLOps](/mlops)
+* [Natural Language Processing](/natural_language_processing)
+* [Probabilities and Statistics](/probabilities_and_statistics)
+* [Robotics](/robotics)
+* [Self Driving Cars](/self_driving_cars)
+* [Computational Topology](/computational_topology)

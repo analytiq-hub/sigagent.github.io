@@ -16,6 +16,6 @@ title: History
   * The Dishcast with Andrew Sullivan: [Robert Kaplan On The Tragedy In Geopolitics](https://andrewsullivan.substack.com/p/robert-kaplan-on-the-tragedy-in-geopolitics?utm_source=substack&utm_medium=email) (2023)
 
 #### Links
-* [Literature](literature.md)
-* [Philosophy](philosophy.md)
-* [Religion](religion.md)
+* [Literature](/literature)
+* [Philosophy](/philosophy)
+* [Religion](/religion)

@@ -16,5 +16,5 @@ title: Intellectual History
 * [Interview with Bertrand Russell](https://www.youtube.com/watch?v=xL_sMXfzzyA) (1972)
 
 #### Links
-* [Philosophy](philosophy.md)
-* [Religion](religion.md)
+* [Philosophy](/philosophy)
+* [Religion](/religion)

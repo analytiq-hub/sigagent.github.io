@@ -131,5 +131,5 @@ def product(x, y):
 * [1](https://www.teamblind.com/post/7-onsites-7-offers-aAFTykAD) [2](https://mlengineer.io/facebook-machine-learning-engineer-interview-4-2021-offer-e5-nyc-91615b5c3065)
 
 #### Other
-* [Algorithms Practice](engineering_skills/algorithms_practice.md)
-* [Diagrams Practice](engineering_skills/diagrams_practice.md)
+* [Algorithms Practice](/engineering_skills/algorithms_practice)
+* [Diagrams Practice](/engineering_skills/diagrams_practice)

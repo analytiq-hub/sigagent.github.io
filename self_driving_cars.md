@@ -295,9 +295,9 @@ title: Self Driving Cars
 * [COiLTRAiNE: Conditional Imitation Learning Training Framework](https://github.com/felipecode/coiltraine)
 
 #### Other
-* [Computer Vision](computer_vision.md)
-* [Machine Learning](machine_learning.md)
-* [MLOps](mlops.md)
-* [Probabilities and Statistics](probabilities_and_statistics.md)
-* [Reinforcement Learning](reinforcement_learning.md)
-* [Robotics](robotics.md)
+* [Computer Vision](/computer_vision)
+* [Machine Learning](/machine_learning)
+* [MLOps](/mlops)
+* [Probabilities and Statistics](/probabilities_and_statistics)
+* [Reinforcement Learning](/reinforcement_learning)
+* [Robotics](/robotics)

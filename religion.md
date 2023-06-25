@@ -10,8 +10,8 @@ title: Religion
 * Mircea Eliade, [Interviuri, Istoria Religiior](https://www.youtube.com/watch?v=SDa59i1P36I), Europa Libera, cu Monica Lovinescu
 
 #### Links
-* [Philosophy](philosophy.md)
-* [Physics](physics.md)
-* [Religion](religion.md)
-* [Romania](romania.md)
+* [Philosophy](/philosophy)
+* [Physics](/physics)
+* [Religion](/religion)
+* [Romania](/romania)
 

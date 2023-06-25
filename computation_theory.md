@@ -24,10 +24,10 @@ title: Computation Theory
 * [Stephen Wolfram]
 
 #### Other
-* [Automated Theorem Proving](math/automated_theorem_proving.md)
-* [Artificial Intelligence](artificial_intelligence.md)
-* [Cognitive Science](cognitive_science.md)
-* [Machine Learning](machine_learning.md)
-* [Probabilities and Statistics](probabilities_and_statistics.md)
-* [Robotics](robotics.md)
-* [Self Driving Cars](self_driving_cars.md)
+* [Automated Theorem Proving](/math/automated_theorem_proving)
+* [Artificial Intelligence](/artificial_intelligence)
+* [Cognitive Science](/cognitive_science)
+* [Machine Learning](/machine_learning)
+* [Probabilities and Statistics](/probabilities_and_statistics)
+* [Robotics](/robotics)
+* [Self Driving Cars](/self_driving_cars)

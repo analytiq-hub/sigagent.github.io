@@ -18,10 +18,10 @@ title: Computational Topology
 * Wikipedia: [Persistent homology](https://en.wikipedia.org/wiki/Persistent_homology). Gives definition of persistent homology on filtered simplicial complexes $$\emptyset = K_0 \subseteq K_1 \subseteq ... \subseteq K_n = X$$ as images of the simplicial homology maps $$H_p(K_i) \rightarrow H_p(K_j)$$, and gives a list of software packages that compute persistent homology.
 
 #### Other
-* [Artificial Intelligence](artificial_intelligence.md)
-* [Cognitive Science](cognitive_science.md)
-* [Computation Theory](computation_theory.md)
-* [Machine Learning](machine_learning.md)
-* [Probabilities and Statistics](probabilities_and_statistics.md)
-* [Robotics](robotics.md)
-* [Self Driving Cars](self_driving_cars.md)
+* [Artificial Intelligence](/artificial_intelligence)
+* [Cognitive Science](/cognitive_science)
+* [Computation Theory](/computation_theory)
+* [Machine Learning](/machine_learning)
+* [Probabilities and Statistics](/probabilities_and_statistics)
+* [Robotics](/robotics)
+* [Self Driving Cars](/self_driving_cars)

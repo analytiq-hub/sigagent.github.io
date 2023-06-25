@@ -24,7 +24,7 @@ title: Romania
 * [Monica Lovinescu - Radio Free Europe Interview 1998](https://www.youtube.com/watch?v=ZO3PBsROZjY&t=2083s), with Mircea Iorgulescu
 
 #### Environment
-* See [Romania - Environment](romania/environment.md)
+* See [Romania - Environment](/romania/environment)
 
 #### Editura Academiei - Univers Enciclopedic
 * Dimitrie Cantemir - Opere I
@@ -39,8 +39,8 @@ title: Romania
 * M. Sebastian III,IV, VII, VIII
 
 #### Links
-* [Philosophy](philosophy.md)
-* [Physics](physics.md)
-* [Religion](religion.md)
-* [Romania](romania.md)
+* [Philosophy](/philosophy)
+* [Physics](/physics)
+* [Religion](/religion)
+* [Romania](/romania)
 

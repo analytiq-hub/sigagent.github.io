@@ -39,12 +39,12 @@ title: Machine Learning
 * University of Amsterdam: [UVA Deep Learning Course](https://uvadlc.github.io/), [UVA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
 * Yann LeCun
   * [Deep Learning](https://www.youtube.com/watch?v=ChLEJA6J2b8&list=PL80I41oVxglJ0kTDV7i3aHBIXe65nTxE7&index=6) course at College de France (2016)
-  * [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/), [Andrei's notes](machine_learning/yann_lecun_cds.md)
+  * [Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/), [Andrei's notes](/machine_learning/yann_lecun_cds)
 * CMU
   * [Advanced NLP 2022](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
   * 10-704: [Information Processing and Learning](https://www.cs.cmu.edu/~aarti/Class/10704/) (Spring 2012)
 * G. Hinton: [Neural Networks for Machine Learning](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) (2012)
-* G. Hulten: [Machine Learning Course](https://www.youtube.com/watch?v=jxWbJz49HCg&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO) (2021). Andrei's [notes](machine_learning/geoff_hulten_machine_learning_course.md).
+* G. Hulten: [Machine Learning Course](https://www.youtube.com/watch?v=jxWbJz49HCg&list=PLrQmbzbRJ5mwDinvDEJ5B-KDZlPM-sCYO) (2021). Andrei's [notes](/machine_learning/geoff_hulten_machine_learning_course).
 * Berkeley
   * [CS287-FA19](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/): Advanced Robotics (2020), [youtube](https://www.youtube.com/watch?v=xWPViQ6LI-Q&list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF), P. Abbeel
   * [CS294-158-SP20](https://sites.google.com/view/berkeley-cs294-158-sp20/home): Deep Unsuperviser Learning (Spring 2020), [youtube](https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP&index=1) ([Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home))
@@ -66,7 +66,7 @@ title: Machine Learning
   * Github: [stat453-deep-learning-ss21](https://github.com/rasbt/stat453-deep-learning-ss21), [deeplearning-models](https://github.com/rasbt/deeplearning-models), [Andrei's fork](https://github.com/andrei-radulescu-banu/deeplearning-models)
 * [Stanford](https://www.youtube.com/user/stanfordonline/playlists)
   * [CS221](https://stanford-cs221.github.io): Artificial Intelligence: Principles and Techniques (Autumn 2019), [syllabus](https://stanford-cs221.github.io/autumn2019/),[video](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
-  * CS229 - Machine Learning, Autumn 2018 [video](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) , [slides](http://cs229.stanford.edu/syllabus-autumn2018.html), Summer 2021 [video, slides](http://cs229.stanford.edu/syllabus-summer2019.html), Andrei's [notes](machine_learning/cs229_anand_avati_machine_learning_summer_2019.md)
+  * CS229 - Machine Learning, Autumn 2018 [video](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) , [slides](http://cs229.stanford.edu/syllabus-autumn2018.html), Summer 2021 [video, slides](http://cs229.stanford.edu/syllabus-summer2019.html), Andrei's [notes](/machine_learning/cs229_anand_avati_machine_learning_summer_2019)
   * [CS231n](http://cs231n.stanford.edu/): Convolutional Neural Networks for Visual Recognition (Spring 2017), [syllabus](https://cs231n.github.io/), [2016 video](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC), [2017 videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [2017 slides](http://cs231n.stanford.edu/slides/2017), [2021 slides](http://cs231n.stanford.edu/slides/2021)
     * Karpathy's [ConvNetJS CIFAR-10 demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
   * [CS236](https://deepgenerativemodels.github.io/): Deep Generative Models (slides only)
@@ -94,11 +94,11 @@ title: Machine Learning
 * [HuggingFace](https://discuss.huggingface.co/t/join-the-hugging-face-discord/11263)
 
 #### Tools
-* [Jax](machine_learning/jax.md)
-* [PyTorch](machine_learning/pytorch.md)
-* [scikit-learn](machine_learning/scikit-learn.md)
-* [Spark.ml and Apache Ignite ML](machine_learning/spark.md)
-* [TensorFlow](machine_learning/tensorflow.md)
+* [Jax](/machine_learning/jax)
+* [PyTorch](/machine_learning/pytorch)
+* [scikit-learn](/machine_learning/scikit-learn)
+* [Spark.ml and Apache Ignite ML](/machine_learning/spark)
+* [TensorFlow](/machine_learning/tensorflow)
 * Others: Caffe(Berkeley), Caffe2(Facebook), MXNet(Amazon), CNTK(Microsoft), Paddle(Baidu)
 * FBLearner Flow
   * [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/2016/05/09/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/)
@@ -107,7 +107,7 @@ title: Machine Learning
   * [StreamingDataset](https://docs.mosaicml.com/projects/streaming/en/stable/), [github](https://github.com/mosaicml/streaming), [blog post](https://www.mosaicml.com/blog/mosaicml-streamingdataset)
 
 #### GPUs
-See [GPUs](gpus.md) page
+See [GPUs](/gpus) page
 
 #### Tutorials
 * Robbie Allen: [Over 200 of the Best Machine Learning, NLP, and Python Tutorials](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc) (2018)
@@ -407,18 +407,18 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * [Justin Johnson](https://web.eecs.umich.edu/~justincj/)
 
 #### Other
-* [Artificial Intelligence](artificial_intelligence.md)
-* [Autonomous Agents](autonomous_agents.md)
-* [Cloud Data Platform](cloud_data_platform.md)
-* [Cognitive Science](cognitive_science.md)
-* [Computation Theory](computation_theory.md)
-* [Computer Vision](computer_vision.md)
-* [GPUs](gpus.md)
-* [Information Theory](information_theory.md)
-* [Meta Learning](meta_learning.md)
-* [MLOps](mlops.md)
-* [Natural Language Processing](natural_language_processing.md)
-* [Probabilities and Statistics](probabilities_and_statistics.md)
-* [Robotics](robotics.md)
-* [Self Driving Cars](self_driving_cars.md)
-* [Computational Topology](computational_topology.md)
+* [Artificial Intelligence](/artificial_intelligence)
+* [Autonomous Agents](/autonomous_agents)
+* [Cloud Data Platform](/cloud_data_platform)
+* [Cognitive Science](/cognitive_science)
+* [Computation Theory](/computation_theory)
+* [Computer Vision](/computer_vision)
+* [GPUs](/gpus)
+* [Information Theory](/information_theory)
+* [Meta Learning](/meta_learning)
+* [MLOps](/mlops)
+* [Natural Language Processing](/natural_language_processing)
+* [Probabilities and Statistics](/probabilities_and_statistics)
+* [Robotics](/robotics)
+* [Self Driving Cars](/self_driving_cars)
+* [Computational Topology](/computational_topology)

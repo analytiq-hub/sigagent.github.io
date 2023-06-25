@@ -5,21 +5,21 @@ title: Cloud Data Platform
 ---
 #### Software Stacks
 * [BDAS, the Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/)
-* [Databricks](software_stack/databricks.md)
-* [Docker](software_stack/docker.md)
-* [AWS](software_stack/amazon_web_services.md)
+* [Databricks](/software_stack/databricks)
+* [Docker](/software_stack/docker)
+* [AWS](/software_stack/amazon_web_services)
 * [dvc](https://dvc.org/) (Data Version Control)
-* [Google](software_stack/google.md)
-* [Lyft](software_stack/lydt.md)
+* [Google](/software_stack/google)
+* [Lyft](/software_stack/lydt)
 * [Neptune.ai](https://neptune.ai/)
-* [Onehouse](software_stack/onehouse.md)
-* [OpenAI](software_stack/openai.md)
+* [Onehouse](/software_stack/onehouse)
+* [OpenAI](/software_stack/openai)
 * [Jupyterhub](https://jupyterhub.readthedocs.io)
   * Amazon EMR
     * [Create a cluster with JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub-launch.html)
-* [Facebook](software_stack/facebook.md)
-* [Ray](software_stack/ray.md)
-* [Uber](software_stack/uber.md)
+* [Facebook](/software_stack/facebook)
+* [Ray](/software_stack/ray)
+* [Uber](/software_stack/uber)
   
 
 #### Tutorials
@@ -87,7 +87,7 @@ title: Cloud Data Platform
   * [Large-Scale Machine Learning with Snowflake and RAPIDS](https://medium.com/snowflake/large-scale-machine-learning-with-snowflake-and-rapids-7796b5e979aa), by M. Adkins et al (2022)
   * [Databricks vs Snowflake: 9 Critical Differences](https://hevodata.com/learn/databricks-vs-snowflake/), A. Phaujdar (2021)
   * [Databricks vs Snowflake: The Definitive Guide](https://hightouch.io/blog/databricks-vs-snowflake-the-definitive-guide/) (2021)
-* [Terraform](software_stack/terraform.md)
+* [Terraform](/software_stack/terraform)
 
 #### Surveys
 * Emerging Architectures for Modern Data Infrastructure:
@@ -129,7 +129,7 @@ title: Cloud Data Platform
 #### Other
 * [Cloud Data Platforms](/cloud_data_platforms)
 * [Data Centers](/data_centers)
-* [Machine Learning](machine_learning.md)
-* [Robotics](robotics.md)
-* [Self Driving Cars](self_driving_cars.md)
+* [Machine Learning](/machine_learning)
+* [Robotics](/robotics)
+* [Self Driving Cars](/self_driving_cars)
 

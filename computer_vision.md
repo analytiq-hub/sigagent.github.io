@@ -2,7 +2,7 @@
 layout: page
 title: Computer Vision
 ---
-For now, see [machine_learning](machine_learning.md) and [self_driving_cars](self_driving_cars.md)
+For now, see [machine_learning](/machine_learning) and [self_driving_cars](/self_driving_cars)
 
 #### Conferences
 * CVPR 2023
@@ -40,9 +40,9 @@ For now, see [machine_learning](machine_learning.md) and [self_driving_cars](sel
 * Common Sense Machines: [CSM.ai](https://csm.ai), Video to 3D, 3D World Generation, NeRF... Located in Cambridge, MA.
 
 #### Other
-* [Computer Vision](computer_vision.md)
-* [Machine Learning](machine_learning.md)
-* [MLOps](mlops.md)
-* [Probabilities and Statistics](probabilities_and_statistics.md)
-* [Reinforcement Learning](reinforcement_learning.md)
-* [Robotics](robotics.md)
+* [Computer Vision](/computer_vision)
+* [Machine Learning](/machine_learning)
+* [MLOps](/mlops)
+* [Probabilities and Statistics](/probabilities_and_statistics)
+* [Reinforcement Learning](/reinforcement_learning)
+* [Robotics](/robotics)

@@ -54,4 +54,4 @@ title: Yoga and Pilates
   * Yogalates with Rashimi: [Eye Exercises - Daily Yoga for Eyes](https://www.youtube.com/watch?v=J7KVbo1ABcc) (2020)
 
 #### Other
-* [Philosophy](philosophy.md)
+* [Philosophy](/philosophy)

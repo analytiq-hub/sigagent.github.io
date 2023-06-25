@@ -31,8 +31,8 @@ title: MLOps
   * [Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/pdf/2103.05073.pdf), Ch. Qi et al, Waymo (2021), [video](https://www.youtube.com/watch), explaining Waymo's solution for auto labeling data
 
 #### Other
-* [Machine Learning](machine_learning.md)
-* [Probabilities and Statistics](probabilities_and_statistics.md)
-* [Reinforcement Learning](reinforcement_learning.md)
-* [Robotics](robotics.md)
-* [Self Driving Cars](self_driving_cars.md)
+* [Machine Learning](/machine_learning)
+* [Probabilities and Statistics](/probabilities_and_statistics)
+* [Reinforcement Learning](/reinforcement_learning)
+* [Robotics](/robotics)
+* [Self Driving Cars](/self_driving_cars)

@@ -14,9 +14,9 @@ title: Crypto Currencies
 * Pete Rizzo: [The last days of Satoshi: What happened when Bitcoin's creator disappeared](https://bitcoinmagazine.com/technical/what-happened-when-bitcoin-creator-satoshi-nakamoto-disappeared), Apr 2021
 
 #### Links
-* [Crypto Currencies](crypto_currencies.md)
-* [Machine Learning](machine_learning.md)
-* [Probabilities and Statistics](probabilities_and_statistics.md)
-* [Reinforcement Learning](reinforcement_learning.md)
-* [Robotics](robotics.md)
-* [Self Driving Cars](self_driving_cars.md)
+* [Crypto Currencies](/crypto_currencies)
+* [Machine Learning](/machine_learning)
+* [Probabilities and Statistics](/probabilities_and_statistics)
+* [Reinforcement Learning](/reinforcement_learning)
+* [Robotics](/robotics)
+* [Self Driving Cars](/self_driving_cars)
