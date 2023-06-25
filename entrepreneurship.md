@@ -40,8 +40,8 @@ title: Entrepreneurship
 * TechCrunch
   * [5 investors discuss Boston’s resilient tech ecosystem](https://techcrunch.com/2023/02/27/5-investors-discuss-why-bostons-tech-ecosystem-is-as-resilient-as-they-come/) (Feb 2023)
 
-#### Funding Competitions
-* [AI Grant](https://aigrant.org/)
+#### Funding
+* See [Funding for Entrepreneurship](/entrepreneurship/funding)
 
 #### Founders
 * Paul Graham:[What to look for in founders](http://www.paulgraham.com/founders.html) (2010)
@@ -75,10 +75,6 @@ title: Entrepreneurship
 * Flagship Pioneering,  [@FlagshipPioneer](https://twitter.com/FlagshipPioneer)
 * Techstars, [@Techstars](https://twitter.com/Techstars)
 * [AWS Startup Loft Accelerator](https://aws-startup-lofts.com/emea/program/accelerator)
-
-#### Fundraising
-* SAFE Notes
-  * [What are safe notes](https://kruzeconsulting.com/safe-notes/)
 
 #### Incorporation
 * [Stripe Atlas](https://stripe.com/atlas)
