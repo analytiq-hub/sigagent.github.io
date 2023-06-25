@@ -10,7 +10,7 @@ title: Funding for Entrepreneurship
   * Feedback in 4 days
   * Decision in 9 days
 * [Neo](http://neo.com)
-* oshaughnessy
+* [O'Shaughnessy Ventures](https://www.osv.llc/)
 
 #### Funding Securities
 * SAFE Notes
