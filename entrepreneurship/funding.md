@@ -20,7 +20,9 @@ title: Funding for Entrepreneurship
 * [Brief Link](https://brieflink.com/)
 
 #### Advice
-* [Mark Suster (Upfront Ventures) on How to Find the Right VCs For Your Startup](https://www.youtube.com/watch?v=MoLJqxWw6dA)
+* [Brief Link](https://brieflink.com/) [Startup Fundraising Advice](https://brieflink.com/startup-fundraising-advice)
+  * [Mark Suster (Upfront Ventures) on How to Find the Right VCs For Your Startup](https://www.youtube.com/watch?v=MoLJqxWw6dA)
+  * [Gigi Levy-Weiss (NFX) How VCs see Founders' intro emails](https://youtu.be/rJzIwHF1ylQ)
 
 #### Other
 * [Entrepreneurship](/entrepreneurship)
