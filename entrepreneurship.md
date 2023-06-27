@@ -25,6 +25,7 @@ title: Entrepreneurship
   * [12 Tips for Early Customer Development Interviews](https://giffconstable.com/2012/12/12-tips-for-early-customer-development-interviews-revision-3/)
   * [11 Customer Development Anti-Patterns](http://giffconstable.com/2013/06/11-customer-development-anti-patterns/)
 * marc: [Twelve tips for customer development interviews](http://www.dancingmango.com/blog/2012/12/14/twelv-tips-for-customer-development-interviews/)
+* SKMurphy:[40 Tips for B2B Customer Development Interviews](https://www.skmurphy.com/blog/2020/01/30/40-tips-for-b2b-customer-development-interviews/)
 
 #### Talks
 * Aaron Harris: [How to Get Meetings with Investors and Raise Money by Aaron Harris](https://www.youtube.com/watch?v=Jzz4AEIddzY) (2018)
