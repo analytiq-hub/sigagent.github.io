@@ -69,6 +69,9 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 * Brian Heater: [Locus Robotics CEO on the future of warehouse automation](https://techcrunch.com/2023/03/28/locus-robotics-ceo-on-the-future-of-warehouse-automation/) (2023)
 * Brian Heater: [6 River Systems co-founder on the state of warehouse robots](https://techcrunch.com/2023/03/24/6-river-systems-co-founder-on-the-state-of-warehouse-robots/)
 
+#### Grasp
+* [FALL 2021 GRASP on Robotics - Dieter Fox, University of Washington](https://www.youtube.com/watch?v=nOi5qp4BMyg)
+
 
 #### Links
 * [Autonomous Agents](/autonomous_agents)
