@@ -8,10 +8,11 @@ For now, see [machine_learning](/machine_learning) and [self_driving_cars](/self
 * CVPR 2023
   * [Recent Advances in Vision Foundation Models](https://vlp-tutorial.github.io/)
 
-#### Object Detection from Images
+#### From Images
 * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf), J. Redmon et al (2016), [http://pjreddie.com/yolo/](http://pjreddie.com/yolo/), Y Liao et al (2021)
 * Latent Space: [Segment Anything Model and the Hard Problems of Computer Vision — with Joseph Nelson of Roboflow](https://www.latent.space/p/segment-anything-roboflow#details) (2023)
   * Check out the roboflow.com video demo and hands-on demo. SAM makes image annotation as simple as a point-click.
+* A. Takmaz et al: [OpenMask3D: Open-Vocabulary 3D Instance Segmentation](https://huggingface.co/papers/2306.13631) (2023)
 
 #### From Videos
 * [Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition](https://moygcc.github.io/vid2avatar/) (2023)
