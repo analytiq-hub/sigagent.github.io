@@ -129,6 +129,7 @@ def product(x, y):
 #### Blog Posts
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 * [1](https://www.teamblind.com/post/7-onsites-7-offers-aAFTykAD) [2](https://mlengineer.io/facebook-machine-learning-engineer-interview-4-2021-offer-e5-nyc-91615b5c3065)
+* [ByteByteGo Newsletter](https://blog.bytebytego.com/)
 
 #### Other
 * [Algorithms Practice](/engineering_skills/algorithms_practice)
