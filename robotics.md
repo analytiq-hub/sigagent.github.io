@@ -74,6 +74,7 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 
 #### Grasp
 * [FALL 2021 GRASP on Robotics - Dieter Fox, University of Washington](https://www.youtube.com/watch?v=nOi5qp4BMyg)
+* [MIT Robotics - Dieter Fox - Toward Foundational Robot Manipulation Skills](https://www.youtube.com/watch?v=nOi5qp4BMyg) (2022)
 
 
 #### Links
