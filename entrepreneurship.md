@@ -23,6 +23,8 @@ title: Entrepreneurship
 * Rob Fitzpatrick: [The Mom Test](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742) (2013)
 * Giff Constable: [Talking to Humans: Success starts with understanding your customers](https://www.amazon.com/Talking-Humans-Success-understanding-customers/dp/099080092X) (2014)
   * [12 Tips for Early Customer Development Interviews](https://giffconstable.com/2012/12/12-tips-for-early-customer-development-interviews-revision-3/)
+  * [11 Customer Development Anti-Patterns](http://giffconstable.com/2013/06/11-customer-development-anti-patterns/)
+* marc: [Twelve tips for customer development interviews](http://www.dancingmango.com/blog/2012/12/14/twelv-tips-for-customer-development-interviews/)
 
 #### Talks
 * Aaron Harris: [How to Get Meetings with Investors and Raise Money by Aaron Harris](https://www.youtube.com/watch?v=Jzz4AEIddzY) (2018)
