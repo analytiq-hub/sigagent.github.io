@@ -21,6 +21,7 @@ title: Entrepreneurship
 
 #### Customer Discovery and Sales
 * Rob Fitzpatrick: [The Mom Test](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742) (2013)
+* Giff Constable: [Talking to Humans: Success starts with understanding your customers](https://www.amazon.com/Talking-Humans-Success-understanding-customers/dp/099080092X) (2014)
 
 #### Talks
 * Aaron Harris: [How to Get Meetings with Investors and Raise Money by Aaron Harris](https://www.youtube.com/watch?v=Jzz4AEIddzY) (2018)
