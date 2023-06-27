@@ -8,7 +8,7 @@ title: Robotics
 * [Handbook of Discrete and Computational Geometry](https://www.amazon.com/Handbook-Discrete-Computational-Mathematics-Applications/dp/1498711391), 3rd edition, [online version](http://www.csun.edu/~ctoth/Handbook/HDCG3.html), C.D Toth et al (2017). This is a survey of the latest in computational geometry, including collision checking algorithms.
 
 #### Conferences
-* [ICRA](icra2023.org)
+* [ICRA](http://icra2023.org)
 
 #### Courses
 * [Stanford](https://www.youtube.com/user/stanfordonline/playlists)
