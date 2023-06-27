@@ -7,6 +7,9 @@ title: Robotics
 * [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction-dp-1449323898/dp/1449323898/ref=mt_other?_encoding=UTF8&me=&qid=), by Quigley, Gerkey, Smart (2015)
 * [Handbook of Discrete and Computational Geometry](https://www.amazon.com/Handbook-Discrete-Computational-Mathematics-Applications/dp/1498711391), 3rd edition, [online version](http://www.csun.edu/~ctoth/Handbook/HDCG3.html), C.D Toth et al (2017). This is a survey of the latest in computational geometry, including collision checking algorithms.
 
+#### Conferences
+* [ICRA](icra2023.org)
+
 #### Courses
 * [Stanford](https://www.youtube.com/user/stanfordonline/playlists)
   * [AA289 - Robotics and Autonomous Systems Seminar](https://www.youtube.com/playlist?list=PLoROMvodv4rMeercb-kvGLUrOq4HR6BZD)
