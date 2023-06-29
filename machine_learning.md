@@ -48,6 +48,8 @@ title: Machine Learning
 * Berkeley
   * [CS287-FA19](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/): Advanced Robotics (2020), [youtube](https://www.youtube.com/watch?v=xWPViQ6LI-Q&list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF), P. Abbeel
   * [CS294-158-SP20](https://sites.google.com/view/berkeley-cs294-158-sp20/home): Deep Unsuperviser Learning (Spring 2020), [youtube](https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP&index=1) ([Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home))
+* Caltech
+  * Jeremy Bernstein: [Neural Architecture Design](https://1five9.github.io/) (Spring 2021)
 * Cornell
   * Volodymyr Kuleshov: CS 5787: [Applied Machine Learning](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83), [github](https://github.com/kuleshov/cornell-cs5785-2020-applied-ml) (2020)
 * DeepMind: [David Silver: Introduction to Reinforcement Learning](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
