@@ -29,6 +29,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Computer Vision](/computer_vision)
 * [Control Theory](/control_theory)
 * [Crypto Currencies](/crypto_currencies)
+* [Customer Relationship Management](/customer_relationship_management)
 * [Data Centers](/data_centers)
 * [Dev/Ops](/devops)
 * [EBooks](/ebooks)
