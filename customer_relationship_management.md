@@ -10,6 +10,8 @@ title: Customer Relationship Management (CRM)
 * [Hubspot](https://en.wikipedia.org/wiki/HubSpot)
   * [HubSpot acquires Kemvi to bring more AI into its sales and marketing platform](https://techcrunch.com/2017/07/25/hubspot-acquires-kemvi/) (2017)
   * [Why HubSpot is Acquiring The Hustle](https://blog.hubspot.com/marketing/why-hubspot-is-acquiring-the-hustle) (2021)
+* [Pega](https://en.wikipedia.org/wiki/Pegasystems)
+  * [Customer success](https://www.pega.com/customers?f%5B0%5D=solution%3A10236&f%5B1%5D=solution%3A10241&f%5B2%5D=solution%3A10256)
 
 #### Other
 * [Computer Vision](/computer_vision)
