@@ -4,7 +4,8 @@ title: Customer Relationship Management (CRM)
 ---
 
 #### Review
-* [HubSpot Vs. Salesforce](https://www.forbes.com/advisor/business/software/salesforce-vs-hubspot/) (2023 Comparison)
+* [HubSpot vs  Salesforce](https://www.forbes.com/advisor/business/software/salesforce-vs-hubspot/) (2023 Comparison)
+* [Hubspot vs Pipedrive](https://www.hubspot.com/comparisons/pipedrive-vs-hubspot)
 * CIO:
   * [Top 16 business process management tools](https://www.cio.com/article/401356/top-16-business-process-management-tools.html) (2022)
   * [What is business process management? The key to enterprise agility](https://www.cio.com/article/230560/what-is-business-process-management-bpm-the-key-to-enterprise-agility.html)
