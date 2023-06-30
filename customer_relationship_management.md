@@ -7,7 +7,7 @@ title: Customer Relationship Management (CRM)
 * [HubSpot Vs. Salesforce](https://www.forbes.com/advisor/business/software/salesforce-vs-hubspot/) (2023 Comparison)
 
 #### Companies
-* [Hubspot]()
+* [Hubspot](https://en.wikipedia.org/wiki/HubSpot)
   * [HubSpot acquires Kemvi to bring more AI into its sales and marketing platform](https://techcrunch.com/2017/07/25/hubspot-acquires-kemvi/) (2017)
 
 #### Other
