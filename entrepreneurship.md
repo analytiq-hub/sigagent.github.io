@@ -42,6 +42,7 @@ title: Entrepreneurship
   * Ep. 20: [With Sarah Guo and Elad Gil](https://www.youtube.com/watch?v=eTFUcPiodGU)
   * Ep. 21: [With Datadog Co-founder/CEO Olivier Pomel](https://www.youtube.com/watch?v=x0BIJeRyfBE) [Andreis summary](https://twitter.com/bitdribble/status/1670803162922459137)
   * Ep. 22: [With Instacart CEO Fidji Simo](https://www.youtube.com/watch?v=bhlPHBkIEYs)
+  * Ep. 23: [With Snowflake's CEO Frank Slootman](https://www.youtube.com/watch?v=VPY5fVdbPQY)
 * Tomorrow Talk:
   * [Elad Gil on the power of peer groups, investing in 40+ unicorns, AI today, and staying dynamic](https://www.youtube.com/watch?v=ifK3k46_zMI) (2023)
 * Fireside Chat w/ Elad Gil:
