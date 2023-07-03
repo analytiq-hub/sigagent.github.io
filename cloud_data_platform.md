@@ -89,6 +89,12 @@ title: Cloud Data Platform
   * [Databricks vs Snowflake: The Definitive Guide](https://hightouch.io/blog/databricks-vs-snowflake-the-definitive-guide/) (2021)
 * [Terraform](/software_stack/terraform)
 
+#### Data ingestion
+* Fivetran
+* [tray.io](https://tray.io/)
+* Reviews
+  * [Beware of Fivetran and other ELT tools](https://www.reddit.com/r/dataengineering/comments/11xbpjy/beware_of_fivetran_and_other_elt_tools/)
+
 #### Surveys
 * Emerging Architectures for Modern Data Infrastructure:
   * [2020](https://future.a16z.com/emerging-architectures-for-modern-data-infrastructure-2020/)
