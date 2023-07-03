@@ -6,7 +6,7 @@ title: ETL - Extract, Transform, Load
 #### Software Stacks
 * Fivetran
 * [tray.io](https://tray.io/)
-* [Airbyte](https://airbyte.com/), open source
+* [Airbyte](https://airbyte.com/), [github](https://github.com/airbytehq/airbyte)
 * Reviews
   * [Beware of Fivetran and other ELT tools](https://www.reddit.com/r/dataengineering/comments/11xbpjy/beware_of_fivetran_and_other_elt_tools/)
 
