@@ -90,10 +90,7 @@ title: Cloud Data Platform
 * [Terraform](/software_stack/terraform)
 
 #### Data ingestion
-* Fivetran
-* [tray.io](https://tray.io/)
-* Reviews
-  * [Beware of Fivetran and other ELT tools](https://www.reddit.com/r/dataengineering/comments/11xbpjy/beware_of_fivetran_and_other_elt_tools/)
+* See [Extract, Transform, Load](/cloud_data_platforms/extract_transform_load)
 
 #### Surveys
 * Emerging Architectures for Modern Data Infrastructure:
@@ -135,6 +132,7 @@ title: Cloud Data Platform
 #### Other
 * [Cloud Data Platforms](/cloud_data_platforms)
 * [Data Centers](/data_centers)
+* [Extract, Transform, Load](/cloud_data_platforms/extract_transform_load)
 * [Machine Learning](/machine_learning)
 * [Robotics](/robotics)
 * [Self Driving Cars](/self_driving_cars)
