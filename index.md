@@ -37,6 +37,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Engineering Skills](/engineering_skills)
 * [Entrepreneurship](/entrepreneurship)
   * [Funding](/entrepreneurship/funding)
+* [Extract, Transform, Load](/cloud_data_platforms/extract_transform_load)
 * [Film](/film)
 * [Game Theory](/game_theory)
 * [GPUs](/gpus)
