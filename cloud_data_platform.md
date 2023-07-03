@@ -90,7 +90,7 @@ title: Cloud Data Platform
 * [Terraform](/software_stack/terraform)
 
 #### Data ingestion
-* See [Extract, Transform, Load](/cloud_data_platforms/extract_transform_load)
+* See [Extract, Transform, Load](/cloud_data_platform/extract_transform_load)
 
 #### Surveys
 * Emerging Architectures for Modern Data Infrastructure:
@@ -130,9 +130,9 @@ title: Cloud Data Platform
 * [Ali Ghodsi](https://people.eecs.berkeley.edu/~alig/), Berkeley
 
 #### Other
-* [Cloud Data Platforms](/cloud_data_platforms)
+* [Cloud Data Platforms](/cloud_data_platform)
 * [Data Centers](/data_centers)
-* [Extract, Transform, Load](/cloud_data_platforms/extract_transform_load)
+* [Extract, Transform, Load](/cloud_data_platform/extract_transform_load)
 * [Machine Learning](/machine_learning)
 * [Robotics](/robotics)
 * [Self Driving Cars](/self_driving_cars)
