@@ -18,7 +18,7 @@ title: Self Driving Cars
 
 #### Workshops
 * CVPR 2022
-  * [Workshop on Autonomous Driving](https://www.youtube.com/playlist?list=PLvXze1V52Yy3YfsHjqkKTijvYDPOvy9L2) (2022)
+  * [Workshop on Autonomous Driving](https://www.youtube.com/playlist?list=PLvXze1V52Yy3YfsHjqkKTijvYDPOvy9L2) (2022), [youtube playlist](https://www.youtube.com/playlist?list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN)
 * CVPR 2023
   * [End-to-End Autonomous Driving](https://opendrivelab.com/e2ead/cvpr23.html) (2023)
   * [Vision-Centric Autonomous Driving (VCAD)](http://vcad.site/#/) (2023)
