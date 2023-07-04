@@ -6,6 +6,8 @@ title: Orchestrators
 #### Software Stacks
 * Airflow
 * [Dagster](https://dagster.io) [github](https://github.com/dagster-io/dagster)
+  * [Rethinking Orchestration as Reconciliation: Software-Defined Assets in Dagster](https://www.youtube.com/watch?v=-OIIbolV6iA) (2022)
+  * Dagster Crash Course: [Develop data assets in under ten minutes](https://www.youtube.com/watch?v=ZmUjf3gL1VU) (2022)
 * Reviews
   * Sandy Ryza, Nick Schrock: [Dagster vs. Airflow](https://dagster.io/blog/dagster-airflow) (2022)
 
