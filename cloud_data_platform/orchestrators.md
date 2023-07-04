@@ -5,9 +5,9 @@ title: Orchestrators
 ---
 #### Software Stacks
 * Airflow
-* Dagster
+* [Dagster](https://dagster.io) [github](https://github.com/dagster-io/dagster)
 * Reviews
-  * [Beware of Fivetran and other ELT tools](https://www.reddit.com/r/dataengineering/comments/11xbpjy/beware_of_fivetran_and_other_elt_tools/)
+  * Sandy Ryza, Nick Schrock: [Dagster vs. Airflow](https://dagster.io/blog/dagster-airflow) (2022)
 
 #### Other
 * [Cloud Data Platforms](/cloud_data_platforms)
