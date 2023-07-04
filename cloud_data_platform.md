@@ -131,8 +131,9 @@ title: Cloud Data Platform
 
 #### Other
 * [Cloud Data Platforms](/cloud_data_platform)
+  * [Extract, Transform, Load](/cloud_data_platform/extract_transform_load)
+  * [Orchestrators](/cloud_data_platforms/orchestrators)
 * [Data Centers](/data_centers)
-* [Extract, Transform, Load](/cloud_data_platform/extract_transform_load)
 * [Machine Learning](/machine_learning)
 * [Robotics](/robotics)
 * [Self Driving Cars](/self_driving_cars)

@@ -14,6 +14,8 @@ title: ETL - Extract, Transform, Load
 
 #### Other
 * [Cloud Data Platforms](/cloud_data_platforms)
+  * [Extract, Transform, Load](/cloud_data_platform/extract_transform_load)
+  * [Orchestrators](/cloud_data_platforms/orchestrators)
 * [Data Centers](/data_centers)
 * [Machine Learning](/machine_learning)
 * [Robotics](/robotics)
