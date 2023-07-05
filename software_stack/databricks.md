@@ -80,6 +80,7 @@ title: Databricks Software Stack
 
 #### Feature Store
 * [Enable Production ML with Databricks Feature Store](https://www.youtube.com/watch?v=ia5ZxFDPPzo) (2022)
+* Prosenjit Chakraborty: [Databricks Feature Store](https://cprosenjit.medium.com/databricks-feature-store-416bdb253c26) (2021)
 
 #### Computer Vision
 * Claudiu Barbura: [Video Analytics At Scale: DL, CV, ML On Databricks Platform](https://databricks.com/session_na21/video-analytics-at-scale-dl-cv-ml-on-databricks-platform) (2021)
