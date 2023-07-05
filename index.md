@@ -25,6 +25,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Cell Simulations](/biotech/cell_simulations)
 * [Cloud Data Platforms](/cloud_data_platforms)
   * [Extract, Transform, Load](/cloud_data_platform/extract_transform_load)
+  * [Feature Store](/cloud_data_platform/feature_store)
   * [Orchestrators](/cloud_data_platform/orchestrators)
 * [Cognitive Science](/cognitive_science)
 * [Computation Theory](/computation_theory)
