@@ -43,6 +43,8 @@ title: Entrepreneurship
   * Ep. 21: [With Datadog Co-founder/CEO Olivier Pomel](https://www.youtube.com/watch?v=x0BIJeRyfBE) [Andreis summary](https://twitter.com/bitdribble/status/1670803162922459137)
   * Ep. 22: [With Instacart CEO Fidji Simo](https://www.youtube.com/watch?v=bhlPHBkIEYs)
   * Ep. 23: [With Snowflake's CEO Frank Slootman](https://www.youtube.com/watch?v=VPY5fVdbPQY)
+* [This Week in Startups](https://www.youtube.com/@startups)
+  * E1362: [Snowflake CEO Frank Slootman: taking ownership, increasing velocity & cultivating talent](https://www.youtube.com/watch?v=UsscSJf2GJg)
 * Tomorrow Talk:
   * [Elad Gil on the power of peer groups, investing in 40+ unicorns, AI today, and staying dynamic](https://www.youtube.com/watch?v=ifK3k46_zMI) (2023)
 * Fireside Chat w/ Elad Gil:
