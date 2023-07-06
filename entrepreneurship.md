@@ -111,6 +111,9 @@ title: Entrepreneurship
 * The Boston Business Jounal’s startup news – though the Globe has occasional startups coverage (and Scott Kirsner’s always-excellent column), for my money the BBJ is the most consistent, best quality Boston startup reporting currently available.
 * Coworking spaces: [CIC](https://cic.com/), [VentureLane](https://theventurelane.com/), and [WorkBar](https://www.workbar.com/)
 
+#### Other
+* Stanford [eCorner](https://ecorner.stanford.edu/)
+
 #### Meetup Calendars
 * [Startup Boston](https://www.startupbos.org): [Calendar](https://www.startupbos.org/events)
 
