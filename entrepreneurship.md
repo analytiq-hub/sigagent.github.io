@@ -41,9 +41,9 @@ title: Entrepreneurship
   * [Reid Hoffman - AI, Big Tech, & Startups](https://www.youtube.com/watch?v=6QySKWkYlPc) (2023)
 * TechCrunch
   * [5 investors discuss Boston’s resilient tech ecosystem](https://techcrunch.com/2023/02/27/5-investors-discuss-why-bostons-tech-ecosystem-is-as-resilient-as-they-come/) (Feb 2023)
-
-#### Networking
-* [The Blueprint Part 3: Jason explains how to build and supercharge your network](https://www.youtube.com/watch?v=aYbogrgHFXg&t=955s)
+* Jason Calacanis: 
+  * [The Blueprint E 1: Branding yourself](https://youtu.be/7BHdaE9sDtA?t=94) 
+  * [The Blueprint E 3: How to build and supercharge your network](https://www.youtube.com/watch?v=aYbogrgHFXg&t=955s)
 
 #### Funding
 * See [Funding for Entrepreneurship](/entrepreneurship/funding)
