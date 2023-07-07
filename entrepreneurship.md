@@ -19,16 +19,6 @@ title: Entrepreneurship
 * Elad Gil: [High Growth Handbook: Scaling Startups from 10 to 10,000 People](https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100/) (2018)
 * Charles Duhigg: [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) (2014)
 
-#### Customer Discovery and Sales
-* Rob Fitzpatrick: [The Mom Test](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742) (2013)
-* Giff Constable: [Talking to Humans: Success starts with understanding your customers](https://www.amazon.com/Talking-Humans-Success-understanding-customers/dp/099080092X) (2014)
-  * [12 Tips for Early Customer Development Interviews](https://giffconstable.com/2012/12/12-tips-for-early-customer-development-interviews-revision-3/)
-  * [11 Customer Development Anti-Patterns](http://giffconstable.com/2013/06/11-customer-development-anti-patterns/)
-* marc: [Twelve tips for customer development interviews](http://www.dancingmango.com/blog/2012/12/14/twelv-tips-for-customer-development-interviews/)
-* [Sean Murphy](skmurphy.com)
-  * [40 Tips for B2B Customer Development Interviews](https://www.skmurphy.com/blog/2020/01/30/40-tips-for-b2b-customer-development-interviews/)
-  * [Landing Your First Ten Customers](https://www.skmurphy.com/blog/2021/02/12/landing-your-first-ten-customers-videos-slides-and-other-resources/), [slides](https://www.skmurphy.com/wp-content/uploads/2021/02/SKMFirst10CustomersLeanCulture210211.pdf)
-
 #### Talks
 * Aaron Harris: [How to Get Meetings with Investors and Raise Money by Aaron Harris](https://www.youtube.com/watch?v=Jzz4AEIddzY) (2018)
 * Blitzscaling 08: [Eric Schmidt on Structuring Teams and Scaling Google](https://www.youtube.com/watch?v=hcRxFRgNpns) (2015)
@@ -51,6 +41,9 @@ title: Entrepreneurship
   * [Reid Hoffman - AI, Big Tech, & Startups](https://www.youtube.com/watch?v=6QySKWkYlPc) (2023)
 * TechCrunch
   * [5 investors discuss Boston’s resilient tech ecosystem](https://techcrunch.com/2023/02/27/5-investors-discuss-why-bostons-tech-ecosystem-is-as-resilient-as-they-come/) (Feb 2023)
+
+#### Networking
+* [The Blueprint Part 3: Jason explains how to build and supercharge your network](https://www.youtube.com/watch?v=aYbogrgHFXg&t=955s)
 
 #### Funding
 * See [Funding for Entrepreneurship](/entrepreneurship/funding)
