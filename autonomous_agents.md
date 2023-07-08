@@ -11,7 +11,6 @@ title: Autonomous Agents
 #### Courses
 * Old Duke U. class on [Agent Architecture](https://users.cs.duke.edu/~brd/Teaching/Previous/AI/Lectures/Summaries/architectures.html) (table of contents only)
 
-
 #### Posts
 * Swyx
   * [The Anatomy of Autonomy: Why Agents are the next AI Killer App after ChatGPT](https://www.latent.space/p/agents) (2023)
