@@ -7,7 +7,7 @@ categories: machine_learning airbyte dagster langchain python
 Source: [Implement AI data pipelines with Langchain, Airbyte, and Dagster](https://airbyte.com/tutorials/implement-ai-data-pipelines-with-langchain-airbyte-and-dagster)
 
 Tested on Ubuntu 18.04:
-* Install docker
+* Install docker and docker-compose
 * Install Airbyte
     ```bash
     mkdir ~/build
@@ -17,6 +17,7 @@ Tested on Ubuntu 18.04:
     ./run-ab-platform.sh 
     ```
 * Once you see an Airbyte banner, the UI is ready to go at [http://localhost:8000](http://localhost:8000)! You will be asked for a username and password. By default, that's username airbyte and password password. Once you deploy airbyte to your servers, be sure to change these in your `.env` file.
+* Select a `Salesforce` source, or `Sample Data (Faker)` source if Salesforce is not available
 * Create the build folder:
     ```bash
     mkdir ~/build/airbyte-dagster-langchain
@@ -33,5 +34,10 @@ Tested on Ubuntu 18.04:
     mkdir -p ~/build/airbyte-dagster-langchain
     cd ~/build/airbyte-dagster-langchain
     ```
-TO DO: continue
+* Install python dependencies with `pipenv`. Drop to a pipenv shell.
+
+    ```bash
+    pipenv install openai faiss-cpu requests beautifulsoup4 tiktoken dagster_managed_elements langchain[all] dagster dagster-airbyte dagit
+    pipenv shell
+    ```
 
