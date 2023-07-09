@@ -17,6 +17,7 @@ title: Sales for Entrepreneurship
   * [Landing Your First Ten Customers](https://www.skmurphy.com/blog/2021/02/12/landing-your-first-ten-customers-videos-slides-and-other-resources/), [slides](https://www.skmurphy.com/wp-content/uploads/2021/02/SKMFirst10CustomersLeanCulture210211.pdf)
 * [Crowdlinker](https://www.youtube.com/@Crowdlinker): [How we build successful MVP’s for our client](https://www.youtube.com/watch?v=SlRG_o-kx9Q) (2022), with Aram Melkoumov and Fiona Haller
 * Alberto Savoia: [Why Products Fail & How To Make Yours Succeed](https://www.youtube.com/watch?v=UnKqhHU0h7Y) (2019)
+  * Alberto Savoia: [The Right It: Why So Many Ideas Fail and How to Make Sure Yours Succeed](https://www.amazon.com/Right-Many-Ideas-Yours-Succeed-ebook/dp/B07CKRYYZK) (2019)
 
 #### Other
 * [Entrepreneurship](/entrepreneurship)
