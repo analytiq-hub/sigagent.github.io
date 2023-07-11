@@ -46,6 +46,10 @@ Tested on Ubuntu 20.04:
         password="password",    
       )
       ```
-* `export OPENAI_API_KEY=XXX`
-* `dagster dev -f ingest.py`
+* Set up Dagster
+    ```shell
+    export OPENAI_API_KEY=XXX
+    export DAGSTER_HOME=~/build/airbyte-dagster-langchain/dagster_home
+    if [ ! -d $DAGSTER_HOME ]; then mkdir -p $DAGSTER_HOME ]; fi
+* Start Dagster: `dagster dev -f ingest.py`
 
