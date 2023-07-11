@@ -32,4 +32,5 @@ Tested on Ubuntu 18.04:
     pip install openai faiss-cpu requests beautifulsoup4 tiktoken dagster_managed_elements langchain dagster dagster-airbyte dagit
     ```
 * Edit the `airbyte_loader` to point it to one of the configured `/tmp/airbyte_local/_airbyte_raw_{stream_name}.jsonl` files
+* run `dagster dev -f ingest.py`
 
