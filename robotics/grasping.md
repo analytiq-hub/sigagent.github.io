@@ -19,5 +19,5 @@ title: Robotics - Grasping
 * [Probabilities and Statistics](/probabilities_and_statistics)
 * [Reinforcement Learning](/reinforcement_learning)
 * [Robotics](/robotics)
-  * [Grasp](/robotics/grasp)
+  * [Grasp](/robotics/grasping)
 * [Self Driving Cars](/self_driving_cars)

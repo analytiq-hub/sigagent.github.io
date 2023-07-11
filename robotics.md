@@ -73,7 +73,7 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 * Brian Heater: [6 River Systems co-founder on the state of warehouse robots](https://techcrunch.com/2023/03/24/6-river-systems-co-founder-on-the-state-of-warehouse-robots/)
 
 #### Grasp
-See [Grasp](/robotics/grasp)
+See [Grasp](/robotics/grasping)
 
 #### Links
 * [Autonomous Agents](/autonomous_agents)
