@@ -43,5 +43,6 @@ Tested on Ubuntu 18.04:
         password="password",    
       )
       ```
-* run `dagster dev -f ingest.py`
+* `export OPENAI_API_KEY=XXX`
+* `dagster dev -f ingest.py`
 
