@@ -32,6 +32,16 @@ Tested on Ubuntu 18.04:
     . ~/.venv/langchain/bin/activate
     pip install openai faiss-cpu requests beautifulsoup4 tiktoken dagster_managed_elements langchain dagster dagster-airbyte dagit
     ```
+* Download https://github.com/airbytehq/dagster-langchain/blob/main/ingest.py
 * Edit the `airbyte_loader` to point it to one of the configured `/tmp/airbyte_local/_airbyte_raw_{stream_name}.jsonl` files
+* Add the user and password here:
+      ```python
+      airbyte_instance = AirbyteResource(
+        host="localhost",
+        port="8000",
+        username="airbyte",
+        password="password",    
+      )
+      ```
 * run `dagster dev -f ingest.py`
 
