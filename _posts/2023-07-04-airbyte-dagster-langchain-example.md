@@ -51,5 +51,10 @@ Tested on Ubuntu 20.04:
     export OPENAI_API_KEY=XXX
     export DAGSTER_HOME=~/build/airbyte-dagster-langchain/dagster_home
     if [ ! -d $DAGSTER_HOME ]; then mkdir -p $DAGSTER_HOME ]; fi
-* Start Dagster: `dagster dev -f ingest.py`
+    touch ${DAGSTER_HOME}/dagster.yaml
+    ```
+* Start Dagster:
+    ```shell
+    dagster dev -f ingest.py
+    ```
 
