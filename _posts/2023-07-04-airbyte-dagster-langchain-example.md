@@ -9,9 +9,9 @@ Sources:
 * [LLM training pipelines with Langchain, Airbyte, and Dagster](https://dagster.io/blog/training-llms)
 * [Using Airbyte with Dagster](https://docs.dagster.io/integrations/airbyte)
 
-Tested on Ubuntu 18.04:
+Tested on Ubuntu 20.04:
 * Install docker and docker-compose
-* Install Airbyte
+* Install and start Airbyte
     ```bash
     mkdir ~/build
     cd ~/build
@@ -19,8 +19,11 @@ Tested on Ubuntu 18.04:
     cd airbyte
     ./run-ab-platform.sh 
     ```
-* Once you see an Airbyte banner, the UI is ready to go at [http://localhost:8000](http://localhost:8000)! You will be asked for a username and password. By default, that's username airbyte and password password. Once you deploy airbyte to your servers, be sure to change these in your `.env` file.
-* Configure Airbyte to connect `Sample Data` source to `Local JSON` destination. Pick `test` as destination path. This will result in three output files `/tmp/airbyte_local/_airbyte_raw_{stream_name}.jsonl`.
+* Once you see an Airbyte banner, the UI is ready to go at [http://localhost:8000](http://localhost:8000).
+  * You will be asked for a username and password. By default, that's username `airbyte` and password `password`.
+  * Once you deploy airbyte to your servers, be sure to change these in your `.env` file.
+  * Configure Airbyte to connect `Sample Data` source to `Local JSON` destination.
+  * Pick `test` as destination path. This will result in three output files `/tmp/airbyte_local/_airbyte_raw_{stream_name}.jsonl`.
 * Create the build folder:
     ```bash
     mkdir ~/build/airbyte-dagster-langchain
