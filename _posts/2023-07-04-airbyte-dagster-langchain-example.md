@@ -27,6 +27,6 @@ Tested on Ubuntu 18.04:
     ```bash
     python3 -m venv ~/.venv/langchain
     . ~/.venv/langchain/bin/activate
-    pip install openai faiss-cpu requests beautifulsoup4 tiktoken dagster_managed_elements langchain[all] dagster dagster-airbyte dagit
+    pip install openai faiss-cpu requests beautifulsoup4 tiktoken dagster_managed_elements langchain dagster dagster-airbyte dagit
     ```
 
