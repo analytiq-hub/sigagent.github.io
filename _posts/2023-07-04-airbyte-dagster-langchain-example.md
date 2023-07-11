@@ -7,6 +7,7 @@ categories: machine_learning airbyte dagster langchain python
 Sources:
 * [Implement AI data pipelines with Langchain, Airbyte, and Dagster](https://airbyte.com/tutorials/implement-ai-data-pipelines-with-langchain-airbyte-and-dagster)
 * [LLM training pipelines with Langchain, Airbyte, and Dagster](https://dagster.io/blog/training-llms)
+* [Using Airbyte with Dagster](https://docs.dagster.io/integrations/airbyte)
 
 Tested on Ubuntu 18.04:
 * Install docker and docker-compose
