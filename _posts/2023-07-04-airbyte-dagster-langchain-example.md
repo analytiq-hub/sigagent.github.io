@@ -23,21 +23,10 @@ Tested on Ubuntu 18.04:
     mkdir ~/build/airbyte-dagster-langchain
     cd ~/build/airbyte-dagster-langchain
     ```
-* Set up `pipenv`, and enter the virtual environment:
+* Set up `venv`, and enter the virtual environment:
     ```bash
-    pipenv install dagster dagit pandas scikit-learn
-    pipenv shell
-    ```
-* Create a build directory:
-
-    ```bash
-    mkdir -p ~/build/airbyte-dagster-langchain
-    cd ~/build/airbyte-dagster-langchain
-    ```
-* Install python dependencies with `pipenv`. Drop to a pipenv shell.
-
-    ```bash
-    pipenv install openai faiss-cpu requests beautifulsoup4 tiktoken dagster_managed_elements langchain[all] dagster dagster-airbyte dagit
-    pipenv shell
+    python3 -m venv ~/.venv/langchain
+    . ~/.venv/langchain/bin/activate
+    pip install openai faiss-cpu requests beautifulsoup4 tiktoken dagster_managed_elements langchain[all] dagster dagster-airbyte dagit
     ```
 
