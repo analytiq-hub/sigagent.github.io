@@ -19,7 +19,7 @@ Tested on Ubuntu 18.04:
     ./run-ab-platform.sh 
     ```
 * Once you see an Airbyte banner, the UI is ready to go at [http://localhost:8000](http://localhost:8000)! You will be asked for a username and password. By default, that's username airbyte and password password. Once you deploy airbyte to your servers, be sure to change these in your `.env` file.
-* Select a `Salesforce` source, or `Sample Data (Faker)` source if Salesforce is not available
+* Configure Airbyte to connect `Sample Data` source to `Local JSON` destination. Pick `test` as destination path. This will result in three output files `/tmp/airbyte_local/_airbyte_raw_{stream_name}.jsonl`.
 * Create the build folder:
     ```bash
     mkdir ~/build/airbyte-dagster-langchain
@@ -31,4 +31,5 @@ Tested on Ubuntu 18.04:
     . ~/.venv/langchain/bin/activate
     pip install openai faiss-cpu requests beautifulsoup4 tiktoken dagster_managed_elements langchain dagster dagster-airbyte dagit
     ```
+* Edit the `airbyte_loader` to point it to one of the configured `/tmp/airbyte_local/_airbyte_raw_{stream_name}.jsonl` files
 
