@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Robotics - Grasp
+title: Robotics - Grasping
 ---
 
-#### Grasp
+#### Grasping
 * [FALL 2021 GRASP on Robotics - Dieter Fox, University of Washington](https://www.youtube.com/watch?v=nOi5qp4BMyg)
 * [MIT Robotics - Dieter Fox - Toward Foundational Robot Manipulation Skills](https://www.youtube.com/watch?v=nOi5qp4BMyg) (2022)
+
+#### Surveys
+* H. ZHang el al: [Robotic Grasping from Classical to Modern: A Survey](https://arxiv.org/pdf/2202.03631.pdf) (2022)
 
 
 #### Links
