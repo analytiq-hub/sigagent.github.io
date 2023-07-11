@@ -73,9 +73,7 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 * Brian Heater: [6 River Systems co-founder on the state of warehouse robots](https://techcrunch.com/2023/03/24/6-river-systems-co-founder-on-the-state-of-warehouse-robots/)
 
 #### Grasp
-* [FALL 2021 GRASP on Robotics - Dieter Fox, University of Washington](https://www.youtube.com/watch?v=nOi5qp4BMyg)
-* [MIT Robotics - Dieter Fox - Toward Foundational Robot Manipulation Skills](https://www.youtube.com/watch?v=nOi5qp4BMyg) (2022)
-
+See [Grasp](/robotics/grasp)
 
 #### Links
 * [Autonomous Agents](/autonomous_agents)
@@ -85,4 +83,5 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 * [Probabilities and Statistics](/probabilities_and_statistics)
 * [Reinforcement Learning](/reinforcement_learning)
 * [Robotics](/robotics)
+  * [Grasp](/robotics/grasp)
 * [Self Driving Cars](/self_driving_cars)

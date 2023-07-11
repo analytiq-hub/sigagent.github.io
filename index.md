@@ -92,6 +92,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Reinforcement Learning](/reinforcement_learning)
 * [Religion](/religion)
 * [Robotics](/robotics)
+  * [Grasp](/robotics/grasp)
 * [Romania](/romania)
   * [Environment in Romania](/romania/environment)
 * [Self Driving Cars](/self_driving_cars)
