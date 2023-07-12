@@ -37,6 +37,9 @@ title: Databricks Software Stack
 * [ML Solutions Accelerators](https://www.databricks.com/solutions/accelerators)
 * N. Karpov: [Introducing Support for Delta Lake Tables in AWS Lambda](https://delta.io/blog/2023-04-06-deltalake-aws-lambda-wrangler-pandas/) (2023)
 
+#### Delta Tables
+* V. Teixeira: [Delta Lake: Keeping It Fast and Clean](https://towardsdatascience.com/delta-lake-keeping-it-fast-and-clean-3c9d4f9e2f5e) (2023)
+
 #### Containers
 * Conde Nast: [Bring Your Own Container: Using Docker Images In Production](https://www.databricks.com/session_na21/bring-your-own-container-using-docker-images-in-production) (2021)
 * Docs
