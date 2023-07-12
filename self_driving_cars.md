@@ -23,6 +23,7 @@ title: Self Driving Cars
   * [End-to-End Autonomous Driving](https://opendrivelab.com/e2ead/cvpr23.html) (2023), [youtube playlist](https://www.youtube.com/playlist?list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN)
   * [Vision-Centric Autonomous Driving (VCAD)](http://vcad.site/#/) (2023)
   * [Workshop on Autonomous Driving](https://cvpr2023.wad.vision/) (2023)
+    * [Argoverse Competitions](https://www.youtube.com/watch?v=X8HWCuQ7Hj0&list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN&index=4)
   * [End-to-End Autonomous Driving: Perception, Prediction, Planning and Simulation](https://e2ead.github.io/2023.html) (2023)
 
 #### Survey Papers
