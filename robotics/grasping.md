@@ -4,11 +4,15 @@ title: Robotics - Grasping
 ---
 
 #### Grasping
+* [MIT Robotics - Ken Goldberg - The New Wave in Robot Grasping ](https://www.youtube.com/watch?v=ATDrSWZXuwk) (2020)
 * [FALL 2021 GRASP on Robotics - Dieter Fox, University of Washington](https://www.youtube.com/watch?v=nOi5qp4BMyg)
-* [MIT Robotics - Dieter Fox - Toward Foundational Robot Manipulation Skills](https://www.youtube.com/watch?v=1EFZ--nbKog) (2022)
+* [MIT Robotics - Dieter Fox - Toward Foundational Robot Manipulation Skills](https://www.youtube.com/watch?v=1EFZ--nbKog) (2023)
 
 #### Surveys
 * H. Zhang el al: [Robotic Grasping from Classical to Modern: A Survey](https://arxiv.org/pdf/2202.03631.pdf) (2022)
+
+#### Workshops
+* [Perception and Manipulation Challenges for Warehouse Automation](http://armbench.s3.amazonaws.com/rss23.html) (2023)
 
 
 #### Links
