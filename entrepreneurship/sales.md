@@ -19,6 +19,7 @@ title: Sales for Entrepreneurship
 * Alberto Savoia: [Why Products Fail & How To Make Yours Succeed](https://www.youtube.com/watch?v=UnKqhHU0h7Y) (2019)
   * Alberto Savoia: [The Right It: Why So Many Ideas Fail and How to Make Sure Yours Succeed](https://www.amazon.com/Right-Many-Ideas-Yours-Succeed-ebook/dp/B07CKRYYZK) (2019)
 * [How to reach the CTOs, CIOs and Heads of Innovation in major retailers?](https://www.linkedin.com/pulse/how-reach-ctos-cios-heads-innovation-major-retailers-martin-zeman/)
+* [20 of the biggest influencers on US CIOs](https://www.linkedin.com/pulse/20-biggest-influencers-us-cios-richard-laven/)
 
 #### Other
 * [Entrepreneurship](/entrepreneurship)
