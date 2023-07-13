@@ -10,6 +10,9 @@ title: Airbyte
   * [Getting started w/ Airbyte](https://www.restack.io/docs/airbyte-kahan-getting-started)
   * [Fivetran vs Airbyte](https://www.restack.io/docs/fivetran-vs-airbyte)
 
+#### Talks
+* [How To Deploy Airbyte on Kubernetes Within Your Browser using Plural](https://www.youtube.com/watch?v=ydLv8B8gB2k) (2022)
+
 #### Posts
 * [Airbyte, Dagster, Langchain Example](/_posts/2023-07-04-airbyte-dagster-langchain-example)
 
