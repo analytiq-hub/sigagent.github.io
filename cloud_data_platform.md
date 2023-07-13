@@ -5,21 +5,21 @@ title: Cloud Data Platform
 ---
 #### Software Stacks
 * [BDAS, the Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/)
-* [Databricks](/software_stack/databricks)
-* [Docker](/software_stack/docker)
-* [AWS](/software_stack/amazon_web_services)
+* [Databricks](/software_stacks/databricks)
+* [Docker](/software_stacks/docker)
+* [AWS](/software_stacks/amazon_web_services)
 * [dvc](https://dvc.org/) (Data Version Control)
-* [Google](/software_stack/google)
-* [Lyft](/software_stack/lydt)
+* [Google](/software_stacks/google)
+* [Lyft](/software_stacks/lydt)
 * [Neptune.ai](https://neptune.ai/)
-* [Onehouse](/software_stack/onehouse)
-* [OpenAI](/software_stack/openai)
+* [Onehouse](/software_stacks/onehouse)
+* [OpenAI](/software_stacks/openai)
 * [Jupyterhub](https://jupyterhub.readthedocs.io)
   * Amazon EMR
     * [Create a cluster with JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub-launch.html)
-* [Facebook](/software_stack/facebook)
-* [Ray](/software_stack/ray)
-* [Uber](/software_stack/uber)
+* [Facebook](/software_stacks/facebook)
+* [Ray](/software_stacks/ray)
+* [Uber](/software_stacks/uber)
   
 
 #### Tutorials
@@ -87,7 +87,7 @@ title: Cloud Data Platform
   * [Large-Scale Machine Learning with Snowflake and RAPIDS](https://medium.com/snowflake/large-scale-machine-learning-with-snowflake-and-rapids-7796b5e979aa), by M. Adkins et al (2022)
   * [Databricks vs Snowflake: 9 Critical Differences](https://hevodata.com/learn/databricks-vs-snowflake/), A. Phaujdar (2021)
   * [Databricks vs Snowflake: The Definitive Guide](https://hightouch.io/blog/databricks-vs-snowflake-the-definitive-guide/) (2021)
-* [Terraform](/software_stack/terraform)
+* [Terraform](/software_stacks/terraform)
 
 #### Data ingestion
 * See [Extract, Transform, Load](/cloud_data_platform/extract_transform_load)
