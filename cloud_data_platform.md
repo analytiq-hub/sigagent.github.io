@@ -4,6 +4,7 @@ mathjax: true
 title: Cloud Data Platform
 ---
 #### Software Stacks
+* [Airbyte](/software_stacks/airbyte)
 * [BDAS, the Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/)
 * [Databricks](/software_stacks/databricks)
 * [Docker](/software_stacks/docker)
