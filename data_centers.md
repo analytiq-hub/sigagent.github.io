@@ -17,7 +17,7 @@ title: Data Centers
     * Good for customers that have regulations around data privacy
 
 #### Other
-* [Cloud Data Platforms](/cloud_data_platforms)
+* [Cloud Data Platforms](/cloud_data_platform)
 * [Data Centers](/data_centers)
 * [Machine Learning](/machine_learning)
 * [Robotics](/robotics)

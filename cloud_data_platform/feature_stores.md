@@ -17,7 +17,7 @@ title: Feature Stores
   * Lak Lakshmanan: [Do You Really Need a Feature Store?](https://towardsdatascience.com/do-you-really-need-a-feature-store-e59e3cc666d3) (2022)
 
 #### Other
-* [Cloud Data Platforms](/cloud_data_platforms)
+* [Cloud Data Platforms](/cloud_data_platform)
   * [Extract, Transform, Load](/cloud_data_platform/extract_transform_load)
   * [Feature Store](/cloud_data_platform/feature_store)
   * [Orchestrators](/cloud_data_platform/orchestrators)

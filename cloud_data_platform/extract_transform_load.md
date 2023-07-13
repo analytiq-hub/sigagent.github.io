@@ -13,7 +13,7 @@ title: ETL - Extract, Transform, Load
   * [Beware of Fivetran and other ELT tools](https://www.reddit.com/r/dataengineering/comments/11xbpjy/beware_of_fivetran_and_other_elt_tools/)
 
 #### Other
-* [Cloud Data Platforms](/cloud_data_platforms)
+* [Cloud Data Platforms](/cloud_data_platform)
   * [Extract, Transform, Load](/cloud_data_platform/extract_transform_load)
   * [Feature Store](/cloud_data_platform/feature_store)
   * [Orchestrators](/cloud_data_platform/orchestrators)

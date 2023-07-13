@@ -23,7 +23,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Autonomous Agents](/autonomous_agents)
 * [Biotech](/biotech)
   * [Cell Simulations](/biotech/cell_simulations)
-* [Cloud Data Platforms](/cloud_data_platforms)
+* [Cloud Data Platforms](/cloud_data_platform)
   * [Extract, Transform, Load](/cloud_data_platform/extract_transform_load)
   * [Feature Store](/cloud_data_platform/feature_store)
   * [Orchestrators](/cloud_data_platform/orchestrators)
