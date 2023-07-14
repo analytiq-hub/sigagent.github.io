@@ -63,3 +63,8 @@ Steps
     kubectl exec -it app -- cat /data/out.txt
     kubectl delete -f manifests/
     ```
+* Create a namespace, and install Airbyte:
+    ```bash
+    kubectl create namespace airbyte
+    helm install airbyte airbyte/airbyte --version 0.45.50 --namespace airbyte --debug
+    ```
