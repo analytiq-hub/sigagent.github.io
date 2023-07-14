@@ -28,4 +28,10 @@ Steps
     * `curl eks-sample-linux-service; cat /etc/resolv.conf`
   * `kubectl delete namespace eks-sample-app`
 * [Creating an IAM OIDC provider for your cluster](https://docs.aws.amazon.com/eks/latest/userguide/enable-iam-roles-for-service-accounts.html)
-  * 
+    ```bash
+    export cluster_name=airbyte
+    oidc_id=$(aws eks describe-cluster --name $cluster_name --query "cluster.identity.oidc.issuer" --output text | cut -d '/' -f 5)
+    aws iam list-open-id-connect-providers | grep $oidc_id | cut -d "/" -f4
+    # If empty, oidc provider is not set
+    eksctl utils associate-iam-oidc-provider --cluster $cluster_name --approve
+    ```
