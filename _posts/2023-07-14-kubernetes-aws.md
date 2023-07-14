@@ -34,4 +34,18 @@ Steps
     aws iam list-open-id-connect-providers | grep $oidc_id | cut -d "/" -f4
     # If empty, oidc provider is not set
     eksctl utils associate-iam-oidc-provider --cluster $cluster_name --approve
+    # Now, you can list it with the prev command
+    ```
+* [Creating the Amazon EBS CSI driver IAM role](https://docs.aws.amazon.com/eks/latest/userguide/csi-iam-role.html)
+    ```bash
+    eksctl create iamserviceaccount \
+    --name ebs-csi-controller-sa \
+    --namespace kube-system \
+    --cluster airbyte \
+    --role-name AmazonEKS_EBS_CSI_DriverRole_airbyte \
+    --role-only \
+    --attach-policy-arn arn:aws:iam::aws:policy/service-role/AmazonEBSCSIDriverPolicy \
+    --approve
+
+    eksctl create addon --name aws-ebs-csi-driver --cluster airbyte --service-account-role-arn arn:aws:iam::694782716000:role/AmazonEKS_EBS_CSI_DriverRole_airbyte --force
     ```
