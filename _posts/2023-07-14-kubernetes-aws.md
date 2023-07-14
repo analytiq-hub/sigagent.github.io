@@ -49,3 +49,17 @@ Steps
 
     eksctl create addon --name aws-ebs-csi-driver --cluster airbyte --service-account-role-arn arn:aws:iam::694782716000:role/AmazonEKS_EBS_CSI_DriverRole_airbyte --force
     ```
+* [Deploy a sample application and verify that the CSI driver is working](https://docs.aws.amazon.com/eks/latest/userguide/ebs-sample-app.html)
+    ```bash
+    git clone https://github.com/kubernetes-sigs/aws-ebs-csi-driver.git
+    cd aws-ebs-csi-driver/examples/kubernetes/dynamic-provisioning/
+    echo "parameters:
+      type: gp3" >> manifests/storageclass.yaml
+    kubectl apply -f manifests/
+    kubectl get pods --watch
+    # Wait for app pod to be running
+    kubectl get pv
+    kubectl describe pv pvc-xxx
+    kubectl exec -it app -- cat /data/out.txt
+    kubectl delete -f manifests/
+    ```
