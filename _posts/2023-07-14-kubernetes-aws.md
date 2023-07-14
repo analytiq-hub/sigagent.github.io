@@ -63,8 +63,17 @@ Steps
     kubectl exec -it app -- cat /data/out.txt
     kubectl delete -f manifests/
     ```
+
+# Installing Airbyte on AWS Kubernetes
 * Create a namespace, and install Airbyte:
     ```bash
     kubectl create namespace airbyte
     helm install airbyte airbyte/airbyte --version 0.45.50 --namespace airbyte --debug
+    ```
+* Get the application URL by running these commands:
+    ```bash
+    export POD_NAME=$(kubectl get pods --namespace airbyte -l "app.kubernetes.io/name=webapp" -o jsonpath="{.items[0].metadata.name}")
+    export CONTAINER_PORT=$(kubectl get pod --namespace airbyte $POD_NAME -o jsonpath="{.spec.containers[0].ports[0].containerPort}")
+    echo "Visit http://127.0.0.1:8080 to use your application"
+    kubectl --namespace airbyte port-forward $POD_NAME 8080:$CONTAINER_PORT
     ```
