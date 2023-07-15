@@ -57,6 +57,7 @@ Notes about Lexington
 - Commercial Tax Base
 - Need for new high school - $300M
   - MSBA process, expecting 25% reimbursement
+  - [presentation](https://docs.google.com/presentation/d/19Wg0jXOncrMtpMcdRO0xeoXf8FvRqG3mt8plmRpiDng/edit#slide=id.g20c5365d8cf_5_14)
 - Police station construction - $35.2M, over initial estimate $25.4M, very large, solar canopy additional $3.4M
   - https://lexobserver.org/2023/01/20/town-holds-ceremonial-groundbreaking-to-celebrate-ongoing-construction-of-new-police-station/
   - $171/yr tax increase for average single family home
