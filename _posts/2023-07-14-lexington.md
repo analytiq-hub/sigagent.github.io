@@ -50,7 +50,7 @@ Notes about Lexington
 - Cary Library
 - Cary Memorial Building - shows, symphony
 - Summer - band plays
-- Fairs
+- Street fairs, biannualy
 - July 4th Lyons Club Carnival
 
 #### Budget
