@@ -54,9 +54,13 @@ Notes about Lexington
 - July 4th Lyons Club Carnival
 
 #### Budget
-- Two finance committees
-- Budget Summit process
-- Voted by Town Meeting
+- Municipal
+  - Two finance committees
+  - Budget Summit process
+  - Voted by Town Meeting
+- Schools
+  - Voted in toto by Town Meeting
+  - Allocated by School Commitee (except capital expenses)
 
 #### Issues
 - Representation
