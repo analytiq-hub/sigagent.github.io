@@ -53,6 +53,10 @@ Notes about Lexington
 - Fairs
 - July 4th Lyons Club Carnival
 
+#### Budget
+- Two finance committees
+- Budget Summit process
+- Voted by Town Meeting
 
 #### Issues
 - Representation
