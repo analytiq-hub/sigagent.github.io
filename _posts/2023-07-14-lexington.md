@@ -13,6 +13,7 @@ Notes about Lexington
 - Town Meeting member about 10 years
 - Ran candidate questionnaire, 2014-2018
 - Maintainer, lex-wiki.org
+- Learning experience moving to Massachusetts from East Europe country
 
 #### Boards and Committes
 - Select Board, 5 members
