@@ -7,6 +7,7 @@ categories: python
 Notes about Lexington
 
 #### Andrei's Resume
+- Engineer, self driving; Mathematician
 - Candidate for School Committee circa 2005
 - Appropriation Committee member for about 3 years
 - Town Meeting member about 10 years
