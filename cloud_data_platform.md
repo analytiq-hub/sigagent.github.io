@@ -11,6 +11,7 @@ title: Cloud Data Platform
 * [AWS](/software_stacks/amazon_web_services)
 * [dvc](https://dvc.org/) (Data Version Control)
 * [Google](/software_stacks/google)
+* [Kubernetes](/software_stacks/kubernetes)
 * [Lyft](/software_stacks/lydt)
 * [Neptune.ai](https://neptune.ai/)
 * [Onehouse](/software_stacks/onehouse)
