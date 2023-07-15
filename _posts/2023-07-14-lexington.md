@@ -40,6 +40,9 @@ Notes about Lexington
 
       "Today the Lexington Minuteman is a shell of what it once was, though it was among a handful of Gannett weeklies that escaped being targeted for shutdown or a merger during a recent round of cost-cutting. Adams himself represented a different era in local journalism — one that was ethically lax in some respects, but that served as the voice of the community in ways that we rarely see anymore."
 
+#### Unique to Lexington?
+- Civic Academy: https://www.lexingtonma.gov/296/Civic-Academy
+
 #### Public services
 - Schools - take 72% of budget
 - Athletic facilities
