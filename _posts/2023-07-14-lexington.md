@@ -10,7 +10,7 @@ Notes about Lexington
 - Candidate for School Committee circa 2005
 - Appropriation Committee member for about 3 years
 - Town Meeting member about 10 years
-- Candidate questionnaire, 2014-2018
+- Ran candidate questionnaire, 2014-2018
 - Maintainer, lex-wiki.org
 
 #### Boards and Committes
