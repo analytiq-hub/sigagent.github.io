@@ -7,7 +7,7 @@ categories: python
 Notes about Lexington
 
 #### Andrei's Resume
-- Candidate for School Committee
+- Candidate for School Committee circa 2005
 - Appropriation Committee member for about 3 years
 - Town Meeting member about 10 years
 - Candidate questionnaire, 2014-2018
