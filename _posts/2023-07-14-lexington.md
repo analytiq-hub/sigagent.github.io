@@ -53,6 +53,12 @@ Notes about Lexington
 - Street fairs, biannualy
 - July 4th Lyons Club Carnival
 
+#### Other - private facilities
+- Bookstores were lost
+  - Maxima Book Store
+- Cinema - will be closing https://lexobserver.org/2022/10/14/after-over-a-decade-in-lexington-center-venue-screens-could-go-dark-next-july/
+- Hayden center
+
 #### Budget
 - Municipal
   - Two finance committees
