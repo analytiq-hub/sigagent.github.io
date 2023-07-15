@@ -56,7 +56,8 @@ Notes about Lexington
 - Remote vs in person Town Meeting
 - Commercial Tax Base
 - Need for new high school - $300M
-- Police station construction - $35M, over initial estimate $25.4M, very large, solar canopy
+  - MSBA process, expecting 25% reimbursement
+- Police station construction - $35.2M, over initial estimate $25.4M, very large, solar canopy additional $3.4M
   - https://lexobserver.org/2023/01/20/town-holds-ceremonial-groundbreaking-to-celebrate-ongoing-construction-of-new-police-station/
   - $171/yr tax increase for average single family home
 - Net zero
