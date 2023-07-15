@@ -57,7 +57,8 @@ Notes about Lexington
 - Bookstores were lost
   - Maxima Book Store
 - Cinema - will be closing https://lexobserver.org/2022/10/14/after-over-a-decade-in-lexington-center-venue-screens-could-go-dark-next-july/
-- Hayden center
+- Hayden center - children activities, camps
+- Churches organize social, religious events, concerts, poetry readings...
 
 #### Budget
 - Municipal
