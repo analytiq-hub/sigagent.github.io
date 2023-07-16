@@ -10,4 +10,4 @@ Steps on Ubuntu 22.04:
   * `. ~/.venv/flask-langchain/bin/activate`
   * `pip install langchain==0.0.234`
   * `pip install flask==2.3.2`
-  * `pip install openai==0.27.8`
+  * `pip install openai faiss-cpu requests beautifulsoup4 tiktoken`
