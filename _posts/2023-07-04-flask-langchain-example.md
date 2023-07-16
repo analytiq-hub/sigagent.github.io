@@ -7,4 +7,7 @@ categories: machine_learning flask langchain python
 Steps on Ubuntu 22.04:
 * Create a virtual environment, install required packages:
   * `python3 -m venv ~/.venv/flask-langchain`
-  * 
+  * `. ~/.venv/flask-langchain/bin/activate`
+  * `pip install langchain==0.0.234`
+  * `pip install flask==2.3.2`
+  * `pip install openai==0.27.8`
