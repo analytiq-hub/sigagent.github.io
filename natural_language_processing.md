@@ -87,7 +87,7 @@ gradient for the vast majority of the parameters
    * [How Unstructured Unlocked 100k+ Pages of IRS Manuals](https://medium.com/@unstructured-io/leveraging-enterprise-specific-data-with-llms-how-unstructured-unlocked-100k-pages-of-irs-manuals-33e16308c1e3) (2023)
 * Summarization
   * [WordTune](http://wordtune.com)
-* llama2-chatbot [github](https://github.com/a16z-infra/llama2-chatbot) by Matt Bornstein et al
+* [llama2-chatbot](https://llama2.ai/) [github](https://github.com/a16z-infra/llama2-chatbot) by Matt Bornstein et al
 
 #### Models
 * [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)
