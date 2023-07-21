@@ -20,7 +20,7 @@ Tested on Ubuntu 20.04:
     cd airbyte
     ./run-ab-platform.sh 
     ```
-* Once you see an Airbyte banner, the UI is ready to go at [http://localhost:8000](http://localhost:8000).
+* Once you see an Airbyte banner, the UI is ready to go at [http://localhost:8000](http://localhost:8000). It actually runs at `0.0.0.0:8000`.
   * You will be asked for a username and password. By default, that's username `airbyte` and password `password`.
   * Once you deploy airbyte to your servers, be sure to change these in your `.env` file.
   * Configure Airbyte to connect `Sample Data` source to `Local JSON` destination.
@@ -49,13 +49,17 @@ Tested on Ubuntu 20.04:
       ```
 * Set up Dagster
     ```shell
-    export OPENAI_API_KEY=XXX
-    export DAGSTER_HOME=~/build/airbyte-dagster-langchain/dagster_home
     if [ ! -d $DAGSTER_HOME ]; then mkdir -p $DAGSTER_HOME ]; fi
     touch ${DAGSTER_HOME}/dagster.yaml
     ```
+* Put your `OPENAI_API_KEY` and `DAGSTER_HOME` in your `~/.bashrc`:
+    ```shell
+    export OPENAI_API_KEY=XXX
+    export DAGSTER_HOME=~/build/airbyte-dagster-langchain/dagster_home    
+    ```
+* Re-source the `~/.bashrc` if necessary. Re-enter the virtual env.
 * Start Dagster:
     ```shell
     dagster dev -f ingest.py
     ```
-
+* 
