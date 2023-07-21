@@ -54,12 +54,13 @@ Tested on Ubuntu 20.04:
     ```
 * Put your `OPENAI_API_KEY` and `DAGSTER_HOME` in your `~/.bashrc`:
     ```shell
-    export OPENAI_API_KEY=XXX
+    export OPENAI_API_KEY=XXXg
     export DAGSTER_HOME=~/build/airbyte-dagster-langchain/dagster_home    
     ```
 * Re-source the `~/.bashrc` if necessary. Re-enter the virtual env.
 * Start Dagster:
     ```shell
-    dagster dev -f ingest.py
+    dagster dev -f ingest.py -h 0.0.0.0
     ```
+    The `-h` parameter controls the `dagit` host, and `-p` controls the port.
 * 
