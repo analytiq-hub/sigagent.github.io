@@ -111,6 +111,7 @@ title: Cloud Data Platform
 * byteflow: [How to choose between Parquet, ORC and AVRO for S3, Redshift and Snowflake?](https://bryteflow.com/how-to-choose-between-parquet-orc-and-avro/)
 * Martin Kleppmann: [Schema evolution in Avro, Protocol Buffers and Thrift](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html) (2012)
 * [Working with large ROS bag files on Hadoop and Spark](https://discourse.ros.org/t/working-with-large-ros-bag-files-on-hadoop-and-spark/2314) (2017)
+* Jamin Ball, [Clouded Judgement](https://cloudedjudgement.substack.com/):[The Modern Data Cloud: Warehouse vs Lakehouse](https://cloudedjudgement.substack.com/p/the-modern-data-cloud-warehouse-vs) (2021)
 * Reviews
   * firebolt.io: [Snowflake vs Databricks vs Firebolt](https://www.firebolt.io/blog/snowflake-vs-databricks-vs-firebolt)
   * M. Schmitt:
