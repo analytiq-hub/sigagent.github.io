@@ -32,6 +32,7 @@ For now, see [machine_learning](/machine_learning) and [self_driving_cars](/self
 * Latte (open source), supports point cloud
 * Roboflow
 * Charles Qi et al, Waymo: [Offboard 3D Object Detection from Point Cloud Sequences](https://arxiv.org/pdf/2103.05073.pdf) (2021), [youtube](https://www.youtube.com/watch?v=hyTMyZgWcFY)
+* Zhaoqi Leng et al, Waymo: [LidarAugment: Searching for Scalable 3D LiDAR Data Augmentations](https://arxiv.org/pdf/2210.13488.pdf) (2022)
 
 #### Curation
 * Scale.ai
