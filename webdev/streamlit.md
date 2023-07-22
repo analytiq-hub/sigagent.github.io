@@ -3,12 +3,13 @@ layout: page
 mathjax: true
 title: Streamlit
 ---
-#### Tutorials
-* 
+[Streamlit](https://streamlit.io/) [cloud](https://share.streamlit.io), [discuss](https://discuss.streamlit.io/)
 
-* [streamlit](https://streamlit.io/) [docs](https://docs.streamlit.io/), [cloud](https://share.streamlit.io), [discuss](https://discuss.streamlit.io/)
+#### Docs, Tutorials
+* Streamlit [docs](https://docs.streamlit.io/)
 
-# News
+
+#### News
 * TechCrunch: [Snowflake acquires Streamlit for $800M to help customers build data-based apps](https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/) (2022)
 
 #### Other
