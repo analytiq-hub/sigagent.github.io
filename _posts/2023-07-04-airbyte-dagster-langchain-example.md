@@ -18,6 +18,7 @@ Tested on Ubuntu 20.04:
     cd ~/build
     git clone https://github.com/airbytehq/airbyte.git
     cd airbyte
+    # Edit BASIC_AUTH_PASSWORD in .env from the default
     ./run-ab-platform.sh 
     ```
 * Once you see an Airbyte banner, the UI is ready to go at [http://localhost:8000](http://localhost:8000). It actually runs at `0.0.0.0:8000`.
@@ -62,5 +63,10 @@ Tested on Ubuntu 20.04:
     ```shell
     dagster dev -f ingest.py -h 0.0.0.0
     ```
-    The `-h` parameter controls the `dagit` host, and `-p` controls the port.
-* 
+    The `-h` parameter controls the `dagit` host, and `-p` controls the port. Default port is `3000`. Use `ingest_all.py` for ingesting multiple sources.
+* Start Streamlit:
+    ```shell
+    . ~/.venv/streamlit/bin/activate
+    streamlit run chatbot.py
+    ```
+* Open the ui at port 8501
