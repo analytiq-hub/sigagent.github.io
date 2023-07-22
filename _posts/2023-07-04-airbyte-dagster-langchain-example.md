@@ -67,6 +67,6 @@ Tested on Ubuntu 20.04:
 * Start Streamlit:
     ```shell
     . ~/.venv/streamlit/bin/activate
-    streamlit run chatbot.py
+    streamlit run chatbot.py --server.port 8080
     ```
 * Open the ui at port 8501
