@@ -3,7 +3,8 @@ layout: page
 mathjax: true
 title: Streamlit
 ---
-[Streamlit](https://streamlit.io/) [cloud](https://share.streamlit.io), [discuss](https://discuss.streamlit.io/)
+[Streamlit](https://streamlit.io/)
+* [cloud](https://share.streamlit.io), [discuss](https://discuss.streamlit.io/)
 
 #### Docs, Tutorials
 * Streamlit [docs](https://docs.streamlit.io/)
