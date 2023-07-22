@@ -17,6 +17,7 @@ title: Webdev
 * [pipedream](https://pipedream.com) - API integration for, e.g., being notified when a tweet with a given hashtag is sent. The tweet can be parsed, saved to a Google sheet, can be translated, etc. Can run python code; you can run langchain. Similar to [zappier](https://zappier.com).
 * [gradio](https://www.gradio.app/)
 * [streamlit](https://streamlit.io/) [docs](https://docs.streamlit.io/), [cloud](https://share.streamlit.io), [discuss](https://discuss.streamlit.io/)
+  * TechCrunch: [Snowflake acquires Streamlit for $800M to help customers build data-based apps](https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/) (2022)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
