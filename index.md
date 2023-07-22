@@ -105,6 +105,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Computational Topology](/computational_topology)
 * [Unidentified Aerial Phenomena](/unidentified_aerial_phenomena)
 * [Webdev](/webdev)
+  * [Streamlit](/webdev/streamlit)
 * [Writing Blog Posts](/writing_blog_posts)
 * [Writing Documentation](/writing_documentation)
 * [Yoga and Pilates](/yoga_and_pilates)
