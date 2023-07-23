@@ -10,7 +10,7 @@ title: Streamlit
 * Streamlit [docs](https://docs.streamlit.io/)
 
 #### Tutorials
-* [LangChain tutorial #5: Build an Ask the Data app](https://blog.streamlit.io/langchain-tutorial-5-build-an-ask-the-data-app/) (2023)
+* [Chanin Nantasenamat](https://blog.streamlit.io/author/chanin/): [LangChain tutorial #5: Build an Ask the Data app](https://blog.streamlit.io/langchain-tutorial-5-build-an-ask-the-data-app/) (2023)
 
 
 #### News
