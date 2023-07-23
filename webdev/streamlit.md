@@ -11,6 +11,7 @@ title: Streamlit
 
 #### Tutorials
 * [Chanin Nantasenamat](https://blog.streamlit.io/author/chanin/): [LangChain tutorial #5: Build an Ask the Data app](https://blog.streamlit.io/langchain-tutorial-5-build-an-ask-the-data-app/) (2023)
+  * Andrei's [fork](https://github.com/andrei-radulescu-banu/langchain-ask-the-data/tree/master)
 
 
 #### News
