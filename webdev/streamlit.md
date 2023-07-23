@@ -8,10 +8,14 @@ title: Streamlit
 
 #### Docs, Tutorials
 * Streamlit [docs](https://docs.streamlit.io/)
+* [Using Streamlit to build an interactive dashboard for data analysis on AWS](https://aws.amazon.com/blogs/opensource/using-streamlit-to-build-an-interactive-dashboard-for-data-analysis-on-aws/) (2021)
 
 #### Tutorials
 * [Chanin Nantasenamat](https://blog.streamlit.io/author/chanin/): [LangChain tutorial #5: Build an Ask the Data app](https://blog.streamlit.io/langchain-tutorial-5-build-an-ask-the-data-app/) (2023)
   * Andrei's [fork](https://github.com/andrei-radulescu-banu/langchain-ask-the-data/tree/master)
+
+#### Presentations
+* Towards Data Science: [Adrien Treuille and Tim Conkling - Streamlit Is All You Need](https://www.youtube.com/watch?v=mh0AMskfGa8) (2021). Interview with Streamlit CEO and its lead UI developer. Explains philosophy behind Streamlit, and how it differs from [Plotly Dash](https://plotly.com), for example.
 
 
 #### News
