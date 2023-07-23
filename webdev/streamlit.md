@@ -9,6 +9,9 @@ title: Streamlit
 #### Docs, Tutorials
 * Streamlit [docs](https://docs.streamlit.io/)
 
+#### Tutorials
+* [LangChain tutorial #5: Build an Ask the Data app](https://blog.streamlit.io/langchain-tutorial-5-build-an-ask-the-data-app/) (2023)
+
 
 #### News
 * TechCrunch: [Snowflake acquires Streamlit for $800M to help customers build data-based apps](https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/) (2022)
