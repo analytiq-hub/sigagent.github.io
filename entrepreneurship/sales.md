@@ -18,6 +18,7 @@ title: Sales for Entrepreneurship
 * [Crowdlinker](https://www.youtube.com/@Crowdlinker): [How we build successful MVP’s for our client](https://www.youtube.com/watch?v=SlRG_o-kx9Q) (2022), with Aram Melkoumov and Fiona Haller
 * Alberto Savoia: [Why Products Fail & How To Make Yours Succeed](https://www.youtube.com/watch?v=UnKqhHU0h7Y) (2019)
   * Alberto Savoia: [The Right It: Why So Many Ideas Fail and How to Make Sure Yours Succeed](https://www.amazon.com/Right-Many-Ideas-Yours-Succeed-ebook/dp/B07CKRYYZK) (2019)
+  * [Stanford Seminar - Build The Right It](https://www.youtube.com/watch?v=3sUozPcH4fY) (2019)
 * [How to reach the CTOs, CIOs and Heads of Innovation in major retailers?](https://www.linkedin.com/pulse/how-reach-ctos-cios-heads-innovation-major-retailers-martin-zeman/)
 * [20 of the biggest influencers on US CIOs](https://www.linkedin.com/pulse/20-biggest-influencers-us-cios-richard-laven/)
 
