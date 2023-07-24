@@ -3,7 +3,7 @@ layout: page
 mathjax: true
 title: Vercel
 ---
-[Vercel](https://https://vercel.com/)
+[Vercel](https://vercel.com/)
 
 #### Docs
 * Vercel [docs](https://vercel.com/docs)
@@ -20,5 +20,6 @@ title: Vercel
 * [Self Driving Cars](/self_driving_cars)
 * [Computational Topology](/computational_topology)
 * [Webdev](/webdev)
+  * [Gradio](/webdev/gradio)
   * [Streamlit](/webdev/streamlit)
   * [Vercel](/webdev/vercel)
