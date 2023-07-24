@@ -4,6 +4,9 @@ mathjax: true
 title: Iguazio Software Stack
 ---
 
+### Iguazio [blog](https://www.iguazio.com/blog/)
+* [Integrating MLOps with MLRun and Databricks](https://www.iguazio.com/blog/integrating-mlops-with-mlrun-and-databricks/)
+
 #### Talks
 * [MLOps for Generative AI with MLRun](https://www.youtube.com/watch?v=aAU54bTH6_o)
 * [MLOps for Gen AI - MLOPs Live #23 - QuantumBlack AI by McKinsey](https://www.youtube.com/watch?v=9RjD_VNvZSg&t=156s), uses [vercel app](https://vercel.com)
