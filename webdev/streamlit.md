@@ -40,3 +40,4 @@ title: Streamlit
 * [Computational Topology](/computational_topology)
 * [Webdev](/webdev)
   * [Streamlit](/webdev/streamlit)
+  * [Vercel](/webdev/vercel)

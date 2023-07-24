@@ -5,7 +5,7 @@ title: Iguazio Software Stack
 ---
 
 #### Talks
-* [MLOps for Gen AI - MLOPs Live #23 - QuantumBlack AI by McKinsey](https://www.youtube.com/watch?v=9RjD_VNvZSg&t=156s)
+* [MLOps for Gen AI - MLOPs Live #23 - QuantumBlack AI by McKinsey](https://www.youtube.com/watch?v=9RjD_VNvZSg&t=156s), uses [vercel app](https://vercel.com)
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
