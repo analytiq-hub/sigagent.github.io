@@ -4,7 +4,6 @@ mathjax: true
 title: Cloud Data Platform
 ---
 #### Software Stacks
-* [Airbyte](/software_stacks/airbyte)
 * [BDAS, the Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/)
 * [Databricks](/software_stacks/databricks)
 * [Docker](/software_stacks/docker)
@@ -23,6 +22,12 @@ title: Cloud Data Platform
 * [Facebook](/software_stacks/facebook)
 * [Ray](/software_stacks/ray)
 * [Uber](/software_stacks/uber)
+
+#### ETL (Extract, Transform, Load)
+* [Airbyte](/software_stacks/airbyte)
+  * [Comparison of top ETL tools](https://airbyte.com/etl-tools-comparison)
+* Fivetran
+* Stitch
 
 #### Dashboarding
 * [Metabase](https://www.metabase.com/) (open source, connects to Databricks UC)
