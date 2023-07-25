@@ -22,6 +22,9 @@ title: Sales for Entrepreneurship
 * [How to reach the CTOs, CIOs and Heads of Innovation in major retailers?](https://www.linkedin.com/pulse/how-reach-ctos-cios-heads-innovation-major-retailers-martin-zeman/)
 * [20 of the biggest influencers on US CIOs](https://www.linkedin.com/pulse/20-biggest-influencers-us-cios-richard-laven/)
 
+#### Pricing
+* Marc Andrusko and Seema Amble, A16Z: [The B2B Fintech Pricing Journey](https://a16z.com/2023/06/23/b2b-fintech-pricing-journey/)
+
 #### Other
 * [Entrepreneurship](/entrepreneurship)
   * [Funding](/entrepreneurship/funding)
