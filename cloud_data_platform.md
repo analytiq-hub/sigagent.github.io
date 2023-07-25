@@ -17,6 +17,7 @@ title: Cloud Data Platform
 * [Neptune.ai](https://neptune.ai/)
 * [Onehouse](/software_stacks/onehouse)
 * [OpenAI](/software_stacks/openai)
+* [PowerBI](https://powerbi.microsoft.com/en-us/) and [OLAP Cubes](https://www.valuecoders.com/blog/technology-and-apps/how-power-bi-and-olap-cubes-improve-your-business/#What_is_an_OLAP_cube)
 * [Jupyterhub](https://jupyterhub.readthedocs.io)
   * Amazon EMR
     * [Create a cluster with JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub-launch.html)
