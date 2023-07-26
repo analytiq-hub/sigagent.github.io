@@ -72,6 +72,7 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 * Brian Heater: [13 VCs talk about the state of robotics investing in 2023](https://techcrunch.com/2023/04/13/13-vcs-talk-about-the-state-of-robotics-investing-in-2023/) (2023)
 * Brian Heater: [Locus Robotics CEO on the future of warehouse automation](https://techcrunch.com/2023/03/28/locus-robotics-ceo-on-the-future-of-warehouse-automation/) (2023)
 * Brian Heater: [6 River Systems co-founder on the state of warehouse robots](https://techcrunch.com/2023/03/24/6-river-systems-co-founder-on-the-state-of-warehouse-robots/)
+* [BrainCorp](https://braincorp.com/)
 
 #### Grasping
 See [Grasping](/robotics/grasping)
