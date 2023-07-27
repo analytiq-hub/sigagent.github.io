@@ -30,6 +30,7 @@ title: Webdev
 * [Self Driving Cars](/self_driving_cars)
 * [Computational Topology](/computational_topology)
 * [Webdev](/webdev)
+  * [Dash](/webdev/dash)
   * [Gradio](/webdev/gradio)
   * [Streamlit](/webdev/streamlit)
   * [Vercel](/webdev/vercel)
