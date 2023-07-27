@@ -1,12 +1,13 @@
 ---
 layout: page
 mathjax: true
-title: Vercel
+title: Dash
 ---
-[Vercel](https://vercel.com/)
+[Dash](https://plotly.com/dash/)
 
-#### Docs
-* Vercel [docs](https://vercel.com/docs)
+#### Books
+* E. Dabbas: [Interactive Dashboards and Data Apps with Plotly and Dash: Harness the power of a fully fledged frontend web framework in Python – no JavaScript required](https://www.amazon.com/Interactive-Dashboards-Data-Apps-Plotly/dp/1800568916) (2021)
+* A. Schroeder, C. Mayer, A. M. Ward [The Book of Dash: Build Dashboards with Python and Plotly](https://www.amazon.com/Python-Dash-Analysis-Visualization-Plotly/dp/1718502222) (2022)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
