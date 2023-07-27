@@ -23,7 +23,9 @@ title: Streamlit
     * [How to Build a Simple Machine Learning Web App in Python - Streamlit Tutorial #2](https://www.youtube.com/watch?v=8M20LyCZDOY&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE&index=2)
     * [How to Build a Penguin Classification Web App in Python - Streamlit #3](https://www.youtube.com/watch?v=Eai1jaZrRDs&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE&index=3)
     * [How to Deploy Data Science Web App to Heroku - Streamlit #4](https://www.youtube.com/watch?v=zK4Ch6e1zq8&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE&index=4)
-* [Streamlit-Authenticator, Part 1: Adding an authentication component to your app](https://blog.streamlit.io/streamlit-authenticator-part-1-adding-an-authentication-component-to-your-app/)
+* Authentication
+  * [Streamlit-Authenticator, Part 1: Adding an authentication component to your app](https://blog.streamlit.io/streamlit-authenticator-part-1-adding-an-authentication-component-to-your-app/)
+  * [Authentication without SSO](https://docs.streamlit.io/knowledge-base/deploy/authentication-without-sso)
 
 #### Examples
 * Visualize LLM evals: [github](https://github.com/danbider/llm-eval-dashboard)
