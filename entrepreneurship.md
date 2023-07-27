@@ -44,6 +44,7 @@ title: Entrepreneurship
 * Jason Calacanis: 
   * [The Blueprint E 1: Branding yourself](https://youtu.be/7BHdaE9sDtA?t=94) 
   * [The Blueprint E 3: How to build and supercharge your network](https://www.youtube.com/watch?v=aYbogrgHFXg&t=
+* Tony Kulesa: [A relatively small amount of force applied at just the right place](https://www.tonykulesa.com/p/a-relatively-small-amount-of-force) - Explaining Y Combinator (2023)
 
 #### Funding
 * See [Funding for Entrepreneurship](/entrepreneurship/funding)
