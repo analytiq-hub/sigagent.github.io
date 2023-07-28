@@ -25,10 +25,7 @@ title: Streamlit
     * [How to Deploy Data Science Web App to Heroku - Streamlit #4](https://www.youtube.com/watch?v=zK4Ch6e1zq8&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE&index=4)
 * Authentication
   * [Streamlit-Authenticator, Part 1: Adding an authentication component to your app](https://blog.streamlit.io/streamlit-authenticator-part-1-adding-an-authentication-component-to-your-app/)
-  * [Authentication without SSO
-
-
-](https://docs.streamlit.io/knowledge-base/deploy/authentication-without-sso)
+  * [Authentication without SSO](https://docs.streamlit.io/knowledge-base/deploy/authentication-without-sso)
 
 #### Examples
 * Visualize LLM evals: [github](https://github.com/danbider/llm-eval-dashboard)
