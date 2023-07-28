@@ -33,6 +33,7 @@ title: Streamlit
 #### Examples
 * Visualize LLM evals: [github](https://github.com/danbider/llm-eval-dashboard)
 * Paula Maddigan: [Chat2VIS: AI-driven visualisations with Streamlit and natural language](https://blog.streamlit.io/chat2vis-ai-driven-visualisations-with-streamlit-and-natural-language/) (2023)
+  * P. Maddigan, T. Susnjak: [Chat2VIS: Generating Data Visualisations via Natural Language using ChatGPT, Codex and GPT-3 Large Language Models](https://arxiv.org/abs/2302.02094) (2023)
 
 #### Interviews
 * Towards Data Science: [Adrien Treuille and Tim Conkling - Streamlit Is All You Need](https://www.youtube.com/watch?v=mh0AMskfGa8) (2021). Interview with Streamlit CEO and its lead UI developer. Explains philosophy behind Streamlit, and how it differs from [Plotly Dash](https://plotly.com), for example.
