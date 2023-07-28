@@ -25,10 +25,14 @@ title: Streamlit
     * [How to Deploy Data Science Web App to Heroku - Streamlit #4](https://www.youtube.com/watch?v=zK4Ch6e1zq8&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE&index=4)
 * Authentication
   * [Streamlit-Authenticator, Part 1: Adding an authentication component to your app](https://blog.streamlit.io/streamlit-authenticator-part-1-adding-an-authentication-component-to-your-app/)
-  * [Authentication without SSO](https://docs.streamlit.io/knowledge-base/deploy/authentication-without-sso)
+  * [Authentication without SSO
+
+
+](https://docs.streamlit.io/knowledge-base/deploy/authentication-without-sso)
 
 #### Examples
 * Visualize LLM evals: [github](https://github.com/danbider/llm-eval-dashboard)
+* Paula Maddigan: [Chat2VIS: AI-driven visualisations with Streamlit and natural language](https://blog.streamlit.io/chat2vis-ai-driven-visualisations-with-streamlit-and-natural-language/) (2023)
 
 #### Interviews
 * Towards Data Science: [Adrien Treuille and Tim Conkling - Streamlit Is All You Need](https://www.youtube.com/watch?v=mh0AMskfGa8) (2021). Interview with Streamlit CEO and its lead UI developer. Explains philosophy behind Streamlit, and how it differs from [Plotly Dash](https://plotly.com), for example.
