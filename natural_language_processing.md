@@ -120,6 +120,8 @@ gradient for the vast majority of the parameters
 #### Fine Tuning
 * [huggingface/peft](https://github.com/huggingface/peft), supports LORA, Prefix-Tuning, P-Tuning, Prompt Tuning, AdaLoRA. Runs on consumer hardware.
   * Mark Tenenholtz: [tweet](https://twitter.com/marktenenholtz/status/1655582062663852036): Everyone can fine-tune LLMs on a single GPU.
+* Databriks:
+  * Sean Owen: [Fine-Tuning Large Language Models with Hugging Face and DeepSpeed](https://www.databricks.com/blog/2023/03/20/fine-tuning-large-language-models-hugging-face-and-deepspeed.html) (2023)
 
 ### Open Source Movement
 * Andrej Karpathy tweet: [Roughly speaking the story as of now](https://twitter.com/karpathy/status/1654892810590650376?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), Apr 2023
