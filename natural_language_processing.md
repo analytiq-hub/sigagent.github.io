@@ -107,6 +107,9 @@ gradient for the vast majority of the parameters
   * [Running LLaMA 7B and 13B on a 64GB M2 MacBook Pro with llama.cpp](https://til.simonwillison.net/llms/llama-7b-m2) (2023)
 * [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
   * ggerganov: [What is the meaning of hacked?](https://github.com/ggerganov/llama.cpp/issues/33#issuecomment-1465108022)
+* [gorilla](https://github.com/ShishirPatil/gorilla)
+  * Ben Wodecky: [Meet Gorilla: The AI Model That Beats GPT-4 at API Calls](https://aibusiness.com/nlp/meet-gorilla-the-ai-model-that-beats-gpt-4-at-api-calls) (2022)
+* [toolformer](https://github.com/lucidrains/toolformer-pytorch)
 
 #### Scale of Models
 * Harm de Vries: [Go smol or go home](https://www.harmdevries.com/post/model-size-vs-compute-overhead/), Apr 2023
