@@ -3,6 +3,18 @@ layout: page
 mathjax: true
 title: Natural Language Processing
 ---
+#### Courses
+* [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) (2023)
+  * Charles Frye: [Learn to Spell: Prompt Engineering](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/)
+    * D. Dohan et al: [The Language Model Cascades](https://arxiv.org/pdf/2207.10342.pdf) (2022)
+    * The primary goal of prompting is subtractive; it focuses the mass of predictions to hone in on a specific world by conditioning the probabilistic model.
+  * Josh Tobin:
+    * [Prompt Engineering](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/)
+    * [LLMOps](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llmops/)
+  * Harrison Chase: [Agents](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/chase-agents/)
+* Maxime Labonne: [Large Language Model Course](https://github.com/mlabonne/llm-course), [blog](https://mlabonne.github.io/blog/)
+  * Based on [gists from younesbelkada](https://gist.github.com/younesbelkada)
+
 #### Articles
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf), J. Devlin et al (2019)
 * [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html), A. Rush et al (2018)
@@ -21,17 +33,6 @@ title: Natural Language Processing
 #### Tech stack
 *  Matt Bornstein, Rajko Radovanovic: [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/) (2023)
    * Andrei's [tweet](https://twitter.com/bitdribble/status/1672233355914428417)
-
-#### Courses
-* [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) (2023)
-  * Charles Frye: [Learn to Spell: Prompt Engineering](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/)
-    * D. Dohan et al: [The Language Model Cascades](https://arxiv.org/pdf/2207.10342.pdf) (2022)
-    * The primary goal of prompting is subtractive; it focuses the mass of predictions to hone in on a specific world by conditioning the probabilistic model.
-  * Josh Tobin:
-    * [Prompt Engineering](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/)
-    * [LLMOps](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llmops/)
-  * Harrison Chase: [Agents](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/chase-agents/)
-* Maxime Labonne: [Large Language Model Course](https://github.com/mlabonne/llm-course), [blog](https://mlabonne.github.io/blog/)
 
 #### Derivatives of LLaMA
 * E. Hu et al: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685), 2021
