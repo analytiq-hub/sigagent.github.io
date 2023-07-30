@@ -9,6 +9,7 @@ title: Paul Graham
 #### Selected Essays
 * [Java's Cover](http://www.paulgraham.com/javacover.html) (2001)
 * [Design Philosophy](http://www.paulgraham.com/design.html)
+* [18 Mistakes That Kill Startups](http://www.paulgraham.com/startupmistakes.html) (2006)
 * [What to look for in founders](http://www.paulgraham.com/founders.html) (2010)
 * [Earnestness](http://www.paulgraham.com/earnest.html) (2020)
 
