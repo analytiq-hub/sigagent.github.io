@@ -30,5 +30,5 @@ title: Recommender Systems
 * [Artificial Intelligence](/artificial_intelligence)
 * [Cloud Data Platform](/cloud_data_platform)
 * [Machine Learning](/machine_learning)
-* [Natural Language Processing](/natural_language_processing)
+* [Language Models](/language_models)
 * [Probabilities and Statistics](/probabilities_and_statistics)

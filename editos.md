@@ -16,7 +16,7 @@ More recently, I started using VSCode, with the Github Copilot extension. Copilo
 * [Artificial Intelligence](/artificial_intelligence)
 * [Autonomous Agents](/autonomous_agents)
 * [Cloud Data Platform](/cloud_data_platform)
-* [Natural Language Processing](/natural_language_processing)
+* [Language Models](/language_models)
 * [Probabilities and Statistics](/probabilities_and_statistics)
 * [Robotics](/robotics)
 * [Self Driving Cars](/self_driving_cars)
