@@ -13,6 +13,7 @@ title: Natural Language Processing
     * [LLMOps](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llmops/)
   * Harrison Chase: [Agents](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/chase-agents/)
 * Maxime Labonne: [Large Language Model Course](https://github.com/mlabonne/llm-course), [blog](https://mlabonne.github.io/blog/)
+  * Inspired by [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
   * Based on [gists from younesbelkada](https://gist.github.com/younesbelkada)
 
 #### Articles
