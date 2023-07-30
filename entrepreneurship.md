@@ -110,6 +110,8 @@ title: Entrepreneurship
 * [VentureFizz](https://venturefizz.com/): tech industry company profiles
 * The Boston Business Jounal’s startup news – though the Globe has occasional startups coverage (and Scott Kirsner’s always-excellent column), for my money the BBJ is the most consistent, best quality Boston startup reporting currently available.
 * Coworking spaces: [CIC](https://cic.com/), [VentureLane](https://theventurelane.com/), and [WorkBar](https://www.workbar.com/)
+* [Mass Fintech Hub](https://massfintechhub.com/)
+* [Fintech Sandbox](https://fintechsandbox.org/)
 
 #### Other
 * Stanford [eCorner](https://ecorner.stanford.edu/)
@@ -120,4 +122,5 @@ title: Entrepreneurship
 #### Other
 * [Entrepreneurship](/entrepreneurship)
   * [Funding](/entrepreneurship/funding)
+  * [Paul Graham](/entrepreneurship/paul_graham)
   * [Sales](/entrepreneurship/sales)

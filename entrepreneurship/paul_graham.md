@@ -15,4 +15,5 @@ title: Paul Graham
 #### Other
 * [Entrepreneurship](/entrepreneurship)
   * [Funding](/entrepreneurship/funding)
+  * [Paul Graham](/entrepreneurship/paul_graham)
   * [Sales](/entrepreneurship/sales)
