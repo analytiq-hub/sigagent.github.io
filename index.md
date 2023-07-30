@@ -56,6 +56,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Language Models](/language_models)
 * [Literature](/literature)
 * [Machine Learning](/machine_learning)
+  * [Huggingface](/machine_learning/huggingface)
 * [Market Trading](/market_trading)
 * [Marketing](/marketing)
 * Math
