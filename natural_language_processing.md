@@ -31,6 +31,7 @@ title: Natural Language Processing
     * [Prompt Engineering](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/)
     * [LLMOps](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llmops/)
   * Harrison Chase: [Agents](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/chase-agents/)
+* Maxime Labonne: [Large Language Model Course](https://github.com/mlabonne/llm-course), [blog](https://mlabonne.github.io/blog/)
 
 #### Derivatives of LLaMA
 * E. Hu et al: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685), 2021
@@ -120,7 +121,7 @@ gradient for the vast majority of the parameters
 #### Fine Tuning
 * [huggingface/peft](https://github.com/huggingface/peft), supports LORA, Prefix-Tuning, P-Tuning, Prompt Tuning, AdaLoRA. Runs on consumer hardware.
   * Mark Tenenholtz: [tweet](https://twitter.com/marktenenholtz/status/1655582062663852036): Everyone can fine-tune LLMs on a single GPU.
-* Databriks:
+* Databricks:
   * Sean Owen: [Fine-Tuning Large Language Models with Hugging Face and DeepSpeed](https://www.databricks.com/blog/2023/03/20/fine-tuning-large-language-models-hugging-face-and-deepspeed.html) (2023)
 
 ### Open Source Movement
