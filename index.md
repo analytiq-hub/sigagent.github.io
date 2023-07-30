@@ -40,6 +40,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Engineering Skills](/engineering_skills)
 * [Entrepreneurship](/entrepreneurship)
   * [Funding](/entrepreneurship/funding)
+  * [Paul Graham](/entrepreneurship/paul_graham)
   * [Sales](/entrepreneurship/sales)
 * [Film](/film)
 * [Game Theory](/game_theory)
