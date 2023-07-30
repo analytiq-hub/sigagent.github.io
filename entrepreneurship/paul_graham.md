@@ -8,6 +8,7 @@ title: Paul Graham
   
 #### Selected Essays
 * [Java's Cover](http://www.paulgraham.com/javacover.html) (2001)
+* [Design Philosophy](http://www.paulgraham.com/design.html)
 * [What to look for in founders](http://www.paulgraham.com/founders.html) (2010)
 * [Earnestness](http://www.paulgraham.com/earnest.html) (2020)
 
