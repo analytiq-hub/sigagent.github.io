@@ -3,6 +3,9 @@ layout: page
 mathjax: true
 title: Cloud Data Platform
 ---
+#### Courses
+* [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+
 #### Software Stacks
 * [BDAS, the Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/)
 * [Databricks](/software_stacks/databricks)
