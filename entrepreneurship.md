@@ -8,6 +8,7 @@ title: Entrepreneurship
 * <a href="https://medium.com/swlh/these-are-the-7-deadly-sins-of-product-driven-founders-47c7c66cc783">The Seven Deadly Sins of Product-Driven Founders</a>, by Parul Singh (Sept 2018)
 * Patrick Campbell's <a href="https://www.profitwell.com/blog/all">blog</a> on freemium, SAAS revenue, marketing and sales strategy. If Patrick was not running a <a href="https://www.profitwell.com">business</a>, he could be an economics professor.
 * [BostInno](https://www.bizjournals.com/boston/inno): monthlly investment roundups, list of events
+* MassGeneral [Innovation Mesh Network](https://innovationmeshnetwork.org)
 
 #### Books
 * Steve Blank: [The Four Steps to the Epiphany:  Successful Strategies for Products that Win](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/1119690358) (2007, fourth ed)
