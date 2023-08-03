@@ -51,6 +51,8 @@ title: Biotech
 * [Cognitive Science](/cognitive_science)
 * [Computation Theory](/computation_theory)
 * [GPUs](/gpus)
+* [Healthcare](/healthcare)
+* [Healthtech](/healthtech)
 * [Language Models](/language_models)
 * [Meta Learning](/meta_learning)
 * [MLOps](/mlops)
