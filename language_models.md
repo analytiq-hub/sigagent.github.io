@@ -22,6 +22,8 @@ title: Natural Language Processing
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf), A. Vaswani et al (2017)
 * [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf) (2023)
 
+#### News
+* Belle Lin, WSJ: [Companies Weigh Growing Power of Cloud Providers Amid AI Boom](https://www.wsj.com/articles/companies-weigh-growing-power-of-cloud-providers-amid-ai-boom-478c454a) (2023)
 
 #### Language Models
 * [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf), J. Hoffman et al (2022)
