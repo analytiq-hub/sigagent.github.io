@@ -11,7 +11,7 @@ title: Healthtech
 * [ChatGPT: Will It Transform the World of Health Care?](https://www.youtube.com/watch?v=j-aOCuzfxUI&t=779s) (2023)
 
 #### Companies
-* [Glass AI](https://glass.health)
+* [Glass AI](https://glass.health), [NPR story](https://www.npr.org/sections/health-shots/2023/04/05/1167993888/chatgpt-medicine-artificial-intelligence-healthcare)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
