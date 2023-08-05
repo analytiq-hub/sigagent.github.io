@@ -77,11 +77,16 @@ gradient for the vast majority of the parameters
 * Latent Space:
   * [Latent Space Live: Responding to the Leaked Google vs OpenAI strategy memo ](https://www.youtube.com/watch?v=GR8i7PfWaVw) (2023)
   * [Training Mosaic's "llongboi" MPT-7B in 9 days for $200k with an empty logbook, how to prep good data for your training, and the future of open models](https://www.latent.space/p/mosaic-mpt-7b#details) (2023)
+* Demos
+  * Langchain
+    * [chat-your-data](https://github.com/hwchase17/chat-your-data/blob/master/blogpost.md)
+    * [Query over sql](https://python.langchain.com/docs/use_cases/tabular/sqlite)
+  * Langchain, Llama2 quantized, Pinecone
+    * James Briggs: [Better Llama 2 with Retrieval Augmented Generation (RAG)](htt  
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
-  * [chat-your-data](https://github.com/hwchase17/chat-your-data/blob/master/blogpost.md)
-  * [Query over sql](https://python.langchain.com/docs/use_cases/tabular/sqlite)
+ps://www.youtube.com/watch?v=ypzmPwLH_Q4) (2023)
 * [Pinecone](https://www.pinecone.io/)
 * [Replit](https://replit.com)
 * [Langview](https://twitter.com/rupert_parry/status/1653780093712633859) demo
