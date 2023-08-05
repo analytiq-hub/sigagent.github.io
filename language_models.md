@@ -80,6 +80,7 @@ gradient for the vast majority of the parameters
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
+  * [chat-your-data](https://github.com/hwchase17/chat-your-data/blob/master/blogpost.md)
 * [Pinecone](https://www.pinecone.io/)
 * [Replit](https://replit.com)
 * [Langview](https://twitter.com/rupert_parry/status/1653780093712633859) demo
