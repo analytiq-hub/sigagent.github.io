@@ -143,6 +143,14 @@ ps://www.youtube.com/watch?v=ypzmPwLH_Q4) (2023)
   * AssemblyAI: [Getting Started With Hugging Face in 15 Minutes: Transformers, Pipeline, Tokenizer, Models](https://www.youtube.com/watch?v=QEaBAZQCtwE) (2022)
   * 1littecoder: [What is Hugging Face - Crash Course (No Coding): ML Products for Beginners](https://www.youtube.com/watch?v=x8gdOPO35HA) (2022)
 
+#### Medtech
+* [ChatGPT: Will it transform the world of healthcare?](https://www.youtube.com/watch?v=j-aOCuzfxUI&t=779s)
+
+#### Sales, Marketing apps
+* [AI for Salespeople](https://nbold.co/ai-for-salespeople/)
+* [Chrystalknows](https://Crystalknows.com) (Chrome extension)
+
+
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
 * [Autonomous Agents](/autonomous_agents)
