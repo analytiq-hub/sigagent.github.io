@@ -85,6 +85,7 @@ gradient for the vast majority of the parameters
   * [Training Mosaic's "llongboi" MPT-7B in 9 days for $200k with an empty logbook, how to prep good data for your training, and the future of open models](https://www.latent.space/p/mosaic-mpt-7b#details) (2023)
 * [James Briggs](https://www.youtube.com/c/jamesbriggs)
   * Langchain, Llama2 quantized, Pinecone: [Better Llama 2 with Retrieval Augmented Generation (RAG)](https://www.youtube.com/watch?v=ypzmPwLH_Q4) (2023)
+* Yann LeCun: [Objective-Driven AI](https://drive.google.com/file/d/1wzHohvoSgKGZvzOWqZybjm4M4veKR6t3/view) (2023)
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html)
