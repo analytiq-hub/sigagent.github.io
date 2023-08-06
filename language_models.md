@@ -150,6 +150,9 @@ ps://www.youtube.com/watch?v=ypzmPwLH_Q4) (2023)
 * [AI for Salespeople](https://nbold.co/ai-for-salespeople/)
 * [Chrystalknows](https://Crystalknows.com) (Chrome extension)
 
+#### Law
+* [ICML Generative AI + Law (GenLaw)](https://genlaw.github.io/), [recordings](https://www.youtube.com/live/5j4U2UzJWfI) (2023)
+
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
