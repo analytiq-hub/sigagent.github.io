@@ -20,7 +20,7 @@ title: Natural Language Processing
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf), J. Devlin et al (2019)
 * [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html), A. Rush et al (2018)
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf), A. Vaswani et al (2017)
-* [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf) (2023)
+* [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf) (2023)XS
 
 #### Conferences
 * [ICML '23](https://icml.cc/virtual/2023/events/workshop)
@@ -84,6 +84,7 @@ gradient for the vast majority of the parameters
   * [Latent Space Live: Responding to the Leaked Google vs OpenAI strategy memo ](https://www.youtube.com/watch?v=GR8i7PfWaVw) (2023)
   * [Training Mosaic's "llongboi" MPT-7B in 9 days for $200k with an empty logbook, how to prep good data for your training, and the future of open models](https://www.latent.space/p/mosaic-mpt-7b#details) (2023)
 * [James Briggs](https://www.youtube.com/c/jamesbriggs)
+  * [Llama2: AI Developer Handbook](https://www.pinecone.io/learn/llama-2/) (2023)!
   * Langchain, Llama2 quantized, Pinecone: [Better Llama 2 with Retrieval Augmented Generation (RAG)](https://www.youtube.com/watch?v=ypzmPwLH_Q4) (2023)
 * Yann LeCun: [Objective-Driven AI](https://drive.google.com/file/d/1wzHohvoSgKGZvzOWqZybjm4M4veKR6t3/view) (2023)
 
