@@ -11,6 +11,9 @@ title: GPUs
 * [Tim Dettmers](https://timdettmers.com/):
   * [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/), 2023
   * [TPUs vs GPUs for Transformers (BERT)](https://timdettmers.com/2018/10/17/tpus-vs-gpus-for-transformers-bert/), 2018
+* J. Stern: [A comprehensive guide to memory usage in PyTorch](https://medium.com/deep-learning-for-protein-design/a-comprehensive-guide-to-memory-usage-in-pytorch-b9b7c78031d3) (2021)
+* Allan Witt: [Best Computer to Run LLaMA AI Model at Home (GPU, CPU, RAM, SSD)](https://www.hardware-corner.net/guides/computer-to-run-llama-ai-model/) (2023)
+
 
 #### Quantization
 * [Tim Dettmers](https://timdettmers.com/):

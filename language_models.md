@@ -84,7 +84,9 @@ gradient for the vast majority of the parameters
   * [Latent Space Live: Responding to the Leaked Google vs OpenAI strategy memo ](https://www.youtube.com/watch?v=GR8i7PfWaVw) (2023)
   * [Training Mosaic's "llongboi" MPT-7B in 9 days for $200k with an empty logbook, how to prep good data for your training, and the future of open models](https://www.latent.space/p/mosaic-mpt-7b#details) (2023)
 * [James Briggs](https://www.youtube.com/c/jamesbriggs)
-  * [Llama2: AI Developer Handbook](https://www.pinecone.io/learn/llama-2/) (2023)!
+  * [Llama2: AI Developer Handbook](https://www.pinecone.io/learn/llama-2/) (2023)
+    * Llama2 70B model requires 35GB of GPU memory. Use A100 (AWS p4d) which has 40GB.
+    * Llama2 13B model requires 
   * Langchain, Llama2 quantized, Pinecone: [Better Llama 2 with Retrieval Augmented Generation (RAG)](https://www.youtube.com/watch?v=ypzmPwLH_Q4) (2023)
 * Yann LeCun: [Objective-Driven AI](https://drive.google.com/file/d/1wzHohvoSgKGZvzOWqZybjm4M4veKR6t3/view) (2023)
 
