@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: Natural Language Processing
+title: Language Models
 ---
 #### Courses
 * [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) (2023)
