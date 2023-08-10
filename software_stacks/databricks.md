@@ -106,6 +106,11 @@ title: Databricks Software Stack
 #### Dashboards
 * [Advancing Spark - The Hidden Databricks Dashboard Tool](https://www.youtube.com/watch?v=3va2K-vfTQE) (2020)
 
+### Model Serving
+* Github: [Databricks-GPU-Serving-Examples](https://github.com/ahdbilal/Databricks-GPU-Serving-Examples)
+* [Model serving with Databricks](https://docs.databricks.com/en/machine-learning/model-serving/index.html)
+  * [Send scoring requests to serving endpoints](https://docs.databricks.com/en/machine-learning/model-serving/score-model-serving-endpoints.html)
+
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
 * [Machine Learning](../machine_learning.md)
