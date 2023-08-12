@@ -20,7 +20,8 @@ title: Language Models
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf), J. Devlin et al (2019)
 * [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html), A. Rush et al (2018)
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf), A. Vaswani et al (2017)
-* [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf) (2023)XS
+* [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf) (2023)
+* R. Bommasani et al: [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258) (2022)
 
 #### Conferences
 * [ICML '23](https://icml.cc/virtual/2023/events/workshop)
