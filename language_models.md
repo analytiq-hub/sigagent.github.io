@@ -22,6 +22,7 @@ title: Language Models
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf), A. Vaswani et al (2017)
 * [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf) (2023)
 * R. Bommasani et al: [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf) (2022)
+* Doug Lenat: [Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](https://arxiv.org/ftp/arxiv/papers/2308/2308.04445.pdf) (2023)
 
 #### Conferences
 * [ICML '23](https://icml.cc/virtual/2023/events/workshop)
