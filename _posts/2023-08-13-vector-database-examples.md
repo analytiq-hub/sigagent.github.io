@@ -9,3 +9,7 @@ References:
 * [Postgres pgvector Extension - Vector Database with PostgreSQL / Langchain Integration](https://www.youtube.com/watch?v=FDBnyJu_Ndg)
 * Weaviate: Erika Cardenas: [Vector Library versus Vector Database](https://weaviate.io/blog/vector-library-vs-vector-database) (2023)
 * Duncan Blythe: [An overview of vector search libraries and databases](https://www.linkedin.com/pulse/overview-vector-search-libraries-databases-duncan-blythe/) (2023)
+* Hacker News thread: [Vector search just got up to 10x faster, easier to set up, and vertically scalable](https://news.ycombinator.com/item?id=32487856)
+* Dmitry Kan:
+  * [Not All Vector Databases Are Made Equal](https://towardsdatascience.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696) (2023)
+  * [Where Vector Search is Taking Us](https://haystackconf.com/files/slides/haystack2022/Dmitry-Haystack-Keynote.pdf) (Sept 2022)
