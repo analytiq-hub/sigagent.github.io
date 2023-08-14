@@ -13,7 +13,7 @@ title: GPUs
   * [TPUs vs GPUs for Transformers (BERT)](https://timdettmers.com/2018/10/17/tpus-vs-gpus-for-transformers-bert/), 2018
 * J. Stern: [A comprehensive guide to memory usage in PyTorch](https://medium.com/deep-learning-for-protein-design/a-comprehensive-guide-to-memory-usage-in-pytorch-b9b7c78031d3) (2021)
 * Allan Witt: [Best Computer to Run LLaMA AI Model at Home (GPU, CPU, RAM, SSD)](https://www.hardware-corner.net/guides/computer-to-run-llama-ai-model/) (2023)
-
+* [Nvidia H100 GPUs: Supply and Demand](https://gpus.llm-utils.org/nvidia-h100-gpus-supply-and-demand/#whats-the-most-common-need-from-llm-startups)
 
 #### Quantization
 * [Tim Dettmers](https://timdettmers.com/):
