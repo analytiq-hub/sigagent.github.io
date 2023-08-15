@@ -94,6 +94,7 @@ gradient for the vast majority of the parameters
     * Llama2 13B with 4 bit quantization requires requires 7GB VRAM. Use T4 which has 16G VRAM.
     * Llama2 7B requires 3.5GB VRAM.
   * Langchain, Llama2 quantized, Pinecone: [Better Llama 2 with Retrieval Augmented Generation (RAG)](https://www.youtube.com/watch?v=ypzmPwLH_Q4) (2023)
+* [LangChain Talk](https://docs.google.com/presentation/d/1exjoapZ4EB_2xSQ7BSfSdPsZT30ap_6N3bi37F3cG0E/edit#slide=id.g23a07b78d21_0_217) (2023)
 * Yann LeCun: [Objective-Driven AI](https://drive.google.com/file/d/1wzHohvoSgKGZvzOWqZybjm4M4veKR6t3/view) (2023)
 
 #### Tools
