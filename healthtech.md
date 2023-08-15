@@ -11,6 +11,7 @@ title: Healthtech
 * [ChatGPT: Will It Transform the World of Health Care?](https://www.youtube.com/watch?v=j-aOCuzfxUI&t=779s) (2023)
 * Callin.com:
   * [Get Generative AI To Work For You with Steven Wardell and Stephen Hau](https://www.callin.com/episode/get-generative-ai-to-work-for-you-with-steven-CaEcnQcsCX) (Jun 2023)
+  * [Will AI Replace Your Doctor? With Steven Wardell and Harvey Castro, MD](https://www.callin.com/episode/will-ai-replace-your-doctor-with-steven-wardell-HVFLMJykCL) (May 2023)
 
 #### Companies
 * [Glass AI](https://glass.health), [NPR story](https://www.npr.org/sections/health-shots/2023/04/05/1167993888/chatgpt-medicine-artificial-intelligence-healthcare)
