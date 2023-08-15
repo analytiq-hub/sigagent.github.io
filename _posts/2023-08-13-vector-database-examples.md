@@ -14,3 +14,6 @@ References:
   * [Not All Vector Databases Are Made Equal](https://towardsdatascience.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696) (2023)
   * [Where Vector Search is Taking Us](https://haystackconf.com/files/slides/haystack2022/Dmitry-Haystack-Keynote.pdf) (Sept 2022)
 * Reddit: [Open source vector databases?](https://www.reddit.com/r/ChatGPTCoding/comments/14112ol/open_source_vector_databases/) (2023)
+* Marqo
+  * [Simple wiki demo](https://docs.marqo.ai/0.0.10/End-to-End%20Examples/simple_wiki_demo/) - gives errors
+  * Create marqo venv, `pip install marqo pytorch``
