@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: Healthtech
+title: Digital Health
 ---
 #### News
 * Dov Lieber, WSJ: [The People in This Medical Research Are Fake. The Innovations Are Real.](https://www.wsj.com/articles/the-people-in-this-medical-research-are-fake-the-innovations-are-real-11617717623) (2021)
@@ -29,7 +29,7 @@ title: Healthtech
 * [Computation Theory](/computation_theory)
 * [GPUs](/gpus)
 * [Healthcare](/healthcare)
-* [Healthtech](/healthtech)
+* [Digital Health](/digitalhealth)
 * [Language Models](/language_models)
 * [Meta Learning](/meta_learning)
 * [MLOps](/mlops)
