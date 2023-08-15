@@ -13,7 +13,7 @@ title: Healthtech
   * [Get Generative AI To Work For You with Steven Wardell and Stephen Hau](https://www.callin.com/episode/get-generative-ai-to-work-for-you-with-steven-CaEcnQcsCX) (Jun 2023)
   * [Will AI Replace Your Doctor? With Steven Wardell and Harvey Castro, MD](https://www.callin.com/episode/will-ai-replace-your-doctor-with-steven-wardell-HVFLMJykCL) (May 2023)
 * [AI + medicine - with Harvey Castro MD (GPT-4, Med-PaLM 2, Carbon Health, Ambience, 311 ChatGPT call)](https://www.youtube.com/watch?v=jTmkiGjrgpA)
-* Harvey Castro, MD: [AI and Healthcare: A Google Cloud Perspective with Sofia Marta](https://twitter.com/i/broadcasts/1lPKqBBemjmGb)
+* Harvey Castro: [AI and Healthcare: A Google Cloud Perspective with Sofia Marta](https://twitter.com/i/broadcasts/1lPKqBBemjmGb)
 
 #### Companies
 * [Glass AI](https://glass.health), [NPR story](https://www.npr.org/sections/health-shots/2023/04/05/1167993888/chatgpt-medicine-artificial-intelligence-healthcare)
