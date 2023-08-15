@@ -44,6 +44,10 @@ title: Language Models
 #### Tech stack
 *  Matt Bornstein, Rajko Radovanovic: [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/) (2023)
    * Andrei's [tweet](https://twitter.com/bitdribble/status/1672233355914428417)
+* A16z starter kits
+  * [A tool stack for building AI apps with JavaScript](https://github.com/a16z-infra/ai-getting-started)
+  * [A tool stack for building AI companions](https://github.com/a16z-infra/companion-app)
+  * [A chatbot build on Meta’s Llama2 open source model](https://github.com/a16z-infra/llama2-chatbot)
 
 #### Derivatives of LLaMA
 * E. Hu et al: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685), 2021
