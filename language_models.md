@@ -80,6 +80,7 @@ gradient for the vast majority of the parameters
 * Databricks:
   * Mike Conover et al: [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
   * [Databricks-GPU-Serving-Examples](https://github.com/ahdbilal/Databricks-GPU-Serving-Examples)
+* S. Vivek: [Build A Custom AI Based ChatBot Using Langchain, Weviate, and Streamlit](https://pub.towardsai.net/build-a-custom-ai-based-chatbot-using-langchain-weviate-and-streamlit-568efcdefca1) [github](https://github.com/LLM-Projects/docs-qa-bot/tree/main)
 
 #### Talks
 * [Advanced Natural Language Processing with Apache Spark NLP](https://www.youtube.com/watch?v=V9NBkxvSZmU&t=237s) (2021)
