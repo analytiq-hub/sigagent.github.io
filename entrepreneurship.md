@@ -22,6 +22,7 @@ title: Entrepreneurship
   * [Investor Update Emails](https://blog.eladgil.com/p/investor-update-emails) (2015)
   * [Is Stealth Mode Stupid?](https://blog.eladgil.com/p/is-stealth-mode-stupid) (2011)
   * [Is Your Startup A Cash or Equity Business?](https://blog.eladgil.com/p/is-your-startup-cash-or-equity-business) (2010)
+  * [Defensibility & Competition](https://blog.eladgil.com/p/defensibility-and-competition) (2023)
 * Charles Duhigg: [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) (2014)
 
 #### Talks
