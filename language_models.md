@@ -103,6 +103,7 @@ gradient for the vast majority of the parameters
 * [LangChain Talk](https://docs.google.com/presentation/d/1exjoapZ4EB_2xSQ7BSfSdPsZT30ap_6N3bi37F3cG0E/edit#slide=id.g23a07b78d21_0_217) (2023)
 * Yann LeCun: [Objective-Driven AI](https://drive.google.com/file/d/1wzHohvoSgKGZvzOWqZybjm4M4veKR6t3/view) (2023)
 * Weaviate: Connor Shorten: [Nils Reimers on Cohere Search AI](https://www.youtube.com/watch?v=KITxQzV97jw) (2023)
+  * [Say Goodbye to Irrelevant Search Results: Cohere Rerank Is Here](https://txt.cohere.com/rerank)
 * Ilya Sutskever: [An observation on Generalization](https://www.youtube.com/watch?v=AKMuA_TVz3A) (2023)
 
 #### Tools
