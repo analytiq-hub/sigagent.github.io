@@ -82,7 +82,10 @@ gradient for the vast majority of the parameters
   * [Databricks-GPU-Serving-Examples](https://github.com/ahdbilal/Databricks-GPU-Serving-Examples)
 * S. Vivek: [Build A Custom AI Based ChatBot Using Langchain, Weviate, and Streamlit](https://pub.towardsai.net/build-a-custom-ai-based-chatbot-using-langchain-weviate-and-streamlit-568efcdefca1) [github](https://github.com/LLM-Projects/docs-qa-bot/tree/main)
 * Ravi Theja: [LlamaIndex: Harnessing the Power of Text2SQL and RAG to Analyze Product Reviews](https://medium.com/llamaindex-blog/llamaindex-harnessing-the-power-of-text2sql-and-rag-to-analyze-product-reviews-204feabdf25b) (2023)
-* [Eugene Yan](https://eugeneyan.com/): [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/) (2023)
+* [Eugene Yan](https://eugeneyan.com/):
+  * [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/) (2023)
+  * [Obsidian-Copilot: An Assistant for Writing & Reflecting](https://eugeneyan.com/writing/obsidian-copilot/) (2023)
+  * [open-llms](https://github.com/eugeneyan/open-llms)
 
 #### Talks
 * [Advanced Natural Language Processing with Apache Spark NLP](https://www.youtube.com/watch?v=V9NBkxvSZmU&t=237s) (2021)
