@@ -88,6 +88,7 @@ gradient for the vast majority of the parameters
   * [open-llms](https://github.com/eugeneyan/open-llms)
 * LlamaIndex: Jerry Liu: [8 key considerations for building *production-grade* LLM apps over your data](https://twitter.com/jerryjliu0/status/1692931028963221929)
   * [LLamaIndex Webinar](https://www.youtube.com/watch?v=Zj5RCweUHIk)
+* Ori Eldarov: [McKinsey's Lilli: A Wake-Up Call for AI Startups](https://www.fullydistributed.co/p/mckinseys-lilli-a-wake-up-call-for) (2022)
 
 #### Talks
 * [Advanced Natural Language Processing with Apache Spark NLP](https://www.youtube.com/watch?v=V9NBkxvSZmU&t=237s) (2021)
