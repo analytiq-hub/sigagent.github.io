@@ -86,6 +86,8 @@ gradient for the vast majority of the parameters
   * [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/) (2023)
   * [Obsidian-Copilot: An Assistant for Writing & Reflecting](https://eugeneyan.com/writing/obsidian-copilot/) (2023)
   * [open-llms](https://github.com/eugeneyan/open-llms)
+* LlamaIndex: Jerry Liu: [8 key considerations for building *production-grade* LLM apps over your data](https://twitter.com/jerryjliu0/status/1692931028963221929)
+  * [LLamaIndex Webinar](https://www.youtube.com/watch?v=Zj5RCweUHIk)
 
 #### Talks
 * [Advanced Natural Language Processing with Apache Spark NLP](https://www.youtube.com/watch?v=V9NBkxvSZmU&t=237s) (2021)
