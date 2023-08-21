@@ -92,6 +92,8 @@ gradient for the vast majority of the parameters
   * [LLamaIndex Webinar](https://www.youtube.com/watch?v=Zj5RCweUHIk) (2023)
   * [This weekend I was inspired to create “Recursive Document Agents”...](https://twitter.com/jerryjliu0/status/1693421308674289822?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email) (2023)
 * [Ori Eldarov](https://substack.com/@fullydistributed): [McKinsey's Lilli: A Wake-Up Call for AI Startups](https://www.fullydistributed.co/p/mckinseys-lilli-a-wake-up-call-for) (2022)
+* Rick Lamers:
+  * [Never write a single shell command ever again! Today I'm releasing Shell AI...](https://twitter.com/RickLamers/status/1693365277793137067?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email)
 
 #### Talks
 * [Advanced Natural Language Processing with Apache Spark NLP](https://www.youtube.com/watch?v=V9NBkxvSZmU&t=237s) (2021)
