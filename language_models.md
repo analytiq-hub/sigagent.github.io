@@ -105,6 +105,7 @@ gradient for the vast majority of the parameters
 * Latent Space:
   * [Latent Space Live: Responding to the Leaked Google vs OpenAI strategy memo ](https://www.youtube.com/watch?v=GR8i7PfWaVw) (2023)
   * [Training Mosaic's "llongboi" MPT-7B in 9 days for $200k with an empty logbook, how to prep good data for your training, and the future of open models](https://www.latent.space/p/mosaic-mpt-7b#details) (2023)
+  * [The Mathematics of Training LLMs — with Quentin Anthony of Eleuther AI](https://www.latent.space/p/transformers-math)
 * [James Briggs](https://www.youtube.com/c/jamesbriggs)
   * [Llama2: AI Developer Handbook](https://www.pinecone.io/learn/llama-2/) (2023)
     * 4 bit quantization reduces VRAM reqirement 8x
