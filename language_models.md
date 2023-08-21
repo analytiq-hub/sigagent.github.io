@@ -24,6 +24,7 @@ title: Language Models
 * R. Bommasani et al: [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf) (2022)
 * Doug Lenat: [Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](https://arxiv.org/ftp/arxiv/papers/2308/2308.04445.pdf) (2023)
 * X. Li et al: [Self-Alignment with Instruction Backtranslation](https://arxiv.org/pdf/2308.06259.pdf), Meta (2023)
+  * AI Business: [Meet Humpback: Meta’s New AI Model That’s a Whale of an Upgrade of Llama](https://aibusiness.com/ml/meet-humpback-meta-s-new-ai-model-that-s-a-whale-of-an-upgrade-of-llama)
 
 #### Conferences
 * [ICML '23](https://icml.cc/virtual/2023/events/workshop)
@@ -88,7 +89,8 @@ gradient for the vast majority of the parameters
   * [Obsidian-Copilot: An Assistant for Writing & Reflecting](https://eugeneyan.com/writing/obsidian-copilot/) (2023)
   * [open-llms](https://github.com/eugeneyan/open-llms)
 * LlamaIndex: Jerry Liu: [8 key considerations for building *production-grade* LLM apps over your data](https://twitter.com/jerryjliu0/status/1692931028963221929)
-  * [LLamaIndex Webinar](https://www.youtube.com/watch?v=Zj5RCweUHIk)
+  * [LLamaIndex Webinar](https://www.youtube.com/watch?v=Zj5RCweUHIk) (2023)
+  * [This weekend I was inspired to create “Recursive Document Agents”...](https://twitter.com/jerryjliu0/status/1693421308674289822?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email) (2023)
 * [Ori Eldarov](https://substack.com/@fullydistributed): [McKinsey's Lilli: A Wake-Up Call for AI Startups](https://www.fullydistributed.co/p/mckinseys-lilli-a-wake-up-call-for) (2022)
 
 #### Talks
