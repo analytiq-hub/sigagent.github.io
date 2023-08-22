@@ -25,3 +25,4 @@ References:
   * Matt Robinson: [The Unstructured library now includes utilities to make loading Unstructured outputs into Weaviate quick and easy.](https://www.linkedin.com/posts/mthwrobinson_ingesting-pdfs-into-weaviate-weaviate-activity-7070142403541655552-XptZ/)
   * https://unstructured-io.github.io/unstructured/bricks.html#stage-for-weaviate
   * https://baincapitalventures.com/insight/how-unstructured-is-powering-the-llm-data-stack/
+* [Tutorial: How to get GPT to “read” from PDFs](https://medium.com/@brianlimyisheng1997/tutorial-how-to-get-gpt-to-read-from-pdfs-cccc4d189a2b)
