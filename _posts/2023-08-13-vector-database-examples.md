@@ -26,3 +26,4 @@ References:
   * https://unstructured-io.github.io/unstructured/bricks.html#stage-for-weaviate
   * https://baincapitalventures.com/insight/how-unstructured-is-powering-the-llm-data-stack/
 * [Tutorial: How to get GPT to “read” from PDFs](https://medium.com/@brianlimyisheng1997/tutorial-how-to-get-gpt-to-read-from-pdfs-cccc4d189a2b)
+* [ 12 Vector Databases For 2023: A Review](https://lakefs.io/blog/12-vector-databases-2023/)
