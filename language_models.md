@@ -23,6 +23,8 @@ title: Language Models
 * [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf) (2023)
 * R. Bommasani et al: [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf) (2022)
 * Doug Lenat: [Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](https://arxiv.org/ftp/arxiv/papers/2308/2308.04445.pdf) (2023)
+* X. Li et al: [Self-Alignment with Instruction Backtranslation](https://arxiv.org/pdf/2308.06259.pdf), Meta (2023)
+  * AI Business: [Meet Humpback: Meta’s New AI Model That’s a Whale of an Upgrade of Llama](https://aibusiness.com/ml/meet-humpback-meta-s-new-ai-model-that-s-a-whale-of-an-upgrade-of-llama)
 
 #### Conferences
 * [ICML '23](https://icml.cc/virtual/2023/events/workshop)
@@ -81,6 +83,17 @@ gradient for the vast majority of the parameters
   * Mike Conover et al: [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
   * [Databricks-GPU-Serving-Examples](https://github.com/ahdbilal/Databricks-GPU-Serving-Examples)
 * S. Vivek: [Build A Custom AI Based ChatBot Using Langchain, Weviate, and Streamlit](https://pub.towardsai.net/build-a-custom-ai-based-chatbot-using-langchain-weviate-and-streamlit-568efcdefca1) [github](https://github.com/LLM-Projects/docs-qa-bot/tree/main)
+* Ravi Theja: [LlamaIndex: Harnessing the Power of Text2SQL and RAG to Analyze Product Reviews](https://medium.com/llamaindex-blog/llamaindex-harnessing-the-power-of-text2sql-and-rag-to-analyze-product-reviews-204feabdf25b) (2023)
+* [Eugene Yan](https://eugeneyan.com/):
+  * [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/) (2023)
+  * [Obsidian-Copilot: An Assistant for Writing & Reflecting](https://eugeneyan.com/writing/obsidian-copilot/) (2023)
+  * [open-llms](https://github.com/eugeneyan/open-llms)
+* LlamaIndex: Jerry Liu: [8 key considerations for building *production-grade* LLM apps over your data](https://twitter.com/jerryjliu0/status/1692931028963221929)
+  * [LLamaIndex Webinar](https://www.youtube.com/watch?v=Zj5RCweUHIk) (2023)
+  * [This weekend I was inspired to create “Recursive Document Agents”...](https://twitter.com/jerryjliu0/status/1693421308674289822?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email) (2023)
+* [Ori Eldarov](https://substack.com/@fullydistributed): [McKinsey's Lilli: A Wake-Up Call for AI Startups](https://www.fullydistributed.co/p/mckinseys-lilli-a-wake-up-call-for) (2022)
+* Rick Lamers:
+  * [Never write a single shell command ever again! Today I'm releasing Shell AI...](https://twitter.com/RickLamers/status/1693365277793137067?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email)
 
 #### Talks
 * [Advanced Natural Language Processing with Apache Spark NLP](https://www.youtube.com/watch?v=V9NBkxvSZmU&t=237s) (2021)
@@ -92,6 +105,7 @@ gradient for the vast majority of the parameters
 * Latent Space:
   * [Latent Space Live: Responding to the Leaked Google vs OpenAI strategy memo ](https://www.youtube.com/watch?v=GR8i7PfWaVw) (2023)
   * [Training Mosaic's "llongboi" MPT-7B in 9 days for $200k with an empty logbook, how to prep good data for your training, and the future of open models](https://www.latent.space/p/mosaic-mpt-7b#details) (2023)
+  * [The Mathematics of Training LLMs — with Quentin Anthony of Eleuther AI](https://www.latent.space/p/transformers-math)
 * [James Briggs](https://www.youtube.com/c/jamesbriggs)
   * [Llama2: AI Developer Handbook](https://www.pinecone.io/learn/llama-2/) (2023)
     * 4 bit quantization reduces VRAM reqirement 8x
@@ -102,6 +116,7 @@ gradient for the vast majority of the parameters
 * [LangChain Talk](https://docs.google.com/presentation/d/1exjoapZ4EB_2xSQ7BSfSdPsZT30ap_6N3bi37F3cG0E/edit#slide=id.g23a07b78d21_0_217) (2023)
 * Yann LeCun: [Objective-Driven AI](https://drive.google.com/file/d/1wzHohvoSgKGZvzOWqZybjm4M4veKR6t3/view) (2023)
 * Weaviate: Connor Shorten: [Nils Reimers on Cohere Search AI](https://www.youtube.com/watch?v=KITxQzV97jw) (2023)
+  * [Say Goodbye to Irrelevant Search Results: Cohere Rerank Is Here](https://txt.cohere.com/rerank)
 * Ilya Sutskever: [An observation on Generalization](https://www.youtube.com/watch?v=AKMuA_TVz3A) (2023)
 
 #### Tools

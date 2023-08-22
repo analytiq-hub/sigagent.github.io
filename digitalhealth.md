@@ -8,6 +8,9 @@ title: Digital Health
 * Isabella Bousquette, WSJ: [AI-Generated Data Could Be a Boon for Healthcare—If Only It Seemed More Real](https://www.wsj.com/articles/ai-generated-data-could-be-a-boon-for-healthcareif-only-it-seemed-more-real-5bfe52dd?mod=hp_minor_pos4) (2023)
 * a16z: [AI at the Intersection: The a16z Investment Thesis on AI in Bio + Health](https://a16z.com/2023/06/21/ai-bio-health-thesis) (2023)
 
+#### Papers
+* Google, Deep Mind: K. Singhal et al: [Towards Expert-Level Medical Question Answering with Large Language Models](https://arxiv.org/pdf/2305.09617.pdf) (2023)
+
 #### Talks
 * [ChatGPT: Will It Transform the World of Health Care?](https://www.youtube.com/watch?v=j-aOCuzfxUI&t=779s) (2023)
 * Callin.com:
