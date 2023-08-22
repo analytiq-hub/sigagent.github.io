@@ -118,6 +118,7 @@ gradient for the vast majority of the parameters
 * Weaviate: Connor Shorten: [Nils Reimers on Cohere Search AI](https://www.youtube.com/watch?v=KITxQzV97jw) (2023)
   * [Unstructured with Brian Raymond](https://www.youtube.com/watch?v=b84Q2cJ6po8) (2023)
   * [Say Goodbye to Irrelevant Search Results: Cohere Rerank Is Here](https://txt.cohere.com/rerank) (2023)
+  * [Bob van Luijt on Generative Search with Weaviate](https://www.youtube.com/watch?v=ro3ln4A9N8w) (2023)
 * Ilya Sutskever: [An observation on Generalization](https://www.youtube.com/watch?v=AKMuA_TVz3A) (2023)
 
 #### Tools
