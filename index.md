@@ -50,6 +50,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [History](/history)
 * [Information Theory](/information_theory)
 * [Intellectual History](/intellectual_history)
+* [Jupyter](jupyter.md)
 * Kernel & System Programming
   * [Linux Kernel](/linux_kernel)
   * [System Programming](/system_programming)
