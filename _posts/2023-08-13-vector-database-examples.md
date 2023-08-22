@@ -22,3 +22,4 @@ References:
 * [https://healthsearch-frontend.onrender.com/](https://healthsearch-frontend.onrender.com/)
 * Unstructured
   * [examples](https://github.com/Unstructured-IO/unstructured/tree/main/examples)
+  * https://unstructured-io.github.io/unstructured/bricks.html#stage-for-weaviate
