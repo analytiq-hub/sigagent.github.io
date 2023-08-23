@@ -120,6 +120,7 @@ gradient for the vast majority of the parameters
   * [Say Goodbye to Irrelevant Search Results: Cohere Rerank Is Here](https://txt.cohere.com/rerank) (2023)
   * [Bob van Luijt on Generative Search with Weaviate](https://www.youtube.com/watch?v=ro3ln4A9N8w) (2023)
   * Stefan Bogdan: [Getting Started with Weaviate Python Library](https://towardsdatascience.com/getting-started-with-weaviate-python-client-e85d14f19e4f) (2021)
+  * [Weaviate Meetup June – Architecture Deep Dive, how to build a vector database](https://www.youtube.com/watch?v=6hdEJdHWXRE&t=13s) (2021)
 * Ilya Sutskever: [An observation on Generalization](https://www.youtube.com/watch?v=AKMuA_TVz3A) (2023)
 
 #### Tools
