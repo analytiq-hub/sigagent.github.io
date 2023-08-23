@@ -20,6 +20,9 @@ References:
 * [Tutorial: How to get GPT to “read” from PDFs](https://medium.com/@brianlimyisheng1997/tutorial-how-to-get-gpt-to-read-from-pdfs-cccc4d189a2b)
 * [ 12 Vector Databases For 2023: A Review](https://lakefs.io/blog/12-vector-databases-2023/)
 
+* LabelStudio
+  * [Customized Layout Detection for Scientific PDFs with LayoutParser and Label Studio](https://www.youtube.com/watch?v=puOKTFXRyr4) (2022)
+
 * Unstructured
   * Install
     * `pip install unstructured unstructured-inference`
