@@ -2,6 +2,9 @@ layout: page
 title: Jupyter Notebooks
 ---
 
+#### Docs
+* [jupyter.org](https://jupyter.org) [install](https://jupyter.org/install)
+
 #### Posts
 * C. Schranz: [Set up Your own GPU-based Jupyter easily using Docker](https://cschranz.medium.com/set-up-your-own-gpu-based-jupyterlab-e0d45fcacf43) (2023)
 * C. Schranz: [Connect your remote GPU-Jupyter to your local VS Code — A great Deep Learning Solution](https://cschranz.medium.com/connect-vs-code-to-your-remote-gpu-jupyter-instance-58b86a195d9e) (2023)
