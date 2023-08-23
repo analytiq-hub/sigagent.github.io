@@ -3,7 +3,11 @@ title: Jupyter Notebooks
 ---
 
 #### Docs
-* [jupyter.org](https://jupyter.org) [install](https://jupyter.org/install)
+* [jupyter.org](https://jupyter.org)
+  * [Install](https://jupyter.org/install)
+    * `pip install jupyterlab notebook`
+    * Put `~/.local/bin/` in the `PATH`
+    * Execute `jupyter lab` to start the lab, `jupyter notebook` to start the notebook
 
 #### Posts
 * C. Schranz: [Set up Your own GPU-based Jupyter easily using Docker](https://cschranz.medium.com/set-up-your-own-gpu-based-jupyterlab-e0d45fcacf43) (2023)
