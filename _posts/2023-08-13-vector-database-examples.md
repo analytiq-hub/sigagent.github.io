@@ -7,9 +7,6 @@ categories: machine_learning
 References:
 * [Building AI-powered apps on Google Cloud databases using pgvector, LLMs and LangChain](https://cloud.google.com/blog/products/databases/using-pgvector-llms-and-langchain-with-google-cloud-databases), [colab](https://colab.research.google.com/github/GoogleCloudPlatform/python-docs-samples/blob/main/cloud-sql/postgres/pgvector/notebooks/pgvector_gen_ai_demo.ipynb#scrollTo=DS7GdlJ1XowY)
 * [Postgres pgvector Extension - Vector Database with PostgreSQL / Langchain Integration](https://www.youtube.com/watch?v=FDBnyJu_Ndg)
-* Weaviate:
-  * Erika Cardenas: [Vector Library versus Vector Database](https://weaviate.io/blog/vector-library-vs-vector-database) (2023)
-  * Erika Cardenas, Mohd Shukri Hasan: [Ingesting PDFs into Weaviate](https://weaviate.io/blog/ingesting-pdfs-into-weaviate) (2023)
 * Duncan Blythe: [An overview of vector search libraries and databases](https://www.linkedin.com/pulse/overview-vector-search-libraries-databases-duncan-blythe/) (2023)
 * Hacker News thread: [Vector search just got up to 10x faster, easier to set up, and vertically scalable](https://news.ycombinator.com/item?id=32487856)
 * Dmitry Kan:
@@ -20,10 +17,22 @@ References:
   * [Simple wiki demo](https://docs.marqo.ai/0.0.10/End-to-End%20Examples/simple_wiki_demo/) - gives errors
   * Create marqo venv, `pip install marqo pytorch``
 * [https://healthsearch-frontend.onrender.com/](https://healthsearch-frontend.onrender.com/)
+* [Tutorial: How to get GPT to “read” from PDFs](https://medium.com/@brianlimyisheng1997/tutorial-how-to-get-gpt-to-read-from-pdfs-cccc4d189a2b)
+* [ 12 Vector Databases For 2023: A Review](https://lakefs.io/blog/12-vector-databases-2023/)
+
 * Unstructured
+  * Install
+    * `pip install unstructured unstructured-inference`
+    * `pip install git+https://github.com/facebookresearch/detectron2.git`
+    * `sudo apt install tesseract-ocr`
+    * `sudo apt install libtesseract-dev`    
   * [examples](https://github.com/Unstructured-IO/unstructured/tree/main/examples)
   * Matt Robinson: [The Unstructured library now includes utilities to make loading Unstructured outputs into Weaviate quick and easy.](https://www.linkedin.com/posts/mthwrobinson_ingesting-pdfs-into-weaviate-weaviate-activity-7070142403541655552-XptZ/)
   * https://unstructured-io.github.io/unstructured/bricks.html#stage-for-weaviate
   * https://baincapitalventures.com/insight/how-unstructured-is-powering-the-llm-data-stack/
-* [Tutorial: How to get GPT to “read” from PDFs](https://medium.com/@brianlimyisheng1997/tutorial-how-to-get-gpt-to-read-from-pdfs-cccc4d189a2b)
-* [ 12 Vector Databases For 2023: A Review](https://lakefs.io/blog/12-vector-databases-2023/)
+
+* Weaviate:
+  * Install
+    * Requires `unstructured`
+  * Erika Cardenas: [Vector Library versus Vector Database](https://weaviate.io/blog/vector-library-vs-vector-database) (2023)
+  * Erika Cardenas, Mohd Shukri Hasan: [Ingesting PDFs into Weaviate](https://weaviate.io/blog/ingesting-pdfs-into-weaviate) (2023)
