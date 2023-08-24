@@ -50,6 +50,8 @@ title: Language Models
   * [A tool stack for building AI apps with JavaScript](https://a16z.com/2023/06/21/the-getting-started-with-ai-stack-for-javascript), [github](https://github.com/a16z-infra/ai-getting-started), [discored]](https://discord.com/invite/PQUmTBTGmT)
   * [A tool stack for building AI companions](https://github.com/a16z-infra/companion-app)
   * [A chatbot build on Meta’s Llama2 open source model](https://github.com/a16z-infra/llama2-chatbot)
+* OpenAI
+  * [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) (2023)
 
 #### Derivatives of LLaMA
 * E. Hu et al: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685), 2021
