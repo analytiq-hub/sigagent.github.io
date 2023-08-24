@@ -25,6 +25,7 @@ title: Cloud Data Platform
 * [Facebook](/software_stacks/facebook)
 * [Ray](/software_stacks/ray)
 * [Uber](/software_stacks/uber)
+* [Weaviate](/software_stacks/weaviate)
 
 #### ETL (Extract, Transform, Load)
 * [Airbyte](/software_stacks/airbyte)
