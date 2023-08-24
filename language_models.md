@@ -52,6 +52,7 @@ title: Language Models
   * [A chatbot build on Meta’s Llama2 open source model](https://github.com/a16z-infra/llama2-chatbot)
 * OpenAI
   * [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) (2023), [docs](https://platform.openai.com/docs/guides/fine-tuning)
+  * [GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 
 #### Derivatives of LLaMA
 * E. Hu et al: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685), 2021
