@@ -18,6 +18,9 @@ title: Weaviate Software Stack
   * [Question Answering - transfomers](https://weaviate.io/developers/weaviate/modules/reader-generator-modules/qna-transformers)
   * Cohere, Santiago, Bob Van Luijt: [AI and the Future of Search](https://twitter.com/cohere/status/1636396916157079554?s=46&t=Zzg6vgh4rwmYEkdV-3v5gg) Twitter talk (2023)
 
+* Docker nvidia runtime is required for Weaviate:
+  * [New Docker CLI API Support for NVIDIA GPUs under Docker Engine 19.03.0 Pre-Release](https://collabnix.com/introducing-new-docker-cli-api-support-for-nvidia-gpus-under-docker-engine-19-03-0-beta-release/) (2019)
+
 #### Other
 * [Cloud Data Platform](/cloud_data_platform)
 * [Language Models](/language_models)
