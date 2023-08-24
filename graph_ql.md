@@ -4,7 +4,9 @@ mathjax: true
 title: Graph QL
 ---
 
-* Net Ninja: [GraphQL Tutorial #1 - Introduction to GraphQL](https://www.youtube.com/watch?v=Y0lDGjwRYKw)
+* [Net Ninja]
+  * [GraphQL Tutorial #1 - Introduction to GraphQL](https://www.youtube.com/watch?v=Y0lDGjwRYKw)
+  * [GraphQL Tutorial #2 - A Birdseye View of GraphQL](https://www.youtube.com/watch?v=bUD6ERbcXrQ)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
