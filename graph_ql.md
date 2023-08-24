@@ -7,6 +7,7 @@ title: Graph QL
 * [Net Ninja]
   * [GraphQL Tutorial #1 - Introduction to GraphQL](https://www.youtube.com/watch?v=Y0lDGjwRYKw)
   * [GraphQL Tutorial #2 - A Birdseye View of GraphQL](https://www.youtube.com/watch?v=bUD6ERbcXrQ)
+  * [GraphQL Tutorial #3 - Project (stack) Overview](https://www.youtube.com/watch?v=g3IBx2RFl38)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
