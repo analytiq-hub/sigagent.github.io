@@ -25,6 +25,7 @@ title: Language Models
 * Doug Lenat: [Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](https://arxiv.org/ftp/arxiv/papers/2308/2308.04445.pdf) (2023)
 * X. Li et al: [Self-Alignment with Instruction Backtranslation](https://arxiv.org/pdf/2308.06259.pdf), Meta (2023)
   * AI Business: [Meet Humpback: Meta’s New AI Model That’s a Whale of an Upgrade of Llama](https://aibusiness.com/ml/meet-humpback-meta-s-new-ai-model-that-s-a-whale-of-an-upgrade-of-llama)
+* Y. Wang et al: [SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/pdf/2212.10560.pdf) (2023)
 
 #### Conferences
 * [ICML '23](https://icml.cc/virtual/2023/events/workshop)
