@@ -66,6 +66,7 @@ title: Entrepreneurship
 #### Funding
 * See [Funding for Entrepreneurship](/entrepreneurship/funding)
 * [DOD Grants](https://www.grants.gov/search-grants.html?agencyCode=DOD)
+* Venture Hacks: [The Option Pool Shuffle](https://venturehacks.com/option-pool-shuffle) (2007)
 
 #### Founders
 * Paul Graham:[What to look for in founders](http://www.paulgraham.com/founders.html) (2010)
