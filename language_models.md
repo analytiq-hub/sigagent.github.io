@@ -54,6 +54,9 @@ title: Language Models
   * [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) (2023), [docs](https://platform.openai.com/docs/guides/fine-tuning)
   * [GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 
+#### Datasets
+* [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
+
 #### Derivatives of LLaMA
 * E. Hu et al: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685), 2021
   * LoRA freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture
