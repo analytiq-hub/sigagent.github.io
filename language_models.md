@@ -44,6 +44,7 @@ title: Language Models
 * [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf), A. Chowdhery et al (2022)
 * [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/), G. Lample et al, Meta (2023)
 * [Code Llama: Open Foundation Models for Code](https://scontent.fphl1-1.fna.fbcdn.net/v/t39.2365-6/369856151_1754812304950972_1159666448927483931_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=BnkB4kcpz5AAX9Oc-m-&_nc_ht=scontent.fphl1-1.fna&oh=00_AfA9H1CFM3LjWZ-32bnJtejUJghfnG016Di5hJHGZGnonQ&oe=64ECB20F) (2023)
+* [DSPy](https://github.com/stanfordnlp/dspy)
 
 #### Explainability
 * OpenAI: S. Bills et al: [Language models can explain neurons in language models](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) (2023)
