@@ -15,6 +15,7 @@ title: Cloud Data Platform
 * [Google](/software_stacks/google)
 * [Iguazio](/software_stacks/iguazio)
 * [Kubernetes](/software_stacks/kubernetes)
+* [LlamaIndex](/software_stacks/llamaindex)
 * [Lyft](/software_stacks/lydt)
 * [Neptune.ai](https://neptune.ai/)
 * [Onehouse](/software_stacks/onehouse)
