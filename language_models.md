@@ -25,6 +25,7 @@ title: Language Models
 * Doug Lenat: [Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](https://arxiv.org/ftp/arxiv/papers/2308/2308.04445.pdf) (2023)
 * X. Li et al: [Self-Alignment with Instruction Backtranslation](https://arxiv.org/pdf/2308.06259.pdf), Meta (2023)
   * AI Business: [Meet Humpback: Meta’s New AI Model That’s a Whale of an Upgrade of Llama](https://aibusiness.com/ml/meet-humpback-meta-s-new-ai-model-that-s-a-whale-of-an-upgrade-of-llama)
+* Y. Wang et al: [SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/pdf/2212.10560.pdf) (2023)
 
 #### Conferences
 * [ICML '23](https://icml.cc/virtual/2023/events/workshop)
@@ -50,6 +51,12 @@ title: Language Models
   * [A tool stack for building AI apps with JavaScript](https://a16z.com/2023/06/21/the-getting-started-with-ai-stack-for-javascript), [github](https://github.com/a16z-infra/ai-getting-started), [discored]](https://discord.com/invite/PQUmTBTGmT)
   * [A tool stack for building AI companions](https://github.com/a16z-infra/companion-app)
   * [A chatbot build on Meta’s Llama2 open source model](https://github.com/a16z-infra/llama2-chatbot)
+* OpenAI
+  * [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) (2023), [docs](https://platform.openai.com/docs/guides/fine-tuning)
+  * [GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+
+#### Datasets
+* [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 
 #### Derivatives of LLaMA
 * E. Hu et al: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685), 2021
