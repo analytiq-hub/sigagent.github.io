@@ -123,6 +123,9 @@ gradient for the vast majority of the parameters
   * [Weaviate Meetup June – Architecture Deep Dive, how to build a vector database](https://www.youtube.com/watch?v=6hdEJdHWXRE&t=13s) (2021)
   * [Weaviate Meetup – Getting Started (setup, vectorizers, schemas, importing data and GraphQL)](https://www.youtube.com/watch?v=L0Y_zZR8FRI) (2022)
   * [Console](https://console.semi.technology/console) can be pointed to local weaviate instance
+  * Need `pip install git+https://github.com/facebookresearch/detectron2.git` installed in order to get `unstructured` to parse pdfs with `hi_res` strategy
+  * Connor Shorten: [Ranking Models for Better Search](https://weaviate.io/blog/ranking-models-for-better-search) (2023)
+  * [Question Answering - transfomers](https://weaviate.io/developers/weaviate/modules/reader-generator-modules/qna-transformers)
 * Ilya Sutskever: [An observation on Generalization](https://www.youtube.com/watch?v=AKMuA_TVz3A) (2023)
 
 #### Tools
