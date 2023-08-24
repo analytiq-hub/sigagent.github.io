@@ -3,6 +3,9 @@ layout: page
 mathjax: true
 title: Language Models
 ---
+
+* [Docs](https://weaviate.io/developers/weaviate), [github](), [Slack](https://weaviate.slack.com)
+
 #### Courses
 * [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) (2023)
   * Charles Frye: [Learn to Spell: Prompt Engineering](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/)

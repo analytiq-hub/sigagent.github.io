@@ -47,6 +47,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Film](/film)
 * [Game Theory](/game_theory)
 * [GPUs](/gpus)
+* [GraphQL](/graph_ql)
 * [History](/history)
 * [Information Theory](/information_theory)
 * [Intellectual History](/intellectual_history)
