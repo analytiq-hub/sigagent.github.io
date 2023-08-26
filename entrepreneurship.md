@@ -93,6 +93,7 @@ title: Entrepreneurship
     * [Frequency bio](https://frequency.pillar.vc)
 * [Underscore](https://underscore.vc)
   * [Startup Secrets](https://underscore.vc/startupsecrets/)
+    * [A Simple Board and Investor Update Template (With Examples)](https://underscore.vc/startupsecrets/investor-update-template/)
 
 #### Incubators
 * [MassRobotics](https://www.massrobotics.org), [@MassRobotics](https://twitter.com/MassRobotics)
