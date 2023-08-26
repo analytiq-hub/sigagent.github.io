@@ -29,7 +29,11 @@ title: Language Models
 * X. Li et al: [Self-Alignment with Instruction Backtranslation](https://arxiv.org/pdf/2308.06259.pdf), Meta (2023)
   * AI Business: [Meet Humpback: Meta’s New AI Model That’s a Whale of an Upgrade of Llama](https://aibusiness.com/ml/meet-humpback-meta-s-new-ai-model-that-s-a-whale-of-an-upgrade-of-llama)
 * Y. Wang et al: [SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/pdf/2212.10560.pdf) (2023)
-* McKinsey: [Technology’s generational moment with generative AI: A CIO and CTO guide](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/technologys-generational-moment-with-generative-ai-a-cio-and-cto-guide) (2023)
+
+# Economic Impact:
+* McKinsey
+  * [Technology’s generational moment with generative AI: A CIO and CTO guide](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/technologys-generational-moment-with-generative-ai-a-cio-and-cto-guide) (2023)
+  * [The economic potential of generative AI: The next productivity frontier](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-AI-the-next-productivity-frontier#work-and-productivity) (2023)
 
 #### Conferences
 * [ICML '23](https://icml.cc/virtual/2023/events/workshop)
