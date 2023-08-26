@@ -49,7 +49,7 @@ title: Entrepreneurship
   * [5 investors discuss Boston’s resilient tech ecosystem](https://techcrunch.com/2023/02/27/5-investors-discuss-why-bostons-tech-ecosystem-is-as-resilient-as-they-come/) (Feb 2023)
 * Jason Calacanis: 
   * [The Blueprint E 1: Branding yourself](https://youtu.be/7BHdaE9sDtA?t=94) 
-  * [The Blueprint E 3: How to build and supercharge your network](https://www.youtube.com/watch?v=aYbogrgHFXg&t=
+  * [The Blueprint E 3: How to build and supercharge your network](https://www.youtube.com/watch?v=aYbogrgHFXg&t=)
 * Tony Kulesa:
   * [A relatively small amount of force applied at just the right place](https://www.tonykulesa.com/p/a-relatively-small-amount-of-force) - Explaining Y Combinator (2023)
   * [Tyler Cowen is the best curator of talent in the world](https://www.tonykulesa.com/p/tyler-cowen-is-the-best-curator-of) (2021)
