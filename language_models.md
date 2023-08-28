@@ -137,6 +137,7 @@ gradient for the vast majority of the parameters
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html), see [Langchain](/software_stacks/langchain)
 * [LLamaHub](https://llamahub.ai/), [github](https://github.com/emptycrown/llama-hub)
+* [Chromadb](https://www.trychroma.com/), see [Chromadb](/software_stacks/chromadb)
 * [Pinecone](https://www.pinecone.io/)
 * [Replit](https://replit.com)
 * [Langview](https://twitter.com/rupert_parry/status/1653780093712633859) demo
