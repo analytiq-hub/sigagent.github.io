@@ -45,3 +45,49 @@ References:
 * Weavite chat:
   * Andrei: Hi, I'm trying to use Weaviate to have chat and summarization with a large number of PDFs (hundreds). But I can't seem to find a good blog post that explains the process end to end.Any suggestions on which blog post or tutorial to use as example?Been trying to use unstructured to parse the pdf, and insert it into Weaviate. That seems to work. However, the class properties of the pdf parsed by unstructured do not seem to be documented anywhere. There is one blog example, https://weaviate.io/blog/ingesting-pdfs-into-weaviate, but that only inserts document summaries.There is also a 2021 blog post, https://towardsdatascience.com/getting-started-with-weaviate-python-client-e85d14f19e4f, which shows how to insert news articles into Weaviate. However, the code in that blog post is not running with the latest Weaviate.
     * Erika: I recommend using the Unstructured data loader on [LlamaHub](https://github.com/emptycrown/llama-hub): [file-unstructured](https://llamahub.ai/l/file-unstructured). You can then build your vector store with Weaviate, and then use the query engine. An example of this is here: [episode1.ipynb](https://github.com/weaviate/recipes/blob/main/integrations/llamaindex/data-loaders-episode1/episode1.ipynb). If you want to summarize the PDF docs, you should build out the index using the [Tree Index](https://gpt-index.readthedocs.io/en/latest/core_modules/data_modules/index/index_guide.html#tree-index)
+
+
+* Chroma
+  * Clone https://github.com/chroma-core/chroma
+  * In `docker-compose.yaml`
+    * Change port 8000 to 8002, to avoid conflict with Airbyte port 8000
+    * Add `ALLOW_RESET=TRUE`
+
+Here is the `docker-compose.yaml`:
+```yaml
+version: '3.9'
+
+networks:
+  net:
+    driver: bridge
+
+services:
+  server:
+    image: server
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/chroma
+      - index_data:/index_data
+    command: uvicorn chromadb.app:app --reload --workers 1 --host 0.0.0.0 --port 8002 --log-config log_config.yml
+    environment:
+      - IS_PERSISTENT=TRUE
+      - ALLOW_RESET=TRUE
+      - CHROMA_SERVER_AUTH_PROVIDER=${CHROMA_SERVER_AUTH_PROVIDER}
+      - CHROMA_SERVER_AUTH_CREDENTIALS_FILE=${CHROMA_SERVER_AUTH_CREDENTIALS_FILE}
+      - CHROMA_SERVER_AUTH_CREDENTIALS=${CHROMA_SERVER_AUTH_CREDENTIALS}
+      - CHROMA_SERVER_AUTH_CREDENTIALS_PROVIDER=${CHROMA_SERVER_AUTH_CREDENTIALS_PROVIDER}
+    ports:
+      - 8002:8002
+    networks:
+      - net
+
+volumes:
+  index_data:
+    driver: local
+  backups:
+    driver: local
+```
+
+Do `docker-compose up -d --build` to bring up, and `docker-compose down` to bring down.
