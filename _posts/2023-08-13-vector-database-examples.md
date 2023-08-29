@@ -90,4 +90,25 @@ volumes:
     driver: local
 ```
 
-Do `docker-compose up -d --build` to bring up, and `docker-compose down` to bring down.
+Do `docker-compose up -d --build` to bring up, and `docker-compose down` to bring down. Then, you can connect to remote Chroma DB as follows:
+
+```python
+# create the chroma client
+import chromadb
+import uuid
+from chromadb.config import Settings
+
+client = chromadb.HttpClient(host='localhost', port=8002, settings=Settings(allow_reset=True))
+client.reset()  # resets the database
+collection = client.create_collection("my_collection")
+for doc in docs:
+    collection.add(
+        ids=[str(uuid.uuid1())], metadatas=doc.metadata, documents=doc.page_content
+    )
+
+# tell LangChain to use our client and collection name
+db4 = Chroma(client=client, collection_name="my_collection", embedding_function=embedding_function)
+query = "What did the president say about Ketanji Brown Jackson"
+docs = db4.similarity_search(query)
+print(docs[0].page_content)
+```
