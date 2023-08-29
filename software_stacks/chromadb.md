@@ -3,6 +3,8 @@ layout: page
 mathjax: true
 title: ChromaDb Software Stack
 ---
+* Web: [trychroma.com](https://trychroma.com)
+* Github: [chroma](https://github.com/chroma-core/chroma)
 * Docs
   * [Usage guide](https://docs.trychroma.com/usage-guide)
 
