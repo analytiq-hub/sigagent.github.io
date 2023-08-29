@@ -3,6 +3,9 @@ layout: page
 mathjax: true
 title: ChromaDb Software Stack
 ---
+* Docs
+  * [Usage guide](https://docs.trychroma.com/usage-guide)
+
 * Posts
   * Pradeep Nichite
     * [Semantic Search with Open-Source Vector DB: Chroma DB](https://www.youtube.com/watch?v=eCCHDxMaFIk) (2023), [blog post](https://blog.futuresmart.ai/chromadb-an-open-source-vector-embedding-database), [Chroma_DB_Tutorial.ipynb](https://github.com/PradipNichite/Youtube-Tutorials/blob/main/chroma_db/Chroma_DB_Tutorial.ipynb)
