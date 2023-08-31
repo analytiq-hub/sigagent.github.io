@@ -112,3 +112,8 @@ query = "What did the president say about Ketanji Brown Jackson"
 docs = db4.similarity_search(query)
 print(docs[0].page_content)
 ```
+
+* Aug 31st Unstructured, Weaviate, Arize webinar
+  * [Exploring%20Chunking%20Techniques%20%26%20Reranking%20for%20Enhanced%20Results.ipynb](https://colab.research.google.com/github/ron-unstructured/arize-weaviate-unstructured-webinar/blob/main/Exploring%20Chunking%20Techniques%20%26%20Reranking%20for%20Enhanced%20Results.ipynb#scrollTo=cf9be012c5da0323)
+  * [weaviate_llama_index_search_and_retrieval.ipynb](https://colab.research.google.com/github/ruiciroT/phoenix/blob/weaviate/tutorials/weaviate_llama_index_search_and_retrieval.ipynb)
+  * [unstructured handling tables in pdfs](https://unstructured-io.github.io/unstructured/bricks/partition.html#partition-pdf)
