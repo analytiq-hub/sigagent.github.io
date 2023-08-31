@@ -10,6 +10,7 @@ title: Langchain Software Stack
   * [chat-your-data](https://github.com/hwchase17/chat-your-data/blob/master/blogpost.md)
   * [Query over sql](https://python.langchain.com/docs/use_cases/tabular/sqlite) (2023)
   * [Tutorial: ChatGPT Over Your Data](https://blog.langchain.dev/tutorial-chatgpt-over-your-data/) (2023), [github](https://github.com/hwchase17/chat-your-data?ref=blog.langchain.dev)
+  * Python Engineer: [LangChain Tutorial in Python - Crash Course](https://www.python-engineer.com/posts/langchain-crash-course/) (2023)
 
 
 #### Other
