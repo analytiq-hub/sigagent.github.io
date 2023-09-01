@@ -17,6 +17,7 @@ title: Weaviate Software Stack
   * Connor Shorten: [Ranking Models for Better Search](https://weaviate.io/blog/ranking-models-for-better-search) (2023)
   * [Question Answering - transfomers](https://weaviate.io/developers/weaviate/modules/reader-generator-modules/qna-transformers)
   * Cohere, Santiago, Bob Van Luijt: [AI and the Future of Search](https://twitter.com/cohere/status/1636396916157079554?s=46&t=Zzg6vgh4rwmYEkdV-3v5gg) Twitter talk (2023)
+* Kamalraj M M: [Weaviate Explained: Understanding Schema & Querying: Optimizing Results Using Querying & Filtering](https://www.youtube.com/watch?v=sVRWpafv5tE) (2023)
 
 * Setup
   * Weaviate [console](https://console.weaviate.io) can be pointed to local instance
