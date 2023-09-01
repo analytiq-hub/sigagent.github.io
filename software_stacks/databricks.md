@@ -111,6 +111,9 @@ title: Databricks Software Stack
 * [Model serving with Databricks](https://docs.databricks.com/en/machine-learning/model-serving/index.html)
   * [Send scoring requests to serving endpoints](https://docs.databricks.com/en/machine-learning/model-serving/score-model-serving-endpoints.html)
 
+#### Language Models
+* [Using MLflow AI Gateway and Llama 2 to Build Generative AI Apps](https://www.databricks.com/blog/using-ai-gateway-llama2-rag-apps) (2023)
+
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
 * [Machine Learning](../machine_learning.md)
