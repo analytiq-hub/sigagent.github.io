@@ -133,6 +133,9 @@ gradient for the vast majority of the parameters
 * [LangChain Talk](https://docs.google.com/presentation/d/1exjoapZ4EB_2xSQ7BSfSdPsZT30ap_6N3bi37F3cG0E/edit#slide=id.g23a07b78d21_0_217) (2023)
 * Yann LeCun: [Objective-Driven AI](https://drive.google.com/file/d/1wzHohvoSgKGZvzOWqZybjm4M4veKR6t3/view) (2023)
 * Ilya Sutskever: [An observation on Generalization](https://www.youtube.com/watch?v=AKMuA_TVz3A) (2023)
+* Kamalraj M M:
+  * [Loading PDF Data Into Langchain : To Use Or Not To Use Unstructured Library ](https://www.youtube.com/watch?v=Sbm1rGsZG2g) (2023)
+  * [Langchain VectorStores Show Down : Which One Reigns Supreme?](https://www.youtube.com/watch?v=zGAkhN1YZXM) (2023)
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html), see [Langchain](/software_stacks/langchain)
