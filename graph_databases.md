@@ -5,7 +5,9 @@ title: Graph Databases
 ---
 
 * Posts
-  * Tomaz Bratanic: [Knowledge Graphs & LLMs: Multi-Hop Question Answering](https://neo4j.com/developer-blog/knowledge-graphs-llms-multi-hop-question-answering/) (2023)
+  * Tomaz Bratanic
+    * [Knowledge Graphs & LLMs: Multi-Hop Question Answering](https://neo4j.com/developer-blog/knowledge-graphs-llms-multi-hop-question-answering/) (2023)
+    * [Knowledge Graphs & LLMs: Fine-Tuning Vs. Retrieval-Augmented Generation](https://medium.com/neo4j/knowledge-graphs-llms-fine-tuning-vs-retrieval-augmented-generation-30e875d63a35) (2023)
   * Oskar Hene: [Knowledge Graphs & LLMs: Harnessing Large Language Models with Neo4j](https://medium.com/neo4j/harnessing-large-language-models-with-neo4j-306ccbdd2867) (2023)
 
 * Talks
