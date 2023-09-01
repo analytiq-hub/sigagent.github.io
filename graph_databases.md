@@ -4,6 +4,9 @@ mathjax: true
 title: Graph Databases
 ---
 
+* Posts
+  * Tomaz Bratanic: [Knowledge Graphs & LLMs: Multi-Hop Question Answering](https://neo4j.com/developer-blog/knowledge-graphs-llms-multi-hop-question-answering/) (2023)
+
 * Talks
   * [Kalmaraj M M](https://www.youtube.com/@insightbuilder): [Leveraging Knowledge Graph With Langchain & Neo4J: Primer On Neo4J & KnowledgeGraph](https://www.youtube.com/watch?v=YDojtOjoEzY&list=PLbzjzOKeYPCoHRX30whyu0Re-YfOsJZlt&index=13) (2023)
 
