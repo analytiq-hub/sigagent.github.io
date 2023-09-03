@@ -4,10 +4,10 @@ mathjax: true
 title: Streamlit
 ---
 [Streamlit](https://streamlit.io/)
-* [cloud](https://share.streamlit.io), [discuss](https://discuss.streamlit.io/)
+* [cloud](https://share.streamlit.io), [docs](https://docs.streamlit.io), [discuss](https://discuss.streamlit.io/)
+  * Docs [github](https://github.com/streamlit/docs) using Next.js and Netify
 
-#### Docs, Tutorials
-* Streamlit [docs](https://docs.streamlit.io/)
+#### Tutorials
 * [Using Streamlit to build an interactive dashboard for data analysis on AWS](https://aws.amazon.com/blogs/opensource/using-streamlit-to-build-an-interactive-dashboard-for-data-analysis-on-aws/) (2021)
 
 #### Books
