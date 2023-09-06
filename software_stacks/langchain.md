@@ -13,6 +13,11 @@ title: Langchain Software Stack
   * Python Engineer: [LangChain Tutorial in Python - Crash Course](https://www.python-engineer.com/posts/langchain-crash-course/) (2023)
   * Max Woolf: [The Problem With LangChain](https://minimaxir.com/2023/07/langchain-problem/)
 
+* Podcasts
+  * Latent Space: [The Point of LangChain — with Harrison Chase of LangChain](https://www.latent.space/p/langchain)
+
+* Tools
+  * [Text Splitter Playground](https://langchain-text-splitter.streamlit.app/)
 
 #### Other
 * [Cloud Data Platform](/cloud_data_platform)
