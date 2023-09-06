@@ -18,7 +18,7 @@ title: Langchain Software Stack
   * Latent Space: [The Point of LangChain — with Harrison Chase of LangChain](https://www.latent.space/p/langchain)
 
 * Tools
-  * [Text Splitter Playground](https://langchain-text-splitter.streamlit.app/)
+  * [Text Splitter Playground](https://langchain-text-splitter.streamlit.app/), [ithub](https://github.com/langchain-ai/text-split-explorer)
 
 #### Other
 * [Cloud Data Platform](/cloud_data_platform)
