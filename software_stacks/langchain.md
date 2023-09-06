@@ -12,6 +12,7 @@ title: Langchain Software Stack
   * [Tutorial: ChatGPT Over Your Data](https://blog.langchain.dev/tutorial-chatgpt-over-your-data/) (2023), [github](https://github.com/hwchase17/chat-your-data?ref=blog.langchain.dev)
   * Python Engineer: [LangChain Tutorial in Python - Crash Course](https://www.python-engineer.com/posts/langchain-crash-course/) (2023)
   * Max Woolf: [The Problem With LangChain](https://minimaxir.com/2023/07/langchain-problem/)
+  * Hacker News Thread on [why Langchain is pointless](https://news.ycombinator.com/item?id=36648778)
 
 * Podcasts
   * Latent Space: [The Point of LangChain — with Harrison Chase of LangChain](https://www.latent.space/p/langchain)
