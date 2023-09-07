@@ -3,12 +3,11 @@ layout: page
 mathjax: true
 title: OpenAI Software Stack
 ---
-* Docs
-  
 * Tools
   * OpenAI Evals: [github](https://github.com/openai/evals)
 
 * Posts
+  * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/index.html)
   * Arize AI: [Evals from OpenAI: Simplifying and Streamlining LLM Evaluation](https://arize.com/blog-course/evals-openai-simplifying-llm-evaluation/)
 
 #### Other
