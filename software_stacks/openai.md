@@ -3,9 +3,16 @@ layout: page
 mathjax: true
 title: OpenAI Software Stack
 ---
-* [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/index.html)
+* Docs
+  
+* Tools
+  * OpenAI Evals: [github](https://github.com/openai/evals)
+
+* Posts
+  * Arize AI: [Evals from OpenAI: Simplifying and Streamlining LLM Evaluation](https://arize.com/blog-course/evals-openai-simplifying-llm-evaluation/)
 
 #### Other
-* [Cloud Data Platform](../cloud_data_platform.md)
-* [Machine Learning](../machine_learning.md)
+* [Cloud Data Platform](/cloud_data_platform)
+* [Language Models](/language_models)
+* [Machine Learning](/machine_learning)
 
