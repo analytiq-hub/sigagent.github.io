@@ -21,6 +21,12 @@ distribution=$(. /etc/os-release;echo $ID$VERSION_ID)
     sudo apt-get install -y nvidia-container-toolkit
     sudo nvidia-ctk runtime configure --runtime=docker
     ```
+* Alternative steps on Fedora:
+  * `curl -s -L https://nvidia.github.io/libnvidia-container/centos8/libnvidia-container.repo | sudo tee /etc/yum.repos.d/nvidia-container-toolkit.repo`
+  * `sudo dnf install nvidia-docker2`
+  * Edit /etc/nvidia-container-runtime/config.toml and disable cgroups:
+    * `no-cgroups = true`
+
 * Verify `–gpus` option under `docker run`:
     ```bash
     $ docker run --help | grep -i gpus
