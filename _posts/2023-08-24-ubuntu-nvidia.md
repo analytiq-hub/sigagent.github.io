@@ -1,5 +1,5 @@
 ---
-title: "Ubuntu and NVidia"
+title: "Install NVidia Runtime for Docker in Ubuntu and Fedora"
 layout: post
 categories: 
 ---
