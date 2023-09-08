@@ -26,6 +26,7 @@ distribution=$(. /etc/os-release;echo $ID$VERSION_ID)
   * `sudo dnf install nvidia-docker2`
   * Edit /etc/nvidia-container-runtime/config.toml and disable cgroups:
     * `no-cgroups = true`
+  * `sudo nvidia-ctk runtime configure --runtime=docker`
 
 * Verify `–gpus` option under `docker run`:
     ```bash
