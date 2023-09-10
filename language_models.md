@@ -95,7 +95,9 @@ gradient for the vast majority of the parameters
   * [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) (Mar 2023)
 * K. Rink: [Leverage LLMs Like GPT to Analyze Your Documents or Transcripts](https://towardsdatascience.com/leverage-llms-like-gpt-to-analyze-your-documents-or-transcripts-c640a266ad52) (2023)
 * Jay Alammar: [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer) (2019)
-* S. Raschka: [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models) (2023). A Cross-Section of the Most Relevant Literature To Get Up to Speed.
+* Sebastian Raschka:
+  * [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models) (2023). A Cross-Section of the Most Relevant Literature To Get Up to Speed.
+  * [LLM Training: RLHF and Its Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives) (2023)
 * Databricks:
   * Mike Conover et al: [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
   * [Databricks-GPU-Serving-Examples](https://github.com/ahdbilal/Databricks-GPU-Serving-Examples)
