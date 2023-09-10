@@ -114,6 +114,7 @@ gradient for the vast majority of the parameters
 * [Ori Eldarov](https://substack.com/@fullydistributed): [McKinsey's Lilli: A Wake-Up Call for AI Startups](https://www.fullydistributed.co/p/mckinseys-lilli-a-wake-up-call-for) (2022)
 * Rick Lamers:
   * [Never write a single shell command ever again! Today I'm releasing Shell AI...](https://twitter.com/RickLamers/status/1693365277793137067?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email)
+* ArsTechnica: B Edwards: [10X coders beware: Meta’s new AI model boosts coding and debugging for free](https://arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/) (2023)
 
 #### Talks
 * [Advanced Natural Language Processing with Apache Spark NLP](https://www.youtube.com/watch?v=V9NBkxvSZmU&t=237s) (2021)
