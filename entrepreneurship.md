@@ -61,7 +61,8 @@ title: Entrepreneurship
     * [Part 1: Deals, Deals, Deals]](https://www.codingvc.com/p/behind-the-scenes-at-a-vc-fund-part-1-deals-deals-deals)
     * [Part 2: Helping Founders and Time Allocation](https://www.codingvc.com/behind-the-scenes-at-a-vc-fund-part-2-helping-founders-and-time-allocation)
     * [Part 3: Fund Structure, Fundraising, Investor Relations, and FAQs](https://www.codingvc.com/behind-the-scenes-at-a-vc-fund-part-3-fund-structure-fundraising-investor-relations-and-faqs/)
-  
+* [Y Combinator](https://www.ycombinator.com)
+  * [How and why to start a startup](https://www.ycombinator.com/library/carousel/How%20to%20Start%20a%20Startup%20-%20A%20course%20Y%20Combinator%20taught%20at%20Stanford)
 
 #### Funding
 * See [Funding for Entrepreneurship](/entrepreneurship/funding)
