@@ -31,6 +31,7 @@ title: Language Models
 * Y. Wang et al: [SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/pdf/2212.10560.pdf) (2023)
 * H. Touvron et al: [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf) (2023)
 * A.N. Lee et al: [Platypus: Quick, Cheap, and Powerful Refinement of LLMs](https://arxiv.org/pdf/2308.07317.pdf) (2023)
+* Y. Perlitz et al: [Efficient Benchmarking (of Language Models)](https://arxiv.org/pdf/2308.11696.pdf) (2023)
 
 # Economic Impact:
 * McKinsey
