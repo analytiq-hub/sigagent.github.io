@@ -32,6 +32,7 @@ title: Language Models
 * H. Touvron et al: [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf) (2023)
 * A.N. Lee et al: [Platypus: Quick, Cheap, and Powerful Refinement of LLMs](https://arxiv.org/pdf/2308.07317.pdf) (2023)
 * Y. Perlitz et al: [Efficient Benchmarking (of Language Models)](https://arxiv.org/pdf/2308.11696.pdf) (2023). Refines HELM benchmark to rule out low quality results early on.
+* B. Roziere et al: [Code Llama: Open Foundation Models for Code](https://arxiv.org/pdf/2308.12950.pdf) (2023)
 
 # Economic Impact:
 * McKinsey
