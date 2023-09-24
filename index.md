@@ -51,6 +51,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Graph Databases](/graph_databases)
 * [History](/history)
 * [Information Theory](/information_theory)
+* [Intelligent Process Automation](/intelligent_process_automation)
 * [Intellectual History](/intellectual_history)
 * [Jupyter](jupyter.md)
 * Kernel & System Programming
