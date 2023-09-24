@@ -10,6 +10,7 @@ title: Intelligent Process Automation
 #### Companies
 * UIPath
 * [Automagica](https://rpabotsworld.com/open-source-rpa-tool-automagica/), with open source version
+  * [Automagica Open Source RPA](https://www.youtube.com/watch?v=OYUj_Gc3XrY)
 * [Pop! Automation](https://www.popautomation.com/)
 
 #### Other
