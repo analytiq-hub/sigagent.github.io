@@ -76,7 +76,7 @@ title: Language Models
 * [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 
 #### Derivatives of LLaMA
-* E. Hu et al: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685), 2021
+* E. Hu et al: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685), 2021, [github](https://github.com/microsoft/LoRA)
   * LoRA freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture
   * Greatly reducing the number of trainable parameters for downstream tasks
   * LoRA makes training more efficient and lowers the hardware barrier to entry by up to 3 times when using adaptive optimizers
