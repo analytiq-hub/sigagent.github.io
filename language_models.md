@@ -33,6 +33,9 @@ title: Language Models
 * A.N. Lee et al: [Platypus: Quick, Cheap, and Powerful Refinement of LLMs](https://arxiv.org/pdf/2308.07317.pdf) (2023)
 * Y. Perlitz et al: [Efficient Benchmarking (of Language Models)](https://arxiv.org/pdf/2308.11696.pdf) (2023). Refines HELM benchmark to rule out low quality results early on.
 * B. Roziere et al: [Code Llama: Open Foundation Models for Code](https://arxiv.org/pdf/2308.12950.pdf) (2023)
+* N. Houlsby et al: [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf) (2023): use adapters for model tuning.
+* X.L. Li, P. Liang: [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf) (2021)
+* B. Lester et al: [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf) (2021), a simplification of the prev article on prefix tuning
 
 # Economic Impact:
 * McKinsey
