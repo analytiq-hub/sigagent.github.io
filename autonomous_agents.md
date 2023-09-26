@@ -7,6 +7,7 @@ title: Autonomous Agents
 * [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf) (2023)
 * M. Reddy,  GMP O'Hare: [The blackboard model: a survey of its application](https://link.springer.com/article/10.1007/BF00143760) (1991)
 * Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein: [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442) (2023)
+* L. Wang et al: [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432.pdf) (2023)
 
 #### Courses
 * Old Duke U. class on [Agent Architecture](https://users.cs.duke.edu/~brd/Teaching/Previous/AI/Lectures/Summaries/architectures.html) (table of contents only)
