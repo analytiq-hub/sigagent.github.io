@@ -10,6 +10,7 @@ title: Intelligent Process Automation
 #### Videos
 * Bot Nirvana:
   * Allan Zimmerman: [Open Source RPA - Open RPA](https://www.youtube.com/watch?v=bL7xWgVnkjw) (2020), [web](https://openrpa.dk/), [github](https://github.com/open-rpa/openrpa), [wiki](https://github.com/open-rpa/openrpa/wiki), [docs](https://docs.openiap.io/)
+  * Allan Zimmerman: [The Dream RPA Setup: OpenRPA and Node-RED (Complete Guide)](https://www.youtube.com/watch?v=Zy04eSDy3RI) (2022)
 
 #### Companies
 * UIPath
