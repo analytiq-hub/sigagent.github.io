@@ -4,7 +4,7 @@ title: EBooks
 ---
 #### Library Genesis
 * Mirrors
-  * [gen.lib.rus.ec](http://gen.lib.rus.ec/), [libgen.lc](http://libgen.lc/), [libgen.me](http://libgen.me/), [libgen.unblockit.me](http://libgen.unblockit.me/), [bookfi.net](http://bookfi.net/)
+  * Libgen: [libgen.rs](http://libgen.rs/), [libgen.is](http://libgen.is/), [libgen.st](http://libgen.st/) 
 
 #### Other
 * https://www.sci-hub.st/
