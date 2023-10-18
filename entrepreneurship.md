@@ -65,6 +65,7 @@ title: Entrepreneurship
     * [Part 3: Fund Structure, Fundraising, Investor Relations, and FAQs](https://www.codingvc.com/behind-the-scenes-at-a-vc-fund-part-3-fund-structure-fundraising-investor-relations-and-faqs/)
 * [Y Combinator](https://www.ycombinator.com)
   * [How and why to start a startup](https://www.ycombinator.com/library/carousel/How%20to%20Start%20a%20Startup%20-%20A%20course%20Y%20Combinator%20taught%20at%20Stanford)
+* [How Palantir's Business Model Built A $15 Billion Growth Engine](https://buckfiftymba.com/palantirs-growth-engine/) (2023)
 
 #### Funding
 * See [Funding for Entrepreneurship](/entrepreneurship/funding)
