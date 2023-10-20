@@ -60,6 +60,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [System Tools](/system_tools)
 * [Language Models](/language_models)
 * [Literature](/literature)
+* [Low Code Apps](/low_code)
 * [Machine Learning](/machine_learning)
   * [Huggingface](/machine_learning/huggingface)
 * [Market Trading](/market_trading)
