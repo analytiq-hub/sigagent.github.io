@@ -14,6 +14,7 @@ title: History
 #### World Affairs
 * Robert Kaplan: [The Tragic Mind](https://www.amazon.com/Tragic-Mind-Fear-Burden-Power/dp/0300263864) (2023)
   * The Dishcast with Andrew Sullivan: [Robert Kaplan On The Tragedy In Geopolitics](https://andrewsullivan.substack.com/p/robert-kaplan-on-the-tragedy-in-geopolitics?utm_source=substack&utm_medium=email) (2023)
+* Sarah Paine: [WW2, Taiwan, Ukraine, & Maritime vs Continental Powers](https://www.youtube.com/watch?v=YcVSgYz5SJ8) (2023)
 
 #### Links
 * [Literature](/literature)
