@@ -10,6 +10,7 @@ title: Microsoft Azure Software Stack
   * Storage Accounts
   * Containers
   * File storage, which can be mounted from Windows, Linux, Mac, and can be ETL'd into containers
+  * Storage explorer, used to navigate through containers and file storage
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
