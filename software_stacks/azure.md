@@ -16,6 +16,7 @@ title: Microsoft Azure Software Stack
     * Distcp/AzCopy
     * Sqoop
     * Other ETL Tools: Talend, Matillion, 5Tran, Airflow
+  * Azure Data Catalog
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
