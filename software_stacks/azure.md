@@ -17,6 +17,11 @@ title: Microsoft Azure Software Stack
     * Sqoop
     * Other ETL Tools: Talend, Matillion, 5Tran, Airflow
   * Azure Data Catalog
+  * Security Principals
+    * User
+    * Group
+    * Service Principal
+    * Managed Identity
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
