@@ -26,6 +26,7 @@ title: Microsoft Azure Software Stack
   * Next best level of security is Shared Access keys
   * RBAC (roles based access control) - recommended
   * Posix ACLs - not recommended
+  * Firewall
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
