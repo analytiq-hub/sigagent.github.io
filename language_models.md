@@ -147,6 +147,7 @@ gradient for the vast majority of the parameters
   * [Loading PDF Data Into Langchain : To Use Or Not To Use Unstructured Library ](https://www.youtube.com/watch?v=Sbm1rGsZG2g) (2023)
   * [Langchain VectorStores Show Down : Which One Reigns Supreme?](https://www.youtube.com/watch?v=zGAkhN1YZXM) (2023)
 * Aleksa Gordic: [Will LLMs kill Search? Nils Reimers (director of ML at Cohere](https://www.youtube.com/watch?v=bXdR46em2-M)(2023)
+* Connor Shorten: [MemGPT Explained!](https://www.youtube.com/watch?v=nQmZmFERmrg) (2023)
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html), see [Langchain](/software_stacks/langchain)
