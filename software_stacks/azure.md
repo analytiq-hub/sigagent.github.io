@@ -21,7 +21,7 @@ title: Microsoft Azure Software Stack
     * User
     * Group
     * Service Principal
-    * Managed Identity
+    * Managed Identity - Azure Service itself will have this kind of identity
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
