@@ -24,7 +24,8 @@ title: Microsoft Azure Software Stack
     * Managed Identity - Azure Service itself will have this kind of identity
   * Storage Acct can use Storage Acct keys but that is not recommended.
   * Next best level of security is Shared Access keys
-  * RBAC (roles based access control)
+  * RBAC (roles based access control) - recommended
+  * Posix ACLs - not recommended
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
