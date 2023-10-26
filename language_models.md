@@ -89,7 +89,7 @@ gradient for the vast majority of the parameters
 * aituts.com: Yubin: [How to run Meta's LLaMA on your computer (Windows, Linux tutorial)](https://aituts.com/llama/) (Mar 2023)
 
 #### Named Entity Recognition (NER)
-* [NER extraction using LangChain and LLMs codes explained](https://www.youtube.com/watch?v=OagbDJvywJI)
+* [NER extraction using LangChain and LLMs codes explained](https://www.youtube.com/watch?v=OagbDJvywJI) (2023)
 * Patrick Meyer: [Entity Recognition with LLM: A Complete Evaluation](https://pub.towardsai.net/entity-recognition-with-llm-a-complete-evaluation-e34eb1902149) (2023)
 
 #### Courses
