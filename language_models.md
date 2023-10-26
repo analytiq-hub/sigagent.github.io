@@ -88,6 +88,10 @@ gradient for the vast majority of the parameters
 * C. Wu et al: [PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/pdf/2304.14454.pdf) (2023)
 * aituts.com: Yubin: [How to run Meta's LLaMA on your computer (Windows, Linux tutorial)](https://aituts.com/llama/) (Mar 2023)
 
+#### Named Entity Recognition (NER)
+* [NER extraction using LangChain and LLMs codes explained](https://www.youtube.com/watch?v=OagbDJvywJI)
+* Patrick Meyer: [Entity Recognition with LLM: A Complete Evaluation](https://pub.towardsai.net/entity-recognition-with-llm-a-complete-evaluation-e34eb1902149) (2023)
+
 #### Courses
 * A. Karpathy: [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) (2023)
   * Github: [nanoGPT](https://github.com/karpathy/nanoGPT), Andrei's [fork](https://github.com/andrei-radulescu-banu/nanoGPT)
