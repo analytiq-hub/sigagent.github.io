@@ -10,6 +10,9 @@ title: Healthcare
 * [John Abramson: Big Pharma](https://www.youtube.com/watch?v=arrokG3wCdE&t=6511s) (2022), Lex Fridman Podcast #263
 * [John Abramson on S. Stevenson show](https://www.youtube.com/watch?v=rPhh87X10pw&t=1044s) (2022)
 
+#### AI
+* Google: [Use the Healthcare Natural Language API](https://cloud.google.com/healthcare-api/docs/how-tos/nlp)
+
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
 * [Cloud Data Platform](/cloud_data_platform)
