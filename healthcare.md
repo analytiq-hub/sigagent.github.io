@@ -11,7 +11,7 @@ title: Healthcare
 * [John Abramson on S. Stevenson show](https://www.youtube.com/watch?v=rPhh87X10pw&t=1044s) (2022)
 
 #### AI
-* Google: [Use the Healthcare Natural Language API](https://cloud.google.com/healthcare-api/docs/how-tos/nlp)
+* Google: [Use the Healthcare Natural Language API](https://cloud.google.com/healthcare-api/docs/how-tos/nlp), [demo](https://cloud.google.com/healthcare-api/docs/how-tos/nlp-demo)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
