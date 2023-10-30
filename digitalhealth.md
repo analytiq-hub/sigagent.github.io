@@ -10,6 +10,8 @@ title: Digital Health
 
 #### Papers
 * Google, Deep Mind: K. Singhal et al: [Towards Expert-Level Medical Question Answering with Large Language Models](https://arxiv.org/pdf/2305.09617.pdf) (2023)
+* J. Acosta et al, [Multimodal biomedical AI](https://www.nature.com/articles/s41591-022-01981-2), Nature (2022)
+* L.Y. Jiang et al: [Health system-scale language models are all-purpose prediction engines](https://www.nature.com/articles/s41586-023-06160-y), Nature (2023)
 
 #### Talks
 * [ChatGPT: Will It Transform the World of Health Care?](https://www.youtube.com/watch?v=j-aOCuzfxUI&t=779s) (2023)
