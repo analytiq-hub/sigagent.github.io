@@ -29,11 +29,14 @@ title: Digital Health
 #### Companies
 * [Glass AI](https://glass.health), [NPR story](https://www.npr.org/sections/health-shots/2023/04/05/1167993888/chatgpt-medicine-artificial-intelligence-healthcare)
 
-### FDA
+#### FDA
 * [Artificial Intelligence and Machine Learning (AI/ML)-Enabled Medical Devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
 
-### Datasets
+#### Datasets
 * [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/), [github](https://github.com/MIT-LCP/mimic-code/)
+
+#### Tools
+* [bloatectomy](https://github.com/MIT-LCP/bloatectomy)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
