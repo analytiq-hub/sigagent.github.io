@@ -28,6 +28,7 @@ title: Digital Health
 
 #### Companies
 * [Glass AI](https://glass.health), [NPR story](https://www.npr.org/sections/health-shots/2023/04/05/1167993888/chatgpt-medicine-artificial-intelligence-healthcare)
+* [CodaMetrix](https://www.codametrix.com/)
 
 #### FDA
 * [Artificial Intelligence and Machine Learning (AI/ML)-Enabled Medical Devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
