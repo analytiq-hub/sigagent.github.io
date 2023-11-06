@@ -33,7 +33,7 @@ title: Digital Health
 * [Artificial Intelligence and Machine Learning (AI/ML)-Enabled Medical Devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
 
 ### Datasets
-* [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/)
+* [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/), [github](https://github.com/MIT-LCP/mimic-code/)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
