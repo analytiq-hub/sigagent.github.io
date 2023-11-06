@@ -35,6 +35,9 @@ title: Digital Health
 
 #### Datasets
 * [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/), [github](https://github.com/MIT-LCP/mimic-code/)
+* Discharge
+* [PMC Article Dataset](https://www.ncbi.nlm.nih.gov/pmc/tools/textmining/), [open access subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/)
+* PubMed
 
 #### Tools
 * [bloatectomy](https://github.com/MIT-LCP/bloatectomy)
