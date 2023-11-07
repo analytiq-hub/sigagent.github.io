@@ -11,6 +11,9 @@ title: Digital Health
 #### Books
 * Eric Topol: [Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again](https://www.amazon.com/Deep-Medicine-Artificial-Intelligence-Healthcare/dp/1541644638) (2019)
 
+#### Courses
+* Peter Szolovits, David Sontag: [Machine Learning for Healthcare](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/), 2019 (MIT)
+
 #### Papers
 * Google, Deep Mind: K. Singhal et al: [Towards Expert-Level Medical Question Answering with Large Language Models](https://arxiv.org/pdf/2305.09617.pdf) (2023)
 * J. Acosta et al, [Multimodal biomedical AI](https://www.nature.com/articles/s41591-022-01981-2), Nature (2022)
