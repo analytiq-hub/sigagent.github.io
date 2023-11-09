@@ -154,6 +154,7 @@ gradient for the vast majority of the parameters
   * [Langchain VectorStores Show Down : Which One Reigns Supreme?](https://www.youtube.com/watch?v=zGAkhN1YZXM) (2023)
 * Aleksa Gordic: [Will LLMs kill Search? Nils Reimers (director of ML at Cohere](https://www.youtube.com/watch?v=bXdR46em2-M)(2023)
 * Connor Shorten: [MemGPT Explained!](https://www.youtube.com/watch?v=nQmZmFERmrg) (2023), [paper](https://arxiv.org/pdf/2310.08560.pdf)
+* Connor Shorten: [Charles Packer on MemGPT](https://www.youtube.com/watch?v=rxjsbUiuOFo) (2023)
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html), see [Langchain](/software_stacks/langchain)
