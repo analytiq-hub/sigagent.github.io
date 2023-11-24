@@ -74,7 +74,10 @@ title: Entrepreneurship
 * Clint Coons:
   * [8 Stupid Mistakes in Your LLC Operating Agreement](https://www.youtube.com/watch?v=xU6VwLLL4WE)
   * [Creating an LLC: Why You Need an Operating Agreement](https://www.youtube.com/watch?v=zA-jbmGLDt4)
-* Mark J. Kohler: [LLC vs S-corp](https://www.youtube.com/watch?v=Y5AeYFPv4aw)
+* Mark J. Kohler:
+  * [LLC vs S-corp](https://www.youtube.com/watch?v=Y5AeYFPv4aw)
+  * How to Create a 1 Million Dollar ROTH IRA [Part 1](https://www.youtube.com/watch?v=U06nDS1pHKc), [Part 2](https://www.youtube.com/watch?v=YL5eYfRnnjA)
+
 
 #### Funding
 * See [Funding for Entrepreneurship](/entrepreneurship/funding)
