@@ -77,6 +77,7 @@ title: Entrepreneurship
 * Mark J. Kohler:
   * [LLC vs S-corp](https://www.youtube.com/watch?v=Y5AeYFPv4aw)
   * How to Create a 1 Million Dollar ROTH IRA [Part 1](https://www.youtube.com/watch?v=U06nDS1pHKc), [Part 2](https://www.youtube.com/watch?v=YL5eYfRnnjA)
+  * [MEGA ROTH 2023: How To Make A Million Tax Free](https://www.youtube.com/watch?v=9OeRSYttHp0)
 
 
 #### Funding
