@@ -71,6 +71,8 @@ title: Entrepreneurship
 #### LLCs
 * Jim Hart:
   * [Do This BEFORE You Set Up Your LLC](https://www.youtube.com/watch?v=0h3FtZM2PuE) (2022)
+* Clint Coons:
+  * [8 Stupid Mistakes in Your LLC Operating Agreement](https://www.youtube.com/watch?v=xU6VwLLL4WE)
 
 #### Funding
 * See [Funding for Entrepreneurship](/entrepreneurship/funding)
