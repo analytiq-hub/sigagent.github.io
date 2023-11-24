@@ -74,6 +74,7 @@ title: Entrepreneurship
 * Clint Coons:
   * [8 Stupid Mistakes in Your LLC Operating Agreement](https://www.youtube.com/watch?v=xU6VwLLL4WE)
   * [Creating an LLC: Why You Need an Operating Agreement](https://www.youtube.com/watch?v=zA-jbmGLDt4)
+* Mark J. Kohler: [LLC vs S-corp](https://www.youtube.com/watch?v=Y5AeYFPv4aw)
 
 #### Funding
 * See [Funding for Entrepreneurship](/entrepreneurship/funding)
