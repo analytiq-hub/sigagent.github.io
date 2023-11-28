@@ -68,6 +68,21 @@ title: Entrepreneurship
 * [How Palantir's Business Model Built A $15 Billion Growth Engine](https://buckfiftymba.com/palantirs-growth-engine/) (2023)
 * Chris Gardner: [How to Build a Product that Scales into a Company](https://www.youtube.com/watch?v=r-98YRAF1dY) (2023)
 
+#### LLCs
+* Jim Hart:
+  * [Do This BEFORE You Set Up Your LLC](https://www.youtube.com/watch?v=0h3FtZM2PuE) (2022)
+* Clint Coons:
+  * [8 Stupid Mistakes in Your LLC Operating Agreement](https://www.youtube.com/watch?v=xU6VwLLL4WE)
+  * [Creating an LLC: Why You Need an Operating Agreement](https://www.youtube.com/watch?v=zA-jbmGLDt4)
+* Mark J. Kohler:
+  * [LLC vs S-corp](https://www.youtube.com/watch?v=Y5AeYFPv4aw)
+  * How to Create a 1 Million Dollar ROTH IRA [Part 1](https://www.youtube.com/watch?v=U06nDS1pHKc), [Part 2](https://www.youtube.com/watch?v=YL5eYfRnnjA)
+  * [MEGA ROTH 2023: How To Make A Million Tax Free](https://www.youtube.com/watch?v=9OeRSYttHp0)
+* Toby Mathis:
+  * [How To Make Your Personal Assets Invisible](https://www.youtube.com/watch?v=Zj863oFxK7c)
+  * [What is a Living Trust and What are the Benefits? (Living Trust 101)](https://www.youtube.com/watch?v=58_TYglpkUU)
+
+
 #### Funding
 * See [Funding for Entrepreneurship](/entrepreneurship/funding)
 * [DOD Grants](https://www.grants.gov/search-grants.html?agencyCode=DOD)
