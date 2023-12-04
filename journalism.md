@@ -6,6 +6,9 @@ title: Journalism
 #### Tech for Journalism - Articles
 * Sophie Culpepper: [AI will soon be able to cover public meetings. But should it?](https://www.niemanlab.org/2023/06/ai-will-soon-be-able-to-cover-public-meetings-but-should-it/) (2023)
 
+#### Datasets
+* [Data science tools to study local policy-making](https://www.ccc.mit.edu/project/city-meeting-transcript-analysis/)
+
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
 * [Cloud Data Platform](/cloud_data_platform)
