@@ -367,6 +367,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 * J. Tenenbaum et al: [3DP3: 3D Scene Perception via Probabilistic Programming](https://arxiv.org/pdf/2111.00312.pdf) (2021)
 * [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/pdf/2207.08815.pdf), Léo Grinsztajn et al (2022)
 * M. Richardson, P. Domingos: [Building Large Knowledge Bases by Mass Collaboration](https://homes.cs.washington.edu/~pedrod/papers/kcap03a.pdf) (2023)
+* S. Raschka: [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://arxiv.org/pdf/1811.12808.pdf) (2020)
 
 #### Posts
 * [Colah's blog](http://colah.github.io/)
