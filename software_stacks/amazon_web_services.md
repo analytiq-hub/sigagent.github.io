@@ -100,7 +100,7 @@ title: Amazon Web Services
   * [AWS Hello World](https://github.com/thombergs/code-examples/tree/master/aws/aws-hello-world)
 
 * Terraform
-  * Cumulus Circles: [Automate AWS Infra Deployment using Terraform and GitHub Actions](https://www.youtube.com/watch?v=scecLqTeP3k) (2022)
+  * Cumulus Circles: [Automate AWS Infra Deployment using Terraform and GitHub Actions](https://www.youtube.com/watch?v=scecLqTeP3k) (2022), [github](https://github.com/CumulusCycles/AWS_Terraform_CI_CD_demo)
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
