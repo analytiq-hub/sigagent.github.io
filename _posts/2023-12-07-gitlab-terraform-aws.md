@@ -10,3 +10,5 @@ This post goes through the steps explained in this presentation:
 Steps:
 * Create a `code` AWS account in `AWS Organizations`.
 * Assign your user as admin to the `code` AWS account in `IAM Identity Center`
+* Log into the `code` AWS account as yourself
+* In IAM, create `terraform` user, and give it Admin privileges
