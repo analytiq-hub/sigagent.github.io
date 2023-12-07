@@ -16,6 +16,9 @@ title: History
   * The Dishcast with Andrew Sullivan: [Robert Kaplan On The Tragedy In Geopolitics](https://andrewsullivan.substack.com/p/robert-kaplan-on-the-tragedy-in-geopolitics?utm_source=substack&utm_medium=email) (2023)
 * Sarah Paine: [WW2, Taiwan, Ukraine, & Maritime vs Continental Powers](https://www.youtube.com/watch?v=YcVSgYz5SJ8) (2023)
 
+#### French Revolution
+* Mme de Stael: [Considerations on the Principal Events of the French Revolution](https://www.google.com/books/edition/Considerations_on_the_Principal_Events_o/mPANAAAAQAAJ?hl=en&gbpv=1)
+
 #### Links
 * [Literature](/literature)
 * [Philosophy](/philosophy)
