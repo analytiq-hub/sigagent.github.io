@@ -39,3 +39,9 @@ Steps:
   * `terraform apply`
 * Comment in the backend
   * Update the bucket name in the back end to match the configured bucket
+* Run these commands:
+  * `terraform init`
+    * Enter `yes` to copy your state to the S3 backend
+  * `terraform plan`
+  * Don't run `terraform apply`. We will apply the changes through Github Actions.
+* Copy the `.gitlab` folder from the original sandbox
