@@ -45,3 +45,9 @@ Steps:
   * `terraform plan`
   * Don't run `terraform apply`. We will apply the changes through Github Actions.
 * Copy the `.gitlab` folder from the original sandbox
+  * Change the path from `src` to `.` in the `terraform.yaml`
+* Enable the vpc module
+* Check in. The changes will be applied through Gitlab Actions
+  * Review the Gitlab Actions log in the web UI
+* Disable the vpc module, setting a `count=0` variable (instead of commenting the module out)
+* Apply the changes again.

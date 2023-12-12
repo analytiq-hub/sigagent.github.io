@@ -20,6 +20,7 @@ title: Digital Health
 * L.R. Soenksen et al: [Integrated multimodal artificial intelligence framework for healthcare applications](https://www.nature.com/articles/s41746-022-00689-4), Nature (2022), [github](https://github.com/lrsoenksen/HAIM)
 * L.Y. Jiang et al: [Health system-scale language models are all-purpose prediction engines](https://www.nature.com/articles/s41586-023-06160-y), Nature (2023)
 * Tie-Yan Liu et al: [BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/pdf/2210.10341.pdf)
+* Harsha Nori et al: [Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine](https://arxiv.org/pdf/2311.16452.pdf) (2023)
 
 #### Talks
 * [ChatGPT: Will It Transform the World of Health Care?](https://www.youtube.com/watch?v=j-aOCuzfxUI&t=779s) (2023)
