@@ -400,6 +400,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
   * Tim Dettmers et al: [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
   * R. Rafailov et al: [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf)
   * S. Malladi et al: [Fine-Tuning Language Models with Just Forward Passes](https://arxiv.org/pdf/2305.17333.pdf)
+  * Niklas Muennighoff et al: [Scaling Data-Constrained Language Models](https://arxiv.org/pdf/2305.16264.pdf)
 
 #### Web sites
 * [Papers with Code](https://paperswithcode.com/)
