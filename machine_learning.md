@@ -401,6 +401,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
   * R. Rafailov et al: [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf)
   * S. Malladi et al: [Fine-Tuning Language Models with Just Forward Passes](https://arxiv.org/pdf/2305.17333.pdf), [ML in 2 summary](https://www.youtube.com/watch?v=2Prsdcnwo7w)
   * Niklas Muennighoff et al: [Scaling Data-Constrained Language Models](https://arxiv.org/pdf/2305.16264.pdf)
+  * Kingma and Gao: [Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation](https://arxiv.org/pdf/2303.00848.pdf)
 
 #### Web sites
 * [Papers with Code](https://paperswithcode.com/)
