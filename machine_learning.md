@@ -399,7 +399,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
   * [A Guide to NeurIPS 2023 — 7 Research Areas & 10 Spotlight Papers to See](https://www.youtube.com/watch?v=-DVxfa9U5ZI), [blog post](https://www.zeta-alpha.com/post/a-guide-to-neurips-2023-7-research-areas-and-10-spotlight-papers-to-read)
   * Tim Dettmers et al: [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
   * R. Rafailov et al: [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf)
-  * S. Malladi et al: [Fine-Tuning Language Models with Just Forward Passes](https://arxiv.org/pdf/2305.17333.pdf)
+  * S. Malladi et al: [Fine-Tuning Language Models with Just Forward Passes](https://arxiv.org/pdf/2305.17333.pdf), [ML in 2 summary](https://www.youtube.com/watch?v=2Prsdcnwo7w)
   * Niklas Muennighoff et al: [Scaling Data-Constrained Language Models](https://arxiv.org/pdf/2305.16264.pdf)
 
 #### Web sites
