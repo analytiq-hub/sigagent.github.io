@@ -395,6 +395,10 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
   * Jordan Burgess tweet: [This leaked google memo is a great overview of what open source AI has achieved... but the conclusion is wrong.](https://twitter.com/jordnb/status/1654496023778131970)
 * [There's an AI for that](https://theresanaiforthat.com/)
 *  Derrick Harris, Matt Bornstein, Guido Appenzeller: [The AI Canon](https://a16z.com/2023/05/25/ai-canon/) (2023)
+* [NeurIPS 2023](https://nips.cc/virtual/2023/index.html)
+  * [A Guide to NeurIPS 2023 — 7 Research Areas & 10 Spotlight Papers to See](https://www.youtube.com/watch?v=-DVxfa9U5ZI), [blog post](https://www.zeta-alpha.com/post/a-guide-to-neurips-2023-7-research-areas-and-10-spotlight-papers-to-read)
+  * Tim Dettmers et al: [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
+  * R. Rafailov et al: [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf)
 
 #### Web sites
 * [Papers with Code](https://paperswithcode.com/)
