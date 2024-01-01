@@ -19,7 +19,7 @@ title: Language Models
   * Inspired by [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
   * Based on [gists from younesbelkada](https://gist.github.com/younesbelkada)
 * NYU CSCI 2590
-  * [Instruction finetuning and RLHF lecture](https://www.youtube.com/watch?v=zjrM-MW-0y0&t=2186s) (2023)
+  * Hyung Won Chung: [Instruction finetuning and RLHF lecture](https://www.youtube.com/watch?v=zjrM-MW-0y0&t=2186s) (2023)
 
 #### Articles
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf), J. Devlin et al (2019)
