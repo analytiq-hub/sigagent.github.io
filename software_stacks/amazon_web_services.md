@@ -88,6 +88,9 @@ title: Amazon Web Services
 * SNS
   * A. Patel: [AWS — Difference between SQS and SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5) (2019)
 
+* Organizations
+  * [Managing Multi-Account AWS Environments Using AWS Organizations](https://www.youtube.com/watch?v=fxo67UeeN1A&t=14s) (2019)
+
 * SSO
   * Pablo's Spot
     * [How to setup AWS SSO to manage credentials](https://www.youtube.com/watch?v=0W7kpnXz_Ww)
@@ -95,6 +98,9 @@ title: Amazon Web Services
   * B. Newman: [Multi Account AWS with SSO in under 10 minutes](https://www.youtube.com/watch?v=9hZWPkIZxPw) (2021)
 * Webdev
   * [AWS Hello World](https://github.com/thombergs/code-examples/tree/master/aws/aws-hello-world)
+
+* Terraform
+  * Cumulus Circles: [Automate AWS Infra Deployment using Terraform and GitHub Actions](https://www.youtube.com/watch?v=scecLqTeP3k) (2022), [github](https://github.com/CumulusCycles/AWS_Terraform_CI_CD_demo)
 
 #### Other
 * [Cloud Data Platform](../cloud_data_platform.md)
