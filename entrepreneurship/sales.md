@@ -25,6 +25,9 @@ title: Sales for Entrepreneurship
 #### Pricing
 * Marc Andrusko and Seema Amble, A16Z: [The B2B Fintech Pricing Journey](https://a16z.com/2023/06/23/b2b-fintech-pricing-journey/)
 
+#### Sales
+* [Mark Kitz blog](https://marckitz.com/)
+
 #### Other
 * [Entrepreneurship](/entrepreneurship)
   * [Funding](/entrepreneurship/funding)
