@@ -176,6 +176,7 @@ gradient for the vast majority of the parameters
   * [WordTune](http://wordtune.com)
 * [llama2-chatbot](https://llama2.ai/) [github](https://github.com/a16z-infra/llama2-chatbot) by Matt Bornstein et al
 * [SciSpace Copilot](https://typeset.io/) chrome extension
+* [Ollama](https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image)
 
 #### Models
 * [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)
