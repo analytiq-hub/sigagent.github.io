@@ -101,6 +101,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Religion](/religion)
 * [Robotics](/robotics)
   * [Grasp](/robotics/grasping)
+* [Robotics Process Automation](/robotics_process_automation)
 * [Romania](/romania)
   * [Environment in Romania](/romania/environment)
 * [Self Driving Cars](/self_driving_cars)
