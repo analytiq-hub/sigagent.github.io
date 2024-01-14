@@ -67,6 +67,7 @@ title: Entrepreneurship
   * [How and why to start a startup](https://www.ycombinator.com/library/carousel/How%20to%20Start%20a%20Startup%20-%20A%20course%20Y%20Combinator%20taught%20at%20Stanford)
 * [How Palantir's Business Model Built A $15 Billion Growth Engine](https://buckfiftymba.com/palantirs-growth-engine/) (2023)
 * Chris Gardner: [How to Build a Product that Scales into a Company](https://www.youtube.com/watch?v=r-98YRAF1dY) (2023)
+* Lenny's Podcast: [Lessons from working with 600+ YC startups - Gustaf Alströmer (Y Combinator, Airbnb)](https://www.youtube.com/watch?v=ZoKLofsp8u0) (2023)
 
 #### LLCs
 * Jim Hart:
