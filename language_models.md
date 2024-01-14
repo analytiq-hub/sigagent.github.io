@@ -130,6 +130,7 @@ gradient for the vast majority of the parameters
   * [Never write a single shell command ever again! Today I'm releasing Shell AI...](https://twitter.com/RickLamers/status/1693365277793137067?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email)
 * ArsTechnica: B Edwards: [10X coders beware: Meta’s new AI model boosts coding and debugging for free](https://arstechnica.com/information-technology/2023/08/meta-introduces-code-llama-an-ai-tool-aimed-at-faster-coding-and-debugging/) (2023)
 * Cameron Wolfe
+  * [Deep (Learning) Focus](https://cameronrwolfe.substack.com/) substack
   * X: [Generative large language models (LLMs) are based upon the decoder-only transformer architecture. Currently, these types of generative LLMs are incredibly popular. However, I use encoder-only architectures for 90% of use cases as a practitioner. Here’s why…](https://twitter.com/cwolferesearch/status/1745876867003920517) (2023)
 
 #### Talks
