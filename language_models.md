@@ -63,6 +63,9 @@ title: Language Models
 #### Explainability
 * OpenAI: S. Bills et al: [Language models can explain neurons in language models](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) (2023)
 
+#### Evaluation
+* Eugene Yan: [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/#evals-to-measure-performance) (2023)
+
 #### Tech stack
 *  Matt Bornstein, Rajko Radovanovic: [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/) (2023)
    * Andrei's [tweet](https://twitter.com/bitdribble/status/1672233355914428417)
