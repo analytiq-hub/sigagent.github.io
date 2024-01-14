@@ -111,6 +111,7 @@ gradient for the vast majority of the parameters
 * K. Rink: [Leverage LLMs Like GPT to Analyze Your Documents or Transcripts](https://towardsdatascience.com/leverage-llms-like-gpt-to-analyze-your-documents-or-transcripts-c640a266ad52) (2023)
 * Jay Alammar: [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer) (2019)
 * Sebastian Raschka:
+  * [Understanding and Coding Self-Attention, Multi-Head Attention, Cross-Attention, and Causal-Attention in LLMs](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention) (2024)
   * [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models) (2023). A Cross-Section of the Most Relevant Literature To Get Up to Speed.
   * [LLM Training: RLHF and Its Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives) (2023)
 * Databricks:
