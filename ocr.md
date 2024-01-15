@@ -5,6 +5,7 @@ title: Optical Character Recognition
 ---
 * [Transformers vs. OCR: an in-depth comparison for Information Extraction](https://python.plainenglish.io/transformers-vs-ocr-who-can-actually-read-better-192e6b044dd3) (2023)
 * Anh Tuan: [Tutorial: OCR with PaddleOCR (PP-OCR)](https://medium.com/@anhtuan_40207/tutorial-ocr-with-paddleocr-pp-ocr-9a4342e4d7f) (2022)
+* Neuralearn: [Extract Tables from PDF and convert to Excel sheet with Paddle OCR text detection and recognition](https://www.youtube.com/watch?v=HZh31OGiQRQ) (2023)
 
 
 #### Other
