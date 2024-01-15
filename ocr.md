@@ -3,7 +3,7 @@ layout: page
 mathjax: true
 title: Optical Character Recognition
 ---
-
+* [Transformers vs. OCR: an in-depth comparison for Information Extraction](https://python.plainenglish.io/transformers-vs-ocr-who-can-actually-read-better-192e6b044dd3) (2023)
 
 
 #### Other
