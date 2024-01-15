@@ -85,6 +85,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Neuroscience](/neuroscience)
 * [Opera](/opera)
 * [Open Source](/open_source)
+* [OCR](/ocr)
 * [Other](/other)
 * [Philosophy](/philosophy)
 * [Physics](/physics)
