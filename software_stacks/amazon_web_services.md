@@ -42,6 +42,8 @@ title: Amazon Web Services
   * Private Link
     * Pythoholic: [AWS PrivateLink/VPC Endpoint Service Demo](https://www.youtube.com/watch?v=0bHXWIM4_0o) (2020)
     * AWS re:Invent 2019: [AWS PrivateLink deployments: DNS mechanisms for routing & resiliency (NET321)](https://www.youtube.com/watch?v=abOFqytVqBU)
+  * VPN Client
+    * Enler Academy: [How to Access AWS Resources Securely via VPN?](https://www.youtube.com/watch?v=KwdDQhzBIXk) (2023)
 
 * AWS Batch
   * [Optimizing your AWS Batch architecture for scale with observability dashboards](https://aws.amazon.com/blogs/hpc/understanding-aws-batch-using-amazon-cloudwatch-events/)
