@@ -44,6 +44,7 @@ title: Amazon Web Services
     * AWS re:Invent 2019: [AWS PrivateLink deployments: DNS mechanisms for routing & resiliency (NET321)](https://www.youtube.com/watch?v=abOFqytVqBU)
   * VPN Client
     * Enler Academy: [How to Access AWS Resources Securely via VPN?](https://www.youtube.com/watch?v=KwdDQhzBIXk) (2023)
+    * [Mutual authentication](https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/mutual.html)
 
 * AWS Batch
   * [Optimizing your AWS Batch architecture for scale with observability dashboards](https://aws.amazon.com/blogs/hpc/understanding-aws-batch-using-amazon-cloudwatch-events/)
