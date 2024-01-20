@@ -139,6 +139,11 @@ title: Entrepreneurship
 * AWS
   * [AWS Activate](https://aws.amazon.com/activate/?tag=capiche05-20)
 
+#### Company Website
+* Wordpress [Astra Theme](https://wpastra.com/)
+* Image Libraries
+  * [Freepik](https://www.freepik.com/)
+
 #### News
 * [After Record Year, Robotics Investment Stays Strong Even In Shaky VC Market](https://news.crunchbase.com/ai-robotics/robotics-vc-funding/) (2022)
 
