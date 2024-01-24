@@ -45,6 +45,10 @@ title: Amazon Web Services
   * VPN Client
     * Enler Academy: [How to Access AWS Resources Securely via VPN?](https://www.youtube.com/watch?v=KwdDQhzBIXk) (2023)
     * [Mutual authentication](https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/mutual.html)
+* ECS
+  * KodeKloud:
+    * [AWS ECS Tutorial](https://www.youtube.com/watch?v=esISkPlnxL0)
+    * [ECS and EKS: What Works Best for Your Project?](https://www.youtube.com/watch?v=o73kDW0xqlg)  
 
 * AWS Batch
   * [Optimizing your AWS Batch architecture for scale with observability dashboards](https://aws.amazon.com/blogs/hpc/understanding-aws-batch-using-amazon-cloudwatch-events/)
