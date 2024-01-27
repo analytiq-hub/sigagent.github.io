@@ -1,8 +1,7 @@
 ---
 title: "Paddle OCR, conversation with Bard"
 categories: ocr
-author:
-- Andrei Radulescu-Banu
+author: Andrei Radulescu-Banu
 layout: post
 ---
 
