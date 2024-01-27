@@ -8,7 +8,8 @@ title: Optical Character Recognition
 * Neuralearn: [Extract Tables from PDF and convert to Excel sheet with Paddle OCR text detection and recognition](https://www.youtube.com/watch?v=HZh31OGiQRQ) (2023)
 * G. Kim et al: [OCR-free Document Understanding Transformer](https://arxiv.org/pdf/2111.15664.pdf) (2022).
   * Donut [github](https://github.com/clovaai/donut), [huggingface](https://huggingface.co/docs/transformers/model_doc/donut)
-
+* PaddleOCR
+  * [PaddleOCR: Unveiling the Power of Optical Character Recognition](https://learnopencv.com/optical-character-recognition-using-paddleocr/#Paddle-OCR-) (2022)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
