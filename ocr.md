@@ -9,6 +9,7 @@ title: Optical Character Recognition
 * G. Kim et al: [OCR-free Document Understanding Transformer](https://arxiv.org/pdf/2111.15664.pdf) (2022).
   * Donut [github](https://github.com/clovaai/donut), [huggingface](https://huggingface.co/docs/transformers/model_doc/donut)
 * PaddleOCR
+  * [Github quickstart](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.7/doc/doc_en/quickstart_en.md)
   * [PaddleOCR: Unveiling the Power of Optical Character Recognition](https://learnopencv.com/optical-character-recognition-using-paddleocr/#Paddle-OCR-) (2022)
 
 #### Other
