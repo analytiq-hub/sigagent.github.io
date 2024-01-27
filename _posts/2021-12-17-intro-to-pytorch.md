@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction to PyTorch"
+title: "Paddle OCR"
 categories: python
 author:
 - Andrei Radulescu-Banu
