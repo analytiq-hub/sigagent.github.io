@@ -12,6 +12,11 @@ title: Optical Character Recognition
   * [Github quickstart](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.7/doc/doc_en/quickstart_en.md)
   * [PaddleOCR: Unveiling the Power of Optical Character Recognition](https://learnopencv.com/optical-character-recognition-using-paddleocr/#Paddle-OCR-) (2022)
 
+#### Process unstructured data into JSon
+* https://jxnl.github.io/instructor/ - It's a thin wrapper over LLM + a few additional parsing / extraction capabilities
+* https://github.com/1rgs/jsonformer - applies constrained token generation over the logits - so more useful for HuggingFace powered models
+* https://github.com/outlines-dev/outlines - claims more features
+
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
 * [Autonomous Agents](/autonomous_agents)
