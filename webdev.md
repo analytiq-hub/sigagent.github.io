@@ -23,6 +23,7 @@ title: Webdev
 * [pipedream](https://pipedream.com) - API integration for, e.g., being notified when a tweet with a given hashtag is sent. The tweet can be parsed, saved to a Google sheet, can be translated, etc. Can run python code; you can run langchain. Similar to [zappier](https://zappier.com).
 * [gradio](https://www.gradio.app/)
 * [streamlit](/webdev/streamlit)
+* [figma](figma.com) for web site design/planing
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
