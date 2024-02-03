@@ -11,6 +11,8 @@ title: Webdev
   * [React Crash Course for Beginners](https://www.youtube.com/watch?v=Dorf8i6lCuk) (2021)
 * [Angular vs React.js vs Vue.js - My Thoughts!](https://www.youtube.com/watch?v=KMX1mFEmM3E) (2017)
   * PedroTech: [All The JavaScript You Need To Know For React](https://www.youtube.com/watch?v=m55PTVUrlnA) (2022)
+* [Odin Project](https://www.theodinproject.com/)
+  * [FullStack Javascript](https://www.theodinproject.com/paths/full-stack-javascript)
 
 #### Tools
 * [render](https://render.com) - point to github repo and render web site
