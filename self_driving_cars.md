@@ -23,7 +23,14 @@ title: Self Driving Cars
   * [End-to-End Autonomous Driving](https://opendrivelab.com/e2ead/cvpr23.html) (2023), [youtube playlist](https://www.youtube.com/playlist?list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN)
   * [Vision-Centric Autonomous Driving (VCAD)](http://vcad.site/#/) (2023)
   * [Workshop on Autonomous Driving](https://cvpr2023.wad.vision/) (2023)
-    * [Argoverse Competitions](https://www.youtube.com/watch?v=X8HWCuQ7Hj0&list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN&index=4)
+    * [Kodiak: Robust Localization: From Highways to Offroad]((https://www.youtube.com/watch?v=X8HWCuQ7Hj0&list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN&index=1))
+    * Chelsea Finn: [Benchmarking, Detecting, and Adapting to Distribution Shift](https://www.youtube.com/watch?v=3ujBJkuRbhg&list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN&index=2)
+    * [Challenge - Argoverse](https://www.youtube.com/watch?v=X8HWCuQ7Hj0&list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN&index=3)
+    * [Common Misconceptions in Autonomous Driving](https://www.youtube.com/watch?v=X8HWCuQ7Hj0&list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN&index=4)
+    * Alexandre Alahi: [The 7 Foundational Principles Behind Autonomous Mobility](https://www.youtube.com/watch?v=Xgnc-CJi8zE&list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN&index=5)
+    * Chen Wu, head of Perception at Waymo: [Progress Towards Scalable Deployment of Autonomous Driving](https://www.youtube.com/watch?v=fXsbI2VkHgc&list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN&index=8)
+    * [Challenge - Waymo Open Dataset](https://www.youtube.com/watch?v=cOFjqeBNN6g&list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN&index=9)
+    * Ashok Elluswamy: [Foundation Models for Autonomy](https://www.youtube.com/watch?v=6x-Xb_uT7ts&list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN&index=10)
   * [End-to-End Autonomous Driving: Perception, Prediction, Planning and Simulation](https://e2ead.github.io/2023.html) (2023)
 
 #### Survey Papers
