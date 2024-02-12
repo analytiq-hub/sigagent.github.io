@@ -7,6 +7,14 @@ Under construction! With more updates coming soon.
 * [Book plan](https://docs.google.com/document/d/15Rc6v16nYicFrKGgcgL0Z0sjlAdeHwIArOOi_doQgKM/edit#)
 
 Our goal is to describe
+* What does it mean for a car to be self driving?
+* What sensors are used in self driving cars?
+* What are the software components: controller, perception, occupancy grid map, planner, maps, simulation.
+* What open source software tools are available to help in development?
+* What does 'real time' and 'safety critical' mean, for self driving cars?
+* What are the engineering challenges?
+* How does self driving compare to robotics in general?
+
 * The components of a self driving car
 * The engineering needed to build it, incrementally, and component wise. The best technology is built by evolution of simpler components, from basic to complex.
 * The skills needed to build each component
