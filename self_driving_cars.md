@@ -23,7 +23,7 @@ title: Self Driving Cars
   * [End-to-End Autonomous Driving](https://opendrivelab.com/e2ead/cvpr23.html) (2023), [youtube playlist](https://www.youtube.com/playlist?list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN)
   * [Vision-Centric Autonomous Driving (VCAD)](http://vcad.site/#/) (2023)
   * [Workshop on Autonomous Driving](https://cvpr2023.wad.vision/) (2023)
-    * [Kodiak: Robust Localization: From Highways to Offroad]((https://www.youtube.com/watch?v=X8HWCuQ7Hj0&list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN&index=1))
+    * [Kodiak: Robust Localization: From Highways to Offroad](https://www.youtube.com/watch?v=X8HWCuQ7Hj0&list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN&index=1)
     * Chelsea Finn: [Benchmarking, Detecting, and Adapting to Distribution Shift](https://www.youtube.com/watch?v=3ujBJkuRbhg&list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN&index=2)
     * [Challenge - Argoverse](https://www.youtube.com/watch?v=X8HWCuQ7Hj0&list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN&index=3)
     * [Common Misconceptions in Autonomous Driving](https://www.youtube.com/watch?v=X8HWCuQ7Hj0&list=PLvXze1V52Yy3QxWYFfWhCFrzUjZqY1jgN&index=4)
