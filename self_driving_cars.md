@@ -16,6 +16,7 @@ title: Self Driving Cars
   * Started with Apollo ROS, now using CyberRT
 * Introductions
   * [Self Driving Cars An Introduction to Vehicle Autonomy Stack](https://www.youtube.com/watch?v=VEY55D_vqt0&t=373s)
+* Uni Bonn: [Self Driving Cars](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQo2Z_ogbonywTg8jxCI9pD) (2023)
 
 #### Workshops
 * CVPR 2022
