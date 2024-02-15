@@ -100,6 +100,7 @@ title: Self Driving Cars
 * Mac Schwager: [Game Theory for Simultaneous Behavior Prediction and Trajectory Planning in AVs](https://www.youtube.com/watch?v=nS3W__XQkEE&t=6203s) (2022)
 
 #### Sensors and Sensor Fusion
+* F. Rosique et al: [A Systematic Review of Perception System and Simulators for Autonomous Vehicles Research](https://www.mdpi.com/1424-8220/19/3/648) (2019)
 * De Jong Yang et al: [Sensor and Sensor Fusion Technology in Autonomous Vehicles: A Review](https://mdpi-res.com/d_attachment/sensors/sensors-21-02140/article_deploy/sensors-21-02140-v2.pdf?version=1616339580) (2021)
 * A. Jain et al: [High-Fidelity Sensor Calibration for Autonomous Vehicles](https://medium.com/wovenplanetlevel5/high-fidelity-sensor-calibration-for-autonomous-vehicles-6af06eba4c26) (2019)
 * P. Meruva: [Sensor Calibration is Critical to the Future of Automated Vehicles](https://medium.com/fot-future-of-transportation-trucks-vc/trucks-fot-research-brief-sensor-calibration-for-automated-vehicles-d21cf446be05) (2020)
