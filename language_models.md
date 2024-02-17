@@ -192,6 +192,11 @@ gradient for the vast majority of the parameters
 * [llama2-chatbot](https://llama2.ai/) [github](https://github.com/a16z-infra/llama2-chatbot) by Matt Bornstein et al
 * [SciSpace Copilot](https://typeset.io/) chrome extension
 * [Ollama](https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image)
+* Prompt Engineering
+  * Langsmith
+  * Humanloop
+  * [Trubrics](https://trubrics.com/)
+  * [Agenta](https://github.com/agenta-ai/agenta?tab=readme-ov-file), open source
 
 #### Models
 * [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)
