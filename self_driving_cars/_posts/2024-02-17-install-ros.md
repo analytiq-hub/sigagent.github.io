@@ -46,3 +46,32 @@ python3 -m pip install -U --user \
   flake8-class-newline \
   flake8-deprecated
 ```
+
+Get Ros2 code
+
+```
+mkdir -p ~/build/ros2_rolling/src
+cd ~/build/ros2_rolling
+vcs import --input https://raw.githubusercontent.com/ros2/ros2/rolling/ros2.repos src
+```
+
+Install dependencies using rosdep
+
+```bash
+sudo dnf update
+
+sudo rosdep init
+rosdep update
+rosdep install --from-paths src --ignore-src -y --skip-keys "fastcdr ignition-cmake2 ignition-math6 rti-connext-dds-6.0.1 urdfdom_headers"
+```
+
+Build the code in the workspace
+
+```bash
+cd ~/build/ros2_rolling/
+colcon build --symlink-install
+
+# To skip packages that are not building properly:
+# colcon build --symlink-install --packages-skip image_tools intra_process_demo
+
+```
