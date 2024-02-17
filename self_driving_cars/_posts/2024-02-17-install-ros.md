@@ -81,19 +81,19 @@ Setup environment
 ```bash
 # Replace ".bash" with your shell if you're not using bash
 # Possible values are: setup.bash, setup.sh, setup.zsh
-. ~/ros2_rolling/install/local_setup.bash
+. ~/build/ros2_rolling/install/local_setup.bash
 ```
 
 Set up C++ talker
 
 ```bash
-. ~/ros2_rolling/install/local_setup.bash
+. ~/build/ros2_rolling/install/local_setup.bash
 ros2 run demo_nodes_cpp talker
 ```
 
 Set up Python listener in another terminal
 
 ```bash
-. ~/ros2_rolling/install/local_setup.bash
+. ~/build/ros2_rolling/install/local_setup.bash
 ros2 run demo_nodes_py listener
 ```
