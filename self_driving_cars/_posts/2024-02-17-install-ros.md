@@ -65,9 +65,27 @@ rosdep update
 rosdep install --from-paths src --ignore-src -y --skip-keys "fastcdr ignition-cmake2 ignition-math6 rti-connext-dds-6.0.1 urdfdom_headers"
 ```
 
+Edit ~/build/ros2_rolling/build/rviz_assimp_vendor/assimp_vendor-prefix/src/assimp_vendor/code/AssetLib/glTF2/glTF2Exporter.cpp:
+
+```
+    // Default Sheen color factor {0,0,0} disables Sheen, so do not export
+    //if (sheen.sheenColorFactor == defaultSheenFactor)
+    //    return false;
+    if (memcmp(sheen.sheenColorFactor, glTF2::defaultSheenFactor, sizeof(sheen.sheenColorFactor)) == 0) {
+    // Arrays have the same content and memory layout
+      return false;
+    }
+```
+
 Build the code in the workspace
 
 ```bash
+# Export RPM_ARCH
+export RPM_ARCH=$(uname -m)
+export RPM_PACKAGE_RELEASE=1.0.0
+export RPM_PACKAGE_VERSION=1.0.0
+export RPM_PACKAGE_NAME=ros
+
 cd ~/build/ros2_rolling/
 colcon build --symlink-install
 
