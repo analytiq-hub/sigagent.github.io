@@ -107,6 +107,7 @@ gradient for the vast majority of the parameters
 * [Entity Extraction: LLMs Versus Classical Neural Model + Live-Updating Knowledge Graph](https://blog.gdeltproject.org/entity-extraction-llms-versus-classical-neural-model-live-updating-knowledge-graph/) (2023)
 * Google [Natural Language API demo](https://cloud.google.com/natural-language?hl=en)
 * [Named Entity Recognition With HuggingFace Using PyTorch and W&B](https://wandb.ai/mostafaibrahim17/ml-articles/reports/Named-Entity-Recognition-With-HuggingFace-Using-PyTorch-and-W-B--Vmlldzo0NDgzODA2) (2023)
+* Tirendaz AI: [Named Entity Recognition with Hugging Face 🤗 NLP Tutorial For Beginners](https://www.youtube.com/watch?v=r-yR8-7dlvQ) (2023)
 
 #### Courses
 * A. Karpathy: [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) (2023)
