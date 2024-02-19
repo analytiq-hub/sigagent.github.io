@@ -97,8 +97,8 @@ gradient for the vast majority of the parameters
 
 #### Text Classification
 * L. Tunstall, N. Reimers et al: [Efficient Few-Shot Learning Without Prompts](https://arxiv.org/pdf/2209.11055.pdf) (2022), [youtube](https://www.youtube.com/watch?v=6WBK7XSXJM8)
-* Phil Schmid: [Outperform OpenAI GPT-3 with SetFit for text-classification](https://www.philschmid.de/getting-started-setfit) (2022)
-* [SetFit: Efficient Few-Shot Learning Without Prompts](https://huggingface.co/blog/setfit)
+  * Phil Schmid: [Outperform OpenAI GPT-3 with SetFit for text-classification](https://www.philschmid.de/getting-started-setfit) (2022)
+  * [SetFit: Efficient Few-Shot Learning Without Prompts](https://huggingface.co/blog/setfit)
 
 #### Named Entity Recognition (NER)
 * [NER extraction using LangChain and LLMs codes explained](https://www.youtube.com/watch?v=OagbDJvywJI) (2023)
