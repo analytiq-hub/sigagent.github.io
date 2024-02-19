@@ -41,3 +41,17 @@ Install dev tools:
 ```bash
 sudo apt install ros-dev-tools
 ```
+
+In all terminal windows that will execute ROS commands, source `setup.bash`:
+
+```bash
+source /opt/ros/humble/setup.bash
+```
+
+You can now run the talker: `ros2 run demo_nodes_cpp talker`
+
+And in a separate window the listener: `ros2 run demo_nodes_cpp listener`
+
+Can record all messages: `ros2 bag record --all -o filename.bag`
+
+And can replay them to the listener: `ros2 bag play filename.bag`
