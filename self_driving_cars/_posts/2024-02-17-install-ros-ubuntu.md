@@ -59,7 +59,7 @@ And can replay them to the listener: `ros2 bag play filename.bag`
 
 #### Gazebo
 
-Install Gazebo:
+Install Gazebo per instructions from https://docs.ros.org/en/humble/Tutorials/Advanced/Simulators/Gazebo/Gazebo.html:
 
 ```bash
 sudo sh -c 'echo "deb [arch=$(dpkg --print-architecture)] http://packages.ros.org/ros2/ubuntu $(lsb_release -cs) main" > /etc/apt/sources.list.d/ros2-latest.list'
@@ -67,4 +67,28 @@ curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo ap
 sudo apt-get update
 
 sudo apt install ros-rolling-ros-gz
+```
+
+Start Gazebo:
+
+```bash
+ign gazebo -v 4 -r visualize_lidar.sdf
+```
+
+Install ros bridge:
+
+```bash
+sudo apt-get install ros-humble-ros-ign-bridge
+```
+
+Start the ros bridge:
+
+```bash
+ros2 run ros_gz_bridge parameter_bridge /model/vehicle_blue/cmd_vel@geometry_msgs/msg/Twist]ignition.msgs.Twist
+```
+
+Send a command:
+
+```bash
+ros2 topic pub /model/vehicle_blue/cmd_vel geometry_msgs/Twist "linear: { x: 0.1 }"
 ```
