@@ -92,6 +92,9 @@ colcon build --symlink-install
 # To skip packages that are not building properly:
 # colcon build --symlink-install --packages-skip image_tools intra_process_demo
 
+# To build specific packages
+# colcon build --symlink-install --packages-select rviz_default_plugins
+
 ```
 
 Setup environment
