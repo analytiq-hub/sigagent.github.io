@@ -55,3 +55,16 @@ And in a separate window the listener: `ros2 run demo_nodes_cpp listener`
 Can record all messages: `ros2 bag record --all -o filename.bag`
 
 And can replay them to the listener: `ros2 bag play filename.bag`
+
+
+#### Gazebo
+
+Install Gazebo:
+
+```bash
+sudo sh -c 'echo "deb [arch=$(dpkg --print-architecture)] http://packages.ros.org/ros2/ubuntu $(lsb_release -cs) main" > /etc/apt/sources.list.d/ros2-latest.list'
+curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
+sudo apt-get update
+
+sudo apt install ros-rolling-ros-gz
+```
