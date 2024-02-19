@@ -96,6 +96,7 @@ gradient for the vast majority of the parameters
 * aituts.com: Yubin: [How to run Meta's LLaMA on your computer (Windows, Linux tutorial)](https://aituts.com/llama/) (Mar 2023)
 
 #### Text Classification
+* L. Tunstall, N. Reimers et al: [Efficient Few-Shot Learning Without Prompts](https://arxiv.org/pdf/2209.11055.pdf) (2022)
 * Phil Schmid: [Outperform OpenAI GPT-3 with SetFit for text-classification](https://www.philschmid.de/getting-started-setfit) (2022)
 * [SetFit: Efficient Few-Shot Learning Without Prompts](https://huggingface.co/blog/setfit)
 
