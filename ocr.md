@@ -11,6 +11,7 @@ title: Optical Character Recognition
 * PaddleOCR
   * [Github quickstart](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.7/doc/doc_en/quickstart_en.md)
   * [PaddleOCR: Unveiling the Power of Optical Character Recognition](https://learnopencv.com/optical-character-recognition-using-paddleocr/#Paddle-OCR-) (2022)
+* Hacker News: [Our search for the best OCR tool (2019)](https://news.ycombinator.com/item?id=32053525) (2022)
 
 #### Process unstructured data into JSon
 * https://jxnl.github.io/instructor/ - It's a thin wrapper over LLM + a few additional parsing / extraction capabilities
