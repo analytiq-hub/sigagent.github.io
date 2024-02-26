@@ -100,6 +100,7 @@ gradient for the vast majority of the parameters
   * Phil Schmid: [Outperform OpenAI GPT-3 with SetFit for text-classification](https://www.philschmid.de/getting-started-setfit) (2022)
   * [SetFit: Efficient Few-Shot Learning Without Prompts](https://huggingface.co/blog/setfit)
   * Atharva Ingle, Weights and Biases: [SetFit: Efficient Few-Shot Learning Without Prompts](https://wandb.ai/gladiator/SetFit/reports/SetFit-Efficient-Few-Shot-Learning-Without-Prompts--VmlldzozMDUyMzk2)
+  * Niels Rehmers, Cohere: [High quality text classification with few training examples with SetFit](https://www.youtube.com/watch?v=IHalt4Nbf_Q) (2023)
 
 #### Named Entity Recognition (NER)
 * [NER extraction using LangChain and LLMs codes explained](https://www.youtube.com/watch?v=OagbDJvywJI) (2023)
