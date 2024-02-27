@@ -26,6 +26,8 @@ title: Webdev
 * [gradio](https://www.gradio.app/)
 * [streamlit](/webdev/streamlit)
 * [figma](figma.com) for web site design/planing
+* AWS Amplify
+  * [AWS Amplify in Plain English - Getting Started Tutorial for Beginners](https://www.youtube.com/watch?v=HdCmo0a3ngMe) (2023)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
