@@ -68,6 +68,7 @@ title: Entrepreneurship
 * [How Palantir's Business Model Built A $15 Billion Growth Engine](https://buckfiftymba.com/palantirs-growth-engine/) (2023)
 * Chris Gardner: [How to Build a Product that Scales into a Company](https://www.youtube.com/watch?v=r-98YRAF1dY) (2023)
 * Lenny's Podcast: [Lessons from working with 600+ YC startups - Gustaf Alströmer (Y Combinator, Airbnb)](https://www.youtube.com/watch?v=ZoKLofsp8u0) (2023)
+* Venture Fizz Podcast: [Reed Sturtevant, General Partner at Engine Ventures](https://www.youtube.com/watch?v=6Ek_vl7AAuo) (2023)
 
 #### LLCs
 * Jim Hart:
