@@ -5,6 +5,8 @@ author: Andrei Radulescu-Banu
 layout: post
 ---
 
+Note: this install failed. I was unable to install CUDA this way.
+
 Steps:
 * Check the Fedora version in `/etc/os-release`. Update to version 39, or the latest version available. Change the instructions below accordingly, if using a newer Fedora version than 39.
 * Check that `nvidia-smi` detects the Nvidia driver.
