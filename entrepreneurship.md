@@ -29,6 +29,8 @@ title: Entrepreneurship
 * David S. Landes (editor) et al: [The Invention of Enterprise: Entrepreneurship from Ancient Mesopotamia to Modern Times](https://www.amazon.com/Invention-Enterprise-Entrepreneurship-Mesopotamia-Foundation/dp/0691143706) (2010)
 * Noam Wasserman: [The Founder's Dilemmas: Anticipating and Avoiding the Pitfalls That Can Sink a Startup](https://www.amazon.com/Founders-Dilemmas-Anticipating-Foundation-Entrepreneurship/dp/0691158304/) (2013). Reader [review](https://www.amazon.com/gp/customer-reviews/R30LFOBZV5NAVE/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0691158304)
 * Brad Feld, Jason Mendelson: [Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist](https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1119594820), 4th ed. (2019)
+* Carlota Perez: [Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311) (2003)
+* William H. Janeway: [Doing Capitalism in the Innovation Economy: Reconfiguring the Three-Player Game between Markets, Speculators and the State](https://www.amazon.com/Doing-Capitalism-Innovation-Economy-Reconfiguring/dp/1108471277/) (2018)
 
 #### Talks
 * Aaron Harris: [How to Get Meetings with Investors and Raise Money by Aaron Harris](https://www.youtube.com/watch?v=Jzz4AEIddzY) (2018)
