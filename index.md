@@ -119,6 +119,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Gradio](/webdev/gradio)
   * [Streamlit](/webdev/streamlit)
   * [Vercel](/webdev/vercel)
+  * [Vue](/webdev/vue)
 * [Writing Blog Posts](/writing_blog_posts)
 * [Writing Documentation](/writing_documentation)
 * [Yoga and Pilates](/yoga_and_pilates)
