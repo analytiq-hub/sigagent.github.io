@@ -21,6 +21,7 @@ title: Digital Health
 * L.Y. Jiang et al: [Health system-scale language models are all-purpose prediction engines](https://www.nature.com/articles/s41586-023-06160-y), Nature (2023)
 * Tie-Yan Liu et al: [BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/pdf/2210.10341.pdf)
 * Harsha Nori et al: [Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine](https://arxiv.org/pdf/2311.16452.pdf) (2023)
+* Zeming Chen et al: [MEDITRON-70B: Scaling Medical Pretraining for Large Language Models](https://arxiv.org/pdf/2311.16079.pdf) (2023)
 
 #### Talks
 * [ChatGPT: Will It Transform the World of Health Care?](https://www.youtube.com/watch?v=j-aOCuzfxUI&t=779s) (2023)
