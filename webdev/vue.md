@@ -16,6 +16,7 @@ title: Vue
 
 #### Tutorials
 * Travesty Media: [Vue JS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs) (2021)
+* Bitfumes: [Vuetify 3 - You need no design skills just Vue3](https://www.youtube.com/watch?v=MWSP6PGHAb4)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
