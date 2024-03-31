@@ -154,6 +154,8 @@ See [GPUs](/gpus) page
 * Swix: [Bringing ML to the data, and Minimum Viable DevRel — Montana Low, PostgresML](https://www.youtube.com/watch?v=j8hE8-jZJGU) (2023)
 * Elad Gil:
   * Fireside Chat: [Emad Mostaque, CEO of Stability AI](https://www.youtube.com/watch?v=f9v5_7HjnAE) (2022)
+* Andrej Karpathy:
+  * Stephanie Zhan, Sequoia Capital: [Making AI accessible with Andrej Karpathy](https://www.youtube.com/watch?v=c3b-JASoPi0) (2024)
 
 #### Linear Discriminant Analysis (LDA)
 * G. Chen: Math 253: Mathematical Methods for Data Visualization: [Lec 11, LDA](https://www.sjsu.edu/faculty/guangliang.chen/Math253S20/lec11lda.pdf), explains math behind LDA
