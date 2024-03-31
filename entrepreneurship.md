@@ -27,6 +27,7 @@ title: Entrepreneurship
 * Kunal Shah:
   * Lenny's Podcast: [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](https://www.youtube.com/watch?v=EgBOVDzUUAA) (2024)
   * The Knowledge Project: [Core Human Motivations: Kunal Shah](https://www.youtube.com/watch?v=nl1PIagzgUo) (2022)
+  * CRED: [Kunal Shah in conversation with Carl Pei](https://www.youtube.com/watch?v=WsHt6-_Pk40) (2022)
 * Charles Duhigg: [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) (2014)
 * Peter Thiel:  [Zero to One](https://www.amazon.com/Zero-Peter-Thiel-Blake-Masters/dp/0753555204/ref=asc_df_0753555204) (2001)
   * [Peter Thiel’s CS183: Startup—Stanford](https://meetingdelleidee.files.wordpress.com/2012/08/cs183-startup-stanford-spring-2012.pdf) (2012)
