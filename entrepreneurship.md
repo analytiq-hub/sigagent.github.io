@@ -69,7 +69,7 @@ title: Entrepreneurship
 * Coding VC, Leo Polovets:
   * [How to De-Risk a Startup](https://www.codingvc.com/p/how-to-de-risk-a-startup) (2016)
   * Behind the Scenes at a VC Fund
-    * [Part 1: Deals, Deals, Deals]](https://www.codingvc.com/p/behind-the-scenes-at-a-vc-fund-part-1-deals-deals-deals)
+    * [Part 1: Deals, Deals, Deals](https://www.codingvc.com/p/behind-the-scenes-at-a-vc-fund-part-1-deals-deals-deals)
     * [Part 2: Helping Founders and Time Allocation](https://www.codingvc.com/behind-the-scenes-at-a-vc-fund-part-2-helping-founders-and-time-allocation)
     * [Part 3: Fund Structure, Fundraising, Investor Relations, and FAQs](https://www.codingvc.com/behind-the-scenes-at-a-vc-fund-part-3-fund-structure-fundraising-investor-relations-and-faqs/)
 * [Y Combinator](https://www.ycombinator.com)
