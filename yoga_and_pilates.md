@@ -23,6 +23,9 @@ title: Yoga and Pilates
   * Train with GainsbyBrains:
     * [20m intense abs workout](https://www.youtube.com/watch?v=1rRehXq1diw)
     * [20m ultimate ab workout](https://www.youtube.com/watch?v=Ut6xnNEQXz8)
+* Legs
+  * Growing Asanas:
+    * [30 Min Pilates Inspired](https://www.youtube.com/watch?v=5t_zGwEIKGo)
 * Arms and legs
   * [30m arms & legs workout - at home Pilates](https://www.youtube.com/watch?v=XM6N1yl3UYw)
 * Arms and Shoulders
