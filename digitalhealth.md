@@ -39,6 +39,9 @@ title: Digital Health
 #### FDA
 * [Artificial Intelligence and Machine Learning (AI/ML)-Enabled Medical Devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
 
+#### HIPAA
+* Delaram Rezaeikhonakdar: [AI Chatbots and Challenges of HIPAA Compliance for AI Developers and Vendors](https://www.cambridge.org/core/journals/journal-of-law-medicine-and-ethics/article/ai-chatbots-and-challenges-of-hipaa-compliance-for-ai-developers-and-vendors/C873B37AF3901C034FECAEE4598D4A6A) (Mar 2024)
+
 #### Datasets
 * [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/), [github](https://github.com/MIT-LCP/mimic-code/)
 * Discharge
