@@ -48,6 +48,9 @@ title: Digital Health
 * [PMC Article Dataset](https://www.ncbi.nlm.nih.gov/pmc/tools/textmining/), [open access subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/)
 * PubMed
 
+#### Investments
+* Silion Valley Bank: [Healthcare Investments and Exits](https://www.svb.com/globalassets/trendsandinsights/reports/healthcare/2023/annual/healthcare-investments-and-exits-annual-report-2023.pdf?_gl=1*1kbo6ql*_up*MQ..&gclid=Cj0KCQjwqpSwBhClARIsADlZ_Tl-iaDSZTFAH9sutCNnuZTYHGs-ogM_4uP-xryn7tjzwdCBuof1-m8aAt2JEALw_wcB) (Jan 2024)
+
 #### Tools
 * [bloatectomy](https://github.com/MIT-LCP/bloatectomy)
 * [FIDDLE](https://github.com/MLD3/FIDDLE)
