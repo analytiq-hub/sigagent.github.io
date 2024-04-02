@@ -39,6 +39,7 @@ title: Entrepreneurship
 * Richard Rhodes: [The Making of the Atomic Bomb](https://www.amazon.com/Making-Atomic-Bomb-Richard-Rhodes/dp/1451677618) (1987)
 * Mark Andreesen (mirror of his 2007 now-defunct blog)
   * [Part 4: The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) (2007)
+  * [The Psychology of Entrepreneurial Misjudgment: Biases 1-6](https://pmarchive.com/psychology_of_entrepreneurial_misjudgment.html) (2008)
 
 #### Talks
 * Aaron Harris: [How to Get Meetings with Investors and Raise Money by Aaron Harris](https://www.youtube.com/watch?v=Jzz4AEIddzY) (2018)
