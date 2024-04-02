@@ -37,6 +37,8 @@ title: Entrepreneurship
 * Carlota Perez: [Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311) (2003)
 * William H. Janeway: [Doing Capitalism in the Innovation Economy: Reconfiguring the Three-Player Game between Markets, Speculators and the State](https://www.amazon.com/Doing-Capitalism-Innovation-Economy-Reconfiguring/dp/1108471277/) (2018)
 * Richard Rhodes: [The Making of the Atomic Bomb](https://www.amazon.com/Making-Atomic-Bomb-Richard-Rhodes/dp/1451677618) (1987)
+* Mark Andreesen
+  * [Part 4: The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) (2007)
 
 #### Talks
 * Aaron Harris: [How to Get Meetings with Investors and Raise Money by Aaron Harris](https://www.youtube.com/watch?v=Jzz4AEIddzY) (2018)
