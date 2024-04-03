@@ -24,10 +24,6 @@ title: Entrepreneurship
   * [Is Your Startup A Cash or Equity Business?](https://blog.eladgil.com/p/is-your-startup-cash-or-equity-business) (2010)
   * [Defensibility & Competition](https://blog.eladgil.com/p/defensibility-and-competition) (2023)
   * [Advice from investor who backed 40 Unicorns: Elad Gil](https://www.youtube.com/watch?v=nLA90pa-34A) (2024)
-* Kunal Shah:
-  * Lenny's Podcast: [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](https://www.youtube.com/watch?v=EgBOVDzUUAA) (2024)
-  * The Knowledge Project: [Core Human Motivations: Kunal Shah](https://www.youtube.com/watch?v=nl1PIagzgUo) (2022)
-  * CRED: [Kunal Shah in conversation with Carl Pei](https://www.youtube.com/watch?v=WsHt6-_Pk40) (2022)
 * Charles Duhigg: [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) (2014)
 * Peter Thiel:  [Zero to One](https://www.amazon.com/Zero-Peter-Thiel-Blake-Masters/dp/0753555204/ref=asc_df_0753555204) (2001)
   * [Peter Thiel’s CS183: Startup—Stanford](https://meetingdelleidee.files.wordpress.com/2012/08/cs183-startup-stanford-spring-2012.pdf) (2012)
@@ -37,10 +33,13 @@ title: Entrepreneurship
 * Carlota Perez: [Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311) (2003)
 * William H. Janeway: [Doing Capitalism in the Innovation Economy: Reconfiguring the Three-Player Game between Markets, Speculators and the State](https://www.amazon.com/Doing-Capitalism-Innovation-Economy-Reconfiguring/dp/1108471277/) (2018)
 * Richard Rhodes: [The Making of the Atomic Bomb](https://www.amazon.com/Making-Atomic-Bomb-Richard-Rhodes/dp/1451677618) (1987)
+* Charles T. Munger, Peter D. Kaufman: [Poor Charlie's Almanack](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
+
+#### Blog posts
 * Mark Andreesen (mirror of his 2007 now-defunct blog)
   * [Part 4: The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) (2007)
   * [The Psychology of Entrepreneurial Misjudgment: Biases 1-6](https://pmarchive.com/psychology_of_entrepreneurial_misjudgment.html) (2008)
-* Charles T. Munger, Peter D. Kaufman: [Poor Charlie's Almanack](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
+* J. Vrionis, S. Hedge: [How to find product market fit: the counterintuitive secrets](https://www.unusual.vc/post/how-to-find-product-market-fit) (2023)
 
 #### Talks
 * Aaron Harris: [How to Get Meetings with Investors and Raise Money by Aaron Harris](https://www.youtube.com/watch?v=Jzz4AEIddzY) (2018)
@@ -84,6 +83,10 @@ title: Entrepreneurship
 * Chris Gardner: [How to Build a Product that Scales into a Company](https://www.youtube.com/watch?v=r-98YRAF1dY) (2023)
 * Lenny's Podcast: [Lessons from working with 600+ YC startups - Gustaf Alströmer (Y Combinator, Airbnb)](https://www.youtube.com/watch?v=ZoKLofsp8u0) (2023)
 * Venture Fizz Podcast: [Reed Sturtevant, General Partner at Engine Ventures](https://www.youtube.com/watch?v=6Ek_vl7AAuo) (2023),[summary](https://www.linkedin.com/feed/update/urn:li:activity:7172391142028742656/)
+* Kunal Shah:
+  * Lenny's Podcast: [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](https://www.youtube.com/watch?v=EgBOVDzUUAA) (2024)
+  * The Knowledge Project: [Core Human Motivations: Kunal Shah](https://www.youtube.com/watch?v=nl1PIagzgUo) (2022)
+  * CRED: [Kunal Shah in conversation with Carl Pei](https://www.youtube.com/watch?v=WsHt6-_Pk40) (2022)
 
 #### LLCs
 * Jim Hart:
