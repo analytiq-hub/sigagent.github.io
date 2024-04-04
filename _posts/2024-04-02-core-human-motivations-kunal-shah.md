@@ -158,6 +158,9 @@ Towards the end of the conversation, decision-making and opportunity cost are di
 * "The quest for efficiency and wealth is an ongoing journey that demands constant innovation, adaptation, and insight."
 * "Building a successful startup is about finding the delta four change that significantly improves efficiency and user experience."
 * "The essence of great leadership in the tech world is the ability to attract, nurture, and retain individuals with a high trajectory of growth and innovation."
+* "Envy is hyper-local"
+* "It's always good to change your network in life"
+* "All bad behavior is rooted in short term thinking"
 
 #### Raw Transcript
 
