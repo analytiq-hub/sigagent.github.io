@@ -161,6 +161,7 @@ Towards the end of the conversation, decision-making and opportunity cost are di
 * "Envy is hyper-local"
 * "It's always good to change your network in life"
 * "All bad behavior is rooted in short term thinking"
+* "Reputation is a bank account where you can deposit only a dollar a day, but withdrawal is always nearly complete"
 
 #### Raw Transcript
 
