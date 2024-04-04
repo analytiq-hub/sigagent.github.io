@@ -162,6 +162,8 @@ Towards the end of the conversation, decision-making and opportunity cost are di
 * "It's always good to change your network in life"
 * "All bad behavior is rooted in short term thinking"
 * "Reputation is a bank account where you can deposit only a dollar a day, but withdrawal is always nearly complete"
+* "You can't hack reputation"
+* "All the people who are seemingly very good at decisions, they tend to have multiple personalities in thinking about situations "
 
 #### Raw Transcript
 
