@@ -371,7 +371,7 @@ There is no one book. no 10 rules, no one god.
 
 So what do you really scale, with Hinduism, is an open source religion which people make and built on some principles and tenets which are constantly evolving, and people are allowed to tweak it on their own terms.
 
-It's like evolving very differently, and therefore Hinduism is mostly spread through birth, but not through scaling to other societies, because it was not designed for efficient scaling - but it is something that you feel more spiritual.
+It's evolving very differently, and therefore Hinduism is mostly spread through birth, but not through scaling to other societies, because it was not designed for efficient scaling - but it is something that you feel more spiritual.
 
 #### [20:15](https://www.youtube.com/watch?v=nl1PIagzgUo&t=1215s) Standardization of businesses
 
@@ -427,20 +427,11 @@ And, therefore, Ivy League can keep increasing the gross margin with no trouble,
 
 Let's give example of Vegas right now. Vegas does not assure you'll become rich, but the hope lottery, which is a chance of being level 30 jump into level 200. I'm okay to go all in once in a while, especially poor people get sucked into that a lot more. It's like being on a poker table with a smaller stack - the best strategy you feel to be on the table is to go all in all the time.
 
-So when we went through pandemic i believe that the whole
-world had this amygdala hijacked moment where they said oh my god i have to
-really survive and i need to take more risky behavior because i think the amygdala probably
-flared up during this time and therefore risky behavior seems to happen
-right after crisis because people just go all in and i think all of these things like i
-was shocked when i got to know that 90 95 of all coins
-that were traded on all crypto exchanges were not in the top five not even the top ten
-because who wants the normal returns i i just want a chance to just play that and therefore i think the the world is
-getting more risky and then obviously there's a huge correction that will happen uh which will kind of flow in the
-next stage uh because like the spanish flu we went through spanish flu and then the roaring 20s and
-the great depression we're going to go through those cycles faster now because we have fast forwarding
-everything in fact crisis is a almost like a fast forward button to
-future and and accelerates eventualities because we go through that but coming back to what i was saying is that value
-therefore is utility and vanity and chance of increasing social status which is
+So when we went through pandemic I believe that the whole world had this amygdala-hijacked moment, where they said, oh my god, I have to, really survive, and I need to take more risky behavior. Because I think the amygdala, probably, flared up during this time, and therefore risky behavior seems to happen right after crisis, because people just go all in.
+
+And I think all of these things, like I was shocked when I got to know that 90-95% of all coins that were traded on all crypto exchanges were not in the top five, not even the top ten, because who wants the normal returns? I just want a chance to just play that, and therefore I think the the world is getting more risky, and then obviously there's a huge correction that will happen, which will kind of flow in the next stage, because the Spanish Flu we went through, Spanish Flu and then the roaring 20s, and the Great Depression.
+
+We're going to go through those cycles faster now, because we have fast forwarding everything in fact is almost like a fast forward button to  future and accelerates eventualities - because we go through that but coming back to what i was saying is that value therefore is utility and vanity and chance of increasing social status which is
 constantly sucking all the gross margins and world is seeing a very interesting pattern all the businesses that are
 providing utility are losing gross margins to the point of
 becoming zero because many companies that offer vanity or social status or a chance of
