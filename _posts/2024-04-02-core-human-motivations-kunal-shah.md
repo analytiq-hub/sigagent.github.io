@@ -403,7 +403,7 @@ You can't tell the best directors that - oh, we need to ship two movies every tw
 
 I'm not saying that the others who ship one movie a year do not create value. They do. But you never they will never create something that is memorable, or create an experience that you will never forget.
 
-So i think that's where I would disagree with the idea of value creation happens in both. But the question is that what do you enjoy and what creates a memorable experience, what creates an emotional arousal is rarely through efficient methods.
+So I think that's where I would disagree with the idea of value creation happens in both. But the question is that what do you enjoy and what creates a memorable experience, what creates an emotional arousal is rarely through efficient methods.
 
 For example, trips to inefficient places will be more memorable than efficient places, by design.
 
