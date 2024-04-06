@@ -407,7 +407,7 @@ So i think that's where I would disagree with the idea of value creation happens
 
 For example, trips to inefficient places will be more memorable than efficient places, by design.
 
-#### What people pay for
+#### [23:19](https://www.youtube.com/watch?v=nl1PIagzgUo&t=1399s) What people pay for
 
 do you think you you get rewarded for
 creating almost like an asymmetry to creating an emotional connection
@@ -504,7 +504,9 @@ because all low trust societies always want somebody who with strong backbone to
 and that's also the concentration of trust point which which seeps in from that which which is
 constantly repeating itself in many many themes so
 we trust people who are like ourselves and so the the more diverse society is
-Who we do (and don’t trust)
+
+#### [32:51](https://www.youtube.com/watch?v=nl1PIagzgUo&t=1971s) Who we do (and don’t trust)
+
 the fewer people that are like us the more low trust we are in general that's is that a good summary of sort of yeah
 paraphrasing interesting thing that i mean i think it's a good summary there's one more nuance if it becomes
 too similar innovation dies it becomes too dissimilar trust dies so it seems to be in an
@@ -521,7 +523,9 @@ in india because it just works and and my company i've seen that and and we're
 in a fintech business we launched an e-commerce platform and it just becomes so big in a month's time
 much to most people's surprise including our investors were mostly from the western market they're like
 focus focus is almost a curse in asian markets
-Focus in Asian markets
+
+#### [34:38](https://www.youtube.com/watch?v=nl1PIagzgUo&t=2078s) Focus in Asian markets
+
 oh go deeper on that uh the market is not deep enough to focus on one market and create a
 large company the per capita income the total economy and all of that so you have to do
 cross-sell more things to the same set of customers uh i'll give you some
@@ -556,7 +560,9 @@ market with advertising india is perfect for that because value of time is not a
 watch uh in india when a series plays on tv of 30 minutes
 approximately nine minutes is ads oh my gosh
 by the way it used to be more the government regulated and made it nine minutes
-Value of time in India
+
+#### [38:10](https://www.youtube.com/watch?v=nl1PIagzgUo&t=2290s) Value of time in India
+
 so if people aren't paid hourly how are they how are they compensated how does that work so we have a concept of
 monthly salary uh we're not even paid weekly so we are paid every month and everybody thinks in month
 uh it's a flawed concept because they never solve our think about being efficient in life
@@ -591,7 +597,9 @@ when we had charged one percent two percent mdr for do that it never took off
 so the thing is that this value of time understanding credit value of time and
 this math of thinking of of time energy money in one equation
 is extremely hard i meant to ask this as the second question of our interview but uh you're
-Kunal’s startup journey
+
+#### [41:40](https://www.youtube.com/watch?v=nl1PIagzgUo&t=2500s) Kunal’s startup journey
+
 on your second big startup now how do we get here walk me through your first and what you're doing right now and then
 then we'll pick up where we left off here sure um so my first startup i built from 2010 to
 2015 um exited probably the largest exit at that point of time in india uh
@@ -775,7 +783,9 @@ no joy in investing uh it's just like oh i told you so i was right and i was
 right and and guess what it gets boring because you're right in the market like this when you can
 predict delta for frameworks and you can apply all the human insights you've learned it's not a big deal that you've
 avoided to be more right the problem is i felt really empty i want to go back to some of those human
-What predicts startup success
+
+#### [1:00:35](https://www.youtube.com/watch?v=nl1PIagzgUo&t=3635s) What predicts startup success
+
 frameworks in delta iv when you're making an investment decision what are the top lenses that you're
 thinking that through so one was sort of the delta iv framework which we talked about
 what are the human frameworks that you're you're thinking about that what are the lenses that add the most value
@@ -835,7 +845,9 @@ uh and and uh you'll rarely meet successful people who
 are not insightful uh i believe that insight is the smallest unit of truth that is
 actionable uh and and therefore people who operate in the currency of insights
 tend to be generally more successful at least in business can you go deeper on that the smallest
-On insight
+
+#### [1:06:42 ](https://www.youtube.com/watch?v=nl1PIagzgUo&t=4002s) On insight
+
 unit of insight that's actionable a smaller unit of truth that is actually
 truth truth that's actual yeah go deeper on that for a second
 so if you go to ancient hindu mythology and and you study the sanskrit
@@ -877,7 +889,9 @@ well i think in the in the western world it's about treating yourself it's about
 we still have a status thing individualism versus individualism versus collectivism which is how asian
 societies are and therefore you don't deserve things to be special but you have to show it
 and therefore weddings are really big and very high gross marginalized for others
-Core human motivations
+
+#### [1:11:02](https://www.youtube.com/watch?v=nl1PIagzgUo&t=4262s) Core human motivations
+
 so let's go back to the the we talked about this a little bit earlier but i want to go into more detail on
 you mentioned some of the core human motivations that transcend culture
 core human game is to constantly improve our social status so that we improve our
@@ -916,7 +930,9 @@ uh consume more and all of that versus like go and take care of your dad's
 operation and pay for the whole thing uh asians will not even flinch one bit
 to uh sometimes even wipe out 50 or 100 of the net worth to take care of their
 parents uh which is hard to imagine concept for many people in the west
-Maslow’s Hierarchy of Needs in America vs. India
+
+#### [1:14:55](https://www.youtube.com/watch?v=nl1PIagzgUo&t=4495s) Maslow’s Hierarchy of Needs in America vs. India
+
 yeah i think that is you mentioned maslow's hierarchy of needs was different can you elaborate on that a
 little bit between uh the us and in india yeah so i i
 actually googled i found doesn't i thought it should be in a separate asian mask but in fact there is a concept somebody's proposing asian master and
@@ -948,7 +964,9 @@ millions of dollars of revenue but there are enough wedding photographers i know
 revenue oh wow i want to switch gears a little bit to
 some of the stuff that you've said over the years and i want to get more of an elongated
 take on it and they're concentrated doses of insight and i'm wondering maybe if you can just riff on them a little
-On your group of friends and compounding
+
+#### [1:18:06](https://www.youtube.com/watch?v=nl1PIagzgUo&t=4686s) On your group of friends and compounding
+
 bit um so one of the things that you've said recently is that your group of
 your group of friends impacts how fast you compound so insights are
 usually connected from random dots getting connected right so
@@ -1012,7 +1030,9 @@ is most important ingredient in ability to connect dots
 go deeper on that um
 shameless people make more conjectures without any fear of judgment
 right hypothetically is that i will make a conjecture randomly
-Sharpening insight through public discourse
+
+#### [1:24:29](https://www.youtube.com/watch?v=nl1PIagzgUo&t=5069s) Sharpening insight through public discourse
+
 and write as if it's some law of physics and people bash me and correct me
 and sharpen my inside or connect even further dots for me
 and then i'm like wow i have a new insight on top of that because i just put a conductor out there
@@ -1065,7 +1085,9 @@ in fact uh the word fan probably comes from the word fanatic and fanatics are th
 easiest to trigger in fact i believe that all the people who demonstrate the need to be fans
 are the people who are easiest to offend uh in life i think
 being fan or having favorites is telling the world that you're extremely easy to offend
-On signaling
+
+#### [1:29:55](https://www.youtube.com/watch?v=nl1PIagzgUo&t=5395s) On signaling
+
 a couple points coming out of this there's um i have a belief that there's so much
 advantage in life that comes from being willing to look like an idiot in the short term and i think that goes to something you
 said earlier and that there's this quote by lou brock that always stands out to me which is show me a man that's afraid to look like
@@ -1084,7 +1106,9 @@ times when people put it in other people's hands that if you like it if you like
 applause uh they build less and less substance within themselves because they're optimizing for somebody else's
 metric not realizing that nobody gives a damn about anybody else except
 themselves so that goes to sort of buffett's idea of this inner versus
-Inner v. Outer scorecard
+
+#### [1:31:47](https://www.youtube.com/watch?v=nl1PIagzgUo&t=5507s) Inner v. Outer scorecard
+
 outer scorecard talk to me about that i think uh
 i think people genuinely are benchmarking externally because the scores are built
 externally i think that academics for example
@@ -1120,7 +1144,9 @@ outgrow uh the price of growth is outgrowing people is is this because if you re
 your wi-fi network all the time to people with better ambitions better goals uh you will not feel that need uh
 to win within this that local league uh of yours
 so hold on i want to explore this a little bit more envy being local is it you're not envious of elon musk
-On jealousy of different levels
+
+#### [1:35:15](https://www.youtube.com/watch?v=nl1PIagzgUo&t=5715s) On jealousy of different levels
+
 because uh there's multiple status levels between you and him or perception of
 that whereas if if there's only one degree of status level then that creates sort of a situation where envy can take
 hold because it's like i could be that whereas like if i look at elon musk i'm like i can't be elon musk i don't want
@@ -1203,7 +1229,9 @@ about the answers are usually very simple and basic and that's another thing we 
 we are like oh that seems super simplified but the truth is that when you really go and distill that things
 will become simple and basic but we don't i think when you're in a high iq zone that it feels like cheating when
 you get simple answers uh and and you're like and therefore when i tweet or you tweet
-Most people aren’t in the truth business
+
+#### [1:43:46](https://www.youtube.com/watch?v=nl1PIagzgUo&t=6226s) Most people aren’t in the truth business
+
 people like oh you're like oversimplifying and grossly non-nuanced but it's not
 uh sometimes the truth is uh as simple as it gets i always think of things as being you
 know there's simple but not necessarily simplistic and so when you're a novice
@@ -1300,7 +1328,9 @@ surprise all the time so the brains is constantly looking for surprises versus g
 because we are like it's giving us this dopamine shots of here and there and tick tock is
 surprise super machine
 you can spend hours on it and your brain will not stop getting surprised
-On getting surprised
+
+#### [1:53:45](https://www.youtube.com/watch?v=nl1PIagzgUo&t=6825s) On getting surprised
+
 but in life we tend not to like surprises right so i'm thinking specifically you know the
 oil shoots up we we come up with this simple that's a surprise it it disrupts
 the way that we thought something was going to happen and our perception out of the world
@@ -1317,7 +1347,9 @@ same gift looks the same feels the same way is the same and causes different emo
 sent me a bomb you are not thinking that oh i have a secret admirer who sent me this beautiful gift let me just open it you
 are mostly assuming that oh i have somebody who's causing harm to me but the same thing it's given in familiar
 context where you've removed the fear you're like i'm so excited to open this it doesn't matter we could be 60 year
-Wealthy people keep secrets
+
+#### [1:55:28](https://www.youtube.com/watch?v=nl1PIagzgUo&t=6928s) Wealthy people keep secrets
+
 old we are still happy to open the gift wrap i i want to go back to something you said earlier that's sort of like uh
 lingering in my mind a little bit which is you said you've rarely met a wealthy person that can't keep a secret
 go deeper on that so this is now a rabbit hole topic so we'll go we'll go into it uh
@@ -1386,7 +1418,9 @@ stock market tanked and revenue tang when apple announced a way to not be able t
 and boom you can't predict many things about people and therefore your revenue will tank because you can't predict
 their behavior and i think that's where the power of
 understanding this simple concept can can be very useful in understanding where the wealth is going to move
-On making decisions
+
+#### [2:02:32](https://www.youtube.com/watch?v=nl1PIagzgUo&t=7352s) On making decisions
+
 constantly i like that let's change gears a little bit here um talk to me about decision
 making [Laughter] uh
 it's a another rabbit hole uh so i have seen that one good framework of decision making is
@@ -1543,7 +1577,9 @@ and i think uh being more connected in the moment constantly connecting dots the
 and therefore i document them in public because i'll i'll trust people to come
 and correct me on my decisions okay we're definitely gonna have to do a part two of this because i think i only
 get through four questions uh so next year i i'm we're going to reserve this now
-Opportunity cost
+
+#### [2:18:35](https://www.youtube.com/watch?v=nl1PIagzgUo&t=8315s) Opportunity cost
+
 how do you think uh sort of last question for this one i think we're hitting up to a good time here
 how do you think about opportunity cost it it comes to what metric you're optimizing for if it's let's say wealth
 for the sake of making argument or opportunity cost
@@ -1578,7 +1614,9 @@ and therefore sometimes i wonder like elon is going to probably have i don't kno
 companies maybe six i think the biggest thing he's done he's just extraordinary at collecting
 strong slow people all the time and keeping them engaged
 to feel excited and ambitious about doing what they are doing because they they just will push everything and
-on hiring high performers
+
+#### [2:22:10](https://www.youtube.com/watch?v=nl1PIagzgUo&t=8530s) On hiring high performers
+
 all you have to do is orchestrate those people uh to do great things
 well it's so fascinating right because there's attracting high slope individuals there's retaining high slope
 individuals and then there's a sort of natural selection where if you allow a certain number of people who are
