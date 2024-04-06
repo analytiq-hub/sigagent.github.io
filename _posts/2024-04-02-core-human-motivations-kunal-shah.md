@@ -175,7 +175,7 @@ Shane Parrish: You grew up in a business family, and i'm curious as to what less
 
 Kunal Shah: In india we have a deep rooted caste system, where we had four casts. And one of the castes of the four casts is the business cast. For multiple generations, everybody in that caste has only done business.
 
-It's called the Weisha or the Baniya caste, and for this group of people, jobs are an unusual thing.
+It's called the Vaishyas or the Baniya caste, and for this group of people, jobs are an unusual thing.
 
 They are - for lack of better examples - like the Jewish family. It's quite common for them to be doing business. They started dabbling into jobs in a more recent history - that's a similar thing that we had in India.
 
@@ -209,7 +209,7 @@ You will find Gujaratis in every single country having set up a business, becaus
 
 You will find them in a remotest African country. There will be a Gujarati family running a business multiple generations - you will see them across the planet!- because they will look for ways to not compete, and have a zero sum mindset.
 
-One other thing is community benefits. One of the things i have noticed in the gujarati community is that, just like Jewish communities, that they offer a significantly lower interest rate to people in their community, because banks are less likely to underwrite business - and obviously this is pre-venture capital.
+One other thing is community benefits. One of the things i have noticed in the Gujarati community is that, just like Jewish communities, that they offer a significantly lower interest rate to people in their community, because banks are less likely to underwrite business - and obviously this is pre-venture capital.
 
 The community gives them loans, which is a way to say - it's okay, try to make something out of it, and try to return the capital when you can, but at a very low interest rate - just nominal. They love to see more people be successful.
 
@@ -238,43 +238,49 @@ Look at the flex of the guy! He builds a massive clock in British India, with a 
 
 That's crazy!
 
-#### On the fear of failure and shame
+#### [08:37](https://www.youtube.com/watch?v=nl1PIagzgUo&t=517s) On the fear of failure and shame
 
-I want to go back to the shame thing for a second here. The fear of failure prevents us from trying.
+Shane Parrish: I want to go back to the shame thing for a second here.
 
+The fear of failure prevents us from trying. Do you feel we develop this as an adult?
 
-and i think that's something do you do you feel like we develop this as an adult or do you feel like when you're
-involved in a business at a very young age you get exposed to this because you're
-going to fail if you're doing anything you're going to fail and that's okay and that's part of business and you just keep going and you keep iterating and
-you keep trying whereas when we become adults and we try something we don't want to look like an idiot we're scared
-to look like an idiot i've thought a lot about shame as a topic
-i think a lot of people who have been bullied and shamed and mocked early in life
-develop an unusual superpower to not give a damn about being mocked anymore
-right uh it's not surprising if one would say that hey elon uh the way you are were
-you mocked a lot when you were younger because you were not a normal guy and and one would even
-say that you look like a guy on the spectrum and the guy would probably say yeah probably true
-but he doesn't feel that anymore right so what i noticed about is the training of kids
-if we train kids through shame let me give you an example let's say you
-tell them hey in india it's very common that people will say oh if you do not score well
-all your friends will make fun of you all the relatives will make fun of you
-everybody is going to look down upon you and they will say shame shame right
-and when kids are trained through shaming it's an effective tool to make them better the only problem is that it
-remains as a long-term bug in them that they constantly think about other
-people's point of view about how they are and they constantly think their social status
-cannot be taken risk but according to me you cannot develop substance net worth
-wealth experience unless you're constantly willing to risk your
-reputation so i think people who can feel extremely okay to risk up to 30-40
-percent of their reputation wealth health are the ones who propel further but a lot of people don't do that because in
-their head they will say i can't even risk one percent of my reputation
-which makes them not propel in life but some people on the other extreme are very happy to go all in so again
-going back to the gujarati communities i know so many families go bankrupt all the time because going all in
-is not scary for them in fact i'll tell you an interesting stat india has india is a very large
-country but the total number of people who have invested in any kind of asset
-stock mutual funds any of that is around 30 million 30 35 million
-i would go to the extent of saying that 80 85 of people who are having more than 200
-of investment in any of these assets are people from this community
-that's how risk covers the rest of the society is compared to these guys
-that's fascinating i want to go back to something you said earlier too about
+Or do you feel, when you're involved in a business at a very young age, that you get exposed to this because you could fail, and that's okay - it's part of business, and you just keep going, and iterating, and trying.
+
+Whereas when we become adults, and we try something, we don't want or we're scared to look like an idiot.
+
+Kunal Shah: I've thought a lot about shame as a topic.
+
+I think a lot of people who have been bullied and shamed and mocked early in life develop an unusual superpower to not give a damn about being mocked anymore.
+
+It would not be surprising if one would say to Elon [Musk]: Hey Elon, were you mocked a lot when you were younger, because you were not a normal guy and one would even say that you look like a guy on the spectrum. And Elon would probably say, yeah probably true - but he doesn't feel that anymore.
+
+What I noticed about is the training of kids - if we train kids through shame.
+
+Let me give you an example. Let's say you tell them - and in India it's very common that people will say to kids: if you do not score well in school, all your friends will make fun of you, all the relatives will make fun of you, everybody is going to look down upon you, and they will say shame shame, right?
+
+When kids are trained through shaming, it's an effective tool to make them better.
+
+The only problem is that it remains as a long-term bug in them, that they constantly think about other people's point of view about how they are - and they constantly think their social status cannot be taken or risked.
+
+But, according to me, you cannot develop substantial net worth or wealth experience unless you're constantly willing to risk your reputation.
+
+So i think people who can feel extremely okay to risk up to 30-40% of their reputation wealth are the ones who propel further.
+
+But a lot of people don't do that, because in their head they will say - I can't even risk one percent of my reputation, which makes them not propel in life.
+
+But some people, on the other extreme, are very happy to go all in.
+
+So, again, going back to the Gujarati communities, I know so many families go bankrupt all the time because going all in is not scary for them.
+
+In fact, i'll tell you an interesting stat. India is a very large country, but the total number of people who have invested in any kind of asset - stock, mutual funds, any of that - is around 30 million. Coule be 30, 35 million.
+
+I would go to the extent of saying that 80-85% of people who are having more than $200 of investments in any of these assets are people from this community.
+
+That's how risk averse the rest of the society is, compared to these guys.
+
+#### [11:55](https://www.youtube.com/watch?v=nl1PIagzgUo&t=715s) - Value vs. price
+
+Shane: That's fascinating i want to go back to something you said earlier too about
 Value vs. price
 um how business helped you understand what the value of something is and more importantly what people were actually
 paying for are there any examples that come to mind when you think of that as a child
