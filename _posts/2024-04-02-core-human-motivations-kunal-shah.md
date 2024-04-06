@@ -349,7 +349,7 @@ So one of the biggest shocking things for me, when I'm doing my first trip to th
 
 In India, nobody has ever earned an hourly salary in their entire life.
 
-Now that's a dangerous thing that happens because of that: Nobody understands what's their value per hour.
+Now there's a dangerous thing that happens because of that: Nobody understands what's their value per hour.
 
 You ask any Indian, if you ever come to India, and go to any store, any hotel, any restaurant - ask the guy, what's your salary per hour? They cannot answer that question.
 
