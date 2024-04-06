@@ -391,7 +391,7 @@ But they're also hard to destroy, because if it really works - there are so many
 
 They can't do it, but there is a McDonald's which has managed to scale the version - and which is very easy to attack and say, hey, it's unhealthy - and, guys, we need to move away from this, and break the whole concept or the sugary drinks, which have scaled so much, and we can all agree and say that - hey it may not be healthy for you, and we need to move away from that.
 
-But something that is built inefficiently is harder to destroy - because what do you destroy, and how do you destroy them? There is nothing to attack. There is no area of attack. You cannot really say, that okay, these are the three points on which we can attack.
+But something that is built inefficiently is harder to destroy - because what do you destroy, and how do you destroy them? There is nothing to attack. There is no area of attack. You cannot really say that, okay, these are the three points on which we can attack.
 
 You can't. They're slower to take hold, and then it's harder to get rid of.
 
