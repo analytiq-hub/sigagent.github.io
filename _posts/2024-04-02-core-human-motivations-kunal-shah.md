@@ -409,30 +409,25 @@ For example, trips to inefficient places will be more memorable than efficient p
 
 #### [23:19](https://www.youtube.com/watch?v=nl1PIagzgUo&t=1399s) What people pay for
 
-do you think you you get rewarded for
-creating almost like an asymmetry to creating an emotional connection
-versus a different type of value people pay or people give you time or money
-where their core motivations are mostly met or there is a hope for their motivations
-to be met let's take this example of like just imagine this let's say all of us are on
-some level of social status in life let's let's say you are at level 90 i am at level 60
-somebody is at level 200 and so on and so forth unless believe this is true now products and services
-are also at some levels in life for example i would say louis vuitton is at level 160 uh
-uh hbs education is at level 200 and let's imagine these things and let's say
-fueling your car is at level 30 and so on and so forth by design gross margins
-exist when you allow human beings to jump their social status
-and gross margins disappear when you do not help them increase their social status for example i will keep
-moving to a utility server provider as long as they keep offering me lower price as long as the time required
-and the effort required is the same because the department of your brain
-that deals with that is the cfo of the brain who's only looking for cost cuts but the cmo of your brain is saying that
-oh my god if i crack hbs and i will be able to jump the social status and my
-income will multifold and therefore it is okay to spend years time money to get
-a chance to get into ivy league and therefore ivy league can keep increasing the gross margin with no
-trouble because they promise
-or even if they give you hope let's give example of vegas right now vegas does not assure you you'll become rich but
-the hope lottery uh which is a chance of being level 30 jump into level 200
-i'm okay to go all in once in a while especially poor people get sucked into that a lot more because
-imagine it's like being on a poker table with a smaller stack the best strategy you feel to be on the table is to go all
-in all the time so when we went through pandemic i believe that the whole
+Shane: Do you think you get rewarded for creating almost like an asymmetry to creating an emotional connection? Versus a different type of value?
+
+Kunal: People pay or people give you time or money where their core motivations are mostly met, or there is a hope for their motivations to be met.
+
+Let's take this example. Just imagine this - let's say all of us are on some level of social status in life. Let's say you are at level 90, i am at level 60. Somebody is at level 200, and so on and so forth. unless believe this is true
+
+Now products and services are also at some levels in life. For example I would say louis vuitton is at level 160, Harvard Business School education is at level 200. let's imagine these things and let's say fueling your car is at level 30 and so on.
+
+By design, gross margins exist when you allow human beings to jump their social status, and gross margins disappear when you do not help them increase their social status.
+
+For example, I will keep moving to a utility server provider as long as they keep offering me lower price, as long as the time required and the effort required is the same. The department of your brain that deals with that is the CFO of the brain who's only looking for cost cuts.
+
+But the CMO of your brain is saying that, oh my God, if I crack HBS and I will be able to jump the social status, and my income will multifold, and therefore it is okay to spend years, time, money to get a chance to get into Ivy League.
+
+And, therefore, Ivy League can keep increasing the gross margin with no trouble, because they promise, or even if they give you hope.
+
+Let's give example of Vegas right now. Vegas does not assure you'll become rich, but the hope lottery, which is a chance of being level 30 jump into level 200. I'm okay to go all in once in a while, especially poor people get sucked into that a lot more. It's like being on a poker table with a smaller stack - the best strategy you feel to be on the table is to go all in all the time.
+
+So when we went through pandemic i believe that the whole
 world had this amygdala hijacked moment where they said oh my god i have to
 really survive and i need to take more risky behavior because i think the amygdala probably
 flared up during this time and therefore risky behavior seems to happen
