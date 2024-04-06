@@ -393,7 +393,7 @@ They can't do it, but there is a McDonald's which has managed to scale the versi
 
 But something that is built inefficiently is harder to destroy - because what do you destroy, and how do you destroy them? There is nothing to attack. There is no area of attack. You cannot really say that, okay, these are the three points on which we can attack.
 
-You can't. They're slower to take hold, and then it's harder to get rid of.
+You can't. They're slower to take hold, and then harder to get rid of.
 
 And I think a lot of things that are non-scalable - let's say, movie making.
 
