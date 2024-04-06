@@ -405,7 +405,7 @@ I'm not saying that the others who ship one movie a year do not create value. Th
 
 So I think that's where I would disagree with the idea of value creation happens in both. But the question is that what do you enjoy and what creates a memorable experience, what creates an emotional arousal is rarely through efficient methods.
 
-For example, trips to inefficient places will be more memorable than efficient places, by design.
+For example, trips to inefficient places will be more memorable than to efficient places, by design.
 
 #### [23:19](https://www.youtube.com/watch?v=nl1PIagzgUo&t=1399s) What people pay for
 
