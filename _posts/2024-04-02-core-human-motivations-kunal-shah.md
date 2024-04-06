@@ -395,7 +395,7 @@ But something that is built inefficiently is harder to destroy - because what do
 
 You can't. They're slower to take hold, and then harder to get rid of.
 
-And I think that of a lot of things that are non-scalable - let's say, movie making.
+And, I think that works for a lot of things that are non-scalable - let's say, movie making.
 
 Some directors who are really known to make successful movies back to back really don't care about timelines.
 
