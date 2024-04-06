@@ -379,7 +379,7 @@ I think that's where the nuance comes in that it is impossible to imagine scalin
 
 I do you think standardization is also, sort of the opposite of value creation in some ways, from a consumer point of view.
 
-Shane: I would disagree with that because once you have figured out what is called as pmf you need to scale it by standardizing it to a great extent
+Shane: I would disagree with that because once you have figured out what is called as PMF (product-market fit) you need to scale it by standardizing it to a great extent
 
 Kunal: Right, and it happens all the time. However, standardized things are easier to disrupt than non-standardized things. Just the way a standardized religion is easier to disrupt than a non-standardized religion.
 
