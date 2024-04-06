@@ -169,7 +169,7 @@ Towards the end of the conversation, decision-making and opportunity cost are di
 
 Kunal Shah: You'll rarely meet successful people who are not insightful. I believe that insight is the smallest unit of truth that is actionable. And therefore people who operate in the currency of insights tend to be generally more successful - at least in business.
 
-#### Lessons Kunal learned growing up
+#### [00:27](https://www.youtube.com/watch?v=nl1PIagzgUo&t=27s) Lessons Kunal learned growing up
 
 Shane Parrish: You grew up in a business family, and i'm curious as to what lessons you learned through that?
 
