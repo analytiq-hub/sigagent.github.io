@@ -87,6 +87,7 @@ title: Entrepreneurship
   * Lenny's Podcast: [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](https://www.youtube.com/watch?v=EgBOVDzUUAA) (2024)
   * The Knowledge Project: [Core Human Motivations: Kunal Shah](https://www.youtube.com/watch?v=nl1PIagzgUo) (2022)
   * CRED: [Kunal Shah in conversation with Carl Pei](https://www.youtube.com/watch?v=WsHt6-_Pk40) (2022)
+  * Mint: [CRED's Kunal Shah's Advice To Start Up Founders: Think About What Your Family Will Pay For](https://www.youtube.com/watch?v=Zp_1QNwVT6w) (2024)
 
 #### LLCs
 * Jim Hart:
