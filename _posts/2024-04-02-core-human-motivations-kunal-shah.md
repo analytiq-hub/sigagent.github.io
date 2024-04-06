@@ -333,8 +333,7 @@ It was a negative way of learning in life.
 
 I think a lot of these concepts made me realize  that the Indian society was a lot different.
 
-In my career, I did a lot of other businesses which were sold to the US
-and Western market and Indian market, and I think most Western companies do not
+In my career, I did a lot of other businesses which were sold to the US and Western market and Indian market, and I think most Western companies do not
 understand Asian society.
 
 The mass laws hierarchy of Asian society is completely different to the Western society, but unfortunately, all the marketing textbooks are made in the West, and then they come to the Indian market, and they get shocked on what people
@@ -381,33 +380,36 @@ I think that's where the nuance comes in that it is impossible to imagine scalin
 I do you think standardization is also, sort of the opposite of value creation in some ways, from a consumer point of view.
 
 Shane: I would disagree with that because once you have figured out what is called as pmf you need to scale it by standardizing it to a great extent
-right and it happens all the time however uh standardized things are
-easier to disrupt than non-standardized things right uh just a way a standardized religion is
-easier to disrupt than a non-standardized religion right uh one is heart to scale one is
-hard to destroy uh and and i like that continuum go deeper on that the hard to scale versus
-hard to destroy so if you think about a hard to scale businesses let's say this
-great restaurant you can't make a chain out of it it's just impossible right because the guy
-can't teach all the skills to build five chefs ten chefs right but they're also hard to destroy
-because if it really works there are so many restaurant that works for hundreds of years because they have just perfected that but they
-can't build branches they can't do but but there is a mcdonald's which has managed to scale the version right which is very easy to
-attack and say hey it's unhealthy and guys we need to move away from this and break the whole concept or the sugary
-drinks which have scaled so much and we can all agree and say that hey it may not be healthy for you and we need to move away from that
-but something that is built inefficiently uh uh is harder to destroy uh because what do you destroy
-uh and how do you destroy them there is nothing to attack there is no uh
-areas of attack that you can really say that okay these are the three points on which we can attack
-you can't so we're slower to take hold and then it's harder to get rid of yep
-and and i think uh a lot of things uh
-that are non-scalable let's say movie making some directors who are really known to make successful
-movies back to back really don't care about timelines
-you can't tell i don't know the best directors that oh we need to ship two movies
-uh every two years they will not do that right uh and i'm not saying that
-the others who ship one movie a year do not create value they do but you never they will never create
-something that is memorable and will create an experience that you will never forget
-so i think that's where i would disagree with the idea of value creation happens in both but the question is that what do
-you enjoy and what creates a memorable experience what creates an emotional arousal is rarely through efficient
-uh methods for example trips to inefficient places will be more memorable sorry trips to inefficient
-places will be more memorable than efficient places by design do you think you you get rewarded for
-What people pay for
+
+Kunal: Right, and it happens all the time. However, standardized things are easier to disrupt than non-standardized things. Just the way a standardized religion is easier to disrupt than a non-standardized religion.
+
+One is hard to scale, one is hard to destroy. And I like that continuum go deeper on that the hard to scale versus hard to destroy.
+
+So if you think about a hard to scale businesses, let's say this great restaurant - you can't make a chain out of it. It's just impossible, right? Because the guy running it can't teach all the skills to build five chefs, ten chefs.
+
+But they're also hard to destroy, because if it really works - there are so many restaurants that work for hundreds of years, because they have just perfected that. But they can't build branches.
+
+They can't do it, but there is a McDonald's which has managed to scale the version - and which is very easy to attack and say, hey, it's unhealthy - and, guys, we need to move away from this, and break the whole concept or the sugary drinks, which have scaled so much, and we can all agree and say that - hey it may not be healthy for you, and we need to move away from that.
+
+But something that is built inefficiently is harder to destroy - because what do you destroy, and how do you destroy them? There is nothing to attack. There is no area of attack. You cannot really say, that okay, these are the three points on which we can attack.
+
+You can't. They're slower to take hold, and then it's harder to get rid of.
+
+And I think a lot of things that are non-scalable - let's say, movie making.
+
+Some directors who are really known to make successful movies back to back really don't care about timelines.
+
+You can't tell the best directors that - oh, we need to ship two movies every two years. They will not do that.
+
+I'm not saying that the others who ship one movie a year do not create value. They do. But you never they will never create something that is memorable, or create an experience that you will never forget.
+
+So i think that's where I would disagree with the idea of value creation happens in both. But the question is that what do you enjoy and what creates a memorable experience, what creates an emotional arousal is rarely through efficient methods.
+
+For example, trips to inefficient places will be more memorable than efficient places, by design.
+
+#### What people pay for
+
+do you think you you get rewarded for
 creating almost like an asymmetry to creating an emotional connection
 versus a different type of value people pay or people give you time or money
 where their core motivations are mostly met or there is a hope for their motivations
