@@ -167,92 +167,82 @@ Towards the end of the conversation, decision-making and opportunity cost are di
 
 #### Raw Transcript
 
-you'll rarely meet successful people who are not insightful uh i believe that inside is the smallest
-unit of truth that is actionable uh and and therefore people who operate in
-the currency of insights tend to be generally more successful at least in business
-[Music]
-Lessons Kunal learned growing up
-you grew up in a business family and i'm curious as to what lessons you learned
-through that so um
-in india we have a deep rooted caste system where we had forecasts
-and one of the cost of the forecast is the business cost and for multiple generations
-everybody in that has only done business right it's called
-the weisha or the baniya cast and for this group of people jobs is an
-unusual thing they are uh like for lack of better
-examples like the jewish family uh it's quite common for them to be doing business and they started dabbling into
-jobs in a more recent history uh that's a similar thing that we had in india so
-the the few lessons that were learned is that uh
-actually i i have a longer list if i zoom out into what makes people do
-business successfully but i think first lesson was uh they have much lower shame
-than the other communities they have very little
-uh self uh doubt when it comes to being shameless
-and i think naturally they are more they are very hard to offend
-they are okay that even if you mock them as long as you are giving them business they're okay with
-that not many people would be okay with that treatment right and and makes many
-business communities not respectable because they're okay to be mocked or
-have lower dignity or lower status as long as they get the the financial
-upside of it so i think that's where the status and wealth driven societies mindset comes in that they are
-absolutely okay to reduce their status as long as they win the commercial side of the deal that's one big lesson
-the second piece is just natural understanding of
-where is the value in everything why would somebody pay for it is almost intuitively taught from
-childhood you just know what are people really paying for
-right and a natural understanding of which products would have higher gross margins
-or lower gross margins right it's a very interesting thing that when you grow up
-in a business family they just naturally arrive at summarizing what's the value in
-everything and it's sometimes very uncomfortable because i remember going to an mba school early days to speak and
-they invited me and i i was only interested in knowing the uneconomics of the mba school and understanding how beautiful that
-business is and they find that disturbing but for a business community
-they love to break things down to unit economics almost as if it's like a first
-like the small talk is unit economics which is which is quite interesting the third lesson is uh
-natural need for spotting trends
-so one of the things that is there i am part of the gujarati community which is the business community of india
-and they have this greeting when the two business people meet normally people say hey
-hello how are you what's up they have one more thing which is called shu nawajuni
-which means hey what's trending
-what's new what are the new trends
-and they share that on a more regular basis which makes them spot new trends
-and be in businesses that other people would take a long time to enter into because they love the new new trends
-because they believe that the value is going to be where they are less likely to have competition
-and they are constantly finding themselves to be at different places gujaratis are
-also the people who have you will find them in every single country having set up a business because they
-will keep finding ways to not compete so you will find them in a remotest african
-country there will be a gujarati family running a business multiple generations you will see them across the planet
-because they will look for ways to not compete and have a zero sum mindset
-and the last thing is uh the community benefits uh one of the things i have noticed in
-gujarati community is that just like jewish communities that they offer significantly lower interest rate
-to people in their community because banks are less likely to underwrite and obviously this is pre-venture capital
-to give them loans to say it's okay try to make something out of it and try to return the capital when you can but a
-very low interest rate just nominal because they love to see more people be successful
-and the last lesson was uh constantly having the need to make their community
-successful by giving them a soft landing if their business fails
-oh it's okay come start doing a job stabilize and start again
-right and and i think uh when i started doing job i mean my early
-career was uh my dad had a startup that failed so i had to start
-working since i was 14 or 15. my first job was a data entry operator
-which made like i don't know uh more like 30 dollars a month kind of a
-salary when i started and i think uh
-there's always this thing that okay you can start do the job right now stabilize the family and then you can start some business like there is no shame that oh
-you are just helping the family settle down from a financial setback that the family went through
-and i have seen within the communities people going all in getting wiped out becoming big
-in one lifetime again and again and there is less shame attached to failure
-because oh it's business and and it's fascinating like i have seen so
-many stories like i'll tell you about one particular individual his name is princeton reuten
-he's the founder of bombay stock exchange and very few people in india know about this guy the reason people don't know about this
-guy because he once upon a time was the richest guy in india he still probably holds the guinness book of world record
-for doing the largest ever trade single trade adjusted to inflation uh it's in
-his wikipedia but he lost all his wealth in trying to do a real estate project that bombed
-so there is this guy who comes from nowhere starts his business below a tree becomes
-the wealthiest person and gets wiped out and literally
-like 100 percent of indians and indian businessmen have no clue about this guy
-i just researched because there's a huge tower in bombay which is made like big
-ben and i was like who the hell made this because it doesn't have a british name it is rajabai tower so i researched
-and found out that rajabai was preempted mom and he made this clock for her because
-she could not see for her to hear time like look at the flex of the guy that he
-builds a massive clock in british india with a huge amount of spence by hiring
-british architects just to flex to the community that i have built a
-clock because my mom can't see time that's crazy i want to go back to the
-shame thing for a second here uh the fear of failure prevents us from trying
-On the fear of failure and shame
+Kunal Shah: You'll rarely meet successful people who are not insightful. I believe that insight is the smallest unit of truth that is actionable. And therefore people who operate in the currency of insights tend to be generally more successful - at least in business.
+
+#### Lessons Kunal learned growing up
+
+Shane Parrish: You grew up in a business family, and i'm curious as to what lessons you learned through that?
+
+Kunal Shah: In india we have a deep rooted caste system, where we had four casts. And one of the castes of the four casts is the business cast. For multiple generations, everybody in that caste has only done business.
+
+It's called the Weisha or the Baniya caste, and for this group of people, jobs are an unusual thing.
+
+They are - for lack of better examples - like the Jewish family. It's quite common for them to be doing business. They started dabbling into jobs in a more recent history - that's a similar thing that we had in India.
+
+So the few lessons that were learned are that - actually - I have a longer list if i zoom out into what makes people do business successfully, but i think, first lesson was that they have much lower shame than the other communities. They have very little self uh doubt when it comes to being shameless. And i think naturally they are more they are very hard to offend.
+
+They are okay that even if you mock them, as long as you are giving them business, they're okay with that.
+
+Not many people would be okay with that treatment, right? That makes many business communities not respectable, because they're okay to be mocked, or have lower dignity, or lower status as long as they get the the financial upside of it.
+
+I think that's where the status and wealth driven societies mindset comes - in that they are absolutely okay to reduce their status, as long as they win the commercial side of the deal. That's one big lesson.
+
+The second piece is just natural understanding of where is the value in everything.
+
+Why would somebody pay for somthing is almost intuitively taught from childhood You just know what are people really paying for, right?
+
+And also, they have a natural understanding of which products would have higher gross margins, or lower gross margins.
+
+It's a very interesting thing that, when you grow up in a business family, they just naturally arrive at summarizing what's the value in everything, and it's sometimes very uncomfortable to do it.
+
+I remember going to an MBA school in the early days to speak. They invited me, and I was only interested in knowing the economics of the MBA school, and understanding how beautiful that business is. They find that disturbing! But, for a business community, they love to break things down to unit economics. It's a first thing they talk about. The small talk in the business community is unit economics, which is quite interesting.
+
+The third lesson is a natural need for spotting trends.
+
+I am part of the Gujarati community, which is the business community of India. They have a greeting, when the two business people meet: Normally, people say hey, hello, how are you - what's up?
+
+The business community people have one more thing, which is called "shu nawajuni", which means - hey what's trending? What's new, what are the new trends? And they share that on a more regular basis, which makes them spot new trends, and be in businesses that other people would take a long time to enter into.
+
+They love the new trends, because they believe that the value is going to be where they are less likely to have competition, and are constantly finding themselves to be at different places.
+
+You will find Gujaratis in every single country having set up a business, because they will keep finding ways to not compete.
+
+You will find them in a remotest African country. There will be a Gujarati family running a business multiple generations - you will see them across the planet!- because they will look for ways to not compete, and have a zero sum mindset.
+
+One other thing is community benefits. One of the things i have noticed in the gujarati community is that, just like Jewish communities, that they offer a significantly lower interest rate to people in their community, because banks are less likely to underwrite business - and obviously this is pre-venture capital.
+
+The community gives them loans, which is a way to say - it's okay, try to make something out of it, and try to return the capital when you can, but at a very low interest rate - just nominal. They love to see more people be successful.
+
+And the last lesson was, constantly, having the need to make their community successful by giving them a soft landing if their business fails.
+
+They would say - oh, it's okay, come start doing a job, stabilize, and start again.
+
+I think of the time when I started doing a job, in my early career. My dad had a startup that failed, so I had to start working since I was 14 or 15. My first job was a data entry operator, which made a 30 dollars a month kind of a
+salary when i started.
+
+There's always this thing that, okay, you can start do the job right now. Stabilize the family, and then you can start some business, like, there is no shame that.
+
+You are just helping the family settle down from a financial setback that the family went through.
+
+I have seen within the communities people going all in, getting wiped out, becoming big in one lifetime again and again - and there is less shame attached to failure,  because it's business.
+
+It's fascinating. I have seen so many stories.
+
+I'll tell you about one particular individual, his name is Premchand Roychan - he's the founder of Bombay Stock Exchange. And very few people in India know about this guy. What is the reason for that? He, once upon a time, was the richest guy in India - he still probably holds the Guinness Book of world record for doing the largest ever trade single trade adjusted to inflation, it's in his wikipedia - but he lost all his wealth in trying to do a real estate project that bombed.
+
+So there is this guy who comes from nowhere, starts his business below a tree, becomes the wealthiest person, and gets wiped out, and literally 100 percent of Indians and Indian businessmen have no clue about this guy.
+
+I just researched this because there's a huge tower in Bombay which is made a Big Ben clock, and i was curious who the hell made this - because it doesn't have a British name. This is the Rajabai Tower. So I researched, and found out that Rajabai was Premchand's mom, and he made this clock for her because she could not see. It was for her to hear time.
+
+Look at the flex of the guy! He builds a massive clock in British India, with a huge amount of spend, by hiring British architects, just to flex to the community - that I have built a clock because my mom can't see time!
+
+That's crazy!
+
+#### On the fear of failure and shame
+
+I want to go back to the shame thing for a second here. The fear of failure prevents us from trying.
+
+
 and i think that's something do you do you feel like we develop this as an adult or do you feel like when you're
 involved in a business at a very young age you get exposed to this because you're
 going to fail if you're doing anything you're going to fail and that's okay and that's part of business and you just keep going and you keep iterating and
