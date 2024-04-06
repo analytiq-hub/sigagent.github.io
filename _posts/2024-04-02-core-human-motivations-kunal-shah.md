@@ -165,7 +165,9 @@ Towards the end of the conversation, decision-making and opportunity cost are di
 * "You can't hack reputation"
 * "All the people who are seemingly very good at decisions, they tend to have multiple personalities in thinking about situations "
 
-#### Raw Transcript
+# Interview Transcript
+
+#### [0:00](https://www.youtube.com/watch?v=nl1PIagzgUo&t=0s) Intro
 
 Kunal Shah: You'll rarely meet successful people who are not insightful. I believe that insight is the smallest unit of truth that is actionable. And therefore people who operate in the currency of insights tend to be generally more successful - at least in business.
 
@@ -173,7 +175,7 @@ Kunal Shah: You'll rarely meet successful people who are not insightful. I belie
 
 Shane Parrish: You grew up in a business family, and i'm curious as to what lessons you learned through that?
 
-Kunal Shah: In india we have a deep rooted caste system, where we had four casts. And one of the castes of the four casts is the business cast. For multiple generations, everybody in that caste has only done business.
+Kunal: In india we have a deep rooted caste system, where we had four casts. And one of the castes of the four casts is the business cast. For multiple generations, everybody in that caste has only done business.
 
 It's called the Vaishyas or the Baniya caste, and for this group of people, jobs are an unusual thing.
 
@@ -280,94 +282,105 @@ That's how risk averse the rest of the society is, compared to these guys.
 
 #### [11:55](https://www.youtube.com/watch?v=nl1PIagzgUo&t=715s) - Value vs. price
 
-Shane: That's fascinating i want to go back to something you said earlier too about
-Value vs. price
-um how business helped you understand what the value of something is and more importantly what people were actually
-paying for are there any examples that come to mind when you think of that as a child
-so because i had to start working full-time uh i had
-only an option to do a morning college which would offer me a graduation for
-maybe attending seven to nine a.m because i had to do a full-time job the and and i was a science student who
-switched to philosophy uh as my major because that was the only class that allowed me seven to nine am
-right so i would go for my philosophy classes and i would uh
-do a full-time job but that was not enough money to take care of the family so i should do a lot of side hustles
-right so i'll talk about three four businesses that i did as a kid and this is all
-before i had legal age to do anything at all one was uh
-i i built uh mixed tapes which are downloaded music from the internet and
-made mixed tapes for people on a siri and burnt it and gave it to them and i used somebody else's computer somebody
-else's internet because i had no access to any of these things and i would give them take rate but i realized that
-people love the idea of being making something personalized versus
-buying something from the store which is mixtape of somebody else and and the idea of gifting they were okay to pay
-three to four x more than the normal mixtape that they would get from the market because this is made by me
-right and and i was very happy with this guy so what i did is i started going to all the music stores and i said i will
-make the mixtapes for your clients uh this is my price to you you can charge whatever you want
-and they would make 5x more profit selling my mixtapes than the the music labels thing i understand
-that business was not really legal but as a 15 year old i did not know better i had to survive
-so i did what i had to do then i built another business which was uh henna have you seen that people put
-henna on their hands i built that business where i realized that people put henat to really differentiate themselves in
-indian weddings to really look better than i have the better design on my hands like it's almost like a temporary
-tattoo that people put and i realized that the biggest need people had was
-design was not enough the color of henna had to change so i figured out a way to build black henna which i learned from
-some arabic culture was possible and sold that in the retail stores under
-a brand that i made when i was 16 17 and that sold at 10x more price
-than the regular henna because it allowed people to differentiate themselves have a superior status so
-that's another thing i learned that people love to personalize and put a signature and give more value people
-love to have higher status than others and pay more value and they didn't even care about the price because
-what i did is i said this is short supply so what i did i said that i can only supply you two
-a day it's a complex process to make it it wasn't complex process i just artificially uh
-create scarcity in the market and i had to learn all of this because i could really not make enough uh uh because i
-was having a full-time job and doing other things right the other thing i learned was i i started doing some private tuitions for
-kids to teach multiple subjects whatever people would send and i realized that people loved
-teaching their kids exotic subjects so i would like teach them excel and and i would not know these subjects i would
-ask them what do you really want to learn i would learn that previous night and teach them because people loved the
-idea of having special skills given to their kids which were not available easily in the market so they were
-looking for tuition teacher who would say oh can you teach this particular skill can you teach that particular skin
-and i would learn that and i realized that i learned the best when i had to teach
-so i started doing that a lot and it was the fastest way to make money it was a negative
-way of learning in life right so i think a lot of these concepts made me realize
-that the indian society was a lot different and in my career i did a lot of other businesses which were sold to the u.s
-and western market and indian market and i think most western companies do not
-understand asian society the the mass laws hierarchy
-of asian society is completely different to the western society but unfortunately
-all the marketing textbooks are made in the west and then they come to the indian market and they get shocked on what people
-really pay for in these markets and i think therefore a lot of western
-companies struggle to make monetize from these markets they can get a lot of daus and mau's from this market but rarely
-arpu from this market because they don't understand what people pay for over here so i think that was the big lesson i
-learned so one of the biggest shocking thing for me when i'm doing my first trip to the us was i figured that almost
-everybody's first job paid them an hourly salary
-in india nobody has ever earned an hourly salary in their entire
-life now there's a dangerous thing that happens because of that
-nobody understands what's their value per hour
-you ask any indian if you ever come to india and go to any store any hotel any restaurant ask the guy
-what's your salary per hour cannot answer that question
-because of that they take poor decisions with their time and they don't understand the value of
-time so products that sell convenience and save you your time
-rarely monetize which monetize a lot in the western society because everybody understands the value
-of our because their first job was i don't know 10 an hour and then now they are doing
-well in life but they can still do a math on approximate basis now my salary seems
-to be 500 an hour and they just get it and therefore they take very interesting decisions they
-will not try to optimize for a 50 discount on their flight tickets uh
-when they are making 500 because they'll say that's not worth my time no indian will ever
-say it's not worth my time and that's true for many asian societies
-because value of time as a concept was never taught efficiency is not a dna you see in asia
-but a flip side i have noticed is that everything that feels soulful in life
-is inefficient all the vacations that we find very soulful are inefficient places the
-food that we really really like and find soulful are inefficient to cook right so i always find these interesting
-things that maybe soulfulness is a function of chaos and inefficiency which western society has
-figured out how to scale and and let's compare this to our religion now uh
-hinduism uh isn't i would say not as scalable as let's say many other religions because
-it's not standardized there is no one book
-no 10 rules no one god so what do you really scale it's an open source religion which people make and
-built on some principles and tenets which are constantly evolving and people are allowed to tweak it on their own
-terms so it's like evolving very very differently and therefore hinduism is mostly spread
-through birth but not through scaling to other societies
-because it was not designed but it is something that you feel more spiritual about and other things
-and i think that's where the nuance comes in that it is impossible to imagine
-scaling in life without standardizing and standardizing
-is the enemy of soulfulness do you think standardization is also
-Standardization of businesses
-sort of um the opposite of value creation in some ways from a consumer
-point of view uh i would disagree with that because once you have figured out what
-is called as pmf you need to scale it by standardizing it to a great extent
+Shane: I want to go back to something you said earlier - how business helped you understand what the value of something is - and more importantly, what people were actually paying fo.
+
+Are there any examples that come to mind when you think of that, as a child?
+
+Kunal: Because I had to start working full-time, I had only an option to do a morning college, which would offer me a graduation for, maybe, attending 7-9 AM, because I had to do a full-time job. And I was a Science student who switched to Philosophy as my major, because that was the only class that allowed me 7-9AM.
+
+So I would go for my Philosophy classes, and I would do a full-time job. But that was not enough money to take care of the family. So, I had to do a lot of side hustles.
+
+I'll talk about three, four businesses that I did as a kid. This is all before I had legal age to do anything at all.
+
+One was - I built mixtapes. I downloaded music from the Internet, and made mixtapes for people on a CD, and burnt it, and gave it to them.
+
+I used somebody else's computer, and somebody else's internet, because I had no access to any of these things.
+
+And I would give them take rate, or fee for service, but I realized that people love the idea of being making something personalized versus buying something from the store, which is mixtape of somebody else
+
+The idea of gifting they were okay to pay 3-4x more than the normal mix tape that they would get from the market, because this is made by me, right?
+
+So what I did is, I started going to all the music stores, and I said I will make the mixtapes for your clients: This is my price to you, you can charge whatever you want. And they would make 5x more profit selling my mixtapes than the music labels.
+
+I understand that the business was not really legal, but as a 15 year old I did not know better. I had to survive. So I did what I had to do.
+
+Then, I built another business which was henna. Have you seen that people put henna on their hands?
+
+I built that business where I realized that people put henat to really differentiate themselves in Indian weddings, to really look better. "I have the better design on my hands", they would think.
+
+Henna is almost like a temporary tattoo that people put on their hands.
+
+And I realized that the biggest need people had was that design was not enough. The color of henna had to change. So i figured out a way to build black henna which I learned from some Arabic culture was possible, and sold that in the retail stores under a brand that i made when I was 16-17. And that sold at 10x more price than the regular henna, because it allowed people to differentiate themselves, and have a superior status.
+
+That's another thing I learned: People love to personalize, put a signature and give more value. People love to have higher status than others, and pay more value, and they didn't even care about the price because, what I did is - I said this is short supply. I said that I can only supply you two a day, it's a complex process to make it.
+
+It wasn't complex process. I just artificially created scarcity in the market, and I had to learn all of this because I could really not make enough - because I
+was having a full-time job, and doing other things.
+
+The other thing I learned was - I started doing some private tuitions for kids, to teach multiple subjects - whatever people would send.
+
+And I realized that people loved teaching their kids exotic subjects. So I would, like, teach them Excel. And I would not know these subjects.
+
+I would ask them, what do you really want to learn? I would learn that the previous night, and teach them, because people loved the idea of having special skills given to their kids which were not available easily in the market.
+
+So they were looking for a tuition teacher and would say - Can you teach this particular skill? Can you teach that particular skill? So I would learn that.
+
+And I realized that I learned the best when I had to teach.
+
+So I started doing that a lot, and it was the fastest way to make money.
+
+It was a negative way of learning in life.
+
+I think a lot of these concepts made me realize  that the Indian society was a lot different.
+
+In my career, I did a lot of other businesses which were sold to the US
+and Western market and Indian market, and I think most Western companies do not
+understand Asian society.
+
+The mass laws hierarchy of Asian society is completely different to the Western society, but unfortunately, all the marketing textbooks are made in the West, and then they come to the Indian market, and they get shocked on what people
+really pay for in these markets.
+
+And I think, therefore, a lot of Western companies struggle to monetize from these markets.
+
+They can get a lot of DAUs and MAUs from this market, but rarely ARPU, because they don't understand what people pay for over here.
+
+I think that was the big lesson I learned.
+
+So one of the biggest shocking things for me, when I'm doing my first trip to the US was - I figured that almost everybody's first job paid them an hourly salary.
+
+In India, nobody has ever earned an hourly salary in their entire life.
+
+Now that's a dangerous thing that happens because of that: Nobody understands what's their value per hour.
+
+You ask any Indian, if you ever come to India, and go to any store, any hotel, any restaurant - ask the guy, what's your salary per hour? They cannot answer that question.
+
+Because of that, they take poor decisions with their time, and they don't understand the value of time.
+
+So products that sell convenience, and save you your time, rarely monetize - which monetize a lot in the Western society, because everybody understands the value of an hour - because their first job was, I don't know, $10 an hour - and then, now, they are doing well in life, but they can still do a math on approximate basis: now my salary seems to be $500 an hour, and they just get it and therefore they take very interesting decisions.
+
+In Western societies, they will not try to optimize for a $50 discount on their flight tickets, when they are making $500 an hour, because they'll say that's not worth my time.
+
+No Indian will ever say it's not worth my time, and that's true for many Asian societies - because value of time as a concept was never taught efficiency. It is not a DNA you see in Asia.
+
+But a flip side I have noticed is that everything that feels soulful in life is inefficient - all the vacations that we find very soulful are inefficient places. The food that we really really like and find soulful is inefficient to cook, right?
+
+I always find these interesting things, that maybe soulfulness is a function of chaos and inefficiency, which Western society has figured out how to scale.
+
+Let's compare this to our religion now. Hinduism isn't, I would say, as scalable as, let's say, many other religions, because it's not standardized.
+
+There is no one book. no 10 rules, no one god.
+
+So what do you really scale, with Hinduism, is an open source religion which people make and built on some principles and tenets which are constantly evolving, and people are allowed to tweak it on their own terms.
+
+It's like evolving very differently, and therefore Hinduism is mostly spread through birth, but not through scaling to other societies, because it was not designed for efficient scaling - but it is something that you feel more spiritual.
+
+#### [20:15](https://www.youtube.com/watch?v=nl1PIagzgUo&t=1215s) Standardization of businesses
+
+I think that's where the nuance comes in that it is impossible to imagine scaling in life without standardizing. And standardizing is the enemy of soulfulness.
+
+I do you think standardization is also, sort of the opposite of value creation in some ways, from a consumer point of view.
+
+Shane: I would disagree with that because once you have figured out what is called as pmf you need to scale it by standardizing it to a great extent
 right and it happens all the time however uh standardized things are
 easier to disrupt than non-standardized things right uh just a way a standardized religion is
 easier to disrupt than a non-standardized religion right uh one is heart to scale one is
