@@ -88,6 +88,7 @@ title: Entrepreneurship
   * The Knowledge Project: [Core Human Motivations: Kunal Shah](https://www.youtube.com/watch?v=nl1PIagzgUo) (2022)
   * CRED: [Kunal Shah in conversation with Carl Pei](https://www.youtube.com/watch?v=WsHt6-_Pk40) (2022)
   * Mint: [CRED's Kunal Shah's Advice To Start Up Founders: Think About What Your Family Will Pay For](https://www.youtube.com/watch?v=Zp_1QNwVT6w) (2024)
+  * CRED curious: [Nithin Kamath in conversation with Kunal Shah](https://www.youtube.com/watch?v=1ExWh4zm1zg) (2020)
 
 #### LLCs
 * Jim Hart:
