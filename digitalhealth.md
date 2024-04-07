@@ -56,7 +56,10 @@ title: Digital Health
 #### Industry analysis
 * BCG: [Generative AI Will Transform Health Care Sooner Than You Think](https://www.bcg.com/publications/2023/how-generative-ai-is-transforming-health-care-sooner-than-expected), by Matthew Huddle, Josh Kellar, Krishna Srikumar, Krishna Deepak, and Daniel Martines (2023)
 * Healthpayer Intelligence: [Top Payer Concerns, Opportunities Around Generative AI Integration](https://healthpayerintelligence.com/features/top-payer-concerns-opportunities-around-generative-ai-integration) (2023)
+
+#### Conferences
 * healthcareittoday.com: [Healthcare IT and EHR Conferences and Events](https://www.healthcareittoday.com/healthcare-it-and-ehr-conferences-and-events/)
+* https://qubika.com/: [List of Digital Health, Healthcare IT, & MedTech conferences in 2024](https://qubika.com/blog/list-of-digital-health-health-it-medtech-conferences/)
 
 #### Tools
 * [bloatectomy](https://github.com/MIT-LCP/bloatectomy)
