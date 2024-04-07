@@ -413,139 +413,133 @@ Shane: Do you think you get rewarded for creating almost like an asymmetry to cr
 
 Kunal: People pay or people give you time or money where their core motivations are mostly met, or there is a hope for their motivations to be met.
 
-Let's take this example. Just imagine this - let's say all of us are on some level of social status in life. Let's say you are at level 90, i am at level 60. Somebody is at level 200, and so on and so forth. unless believe this is true
+Let's take this example. Just imagine this - let's say all of us are on some level of social status in life. Let's say you are at level 90, I am at level 60. Somebody is at level 200, and so on and so forth. Let's believe this is true
 
-Now products and services are also at some levels in life. For example I would say louis vuitton is at level 160, Harvard Business School education is at level 200. let's imagine these things and let's say fueling your car is at level 30 and so on.
+Now products and services are also at some levels in life. For example I would say Louis Vuitton is at level 160, Harvard Business School education is at level 200. Let's imagine these things and let's say fueling your car is at level 30, and so on.
 
-By design, gross margins exist when you allow human beings to jump their social status, and gross margins disappear when you do not help them increase their social status.
+By design, gross margins exist when you allow human beings to jump their social status. And gross margins disappear when you do not help them increase their social status.
 
-For example, I will keep moving to a utility server provider as long as they keep offering me lower price, as long as the time required and the effort required is the same. The department of your brain that deals with that is the CFO of the brain who's only looking for cost cuts.
+For example, I will keep moving to a utility server provider as long as they keep offering me lower price, as long as the time required and the effort required is the same. The department of your brain that deals with that is the CFO of the brain, who's only looking for cost cuts.
 
-But the CMO of your brain is saying that, oh my God, if I crack HBS and I will be able to jump the social status, and my income will multifold, and therefore it is okay to spend years, time, money to get a chance to get into Ivy League.
+But the CMO of your brain is saying that - Oh my God, if I crack HBS and I will be able to jump the social status, and my income will multifold, and therefore it is okay to spend years, time, money to get a chance to get into Ivy League.
 
-And, therefore, Ivy League can keep increasing the gross margin with no trouble, because they promise, or even if they give you hope.
+And, therefore, Ivy League can keep increasing the gross margin with no trouble, because they promise... - or even if they give you hope. Let's give example of Vegas right now.
 
-Let's give example of Vegas right now. Vegas does not assure you'll become rich, but the hope lottery, which is a chance of being level 30 jump into level 200. I'm okay to go all in once in a while, especially poor people get sucked into that a lot more. It's like being on a poker table with a smaller stack - the best strategy you feel to be on the table is to go all in all the time.
+Vegas does not assure you you'll become rich, but gives you the hope lottery - which is a chance of being level 30 jump into level 200. You think - I'm okay to go all in once in a while. Especially poor people get sucked into that a lot more. It's like being on a poker table with a smaller stack - the best strategy you feel to be on the table is to go all in all the time.
 
-So when we went through pandemic I believe that the whole world had this amygdala-hijacked moment, where they said, oh my god, I have to, really survive, and I need to take more risky behavior. Because I think the amygdala, probably, flared up during this time, and therefore risky behavior seems to happen right after crisis, because people just go all in.
+So when we went through the pandemic, I believe that the whole world had this amygdala-hijacked moment, where they said - Oh my God, I have to, really survive, and I need to take more risky behavior. Because I think the amygdala, probably, flared up during this time, and therefore risky behavior seems to happen right after crisis, because people just go all in.
 
-And I think all of these things, like I was shocked when I got to know that 90-95% of all coins that were traded on all crypto exchanges were not in the top five, not even the top ten, because who wants the normal returns? I just want a chance to just play that, and therefore I think the the world is getting more risky, and then obviously there's a huge correction that will happen, which will kind of flow in the next stage, because the Spanish Flu we went through, Spanish Flu and then the roaring 20s, and the Great Depression.
+I was shocked when I got to know that 90-95% of all coins that were traded on all crypto exchanges were not in the top five, not even the top ten - because who wants the normal returns? I just want a chance to just play that. And, therefore, I think the the world is getting more risky.
 
-We're going to go through those cycles faster now, because we have fast forwarding everything in fact is almost like a fast forward button to  future and accelerates eventualities - because we go through that but coming back to what i was saying is that value therefore is utility and vanity and chance of increasing social status which is
-constantly sucking all the gross margins and world is seeing a very interesting pattern all the businesses that are
-providing utility are losing gross margins to the point of
-becoming zero because many companies that offer vanity or social status or a chance of
-dealing with the cmo are making those businesses almost free because you get a chance to make
-across sell a high gross margin services right if you look at amazon a bulk of
-the revenue used to be marketplace but if you see all the avatars of amazon in different countries the marketplace
-revenue was made to be zero alibaba chose to not charge the merchants to sell but they made money on advertising
-and fintech which are skin in the game businesses but does not charge you rent per se
-because it was easier to disrupt ebay and amazon in china by saying oh it doesn't you know commissions if you have
-to sell on our store right and i think this is where i see a lot of the utility providing businesses
-getting constantly disrupted by somebody at least in their technology businesses because you don't need a license to provide
-liquidity you can just offer it it's not like an electricity company that can keep charging you forever because nobody can compete with electricity companies
-for the networks but internet businesses can simply offer utility for free and google has mastered
-this many companies have mastered this i believe uh the future of sas companies is going to be that where the next sas company
-will just say oh just use our tool for free but by the way we'll charge you and cross sell you some lending some loan
-some technology some some value-added services uh which could disrupt a lot of utility
-creating businesses uh by design so i think uh [Music] cost to provide utility is
-dropping and therefore the revenue expectation from that is dropping and we're going through a very interesting
-cycle uh of how business models will evolve and they all will have to be more
-skin in the game in nature uh versus rent seeking that they used to be because nobody could easily compete
-because the world is getting more and more like apis
-and and businesses when they become apis it's much easier to plug them into larger ecosystems
-uh one of the interesting things i always wonder about is that uh it's very easy to find super apps in
-asia but rarely you find super apps in uh western societies
-but it's also true for superstars and and super companies and conglomerates so every low trust society which is usually
-non-western society a lot of them are low trust there is always concentration of trust
-every lotus society will have concentration of trust and when that
-high trust entity launches 25 things people just use it for example in india tata group is
-this concentration of trust and they can launch a car to a refrigerator to salt to furniture
-and people like oh tata group we'll just buy it uh i would say 80 85 percent of bollywood's
-revenue comes from like 10 15 people again concentration of trust and and therefore by the way we even watched
-that kid's movie so nepotism is very rampant in india because you're like oh this this guy's son i trust him to do a
-good job but i'm not risking my money on this new actor and therefore super apps also emerge a
-lot more over here i'm like oh credit is offering this or they're launching this new service boom start
-using it and and but you might be doing completely different business in the past but people just say oh i know these
-guys the familiarity creates huge amount of trust over here and therefore
-you see concentration of market caps in fewer and fewer companies and
-therefore i believe pareto might be extremely skewed in asia versus west
-and nobody has obviously studied that i would love to fund a research which shows this but i do believe that market
-cap of top companies would be different than uh what you would observe at least in each category like tech may
-be an exception but any other every other category you'll see huge concentration uh revenue from the bollywood industry revenue from
-anything else it just becomes more and more and more concentrated and i think that is
-the reason i think increasing trust in the society and i've been obviously uh obsessed with what creates trust for
-example the most simplest answer i've found is as trust is natural in societies that have
-very low diversity of ethnicity and that is a scary thought because all
-sorts of bad behavior have happened in human history because we tried to
-attack the minority and and always try to uh make the society one uh i but it's
-unfortunately seems to be true that trust is biological
-and and we seem to trust people with common belief systems and and and
-ethnicity plays a huge role so you'll notice an interesting pattern that i think there's a study by some stanford
-professor which showed that uh almost an opposite connection or correlation to
-number of ethnicities and high trust of a society
-and and and it's not surprising that any most societies are not multi-ethnic as they're becoming more multi-ethnic the
-trust is declining and you see emergence of authoritarian leaders to be much much more frequent
-because all low trust societies always want somebody who with strong backbone to create peace
-and that's also the concentration of trust point which which seeps in from that which which is
-constantly repeating itself in many many themes so
-we trust people who are like ourselves and so the the more diverse society is
+And then obviously there's a huge correction that will happen, which will kind of flow in the next stage, because like the Spanish Flu we went through, Spanish Flu was followed then by the roaring 20s, and by the Great Depression.
+
+We're going to go through those cycles faster now, because we have fast forwarding for everything.
+
+In fact, crisis it's almost like a fast forward button to future, and accelerates eventualities - because we go through that but coming back to what I was, saying is that value therefore is utility and vanity and chance of increasing social status which is constantly sucking all the gross margins and world is seeing a very interesting pattern all the businesses that are providing utility are losing gross margins to the point of becoming zero because many companies that offer vanity or social status or a chance of dealing with the CMO are making those businesses almost free because you get a chance to make across sell a high gross margin services.
+
+If you look at Amazon, a bulk of the revenue used to be in the Marketplace, but if you see all the avatars of amazon in different countries, the Marketplace revenue was made to be zero. Alibaba chose to not charge the merchants to sell but they made money on advertising and fintech, which are skin in the game businesses - but does not charge you rent per se, because it was easier to disrupt ebay and amazon in China by saying, oh it doesn't charge commissions if you have to sell on our store.
+
+I think this is where i see a lot of the utility providing businesses getting constantly disrupted by somebody, at least, in their technology businesses, because you don't need a license to provide liquidity. You can just offer it.
+
+It's not like an electricity company that can keep charging you forever because nobody can compete with electricity companies for the networks - but internet businesses can simply offer utility for free, and Google has mastered this. Many companies have mastered this, I believe the future of SAS companies is going to be where the next SAS company will just say - oh, just use our tool for free, but by the way, we'll charge you and cross sell you some lending, some loan, some technology, some value-added services which could disrupt a lot of utility creating businesses, by design.
+
+So I think the cost to provide utility is dropping, and therefore the revenue expectation from that is dropping. And we're going through a very interesting cycle of how business models will evolve, and they all will have to bring more skin in the game, in nature versus rent seeking,  that they used to, because nobody could easily compete - because the world is getting more and more like APIs. And businesses, when they become APIs, it's much easier to plug them into larger ecosystems.
+
+One of the interesting things I always wonder about is that, it's very easy to find super apps in Asia, but rarely you find super apps in Western societies.
+
+It's also true for superstars, and and super companies, and conglomerates - so every low trust society - which is usually non-western society - a lot of them are low trust. There is always concentration of trust - every low trust society will have concentration of trust, and when that high trust entity launches 25 things, people just use it.
+
+For example, in India, Tata Group is this concentration of trust, and they can launch a car, to a refrigerator, to salt, to furniture, and people like - Oh, Tata Group! We'll just buy it!
+
+Iwould say 80-85% of Bollywood's revenue comes from, like, 10-15 people - again, concentration of trust. And therefore...
+
+By the way we even watched that kid's movie, so nepotism is very rampant in India, because you're, like, Oh, this guy's son! I trust him to do a good job, but I'm not risking my money on this new actor.
+
+And, therefore, super apps also emerge a lot more over here.
+
+I'm, like, oh, Credit is offering this, or they're launching this new service: Boom, start using it - but you might have been doing completely different business in the past. But people just say, Oh, I know these guys!
+
+The familiarity creates a huge amount of trust over here, and therefore you see concentration of market caps in fewer and fewer companies, and therefore I believe Pareto might be extremely skewed in Asia versus West.
+
+Nobody has obviously studied that. I would love to fund a research which shows this, but i do believe that the market cap of top companies would be different than what you would observe at least in each category.
+
+Tech may be an exception, but every other category you'll see huge concentration revenue - from the Bollywood industry revenue, from anything else - it just becomes more and more and more concentrated.
+
+And that is the reason, I think, increasing trust in the society - and I've been obviously obsessed with what creates trust.
+
+For example, the most simplest answer I've found is - trust is natural in societies that have very low diversity of ethnicity. And that is a scary thought, because all sorts of bad behavior have happened in human history, because we tried to attack the minority and always try to make the society one.
+
+But it, unfortunately, seems to be true that trust is biological.
+
+And we seem to trust people with common belief systems. And ethnicity plays a huge role.
+
+So, you'll notice an interesting pattern that - I think, there's a study by some Stanford professor which showed almost an opposite connection or correlation to number of ethnicities and the high trust of a society.
+
+And it's not surprising that most societies are not multi-ethnic.
+
+As they're becoming more multi-ethnic, the trust is declining. And you see emergence of authoritarian leaders to be much much more frequent - because all low trust societies always want somebody with strong backbone to create peace.
+
+And that's also the concentration of trust point, which seeps in from that, which is constantly repeating itself in many themes.
 
 #### [32:51](https://www.youtube.com/watch?v=nl1PIagzgUo&t=1971s) Who we do (and don’t trust)
 
-the fewer people that are like us the more low trust we are in general that's is that a good summary of sort of yeah
-paraphrasing interesting thing that i mean i think it's a good summary there's one more nuance if it becomes
-too similar innovation dies it becomes too dissimilar trust dies so it seems to be in an
-interesting spectrum that you can only have a certain mix that keeps driving things to move forward
-versus become stagnant and boring and too chaotic i think there is this healthy mix that needs to keep happening
-and i don't know what the number is but it sounds like a scary concept because you're trying to say that hey you have to cleanse the society to reorganize
-itself to have 80 20 on ethnicities which is a problematic concept to start with
-and then one of the interesting things that you said there is sort of in low trust societies you sort of have these
-big companies that get this this almost like trust grant right so i can i
-can create products in adjacent marketplaces that people will just naturally trust on their own because
-they don't know who to trust or what to trust but if like facebook were to make a car people would be pretty skeptical
-the trust of of the platform would not necessarily carry over yeah and it's such a fascinating concept
-in india because it just works and and my company i've seen that and and we're
-in a fintech business we launched an e-commerce platform and it just becomes so big in a month's time
-much to most people's surprise including our investors were mostly from the western market they're like
-focus focus is almost a curse in asian markets
+Shane: So we trust people who are like ourselves. And so the the more diverse society is, the fewer people that are like us, the more low trust we are in general.
+
+Is that is a good summary, paraphrasing you?
+
+Kunal: I think it's a good summary.
+
+There's one more nuance. If it becomes too similar, innovation dies. It becomes too dissimilar, trust dies.
+
+So it seems to be in an interesting spectrum, that you can only have a certain mix that keeps driving things to move forward, versus become stagnant and boring - and too chaotic.
+
+I think there is this healthy mix that needs to keep happening. And I don't know what the number is, but it sounds like a scary concept because you're trying to say that, Hey, you have to cleanse the society to reorganize itself to have 80-20 on ethnicities which is a problematic concept to start with.
+
+Shane: And then one of the interesting things that you said there is, in low trust societies, you have these big companies that get this - almost like - trust grant right? So, I can create products in adjacent marketplaces that people will just naturally trust on their own, because they don't know who to trust, or what to trust.
+
+But if Facebook were to make a car, people would be pretty skeptical. The trust of the platform would not necessarily carry over.
+
+Kunal: Yeah and it's such a fascinating concept in India, because it just works - and at my company, I've seen that. We're in a fintech business. We launched an e-commerce platform, and it just becomes so big in a month's time, much to most people's surprise, including our investors, who were mostly from the western market. They're, like, focus!
+
+Focus is almost a curse in Asian markets.
 
 #### [34:38](https://www.youtube.com/watch?v=nl1PIagzgUo&t=2078s) Focus in Asian markets
 
-oh go deeper on that uh the market is not deep enough to focus on one market and create a
-large company the per capita income the total economy and all of that so you have to do
-cross-sell more things to the same set of customers uh i'll give you some
-interesting stats about india which should be mostly not known by most people up outside india
-less than six percent of urban indian women have financial income of their own
-94 of them are currently taking care of kids or taking care of
-the family and not contributing to the labor force but they're all educated
-they are probably undergraduate grads or even higher but not contributing to the labor force
-another interesting thing is 95 of all financial products in india are bought by men
-credit cards car loans home loans all investments
-are by men uh india has now nearly two thousand dollars per capita income uh annually
-but if you remove the top 30 million families or 30 million individuals the
-per capita income would drop to maybe 600 and therefore a lot of western markets
-love to come to india and say oh india is the next china it's not because our per capita income is never going to beat
-and grow like china because before china started becoming affluent 96 of chinese urban women were working
-because of the one child policy which forced it to become a general neutral society uh and and got them all on the labor
-force uh which never happened in india in fact it's going down that's a scary trend uh across the region india has the
-lowest female participation of labor now the per capita income is not going to grow and therefore a lot of foreign
-companies love to come to india because india is the dau farm of the world
-all the big internet giants will say oh i have 500 million billion users in india but look at the arpu and peel the
-arpu it'll be less than a dollar or two but it's great like for example uh uh if
-you got a lot of indian followers on twitter uh your twitter account follower account will go like crazy
-your monetization quotient might go down and i think many companies like snapchat twitter have worked very hard to grow
-user base in india facebook is a classic example youtube my bet would be that it
-would be probably making less than two dollars arpu annually in india uh with probably more than 500 600 million
-active users in india alone but they don't mind that because the global rpu compensates for the rpo
-mix but the user mix cannot come from anywhere else and therefore the market will reward like netflix made the
-mistake of coming to india and say we'll charge you for it nobody is going to pay that and therefore the projections did
-not meet because india is a country where you give them freebies and and you get all your dius
-you want you do not get your rpo and i think that's the lesson they learned and i think they are saying now will launch
-market with advertising india is perfect for that because value of time is not a concept for us so we'll
-watch uh in india when a series plays on tv of 30 minutes
-approximately nine minutes is ads oh my gosh
-by the way it used to be more the government regulated and made it nine minutes
+Shane: Go deeper on that.
+
+Kunal: The market is not deep enough to focus on one market, and create a large company. Reasons are - the per capita income, the total economy, and all of that.
+
+So you have to cross-sell more things to the same set of customers.
+
+I'll give you some interesting stats about India, which should be mostly not known by most people outside India.
+
+Less than 6% of urban Indian women have financial income of their own.
+
+94% of them are currently taking care of kids, or taking care of the family, and not contributing to the labor force.
+
+But they're all educated. They are, probably, undergraduate grads, or even higher - but not contributing to the labor force.
+
+Another interesting thing is that 95% of all financial products in India are bought by men: credit cards, car loans, home loans, all investments are made by men.
+
+India has now nearly two thousand dollars per capita income, annually. But if you remove the top 30 million families. or 30 million individuals, the per capita income would drop to maybe 600 - and, therefore, a lot of Western markets love to come to india and say, Oh india is the next China.
+
+It's not because - our per capita income is never going to beat and grow like China. Because before China started becoming affluent, 96% of chinese urban women were working, because of the one child policy, which forced it to become a gender neutral society - and got them all on the labor force - which never happened in India.
+
+In India, in fact, it's going down. That's a scary trend across the region. India has the lowest female participation of labor.
+
+Now the per capita income is not going to grow and therefore a lot of foreign companies love to come to india because India is the DAU farm of the world.
+
+All the big internet giants will say, Oh, I have 500 million users in India, but look at the ARPU, and peel the ARPU - it'll be less than a dollar or two.
+
+But it's great, like, for example, if you got a lot of Indian followers on Twitter.
+
+Your Twitter account follower account will go like crazy. Your monetization quotient might go down, and I think many companies like Snapchat, Twitter have worked very hard to grow an user base in India.
+
+Facebook is a classic example. YouTube, my bet would be that it would be probably making less than two dollars ARPU annually in India, with probably more than 500, 600 million active users in India alone. But they don't mind that because the global ARPU compensates for the ARPU mix. But the user mix cannot come from anywhere else, and therefore the market will reward you.
+
+Netflix made the mistake of coming to India and say, we'll charge you for it. Nobody is going to pay that, and therefore the Netflix projections were not meet. Because India is a country where you give them freebies, and you get all your DAUs you want. You do not get your ARPU, and I think that's the lesson they learned - and, I think, they are saying now they will launch a market with advertising. India is perfect for that, because value of time is not a concept for us.
+
+So we'll watch in India, when a series plays on TV for 30 minutes, approximately 9 minutes is ads. By the way, it used to be more! The government regulated and made it nine minutes
 
 #### [38:10](https://www.youtube.com/watch?v=nl1PIagzgUo&t=2290s) Value of time in India
 
