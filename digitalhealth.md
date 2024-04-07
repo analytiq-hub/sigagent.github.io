@@ -50,9 +50,13 @@ title: Digital Health
 
 #### Investments
 * Silion Valley Bank: [Healthcare Investments and Exits](https://www.svb.com/globalassets/trendsandinsights/reports/healthcare/2023/annual/healthcare-investments-and-exits-annual-report-2023.pdf?_gl=1*1kbo6ql*_up*MQ..&gclid=Cj0KCQjwqpSwBhClARIsADlZ_Tl-iaDSZTFAH9sutCNnuZTYHGs-ogM_4uP-xryn7tjzwdCBuof1-m8aAt2JEALw_wcB) (Jan 2024)
-* BCG: [Generative AI Will Transform Health Care Sooner Than You Think](https://www.bcg.com/publications/2023/how-generative-ai-is-transforming-health-care-sooner-than-expected), by Matthew Huddle, Josh Kellar, Krishna Srikumar, Krishna Deepak, and Daniel Martines (2023)
 * Josephine Chen, Sequoia: [Bringing Generative AI to Healthcare](https://www.sequoiacap.com/article/generative-ai-for-healthcare-perspective/) (Sept 2023)
+
+
+#### Industry analysis
+* BCG: [Generative AI Will Transform Health Care Sooner Than You Think](https://www.bcg.com/publications/2023/how-generative-ai-is-transforming-health-care-sooner-than-expected), by Matthew Huddle, Josh Kellar, Krishna Srikumar, Krishna Deepak, and Daniel Martines (2023)
 * Healthpayer Intelligence: [Top Payer Concerns, Opportunities Around Generative AI Integration](https://healthpayerintelligence.com/features/top-payer-concerns-opportunities-around-generative-ai-integration) (2023)
+* healthcareittoday.com: [Healthcare IT and EHR Conferences and Events](https://www.healthcareittoday.com/healthcare-it-and-ehr-conferences-and-events/)
 
 #### Tools
 * [bloatectomy](https://github.com/MIT-LCP/bloatectomy)
