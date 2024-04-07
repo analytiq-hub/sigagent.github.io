@@ -107,6 +107,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Environment in Romania](/romania/environment)
 * [Self Driving Cars](/self_driving_cars)
   * [How to Build a Self Driving Car](/self_driving_cars/how_to_build_a_self_driving_car)
+* [Search Engine Optimization (SEO)](/seo)
 * [Theater](/theater)
 * Tools
   * [Colab](/colab)

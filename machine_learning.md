@@ -95,6 +95,11 @@ title: Machine Learning
 #### Discord Servers
 * [HuggingFace](https://discuss.huggingface.co/t/join-the-hugging-face-discord/11263)
 
+#### Events
+* [In-Person AI Events in Greater Boston #BostonAIevents](https://docs.google.com/document/d/1qH32tJa3q4wvCkIdmANR-MOfJU4hE3wz9c9ckJBhcZ4/edit)
+  * The list is curated by Dan Elton and Paul Baier.
+
+
 #### Tools
 * [Jax](/machine_learning/jax)
 * [PyTorch](/machine_learning/pytorch)
