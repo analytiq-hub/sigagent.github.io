@@ -61,6 +61,9 @@ title: Digital Health
 * healthcareittoday.com: [Healthcare IT and EHR Conferences and Events](https://www.healthcareittoday.com/healthcare-it-and-ehr-conferences-and-events/)
 * https://qubika.com/: [List of Digital Health, Healthcare IT, & MedTech conferences in 2024](https://qubika.com/blog/list-of-digital-health-health-it-medtech-conferences/)
 
+#### News
+* NYT: [Insurers Reap Hidden Fees by Slashing Payments. You May Get the Bill.](https://www.nytimes.com/2024/04/07/us/health-insurance-medical-bills.html) (2024)
+
 #### Tools
 * [bloatectomy](https://github.com/MIT-LCP/bloatectomy)
 * [FIDDLE](https://github.com/MLD3/FIDDLE)
