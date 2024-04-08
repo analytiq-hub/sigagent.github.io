@@ -582,18 +582,15 @@ So the thing is that this value of time understanding, credit, value of time, an
 
 #### [41:40](https://www.youtube.com/watch?v=nl1PIagzgUo&t=2500s) Kunal’s startup journey
 
-Shane: I meant to ask this as the second question of our interview. You're on your second big startup now. How did you get here? Walk me through your first, and what you're doing right now - and then we'll pick up where we left off here.
+Shane: I meant to ask this as the second question of our interview. You're on your second big startup now. How did we get here? Walk me through your first, and what you're doing right now - and then we'll pick up where we left off here.
 
 Kunal: Sure. My first startup I built from 2010 to 2015, and exited, probably, the largest exit at that point of time in India.
 
-And that startup did the following: it allowed people to recharge their mobile phones.
+And that startup did the following: It allowed people to recharge their mobile phones.
 
-In India, 99% of connections are prepaid, which means they are not on any plan. People refuel their phone. In a lot of the society, nobody giving credit to each
-other - so people just top up money, and use it, and then top up again -  but none of that top-up was done online. So i built that platform, but what I did is, I allowed people to get some vouchers of retailers for recharging on our platform.
+In India, 99% of connections are prepaid, which means they are not on any plan. People refuel their phone. It's a low credit society, nobody giving credit to each other. So people just top up money, and use it, and then top up again -  but none of that top-up was done online, so I built that platform. But what I did is, I allowed people to get some vouchers of retailers for recharging on our platform. It was called Free Charge.
 
-It was called Free Charge. And it took off in a very big way, because, again, which would you pick - the value of time, or I'm getting some incentive?
-
-People actually chose our platform, versus going to somewhere else, and because it was more efficient people just shifted in that direction.
+And it took off in a very big way, because, again, the value of time, I'm getting some incentive - people actually chose our platform, versus going to somewhere else, and because it was more efficient people just shifted in that direction.
 
 But what I realized that I was going for the mass market through that but it was
 impossible to monetize they just did not have any money so after i exited the first company i spent a bunch of time i was
