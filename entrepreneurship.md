@@ -91,6 +91,7 @@ title: Entrepreneurship
   * Mint: [CRED's Kunal Shah's Advice To Start Up Founders: Think About What Your Family Will Pay For](https://www.youtube.com/watch?v=Zp_1QNwVT6w) (2024)
   * CRED curious: [Nithin Kamath in conversation with Kunal Shah](https://www.youtube.com/watch?v=1ExWh4zm1zg) (2020)
   * CRED curious: [Anand Gandhi in conversation with Kunal Shah](https://www.youtube.com/watch?v=gf09vjWp3E4) (2021) - the Biology of Money
+  * SparX by Mukesh Bansai: [Risks, Growth, and Ethics of Entrepreneurship - Kunal Shah](https://www.youtube.com/watch?v=Fx1LdidhY3A) (2023)
 
 #### LLCs
 * Jim Hart:
