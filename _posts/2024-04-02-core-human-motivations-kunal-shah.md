@@ -541,59 +541,61 @@ Facebook is a classic example. YouTube, my bet would be that it would be probabl
 
 Netflix made the mistake of coming to India and say, we'll charge you for it. Nobody is going to pay that, and therefore the Netflix projections were not meet. Because India is a country where you give them freebies, and you get all your DAUs you want. You do not get your ARPU, and I think that's the lesson they learned - and, I think, they are saying now they will launch a market with advertising. India is perfect for that, because value of time is not a concept for us.
 
-So we'll watch in India, when a series plays on TV for 30 minutes, approximately 9 minutes is ads. By the way, it used to be more! The government regulated and made it nine minutes
+So we'll watch in India, when a series plays on TV for 30 minutes, approximately 9 minutes is ads. By the way, it used to be more! The government regulated and made it nine minutes.
 
 #### [38:10](https://www.youtube.com/watch?v=nl1PIagzgUo&t=2290s) Value of time in India
 
-so if people aren't paid hourly how are they how are they compensated how does that work so we have a concept of
-monthly salary uh we're not even paid weekly so we are paid every month and everybody thinks in month
-uh it's a flawed concept because they never solve our think about being efficient in life
-unless you know your salary an hourly basis you will never really know what the value of time is uh one fascinating
-thing i've seen in india is that you fly in the u.s and many people are reading books or doing something else in india
-nobody is really reading books and many of them i have seen a very peculiar behavior in india is they are going to
-whatsapp and deleting old pictures so that it can clear up the memory instead of buying a one dollar pack it will give
-you a cloud access like that's the value of time and these are by the more the most affluent people in india fly so uh
-there is no way uh they can spend two hours deleting pictures on whatsapp but they do
-uh because the value of time is not understood intuitively and i've seen this all the time in people around me uh
-people who are multi-millionaires will work so hard to save fifty dollars it's not even
-funny that's like my parents they'll drive 45 minutes to save two cents a liter on
-gasoline yeah but they never worked in a society they did not grow up in a society where value of time was a concept right so i
-think it's a more phenomena coming from those world and western society like oh we have to be
-efficient industrialization value for our productivity uh if i ask 10 people in india what
-productivity means i don't think i'll get a good answer but then then if you try to sell something based on sort of saving people
-time it's not going to resonate because you have to not only convince them that this is worth doing you're really trying
-to change something that's inherent in the culture right now which i would imagine is slowly changing
-as wealth becomes it's funny you're saying that but
-uh india is after the u.s maybe in the top three markets of sas providers sas
-business software providers right on revenue but none of them
-have any revenue from the local market because no no business pays for software
-they don't they're like oh i'm just going to hire three more people and they'll just work because they don't understand that software could make them so much more efficient and and
-i i i wouldn't be able to find one company that makes more than ten dollars and 10 million
-dollars annual revenue by selling software to indian businesses
-which is scary if you think about it how large our economy is and how many businesses we have and and how internet
-savvy we are we are probably uh uh more savvy in using smartphones and digital
-payments uh in fact one of the things that is talked about in india's digital payments have overtaken china and we
-have like taken off most people don't tell you that it took off after government made it free
-money transfer is instant but nobody makes any money that's when it took off
-when we had charged one percent two percent mdr for do that it never took off
-so the thing is that this value of time understanding credit value of time and
-this math of thinking of of time energy money in one equation
-is extremely hard i meant to ask this as the second question of our interview but uh you're
+Shane: Io people aren't paid hourly. How are they compensated? How does that work?
+
+Kunal: We have a concept of monthly salary. We're not even paid weekly, so we are paid every month. And everybody thinks in "month"!
+
+It's a flawed concept, because they never think about being efficient in life.
+
+Unless you know your salary on an hourly basis, you will never really know what the value of time.
+
+One fascinating thing I've seen in India is that - you fly in the US, and many people are reading books, or doing something else. In India, nobody is really reading books.
+
+I have seen a very peculiar behavior in India. They are going to WhatsApp, and are deleting old pictures, so that it can clear up the memory - instead of buying a one dollar pack that will give you a cloud access. That's the value of time, and these happens with the most affluent people in India. There is no way they can spend two hours deleting pictures on WhatsApp, but they do - because the value of time is not understood intuitively. I've seen this all the time in people around me.
+
+People who are multi-millionaires will work so hard to save fifty dollars, it's not even funny.
+
+Shane: It's like my parents. They will drive 45 minutes to save two cents a liter on gasoline.
+
+Kunal: But they never worked, or grow up in a society where value of time was a concept.
+
+So I think it's a more a phenomena coming from Western society like oh we have to be efficient; we talk of industrialization, value for our productivity. If i ask 10 people in India what productivity means, I don't think I'll get a good answer.
+
+Shane: But then, if you try to sell something based on sort of saving people time, it's not going to resonate. Because you have to not only convince them that this is worth doing. You're really trying to change something that's inherent in the culture right now, which I would imagine is slowly changing, as wealth becomes more prevalent.
+
+Kunal: It's funny you're saying that. But India is after the US, maybe, in the top three markets of SAS business software providers on revenue. But none of them
+have any revenue from the local market, because no business pays for software. They don't they're, like, Oh! I'm just going to hire three more people, and they'll just work. Because they don't understand that software could make them so much more efficient.
+
+And I wouldn't be able to find one company that makes more than $10M dollars annual revenue by selling software to Indian businesses. Which is scary if you think about how large our economy is, and how many businesses we have, and how internet savvy we are.
+
+We are, probably, more savvy in using smartphones and digital payments than many other countries. In fact, one of the things that is talked about is - India's digital payments have overtaken China, and we're taking off!
+
+Most people don't tell you that it took off after government made it free! Money transfer is instant, but nobody makes any money! That's when it took off.
+
+When we had charged one percent, two percent MDR for do that, it never took off.
+
+So the thing is that this value of time understanding, credit, value of time, and this math of tying time - energy - money in one equation is extremely hard.
 
 #### [41:40](https://www.youtube.com/watch?v=nl1PIagzgUo&t=2500s) Kunal’s startup journey
 
-on your second big startup now how do we get here walk me through your first and what you're doing right now and then
-then we'll pick up where we left off here sure um so my first startup i built from 2010 to
-2015 um exited probably the largest exit at that point of time in india uh
-and that startup did the following it it uh
-allowed people to recharge their mobile phones in india 99 of connections are
-prepaid which means they are not on any plan people refuel their is again a lot of society nobody giving credit to each
-other so people just top up money and use it and then top up again but none of
-that was top-up was done online so i built that platform but what i did is i allowed people to get some vouchers of
-retailers for recharging on our platform was called free charge uh
-and it took off in a very big way because again value of time or i'm getting some incentive people actually
-chose our platform versus going to somewhere else and because it was more efficient people just shifted in that direction
-but uh what i realized that i was going for the mass market through that but it was
+Shane: I meant to ask this as the second question of our interview. You're on your second big startup now. How did you get here? Walk me through your first, and what you're doing right now - and then we'll pick up where we left off here.
+
+Kunal: Sure. My first startup I built from 2010 to 2015, and exited, probably, the largest exit at that point of time in India.
+
+And that startup did the following: it allowed people to recharge their mobile phones.
+
+In India, 99% of connections are prepaid, which means they are not on any plan. People refuel their phone. In a lot of the society, nobody giving credit to each
+other - so people just top up money, and use it, and then top up again -  but none of that top-up was done online. So i built that platform, but what I did is, I allowed people to get some vouchers of retailers for recharging on our platform.
+
+It was called Free Charge. And it took off in a very big way, because, again, which would you pick - the value of time, or I'm getting some incentive?
+
+People actually chose our platform, versus going to somewhere else, and because it was more efficient people just shifted in that direction.
+
+But what I realized that I was going for the mass market through that but it was
 impossible to monetize they just did not have any money so after i exited the first company i spent a bunch of time i was
 uh advising multiple companies uh uh and joining the advisory board board so one
 of them is a media company uh one of them was sequoia capital i spent a bunch of time understanding investments and i
