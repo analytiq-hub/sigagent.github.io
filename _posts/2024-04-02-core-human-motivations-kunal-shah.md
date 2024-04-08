@@ -592,68 +592,71 @@ In India, 99% of connections are prepaid, which means they are not on any plan. 
 
 And it took off in a very big way, because, again, the value of time, I'm getting some incentive - people actually chose our platform, versus going to somewhere else, and because it was more efficient people just shifted in that direction.
 
-But what I realized that I was going for the mass market through that but it was
-impossible to monetize they just did not have any money so after i exited the first company i spent a bunch of time i was
-uh advising multiple companies uh uh and joining the advisory board board so one
-of them is a media company uh one of them was sequoia capital i spent a bunch of time understanding investments and i
-was also angel investing in left right and center i was probably i'm probably in angel invested in maybe 200 plus
-companies now in india and what i learned was that
-everybody was building these businesses by copying western models free charge was one of the few original ideas the reason i
-built an original company because i had no engineering background i had no friends who had built tech startups in
-fact i didn't even think i was building a tech startup i thought i was building a marketing company which turned out to
-be one of the largest payments company in india because i had never read techcrunch in
-my life in fact i remember uh meeting sequoia for the first time um
-first of all when sequoia reached out to me i'm like who are these guys why i think we're using my time i had no clue who they were i ignored their emails for
-months till somebody told me hey they're really big deal you need to check them out i'm like okay i'll vent there and
-and i remember they're asking that so canal what's your cac and i had no clue what that word meant
-and i think it's a superpower i think vocabulary is a unique curse that we suffer every
-word we know i truly believe that uh if you don't know these words we'll probably not
-suffer them and i think uh what i learned from that experience was
-that you need to focus on the right market because you can be the greatest founder if you meet the bad market you
-will die but if you find a market that has used tailwinds to it
-even a mediocre founder will do really really well right so i think market is like laws of physics and i saw a very
-interesting pattern in india was that a lot of smart people were building great companies that
-wouldn't go nowhere and and i saw some people who are not so smart would do really well consistently
-and serial entrepreneurs right and i found that as an interesting pattern that i i referred to the analogy that i
-see a lot of dam builders with no idea where rivers exist
-so i see them building dams in hope that river will show up but river never shows up river exists
-and every time they discover that hey river is not coming to my dam instead of moving the dam to river they make the
-dams even more funkier and cooler and with ai and all of that stuff but the water never comes
-and i saw that some people were natural at finding where the rivers of motivation
-were flowing and even the mediocre dams were making profits over there versus these fancy dams
-which nobody ever used and i saw a very sort of like western idea right build it and they will come
-yeah it never happens i think and and it's a great idea to build in western markets where there are so many rivers
-and there is such a big economy that even some accidental drivel flowing through you will make a lot of money in india
-there are no accidental it's like you're building in dessert right so you have to make sure you're a dessert like you have
-to really build the rivers the right dance is the right place because there's no unlimited rivers flowing
-so what i noticed is that nobody was thinking about human motivation because all of our education
-system in india was not teaching humanities i accidentally learned humanities because of philosophy
-but every single tech founder india has 100 unicorns i would go on to say that i am the only
-founder in the 100 unicorns which has a humanities background
-everybody else is stem so the concept and another thing in india is that we
-never had dating culture so we never learned human motivation through the game of dating as well
-so we have extraordinary builders but we don't know what to build for and therefore
-how many indian products are used in the west right now very few but how many products are built in india
-which are used in the u.s made by u.s product managers hundreds and mill maybe hundreds and
-hundreds of thousands of them how many co-founders of many unicorns in the us are indians
-probably a lot of them and this is where i found this to be thinking indians were very good at
-cracking an exam that existed versus creating an exam that does not exist
-so that created an interesting option that you can build startups like everybody
-knows indian spends a lot on weddings like it's a known thing people love to
-go to the indian weddings and they they keep hearing this i'll give you an interesting data point like i checked in my office uh most
-people spent close to six times their annual salary for their wedding
-wow okay but zero
-unicorn startups solving wedding problems
-but that's the scary thing about the market i met a founder who runs us a luggage company a suitcases they build
-around the public listed companies and they wanted me to join their board and i'm like okay i'm happy to meet but i'm
-not joining a traditional business board but i'm happy to have a conversation and i was just giving them some suggestion they should
-do something branding on the airport and they're like what are you talking about i'm like yeah you're a suitcase company you should be at the airports like what
-am i not saying correct over here he's like 80 to 83 of all suitcases in india are
-bought for weddings the bride takes new suitcases and goes to the new family
-there are 4.4 million weddings that happen every year and on average close to three
-to four suitcases move with her to the new house i'm like i have no clue about these
-things i met another founder who's building a interesting bio hacking kind of a
-startup and there's a non-treatment uh which improves the mitochondria growth rate in your thing
+But what I realized was - I was going for the mass market through that, but it was nearly impossible to monetize. They just did not have any money. So after I exited the first company, I spent a bunch of time - I was advising multiple companies, and joining their advisory board.
+
+One of them was a media company, one of them was Sequoia Capital. I spent a bunch of time understanding investments.
+
+I was also angel investing left, right and center. I'm probably angel invested in maybe 200 plus companies now in India.
+
+And what I learned was that everybody was building these businesses by copying Western models. Free charge was one of the few original ideas.
+
+The reason I built an original company - because I had no engineering background, I had no friends who had built tech startups. In fact, I didn't even think I was building a tech startup. I thought I was building a marketing company, which turned out to be one of the largest payments company in India - because I had never read TechCrunch in my life.
+
+In fact, I remember meeting Sequoia for the first time. First of all, when Sequoia reached out to me, I'm like - who are these guys? Why are they wasting my time? I had no clue who they were. I ignored their emails for months, till somebody told me they're really a big deal, you need to check them out.
+
+I'm, like okay... I went there, and I remember they're asking, so, Kunal, what's your CAC? And I had no clue what that word meant!
+
+I think it's a superpower - I think vocabulary is a unique curse that we suffer, every word we know! I truly believe that! If you don't know these words, we'll probably not suffer them...
+
+And I think what I learned from that experience was that you need to focus on the right market, because you can be the greatest founder - if you meet a bad market, you will die. But if you find a market that has used tailwinds to it, even a mediocre founder will do really well.
+
+I think market is like laws of physics.
+
+And I saw a very interesting pattern in India. It was that a lot of smart people were building great companies that wouldn't go nowhere - and I saw some people who are not so smart would do really well consistently, and being serial entrepreneurs.
+
+And I found that as an interesting pattern.
+
+I referred to the analogy that I see a lot of dam builders with no idea where rivers exist. So I see them building dams in hope that the river will show up, but river never shows up.
+
+But the river exists! And every time they discover that the river is not coming to my dam, instead of moving the dam to the river, they make the dam even more funkier, and cooler, and with AI and all of that stuff... But the water never comes!
+
+And I saw that some people were natural at finding where the rivers of motivation were flowing, and even the mediocre dams were making profits over there, versus these fancy dams, which nobody ever used.
+
+Shane: It's a very Western idea: Build it, and they will come!
+
+Kunal: It never happens, I think. And it's a great idea to build in Western markets, where there are so many rivers, and there is such a big economy that even some accidental river flowing through you will make a lot of money.
+
+In India, there are no accidental rivers. It's like you're building in dessert. So you have to make sure, you're a dessert, you have to really build the dam in the right place, because there's no unlimited rivers flowing.
+
+So, what I noticed is that nobody was thinking about human motivation, because all of our education system in India was not teaching humanities. I accidentally learned humanities, because of philosophy - but every single tech founder in India - India has 100 unicorns, I would go on to say that I am the only founder in the 100 unicorns which has a humanities background. Everybody else is STEM.
+
+And another thing in India is that we never had a dating culture, so we never learned human motivation through the game of dating as well.
+
+So we have extraordinary builders, but we don't know what to build for, and therefore, how many Indian products are used in the West right now? Very few.
+
+But how many products are built in India, which are used in the US, made by US product managers? Hundreds, and maybe hundreds of thousands of them.
+
+How many co-founders of many unicorns in the US are Indians? Probably a lot of them, and this is where I found this to be. Thinking Indians were very good at cracking an exam that existed, versus creating an exam that does not exist.
+
+So that created an interesting option that you can build startups a certain way.
+
+Everybody knows an Indian spends a lot on weddings. It's a known thing.
+
+People love to go to the Indian weddings. And they they keep hearing this - I'll give you an interesting data point. I checked in my office: most people spent close to six times their annual salary for their wedding, okay? But zero unicorn startups are solving wedding problems!
+
+But, that's the scary thing about the market. I met a founder who runs us a luggage company - a suitcases they build. It's a public listed company. And they wanted me to join their board.
+
+And I'm, like Okay... I'm happy to meet, but I'm not joining a traditional business board. But i'm happy to have a conversation.
+
+And I was just giving them some suggestion: they should do some branding on the airport, and they're like what are you talking about?!
+
+I'm, like, yeah you're a suitcase company! You should be at the airports! What am I not saying correct over here?!
+
+And he's, like - 80-83% of all suitcases in India are bought for weddings. The bride takes new suitcases, and goes to the new family. There are 4.4 million weddings that happen every year, and on average, close to three to four suitcases move with her to the new house.
+
+I'm, like, I have no clue about these things!
+
+I met another founder who's building a interesting bio-hacking kind of a startup. And there's a non-treatment uh which improves the mitochondria growth rate in your thing
 it's a expensive treatment which is done usually for cancer patients or somebody with diabetic situation or whatever and
 this guy goes there that i want to try this for bio biohacking and the guy's like oh you're here for cancer he says no are
 you here for diabetes i said no the third question was are you here for because it's your wedding and it's like
