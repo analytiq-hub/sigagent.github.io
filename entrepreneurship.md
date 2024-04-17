@@ -9,6 +9,7 @@ title: Entrepreneurship
 * Patrick Campbell's <a href="https://www.profitwell.com/blog/all">blog</a> on freemium, SAAS revenue, marketing and sales strategy. If Patrick was not running a <a href="https://www.profitwell.com">business</a>, he could be an economics professor.
 * [BostInno](https://www.bizjournals.com/boston/inno): monthlly investment roundups, list of events
 * MassGeneral [Innovation Mesh Network](https://innovationmeshnetwork.org)
+* The Knowledge Project: [April Dunford: The Marketing Expert: How to Get More Sales, Loyal Customers, and Bigger Promotions](https://www.youtube.com/watch?v=vM_1G1LCotU) (2024)
 
 #### Books
 * Steve Blank: [The Four Steps to the Epiphany:  Successful Strategies for Products that Win](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/1119690358) (2007, fourth ed)
