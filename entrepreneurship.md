@@ -9,7 +9,7 @@ title: Entrepreneurship
 * Patrick Campbell's <a href="https://www.profitwell.com/blog/all">blog</a> on freemium, SAAS revenue, marketing and sales strategy. If Patrick was not running a <a href="https://www.profitwell.com">business</a>, he could be an economics professor.
 * [BostInno](https://www.bizjournals.com/boston/inno): monthlly investment roundups, list of events
 * MassGeneral [Innovation Mesh Network](https://innovationmeshnetwork.org)
-* The Knowledge Project: [April Dunford: The Marketing Expert: How to Get More Sales, Loyal Customers, and Bigger Promotions](https://www.youtube.com/watch?v=vM_1G1LCotU) (2024)
+* The Knowledge Project: [April Dunford: The Marketing Expert: How to Get More Sales, Loyal Customers, and Bigger Promotions](https://www.youtube.com/watch?v=vM_1G1LCotU) (2024). B2B marketing is different than B2C.
 
 #### Books
 * Steve Blank: [The Four Steps to the Epiphany:  Successful Strategies for Products that Win](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/1119690358) (2007, fourth ed)
@@ -35,6 +35,7 @@ title: Entrepreneurship
 * William H. Janeway: [Doing Capitalism in the Innovation Economy: Reconfiguring the Three-Player Game between Markets, Speculators and the State](https://www.amazon.com/Doing-Capitalism-Innovation-Economy-Reconfiguring/dp/1108471277/) (2018)
 * Richard Rhodes: [The Making of the Atomic Bomb](https://www.amazon.com/Making-Atomic-Bomb-Richard-Rhodes/dp/1451677618) (1987)
 * Charles T. Munger, Peter D. Kaufman: [Poor Charlie's Almanack](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
+* Matthew Dixon, Ted McKenna: [The Jolt Effect: How High Performers Overcome Customer Indecision](https://www.amazon.com/JOLT-Effect-Performers-Overcome-Indecision/dp/0593538102) (2022)
 
 #### Blog posts
 * Mark Andreesen (mirror of his 2007 now-defunct blog)
