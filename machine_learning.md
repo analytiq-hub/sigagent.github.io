@@ -272,6 +272,9 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
   * IAS Seminar on Theoretical ML: [Graph Nets: The Next Generation](https://www.youtube.com/watch?v=Wx8J-Kw3fTA) (2020)
 *  Machine Learning Street Talk #75: [Emergence with Danielle Grattarola](https://www.youtube.com/watch?v=MDt2e8XtUcA) (2022)
 
+#### Categorical Deep Learning
+* Bruno Gavranovic et al: [Categorical Deep Learning: An Algebraic Theory of Architectures](https://arxiv.org/pdf/2402.15332.pdf) (2024)
+
 #### Reinforcement Learning
 * R. Sutton, A. Barto: [Reinforcement Learning, second edition: An Introduction](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=d_pd_sim_sccl_3_1/146-1943148-1230166) (2018)
 * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/index.html)
