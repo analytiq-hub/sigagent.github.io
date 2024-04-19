@@ -27,6 +27,7 @@ title: Mathematical Physics
   * [Engineering Math](math/engineering_math.md)
   * [Linear Algebra](math/linear_algebra.md)
   * [Mathematical Physics](mathematical_physics.md)
+  * [Philosophy of Math](philosophy_of_math.md)
   * [Representation Theory](math/representation_theory.md)
   * [Topology](math/topology.md)
 * [Physics](physics.md)

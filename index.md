@@ -77,6 +77,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [High School Problems](/math/high_school)
   * [High School Problem Hints and Solutions](/math/high_school_solutions)
   * [Mathematical Physics](/math/mathematical_physics)
+  * [Philosophy of Math](/math/philosophy_of_math.md)
   * [Representation Theory](/math/representation_theory)
   * [Topology](/math/topology)
 * [Meta Learning](/meta_learning)

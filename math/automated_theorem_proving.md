@@ -95,4 +95,5 @@ title: Automated Theorem Proving
 #### Other
 * [Computation Theory](/computation_theory)
 * [Engineering Math](/math/engineering_math)
+* [Philosophy of Math](/math/philosophy_of_math.md)
 

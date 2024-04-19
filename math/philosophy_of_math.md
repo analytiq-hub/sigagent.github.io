@@ -1,12 +1,11 @@
 ---
 layout: page
 mathjax: true
-title: Linear Algebra
+title: Philosophy of Math
 ---
 
-#### Books
-* G. Strang: [Differential Equations and Linear Algebra](https://www.amazon.com/Differential-Equations-Linear-Algebra-Gilbert/dp/0980232791) (2012)
-* R.A. Horn, C.R. Johnson: [Matrix Analysis](https://www.amazon.com/Matrix-Analysis-Second-Roger-Horn/dp/0521548233), 2nd ed (2012)
+#### Articles
+* Athanase Papadopoulos: [René Thom: From mathematics to philosophy](https://hal.science/hal-03750378/document) (2022)
 
 #### Links
 * Math
@@ -18,7 +17,7 @@ title: Linear Algebra
   * [Engineering Math](math/engineering_math.md)
   * [Linear Algebra](math/linear_algebra.md)
   * [Mathematical Physics](mathematical_physics.md)
-  * [Philosophy of Math](/math/philosophy_of_math.md)
+  * [Philosophy of Math](philosophy_of_math.md)
   * [Representation Theory](math/representation_theory.md)
   * [Topology](math/topology.md)
 * [Physics](physics.md)

@@ -20,6 +20,7 @@ title: Representation Theory
   * [Automated Theorem Proving](math/automated_theorem_proving.md)
   * [Engineering Math](math/engineering_math.md)
   * [Mathematical Physics](mathematical_physics.md)
+  * [Philosophy of Math](philosophy_of_math.md)
   * [Topology](math/topology.md)
 * [Physics](physics.md)
 
