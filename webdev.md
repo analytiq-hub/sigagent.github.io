@@ -29,6 +29,11 @@ title: Webdev
 * AWS Amplify
   * [AWS Amplify in Plain English - Getting Started Tutorial for Beginners](https://www.youtube.com/watch?v=HdCmo0a3ngMe) (2023)
 
+#### Low Code UI
+* Microsoft PowerApp
+* Oracle APEX
+  * [Build AI-powered apps with Oracle APEX](https://www.youtube.com/watch?v=9BLwdO6uYL4)
+
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
 * [Autonomous Agents](/autonomous_agents)
