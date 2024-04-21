@@ -37,6 +37,7 @@ title: Entrepreneurship
 * Charles T. Munger, Peter D. Kaufman: [Poor Charlie's Almanack](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
 * Matthew Dixon, Ted McKenna: [The Jolt Effect: How High Performers Overcome Customer Indecision](https://www.amazon.com/JOLT-Effect-Performers-Overcome-Indecision/dp/0593538102) (2022)
 * Jimmy Soni: [The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley](https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silicon/dp/1501197266) (2022)
+* Ben Horowitz: [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) (2014)
 
 #### Blog posts
 * Mark Andreesen (mirror of his 2007 now-defunct blog)
