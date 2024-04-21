@@ -36,6 +36,7 @@ title: Entrepreneurship
 * Richard Rhodes: [The Making of the Atomic Bomb](https://www.amazon.com/Making-Atomic-Bomb-Richard-Rhodes/dp/1451677618) (1987)
 * Charles T. Munger, Peter D. Kaufman: [Poor Charlie's Almanack](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
 * Matthew Dixon, Ted McKenna: [The Jolt Effect: How High Performers Overcome Customer Indecision](https://www.amazon.com/JOLT-Effect-Performers-Overcome-Indecision/dp/0593538102) (2022)
+* Jimmy Soni: [The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley](https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silicon/dp/1501197266) (2022)
 
 #### Blog posts
 * Mark Andreesen (mirror of his 2007 now-defunct blog)
@@ -94,7 +95,6 @@ title: Entrepreneurship
   * CRED curious: [Nithin Kamath in conversation with Kunal Shah](https://www.youtube.com/watch?v=1ExWh4zm1zg) (2020)
   * CRED curious: [Anand Gandhi in conversation with Kunal Shah](https://www.youtube.com/watch?v=gf09vjWp3E4) (2021) - the Biology of Money
   * SparX by Mukesh Bansai: [Risks, Growth, and Ethics of Entrepreneurship - Kunal Shah](https://www.youtube.com/watch?v=Fx1LdidhY3A) (2023)
-* Jimmy Soni: [The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley](https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silicon/dp/1501197266) (2022)
 
 #### LLCs
 * Jim Hart:
