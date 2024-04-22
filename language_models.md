@@ -111,6 +111,9 @@ gradient for the vast majority of the parameters
 * Tirendaz AI: [Named Entity Recognition with Hugging Face 🤗 NLP Tutorial For Beginners](https://www.youtube.com/watch?v=r-yR8-7dlvQ) (2023)
 * [SpaCy](https://spacy.io/usage/spacy-101)
 
+#### Code Generation
+* Ziyin Zhang et al: [Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code](https://arxiv.org/abs/2311.07989) (2023), [github](https://github.com/codefuse-ai/Awesome-Code-LLM)
+
 #### Courses
 * A. Karpathy: [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) (2023)
   * Github: [nanoGPT](https://github.com/karpathy/nanoGPT), Andrei's [fork](https://github.com/andrei-radulescu-banu/nanoGPT)
