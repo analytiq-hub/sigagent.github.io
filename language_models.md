@@ -60,7 +60,10 @@ title: Language Models
 * [Code Llama: Open Foundation Models for Code](https://scontent.fphl1-1.fna.fbcdn.net/v/t39.2365-6/369856151_1754812304950972_1159666448927483931_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=BnkB4kcpz5AAX9Oc-m-&_nc_ht=scontent.fphl1-1.fna&oh=00_AfA9H1CFM3LjWZ-32bnJtejUJghfnG016Di5hJHGZGnonQ&oe=64ECB20F) (2023)
 * [DSPy](https://github.com/stanfordnlp/dspy)
 * Eugene Yan:
-  * [Language Modeling Reading List (to Start Your Paper Club)](https://eugeneyan.com/writing/llm-reading-list/) (2024)
+  * Rishabh Agarwal et al: [Language Modeling Reading List (to Start Your Paper Club)](https://eugeneyan.com/writing/llm-reading-list/) (2024), Google Deep Mind
+
+#### In-Context Learning
+* [Many-Shot In-Context Learning](https://arxiv.org/pdf/2404.11018)
 
 #### Explainability
 * OpenAI: S. Bills et al: [Language models can explain neurons in language models](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) (2023)
