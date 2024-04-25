@@ -10,6 +10,7 @@ title: Orchestrators
   * Dagster Crash Course: [Develop data assets in under ten minutes](https://www.youtube.com/watch?v=ZmUjf3gL1VU) (2022)
 * Reviews
   * Sandy Ryza, Nick Schrock: [Dagster vs. Airflow](https://dagster.io/blog/dagster-airflow) (2022)
+  * Reddit: [Orchestration: Thoughts on Dagster, Airflow and Prefect?](https://www.reddit.com/r/dataengineering/comments/13xkeov/orchestration_thoughts_on_dagster_airflow_and/?rdt=35989)
 
 #### Other
 * [Cloud Data Platforms](/cloud_data_platform)
