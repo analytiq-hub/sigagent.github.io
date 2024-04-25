@@ -78,6 +78,8 @@ title: Language Models
 * OpenAI
   * [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) (2023), [docs](https://platform.openai.com/docs/guides/fine-tuning)
   * [GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+* [LLama-Factory](https://github.com/hiyouga/LLaMA-Factory?tab=readme-ov-file)
+  * Aishwarya Naresh Reganti [LinkedIn post](https://www.linkedin.com/posts/areganti_genai-llms-finetuning-activity-7189246779328974848-5M0s?utm_source=share&utm_medium=member_desktop)
 
 #### Datasets
 * [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
