@@ -96,6 +96,7 @@ title: Cloud Data Platform
   * Netflix Tech Blog: [Open-Sourcing Metaflow, a Human-Centric Framework for Data Science](https://medium.com/netflix-techblog/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9) (2019)
   * A. Goblet: [A Review of Netflix’s Metaflow](https://medium.com/bigdatarepublic/a-review-of-netflixs-metaflow-65c6956e168d) (2019)
   * Ricardo Raspini Motta: [Kedro vs ZenML vs Metaflow: Which Pipeline Orchestration Tool Should You Choose?](https://neptune.ai/blog/kedro-vs-zenml-vs-metaflow) (2024)
+  * Ville Tuulos: [Metaflow: The ML Infrastructure at Netflix](https://www.youtube.com/watch?v=JCbOI_1ZA5E)
 * Petastorm
   * [Docs](https://petastorm.readthedocs.io/en/latest/index.html)
   * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
