@@ -94,6 +94,7 @@ title: Amazon Web Services
   * [Serverless on AWS Lambda: A Comprehensive Comparison Of Approaches (Serverless Framework vs SAM vs Terraform vs CloudFormation)](https://openupthecloud.com/serverless-approaches-comparison/)
 * SNS
   * A. Patel: [AWS — Difference between SQS and SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5) (2019)
+  * Be A Better Dev: [AWS SQS vs SNS vs EventBridge - When to Use What?](https://www.youtube.com/watch?v=RoKAEzdcr7k) (2022)
 
 * Organizations
   * [Managing Multi-Account AWS Environments Using AWS Organizations](https://www.youtube.com/watch?v=fxo67UeeN1A&t=14s) (2019)
