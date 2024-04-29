@@ -16,6 +16,7 @@ title: Paul Graham
 
 #### Other
 * [Entrepreneurship](/entrepreneurship)
+  * [Companies To Watch](/entrepreneurship/companies_to_watch)
   * [Funding](/entrepreneurship/funding)
   * [Paul Graham](/entrepreneurship/paul_graham)
   * [Sales](/entrepreneurship/sales)
