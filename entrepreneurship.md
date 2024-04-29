@@ -45,7 +45,9 @@ title: Entrepreneurship
   * [The Psychology of Entrepreneurial Misjudgment: Biases 1-6](https://pmarchive.com/psychology_of_entrepreneurial_misjudgment.html) (2008)
 * J. Vrionis, S. Hedge: [How to find product market fit: the counterintuitive secrets](https://www.unusual.vc/post/how-to-find-product-market-fit) (2023)
 * Sandeep Mishra: [Tinbergen’s four questions and variance explained: Why business (and all behavioral science) needs evolutionary theory](https://www.prosocial.world/posts/tinbergens-four-questions-and-variance-explained-why-business-and-all-behavioral-science-needs-evolutionary-theory) (2018)
-* Harj Taggar: [Conversation and Ideas](https://harj.posthaven.com/conversations-and-ideas) (2020)
+* Harj Taggar:
+  * [Conversation and Ideas](https://harj.posthaven.com/conversations-and-ideas) (2020)
+  * [Book Review: Creativity in Science](https://harj.posthaven.com/book-review-creativity-in-science) (2022)
 
 #### Talks
 * Aaron Harris: [How to Get Meetings with Investors and Raise Money by Aaron Harris](https://www.youtube.com/watch?v=Jzz4AEIddzY) (2018)
