@@ -62,7 +62,6 @@ title: Language Models
 * Eugene Yan:
   * Rishabh Agarwal et al: [Language Modeling Reading List (to Start Your Paper Club)](https://eugeneyan.com/writing/llm-reading-list/) (2024), Google Deep Mind
 
-
 #### Prompt Engineering
 * [Many-Shot In-Context Learning](https://arxiv.org/pdf/2404.11018)
 * Cameron Wolfe: [Modern Advances in Prompt Engineering](https://cameronrwolfe.substack.com/p/modern-advances-in-prompt-engineering) (2024)
@@ -72,6 +71,7 @@ title: Language Models
 
 #### Evaluation
 * Eugene Yan: [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/#evals-to-measure-performance) (2023)
+* Cameron Wolfe: [LinkedIn post on Evaluating LLMs](https://www.linkedin.com/feed/update/urn:li:activity:7188220212880592896/) (2024)
 
 #### Tech stack
 *  Matt Bornstein, Rajko Radovanovic: [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/) (2023)
