@@ -61,6 +61,7 @@ title: Language Models
 * [DSPy](https://github.com/stanfordnlp/dspy)
 * Eugene Yan:
   * Rishabh Agarwal et al: [Language Modeling Reading List (to Start Your Paper Club)](https://eugeneyan.com/writing/llm-reading-list/) (2024), Google Deep Mind
+* Cameron Wolfe: [LLaMa-3 "kitchen-sink" approach](https://twitter.com/cwolferesearch/status/1782801731383943452), tweet (2024)
 
 #### Prompt Engineering
 * [Many-Shot In-Context Learning](https://arxiv.org/pdf/2404.11018)
