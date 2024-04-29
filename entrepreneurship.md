@@ -48,6 +48,7 @@ title: Entrepreneurship
 * Harj Taggar:
   * [Conversation and Ideas](https://harj.posthaven.com/conversations-and-ideas) (2020)
   * [Book Review: Creativity in Science](https://harj.posthaven.com/book-review-creativity-in-science) (2022)
+  * [Convincing Engineers to Join Your Team](https://www.ycombinator.com/blog/convincing-engineers-to-join-your-team) (2018)
 
 #### Talks
 * Aaron Harris: [How to Get Meetings with Investors and Raise Money by Aaron Harris](https://www.youtube.com/watch?v=Jzz4AEIddzY) (2018)
