@@ -66,6 +66,9 @@ title: Language Models
 * [Many-Shot In-Context Learning](https://arxiv.org/pdf/2404.11018)
 * Cameron Wolfe: [Modern Advances in Prompt Engineering](https://cameronrwolfe.substack.com/p/modern-advances-in-prompt-engineering) (2024)
 
+#### RL for LLMs
+* Cameron Wolfe: [Q-Learning for LLMs](https://twitter.com/cwolferesearch/status/1727727148859797600), twitter post (2024)
+
 #### Explainability
 * OpenAI: S. Bills et al: [Language models can explain neurons in language models](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) (2023)
 
