@@ -11,6 +11,7 @@ title: Orchestrators
   * Nick Schrock
     * [DAIS21 Meetup: Introduction, Principles and Origin of Dagster](https://www.youtube.com/watch?v=iSximWLYUEg) (2021)
     * [Introducing External Assets and Dagster Pipes](https://www.youtube.com/watch?v=KVqyarPbCeU) (2023)
+* Paolo Leonard: [Deploying Dagster to AWS](https://medium.com/dataroots/deploying-dagster-to-aws-ee85bfe5f2bd) (2021)
 * Reviews
   * Sandy Ryza, Nick Schrock: [Dagster vs. Airflow](https://dagster.io/blog/dagster-airflow) (2022)
   * Reddit: [Orchestration: Thoughts on Dagster, Airflow and Prefect?](https://www.reddit.com/r/dataengineering/comments/13xkeov/orchestration_thoughts_on_dagster_airflow_and/?rdt=35989)
