@@ -27,6 +27,7 @@ title: Sales for Entrepreneurship
 
 #### Sales
 * [Mark Kitz blog](https://marckitz.com/)
+* JMolander: [LinkedIn Sales Navigator Review](https://jeffmolander.com/linkedin-sales-navigator-review/)
 
 #### Other
 * [Entrepreneurship](/entrepreneurship)
