@@ -30,7 +30,9 @@ title: Sales for Entrepreneurship
 * LinkedIn Sales Navigator
   * JMolander: [LinkedIn Sales Navigator Review](https://jeffmolander.com/linkedin-sales-navigator-review/)
   * Communications Edge: [Let's engage customers using curiosity](https://communications-edge.com/crash-course-registration/)
-  * [LinkedIn Sales Navigator Review: The good, the bad and the ugly](https://www.youtube.com/watch?v=YyLbv_Q6nf0)
+* Saurav from SalesRobot
+  * [LinkedIn Sales Navigator Review: The good, the bad and the ugly](https://www.youtube.com/watch?v=YyLbv_Q6nf0) (2024)
+  * [How we used multiple LinkedIn accounts to land 30+ new customers every month?](https://www.youtube.com/watch?v=E5u5_oao6xU) (2024)
 
 #### Other
 * [Entrepreneurship](/entrepreneurship)
