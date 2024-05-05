@@ -644,72 +644,69 @@ Everybody knows an Indian spends a lot on weddings. It's a known thing.
 
 People love to go to the Indian weddings. And they they keep hearing this - I'll give you an interesting data point. I checked in my office: most people spent close to six times their annual salary for their wedding, okay? But zero unicorn startups are solving wedding problems!
 
-But, that's the scary thing about the market. I met a founder who runs us a luggage company - a suitcases they build. It's a public listed company. And they wanted me to join their board.
+That's the scary thing about the market. I met a founder who runs us a luggage company - a suitcases they build. It's a public listed company. And they wanted me to join their board.
 
-And I'm, like Okay... I'm happy to meet, but I'm not joining a traditional business board. But i'm happy to have a conversation.
+And I'm, like Okay... I'm happy to meet, but I'm not joining a traditional business board. But I'm happy to have a conversation.
 
-And I was just giving them some suggestion: they should do some branding on the airport, and they're like what are you talking about?!
+And I was just giving them some suggestion: they should do some branding on the airport, and they're, like, Kunal, what are you talking about?...
 
 I'm, like, yeah you're a suitcase company! You should be at the airports! What am I not saying correct over here?!
 
-And he's, like - 80-83% of all suitcases in India are bought for weddings. The bride takes new suitcases, and goes to the new family. There are 4.4 million weddings that happen every year, and on average, close to three to four suitcases move with her to the new house.
+And he says, "Kunal:  80-83% of all suitcases in India are bought for weddings. The bride takes new suitcases, and goes to the new family. There are 4.4 million weddings that happen every year, and on average, close to three to four suitcases move with her to the new house!"
 
 I'm, like, I have no clue about these things!
 
-I met another founder who's building a interesting bio-hacking kind of a startup. And there's a non-treatment uh which improves the mitochondria growth rate in your thing
-it's a expensive treatment which is done usually for cancer patients or somebody with diabetic situation or whatever and
-this guy goes there that i want to try this for bio biohacking and the guy's like oh you're here for cancer he says no are
-you here for diabetes i said no the third question was are you here for because it's your wedding and it's like
-why is wedding important over here because that treatment makes your skin lighter for six months
-so a lot of people are doing that treatment which is so expensive usually done by cancer patient or severe
-diabetic patients to improve their skin tone for their wedding
-and that is the fascinating thing about india that so much of the economy is running through that because in india we are
-saving every penny all the time but we'll splurge on weddings
-we'll splurge on medical events will splurge on uh
-education of our kids every indian family right now who have just got new kids are going to spend
-probably 100 to 200 times more than what their parents spend for their education
-because that's what we spend money on the consumption is just not there so i think when you study these patterns
-what i realized that these patterns were not understood by indian founders they were just building western copies
-and therefore at one point of time i saw there were 10 startups that were funded for doing laundry startups
-which were popular in new york but in india we had maids coming at home why do we need a
-laundry startup but there were 10 companies that got funded so there were so many
-investors who were clueless so many founders who are living in india who are clueless
-so during that period i started working on a framework uh i call it the delta iv framework on predicting startup success
-because my curiosity was that how am i able to be successful more often when i'm not even
-one-tenth the academic smarts that some of these guys have demonstrated in the past but why am i able to do it more
-successfully so i built a framework and and because i was between two startups i
-had a time to read up on physics and biology and evolutionary biology and trust so i was going all over the place
-obviously i was on your blog and like i'm connecting all these dots in my head
-and i found that the evolution of startups was very similar to biological evolution and
-nobody was thinking like that so i'll give you a sneak preview of that that framework it's
-easier to understand but i'll tell you for example if i asked you friend that
-which product or service more efficient 20 years ago
-than it is today if you if i have asked you this question which product or service was more
-efficient 20 years ago than it is today it's really impossible to find an answer like it's there was nothing more
-uh more efficient all the efficiency exists in the future
-so humans are constantly moving from inefficiency to efficiency in one direction
-and like almost like arrow of time and and therefore any
-product or service that changes you from state a which is inefficient to state b should unlock something that is called
-as wealth so i built a simple framework which is sounds simple but most people still
-don't use it is let's say i asked you that what do you think is the efficiency score of booking a cap through uber on
-10 or versus the old method that existed of booking caps whatever that method was
-most people would say maybe this is seven eight on ten that is maybe two on
-ten one on ten three one ten so the framework is very simple that every time the delta of efficiency score is greater
-than equal to four three things happen uh
-it's an irreversible behavior once you experience a delta for product
-or service you cannot go back there is obviously very very high tolerance uh that's the second thing
-that you will hate uber but you're not gonna like damn it i'm gonna delete this app and i'm gonna move to
-a more inefficient behavior the third thing is which i call the ubp uh unique brag
-worthy proposition humans when they discover something delta four they can't
-stop bragging about it everywhere almost like a secret code that all
-humans have with each other that every time you discover delta iv brag about it and tell everybody about
-it and move the entire humanity from state a to state b which is more efficient
-which reduces their local entropy uh and and moves them forward to a more efficient medium which burns less energy
-uh than in any form time money uh or wealth uh to uh uh move forward to more
-efficient methods and i realized that most startups were not looking at this i'll give you a simple framework to think where it
-doesn't work for example let's say let's talk about buying shirts
-online versus offline it's not delta four if you have let's
-say odd sizes or and you have the challenge and therefore shirts have not moved completely online
+I met another founder who's building an interesting bio-hacking kind of a startup. And there's a new treatment uh which improves the mitochondria growth rate in your cells... It's a expensive treatment which is done usually for cancer patients, or somebody with diabetic situation, or whatever.
+
+And this guy goes to him and says: I want to try this bio-hacking... and the founder says, Oh you're here for cancer? He says no. Are you here for diabetes? I said no. The third question was: Are you because it's your wedding?
+
+And it's, like, why is wedding important over here? Because that treatment makes your skin lighter for six months, so a lot of people are doing that treatment, which is so expensive, usually done by cancer patient, or severe diabetic patients - to improve their skin tone for their wedding.
+
+That is the fascinating thing about India, that so much of the economy is running through that - because in India we are saving every penny all the time, but we'll splurge on weddings, we'll splurge on medical events, we'll splurge on education of our kids.
+
+Every Indian family right now who have just got new kids are going to spend probably 100 to 200 times more than what their parents spent for their education.
+
+That's what we spend money on. The consumption is just not there.
+
+So i think when you study these patterns, what i realized that these patterns were not understood by Indian founders. They were just building western copies,
+and therefore at one point of time I saw there were 10 startups that were funded for doing laundry startups - which were popular in New York. But in India, we had maids coming at home.
+
+Why do we need a laundry startup?! But there were 10 companies that got funded, so there were so many investors who were cluelessm so many founders who are living in India who are clueless...
+
+So during that period I started working on a framework - I call it the Delta 4 framework - on predicting startup success. My curiosity was - how am I able to be successful more often, when I'm not even one-tenth the academic smarts that some of these guys have demonstrated in the past - but why am I able to do it more
+successfully?
+
+So I built a framework, and because I was between two startups, I had a time to read up on physics, and biology, and evolutionary biology, and trust...
+
+So I was going all over the place. Obviously I was on your blog, and, like, I'm connecting all these dots in my head.
+
+And I found that the evolution of startups was very similar to biological evolution. And nobody was thinking like that.
+
+So I'll give you a sneak preview of that framework. It's easy to understand, but I'll tell you:
+
+For example, if I asked you which product or service was more efficient 20 years ago than it is today? It's really impossible to find an answer. There was nothing more efficient. All the efficiency exists in the future.
+
+So humans are constantly moving from inefficiency to efficiency in one direction, almost like arrow of time. And therefore any product or service that changes you from state A which is inefficient to state B should unlock something that is called wealth.
+
+So I built a simple framework, which sounds simple, but most people still don't use it.
+
+Let's say I asked you that what do you think is the efficiency score of booking a cab through Uber, on a scale of 10, versus the old method that existed of booking cabs, whatever that method was. Most people would say maybe this is seven eight on ten - and the old method is maybe two on ten, one on ten, three on ten.
+
+So the framework is very simple - that every time the delta of efficiency score is greater or equal to four, three things happen:
+
+It's an irreversible behavior: Once you experience a delta for product or service, you cannot go back there.
+
+It is obviously very very high tolerance - that's the second thing: that you will hate Uber, but you're not gonna, like, damn it! I'm gonna delete this app and i'm gonna move to a more inefficient behavior!
+
+The third thing, which I call the UBP - Unique Bragworthy Proposition is: Humans, when they discover something delta four, they can't stop bragging about it everywhere.
+
+It is almost like a secret code that all humans have with each other, that every time you discover delta 4, brag about it, and tell everybody about it. And move the entire humanity from state A to state B, which is more efficient. Which reduces their local entropy, and moves them forward to a more efficient medium which burns less in energy, in any form: time, money, or wealth.
+
+You move forward to more efficient methods. And I realized that most startups were not looking at this.
+
+I'll give you a simple framework to think where it doesn't work: for example, let's talk about buying shirts online versus offline. It's not delta four.
+
+If you have, let's say, odd sizes, or you have the challenge and therefore shirts have not moved completely online
 uh and many products will not be found because just by adding tech it doesn't
 become delta four right it has to improve the efficiency score of the desired behavior
 and i think that framework uh i talked about it in india funny enough i i was told by sequoia in
