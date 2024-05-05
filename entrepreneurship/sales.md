@@ -35,6 +35,7 @@ title: Sales for Entrepreneurship
   * [How we used multiple LinkedIn accounts to land 30+ new customers every month?](https://www.youtube.com/watch?v=E5u5_oao6xU) (2024)
   * [This hidden lead generation agency model made founders over $100k/month in 2023](https://www.youtube.com/watch?v=VVuiFsFAB0s) (2024)
   * [The Ideal Customer Persona Research for Salesrobot](https://docs.google.com/spreadsheets/d/1ZOn7_BFyVNr_eQ437Ex7K_HOLmnps-BFgJTMKVBjJLs/edit#gid=644876014)
+  * [LinkedIn account restricted? Asked to verify identity? Watch this video asap](https://www.youtube.com/watch?v=ObPHF7-4Kyo)
 
 #### Other
 * [Entrepreneurship](/entrepreneurship)
