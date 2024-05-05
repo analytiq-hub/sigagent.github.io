@@ -36,6 +36,7 @@ title: Sales for Entrepreneurship
   * [This hidden lead generation agency model made founders over $100k/month in 2023](https://www.youtube.com/watch?v=VVuiFsFAB0s) (2024)
   * [The Ideal Customer Persona Research for Salesrobot](https://docs.google.com/spreadsheets/d/1ZOn7_BFyVNr_eQ437Ex7K_HOLmnps-BFgJTMKVBjJLs/edit#gid=644876014)
   * [LinkedIn account restricted? Asked to verify identity? Watch this video asap](https://www.youtube.com/watch?v=ObPHF7-4Kyo)
+  * [18 LinkedIn profile optimization tips you need to know](https://www.youtube.com/watch?v=JluyYqRkQMg)
 
 #### Other
 * [Entrepreneurship](/entrepreneurship)
