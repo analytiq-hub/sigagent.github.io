@@ -28,6 +28,7 @@ title: Sales for Entrepreneurship
 #### Sales
 * [Mark Kitz blog](https://marckitz.com/)
 * JMolander: [LinkedIn Sales Navigator Review](https://jeffmolander.com/linkedin-sales-navigator-review/)
+* Communications Edge: [Let's engage customers using curiosity](https://communications-edge.com/crash-course-registration/)
 
 #### Other
 * [Entrepreneurship](/entrepreneurship)
