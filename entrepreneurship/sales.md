@@ -33,6 +33,7 @@ title: Sales for Entrepreneurship
 * Saurav from SalesRobot
   * [LinkedIn Sales Navigator Review: The good, the bad and the ugly](https://www.youtube.com/watch?v=YyLbv_Q6nf0) (2024)
   * [How we used multiple LinkedIn accounts to land 30+ new customers every month?](https://www.youtube.com/watch?v=E5u5_oao6xU) (2024)
+  * [This hidden lead generation agency model made founders over $100k/month in 2023](https://www.youtube.com/watch?v=VVuiFsFAB0s) (2024)
 
 #### Other
 * [Entrepreneurship](/entrepreneurship)
