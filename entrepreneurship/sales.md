@@ -48,7 +48,7 @@ title: Sales for Entrepreneurship
   * [ Apollo.io vs. Uplead vs. Sales Navigator vs. Zoominfo](https://www.youtube.com/watch?v=2BH4ZchM26U)
 * Lead IQ, ZoomInfo, Seamless - transfer lists out of LinkedIn Sales Navigator
 * [Snov](https://snov.io) social finder
-* Outreach, Sales Loft - sales outreach platform
+* Outreach, Sales Loft, [hunter.io](https://hunter.io/) - sales outreach platform
 * Sales Force, Hubspot, Zoho - CRMs
 
 #### Other
