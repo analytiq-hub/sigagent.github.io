@@ -38,6 +38,13 @@ title: Sales for Entrepreneurship
   * [LinkedIn account restricted? Asked to verify identity? Watch this video asap](https://www.youtube.com/watch?v=ObPHF7-4Kyo)
   * [18 LinkedIn profile optimization tips you need to know](https://www.youtube.com/watch?v=JluyYqRkQMg)
 
+#### Tools
+* LinkedIn Sales Navigator
+  * [LinkedIn Sales Navigator MASTERCLASS - Tutorial, Tips, Tricks, and Hacks to Find Leads](https://www.youtube.com/watch?v=8vnfIsGc2_g)
+* Lead IQ, ZoomInfo, Seamless - transfer lists out of LinkedIn Sales Navigator
+* Outreach, Sales Loft - sales outreach platform
+* Sales Force, Hubspot, Zoho - CRMs
+
 #### Other
 * [Entrepreneurship](/entrepreneurship)
   * [Companies To Watch](/entrepreneurship/companies_to_watch)
