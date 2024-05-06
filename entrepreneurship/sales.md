@@ -40,7 +40,7 @@ title: Sales for Entrepreneurship
 
 #### Tools
 * LinkedIn Sales Navigator
-  * [LinkedIn Sales Navigator MASTERCLASS - Tutorial, Tips, Tricks, and Hacks to Find Leads](https://www.youtube.com/watch?v=8vnfIsGc2_g)
+  * [Sales Feed](https://www.youtube.com/@Sales_Feed): [LinkedIn Sales Navigator MASTERCLASS - Tutorial, Tips, Tricks, and Hacks to Find Leads](https://www.youtube.com/watch?v=8vnfIsGc2_g)
 * Lead IQ, ZoomInfo, Seamless - transfer lists out of LinkedIn Sales Navigator
 * Outreach, Sales Loft - sales outreach platform
 * Sales Force, Hubspot, Zoho - CRMs
