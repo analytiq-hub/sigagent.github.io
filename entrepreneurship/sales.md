@@ -38,9 +38,13 @@ title: Sales for Entrepreneurship
   * [LinkedIn account restricted? Asked to verify identity? Watch this video asap](https://www.youtube.com/watch?v=ObPHF7-4Kyo)
   * [18 LinkedIn profile optimization tips you need to know](https://www.youtube.com/watch?v=JluyYqRkQMg)
 
+#### Lead Generation
+* [The Best Lead Generation Strategy For 2024](https://www.youtube.com/watch?v=YiW9t8TI8wA)
+
 #### Tools
 * LinkedIn Sales Navigator
   * [Sales Feed](https://www.youtube.com/@Sales_Feed): [LinkedIn Sales Navigator MASTERCLASS - Tutorial, Tips, Tricks, and Hacks to Find Leads](https://www.youtube.com/watch?v=8vnfIsGc2_g)
+* Apollo.io
 * Lead IQ, ZoomInfo, Seamless - transfer lists out of LinkedIn Sales Navigator
 * Outreach, Sales Loft - sales outreach platform
 * Sales Force, Hubspot, Zoho - CRMs
