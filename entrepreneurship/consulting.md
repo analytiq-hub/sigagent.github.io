@@ -9,6 +9,7 @@ title: Consulting
 #### Agencies
 * [Upwork](https://www.upwork.com/hire/landing/)
 * [Fiverr](https://www.fiverr.com/)
+* [Toptal](https://www.toptal.com/)
 
 #### Other
 * [Entrepreneurship](/entrepreneurship)
