@@ -6,6 +6,10 @@ title: Consulting
   * [Spotlight interview with Torc CEO, Mike Morris](https://www.torc.dev/blog/spotlight-interview-with-torc-ceo-mike-morris)
 * [How I started and built a software agency / dev shop / software house STEP BY STEP Guide 2024](https://www.youtube.com/watch?v=o8lMrGmIAX8)
 
+#### Agencies
+* [Upwork](https://www.upwork.com/hire/landing/)
+* [Fiverr](https://www.fiverr.com/)
+
 #### Other
 * [Entrepreneurship](/entrepreneurship)
   * [Companies To Watch](/entrepreneurship/companies_to_watch)
