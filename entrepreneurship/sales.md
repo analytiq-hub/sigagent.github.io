@@ -46,6 +46,7 @@ title: Sales for Entrepreneurship
   * [Sales Feed](https://www.youtube.com/@Sales_Feed): [LinkedIn Sales Navigator MASTERCLASS - Tutorial, Tips, Tricks, and Hacks to Find Leads](https://www.youtube.com/watch?v=8vnfIsGc2_g)
 * Apollo.io, Uplead
   * [ Apollo.io vs. Uplead vs. Sales Navigator vs. Zoominfo](https://www.youtube.com/watch?v=2BH4ZchM26U)
+    * Connect to Apollo, Zoominfo. Scrape full name, company name on a massive scale, with Octopus and Parsehub. Bring that data to enrichment providers like hunter.io, Snov. Plug it directly to your email campaign
 * Lead IQ, ZoomInfo, Seamless - transfer lists out of LinkedIn Sales Navigator
 * [Snov](https://snov.io) social finder
 * Outreach, Sales Loft, [hunter.io](https://hunter.io/) - sales outreach platform
