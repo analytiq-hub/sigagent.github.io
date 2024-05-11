@@ -9,6 +9,7 @@ title: Companies To Watch
 #### Other
 * [Entrepreneurship](/entrepreneurship)
   * [Companies To Watch](/entrepreneurship/companies_to_watch)
+  * [Consulting](/entrepreneurship/consulting)
   * [Funding](/entrepreneurship/funding)
   * [Marketing](/entrepreneurship/marketing)
   * [Paul Graham](/entrepreneurship/paul_graham)

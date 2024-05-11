@@ -197,6 +197,7 @@ title: Entrepreneurship
 
 #### Other
 * [Entrepreneurship](/entrepreneurship)
+  * [Consulting](/entrepreneurship/consulting)
   * [Funding](/entrepreneurship/funding)
   * [Marketing](/entrepreneurship/marketing)
   * [Paul Graham](/entrepreneurship/paul_graham)
