@@ -31,7 +31,9 @@ title: Digital Health
 * [AI + medicine - with Harvey Castro MD (GPT-4, Med-PaLM 2, Carbon Health, Ambience, 311 ChatGPT call)](https://www.youtube.com/watch?v=jTmkiGjrgpA)
 * Harvey Castro: [AI and Healthcare: A Google Cloud Perspective with Sofia Marta](https://twitter.com/i/broadcasts/1lPKqBBemjmGb)
 * [Flare Capilal Webinars](https://vimeo.com/user129343944)
-* Vijay Pande, Julie Yoo: [Grand Challenges in Healthcare AI](https://www.linkedin.com/feed/update/urn:li:activity:7183667534678667264/), a16z (2024)
+* Vijay Pande, Julie Yoo:
+  * [Grand Challenges in Healthcare AI](https://a16z.com/podcast/grand-challenges-in-healthcare-ai-with-vijay-pande-and-julie-yoo/), a16z (2024)
+  * [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7183667534678667264/)
 
 #### Companies
 * [Glass AI](https://glass.health), [NPR story](https://www.npr.org/sections/health-shots/2023/04/05/1167993888/chatgpt-medicine-artificial-intelligence-healthcare)
