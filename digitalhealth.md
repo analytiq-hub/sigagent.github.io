@@ -34,7 +34,8 @@ title: Digital Health
 * Vijay Pande, Julie Yoo:
   * [Grand Challenges in Healthcare AI](https://a16z.com/podcast/grand-challenges-in-healthcare-ai-with-vijay-pande-and-julie-yoo/), a16z (2024)
   * [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7183667534678667264/)
-* Julie Yoo: [The Most Interesting Healthcare Companies You've Never Heard Of with Julie Klapstein](https://a16z.com/podcast/the-biggest-healthcare-companies-youve-never-heard-of-with-julie-klapstein/), a16z (2024)
+* Julie Yoo
+  * [The Most Interesting Healthcare Companies You've Never Heard Of with Julie Klapstein](https://a16z.com/podcast/the-biggest-healthcare-companies-youve-never-heard-of-with-julie-klapstein/), a16z (2024)
 
 #### Companies
 * [Glass AI](https://glass.health), [NPR story](https://www.npr.org/sections/health-shots/2023/04/05/1167993888/chatgpt-medicine-artificial-intelligence-healthcare)
