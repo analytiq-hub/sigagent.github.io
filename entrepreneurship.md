@@ -9,6 +9,9 @@ title: Entrepreneurship
 * Patrick Campbell's <a href="https://www.profitwell.com/blog/all">blog</a> on freemium, SAAS revenue, marketing and sales strategy. If Patrick was not running a <a href="https://www.profitwell.com">business</a>, he could be an economics professor.
 * [BostInno](https://www.bizjournals.com/boston/inno): monthlly investment roundups, list of events
 * MassGeneral [Innovation Mesh Network](https://innovationmeshnetwork.org)
+* [Acquired](https://www.acquired.fm/) podcast
+  * [The Smartest People in the Room Are All Listening to the Same Podcast](https://www.wsj.com/business/media/acquired-podcast-tech-business-history-strategy-90e73603)
+  * [Visa](https://www.acquired.fm/episodes/visa) (Nov 2023)
 
 #### Books
 * Steve Blank: [The Four Steps to the Epiphany:  Successful Strategies for Products that Win](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/1119690358) (2007, fourth ed)
@@ -194,6 +197,7 @@ title: Entrepreneurship
 
 #### Other
 * [Entrepreneurship](/entrepreneurship)
+  * [Consulting](/entrepreneurship/consulting)
   * [Funding](/entrepreneurship/funding)
   * [Marketing](/entrepreneurship/marketing)
   * [Paul Graham](/entrepreneurship/paul_graham)

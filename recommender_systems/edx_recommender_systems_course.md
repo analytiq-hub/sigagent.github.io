@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: Recommender Systems: Behind the Screen - EdX Course
+title: Recommender Systems - Behind the Screen - EdX Course
 ---
 Notes on a [great course](https://learning.edx.org/course/course-v1:UMontrealX+RECM1EN+1T2021/home) on recommender systems.
 * Course [web page](https://www.livingmachinelearning.com/course.html)

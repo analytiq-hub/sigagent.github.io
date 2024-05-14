@@ -11,6 +11,7 @@ title: Marketing for Entrepreneurship
 #### Other
 * [Entrepreneurship](/entrepreneurship)
   * [Companies To Watch](/entrepreneurship/companies_to_watch)
+  * [Consulting](/entrepreneurship/consulting)
   * [Funding](/entrepreneurship/funding)
   * [Paul Graham](/entrepreneurship/paul_graham)
   * [Marketing](/entrepreneurship/marketing)

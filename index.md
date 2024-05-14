@@ -42,6 +42,8 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Embedded Programming](/embedded_programming)
 * [Engineering Skills](/engineering_skills)
 * [Entrepreneurship](/entrepreneurship)
+  * [Companies To Watch](/entrepreneurship/companies_to_watch)
+  * [Consulting](/entrepreneurship/consulting)
   * [Funding](/entrepreneurship/funding)
   * [Marketing](/entrepreneurship/marketing)
   * [Paul Graham](/entrepreneurship/paul_graham)
