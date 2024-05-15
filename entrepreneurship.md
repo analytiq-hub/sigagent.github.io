@@ -40,6 +40,12 @@ title: Entrepreneurship
 * Matthew Dixon, Ted McKenna: [The Jolt Effect: How High Performers Overcome Customer Indecision](https://www.amazon.com/JOLT-Effect-Performers-Overcome-Indecision/dp/0593538102) (2022)
 * Jimmy Soni: [The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley](https://www.amazon.com/Founders-Paypal-Entrepreneurs-Shaped-Silicon/dp/1501197266) (2022)
 * Ben Horowitz: [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) (2014)
+* [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/145558669), by Cal Newport (2016)
+* [Surrounded by Idiots](https://www.amazon.com/Surrounded-Idiots-Behavior-Effectively-Communicate/dp/1250179939/), by Thomas Erikson (2020)
+* [Burn the Boats](https://www.amazon.com/Burn-Boats-Overboard-Unleash-Potential/dp/006308886X) by Matt Higgins (2023)
+* [Leading without Authority](https://www.amazon.com/Leading-Without-Authority-Co-Elevation-Collaboration/dp/0525575669), by Keith Ferrazzi and Noel Weyrich (2020)
+* [The End of Average](https://www.amazon.com/End-Average-Unlocking-Potential-Embracing/dp/0062358375), by Todd Rose (2017)
+* [Disrupt You](https://www.amazon.com/Disrupt-You-Transformation-Opportunity-Innovation/dp/1250059372/), by Jay Samit
 
 #### Blog posts
 * Mark Andreesen (mirror of his 2007 now-defunct blog)
