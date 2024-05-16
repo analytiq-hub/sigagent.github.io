@@ -38,6 +38,7 @@ title: Digital Health
   * [The Most Interesting Healthcare Companies You've Never Heard Of with Julie Klapstein](https://a16z.com/podcast/the-biggest-healthcare-companies-youve-never-heard-of-with-julie-klapstein/), a16z (2024)
   * [Big Ideas in 2024: Democratizing “Miracle Drugs”](https://www.youtube.com/watch?v=iMQw5WTwWF0) (2024)
   * [A Look at How Andreessen Horowitz Invests in the Future of Health](https://www.youtube.com/watch?v=KGO1-ORBEKg) (2021)
+  * [Julie Yoo (CPO, Kyruus) on designing a better process for scheduling patients with](https://www.youtube.com/watch?v=GexsQ6xhVQ8) (2019)
 
 #### Companies
 * [Glass AI](https://glass.health), [NPR story](https://www.npr.org/sections/health-shots/2023/04/05/1167993888/chatgpt-medicine-artificial-intelligence-healthcare)
