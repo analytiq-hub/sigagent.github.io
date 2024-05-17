@@ -2,9 +2,13 @@
 layout: page
 title: Consulting
 ---
+#### Podcasts, Interviews
 * Torc
   * [Spotlight interview with Torc CEO, Mike Morris](https://www.torc.dev/blog/spotlight-interview-with-torc-ceo-mike-morris)
 * [How I started and built a software agency / dev shop / software house STEP BY STEP Guide 2024](https://www.youtube.com/watch?v=o8lMrGmIAX8)
+
+#### Training
+* [The 5 Most Popular Consulting Slides (and how to build them)](https://www.youtube.com/watch?v=RfEOrbbMwMU)
 
 #### Medtech
 * [Top 19 Medical Device Consultants & Consulting Firms](https://jake-jorgovan.com/blog/medical-device-consultants-consulting-firms)
