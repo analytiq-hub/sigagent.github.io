@@ -156,6 +156,7 @@ See [GPUs](/gpus) page
   * [Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning](https://www.youtube.com/watch?v=SGzMElJ11Cc), Lex Fridman Podcast #258 (2022)
   * [Demis Hassabis: DeepMind - AI, Superintelligence & the Future of Humanity](https://www.youtube.com/watch?v=Gfr50f6ZBvo) (2022)
   * [Chris Lattner: Future of Programming and AI](https://www.youtube.com/watch?v=pdJQ8iVTwj8) (2023)
+  * [Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet](https://www.youtube.com/watch?v=e-gwvmhyU7A) (2024)
 * Swix: [Bringing ML to the data, and Minimum Viable DevRel — Montana Low, PostgresML](https://www.youtube.com/watch?v=j8hE8-jZJGU) (2023)
 * Elad Gil:
   * Fireside Chat: [Emad Mostaque, CEO of Stability AI](https://www.youtube.com/watch?v=f9v5_7HjnAE) (2022)
