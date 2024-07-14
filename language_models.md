@@ -196,6 +196,7 @@ gradient for the vast majority of the parameters
 * Connor Shorten: [MemGPT Explained!](https://www.youtube.com/watch?v=nQmZmFERmrg) (2023), [paper](https://arxiv.org/pdf/2310.08560.pdf)
 * Connor Shorten: [Charles Packer on MemGPT](https://www.youtube.com/watch?v=rxjsbUiuOFo) (2023)
 * OpenAI: [A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y&t=276s) (2023)
+* Qingyun Wu et al: [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/pdf/2308.08155) (2023)
 
 #### Tools
 * [Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html), see [Langchain](/software_stacks/langchain)
