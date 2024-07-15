@@ -89,6 +89,7 @@ title: Language Models
   * [GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [LLama-Factory](https://github.com/hiyouga/LLaMA-Factory?tab=readme-ov-file)
   * Aishwarya Naresh Reganti [LinkedIn post](https://www.linkedin.com/posts/areganti_genai-llms-finetuning-activity-7189246779328974848-5M0s?utm_source=share&utm_medium=member_desktop)
+* [LiteLLM](https://github.com/BerriAI/litellm)
 
 #### Datasets
 * [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
