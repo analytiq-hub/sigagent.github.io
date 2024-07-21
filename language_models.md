@@ -75,6 +75,7 @@ title: Language Models
 
 #### Evaluation
 * Eugene Yan: [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/#evals-to-measure-performance) (2023)
+* Lianmin Zheng et al: [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685) (2023)
 * Cameron Wolfe: [LinkedIn post on Evaluating LLMs](https://www.linkedin.com/feed/update/urn:li:activity:7188220212880592896/) (2024)
 
 #### Tech stack
@@ -126,6 +127,7 @@ gradient for the vast majority of the parameters
 #### Code Generation
 * Ziyin Zhang et al: [Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code](https://arxiv.org/abs/2311.07989) (2023), [github](https://github.com/codefuse-ai/Awesome-Code-LLM)
 
+
 #### Courses
 * A. Karpathy: [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) (2023)
   * Github: [nanoGPT](https://github.com/karpathy/nanoGPT), Andrei's [fork](https://github.com/andrei-radulescu-banu/nanoGPT)
@@ -165,7 +167,6 @@ gradient for the vast majority of the parameters
     * [The Basics of AI-Powered (Vector) Search](https://cameronrwolfe.substack.com/p/the-basics-of-ai-powered-vector-search) (2024)
     * [Google Gemini: Fact or Fiction?](https://cameronrwolfe.substack.com/p/google-gemini-fact-or-fiction) (2023)
     * [Language understanding with BERT](https://cameronrwolfe.substack.com/p/language-understanding-with-bert) (2022)
-    * [Evaluating LLMs](https://www.linkedin.com/feed/update/urn:li:activity:7188220212880592896/) (2023)
   * X: [Generative large language models (LLMs) are based upon the decoder-only transformer architecture. Currently, these types of generative LLMs are incredibly popular. However, I use encoder-only architectures for 90% of use cases as a practitioner. Here’s why…](https://twitter.com/cwolferesearch/status/1745876867003920517) (2023)
 * Project Pro: [BERT NLP Model Explained for Complete Beginners](https://www.projectpro.io/article/bert-nlp-model-explained/558)
 * F. Gichere: [Sentiment Analysis of App Reviews: A Comparison of BERT, spaCy, TextBlob, and NLTK](https://francisgichere.medium.com/sentiment-analysis-of-app-reviews-a-comparison-of-bert-spacy-textblob-and-nltk-9016054d54dc) (2023)
