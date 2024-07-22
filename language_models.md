@@ -76,7 +76,9 @@ title: Language Models
 #### Evaluation
 * Eugene Yan: [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/#evals-to-measure-performance) (2023)
 * Lianmin Zheng et al: [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685) (2023)
-* Cameron Wolfe: [LinkedIn post on Evaluating LLMs](https://www.linkedin.com/feed/update/urn:li:activity:7188220212880592896/) (2024)
+* Cameron Wolfe:
+  * [LinkedIn post on Evaluating LLMs](https://www.linkedin.com/feed/update/urn:li:activity:7188220212880592896/) (2024)
+  * [Using LLMs for Evaluation](https://cameronrwolfe.substack.com/p/llm-as-a-judge)
 
 #### Tech stack
 *  Matt Bornstein, Rajko Radovanovic: [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/) (2023)
