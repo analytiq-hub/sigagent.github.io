@@ -62,6 +62,7 @@ title: Language Models
 * Eugene Yan:
   * Rishabh Agarwal et al: [Language Modeling Reading List (to Start Your Paper Club)](https://eugeneyan.com/writing/llm-reading-list/) (2024), Google Deep Mind
 * Cameron Wolfe: [LLaMa-3 "kitchen-sink" approach](https://twitter.com/cwolferesearch/status/1782801731383943452), tweet (2024)
+* Andrej Karpathy: [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU) (2024)
 
 #### Prompt Engineering
 * [Many-Shot In-Context Learning](https://arxiv.org/pdf/2404.11018)
