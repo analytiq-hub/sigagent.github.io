@@ -64,6 +64,7 @@ title: Language Models
 * Cameron Wolfe: [LLaMa-3 "kitchen-sink" approach](https://twitter.com/cwolferesearch/status/1782801731383943452), tweet (2024)
 * Andrej Karpathy: [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU) (2024)
 * Sebastian Raschka: [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) (2024)
+* Xu Owen He: [Mixture of A Million Experts](https://arxiv.org/pdf/2407.04153) (2024)
 
 #### Prompt Engineering
 * [Many-Shot In-Context Learning](https://arxiv.org/pdf/2404.11018)
