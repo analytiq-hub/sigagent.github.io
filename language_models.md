@@ -58,7 +58,6 @@ title: Language Models
 * [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/pdf/2204.02311.pdf), A. Chowdhery et al (2022)
 * [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/), G. Lample et al, Meta (2023)
 * [Code Llama: Open Foundation Models for Code](https://scontent.fphl1-1.fna.fbcdn.net/v/t39.2365-6/369856151_1754812304950972_1159666448927483931_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=BnkB4kcpz5AAX9Oc-m-&_nc_ht=scontent.fphl1-1.fna&oh=00_AfA9H1CFM3LjWZ-32bnJtejUJghfnG016Di5hJHGZGnonQ&oe=64ECB20F) (2023)
-* [DSPy](https://github.com/stanfordnlp/dspy)
 * Eugene Yan:
   * Rishabh Agarwal et al: [Language Modeling Reading List (to Start Your Paper Club)](https://eugeneyan.com/writing/llm-reading-list/) (2024), Google Deep Mind
 * Cameron Wolfe: [LLaMa-3 "kitchen-sink" approach](https://twitter.com/cwolferesearch/status/1782801731383943452), tweet (2024)
@@ -69,6 +68,10 @@ title: Language Models
 #### Prompt Engineering
 * [Many-Shot In-Context Learning](https://arxiv.org/pdf/2404.11018)
 * Cameron Wolfe: [Modern Advances in Prompt Engineering](https://cameronrwolfe.substack.com/p/modern-advances-in-prompt-engineering) (2024)
+
+#### DSPy
+* [DSPy](https://github.com/stanfordnlp/dspy)
+* [Prompt Engineering is Dead; Build LLM Applications with DSPy Framework](https://www.youtube.com/watch?v=D2HurSldDkE) (2024)
 
 #### RL for LLMs
 * Cameron Wolfe: [Q-Learning for LLMs](https://twitter.com/cwolferesearch/status/1727727148859797600), twitter post (2024)
