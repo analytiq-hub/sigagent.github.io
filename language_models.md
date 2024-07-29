@@ -71,8 +71,8 @@ title: Language Models
 
 #### DSPy
 * [DSPy](https://github.com/stanfordnlp/dspy)
-* [DSPy docs] (https://dspy-docs.vercel.app)
-* Matt Yates, Sephora, [Prompt Engineering is Dead; Build LLM Applications with DSPy Framework](https://www.youtube.com/watch?v=D2HurSldDkE) (2024)
+* [DSPy docs](https://dspy-docs.vercel.app)
+* Matt Yates, Sephora, [Prompt Engineering is Dead - Build LLM Applications with DSPy Framework](https://www.youtube.com/watch?v=D2HurSldDkE) (2024)
 
 #### RL for LLMs
 * Cameron Wolfe: [Q-Learning for LLMs](https://twitter.com/cwolferesearch/status/1727727148859797600), twitter post (2024)
