@@ -68,6 +68,7 @@ title: Language Models
 #### Prompt Engineering
 * [Many-Shot In-Context Learning](https://arxiv.org/pdf/2404.11018)
 * Cameron Wolfe: [Modern Advances in Prompt Engineering](https://cameronrwolfe.substack.com/p/modern-advances-in-prompt-engineering) (2024)
+* [promptingguide.ai](https://www.promptingguide.ai/)
 
 #### DSPy
 * [DSPy](https://github.com/stanfordnlp/dspy)
