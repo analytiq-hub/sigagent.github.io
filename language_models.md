@@ -299,6 +299,7 @@ gradient for the vast majority of the parameters
 * [Cognitive Science](/cognitive_science)
 * [Computation Theory](/computation_theory)
 * [Computational Topology](/computational_topology)
+* [Document Classification](/document_classification)
 * [Language Models](/language_models)
 * [Meta Learning](/meta_learning)
 * [Probabilities and Statistics](/probabilities_and_statistics)

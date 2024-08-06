@@ -38,6 +38,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Customer Relationship Management](/customer_relationship_management)
 * [Data Centers](/data_centers)
 * [Dev/Ops](/devops)
+* [Document Classification](/document_classification)
 * [EBooks](/ebooks)
 * [Embedded Programming](/embedded_programming)
 * [Engineering Skills](/engineering_skills)
