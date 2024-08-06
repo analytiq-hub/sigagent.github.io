@@ -5,6 +5,7 @@ title: Document Classification
 ---
 
 * Qaisar Tanvir: [Multi Page Document Classification using Machine Learning and NLP](https://towardsdatascience.com/multi-page-document-classification-using-machine-learning-and-nlp-ba6151405c03) (2021)
+* [Solving Modern Document Classification Challenges With Deep Learning - SOTA Document Classification Use Cases](https://www.width.ai/post/document-classification) (2022)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
