@@ -60,3 +60,4 @@ title: Sales for Entrepreneurship
   * [Marketing](/entrepreneurship/marketing)
   * [Paul Graham](/entrepreneurship/paul_graham)
   * [Sales](/entrepreneurship/sales)
+  * [Trends To Watch](/entrepreneurship/trends_to_watch)
