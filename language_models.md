@@ -272,7 +272,7 @@ gradient for the vast majority of the parameters
 * Maxime Labonne: [Fine-Tune Your Own Llama 2 Model in a Colab Notebook](https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html) (2023)
 
 #### RLHF, DPO
-* HuggingFace: [Reinforcement Learning from Human Feedback: From Zero to chatGPT ](https://www.youtube.com/watch?v=2MBJOuVq380) (2023)
+* HuggingFace: [Reinforcement Learning from Human Feedback: From Zero to chatGPT ](https://www.youtube.com/watch?v=2MBJOuVq380) (2023), [blog post](https://huggingface.co/blog/rlhf), [slides](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUMxOHpGR3JyS29iS1Z4YjF6X2ZfRDAxamNaQXxBQ3Jtc0ttZ3hWX1lFRFJjOFZrXzhOVmZRQUlhcXA5VnNpVGt1Zkw0SkVNTEhJRWg3WTBLZC15SGZ6NDdCdlZBX1ZrbEU4eVp4Zmp1U2N5M185NDZRLTNkWVRPOGVTV2dBeU9tREktMlpSUnRUWEpSVlRqSkNzbw&q=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1eI9PqRJTCFOIVihkig1voRM4MHDpLpCicX9lX1J2fqk%2Fedit%3Fusp%3Dsharing&v=2MBJOuVq380)
 * HuggingFace: [Aligning LLMs with Direct Preference Optimization](https://www.youtube.com/watch?v=QXVCqtAZAn4) (2024)
 
 #### Evaluation
