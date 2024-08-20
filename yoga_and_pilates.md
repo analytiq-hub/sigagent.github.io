@@ -16,7 +16,7 @@ title: Yoga and Pilates
   * Stu Girling: [The Yoga Anatomy Interview with David Keil](https://www.youtube.com/watch?v=m0Eq5qmIQgU&t=425s)
   * Stu Girling: [Ashtanga Everyday Essentials with Deepika Mehta](https://www.youtube.com/watch?v=jCSnfbgj4u0) (2018)
 * Hip flexibility
-  * [30m stretch routine](https://www.youtube.com/watch?v=RvCntPg7oPE) (2021)
+  * Move With Nicole: [30m stretch routine](https://www.youtube.com/watch?v=RvCntPg7oPE) (2021)
   * Boho Beautiful: [Yoga for Flexibility. Stretch Yoga To Achieve The Splits & Release Tight Hips](https://www.youtube.com/watch?v=IZCJiTqdPm8&list=PLb09q0R7gAwRDiIjDHWMKqVPxE79AIWx0&index=3) (2000), hard
   * Bethany Lyons: [Hip-Opening Yoga](https://www.youtube.com/watch?v=gDU22gRb5wM) (2021), 15m
 * Abs
