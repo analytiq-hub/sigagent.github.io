@@ -271,7 +271,14 @@ gradient for the vast majority of the parameters
   * Sean Owen: [Fine-Tuning Large Language Models with Hugging Face and DeepSpeed](https://www.databricks.com/blog/2023/03/20/fine-tuning-large-language-models-hugging-face-and-deepspeed.html) (2023)
 * Maxime Labonne: [Fine-Tune Your Own Llama 2 Model in a Colab Notebook](https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html) (2023)
 
-### Open Source Movement
+#### RLHF, DPO
+* HuggingFace: [Reinforcement Learning from Human Feedback: From Zero to chatGPT ](https://www.youtube.com/watch?v=2MBJOuVq380) (2023)
+* HuggingFace: [Aligning LLMs with Direct Preference Optimization](https://www.youtube.com/watch?v=QXVCqtAZAn4) (2024)
+
+#### Evaluation
+* Arthur AI: [LLMs for Evaluating LLMs](https://www.youtube.com/watch?v=jW290vZThgw)(2024)
+
+#### Open Source Movement
 * Andrej Karpathy tweet: [Roughly speaking the story as of now](https://twitter.com/karpathy/status/1654892810590650376?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), Apr 2023
   
 
