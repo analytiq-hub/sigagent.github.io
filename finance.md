@@ -23,6 +23,7 @@ title: Finance
 * [Language Models](/language_models)
 * [Machine Learning](/machine_learning)
   * [Huggingface](/machine_learning/huggingface)
+* [Market Trading](/market_trading)
 * [Meta Learning](/meta_learning)
 * [MLOps](/mlops)
 * [Probabilities and Statistics](/probabilities_and_statistics)
