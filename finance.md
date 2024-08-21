@@ -5,6 +5,7 @@ title: Finance
 
 #### LLMs in Finance
 * Sparkline Capital: [AI Financial Analysts](https://www.sparklinecapital.com/post/ai-financial-analysts) (2024)
+* Alex G. Kim et al: [Financial Statement Analysis with Large Language Models](https://bfi.uchicago.edu/wp-content/uploads/2024/05/BFI_WP_2024-65.pdf) (2024)
 
 #### Books
 * See [Market Trading](/market_trading)
