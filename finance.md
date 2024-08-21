@@ -7,7 +7,7 @@ title: Finance
 * Sparkline Capital: [AI Financial Analysts](https://www.sparklinecapital.com/post/ai-financial-analysts) (2024)
 
 #### Books
-* TO DO: add books
+* See [Market Trading](/market_trading)
 
 #### Links
 * [Artificial Intelligence](/artificial_intelligence)
