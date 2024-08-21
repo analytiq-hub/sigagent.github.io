@@ -50,7 +50,7 @@ title: Yoga and Pilates
   * [30m pilates yoga workout - full body stretch and strengthen](https://www.youtube.com/watch?v=lytHuRfbKdg)
 * Strength & Stretch
   * Boho Beautiful: [Morning Yoga Workout](https://www.youtube.com/watch?v=oX6I6vs1EFs)
-  * Julia Reppel: [25 Min. Full Body Mobility Workout - Circuit Training](https://www.youtube.com/watch?v=jPdft5H34C8) (2022)
+  * [Julia Reppel](https://www.youtube.com/@julia.reppel): [25 Min. Full Body Mobility Workout - Circuit Training](https://www.youtube.com/watch?v=jPdft5H34C8) (2022)
   * Kate Amber: [30 Min Deep Yoga Stretch - Full Body Yoga for Flexibility](https://www.youtube.com/watch?v=FsYtlVrX7L8) (2024)
 * Cardio
   * Boho Beautiful: [10m yoga sequence to boost up metabolism](https://www.youtube.com/watch?v=YhmOcg17y98) (2018)
