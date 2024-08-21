@@ -51,6 +51,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Sales](/entrepreneurship/sales)
   * [Trends To Watch](/entrepreneurship/trends_to_watch)
 * [Film](/film)
+* [Finance](/finance)
 * [Game Theory](/game_theory)
 * [GPUs](/gpus)
 * [GraphQL](/graph_ql)

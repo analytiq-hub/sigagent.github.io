@@ -307,6 +307,7 @@ gradient for the vast majority of the parameters
 * [Computation Theory](/computation_theory)
 * [Computational Topology](/computational_topology)
 * [Document Classification](/document_classification)
+* [Finance](/finance)
 * [Language Models](/language_models)
 * [Meta Learning](/meta_learning)
 * [Probabilities and Statistics](/probabilities_and_statistics)
