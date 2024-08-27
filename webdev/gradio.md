@@ -22,5 +22,6 @@ title: Gradio
 * [Webdev](/webdev)
   * [Dash](/webdev/dash)
   * [Gradio](/webdev/gradio)
+  * [Next.js](/webdev/next_js)
   * [Streamlit](/webdev/streamlit)
   * [Vercel](/webdev/vercel)

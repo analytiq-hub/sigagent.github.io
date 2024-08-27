@@ -127,6 +127,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Webdev](/webdev)
   * [Dash](/webdev/dash)
   * [Gradio](/webdev/gradio)
+  * [Next.js](/webdev/next_js)
   * [Streamlit](/webdev/streamlit)
   * [Vercel](/webdev/vercel)
   * [Vue](/webdev/vue)

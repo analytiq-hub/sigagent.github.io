@@ -1,12 +1,11 @@
 ---
 layout: page
 mathjax: true
-title: Vercel
+title: Next.js
 ---
-[Vercel](https://vercel.com/)
 
-#### Docs
-* Vercel [docs](https://vercel.com/docs)
+#### Tutorials
+* Programmin with Mosh: [Next js Tutorial for Beginners: Nextjs 13 (App Router) with TypeScript]()
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
