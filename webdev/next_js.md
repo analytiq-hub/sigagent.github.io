@@ -5,7 +5,8 @@ title: Next.js
 ---
 
 #### Tutorials
-* Programmin with Mosh: [Next js Tutorial for Beginners: Nextjs 13 (App Router) with TypeScript]()
+* Programmin with Mosh: [Next js Tutorial for Beginners: Nextjs 13 (App Router) with TypeScript](https://www.youtube.com/watch?v=ZVnjOPwW4ZA)
+* Codeversity: [DaisyUI and Tailwind CSS Crash Course](https://www.youtube.com/watch?v=th8OswsAq6Q)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
