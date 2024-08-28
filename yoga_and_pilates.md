@@ -35,6 +35,8 @@ title: Yoga and Pilates
   * [How to do a Handstand for Beginners Step by Step at Home](https://www.youtube.com/watch?v=8jXiQMh6Sc0) (2017)
 * Knee
   * Stu Girling: [Yoga and Knee Pain/Injury/Relief Exercises](https://www.youtube.com/watch?v=S6g7M2FDFgA)
+* Flow
+  * [Charlie Follows](https://www.youtube.com/@CharlieFollows): [30M Energising Morning Flow](https://www.youtube.com/watch?v=FGrzapAAmWk) (2024)
 * Pilates
   * [Full Length Total Body Barre Workout - 40 Minutes](https://www.youtube.com/watch?v=NtwAHL_F2p8&t=1602s)
   * Eleni Fit:
@@ -43,6 +45,7 @@ title: Yoga and Pilates
     * [45 Min Full Body Pilates HIIT](https://www.youtube.com/watch?v=ciACs4HAQfg)
   * Move with Nicole:
     * [25 Min Pilates Core & Abs Workout](https://www.youtube.com/watch?v=mREx1RkRv5g) (2022)
+  * [Evolv Yoga](https://www.youtube.com/@evolv_yoga): [30m Advanced Power Yoga Flow](https://www.youtube.com/watch?v=7ht3DzPJ3Iw)
 * Caroline Girvan: [EPIC Program](https://www.youtube.com/playlist?list=PLhu1QCKrfgPW3VAMHM-wefcO4ZyXf6cwt) (2022)
 * Full body
   * [40m dancer workout](https://www.youtube.com/watch?v=CxfAULXP8SM), [35m full body barre](https://www.youtube.com/watch?v=TC3HV61YoOg)
