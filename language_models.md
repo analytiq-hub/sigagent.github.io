@@ -70,10 +70,11 @@ title: Language Models
 * Cameron Wolfe: [Modern Advances in Prompt Engineering](https://cameronrwolfe.substack.com/p/modern-advances-in-prompt-engineering) (2024)
 * [promptingguide.ai](https://www.promptingguide.ai/)
 
-#### DSPy
+#### Compound LLMs
 * [DSPy](https://github.com/stanfordnlp/dspy)
 * [DSPy docs](https://dspy-docs.vercel.app)
 * Matt Yates, Sephora, [Prompt Engineering is Dead - Build LLM Applications with DSPy Framework](https://www.youtube.com/watch?v=D2HurSldDkE) (2024)
+* L. Chen, B. Hanin et al: [Are More LM Calls All You Need? Towards the Scaling Properties of Compound AI Systems](https://arxiv.org/pdf/2403.02419) (2024)
 
 #### RL for LLMs
 * Cameron Wolfe: [Q-Learning for LLMs](https://twitter.com/cwolferesearch/status/1727727148859797600), twitter post (2024)
