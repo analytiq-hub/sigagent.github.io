@@ -182,6 +182,7 @@ gradient for the vast majority of the parameters
   * X: [Generative large language models (LLMs) are based upon the decoder-only transformer architecture. Currently, these types of generative LLMs are incredibly popular. However, I use encoder-only architectures for 90% of use cases as a practitioner. Here’s why…](https://twitter.com/cwolferesearch/status/1745876867003920517) (2023)
 * Project Pro: [BERT NLP Model Explained for Complete Beginners](https://www.projectpro.io/article/bert-nlp-model-explained/558)
 * F. Gichere: [Sentiment Analysis of App Reviews: A Comparison of BERT, spaCy, TextBlob, and NLTK](https://francisgichere.medium.com/sentiment-analysis-of-app-reviews-a-comparison-of-bert-spacy-textblob-and-nltk-9016054d54dc) (2023)
+* B. Etienne: [A Complete Guide to Write your own Transformers](https://towardsdatascience.com/a-complete-guide-to-write-your-own-transformers-29e23f371ddd) (2024)
 
 #### Talks
 * [Advanced Natural Language Processing with Apache Spark NLP](https://www.youtube.com/watch?v=V9NBkxvSZmU&t=237s) (2021)
