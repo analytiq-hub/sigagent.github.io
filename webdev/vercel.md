@@ -8,6 +8,9 @@ title: Vercel
 #### Docs
 * Vercel [docs](https://vercel.com/docs)
 
+#### Tutorials
+* Developer Digest: [Build a Next.JS Answer Engine with Vercel AI SDK, Groq, Mistral, Langchain, OpenAI, Brave & Serper](https://www.youtube.com/watch?v=kFC-OWw7G8k) (2024)
+
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
 * [Autonomous Agents](/autonomous_agents)
