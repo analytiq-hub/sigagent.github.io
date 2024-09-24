@@ -130,7 +130,6 @@ title: Entrepreneurship
   * [How To Make Your Personal Assets Invisible](https://www.youtube.com/watch?v=Zj863oFxK7c)
   * [What is a Living Trust and What are the Benefits? (Living Trust 101)](https://www.youtube.com/watch?v=58_TYglpkUU)
 
-
 #### Funding
 * See [Funding for Entrepreneurship](/entrepreneurship/funding)
 * [DOD Grants](https://www.grants.gov/search-grants.html?agencyCode=DOD)
@@ -144,6 +143,11 @@ title: Entrepreneurship
 
 #### Management
 * Andreas Klinger: [How to use Gmail more efficiently](https://klinger.io/posts/how-to-use-gmail-more-efficiently) (2013)
+
+#### Startup Surveys
+* [The Perplexity AI Approach](https://docs.google.com/document/d/1EoNhgszwNzVFwxlJWyk40NFYWG7B1wk_FgsqpfSNG9s)
+* [AI Startups in Accounting](https://docs.google.com/document/d/1J4z52KK_EDEAPRXoe-NSbcv-VtBwl77W2fzooourRNU)
+* [ERP Systems](https://docs.google.com/document/d/1JA4ahZzVQrm6UPHYteyB_U1BV5XtNPbNdbw8Ut9wvq8)
 
 #### Pitching in Boston
 * [Startupalooza: Pitch Angel VCs at CIC Boston](https://cic.com/new-events/https/wwweventbritecom/e/pitch-angel-vcs-at-cic-boston-free-capital-raising-workshop-tickets-54868682707discountcic), [meetup](https://www.meetup.com/startupalooza/)
