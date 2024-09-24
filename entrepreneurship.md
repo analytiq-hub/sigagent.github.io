@@ -122,7 +122,7 @@ title: Entrepreneurship
   * [Episode 4: Raising money in the midwest vs raising money on the coasts](https://www.youtube.com/watch?v=UxREnD5HglA)
   * [Episode 5: Smart money vs dumb money, why you need both](https://www.youtube.com/watch?v=jZa_vpteQMM)
   * [Episode 6: Most CFOs suck, and this is why](https://www.youtube.com/watch?v=LZmih89nC7c)
-  * [Episode 7: Trends in accounting. Difference in market services between bookkeeper, accountant, CFO. Hire slower, fire faster. A conversation with serial entrepreneur, Michael Ly])(https://www.youtube.com/watch?v=u-fnz1gQzKE)
+  * [Episode 7: Trends in accounting. Difference in market services between bookkeeper, accountant, CFO. Hire slower, fire faster. A conversation with serial entrepreneur, Michael Ly](https://www.youtube.com/watch?v=u-fnz1gQzKE)
 
 #### LLCs
 * Jim Hart:
