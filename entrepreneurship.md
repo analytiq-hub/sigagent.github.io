@@ -58,6 +58,13 @@ title: Entrepreneurship
   * [Book Review: Creativity in Science](https://harj.posthaven.com/book-review-creativity-in-science) (2022)
   * [Convincing Engineers to Join Your Team](https://www.ycombinator.com/blog/convincing-engineers-to-join-your-team) (2018)
 
+#### Meetups in Boston
+* [AI Tinkerers](https://boston.aitinkerers.org/p/ai-tinkerers-september-meetup-sponsored-by-basistech)
+* [AI Camp](https://www.aicamp.ai/)
+
+#### Hackathons
+* [HackMIT](https://ballot.hackmit.org/gallery?page=8)
+
 #### Talks
 * Aaron Harris: [How to Get Meetings with Investors and Raise Money by Aaron Harris](https://www.youtube.com/watch?v=Jzz4AEIddzY) (2018)
 * Blitzscaling 08: [Eric Schmidt on Structuring Teams and Scaling Google](https://www.youtube.com/watch?v=hcRxFRgNpns) (2015)
