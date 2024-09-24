@@ -115,6 +115,15 @@ title: Entrepreneurship
   * CRED curious: [Nithin Kamath in conversation with Kunal Shah](https://www.youtube.com/watch?v=1ExWh4zm1zg) (2020)
   * CRED curious: [Anand Gandhi in conversation with Kunal Shah](https://www.youtube.com/watch?v=gf09vjWp3E4) (2021) - the Biology of Money
   * SparX by Mukesh Bansai: [Risks, Growth, and Ethics of Entrepreneurship - Kunal Shah](https://www.youtube.com/watch?v=Fx1LdidhY3A) (2023)
+* The Real Slim Fady Show (2024)
+  * [Episode 1: Finance is the last role companies hire: why that's dangerous & smart. | Clockwork AI](https://www.youtube.com/watch?v=AmUOSPYNEcU)
+  * [Episode 2: Bootstrapping vs Using VC Money](https://www.youtube.com/watch?v=pNth5W5iVzk)
+  * [Episode 3: The difference between a CEO and a CFO mindset](https://www.youtube.com/watch?v=xzE8hf12z4Q)
+  * [Episode 4: Raising money in the midwest vs raising money on the coasts](https://www.youtube.com/watch?v=UxREnD5HglA)
+  * [Episode 5: Smart money vs dumb money, why you need both](https://www.youtube.com/watch?v=jZa_vpteQMM)
+  * [Episode 6: Most CFOs suck, and this is why](https://www.youtube.com/watch?v=LZmih89nC7c)
+  * [Episode 7: Trends in accounting. Difference in market services between bookkeeper, accountant, CFO. Hire slower, fire faster. A conversation with serial entrepreneur, Michael Ly])(https://www.youtube.com/watch?v=u-fnz1gQzKE)
+
 
 #### LLCs
 * Jim Hart:
