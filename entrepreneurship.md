@@ -115,7 +115,8 @@ title: Entrepreneurship
   * CRED curious: [Nithin Kamath in conversation with Kunal Shah](https://www.youtube.com/watch?v=1ExWh4zm1zg) (2020)
   * CRED curious: [Anand Gandhi in conversation with Kunal Shah](https://www.youtube.com/watch?v=gf09vjWp3E4) (2021) - the Biology of Money
   * SparX by Mukesh Bansai: [Risks, Growth, and Ethics of Entrepreneurship - Kunal Shah](https://www.youtube.com/watch?v=Fx1LdidhY3A) (2023)
-* The Real Slim Fady Show (2024)
+* [Fady Hawatmeh](https://www.linkedin.com/in/fadyhawatmeh/) - The Real Slim Fady Show (2024)
+  * [Fady Hawatmeh on Entrepreneurship](https://www.linkedin.com/pulse/fady-hawatmeh-entrepreneurship-andrei-radulescu-banu-4wpxe), my blog post abour his podcast
   * [Episode 1: Finance is the last role companies hire: why that's dangerous & smart](https://www.youtube.com/watch?v=AmUOSPYNEcU)
   * [Episode 2: Bootstrapping vs Using VC Money](https://www.youtube.com/watch?v=pNth5W5iVzk)
   * [Episode 3: The difference between a CEO and a CFO mindset](https://www.youtube.com/watch?v=xzE8hf12z4Q)
