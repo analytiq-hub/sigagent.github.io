@@ -206,6 +206,7 @@ title: Self Driving Cars
     * [SOAFEE](https://soafee.io/) framework.
       * Reference implementation developed under MIT license.
     * Virtual target initiative
+* Eddie Forson: [Teaching Cars To Drive — Highway Path Planning](https://towardsdatascience.com/teaching-cars-to-drive-highway-path-planning-109c49f9f86c) (2018)
 
 #### Products, Companies
 * Aurora
