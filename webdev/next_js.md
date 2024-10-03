@@ -8,6 +8,7 @@ title: Next.js
 * Programmin with Mosh: [Next js Tutorial for Beginners: Nextjs 13 (App Router) with TypeScript](https://www.youtube.com/watch?v=ZVnjOPwW4ZA)
 * Codeversity: [DaisyUI and Tailwind CSS Crash Course](https://www.youtube.com/watch?v=th8OswsAq6Q)
 * Dave Gray: [Web Dev Roadmap for Beginners](https://courses.davegray.codes/)
+* Jack Herrington: [Next-Auth on App Router - Solid Auth, Super Fast](https://www.youtube.com/watch?v=md65iBX5Gxg)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
