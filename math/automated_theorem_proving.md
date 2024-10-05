@@ -48,6 +48,7 @@ title: Automated Theorem Proving
 #### Papers
 * [Robert Harper](http://www.cs.cmu.edu/~rwh/)
 * [Anders Mortberg](https://staff.math.su.se/anders.mortberg/): [Synthetic Cohomology Theory in Cubical Agda](https://staff.math.su.se/anders.mortberg/papers/zcohomology.pdf) (2023)
+* Nature: [Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6) B Romera-Pardes et al (2023)
 
 #### Seminars
 * Harvard CMSA: [New Technologies in Mathematics](https://www.youtube.com/watch?v=5AoOpFFjW28)
