@@ -10,6 +10,7 @@ title: Next.js
 * Dave Gray: [Web Dev Roadmap for Beginners](https://courses.davegray.codes/)
 * Jack Herrington: [Next-Auth on App Router - Solid Auth, Super Fast](https://www.youtube.com/watch?v=md65iBX5Gxg)
 * Tapas Adhikary: [Next.js Authentication - Register User To MongoDB With Next-Auth V5](https://www.youtube.com/watch?v=5kmZAqc2Jeg) (2024)
+* Ahmed Bouchefra: [NextAuth.js Authentication With MongoDB](https://www.mongodb.com/developer/languages/typescript/nextauthjs-authentication-mongodb/) (2024)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
