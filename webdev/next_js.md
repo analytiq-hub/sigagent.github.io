@@ -9,6 +9,7 @@ title: Next.js
 * Codeversity: [DaisyUI and Tailwind CSS Crash Course](https://www.youtube.com/watch?v=th8OswsAq6Q)
 * Dave Gray: [Web Dev Roadmap for Beginners](https://courses.davegray.codes/)
 * Jack Herrington: [Next-Auth on App Router - Solid Auth, Super Fast](https://www.youtube.com/watch?v=md65iBX5Gxg)
+* Tapas Adhikary: [Next.js Authentication - Register User To MongoDB With Next-Auth V5](https://www.youtube.com/watch?v=5kmZAqc2Jeg) (2024)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
