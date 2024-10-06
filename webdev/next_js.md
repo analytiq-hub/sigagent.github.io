@@ -13,6 +13,7 @@ title: Next.js
 * Ahmed Bouchefra: [NextAuth.js Authentication With MongoDB](https://www.mongodb.com/developer/languages/typescript/nextauthjs-authentication-mongodb/) (2024)
 * Aaron A: [How to use Mongodb Adapter with CredentialsProvider in NextAuth](https://dev.to/aaronaira/how-to-use-mongodb-adapter-with-credentialsprovider-in-nextauth-48hh) (2023)
 * [NextAuth Course, signin fb, twitter, auth0, google, github and email. Firebase and mongodb adapter](https://www.youtube.com/watch?v=uLjS5DVgSvc) (2023)
+* [Authentication in Next.js 14 with NextAuth.js](https://www.pedroalonso.net/blog/authentication-nextjs-with-nextauth/) (2024)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
