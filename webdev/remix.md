@@ -1,22 +1,11 @@
 ---
 layout: page
 mathjax: true
-title: Vue
+title: Remix
 ---
-[Vue.js](https://vuejs.org/)
 
 #### Docs
-* Vue [docs](https://vuejs.org/guide/introduction.html)
-
-#### Books
-
-#### Tools
-* [Vuetify UI Kit for Figma](https://store.vuetifyjs.com/collections/ui-kits/products/vuetify-ui-kit-figma)
-* [Ultimate Figma UiKit For Vuetify](https://store.vuetifyjs.com/products/ultimate-figma-uikit-for-vuetify-1?variant=43418187366622)
-
-#### Tutorials
-* Travesty Media: [Vue JS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs) (2021)
-* Bitfumes: [Vuetify 3 - You need no design skills just Vue3](https://www.youtube.com/watch?v=MWSP6PGHAb4)
+* [Remix](https://remix.run/)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
