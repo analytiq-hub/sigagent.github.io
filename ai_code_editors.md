@@ -11,6 +11,7 @@ title: AI Code Editors
   * [Cursor Team: Future of Programming with AI](https://www.youtube.com/watch?v=oFfVt3S51T4) (2024)
 * Blog
   * Arvid: [Shadow Workspace: Iterating on Code in the Background](https://www.cursor.com/blog/shadow-workspace) (2024)
+  * [Problems](https://www.cursor.com/blog/problems-2023) (Oct 2023)
 
 
 #### Other
