@@ -1,12 +1,10 @@
 ---
 layout: page
 mathjax: true
-title: Gradio
+title: LabelStudio
 ---
-[Gradio](https://www.gradio.app/)
-
-#### Docs
-* Gradio [docs](https://www.gradio.app/docs/interface)
+[LabelStudio](https://labelstud.io/)
+* [How To Build Custom Frontends with Label Studio](https://www.youtube.com/watch?v=TEtPUjBlM2M) (2021)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)

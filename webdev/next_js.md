@@ -29,6 +29,7 @@ title: Next.js
 * [Webdev](/webdev)
   * [Dash](/webdev/dash)
   * [Gradio](/webdev/gradio)
+  * [LabelStudio](/webdev/label_studio)
   * [Next.js](/webdev/next_js)
   * [Remix](/webdev/remix)
   * [Streamlit](/webdev/streamlit)
