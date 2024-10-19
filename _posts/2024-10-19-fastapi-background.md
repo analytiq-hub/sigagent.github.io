@@ -10,9 +10,9 @@ I needed my FastAPI backend to spawn background jobs, for example, to run OCR, N
 
 The details of the front end don't matter here. But, importantly, the system uses a MongoDB database back end.
 
-My question was - what options are available, in this case, for architecting the background jobs?
+My question was - what were the options available, in this case, for architecting the background jobs?
 * These jobs could take anywhere between a few seconds and a minute to complete.
-* And, load varies. Jobs can stay idle a while, then ramp up and have to handle load pretty fast.
+* Load varies. Jobs can stay idle a while, then ramp up and have to handle load at scale, sometimes with hundreds of requests in parallel.
 
 #### Queues implemented on top of MongoDB
 
