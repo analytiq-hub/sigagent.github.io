@@ -262,4 +262,4 @@ In this modified version:
 
 You can run multiple instances of this script, and each will operate independently, picking up jobs as they become available. The `find_one_and_update()` operation ensures that each job is only processed by one worker, even when multiple workers are running simultaneously.
 
-_(Code examples generated with Claude in the Cursor text editor)_
+_(Code examples generated with [Claude](https://claude.ai) in the [Cursor](https://www.cursor.com/) text editor)_
