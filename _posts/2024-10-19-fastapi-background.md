@@ -19,8 +19,8 @@ My question was - what were the options available, in this case, for architectin
 My plan was to implement a queue system in MongoDB, so I can post requests for background work to the queue from FastAPI, when a REST API is called. Whether I used a background thread, or background process, the plan was to read the work request from the queue, and process it.
 
 Two options became available, and the purpose of this post is to describe them in a bit of detail:
-* Background handled as coroutines in the FastAPI. This should work when, later, I distribute the FastAPI across multiple processes, deployed to ECS or Kubernetes.
-* Background is handled through its own process. This should support multiple processes scaled up and down part of a process pool.
+* `Background handled as coroutines in the FastAPI`. This should be designed to work, later, when I distribute the FastAPI across multiple processes, deployed to ECS or Kubernetes.
+* `Separate background process`. This should support multiple processes scaled up and down part of a process pool.
 
 #### Option 1: Background Jobs as Coroutines in FastAPI
 
