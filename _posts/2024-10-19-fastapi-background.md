@@ -6,11 +6,13 @@ layout: post
 ---
 
 #### FastAPI Background Jobs Needed
-I needed my FastAPI backend to spawn background jobs, for example, to run OCR, Named Entity Recognition, or Large Language Mode orchestration. The FastAPI ran as an Api service to a NextJS front end React application. The details of the front end don't matter here.
+I needed my FastAPI backend to spawn background jobs, for example, to run OCR, Named Entity Recognition, or Large Language Mode orchestration. The FastAPI ran as an Api service to a NextJS front end React application.
 
-The system already used a MongoDB database.
+The details of the front end don't matter here. But, importantly, the system uses a MongoDB database back end.
 
-What options would be available, in this case, for background jobs? These jobs could take anywhere between a few seconds and a minute to complete.
+My question was - what options are available, in this case, for architecting the background jobs?
+* These jobs could take anywhere between a few seconds and a minute to complete.
+* And, load varies. Jobs can stay idle a while, then ramp up and have to handle load pretty fast.
 
 #### Queues implemented on top of MongoDB
 
@@ -39,7 +41,7 @@ Cons:
 * Could potentially impact the performance of your main API if not managed carefully.
 * Harder to distribute across multiple processes or machines.
 
-Here's a basic implementation:
+Here's a basic implementation of the FastAPI (`main.py`):
 
 ```python
 from fastapi import FastAPI
@@ -82,7 +84,7 @@ Cons:
 
 Here's a basic implementation using a custom worker process:
 
-FastAPI application (main.py):
+FastAPI application (`main.py`):
 
 ```python
 from fastapi import FastAPI
@@ -104,7 +106,7 @@ async def submit_job():
     return {"job_id": str(job_id)}
 ```
 
-Worker process (worker.py):
+Worker process (`worker.py`):
 
 ```python
 import asyncio
