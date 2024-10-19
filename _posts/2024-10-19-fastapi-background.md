@@ -44,22 +44,40 @@ Cons:
 Here's a basic implementation of the FastAPI (`main.py`):
 
 ```python
-from fastapi import FastAPI
+from fastapi import FastAPI, BackgroundTasks
 from motor.motor_asyncio import AsyncIOMotorClient
-from datetime import datetime
+import asyncio
 
 app = FastAPI()
 client = AsyncIOMotorClient("mongodb://localhost:27017")
 db = client.your_database
 queue_collection = db.job_queue
 
+async def process_job(job_id: str):
+    # Implement your job processing logic here
+    job = await queue_collection.find_one({"_id": job_id})
+    # Process the job...
+    await queue_collection.update_one({"_id": job_id}, {"$set": {"status": "completed"}})
+
+async def worker():
+    while True:
+        job = await queue_collection.find_one_and_update(
+            {"status": "pending"},
+            {"$set": {"status": "processing"}},
+            sort=[("created_at", 1)]
+        )
+        if job:
+            await process_job(job["_id"])
+        await asyncio.sleep(1)  # Avoid tight loop
+
+@app.on_event("startup")
+async def startup_event():
+    asyncio.create_task(worker())
+
 @app.post("/submit_job")
-async def submit_job():
-    job_id = await queue_collection.insert_one({
-        "status": "pending",
-        "created_at": datetime.utcnow(),
-        # Add other job details here
-    }).inserted_id
+async def submit_job(background_tasks: BackgroundTasks):
+    job_id = await queue_collection.insert_one({"status": "pending", "created_at": datetime.utcnow()}).inserted_id
+    background_tasks.add_task(process_job, str(job_id))
     return {"job_id": str(job_id)}
 ```
 
