@@ -192,44 +192,6 @@ The `find_one_and_update()` MongoDB API does indeed provide a level of guarantee
 
 3. The others will get `None` (or `null`) as a result, indicating that no document was found matching the criteria (because it was already updated by another worker).
 
-Let's look at the relevant part of the worker code:
-
-```python
-def download_all_files(analytiq_client, output_dir: str):
-    """
-    Download all the files from the database
-
-    Args:
-        analytiq_client: AnalytiqClient
-            The analytiq client
-        output_dir : str
-            Output directory
-    """
-    # Get the db
-    mongo = analytiq_client.mongodb
-    db_name = analytiq_client.env
-    db = mongo[db_name]
-    collection = db["files.files"]
-
-    # Get all the files
-    cursor = collection.find()
-    files = cursor.to_list(length=None)
-
-    # Download each file
-    for file in files:
-        file_name = file["name"]
-        file = get_file(analytiq_client, file_name)
-        file_blob = file["blob"]
-        file_metadata = file["metadata"]
-
-        # Save the file to the output directory
-        file_path = os.path.join(output_dir, file_name)
-        with open(file_path, "wb") as file:
-            file.write(file_blob)
-```
-
-In this code, the `find_one_and_update()` operation is used to atomically find a job with "pending" status and update its status to "processing". This ensures that even if multiple worker processes are running simultaneously, each job will only be processed by one worker.
-
 To set up multiple worker processes, you could:
 
 1. Run multiple instances of your worker script.
