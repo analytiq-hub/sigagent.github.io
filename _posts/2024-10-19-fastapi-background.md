@@ -261,3 +261,5 @@ In this modified version:
 2. The process_job function now prints which worker is processing the job.
 
 You can run multiple instances of this script, and each will operate independently, picking up jobs as they become available. The `find_one_and_update()` operation ensures that each job is only processed by one worker, even when multiple workers are running simultaneously.
+
+_(Code examples generated with Claude in the Cursor text editor)_
