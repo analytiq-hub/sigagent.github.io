@@ -242,4 +242,88 @@ In this modified version:
 
 You can run multiple instances of this script, and each will operate independently, picking up jobs as they become available. The `find_one_and_update()` operation ensures that each job is only processed by one worker, even when multiple workers are running simultaneously.
 
+#### What if MongoDB has distributed readers?
+
+Will `find_one_and_update()`, in that case, still be atomic? I am asking because MongoDB is not transactional, but eventually consistent.
+
+1. Atomicity of `find_one_and_update()`:
+
+Even in a distributed MongoDB setup, find_one_and_update() is atomic at the document level. This means that for a single document, the operation is all-or-nothing and isolated from other operations.
+
+2. Distributed readers:
+
+In a distributed MongoDB setup with multiple replica sets, the primary node handles all write operations. Read operations can be distributed across secondary nodes, but write operations (including find_one_and_update()) are always routed to the primary.
+
+3. Eventual consistency:
+
+While MongoDB is eventually consistent across replica sets, the primary node always has the most up-to-date data. Since our find_one_and_update() operation is performed on the primary, we don't need to worry about eventual consistency for this specific operation.
+
+However, there are some considerations:
+
+1. Network partitions: In rare cases of network partitions, there might be a brief period where a secondary node is incorrectly perceived as the primary. This could potentially lead to conflicting updates.
+
+2. Rollbacks: If a primary node fails before replicating a write operation to a majority of the replica set, that operation might be rolled back when a new primary is elected.
+
+To mitigate these issues and ensure stronger consistency, you can:
+
+1. Use write concern: Specify a write concern that ensures the operation is acknowledged by a majority of replica set members before considering it complete.
+
+2 Use transactions: For operations that span multiple documents or collections, you can use multi-document transactions (available in MongoDB 4.0+).
+
+Here's how you might modify the worker function to incorporate these safeguards:
+
+```python
+async def worker():
+    client = AsyncIOMotorClient("mongodb://localhost:27017", w='majority')
+    db = client.your_database
+    queue_collection = db.job_queue
+
+    while True:
+        async with await client.start_session() as session:
+            async with session.start_transaction():
+                job = await queue_collection.find_one_and_update(
+                    {"status": "pending"},
+                    {"$set": {"status": "processing", "worker": os.getpid()}},
+                    sort=[("created_at", 1)],
+                    session=session
+                )
+                if job:
+                    await process_job(job, session)
+                else:
+                    await asyncio.sleep(1)  # Avoid tight loop
+```
+
+This modification does a few things:
+
+1. It sets the write concern to 'majority', ensuring that the update is acknowledged by a majority of replica set members.
+
+2. It uses a session and transaction, which provides stronger consistency guarantees for the entire job processing operation.
+
+3. It passes the session to both the find_one_and_update() and process_job() functions, ensuring that all database operations within a job are part of the same transaction.
+
+Remember to modify your process_job() function to accept and use the session:
+
+```python
+async def process_job(job, session):
+    # Implement your job processing logic here
+    print(f"Worker {os.getpid()} processing job: {job['_id']}")
+    # Simulate work
+    await asyncio.sleep(10)
+    await queue_collection.update_one(
+        {"_id": job["_id"]},
+        {"$set": {"status": "completed"}},
+        session=session
+    )
+```
+
+These changes will provide stronger consistency guarantees in a distributed MongoDB setup, minimizing the risk of job duplication or loss due to network issues or node failures.
+
+The job, at any rate, should be implemented to be idempotent (meaning, if the job is called twice on the same message, the 2nd call should be a no-op).
+
+It is very rare for the same message to be read by two workers. But, even if the queue was designed to guarantee single message delivery under any circumstance, it is still a good practice to design idempotent jobs. That way
+
+1. If the sender is not idempotent, and requests the same job twice, the result is not duplicated.
+
+2. If the job handler partially completes, e.g. due to a network error that causes an error in the middle of the job - upon retry, an idempotent job will skip the steps it already completed, and only do the remaining steps.
+
 _(Code examples generated with [Claude](https://claude.ai) in the [Cursor](https://www.cursor.com/) text editor)_
