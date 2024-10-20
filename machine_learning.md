@@ -424,6 +424,7 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
   * std::bodun::blog: [Pathways: Google's New ML System](https://www.bodunhu.com/blog/posts/pathways-googles-new-ml-system/) (2022)
 * [NVIDIA NeMo Megatron](https://developer.nvidia.com/nemo/megatron)
 * Microsoft [DeepSpeed](https://www.deepspeed.ai/)
+* Natan Benaich: [State of AI 2024](https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M/preview#slide=id.g30112bbaeb9_1_119)
 
 #### People
 * [Justin Johnson](https://web.eecs.umich.edu/~justincj/)
