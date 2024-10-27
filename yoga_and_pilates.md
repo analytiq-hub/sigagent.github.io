@@ -36,7 +36,9 @@ title: Yoga and Pilates
 * Knee
   * Stu Girling: [Yoga and Knee Pain/Injury/Relief Exercises](https://www.youtube.com/watch?v=S6g7M2FDFgA)
 * Flow
-  * [Charlie Follows](https://www.youtube.com/@CharlieFollows): [30M Energising Morning Flow](https://www.youtube.com/watch?v=FGrzapAAmWk) (2024)
+  * [Charlie Follows](https://www.youtube.com/@CharlieFollows):
+    * [30M Energising Morning Flow](https://www.youtube.com/watch?v=FGrzapAAmWk) (2024)
+    * [60 Min Yoga Flow](https://www.youtube.com/watch?v=L-z1HLkS_-Y) (2024)
 * Pilates
   * [Full Length Total Body Barre Workout - 40 Minutes](https://www.youtube.com/watch?v=NtwAHL_F2p8&t=1602s)
   * Eleni Fit:
