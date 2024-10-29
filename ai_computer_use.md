@@ -5,7 +5,9 @@ title: AI Computer Use
 ---
 
 #### Blog posts
-* Anthropic: [Developing a computer use model](https://www.anthropic.com/news/developing-computer-use) (2024)
+* Anthropic
+  * [Developing a computer use model](https://www.anthropic.com/news/developing-computer-use) (2024)
+  * Docs: [Computer use](https://docs.anthropic.com/en/docs/build-with-claude/computer-use)
 
 
 
