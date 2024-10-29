@@ -18,6 +18,7 @@ title: AI Code Editors
 
 #### Other
 * [AI Code Editors](/ai_code_editors)
+* [AI Computer Use](/ai_computer_use)
 * [Artificial Intelligence](/artificial_intelligence)
 * [Autonomous Agents](/autonomous_agents)
 * [Cloud Data Platform](/cloud_data_platform)
