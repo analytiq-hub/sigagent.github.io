@@ -10,6 +10,8 @@ title: Tailwind
 
 #### Tutorials
 * [Tailwind CSS Basics for Beginners](https://daily.dev/blog/tailwind-css-basics-for-beginners)
+* [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/react/navbars)
+
 
 
 #### Other
