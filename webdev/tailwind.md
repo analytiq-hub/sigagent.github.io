@@ -1,13 +1,16 @@
 ---
 layout: page
 mathjax: true
-title: Dash
+title: Tailwind
 ---
-[Dash](https://plotly.com/dash/)
+[Tailwindcss](https://tailwindcss.com/)
 
-#### Books
-* E. Dabbas: [Interactive Dashboards and Data Apps with Plotly and Dash: Harness the power of a fully fledged frontend web framework in Python – no JavaScript required](https://www.amazon.com/Interactive-Dashboards-Data-Apps-Plotly/dp/1800568916) (2021)
-* A. Schroeder, C. Mayer, A. M. Ward [The Book of Dash: Build Dashboards with Python and Plotly](https://www.amazon.com/Python-Dash-Analysis-Visualization-Plotly/dp/1718502222) (2022)
+#### Docs
+* Tailwind [docs](https://tailwindcss.com/docs/installation)
+
+#### Tutorials
+* [Tailwind CSS Basics for Beginners](https://daily.dev/blog/tailwind-css-basics-for-beginners)
+
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)

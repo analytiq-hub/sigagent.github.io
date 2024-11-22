@@ -25,4 +25,5 @@ title: Remix
   * [Next.js](/webdev/next_js)
   * [Remix](/webdev/remix)
   * [Streamlit](/webdev/streamlit)
+  * [Tailwind](/webdev/tailwind)
   * [Vercel](/webdev/vercel)

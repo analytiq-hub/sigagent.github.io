@@ -133,6 +133,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Remix](/webdev/remix)
   * [Streamlit](/webdev/streamlit)
   * [Vercel](/webdev/vercel)
+  * [Tailwind](/webdev/tailwind)
   * [Vue](/webdev/vue)
 * [Writing Blog Posts](/writing_blog_posts)
 * [Writing Documentation](/writing_documentation)
