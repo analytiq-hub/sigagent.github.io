@@ -20,7 +20,7 @@ title: Tailwind
 
 #### Books
 * Noel Rappin: [Modern CSS with Tailwind: Flexible Styling without the Fuss](https://www.amazon.com/Modern-CSS-Tailwind-Flexible-Styling/dp/1680508180) (2022)
-* Shruti Balasa: [CSS Flex & Grid: Complete Guide with Real World Examples and Code Snippets] (2022)
+* Shruti Balasa: [CSS Flex & Grid: Complete Guide with Real World Examples and Code Snippets](https://www.amazon.com/CSS-Flex-Grid-Complete-Examples-ebook/dp/B0B52HR84M) (2022)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
