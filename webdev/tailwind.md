@@ -15,7 +15,8 @@ title: Tailwind
 * [Tailwind Cheatsheat](https://nerdcave.com/tailwind-cheat-sheet)
 * [Grid Garden](https://cssgridgarden.com/)
 
-
+#### Books
+* Noel Rappin: [Modern CSS with Tailwind: Flexible Styling without the Fuss](https://www.amazon.com/Modern-CSS-Tailwind-Flexible-Styling/dp/1680508180) (2022)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
