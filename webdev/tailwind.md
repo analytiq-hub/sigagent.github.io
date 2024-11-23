@@ -15,6 +15,9 @@ title: Tailwind
 * [Tailwind Cheatsheat](https://nerdcave.com/tailwind-cheat-sheet)
 * [Grid Garden](https://cssgridgarden.com/)
 
+#### Tools
+* [Tailwind Play](https://play.tailwindcss.com/)
+
 #### Books
 * Noel Rappin: [Modern CSS with Tailwind: Flexible Styling without the Fuss](https://www.amazon.com/Modern-CSS-Tailwind-Flexible-Styling/dp/1680508180) (2022)
 * Shruti Balasa: [CSS Flex & Grid: Complete Guide with Real World Examples and Code Snippets] (2022)
