@@ -1,19 +1,14 @@
 ---
 layout: page
 mathjax: true
-title: AI Code Editors
+title: AI Computer Use
 ---
 
-#### Claude Dev
+#### Blog posts
+* Anthropic
+  * [Developing a computer use model](https://www.anthropic.com/news/developing-computer-use) (2024)
+  * Docs: [Computer use](https://docs.anthropic.com/en/docs/build-with-claude/computer-use)
 
-#### [Cursor](https://cursor.com)
-* Lex Fridman Podcast
-  * [Cursor Team: Future of Programming with AI](https://www.youtube.com/watch?v=oFfVt3S51T4) (2024)
-* Blog
-  * Arvid: [Shadow Workspace: Iterating on Code in the Background](https://www.cursor.com/blog/shadow-workspace) (2024)
-  * [Our Problems](https://www.cursor.com/blog/problems-2023) (Oct 2023)
-  * [Our Problems (cont'd)](https://www.cursor.com/blog/problems-2024) (Apr 2024)
-    * Yi Tay et al: [Transformer Memory as a Differentiable Search Index](https://arxiv.org/pdf/2202.06991) (2022)
 
 
 #### Other
