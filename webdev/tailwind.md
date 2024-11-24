@@ -18,6 +18,7 @@ title: Tailwind
   * [Complete CSS Flexbox Tutorial using Tailwind CSS](https://www.youtube.com/watch?v=X6FIydgCzzY)
   * [Complete CSS Grid Tutorial using Tailwind CSS](https://www.youtube.com/watch?v=kuY9MehvHh4)
   * [CSS Flex vs Grid (using Tailwind CSS). Which to choose?](https://www.youtube.com/watch?v=NUDLB5WG_6E)
+  * [Responsive Side Navigation with Tailwind CSS and Alpine JS](https://www.youtube.com/watch?v=bi2ENlSlFsM)
 
 #### Tools
 * [Tailwind Play](https://play.tailwindcss.com/)
