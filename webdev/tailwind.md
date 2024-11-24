@@ -15,8 +15,9 @@ title: Tailwind
 * [Tailwind Cheatsheat](https://nerdcave.com/tailwind-cheat-sheet)
 * [Grid Garden](https://cssgridgarden.com/)
 * [Shruti Balasa](https://www.youtube.com/Thirus)
+  * [Complete CSS Flexbox Tutorial using Tailwind CSS](https://www.youtube.com/watch?v=X6FIydgCzzY)
   * [Complete CSS Grid Tutorial using Tailwind CSS](https://www.youtube.com/watch?v=kuY9MehvHh4)
-  * [https://www.youtube.com/watch?v=X6FIydgCzzY](https://www.youtube.com/watch?v=X6FIydgCzzY)
+  * [CSS Flex vs Grid (using Tailwind CSS). Which to choose?](https://www.youtube.com/watch?v=NUDLB5WG_6E)
 
 #### Tools
 * [Tailwind Play](https://play.tailwindcss.com/)
