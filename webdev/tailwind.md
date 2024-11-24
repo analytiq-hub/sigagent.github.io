@@ -22,6 +22,7 @@ title: Tailwind
 
 #### Tools
 * [Tailwind Play](https://play.tailwindcss.com/)
+* [Heroicons](https://heroicons.com/)
 
 #### Books
 * Noel Rappin: [Modern CSS with Tailwind: Flexible Styling without the Fuss](https://www.amazon.com/Modern-CSS-Tailwind-Flexible-Styling/dp/1680508180) (2022)
