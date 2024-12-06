@@ -59,6 +59,7 @@ title: Entrepreneurship
   * [Conversation and Ideas](https://harj.posthaven.com/conversations-and-ideas) (2020)
   * [Book Review: Creativity in Science](https://harj.posthaven.com/book-review-creativity-in-science) (2022)
   * [Convincing Engineers to Join Your Team](https://www.ycombinator.com/blog/convincing-engineers-to-join-your-team) (2018)
+*  Robert M Pirsig: [Zen and the Art of Motorcycle Maintenance: An Inquiry into Values](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469) (2006)
 
 #### Meetups in Boston
 * [AI Tinkerers](https://boston.aitinkerers.org/p/ai-tinkerers-september-meetup-sponsored-by-basistech)
