@@ -12,6 +12,8 @@ title: Entrepreneurship
 * [Acquired](https://www.acquired.fm/) podcast
   * [The Smartest People in the Room Are All Listening to the Same Podcast](https://www.wsj.com/business/media/acquired-podcast-tech-business-history-strategy-90e73603)
   * [Visa](https://www.acquired.fm/episodes/visa) (Nov 2023)
+* [Jackson Lu](https://www.pnas.org/doi/full/10.1073/pnas.1918896117)
+  * [Why East Asians but not South Asians are underrepresented in leadership positions in the United States](https://www.pnas.org/doi/full/10.1073/pnas.1918896117) (2019)
 
 #### Books
 * Steve Blank: [The Four Steps to the Epiphany:  Successful Strategies for Products that Win](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/1119690358) (2007, fourth ed)
