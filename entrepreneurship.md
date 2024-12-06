@@ -48,6 +48,7 @@ title: Entrepreneurship
 * [Leading without Authority](https://www.amazon.com/Leading-Without-Authority-Co-Elevation-Collaboration/dp/0525575669), by Keith Ferrazzi and Noel Weyrich (2020)
 * [The End of Average](https://www.amazon.com/End-Average-Unlocking-Potential-Embracing/dp/0062358375), by Todd Rose (2017)
 * [Disrupt You](https://www.amazon.com/Disrupt-You-Transformation-Opportunity-Innovation/dp/1250059372/), by Jay Samit
+* Amartya Sen: [The Argumentative Indian: Writings on Indian History, Culture and Identity](https://www.amazon.com/Argumentative-Indian-Writings-History-Identity/dp/031242602X) (2006)
 
 #### Blog posts
 * Mark Andreesen (mirror of his 2007 now-defunct blog)
