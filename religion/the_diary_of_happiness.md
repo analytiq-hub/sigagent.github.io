@@ -167,6 +167,113 @@ This time, the investigator threw it at me from the start:
 
 I had wised up. I had become cunning, a seasoned prisoner familiar with interrogations. I knew how to defend myself; I had learned. I had picked up their tricks. I had heard them laugh. *(This, by the way, is the great difference between us and those in the West—the unknowing ones. We have heard them laugh. And, whether we liked it or not, painfully, slowly, we too were forced to awaken, to access the hard-to-understand and even harder-to-achieve condition: that of the cunning survivor.)*
 
+### February 1962
+
+> "And your joy no man taketh from you."  
+> — *John 16:22*
+
+> "Hold yourself upright! Do not lose your soul."  
+> — *Paul Claudel*
+
+The cells in the *Reduit* at Jilava are especially grim and have the reputation of being even more severe than those in the main sections. I arrived at cell 34 after being held in "the secret" while on hunger strike, in an unheated cell that had remained so since the fort was built—part of the useless belt of fortifications around the capital, designed by engineer Brialmont. The cold—more terrible than hunger or thirst (though the worst is sleeplessness)—penetrated me to the core.
+
+I must have looked pitiful, because the famous Sergeant Ungureanu, who received me at the gate of the *Reduit*, almost smiled at me (as a gourmet might soften in front of a well-aged piece of game) and entrusted me to the cell’s leader with instructions to give me my own bed and to take care of me. I was placed in the bed closest to the door, like a suspect, under the watchful eye of the cell leader—a Russian-named Bessarabian, a large and somber man with a harsh gaze. I soon learned he was considered dangerous, rumored to be a defrocked priest.
+
+Cell 34 was like a dark, long tunnel, full of nightmare-like elements. It was a tongue, a canal, an underground intestine, cold and deeply hostile. It was a barren mine, an extinct volcanic crater, a rather successful image of a faded hell.
+
+In this almost unreal, sinister place, I experienced the happiest days of my entire life. How absolutely happy I was in cell 34! *(Not even in Brașov with my mother during childhood, not on the endless streets of mysterious London, not on the proud hills of Muscel, nor in the postcard-perfect scenery of Lucerne—no, nowhere.)*
+
+---
+
+The cell housed many young men, who were subjected to special treatment by the guards and especially by the cell leader. *(The hatred of the old against the new generation—sometimes even aligning with the most ruthless guards to form a common front against the unruly and the disrespectful. A solidarity of age, much like the class solidarity that drove some peasants, workers, and petty clerks to hate their fellow prisoners from noble or bourgeois backgrounds more intensely than they hated the representatives of the administration.)*
+
+From the very first day, I noticed a fierce thirst for poetry throughout the cell. Memorizing poetry was the most delightful and inexhaustible pastime of prison life. Happy are those who know poetry. Those who have many poems committed to memory are rich in detention—theirs are the hours that pass unnoticed and with dignity; theirs is the lobby of the Waldorf-Astoria Hotel and the café of Florian in St. Mark’s Square. *The abbé Faria knew what he was doing, preparing for the island of Monte-Cristo by memorizing entire books.*
+
+---
+
+From this perspective, I was fortunate. I knew by heart *The Morning Star* (*Luceafărul*), *The Letters*, much of Coșbuc and Topîrceanu (*very popular*), and perhaps thousands of verses by Gyr and Crainic (*learned early alongside Morse code from veteran Legionaries*). I also picked up many poems by Verlaine, Lamartine, and Baudelaire; Arvers’ sonnet (*"Ma vie a son secret, mon âme a son mystère"*) of course; and Samain’s *Au jardin de l’Infante*. Teaching these poems or reciting them carried me back to the paradisiacal afternoons of Pitar-Mos Street or the magical literary references from *La Medeleni*.
+
+I quickly found a circle of young men eager to learn *Luceafărul*, waiting desperately for someone who could teach it. Among them was a young Lutheran pastor from Brașov, resembling Gösta Berling, whose native language was German. He was himself a poet, a passionate admirer of Rilke, from whom he translated superbly. He recited Rilke with vibrant emotion and incredible depth, with unrelenting patience and boundless goodwill. Everything about him wavered between semi-divine and saintly.
+
+---
+
+**Bruder Harald Sigmund**—his sufficiently Wagnerian name—was the rare miracle a prisoner might encounter. When such a figure appears, they teach you what joy truly is: he was courageous, proud, unyielding, polite as if in a prince’s salon where *le thé à l’anglaise* is served, always smiling, dignified, and never sullen or tired. He was eager to learn, discuss, listen, tell stories, and share all he knew—a gentleman, a nobleman, a hero. His presence stirred a bitter resentment against modern times and the democratic chaos of tramway crowds.
+
+In cell 34, the young men’s resilience (moral, though many were tubercular) and the pastor’s noble demeanor created an atmosphere of grandeur, medieval in its ceremonial dignity. Invisible purple cloaks fluttered, Damasc steel flashed, and every gesture revealed a latent Don Quixotism.
+
+---
+
+My arrival, weak and pale from the cold, trembling even in my gaze, accompanied by the aura of a hunger striker, only amplified this noble defiance of reality. Everyone seemed to outdo each other in kindness and politeness. People recited poetry from dawn to dusk, told serious stories, and Bruder Harald exceeded himself—reciting, translating, teaching, and sharing the life and doctrine of Dr. Martin Luther with love and humility.
+
+In cell 34, the inescapable harshness of prison life—*the bitter cold, scant food, worm-infested water, suffocating air, regular beatings, and cruel taunts from the guards*—combined with the spirit of poetry, faith, and rebellion to create something resembling paradise.
+
+As Dostoevsky said: *"The absence of enthusiasm is a sure sign of ruin."* But in cell 34, there was no lack of enthusiasm, and so, nothing and no one could be lost.
+
+---
+
+Here, I realized once again, as I had before, that miracles are a part of real life. They belong to the fabric of the world. The miracle in cell 34 was evident and accepted as an undeniable fact: the way we treated each other, striving to help, speak gently, and make life more bearable for one another.
+
+One evening, after a search confiscated my precious bottle—used to store the black liquid we received as "coffee"—I found, to my astonishment, a new, larger bottle placed under my blanket. I could not know who left it, nor could I ask. This anonymous act of generosity overwhelmed me. Tears of joy and gratitude streamed down my face as I clutched the so-called "pillow," unable to contain the profound happiness that engulfed me.
+
+### January 1960
+
+#### In the First Cell at the Securitate
+
+I shared a cell with Mircea M., a former journalist at *Universul*, caught in a dangerous web of complications. He greeted me warmly but with an effort at politeness. It was clear he was worn down by constant harassment. As a newcomer, I still had the small bread I had brought from home, which I shared with him, giving him his first taste of white bread in two years.
+
+After interrogation, I usually returned battered. Lieutenant-Major Onea employed "standard Securitate methods," preferring repeated blows to my head against the walls. At other times, he stomped on me with his boots. There was also Comrade Major Jack Simon—mustachioed, cold, and with a crystalline voice—who informed me he had decided to personally kill me as a "Jewish Legionnaire." For now, I was subjected to the "iron bar" treatment, an unpleasant but less dramatic punishment compared to the threat.
+
+Mircea M. was very kind. He would wet both his towel and mine and, with a mix of fatherly embarrassment (though he was younger than I), he gently applied them to my head, ribs, or soles as needed.
+
+One late evening, when I returned uninjured but visibly disturbed, he sensed something was wrong. In a few words, I confessed—driven by a base instinct for chatter—what had happened. I had been confronted with "her" again. The officers had expressed dissatisfaction with the "merchandise," but they hadn't pressed further. In the end—*mirabilis res*—they lit their cigarettes, started chatting, and motioned for us to approach each other and talk freely. She came towards me and spoke. I didn’t respond. I was flustered, couldn’t hear properly, and the moment felt endless. The two officers, meanwhile, continued their pseudo-conversation at the desk like background actors in a play while we, the main characters, took center stage. 
+
+She spoke for a while, then turned to the officers and said she was done. Without haste, she kissed me twice—once on each cheek, tenderly.
+
+Mircea M. found my story sensational and worthy of the Securitate’s annals. He asked me to repeat it, relished it, and wouldn’t stop commenting:  
+*"Women, my dear sir, women. You never know with them."*
+
+It was more complicated than that. But my urge to confide passed, and I refrained from offering a more elaborate explanation. Still, what I had shared seemed to please and amuse him. It relaxed him. No longer under interrogation, he was now under the narcotic spell of gossip, setting off down the endless caravan trail of male wonder at the feminine enigma. *Ich bin der Räuber Orbazan.*
+
+---
+
+#### Evening Prayers and the Idea of Baptism
+
+Every evening, my cellmate prayed briefly. (Praying was allowed at the Securitate, unlike in prison, where I later learned it was forbidden.) When he stood to pray, I would stand as well, frozen and uneasy that I couldn’t join him except through a vague, inconclusive gesture of politeness. I did not make the sign of the cross.
+
+In the second cell, I shared space with N.N.P., a convert to Catholicism. He encouraged me, prayed often, and recited St. Anthony’s rosary. To him, I confessed my desire to be baptized. It was less a concrete decision than an old dream, a tendency. Yet, I realized it had become a persistent desire, now bordering on impatience.
+
+When I returned from the registrar, where I was informed of my sentence—thirteen years of hard labor, a melodramatic term that provoked a nervous smirk—I told him I likely wouldn’t last and should get baptized as soon as possible. But how? Fate seemed set against it. N.N.P., more experienced than Mircea M., reassured me that I wouldn’t stay long at the Securitate and would surely find a priest in prison willing to baptize me clandestinely but validly. All prison cells were full of clergy of every kind, though most were understandably cautious. Since I was determined, he advised me to seize the first opportunity.
+
+---
+
+#### On Impossibility
+
+What is demanded of us is the impossible. Without it, there is no escape, no deliverance, no beatitude—or even minor peace.
+
+The legal maxim—*ad impossibilia nemo tenetur* ("no one is bound to do the impossible")—does not apply to moral life. On the contrary, in moral terms, *it is the impossible that is required.* The legal principle holds only in the realm of mutual obligations.
+
+But there are two types of impossibility: the *physically impossible* and the *morally impossible.* The physically impossible—like the jurists’ old example of contracting to travel to the moon—is irrelevant and lacks significance. But that is not what is asked of us. What is demanded is not a journey to the moon but the moon itself—preferably blue.
+
+As long as we remain confined to what is possible and calculable, we can neither conceive of nor aspire to paradise.
+
+---
+
+#### The Lesson of the Fig Tree
+
+This, I believe, is the meaning of the seemingly unjust parable of the barren fig tree, where Christ does not so much curse the tree as reject it, saying, "Depart from me." Does Christ demand that we act according to schedules and regulations, like a banker? What an excuse: "It is not my season!" There is no wrong time to do good. There is no wrong time to owe a debt to Christ. Just as the Kingdom of God will come unannounced, so too must the deeds that herald it disregard timetables and contracts.
+
+Friendship, likewise, does not hinge on saying, "I will help you if I can." True friendship demands action without conditions of time, place, or manner. And how greatly the Lord delights in calling us His friends!
+
+---
+
+#### A Call Beyond Comfort
+
+With God, there is no room for complacency or ease. *"Leave your country and your kindred,"* *"Take up your cross,"* *"Come after me,"* *"Watch therefore,"* *"Wash and purify yourselves,"* *"Go and cry aloud,"* *"Arise, take up your bed, and walk."* These commands allow no idleness, no soft dreaming. *Oblomov* is condemned; no one can hide behind laziness, illness, or folly—not even justice itself (as the fig tree demonstrates).
+
+This, then, is the Christian call: to transcend the impossible and conquer the heavens through faith and effort. To believe, as Sir Thomas More put it, in the paradox: *"I trust I make myself obscure."*  
+Herein lies the ultimate mystery of faith: *"Lord, I believe; help Thou mine unbelief."*
+
+
 
 \[...\]
 
