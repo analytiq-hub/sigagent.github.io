@@ -73,6 +73,36 @@ And the secret of those who cannot fit into the totalitarian abyss is simple: th
 
 But death — who Alone has conquered it? The One who, raised from the dead, dieth no more.
 
+\[...\]
+
+#### December 31, 1959
+
+On the other hand, the quality of being a Roman senator doesn’t seem tied to any particular historical era, just as Schelling explains that romanticism is not a literary school belonging to a phase in the evolution of taste but rather one of the enduring propensities of the human soul. The old man, over 82 years of age, the small pensioner from Bucharest, suddenly revealed himself to me, in the simplest way, as capable of authentically senatorial feelings.
+
+After I told him how things had transpired, he said to me:
+
+> "Why did you come home, you fool? You’ve given them the impression that you hesitate, that there might even be a possibility for you to betray your friends. In business, when you say ‘let me think about it,’ it means you’ve already agreed. For nothing in the world should you accept to be a witness for the prosecution. Go, leave now."
+
+I know him from the days when he used to return to Pantelimon in the evenings, standing on the carriage step—martial—when during the movements of 1919, he roamed the factory workshops in uniform with his sword unsheathed. Yet even now, I can’t help but think, at least a little, that he’s putting on a show—for both himself and for me. I watch him mostly in secret, afraid to confirm that he’s just being brave. I point out that I can’t find anyone now and that sitting at the Security Service gate with my suitcase until Monday makes no sense—heroism is dangerously close to ridiculousness. And I feel exhausted; there’s also tonight’s dinner to consider. I explain to him what prison really means, that he’s old, that he will be left alone with a very small pension, and he shouldn’t expect pity from anyone, nor visits. And I’m afraid. After all, all they’re asking me to do is to tell the truth. We’ll never see each other again, and I’ve caused him nothing but trouble my entire life; at least now, at the end, I could sweeten his days a little. And, to be honest, the thought of prison, of suffering, combined with the thought of his misery, terrifies me.
+
+*(The imminence of pain always moves us, and repentance, like a loyal dog, follows in its footsteps.)*
+
+In the well-known parody, Stephen the Great’s mother feels sorry for her wounded son, opens the gates of the citadel, and tends to him. How little that parody understands the twists of the human soul and the surprises a Bucharest apartment can hold (more gripping than *The Mysteries of Paris*). Listening to my father leaves me in no doubt: Lady Oltea really did act just as Bolintineanu’s poem suggests. If this old man, this Jew, can speak to me as he does, what else is not possible? Artificiality is as widespread as naturalness; theater belongs to the essence of life. Corneille describes people as they are, and at the end of the school year, in primary school recitations (I in the third grade: *"You believed, O King, and thus you triumphed"*), banalities are spoken.
+
+> "It’s true," my father says, "you’ll have very hard days. But the nights will be peaceful—" (I must repeat what he said, I must; otherwise, God would punish me)—"you’ll sleep well. Whereas if you agree to be a witness for the prosecution, you might have decent days, but the nights will be unbearable. You won’t be able to close an eye. You’ll have to live on sleeping pills and sedatives; you’ll be numb and dozing all day and tormentedly awake at night. You’ll writhe like a madman. Get on with it. Don’t hesitate. You have to go to prison. It breaks my heart, too, but there’s no other way. Besides, even if you testify for the prosecution now, don’t be a fool—after six months, they’ll still take you. That’s certain."
+
+This last argument, perfectly logical, practical, and lawyerly, especially impresses me. But six months of living in fear feels like an eternity.
+
+My father, increasingly like a Roman senator, continues:
+
+> "So prepare your things for Monday. Make sure to take only worn-out items." *(Here he was entirely wrong.)* "And in these three remaining days, don’t say a word to me about the trial. Security, prison—I don’t want to hear about them. I want us to spend this time together, pleasantly and peacefully."
+
+And that’s what we do. Strangely, I sleep fairly well and even eat with some appetite (after all, even the condemned man in Kafka’s *In the Penal Colony* eats on the torture device) and behave relatively sensibly.
+
+I leave the house only on New Year’s Day, at noon, invited to lunch by lawyer D.P., whose wife is a very old friend of mine—and my first and only love from my youth. They tell me (they have two children) about a New Year’s Eve party they attended where one of the guests dropped dead during the celebration while dancing. "What a way to start the year!" they comment. If only they knew that, on top of that, their New Year’s Day guest is someone who, in three days, will be a prisoner...
+
+I casually ask the lawyer (though this is why I came, leaving my father alone) what he thinks about Article 209 of the Penal Code. He shrugs, somber and preoccupied: *"The conviction is certain—and very severe..."*
+
 
 #### Links
 * [Philosophy](/philosophy)
