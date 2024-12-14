@@ -610,6 +610,68 @@ Christ invites us to a bold and thrilling adventure—to trust in what is unseen
 #### **Leon Bloy**  
 > *“O Christ, who prays for those who crucify You and crucifies those who love You!”*
 
+### **February 24–26, 1960**
+
+We were first brought into what appeared to be a waiting room or an antechamber. Judging by the tile that covered the walls up to waist height, the space must once have been the kitchen of a noble house or a boarding school. They seated us on long, parallel benches, one per bench at each end, as if we were about to take an exam and they were afraid we might cheat. We were forbidden not only to talk but even to glance at one another. It was cold, and we were hungry.
+
+We waited for what felt like an unbearably long time, and then, just as the guards’ mealtime arrived, they pulled out their meal packages and ate with great relish, smacking their lips noisily. The sight filled us with an overwhelming hunger. I suspected that the others, like me, felt the same humiliating sensation as we fixed our longing gazes on these calm eaters. We could only look at them. It felt like being a caged beast—except that we couldn’t even pace back and forth or approach the bars like animals.
+
+Later, an officer entered, and Păstorel, ever affable and witty, asked him casually for a pencil and paper. He claimed he wanted to jot down some verses he had composed while in custody, verses that "it would be a great loss for Romanian culture to lose." 
+
+The officer, somewhat intrigued, asked what kind of verses they were. "Ah, nothing hostile," Păstorel replied, "lyrical and patriotic." He explained he had composed them in his mind and now wanted to write them down, lest he forget them in his old age. His mental act of composing verses was, in any case, a feat—perhaps not on par with scoring a goal or breaking a record, but a feat nonetheless. Admiration flickered faintly in the air. Păstorel smiled, distantly but amicably. 
+
+Even as the officer and his subordinates resisted this charm, a sudden spring-like breeze seemed to sweep through the frigid and glacial atmosphere of the former kitchen. A hint of nostalgia for childhood streets and familiar places seemed to warm the space. Mihai Vodă Slurdza joined in with a jovial comment, and for a moment, the room's heavy mood lightened.
+
+But this rare, fleeting bonhomie broke as Dinu Ne. made a bold move, requesting a cigarette. The officer snapped out of the literary enchantment and, sourly addressing him, declared, "Don’t think we’re so stupid, Mr. Noica." Dinu, frail and ascetic, bent humbly, his gaze burdened and withdrawn. The officer, regaining his composure, solemnly admonished all of us: "We know who you are, and don’t try to fool us with gestures fit for petty criminals."
+
+---
+
+#### **In the Courtroom**
+
+We were taken to a large, desolate courtroom and seated in the dock, closely packed on benches, much like students at the *Spiru Haret* high school we once attended. I found myself sitting between Noica on my left and Vladimir Streinu on my right. Others, like Pillat, Sandu L., and several unfamiliar to me, were seated in the front row. The four women—Anca Dr. Ionescu, Marietta Sadova, Trixi, and Simina Caracas—sat in the back of the dock.
+
+The courtroom was immense, seemingly empty except for four distinct groups scattered throughout, separated by vast gaps reminiscent of the dizzying distances between galaxies. The lack of a public audience, family, or press added to the surreal atmosphere.
+
+1. **The Accused**: Twenty-five of us, pale intellectuals, exhausted, sleep-deprived, and many ill, surrounded by a ring of soldiers armed with automatic rifles. Their fierce glares added an absurd theatricality to the scene, as if we were a band of hardened outlaws rather than a group of aging, sickly academics.
+
+2. **The Investigators**: Security officers and inspectors, seated at the far end, observing like theater directors evaluating a surreal performance where rehearsal, dress rehearsal, and premiere were fused into one Kafkaesque spectacle.
+
+3. **The Defense Lawyers**: Numerous, almost outnumbering the accused. They appeared painfully out of place in their formal, flawless attire—dark suits with shiny, metallic fabrics, neatly folded handkerchiefs peeking from pockets, and slicked-back hair. Their anxious manner betrayed their discomfort and fear, despite their polished appearance.
+
+4. **The Judges**: Five military men sat impassively at the bench, with Colonel Adrian Dimitriu presiding in the center, visibly concerned—perhaps burdened by his responsibility as a former lawyer turned colonel.
+
+---
+
+#### **A Quiet Gesture**
+
+As we settled on the benches, I leaned toward Noica, who looked despondent, his face tense with anguish. Whispering under the cover of the commotion, I told him: "Dinu, none of us are upset with you. We love and respect you; all is well."  
+
+God was merciful—Noica’s face brightened, and he gripped my wrist firmly, sighing deeply in relief. In that moment, I felt I had done one truly good thing in this life.
+
+---
+
+#### **The Closing Statements**
+
+When our turn came for final statements, we were warned that we could only admit our guilt and request leniency. Mentioning illnesses was permitted, and a certificate of pulmonary cancer was submitted for Păstorel. 
+
+Pillat began his statement:  
+*"Although I have never been an anti-communist, I have always found a materialistic doctrine of violence unacceptable and therefore..."*  
+
+He was cut off abruptly, the president of the court bursting into frenzy. Noica, pale and composed, refused to plead guilty to the court's charges but apologized deeply to his friends for dragging them into this and asked for their forgiveness.  
+
+I had prepared my statement carefully in the cell and recited it without pause:  
+*"Given the facts, I must state two things: First, I had no intention of conspiring. Second, had I known that Emil Cioran's volume, *The Temptation to Exist*, could be interpreted as an attack on the Romanian people (which it is not), I would not have read it or participated in its dissemination. I have always had and will always have feelings of deep respect and boundless love for the Romanian people."*
+
+---
+
+#### **The Verdict Deferred**
+
+When the tribunal withdrew to deliberate, the atmosphere in the courtroom relaxed. Lawyers smiled nervously like students after an exam, the officers exhaled as though a tense inspection had ended, and even the soldiers stretched their legs.  
+
+A sergeant, who also served as the prison barber, climbed onto the clerk’s platform and sat in the clerk’s chair. Beaming with happiness, he grinned as though sitting on a throne, savoring his brief moment of imagined grandeur.
+
+Finally, the tribunal returned to announce that the sentence would be delivered in three days. We were hurried out, and as we stepped from the exit to the waiting transport van, we caught a fleeting glimpse of the gray sky, sleet falling, and a sharp breath of fresh air.
+
 
 \[...\]
 
