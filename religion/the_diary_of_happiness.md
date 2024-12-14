@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Diary of Happiness, by Nicolae Steinhardt (a fragment)
+title: The Diary of Happiness, by Nicolae Steinhardt - A Fragment
 ---
 
 (... with inevitable ChatGPT flourishings...)
