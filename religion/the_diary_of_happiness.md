@@ -103,6 +103,29 @@ I leave the house only on New Year’s Day, at noon, invited to lunch by lawyer 
 
 I casually ask the lawyer (though this is why I came, leaving my father alone) what he thinks about Article 209 of the Penal Code. He shrugs, somber and preoccupied: *"The conviction is certain—and very severe..."*
 
+## January 3-4, 1960
+
+"I don’t think it will be too long," says my father. "They’ll probably give you eight years. I’ll make sure to leave some money with Gică or another relative, from selling the radio, the cooking stove, the gas cylinder, and the books—so you’ll have something when you get out." *(He has no idea about the total confiscation of property for political convicts.)*
+
+On Monday morning, I am calm. I wash, shave, dress, and check my little suitcase (full of rags). I wasn’t allowed to cry even once during those three days. My father, the enforcer of this prohibition, wouldn’t even consider it.
+
+The evening before, I run into Professor Al. E.L. on the street, a former *spiritist*. Moved to the point of trembling, I begin telling him—so impassioned that I see his astonished sympathy—that there are indeed Jews who truly love Romania. "There’s no doubt about it," he responds politely, but not just politely. I spoke with great theatricality. He looks at me for a long time.
+
+When I’m ready, I bid farewell to my father. I am deeply gloomy. But my father—in his pajamas, small, chubby, cheerful—is all smiles, offering me last-minute advice like a coach before a match; hurriedly, like someone seeing you off at the station, speaking only at the very last moment after remaining silent in front of the train car until the final instant:
+
+> "Did they tell you to make sure I don’t die like a dog? Well, if that’s the case, I won’t die at all. I’ll wait for you. And make sure not to shame me," he says. "Don’t be a cowardly Jew, and don’t soil your pants."
+
+He kisses me firmly, walks me to the door, stands at attention, and salutes me militarily.
+
+> "Go," he says.
+
+I descend the stairs at a normal pace without looking back. I exit the block’s gate. 
+
+There are destinies, omens, telepathy. On the street, completely empty at first—even though it’s not early—a single person suddenly appears around the corner: an officer from the Ministry of Internal Affairs. I shiver.
+
+\[...\]
+
+
 
 #### Links
 * [Philosophy](/philosophy)
