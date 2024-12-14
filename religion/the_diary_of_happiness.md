@@ -481,6 +481,135 @@ Despite this, I began to realize:
 
 I felt that perhaps the bells of Capra Church had not tolled in vain for me.
 
+# **February 25, 1960**
+
+### **Paul Dim., Witness**
+
+He is calm, speaks deliberately and slowly, with the ease of an experienced prisoner, and the cold politeness of a fallen angel or a defiant nobleman. Unlike those of us in the dock, he has already served a few years in prison and has been in custody for some time during this round.  
+
+However, he knows very well what he is not supposed to know and what the court cannot officially disclose: that Petru Dumitriu, the celebrated writer and regime beneficiary, has defected.  
+
+A delightful operetta-style scene unfolds, worthy of Donizetti or Rossini.  
+
+- *“Did the accused use hostile language against the regime in your presence?”*  
+  - *“Yes.”*  
+
+The judges’ expressions light up with satisfaction. The prosecutor seems to swell visibly, as if inflated by a pump.  
+
+- *“In what way, exactly?”*  
+  - *“They systematically slandered progressive writers.”*
+
+The judges, led by Colonel Adrian Dimitriu, appear even more pleased.  
+
+- *“Can you give specific examples?”*  
+  - *“I can.”*  
+
+A dramatic pause follows—Paul Dim. handles his testimony like a professional actor, taking his time.  
+
+- *“Well, let’s hear them.”*  
+  - *“I heard them violently slander the progressive writer Petru Dumitriu, whose work reflects the accomplishments of the regime. They criticized him, claiming he was a hypocrite, not truly democratic, and that he wrote only to benefit himself. They even argued that all his novels were actually the work of Henriette-Yvonne Stahl.”*
+
+The presiding judge, who shares the same name as the saint, cannot interrupt him—he is not allowed to reveal that the esteemed Petru Dumitriu has defected to the imperialists. And so, Paul Dim., the third “Dumitriu” (though in truth, a Dimitriu), continues to pile on references to the progressive writer and the slanders, entertaining us—and himself—until he is politely dismissed. He exits with glacial politeness, a performance as impeccable as Sam Weller testifying in the Bardell vs. Pickwick trial.
+
+---
+
+### **Definitions and Observations**
+
+#### **Definition of Life, According to André Breton**  
+> *“Life is the way an individual appears to have come to terms with the unacceptable human condition.”*
+
+#### **On Liberty**
+
+- **Alfred Jarry:**  
+  > *“There are people for whom being free is a nuisance, a burden.”*
+
+- **Thomas Mann:**  
+  > *“Freedom is a pedantic and bourgeois notion.”*
+
+These remarks cast doubt on the survival prospects of liberty in the world that Ortega y Gasset aptly named “the world of the masses.”
+
+- **Alexandre Herzen:**  
+  > *“The masses care nothing for individual freedom or freedom of speech; they love authority. By equality, they mean equal oppression. Only civilized individuals desire freedom.”*
+
+We intellectuals and political prisoners should be less convinced that everyone is desperate for freedom.  
+
+- **Denis de Rougemont:**  
+  > *“Freedom is not a right; it is the assumption of a risk.”*
+
+This reminds us not to be overly certain that people are willing to take risks. They may want rights, but they see risks as obstacles, schemes, or insults.  
+
+#### **Scriptural Insights**
+
+- **John 20:29:**  
+  > *“Jesus said to him, ‘Because you have seen Me, you have believed. Blessed are those who have not seen and yet have believed.’”*
+
+  Freedom, therefore, is above all an act of faith—a daring and irrational wager.  
+
+- **2 Corinthians 3:17:**  
+  > *“Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.”*
+
+  If we are not free, we are not worthy of being called Christ’s friends, as He desires us to be.
+
+- **Revelation 3:20:**  
+  > *“Behold, I stand at the door and knock.”*
+
+  Let our hearts melt at the thought of the popular depictions of Christ, with staff and satchel, waiting for us to open the door—freely, of our own volition.
+
+- **Nicolae Bălcescu:**  
+  > *“He who fights for freedom fights for God.”*
+
+This phrase is rarely quoted by Bălcescu’s modern admirers.
+
+---
+
+#### **On Writing and Creation**
+
+Great writers truly create worlds and beings, much like God. Balzac offers two supreme moments that demonstrate how real his characters were to him:
+
+1. **In *Ursule Mirouët***:  
+   François Minoret, a dishonest and odious character, writes letters filled with spelling errors, reflecting his stupidity and lack of education. However, when Minoret is struck by misfortune, repents, and confesses, Balzac corrects his spelling in the final letter he writes.  
+
+   Balzac explains:  
+   > *“I corrected his spelling because it would not be right to laugh at a man struck by misfortune.”*
+
+   These extraordinary words reveal several things:  
+   - **Balzac’s God-like empathy**: He feels compassion for his characters as if they were real people.  
+   - **His Christian kindness**: He refrains from mocking a human being in their suffering.  
+   - **His nobility**: He demonstrates profound respect for the dignity of those who show repentance, even in fiction.  
+
+2. **In *Colonel Chabert***:  
+   The colonel renounces all his rights and claims when he realizes his remarried wife is deceitful and acting in bad faith. Overwhelmed by disgust and disdain for the “Countess Ferraud,” he ceases his struggle, relinquishing everything. This act recalls Christ’s silence before those determined to condemn Him under Caiaphas’ advice, pretending to judge Him.
+
+##### **Corollaries of Justice**  
+- **Personal Injustice**:  
+  If faced with gross injustice, you may renounce the fight as a form of condemnation. Refusing to duel with an unworthy opponent is a profound form of defiance.  
+
+- **Injustice Against Others**:  
+  When injustice is done to another, it must be denounced, fought, and corrected.  
+
+The Christian cannot ignore public injustice, as it is their duty to protect the innocent and defend the common good.
+
+---
+
+#### **Faith and the Red Parrot**
+
+> *“I would rather believe in God than see Him in all His glory.”*  
+  —Paul Valéry  
+
+Is God, who abandoned Christ on the cross, also absent for us? This is a reality we often fail to grasp, as did Christ’s contemporaries, who awaited a Messiah in glory.  
+
+Kierkegaard reminds us that God is not a giant red parrot. If such a bird suddenly appeared in a marketplace, everyone would flock to see it, realizing it was no ordinary thing. But faith cannot be this simple—a pre-chewed certainty.  
+
+Instead, belief requires freedom, risk, and daring—a leap into the unknown. Dostoevsky explains:  
+> *“If God did not come down from the cross, it is because He wanted to convert humanity not through the coercion of an obvious miracle but through the freedom of belief.”*
+
+Christ invites us to a bold and thrilling adventure—to trust in what is unseen and defy the obvious.  
+
+---
+
+#### **Leon Bloy**  
+> *“O Christ, who prays for those who crucify You and crucifies those who love You!”*
+
 
 \[...\]
 
