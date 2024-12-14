@@ -3,13 +3,13 @@ layout: page
 title: The Diary of Happiness, by Nicolae Steinhardt (a fragment)
 ---
 
-# Political Testament
+### Political Testament
 
 To escape from a totalitarian universe—and it doesn’t necessarily have to be a camp, a prison, or another form of incarceration; the theory applies to any kind of product of totalitarianism—there is the (mystical) solution of faith. This will not be discussed in what follows, as it is a consequence of grace, which is inherently selective.
 
 The three solutions we refer to are strictly worldly, have a practical character, and present themselves as accessible to anyone.
 
-## The First Solution: Solzhenitsyn's
+#### The First Solution: Solzhenitsyn's
 In **The First Circle**, Aleksandr Isayevich briefly mentions it, elaborating further in Volume I of **The Gulag Archipelago**.
 
 This solution consists, for anyone stepping over the threshold of the Security Service or any similar investigative body, in resolutely telling themselves: **At this very moment, I am dying**. It is permissible to console oneself with thoughts such as: **What a pity for my youth, or woe to my old age, my wife, my children, myself, my talent, my possessions, or my power, my lover, the wines I will no longer drink, the books I will no longer read, the walks I will no longer take, the music I will no longer listen to, etc., etc., etc.** But one thing is certain and irreversible: **From now on, I am a dead man.**
