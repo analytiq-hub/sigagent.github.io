@@ -273,6 +273,88 @@ With God, there is no room for complacency or ease. *"Leave your country and you
 This, then, is the Christian call: to transcend the impossible and conquer the heavens through faith and effort. To believe, as Sir Thomas More put it, in the paradox: *"I trust I make myself obscure."*  
 Herein lies the ultimate mystery of faith: *"Lord, I believe; help Thou mine unbelief."*
 
+## Autumn 1966
+
+In Arthur Miller's play *After the Fall*, there is a line whose absolute and prophetic value has been confirmed and amplified over the years. These years have seen the rise of drugs, hallucinogens, LSD in particular, marijuana (*the pot*), mescaline, peyote, ololiuqui, and teonanacatl (I learned these from Gigi Tz., who copied a list from an American magazine), along with opiates, hashish, and heroin. All these substances, deified by Thomas Leary and his countless followers, have become mass commodities and widely consumed goods:  
+*"But no pill can make us innocent."*
+
+Yes, pills may bring sleep, or more specifically drowsiness, or an escape into apathetic disconnection. But innocence, no. Only Christ can grant and preserve that, in His paradoxical way, as always: by giving us a sense of guilt.
+
+---
+
+### The Paradox of Christ: Life, Death, and Transformation
+
+Christ works paradoxically with sinners, with life, and with death. As Karl Barth explains: the grace of justification is our life, and the grace of sanctification is our death. This means that, in the act of justification, the Lord tells the dead (the sinner): *Live!* Then, after He has raised the sinner from death and called them to life, He tells the now-living: *Die!* The repentant sinner—the once-dead who has been called to life—must now die to worldly things.  
+
+*"Under these two determinations, and no others, the Christian life must be lived."*  
+
+Here lies the complete dialectic of *mors et vita*: first, He brings you to life; then, He calls you to die, so that you may truly live.  
+
+Ah, if that is life, life is no easy thing—it is a kind of death. We often talk about life as if we understand it, yet perhaps we do not truly know what life is (just as we do not know what death is). Perhaps we grope through the stifling haze of a limbo, confused by a vague language. This is the state of the lukewarm.
+
+From Arthur Miller’s statement, it also becomes clear that happiness and peace cannot be created by ourselves, materially—they are given to us from above. Yet another proof of God’s existence.
+
+---
+
+### December 31, 1959
+
+I was not at all surprised when my father woke me up early on the morning of the 31st. I was perfectly calm, having slept soundly. I believed I had passed the danger, that on New Year's Eve there was no longer any risk.  
+
+But why was my father waking me? He was worried about the bread.  
+
+I glanced at the clock: five o'clock. I assured him there was plenty of time.  
+
+"It’s not about the bread," he said. "You have something to do. At eight o’clock, you are summoned somewhere."  
+
+He showed me a slip of paper. Yes, it was an invitation to appear at 8 a.m. on Ștefan Furtună Street—as a witness.  
+
+I understood. But not entirely: why as a witness? Why hadn’t they come at night to take me, as they had with everyone else?  
+
+I grimaced bitterly at my reflection in the bathroom mirror as I shaved. I wasn’t afraid so much as I felt mocked, tricked: at the very last moment, *snatched onto the train just as it departed.* What irony—someone was toying with me, leisurely, like a cat with a mouse. And that’s why the cat is devilish—it’s the only animal that mocks its prey before devouring it.  
+
+I was fuming. The bitter, ironic smile of a pessimist who knows everything ends poorly stayed on my face even as I got ready.  
+
+---
+
+#### My Father
+
+My father was a small man, rather plump, with a slightly crooked shoulder. He moved with difficulty. He had been an engineer and worked in the factory, not an office, until he was 79 years old, in 1956. At Scăeni, where he worked in his later years, the glassworkers would point up when I asked for him—he would be perched atop a furnace, just inches from the ceiling.  
+
+"If an engineer cannot replace any of his workers and do their job at least as well as they can," he used to say, "then he’s lost."  
+
+He had served in the war as an officer and was decorated. He had received citizenship through a special law voted by Parliament before 1914. But ultimately, who was he? An old Jewish man from Bucharest, a very small pensioner, with a few memories, a handful of friends, some medals hidden in a little box, and one son.  
+
+We lived together in a single room. My entire life, I had caused him trouble. *"He’s not a bad boy,"* he would say, *"but he’s an old child."*  
+
+---
+
+#### The Summons
+
+The summons had arrived on the afternoon of the 30th, while I was out. It was handed to my father, who had signed for it. But he hadn’t shown it to me when I returned late in the evening—he didn’t want to disturb my sleep.  
+
+For the first time, I felt a faint, almost imperceptible inkling of something noble, a premonition of the magnanimity I would later encounter often in detention. For now, it was just a flicker, a slight tremor. But my father’s gesture—it could not have been easy for him to act as though nothing had happened—tied a knot of emotion in my throat.
+
+---
+
+#### Transformation and the General of the Resistance
+
+In prison, I heard stories—widely varying—about the film *General della Rovere*.  
+
+It’s a product of Italian neo-realism and a tale of transformation with a touch of Pirandello. A petty thief from Rome, through a series of complex circumstances, ends up playing the role of a general who is the head of the Italian resistance. His physical resemblance helps him assume the role, which he gradually falls in love with, as well as the world of political prisoners, where sacrifice and honor are commonplace.  
+
+Eventually, the former crook and conman, refusing to betray the real leader of the resistance, pays the price of his imposture with his life. The German officer who oversees the execution respects him. The fake general dies solemnly and with dignity, perhaps surpassing even the true General della Rovere in courage and grandeur.  
+
+This story captivated me and left a profound impression. The Christian-Pirandellian transformation of the protagonist—a wretched thief turned noble hero—was deeply moving.  
+
+---
+
+#### Christianity as Transformation
+
+Christianity is transmutation—not of chemical elements, but of humans. This is *metanoia*.  
+
+This is Christ’s greatest miracle—not the multiplication of wine, fish, or bread; not the healing of the blind, the paralyzed, or the lepers; not even the resurrection of Jairus's daughter, the widow’s son, or Lazarus. These were signs for the weak in faith or acts of mercy.  
+
+The true miracle is the transformation of the soul. This miracle can take someone as flawed as Peter, who denied Christ, and inspire him to request crucifixion upside down. This is the wonder of faith: the profound, paradoxical transformation that transcends human limitations and leads to eternal life.
 
 
 \[...\]
