@@ -18,6 +18,20 @@ If one thinks this way, unwaveringly, they are saved. Nothing more can be done t
 
 Of course, this requires the decision to be firm and definitive. You declare yourself deceased, consent to your death, and eliminate all hope. You may have regrets, like Madame d'Houdetot; you may lament—but this moral and anticipatory suicide does not fail. The risk of yielding, of agreeing to denounce, or of making a fabricated confession then vanishes completely.
 
+#### The Second Solution: Alexandr Zinoviev's
+
+This solution is embodied by one of the characters in the book *The Yawning Heights*. The character is a young man presented under the allegorical nickname "The Misfit." The solution lies in total non-conformity within the system.
+
+The Misfit has no permanent residence, no proper documents, and no employment; he is a vagabond, a parasite, a penniless drifter. He lives from one day to the next, surviving on what he is given, what falls his way, or what he can scrape together. He wears rags, works sporadically, sometimes, and only if the opportunity arises. He spends most of his time in prisons or labor camps, sleeping wherever he can. He wanders. Under no circumstances will he enter the system—not even in the most insignificant, sinful, or low-commitment job. Not even as a pig keeper, rejecting the example of the protagonist in an Arthur Schnitzler novella, who, obsessed with fear of responsibility, ends up as a swineherd.
+
+No, the Misfit has existentially projected himself once and for all as an outcast, a scapegoat, a Buddhist beggar monk, a madman, free (and mad) in the name of freedom.
+
+Such a person, existing on the fringes of society, is also immune: no pressures can be exerted on him, for there is nothing to take from him, and nothing to offer him. He can be imprisoned, harassed, despised, mocked at any time—but he slips through their grasp. Once and for all, he has consented to live his life following the example and model of a perpetual night asylum. Out of poverty, distrust, and unseriousness, he has made a creed; he resembles a wild animal, a scrawny beast, or a highway robber. He is Ferrante Palia from Stendhal. He is Zacharias Lichter from Matei Călinescu. He is a secular *iurodivyi* (holy fool), an untiring wanderer (and if Wotan descended to this earth, what name would he bear? *Der Wanderer*), a wandering Jew.
+
+He is outspoken, talks incessantly, gives voice to the most dangerous anecdotes, knows no respect, mocks everything, says whatever comes to mind, and speaks truths that others dare not even whisper. He is the child from Andersen's tale of *The Emperor’s New Clothes*. He is the fool from *King Lear*. He is the wolf from La Fontaine’s bold fable: he knows nothing of collars.
+
+He is free, free, free.
+
 #### Links
 * [Philosophy](/philosophy)
 * [Physics](/physics)
