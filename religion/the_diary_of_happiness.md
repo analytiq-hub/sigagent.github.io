@@ -394,6 +394,92 @@ I was ordered to stand and empty my pockets. My vitamin tablets, notebook, watch
 Finally, the words I had both anticipated and dreaded were spoken:  
 *"You are now under arrest."*
 
+### **March 1966**
+
+#### **Discoveries in Dostoevsky and Holbein’s Vision**
+
+In Dostoevsky, I always find—stated plainly—what I have been sensing in darkness: light, suddenly. Regarding Holbein’s vision, I find the precise text:  
+
+> *“The painting is not beautiful... it is the corpse of a man who has just endured unspeakable suffering... if such a corpse (and it must look exactly as it does) was seen by his disciples... how could they have believed, looking at it, that this corpse would rise again?”*
+
+**They did not believe!**  
+
+> *“If death is so dreadful and the laws of nature so ruthless, how can they be conquered? And these people, who stood around the dead man, must have felt that night a terrible sadness, a deep dismay that suddenly shattered all their hopes and nearly everything they believed in.”*
+
+**He did not give them a knowing look!**
+
+---
+
+#### **Socrates and Jesus Christ**
+
+It would be logical for Socrates’ death—as a man—to bear the mark of disorder, blood, betrayal, and turmoil; but no, it was as serene and dignified as could be. By contrast, Christ’s death bears the full weight of tragedy, disgust, and horror.  
+
+- Socrates dies calmly, surrounded by faithful and attentive disciples, who hang on his every word as he serenely drinks the painless poison offered deferentially by the jailer.  
+- Abandoned and betrayed by his own, Christ writhes on the cross, tormented by thirst and covered in mockery.  
+
+Socrates dies like a nobleman; Christ dies like a wretch, between two thieves, on a wasteland.  
+Socrates thanks the gods for escaping the troubles of the material world; Christ cries out: *“Why have you forsaken me?”*
+
+The contrast between their deaths is total. Surprisingly, it is the divine death that appears inferior, clouded. The truth, however, is that it is infinitely more human. By contrast, Socrates’ death, for all its grandeur, seems literary, abstract, staged, and above all, unrealistic.  
+
+Socrates—sincerely and largely successfully—ascends from the human state to the divine. Christ, however, descends fearlessly into the lowest strata of the human condition.
+
+---
+
+#### **March 5, 1960: Transfer to Jilava**
+
+The van carried us, moving slowly and jolting, from Malmaison to Jilava before noon. We disembarked at Fort 13. Lieutenant Ștefan greeted us—an ape-like figure, with the demeanor of a penal colony sergeant in a noir film. He relished his role, drawing it out as if carefully playing his cards in a poker game.  
+
+We spent the rest of the day in a quarantine cell, tiny and unimaginably filthy, with overflowing waste buckets. In the evening, we were transferred to the *“Snake Pit”*—a vast, sinister, foul-smelling cavern. Despite the electric light, many dark corners remained, amplifying the oppressive atmosphere.  
+
+Everything—just like in so many other penitentiary places, though this was my first contact—appeared so lugubrious and heavy that it hardly seemed real.
+
+---
+
+#### **Meeting Dr. Voiculescu**
+
+The presence of Dr. Voiculescu, frail, mannered, peaceful, noble, and sharp of mind but visibly exhausted, brought an unexpected sense of peace.  
+
+Yet, I experienced an **odd sensation of immense joy** for several reasons:  
+1. I had finally escaped interrogation. Compared to the Securitate, the prison felt like a haven, an oasis, even a paradise.  
+2. My first encounter with the legionaries (at quarantine, it wasn’t just our group); I eagerly learned Morse code and Crainic and Gyr’s poetry, which amused them.  
+3. The calming presence of Dr. Voiculescu.  
+4. And finally, the **exhilarating memory** of the events in the van.
+
+---
+
+#### **An Epiphany in the Van**
+
+In the van, I was placed in a cramped compartment alongside Sandu L., a former legionary. Squeezed tightly together, he spoke to me almost immediately:  
+> *“I am sincerely sorry for having been a legionary. I ask for your forgiveness; it must be very unpleasant for you to be stuck here with me. Aren’t you disgusted?”*
+
+He barely finished before the roof of the van seemed to open, revealing the blue sky. I replied that he need not apologize and, if anything, I should apologize for being Jewish and for having to sit so close to him.  
+> *“When it comes to guilt, we are all guilty, equally, together,”* I said.  
+
+I suggested that, now that we had asked each other for forgiveness, we should reconcile, embrace, and call each other by name.  
+
+Under the dim light of the van, beneath the blue sky, we kissed each other on the cheek. We immediately experienced a state of indescribable happiness—pure, overflowing, and divine. Compared to this, all earthly pleasures—drink, eroticism, spectacles, food, books, travel, achievements, ministerial portfolios—were **nothing but dust and ashes, illusions, emptiness, and vanity.**  
+
+Waves of joy washed over us, overwhelming us. I asked Sandu—unintentionally echoing Saint Seraphim of Sarov with Motovilov in the forest—if he too could see the smile on my lips, which I could see on his: the smile of peace born from uncreated energies.
+
+---
+
+#### **Christ in Prison**
+
+At the *Snake Pit*, the guards were cruel, the atmosphere dramatic, and the memory of my encounter with Sandu L. vivid. The certainty of long suffering ahead filled me with the conviction that **Christ was present in the prison.**  
+
+I could not believe that everything could be so complete, that I could be so blessedly fortunate.  
+
+Dr. Voiculescu and Bishop Leu (crippled, moving on crutches, dressed in the rough garb of a mountain shepherd) were mocked and insulted at length by the guards, who seemed bored. Both were subjected to humiliation, insults, and curses.  
+
+---
+
+#### **The Possibility of Christianity**
+
+Despite this, I began to realize:  
+> *Christianity is possible; it is possible to act in a Christian way, to perform Christian gestures. Christianity can also be made tangible.*  
+
+I felt that perhaps the bells of Capra Church had not tolled in vain for me.
 
 
 \[...\]
