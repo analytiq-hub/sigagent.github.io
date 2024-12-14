@@ -103,7 +103,7 @@ I leave the house only on New Year’s Day, at noon, invited to lunch by lawyer 
 
 I casually ask the lawyer (though this is why I came, leaving my father alone) what he thinks about Article 209 of the Penal Code. He shrugs, somber and preoccupied: *"The conviction is certain—and very severe..."*
 
-## January 3-4, 1960
+### January 3-4, 1960
 
 "I don’t think it will be too long," says my father. "They’ll probably give you eight years. I’ll make sure to leave some money with Gică or another relative, from selling the radio, the cooking stove, the gas cylinder, and the books—so you’ll have something when you get out." *(He has no idea about the total confiscation of property for political convicts.)*
 
