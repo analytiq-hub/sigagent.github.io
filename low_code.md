@@ -11,6 +11,8 @@ title: Low Code Apps
   * [How to Install & Update n8n Locally](https://www.youtube.com/watch?v=YHsN8jb8A8M)
   * [The EASIEST Way to Self Host n8n in the Cloud](https://www.youtube.com/watch?v=T1UHpBPmtb4)
   * [How to Build Your Very First Workflow in n8n](https://www.youtube.com/watch?v=380Z8cZyFc8)
+* Austin Reed
+  * [How To Master N8N API Call in MINUTES: Connect ANY API with Ease](https://www.youtube.com/watch?v=GVLg72_xtM8)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
