@@ -16,7 +16,9 @@ title: Low Code Apps
   * [How To Master N8N API Call in MINUTES: Connect ANY API with Ease](https://www.youtube.com/watch?v=GVLg72_xtM8)
 * Coding Menace:
   * [How to self-host N8N in the cloud for FREE for UNLIMITED automations](https://www.youtube.com/watch?v=UHHkehy3SQk)
-* Anthony Sidashin: [My experience using n8n, from a developer perspective](https://pixeljets.com/blog/n8n/) (22024)
+* Anthony Sidashin:
+  * [Self hosting is awesome](https://pixeljets.com/blog/self-hosted-is-awesome/) (2024)
+  * [My experience using n8n, from a developer perspective](https://pixeljets.com/blog/n8n/) (22024)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
