@@ -719,35 +719,51 @@ When I finished, I was glad I had shown no sign of weakness and had begun to war
 > "In the end, it may be that God does not need to punish us. He simply turns His face away from us, which means He withdraws His protective grace and leaves us to the whims of chance and the interconnectedness of the material world. We fall under the zodiac of randomness and mechanics: woe to us!"
 ---
 
-### **March 7, 1960**
+### March 7, 1960
 
-The guard shoved me inside. Now I stood frozen by the door. I looked around. I was in a vast bomb shelter, overwhelmed by an unbelievable stench. The shelter was brightly lit. It resembled a geometrically amplified night asylum. I was overcome by a dual and contradictory feeling of emptiness and overcrowding. On both sides were four rows of iron bunks rising nearly to the vaulted ceiling. The window before me was boarded up, and on the inside of the boards were iron bars. Between the rows of beds was a narrow table, two narrow and rickety benches, and, in the far-right corner, a tub, a basin, and a covered bucket. That was it. Along the floor by the beds stretched what seemed to be endless rows of boots.
+I was ushered inside. Now I stand frozen near the door. I look around. I am in an enormous bomb-like structure, assaulted by an unbelievable stench. The space is brightly lit—a sort of geometric, amplified night shelter. I am gripped by a contradictory dual sensation of desolation and congestion. On both sides, there are four rows of iron beds rising nearly to the high vaulted ceiling. 
 
-A few vigorous snores did not break the deep silence—like scattered clouds that fail to disrupt the unity of a violently blue sky. Occasionally, there was a rattle. The metallic sound of the locks and keys had woken no one, and this surprised me. I began to tremble from the cold, rooted in my sparse clothing, with the bundle in my right hand, blinded by the aggressive light. The various breaths sounded dissonant and diverse. I stood like this for a long time, waiting, but saw no movement. With my eyes, I searched for a place where I could settle, to lie down. I saw none. And no one saw me.
+The window before me is boarded up, beyond which are iron bars. In the space between the beds, there is a narrow table, two equally narrow, rickety benches, and in the back-right corner, a tub, a basin, and a covered vat. That's all. On the floor along the beds lie seemingly endless rows of boots. 
 
-After a long scrutiny of the walls with their external sarcophagi, I lowered my gaze and noticed a mixture of dirt, cement, gravel, and mud. The room seemed unspeakably hostile, malevolent—I felt foolish and lost. I was overcome by exhaustion but even more so by fear. It felt like an exam for which you do not know the subject matter. A completely different kind of terror than at the Security Service interrogations.
+A few deep snores do not break the profound silence, much like isolated clouds that do not disturb the unity of a violently blue sky. Occasionally, there is a rasping sound. The metallic clanking of bolts and keys has not awakened anyone, and this amazes me. 
 
-*(Premonitions are not always valid. I had no idea, as I stood on the threshold of that stinking, brightly lit bomb shelter caught in a bifurcated whirlpool of snoring and silence, that I would find access to happiness within it.)*
+I begin to shiver from the cold, standing immobilized in my scant clothing with my bundle in my right hand, blinded by the aggressive light. The breaths around me are varied and discordant. I stay like this for a long time, waiting, but I discern no movement. My eyes search for a place to settle, to lie down. I see none, and no one notices me.
 
-For now, I scanned up and down again, right and left, persistently, fearfully.
+After thoroughly scanning the walls with their sarcophagus-like extensions, I look downward and find a mix of clay, cement, gravel, and mud. The room seems unspeakably hostile and malevolent. I feel ridiculous and lost, overcome by exhaustion and, above all, fear—as if facing an exam for which I know nothing of the material. A wholly different kind of horror compared to the interrogations at Securitate.
+
+(Premonitions are not always reliable. I did not know, on the threshold of that smelly, intensely lit "bomb" caught in the bifurcated whirl of snores and silence, that within it I would find access to happiness.)
+
+For now, my eyes wander again, scanning up and down, right and left, everywhere, persistently, fearfully.
 
 Light and emptiness.
 
-*(Everything can be defiled; here, even the light is cold and cruel. "How you have fallen from heaven, morning star, son of the dawn."* In *1984*, Winston Smith is in the place "where there is no darkness." And what does that place turn out to be? The interrogation and prison rooms! But he was not lied to: there is always light, but what kind of light? Likely the kind sparked by the fall of the angel Lucifer, seen by God as he plummeted like lightning into the depths.)*
+(Everything can be trampled upon; here even the light is cold and cruel. *How you have fallen from heaven, O shining star, son of the morning.* Winston Smith in *1984*: the place where there is no darkness—and what does that place turn out to be? The interrogation and prison rooms! Yet, he wasn’t lied to: it is always light there. But what kind of light? Perhaps the kind struck by the fall of the angel Lucifer, when the Lord saw him plummeting, like lightning, into the depths.)
 
-Suddenly, high above, in the far-left corner, on the topmost row, a hand raised a finger and motioned for me to climb.
-
----
-
-How to climb? The hand—clearly endowed with sight and understanding of my frantic search for a way up—was joined by another, likely its twin. They gestured climbing motions. With my bundle in hand, awkward and shivering, I became monkey enough to clamber up the iron beds. A small, emaciated figure, ghastly pale—a hue that seemed outside the chromatic spectrum of our universe—shifted closer to another mummy and silently urged me to lie beside it. It covered me with half of a tattered blanket and whispered:
-
-> "Lie down for a bit; it won’t be long."
+Suddenly, high up in the far-left corner on the topmost row of beds, a hand raises a finger, beckoning me to climb.
 
 ---
 
-> *Perhaps the most terrible words spoken by the Savior are found in Luke 22:67: "If I tell you, you will not believe."*
+### March 15, 1960
 
-This is the human condition. We do not believe Him. We do not believe one another. We do not want to, cannot, do not know how, dare not, or strive to believe others. Experiences are incommunicable. We come to understand certain things—what of it? We are not believed. We can speak, but we cannot establish communication, cannot make a connection. What remains for us to do, except, following His example, to remain silent (without scowling)?
+Catechesis lessons have concluded. The baptism, scheduled for the fifteenth, takes place as planned. Father Mina chooses the moment he deems most appropriate: when the prisoners return from the yard, a time of maximum commotion when the guards are busy. We must act quickly and clandestinely in full view of everyone—a conspiracy in broad daylight, like in Wells’ stories.
+
+I remain behind while the others go out for their exercise, as I have a purulent sore on my right foot from my worn boot. Alone in the emptied room, with only a few others excused from the walk, I sense an eerie stillness. The silence becomes, as Cervantes put it, a spectacle.
+
+When the crowd returns noisily, carrying the tub, basin, and a "reservoir" of water, Father Mina swiftly grabs the sole mug in the room—a chipped, greasy, and repulsive red enamel cup—and fills it with freshly brought water. He rushes to my bunk, joined by the two Greek-Catholic priests and my chosen godfather, Em. V., a former lawyer and professor. 
+
+Father Mina recites the necessary words, marks me with the sign of the cross, pours the entire cup of water over my head and shoulders, and baptizes me in the name of the Father, the Son, and the Holy Spirit. Confession is brief: baptism washes away all sins. I am born anew, from muddy water and swift spirit.
+
+Afterward, we move to a Greek-Catholic priest’s bunk near the tub and basin, where I recite the Orthodox creed as previously agreed. I renew my vow to remember that I was baptized under the seal of ecumenism. It is done. The baptism is fully valid even without immersion or anointing.
+
+---
+
+### Reflection
+
+To those baptized as infants, the meaning of baptism remains a mystery. For me, happiness now assails me in waves, each stronger and more precise than the last. It is true: baptism is a holy sacrament, and the holy mysteries do exist. Otherwise, this joy—so overwhelming, so complete—could not be so astonishingly wonderful.
+
+Peace. Absolute detachment. Sweetness in my mouth, in my veins, in my muscles. A drive to forgive everyone. A pervasive gentleness, like an aura around me. And a sense of absolute safety. I am a new man, infused with a fresh vitality. *Behold, I make all things new* (Revelation 21:5). *If anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come* (2 Corinthians 5:17).
+
+This baptism is a discovery, an unveiling of the infinite.
 
 \[...\]
 
