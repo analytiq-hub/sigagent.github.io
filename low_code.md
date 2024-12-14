@@ -7,7 +7,10 @@ title: Low Code Apps
 * [Boomi Flow Workshop: Low-Code Apps Anyone Can Build](https://www.brighttalk.com/webcast/17879/568037) (2023)
 
 #### [n8n](https://github.com/n8n-io)
-* [How to Install & Update n8n Locally](https://www.youtube.com/watch?v=YHsN8jb8A8M)
+* Leon Van Zyl
+  * [How to Install & Update n8n Locally](https://www.youtube.com/watch?v=YHsN8jb8A8M)
+  * [The EASIEST Way to Self Host n8n in the Cloud](https://www.youtube.com/watch?v=T1UHpBPmtb4)
+  * [How to Build Your Very First Workflow in n8n](https://www.youtube.com/watch?v=380Z8cZyFc8)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
