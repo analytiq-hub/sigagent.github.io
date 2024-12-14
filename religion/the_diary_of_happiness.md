@@ -123,6 +123,51 @@ I descend the stairs at a normal pace without looking back. I exit the block’s
 
 There are destinies, omens, telepathy. On the street, completely empty at first—even though it’s not early—a single person suddenly appears around the corner: an officer from the Ministry of Internal Affairs. I shiver.
 
+### The Worst Moments at the Security Service
+
+Two Instances:
+
+1. **The Confrontation with the Group Leader**
+
+One night, very late, I was stubbornly denying something—on a point, incidentally, quite secondary: who brought from Paris Mircea Eliade’s latest novel and Eugen Ionescu’s plays? Was it Marietta Sadova? (I find that for a coward like me, stubbornness is the only safe haven.) Suddenly, I was threatened with a confrontation with the group leader.
+
+At first, I didn’t understand why the confrontation was presented as a threat. *(I was still a novice.)* On the contrary, I found solace in the idea of seeing Dinu again. The prospect of meeting in the middle of the night, in the Security Service offices, with a former prominent representative of the "pro-legionary" intellectuals, carried me on the foolish and naïve wings of adolescent imagination—the same candid and disarming imagination that even the most battered and mediocre of old men still carry in the hidden corners of their souls. There, stupidity fortifies itself, like treponema driven by bismuth into the depths of vital organs. I envisioned something dramatic, noble, and heroic. We would compete to deny. We would compete to defend each other. We would smile. We would shake hands. We would suffer together.
+
+> “Bring the leader in, officer,” I said. “Let him come.”
+
+The investigator rang a bell, whispered an order, and, after a long, silent wait, Dinu Ne. was brought in. I had been strictly ordered not to speak a word, shattering many of the elements of my projected heroism.
+
+I sat quietly at the desk at the back of the interrogation room, watching; I was focused, attentive—just eyes and ears. *(Just eyes, like Mikhail Strogov watching his mother, Marfa.)*
+
+What horrified and depressed me beyond any expression was both Dinu’s physical appearance and his demeanor. 
+
+- **Appearance**: Thin, yellowish, unshaven, dressed in shabby clothes that didn’t fit but hung off him. It had only been a year and a few months since I last saw him, and yet he seemed to have traversed unknown slopes of another world. And those black glasses, my nightmare—they symbolized darkness, the opposite of Christ’s light. *(“Come, receive the light… He was life, and the life was the light of men. And the light shines in the darkness…”)*
+  
+  The black glasses weren’t just a police accident, a mere technique for intimidation during interrogation. Nor were they simply a refined method to strike at the most vulnerable nerve centers—those of higher reason. They were much more—and that’s why they were so terrifying. *(“Surround me, Lord, with the boundless power of Your life-giving cross, and protect me, Lord, from all evil, amen!”)* The glasses were the sign and seal of the beast, the father of lies, the prince of fear, the ruler of darkness.
+
+- **Demeanor**: This skinny, ragged specter, once introduced into the room and seated by the guard with his face to the investigator’s desk, immediately stood at attention. The glasses weren’t removed, and I wasn’t allowed to speak, so he had no way of knowing I was present.
+
+All my imagined heroics turned to dust. We were in the same room, yet on entirely different orbits—practically, he was on Alpha Centauri. We were like soulless electrons, hostile nations within some ancient Assyrian empire founded on conquest, or like the parallel lives of chickens, cats, dogs, and calves in a barnyard, indifferent to each other. All these creatures share only one geometric point of connection: us, humans. And even we are so different, reduced to interjections and onomatopoeias when attempting to communicate with them, living on circles that never intersect.
+
+The group leader spoke in a submissive, prompt, concentrated tone—a tone that evoked long and painful training. We will all end up like this. 
+
+He denied nothing, confirmed everything, and pronounced my name carelessly, indifferently. *(Later, from the case file before the trial, I would discover that I was first on the list of friends he associated with.)* The examination was short, and the candidate answered quickly and accurately. He even bowed a few times. The black glasses gave him the air of a pitiful beggar, resigned and obedient, like the poor and destitute characters in the moralistic novels of the previous century, when society was strong and stable, and everyone behaved in accordance with their station.
+
+I wasn’t any better than him; I remained silent, obedient to orders. I didn’t shout: *“Dinu, I’m here! Dinu, hold on, my friend! I’ve decided to do the right thing.”* I didn’t shout because I was afraid and because I was angry—like a child from whom a toy has been taken away. Sulking, simmering with rebellion, shivering with disappointment, and burned by betrayal, I watched Dinu and the investigator as a child watches grown-ups—resentful and heartbroken, realizing they’re only good at making promises and breaking them, leading you on and then abandoning you.
+
+---
+
+2. **The Second Confrontation with T.**
+
+Much later, after being brought back from Gherla, first to Jilava and then again to the Security Service, I was confronted with T. This time, T. had acquired a strange new role as a "professional witness." She hadn’t been sent to serve her sentence in a penitentiary; they kept her at Malmaison and brought her to testify in various trials for the prosecution.
+
+This time, the investigator threw it at me from the start: 
+
+> “You’re not who you used to be.”
+
+I had wised up. I had become cunning, a seasoned prisoner familiar with interrogations. I knew how to defend myself; I had learned. I had picked up their tricks. I had heard them laugh. *(This, by the way, is the great difference between us and those in the West—the unknowing ones. We have heard them laugh. And, whether we liked it or not, painfully, slowly, we too were forced to awaken, to access the hard-to-understand and even harder-to-achieve condition: that of the cunning survivor.)*
+
+
 \[...\]
 
 
