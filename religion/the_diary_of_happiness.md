@@ -71,7 +71,7 @@ You may protest, perhaps, arguing that these solutions imply a form of life equi
 
 And the secret of those who cannot fit into the totalitarian abyss is simple: they love life, not death.  
 
-But death—who alone has conquered it? The One who trampled it with His own death.
+But death — who Alone has conquered it? The One who, raised from the dead, dieth no more.
 
 
 #### Links
