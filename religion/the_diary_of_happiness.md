@@ -672,6 +672,82 @@ A sergeant, who also served as the prison barber, climbed onto the clerk’s pla
 
 Finally, the tribunal returned to announce that the sentence would be delivered in three days. We were hurried out, and as we stepped from the exit to the waiting transport van, we caught a fleeting glimpse of the gray sky, sleet falling, and a sharp breath of fresh air.
 
+### **May 1939 – March 1960: Fragments of Experience**
+
+#### **London, May 1939**
+
+The Lound family lives in the very center of London, in an elegant neighborhood near Regent's Park. I was recommended and accepted as a *paying guest*—a delightfully hypocritical British phrase to mean "boarder." I arrived in the evening, following a dreadful flight: turbulent winds had raged over the English Channel without pause, and we all, including the crew, vomited everything we had into bags at first and then wherever it landed. Once I set foot on British soil, I was met with kindness—a sweet compensation for the cold irony of the French. At the airport, strangers rushed toward us with bottles of cognac, urging us to drink, insisting that it was the only remedy after such a gut-wrenching experience. The taxi driver showed his concern, and the Lound family's housekeeper greeted me with a deferential smile, letting me know I was excused from wearing evening attire for that first night. 
+
+The pastor of the house welcomed me with enchanting words (and let someone dare tell me, after the Security Service interrogations, five years in prison, and three and a half years of manual labor alongside gypsies, that politeness is an outdated vanity—I would spit in their face without hesitation): “In our home, please feel as though you’re at a hotel, and allow us to treat you as a friend.”
+
+Mrs. Lound and one of the daughters (an assistant at a dental office) were somewhat more reserved. The pastor and his other daughter, a schoolteacher in a small town outside London who stayed home from Friday night to Sunday, were the embodiment of gentleness and simplicity. I quickly noticed how the English, as cold as they may seem abroad, are equally friendly and welcoming at home. Hospitable, open, and understanding, they recognize everyone’s right to be mad or to ruin their life as they see fit, in whatever way they choose. They consider the need for faith to be entirely natural.
+
+In the afternoons, Mr. Lound would sometimes invite me to his study, where he made coffee in an electric kettle. Every morning, before the hearty breakfast, he took me for a brisk, almost military walk through the endless Regent’s Park. He showed me all sorts of elegant villas (some of very poor taste, imitations of every possible style), which had belonged or still belonged to prominent figures. There were also ponds in the park, and I eagerly approached some delightfully charming ducks. To get closer, I crouched, called to them, and cooed at them with “uti-uti.” The ducks quacked politely, just as much as needed. Back home, during breakfast, the pastor told everyone how, when he tried to draw my attention to the architectural marvels in the park, I abandoned him and went off “to worship some ducks.”
+
+---
+
+From London, I wrote to Manning in Bedford, the young civil servant I had met in Interlaken. He replied promptly and invited me to attend a Group meeting in a few days in Eastham, a suburb of London.
+
+Calling it a suburb is a stretch, as I traveled by metro and then train for over an hour and a half. In the Eastham town hall, I rediscovered the same atmosphere of sincerity and naïve purity I had encountered in Interlaken. The speakers were passionate and serious, the audience attentive and serious, everyone taking notes and marking down the Bible verses cited. There was a palpable diligence, perhaps not surprising among people convinced that the Lord would come like a thief, possibly at any moment, unexpectedly. Why not even now?
+
+During the break, the conversations were as lively as they had been in Interlaken. People exchanged addresses, recommended magazines and books, exhibitions and courses, and shared their most intimate spiritual confidences without hesitation. Tea was served on small trays. I marveled at how they managed to do everything at once—walk, drink tea, nibble on biscuits, talk, write, preach, stay informed, greet each other, smile, and ponder. I saw the Irishman again, who slowly approached me to remind me of the dream he had. I listened more attentively than I had in Interlaken but with even greater skepticism, accompanied by a subtle inner smile—neither malicious nor mocking, but slightly condescending. His vision of me among the Lord’s worshippers seemed both touching and childlike. I felt a bit sorry for the man—undoubtedly well-meaning—but I disliked how he put so much faith in dreams and lacked modesty in his fantasies.
+
+---
+
+In London, I often visited churches, cathedrals, and chapels—not only to see them but also to wait for something that never came. I went to my host’s church, though I did not take communion, even when invited. My reasoning was that I had not confessed. The pastor, familiar with Catholicism and Orthodoxy (he had been the titular pastor of the Anglican Church in Paris for several years), was impressed by my reasoning and did not insist. Mr. Lound, who leaned toward middle-to-high church traditions, respected a believer who refrained from the altar out of unworthiness.
+
+I also visited many religious associations and centers. In London, their names appear frequently on streets, like commercial establishments. Religion is everywhere; you encounter Christ at every step. They say *The Lord*. On the continent, religious discretion is strict. In England, it is not. People speak of matters of the soul and faith in the most natural way. Whenever I passed by a building with a plaque bearing the name of a religious organization, I went inside. Inside, I found meeting rooms, libraries, filing cabinets, piles of magazines and brochures, photographs, testimonies, telephones, and secretaries. Offices. (But is it any different in Babylon? As Pierre Benoit said: *Le Pape, c’est des bureaux.*) I was received kindly by people who were a little hurried but who listened to me and summarized their respective creeds. I found this part rather stereotypical. But I was always moved when they suggested, with unforced sincerity, “a few moments of meditative silence together” or a prayer. *Let us pray*: they knelt in the middle of the office or reception room or archives as casually as if pulling a white handkerchief from their pocket to clean their glasses. They loaded my arms with leaflets and brochures, or “pamphlets,” as they liked to call them.
+
+---
+
+In Hyde Park, I often stopped and lingered in front of the preachers. A group of sectarians sang, and I approached them with my hat on and umbrella in hand. (It was a clear day, with no sign of clouds; if it had rained, I would have taken my raincoat instead of the umbrella.) They asked me to remove my hat since their song was a psalm. I politely declined, driven by some sudden stubbornness, refusing to uncover myself on command. What came over me? They persisted, patient and unoffended, accustomed as they were to the devil’s varied antics. Eventually, they left me to the Lord’s judgment, and I walked away—filled with bitterness.
+
+---
+
+### **March 6, 1960**
+
+At long last, I, too, am been taken out and brought to a small office tucked into the vaulted corridor's alcove. I was interrogated, identified, and stripped. I was left with just a towel, a bar of soap, a toothbrush, toothpaste, two pairs of socks, one shirt, and one pair of underwear, from which I made a small bundle. I looked at the clock above the alcove and saw that it was much earlier than I had thought. A very tall and burly guard motioned for me to follow him. (At the "snake pit," they were chatty; now they work in silence.) But he did not lead me toward the row of metal doors laden with locks and bolts, behind which I presumed the cells lay. Instead, we went outside into the courtyard.
+
+This early March night was a blizzardy one. It reminded me of the opening of *The Joker of Cards* by Edgar Wallace: 
+
+*"Young Gregory, known as the Cocaine Man, had been found in a ditch in Lambeth. He had died before the duty officer at Waterloo Bridge, who had heard the shots, could arrive on the scene. He had been killed in the street, on snow and wind, with no witnesses. When they took him to the morgue and searched his clothes, nothing was found except a small metal box full of a white powder—cocaine—and a playing card, the Joker of Cards!"*
+
+I stood there in nothing but a shirt and underwear. The guard pointed to a massive pile of suitcases, sacks, backpacks, bundles, and bags, ordering me to carry them all from the courtyard into a small room near the corridor’s entrance, along which the doors were lined. Some of the suitcases were very heavy. I labored, trembling and chattering, not just from the cold but also from being caught in a dreadful draft, for nearly two hours. The guard, bundled in a Siberian-style fur coat as thick as the day is long, with felt boots over his regular boots, had raised his fur-lined collar and pulled the flaps of his ushanka hat over his ears. He huddled in a corner, resembling the Invisible Man from the H.G. Wells film, sitting on a surly chair from which he likely observed me. Surely, he was also cold—and for reasons I do not know—I felt he did not enjoy watching me scurry back and forth, half-naked, skinny, and frail.
+
+When I finished, I was glad I had shown no sign of weakness and had begun to warm up. The guard motioned for me to follow him again, rattling a ring of enormous keys. He stopped at cell 18, opened the heavy door, yawned, and shoved me inside.
+
+> "In the end, it may be that God does not need to punish us. He simply turns His face away from us, which means He withdraws His protective grace and leaves us to the whims of chance and the interconnectedness of the material world. We fall under the zodiac of randomness and mechanics: woe to us!"
+---
+
+### **March 7, 1960**
+
+The guard shoved me inside. Now I stood frozen by the door. I looked around. I was in a vast bomb shelter, overwhelmed by an unbelievable stench. The shelter was brightly lit. It resembled a geometrically amplified night asylum. I was overcome by a dual and contradictory feeling of emptiness and overcrowding. On both sides were four rows of iron bunks rising nearly to the vaulted ceiling. The window before me was boarded up, and on the inside of the boards were iron bars. Between the rows of beds was a narrow table, two narrow and rickety benches, and, in the far-right corner, a tub, a basin, and a covered bucket. That was it. Along the floor by the beds stretched what seemed to be endless rows of boots.
+
+A few vigorous snores did not break the deep silence—like scattered clouds that fail to disrupt the unity of a violently blue sky. Occasionally, there was a rattle. The metallic sound of the locks and keys had woken no one, and this surprised me. I began to tremble from the cold, rooted in my sparse clothing, with the bundle in my right hand, blinded by the aggressive light. The various breaths sounded dissonant and diverse. I stood like this for a long time, waiting, but saw no movement. With my eyes, I searched for a place where I could settle, to lie down. I saw none. And no one saw me.
+
+After a long scrutiny of the walls with their external sarcophagi, I lowered my gaze and noticed a mixture of dirt, cement, gravel, and mud. The room seemed unspeakably hostile, malevolent—I felt foolish and lost. I was overcome by exhaustion but even more so by fear. It felt like an exam for which you do not know the subject matter. A completely different kind of terror than at the Security Service interrogations.
+
+*(Premonitions are not always valid. I had no idea, as I stood on the threshold of that stinking, brightly lit bomb shelter caught in a bifurcated whirlpool of snoring and silence, that I would find access to happiness within it.)*
+
+For now, I scanned up and down again, right and left, persistently, fearfully.
+
+Light and emptiness.
+
+*(Everything can be defiled; here, even the light is cold and cruel. "How you have fallen from heaven, morning star, son of the dawn."* In *1984*, Winston Smith is in the place "where there is no darkness." And what does that place turn out to be? The interrogation and prison rooms! But he was not lied to: there is always light, but what kind of light? Likely the kind sparked by the fall of the angel Lucifer, seen by God as he plummeted like lightning into the depths.)*
+
+Suddenly, high above, in the far-left corner, on the topmost row, a hand raised a finger and motioned for me to climb.
+
+---
+
+How to climb? The hand—clearly endowed with sight and understanding of my frantic search for a way up—was joined by another, likely its twin. They gestured climbing motions. With my bundle in hand, awkward and shivering, I became monkey enough to clamber up the iron beds. A small, emaciated figure, ghastly pale—a hue that seemed outside the chromatic spectrum of our universe—shifted closer to another mummy and silently urged me to lie beside it. It covered me with half of a tattered blanket and whispered:
+
+> "Lie down for a bit; it won’t be long."
+
+---
+
+> *Perhaps the most terrible words spoken by the Savior are found in Luke 22:67: "If I tell you, you will not believe."*
+
+This is the human condition. We do not believe Him. We do not believe one another. We do not want to, cannot, do not know how, dare not, or strive to believe others. Experiences are incommunicable. We come to understand certain things—what of it? We are not believed. We can speak, but we cannot establish communication, cannot make a connection. What remains for us to do, except, following His example, to remain silent (without scowling)?
 
 \[...\]
 
