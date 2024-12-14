@@ -16,7 +16,7 @@ This solution consists, for anyone stepping over the threshold of the Security S
 
 If one thinks this way, unwaveringly, they are saved. Nothing more can be done to them. They can no longer be threatened, blackmailed, deceived, or tricked. Since they consider themselves dead, nothing can frighten, seduce, or provoke them. They can no longer be manipulated. They no longer have—because they no longer hope, because they have left the world—anything to yearn for, preserve, or regain, nor anything for which to sell their soul, peace, or honor. There is no currency left in which the price of their betrayal can be paid.
 
-Of course, this requires the decision to be firm and definitive. You declare yourself deceased, consent to death, and eliminate all hope. You may have regrets, like Madame d'Houdetot; you may lament—but this moral and anticipatory suicide does not fail. The risk of yielding, of agreeing to denounce, or of making a fabricated confession, vanishes completely.
+Of course, this requires the decision to be firm and definitive. You declare yourself deceased, consent to your death, and eliminate all hope. You may have regrets, like Madame d'Houdetot; you may lament—but this moral and anticipatory suicide does not fail. The risk of yielding, of agreeing to denounce, or of making a fabricated confession then vanishes completely.
 
 #### Links
 * [Philosophy](/philosophy)
