@@ -32,6 +32,48 @@ He is outspoken, talks incessantly, gives voice to the most dangerous anecdotes,
 
 He is free, free, free.
 
+#### The Third Solution: Winston Churchill and Vladimir Bukovsky
+
+This solution can be summarized as follows: in the face of tyranny, oppression, misery, disasters, calamities, dangers—not only do you refuse to give up, but you also draw from them a mad desire to live and fight.
+
+In March 1939, Churchill told Martha Bibescu: *"There will be war. The British Empire will be reduced to dust and ashes. Death is stalking us all. And yet, I feel as though I am twenty years younger."*
+
+The worse things get—the more immense the difficulties, the harder the blows, the more surrounded or attacked you are, the less hope you have, the more the grayness, darkness, and viscous entanglements intensify and tighten—the more you long for the fight, and the more you experience a growing, inexplicable, and overwhelming euphoria.
+
+You are assaulted from all sides by forces infinitely greater than your own: you fight. They defeat you: you defy them. You are lost: you attack. (This is how Churchill spoke in 1940.) You laugh, sharpen your teeth and knife, and grow younger. You are tingled with happiness—the indescribable joy of striking back, even if far less effectively than they strike you. Not only do you refuse to despair, to declare yourself defeated and overcome, but you also fully savor the joy of resistance, of defiance, and you feel an unstoppable, madly exuberant sense of joy.
+
+This solution, of course, requires exceptional strength of character, a military philosophy of life, a formidable moral resilience, a will of hardened steel, and adamantine spiritual health. It likely also requires a sporting spirit: to enjoy the battle itself—the clash—more than success.
+
+This approach, too, is salvational and absolute because it is based on a paradox: the more they strike you, hurt you, impose ever more unjust suffering, and corner you in increasingly hopeless situations, the happier you become. The stronger you grow. The younger you feel.
+
+Churchill’s solution aligns with Vladimir Bukovsky’s as well. Bukovsky recounts that when he received his first summons to the KGB headquarters, he couldn’t close his eyes all night. Naturally, the reader of his memoirs might assume it was due to fear, insecurity, or emotion. But Bukovsky continues: *"I couldn’t sleep out of impatience. I could hardly wait for morning to confront them, to tell them everything I thought about them, and to charge at them like a tank. I couldn’t imagine greater happiness."*
+
+This is why he couldn’t sleep: not out of fear, worry, or emotion, but from the impatience to shout the truth to their faces and to charge at them like a tank!
+
+I doubt more extraordinary words have ever been spoken or written. And I wonder—not claiming it as truth, merely pondering—whether this universe, with its swarms of galaxies each containing thousands or millions of stars, each surrounded by billions of planets, all measured in light-years, parsecs, and unfathomable distances; whether all this matter, these stars, comets, satellites, pulsars, quasars, black holes, cosmic dust, meteors, and so on; whether all the eras, eons, times, and space-time continua, whether all Newtonian and relativistic astrophysics—could have come into existence for the sole purpose of allowing Bukovsky’s words to be spoken.
+
+---
+
+#### Conclusion
+
+All three solutions are certain and unfailing.  
+
+I know of no other ways to escape from a life-threatening situation, a totalitarian universe, the clutches of a Kafkaesque process, a domino game, a labyrinth, an interrogation room, fear and panic, a mouse trap, or a phenomenal nightmare. Only these three. But any one of them is sufficient, effective, and liberating.
+
+Take note: **Solzhenitsyn**, **Zinoviev**, **Churchill**, **Bukovsky**.  
+- The acceptance, assumption, anticipation, or provocation of death.  
+- Indifference and defiance.  
+- Bravery accompanied by a wild sense of joy.  
+
+You are free to choose. But you must realize that, speaking in worldly and human terms, it is highly unlikely you will find another way to confront the iron circle—which, in large part, is also a chalk circle (see Camus’s *State of Siege*: the foundation of dictatorship is a phantom: fear).  
+
+You may protest, perhaps, arguing that these solutions imply a form of life equivalent to death—or worse than death—or involving the risk of physical death at any moment. And that is true. Are you surprised? That is because you have not read Igor Shafarevich, because you have not yet learned that totalitarianism is not so much the solidification of an economic, biological, or social theory, but rather the manifestation of an attraction to death.  
+
+And the secret of those who cannot fit into the totalitarian abyss is simple: they love life, not death.  
+
+But death—who alone has conquered it? The One who trampled it with His own death.
+
+
 #### Links
 * [Philosophy](/philosophy)
 * [Physics](/physics)
