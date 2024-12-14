@@ -356,6 +356,45 @@ This is Christ’s greatest miracle—not the multiplication of wine, fish, or b
 
 The true miracle is the transformation of the soul. This miracle can take someone as flawed as Peter, who denied Christ, and inspire him to request crucifixion upside down. This is the wonder of faith: the profound, paradoxical transformation that transcends human limitations and leads to eternal life.
 
+#### **4 January 1960**
+
+On Monday, at eight in the morning, I arrived at the Security headquarters after three days of so-called "reflection." The gates were locked tight, and I found myself in the ridiculous situation of waiting in front of a prison—or its antechamber, at least—like someone stranded at a desolate train station, clutching my battered suitcase as though I were waiting for a third-class passenger car on a train that might never come.
+
+Eventually, a hurried soldier arrived, unfastened some chains and locks, and allowed me to enter. I was escorted to the room designated for witnesses.
+
+Inside, the same committee awaited me. My suitcase immediately drew their ire, sparking an explosion of indignation.  
+*"So, you didn’t come to your senses? Still making a show of yourself? Have you been infected by the Legionary fanaticism? Don’t worry; we won’t give you the pleasure of being arrested. You want to play the hero? Forget it. Didn’t you talk to your father? What did he say?"*
+
+Compelled by some demon of pride, and perhaps by a reckless desire to impress (as my friend Alecu would later remark), I coolly repeated my father’s words—an amalgam of stoic defiance reminiscent of Regulus and Cambronne. Then, to punctuate the moment, I casually pulled a vitamin C tablet from my pocket, placed it in my mouth, and felt a surge of calm and pride.
+
+---
+
+#### **The Performance Repeats Itself**
+
+One by one, the members of the committee addressed me again, replaying the same theater as the last interrogation. This time, however, the urgency was gone. Everything felt slower, more deliberate, and professional. The threats returned in full force, but so did the cajoling. It was a cyclical dance: intimidation followed by soothing words, then back to intimidation.
+
+The narrative about my father was a central refrain:  
+*"Your father will die like a dog unless you cooperate."*  
+They seemed frustrated by my failure to yield to their vision of my father’s wisdom and influence. The drawn curtains were again employed to oscillate between creating an oppressive atmosphere of fear and moments of deceptive relief.
+
+Oddly, by this second round, I was less frightened and more entertained, even amused by the predictability of their tactics.
+
+---
+
+#### **The Turning Point**
+
+Around 4:00 p.m., arrest still seemed unlikely. But suddenly—perhaps at a preordained moment—the atmosphere shifted dramatically. The questions came faster, the voices climbed into harsh registers, and every word was raw and cutting.
+
+By 5:00 p.m., the transformation was complete. They unleashed a torrent of insults:  
+*"You scoundrel, you wretch, you piece of trash!"*
+
+I was ordered to stand and empty my pockets. My vitamin tablets, notebook, watch, handkerchief, and even my belt were confiscated.  
+*"You’ll see, you fanatic, you showpiece!"*
+
+Finally, the words I had both anticipated and dreaded were spoken:  
+*"You are now under arrest."*
+
+
 
 \[...\]
 
