@@ -129,6 +129,7 @@ title: Entrepreneurship
   * [Episode 5: Smart money vs dumb money, why you need both](https://www.youtube.com/watch?v=jZa_vpteQMM)
   * [Episode 6: Most CFOs suck, and this is why](https://www.youtube.com/watch?v=LZmih89nC7c)
   * [Episode 7: Trends in accounting. Difference in market services between bookkeeper, accountant, CFO. Hire slower, fire faster. A conversation with serial entrepreneur, Michael Ly](https://www.youtube.com/watch?v=u-fnz1gQzKE)
+* a16z: [How Zapier Became Profitable in 3 Years and Scaled to $5B with Wade Foster](https://www.youtube.com/watch?v=98Afn21BFxE) (2024)
 
 #### LLCs
 * Jim Hart:
