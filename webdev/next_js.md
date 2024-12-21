@@ -15,6 +15,7 @@ title: Next.js
 * [NextAuth Course, signin fb, twitter, auth0, google, github and email. Firebase and mongodb adapter](https://www.youtube.com/watch?v=uLjS5DVgSvc) (2023)
 * [Authentication in Next.js 14 with NextAuth.js](https://www.pedroalonso.net/blog/authentication-nextjs-with-nextauth/) (2024)
 * Gabriel L. Manor: [Implementing RBAC Authorization in Next.js](https://www.permit.io/blog/how-to-add-rbac-in-nextjs) - 2024 Updated Guide
+* Mesut Kilincaslan: [Role-Based Access Control in Next.js with NextAuth](https://medium.com/@mkilincaslan/rbac-in-next-js-with-nextauth-b438fe59eeeb) (2024)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
