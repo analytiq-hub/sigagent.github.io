@@ -14,6 +14,7 @@ title: Next.js
 * Aaron A: [How to use Mongodb Adapter with CredentialsProvider in NextAuth](https://dev.to/aaronaira/how-to-use-mongodb-adapter-with-credentialsprovider-in-nextauth-48hh) (2023)
 * [NextAuth Course, signin fb, twitter, auth0, google, github and email. Firebase and mongodb adapter](https://www.youtube.com/watch?v=uLjS5DVgSvc) (2023)
 * [Authentication in Next.js 14 with NextAuth.js](https://www.pedroalonso.net/blog/authentication-nextjs-with-nextauth/) (2024)
+* Gabriel L. Manor: [Implementing RBAC Authorization in Next.js](https://www.permit.io/blog/how-to-add-rbac-in-nextjs) - 2024 Updated Guide
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
