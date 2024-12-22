@@ -75,6 +75,7 @@ title: Physics
 #### Twistors
 * Wiki: [Amplituhedron](https://en.wikipedia.org/wiki/Amplituhedron)
   * Natalie Wolchover: [A Jewel at the Heart of Quantum Physics](https://www.quantamagazine.org/physicists-discover-geometry-underlying-particle-physics-20130917/) (2013)
+  * [Nima Arkani-Hamed: The End of Space-Time](https://www.youtube.com/watch?v=GL77oOnrPzY) (2022)
 
 #### Lecture Notes
 * [Intermediate Classical Mechanics](http://www.physics.usu.edu/torre/3550_Fall_2013/), Charles Torre (2013)
