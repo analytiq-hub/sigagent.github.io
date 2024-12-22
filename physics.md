@@ -72,6 +72,9 @@ title: Physics
 #### Geometric Mechanics
 * [Melvin Leok](https://mathweb.ucsd.edu/~mleok/): [Foundations of Computational Geometric Mechanics](https://mathweb.ucsd.edu/~mleok/pdf/siam_spp_paper.pdf), written as a student paper. See his homepage for more recent work.
 
+#### Twistors
+* Wiki: [Amplituhedron](https://en.wikipedia.org/wiki/Amplituhedron)
+
 #### Lecture Notes
 * [Intermediate Classical Mechanics](http://www.physics.usu.edu/torre/3550_Fall_2013/), Charles Torre (2013)
 
