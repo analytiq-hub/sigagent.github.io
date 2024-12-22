@@ -121,6 +121,7 @@ title: Physics
   * [Cumrun Vafa: String Theory](https://www.youtube.com/watch?v=j4_VyRDOmN4) (2021). See his explanation of the difference between physics and math.
   * [Peter Woit: Theories of Everything & Why String Theory is Not Even Wrong](https://www.youtube.com/watch?v=nDDJFvuFXdc) (Dec 2021)
   * [Leonard Susskind: Quantum Mechanics, String Theory and Black Holes](https://www.youtube.com/watch?v=s78hvV3QLUE) (2020)
+  * [Donald Hoffman: Reality is an Illusion - How Evolution Hid the Truth](https://www.youtube.com/watch?v=reYdQYZ9Rj4) (2022)
 * 3Blue1Brown: [Some light quantum mechanics (with minutephysics)](https://www.youtube.com/watch?v=MzRCDLre1b4)
 * Physics with Elliot: [Before You Start On Quantum Mechanics, Learn This](https://www.youtube.com/watch?v=Nd4b0_vJZUk)
 * Gerard 't Hooft
