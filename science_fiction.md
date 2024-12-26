@@ -6,6 +6,10 @@ title: Science-Fiction
 #### Books
 * Isaac Asimov: [The Foundation Trilogy: Foundation, Foundation and Empire, Second Foundation ](https://www.amazon.com/Foundation-Empire-Second/dp/0307593967)
 
+#### Film
+* Apple TV's [Foundation](https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3) series (2022)
+* [Foundation: Crucifying A Masterwork](https://www.youtube.com/watch?v=AOHfbDnkPEI)
+
 #### English radio
 * [Foundation Trilogy](https://www.youtube.com/watch?v=d2nls_jN1hw), BBC radio drama (1977)
 
