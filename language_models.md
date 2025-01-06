@@ -41,6 +41,7 @@ title: Language Models
 * [DeepSeek-V3 Technical Report](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf) (2024)
 * Cameron Wolfe: [Scaling Laws for LLMs: From GPT-3 to o3](https://cameronrwolfe.substack.com/p/scaling-laws-for-llms-from-gpt-3) (2024)
 * Nathan Lambert: [OpenAI's o3: The grand finale of AI in 2024](https://www.interconnects.ai/p/openais-o3-the-2024-finale-of-ai) (2024)
+* S. Welleck et al: [From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models](https://arxiv.org/pdf/2406.16838) (2024)
 
 #### Economic Impact:
 * McKinsey
