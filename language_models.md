@@ -39,6 +39,7 @@ title: Language Models
 * X.L. Li, P. Liang: [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf) (2021)
 * B. Lester et al: [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf) (2021), a simplification of the prev article on prefix tuning
 * [DeepSeek-V3 Technical Report](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf) (2024)
+* Cameron Wolfe: [Scaling Laws for LLMs: From GPT-3 to o3](https://cameronrwolfe.substack.com/p/scaling-laws-for-llms-from-gpt-3)
 
 #### Economic Impact:
 * McKinsey
