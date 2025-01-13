@@ -53,6 +53,7 @@ title: Yoga and Pilates
   * [40m dancer workout](https://www.youtube.com/watch?v=CxfAULXP8SM), [35m full body barre](https://www.youtube.com/watch?v=TC3HV61YoOg)
 * Stretch
   * [30m pilates yoga workout - full body stretch and strengthen](https://www.youtube.com/watch?v=lytHuRfbKdg)
+  * [Marie Steffen](https://www.youtube.com/@MarieSteffen): [20 Minute Mobility x Core Workout](https://www.youtube.com/watch?v=p9_P7fiVQPg) (2024)
 * Strength & Stretch
   * Boho Beautiful: [Morning Yoga Workout](https://www.youtube.com/watch?v=oX6I6vs1EFs)
   * [Julia Reppel](https://www.youtube.com/@julia.reppel): [25 Min. Full Body Mobility Workout - Circuit Training](https://www.youtube.com/watch?v=jPdft5H34C8) (2022)
