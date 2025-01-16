@@ -13,6 +13,7 @@ title: Webdev
   * PedroTech: [All The JavaScript You Need To Know For React](https://www.youtube.com/watch?v=m55PTVUrlnA) (2022)
 * [Odin Project](https://www.theodinproject.com/)
   * [FullStack Javascript](https://www.theodinproject.com/paths/full-stack-javascript)
+* [web.lab](https://weblab.mit.edu/schedule), MIT IAP (2025)
 
 #### Tools
 * [render](https://render.com) - point to github repo and render web site
