@@ -45,6 +45,7 @@ title: Amazon Web Services
   * VPN Client
     * Enler Academy: [How to Access AWS Resources Securely via VPN?](https://www.youtube.com/watch?v=KwdDQhzBIXk) (2023)
     * [Mutual authentication](https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/mutual.html)
+    * CloudInDepth: [Authenticate AWS Client VPN users with AWS IAM Identity Center](https://www.youtube.com/watch?v=l4TpB_MV8tI) (2024)
 * ECS
   * KodeKloud:
     * [AWS ECS Tutorial](https://www.youtube.com/watch?v=esISkPlnxL0)
