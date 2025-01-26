@@ -96,7 +96,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Opera](/opera)
 * [Open Source](/open_source)
 * [OCR](/ocr)
-* [Other](/other)
+* [Payment Platforms](/payment_platforms)
 * [Philosophy](/philosophy)
 * [Physics](/physics)
 * [Probabilities and Statistics](/probabilities_and_statistics)
