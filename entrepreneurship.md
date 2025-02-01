@@ -34,7 +34,7 @@ title: Entrepreneurship
   * [Advice from investor who backed 40 Unicorns: Elad Gil](https://www.youtube.com/watch?v=nLA90pa-34A) (2024)
 * Charles Duhigg: [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) (2014)
 * Peter Thiel:  [Zero to One](https://www.amazon.com/Zero-Peter-Thiel-Blake-Masters/dp/0753555204/ref=asc_df_0753555204) (2001)
-  * [Peter Thiel’s CS183: Startup—Stanford](https://meetingdelleidee.files.wordpress.com/2012/08/cs183-startup-stanford-spring-2012.pdf) (2012)
+  * [Peter Thiel's CS183: Startup—Stanford](https://meetingdelleidee.files.wordpress.com/2012/08/cs183-startup-stanford-spring-2012.pdf) (2012)
 * David S. Landes (editor) et al: [The Invention of Enterprise: Entrepreneurship from Ancient Mesopotamia to Modern Times](https://www.amazon.com/Invention-Enterprise-Entrepreneurship-Mesopotamia-Foundation/dp/0691143706) (2010)
 * Noam Wasserman: [The Founder's Dilemmas: Anticipating and Avoiding the Pitfalls That Can Sink a Startup](https://www.amazon.com/Founders-Dilemmas-Anticipating-Foundation-Entrepreneurship/dp/0691158304/) (2013). Reader [review](https://www.amazon.com/gp/customer-reviews/R30LFOBZV5NAVE/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0691158304)
 * Brad Feld, Jason Mendelson: [Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist](https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1119594820), 4th ed. (2019)
@@ -59,7 +59,7 @@ title: Entrepreneurship
   * [Part 4: The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) (2007)
   * [The Psychology of Entrepreneurial Misjudgment: Biases 1-6](https://pmarchive.com/psychology_of_entrepreneurial_misjudgment.html) (2008)
 * J. Vrionis, S. Hedge: [How to find product market fit: the counterintuitive secrets](https://www.unusual.vc/post/how-to-find-product-market-fit) (2023)
-* Sandeep Mishra: [Tinbergen’s four questions and variance explained: Why business (and all behavioral science) needs evolutionary theory](https://www.prosocial.world/posts/tinbergens-four-questions-and-variance-explained-why-business-and-all-behavioral-science-needs-evolutionary-theory) (2018)
+* Sandeep Mishra: [Tinbergen's four questions and variance explained: Why business (and all behavioral science) needs evolutionary theory](https://www.prosocial.world/posts/tinbergens-four-questions-and-variance-explained-why-business-and-all-behavioral-science-needs-evolutionary-theory) (2018)
 * Harj Taggar:
   * [Conversation and Ideas](https://harj.posthaven.com/conversations-and-ideas) (2020)
   * [Book Review: Creativity in Science](https://harj.posthaven.com/book-review-creativity-in-science) (2022)
@@ -94,7 +94,7 @@ title: Entrepreneurship
 * Fireside Chat w/ Elad Gil:
   * [Reid Hoffman - AI, Big Tech, & Startups](https://www.youtube.com/watch?v=6QySKWkYlPc) (2023)
 * TechCrunch
-  * [5 investors discuss Boston’s resilient tech ecosystem](https://techcrunch.com/2023/02/27/5-investors-discuss-why-bostons-tech-ecosystem-is-as-resilient-as-they-come/) (Feb 2023)
+  * [5 investors discuss Boston's resilient tech ecosystem](https://techcrunch.com/2023/02/27/5-investors-discuss-why-bostons-tech-ecosystem-is-as-resilient-as-they-come/) (Feb 2023)
 * Jason Calacanis: 
   * [The Blueprint E 1: Branding yourself](https://youtu.be/7BHdaE9sDtA?t=94) 
   * [The Blueprint E 3: How to build and supercharge your network](https://www.youtube.com/watch?v=aYbogrgHFXg&t=)
@@ -162,7 +162,7 @@ title: Entrepreneurship
 #### Management
 * Andreas Klinger: [How to use Gmail more efficiently](https://klinger.io/posts/how-to-use-gmail-more-efficiently) (2013)
 
-#### Business Models
+#### Business Models {#business-models}
 * Alexander Osterwalder
   * [Tools for Business Model Generation](https://www.youtube.com/watch?v=8GIbCg8NpBw) (2013)
   * [Competing on Business Models](https://www.youtube.com/watch?v=kIxs_BY6r6I) (2019)
@@ -233,7 +233,7 @@ title: Entrepreneurship
 #### Boston Startup Resources
 * [Startup Boston](https://www.startupbos.org/): community events
 * [VentureFizz](https://venturefizz.com/): tech industry company profiles
-* The Boston Business Jounal’s startup news – though the Globe has occasional startups coverage (and Scott Kirsner’s always-excellent column), for my money the BBJ is the most consistent, best quality Boston startup reporting currently available.
+* The Boston Business Jounal's startup news – though the Globe has occasional startups coverage (and Scott Kirsner's always-excellent column), for my money the BBJ is the most consistent, best quality Boston startup reporting currently available.
 * Coworking spaces: [CIC](https://cic.com/), [VentureLane](https://theventurelane.com/), and [WorkBar](https://www.workbar.com/)
 * [Mass Fintech Hub](https://massfintechhub.com/)
 * [Fintech Sandbox](https://fintechsandbox.org/)
