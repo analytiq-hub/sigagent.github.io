@@ -12,6 +12,10 @@ title: Funding for Entrepreneurship
 * [Neo](http://neo.com)
 * [O'Shaughnessy Ventures](https://www.osv.llc/)
 
+#### Talks
+* MIT Course 15.393: [Nuts and Bolts of New Ventures](http://nutsandbolts.mit.edu/index.php) (2025)
+  * Joseph Hadzima: [Investing in New Ventures](https://www.youtube.com/watch?v=BGd1uUgjP6s)
+
 #### Funding Securities
 * SAFE Notes
   * [What are safe notes](https://kruzeconsulting.com/safe-notes/)
