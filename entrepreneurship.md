@@ -170,6 +170,11 @@ title: Entrepreneurship
   * [Introduction to the Business Model Canvas](https://www.youtube.com/watch?v=I8nwNcCfyig) (2022)
   * [Business Model Canvas Example: Training Business](https://www.youtube.com/watch?v=4vtTliobKlE)
 * IIBA: [Business Model Canvas Technique - Business Analysis Live](https://www.youtube.com/watch?v=dY3CNwq8iiU)
+* Nick Himo
+  * [Business Model Canvas - A Guide for Beginners](https://www.youtube.com/watch?v=LbbGRgGKSyg)
+  * [Explaining the Business Model Canvas](https://www.youtube.com/watch?v=N_gbN2aYAZs)
+  * [The $3 billion business model you can copy - Calendly Blueprint](https://www.youtube.com/watch?v=ApLju-ckrlw)
+  * [Explaining Customer Relationships - Business Model Canvas](https://www.youtube.com/watch?v=CbGN8AtmvRA)
 
 #### Startup Surveys
 * [The Perplexity AI Approach](https://docs.google.com/document/d/1EoNhgszwNzVFwxlJWyk40NFYWG7B1wk_FgsqpfSNG9s)
