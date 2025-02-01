@@ -7,6 +7,8 @@ title: Marketing for Entrepreneurship
 * Ahmad Munawar: [90 day pipeline](https://go.90daypipeline.com)
   * [Consulting Mastery](https://podcasts.apple.com/us/podcast/consulting-mastery/id1674660040) podcast
   * [Becoming CEO](https://podcasts.apple.com/us/podcast/becoming-ceo/id1637199993) podcast
+* [Greg Isenberg](https://www.youtube.com/@GregIsenberg)
+  * [Modern Marketing Strategies with Cody Schneider](https://www.youtube.com/watch?v=7z-TD1KY08U)
 
 #### Other
 * [Entrepreneurship](/entrepreneurship)
