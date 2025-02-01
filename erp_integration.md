@@ -19,6 +19,7 @@ title: ERP Integration
   * [Enterprise Integration Patterns](https://camel.apache.org/components/latest/eips/enterprise-integration-patterns.html)
 * [Mulesoft](https://www.mulesoft.com/)
   * API management and integration platform
+  * [guthub](https://github.com/mulesoft/mule)
   * [Getting Started with Mulesoft](https://www.youtube.com/watch?v=3HU6_6zKj6E) (2023)
 
 #### Articles
