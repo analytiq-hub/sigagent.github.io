@@ -15,6 +15,7 @@ title: Entrepreneurship
 * [Jackson Lu](https://www.pnas.org/doi/full/10.1073/pnas.1918896117)
   * [Why East Asians but not South Asians are underrepresented in leadership positions in the United States](https://www.pnas.org/doi/full/10.1073/pnas.1918896117) (2019)
 * MIT Course 15.393: [Nuts and Bolts of New Ventures](http://nutsandbolts.mit.edu/index.php) (2025)
+  * Mindy Garber:[Negotiation Skills](https://www.youtube.com/watch?v=XYvjKZPSe5g)
 
 #### Books
 * Steve Blank: [The Four Steps to the Epiphany:  Successful Strategies for Products that Win](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/1119690358) (2007, fourth ed)
