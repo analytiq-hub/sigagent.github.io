@@ -5,9 +5,7 @@ title: ERP Integration
 #### Companies
 * [Merge.dev](https://merge.dev/)
   * Unified API for HR, Payroll, Accounting, Ticketing, CRM, ATS
-  * [How Merge's unified API helps developers integrate faster](https://www.youtube.com/watch?v=8LGYkM2Xz94) (2023)
-  * [Merge.dev - The Unified API for B2B integrations](https://www.youtube.com/watch?v=2QSxE9W9Qms) (2023)
-* [Isoform](https://www.isoform.io/)
+* [Isoform](https://www.isoform.ai/)
   * Integration platform for ERP, CRM, and accounting systems
   * Specializes in NetSuite, Salesforce, and QuickBooks integrations
 * [Workato](https://www.workato.com/)
