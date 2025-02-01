@@ -19,6 +19,7 @@ title: ETL - Extract, Transform, Load
   * [Logging](/cloud_data_platform/logging)
   * [Orchestrators](/cloud_data_platform/orchestrators)
 * [Data Centers](/data_centers)
+* [ERP Integration](/erp_integration)
 * [Machine Learning](/machine_learning)
 * [Robotics](/robotics)
 * [Self Driving Cars](/self_driving_cars)

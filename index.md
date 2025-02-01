@@ -52,6 +52,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Paul Graham](/entrepreneurship/paul_graham)
   * [Sales](/entrepreneurship/sales)
   * [Trends To Watch](/entrepreneurship/trends_to_watch)
+* [ERP Integration](/erp_integration)
 * [Film](/film)
 * [Finance](/finance)
 * [Game Theory](/game_theory)

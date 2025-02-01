@@ -94,14 +94,14 @@ title: Cloud Data Platform
     * [Kubeflow v Metaflow](https://valohai.com/blog/kubeflow-vs-metaflow/)
 * Metaflow
   * Netflix Tech Blog: [Open-Sourcing Metaflow, a Human-Centric Framework for Data Science](https://medium.com/netflix-techblog/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9) (2019)
-  * A. Goblet: [A Review of Netflix’s Metaflow](https://medium.com/bigdatarepublic/a-review-of-netflixs-metaflow-65c6956e168d) (2019)
+  * A. Goblet: [A Review of Netflix's Metaflow](https://medium.com/bigdatarepublic/a-review-of-netflixs-metaflow-65c6956e168d) (2019)
   * Ricardo Raspini Motta: [Kedro vs ZenML vs Metaflow: Which Pipeline Orchestration Tool Should You Choose?](https://neptune.ai/blog/kedro-vs-zenml-vs-metaflow) (2024)
   * [Deploying Infrastructure for Metaflow](https://docs.metaflow.org/getting-started/infrastructure)
   * Ville Tuulos: [Metaflow: The ML Infrastructure at Netflix](https://www.youtube.com/watch?v=JCbOI_1ZA5E)
 * Petastorm
   * [Docs](https://petastorm.readthedocs.io/en/latest/index.html)
   * [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/)
-  * [Introducing Petastorm: Uber ATG’s Data Access Library for Deep Learning ](https://eng.uber.com/petastorm/) (2018)
+  * [Introducing Petastorm: Uber ATG's Data Access Library for Deep Learning ](https://eng.uber.com/petastorm/) (2018)
   * Databricks docs: [Load data using Petastorm](https://docs.databricks.com/applications/machine-learning/load-data/petastorm.html)
   * Yevgeni Litvin: [Petastorm: A Light-Weight Approach to Building ML Pipelines](https://www.infoq.com/presentations/petastorm-ml-pipelines/) (2019), [slides](https://qcon.ai/system/files/presentation-slides/yevgeni_-_petastorm_16th_apr_2019_.pdf), [2018 video](https://www.youtube.com/watch?v=CcGVCjqXgUY)
   * L. Zhang, Databricks: [Simplify Data Conversion from Spark to Deep Learning](https://www.youtube.com/watch?v=lQJO_aKGaFs), [slides](https://www.iteblog.com/ppt/data-ai-summit-2021/simplify-data-conversion-from-spark-to-tensorflow-and-pytorch_iteblog.com.pdf) (2021). This is an example of Petastorm and Horovod on Tensorflow and PyTorch.
@@ -159,6 +159,7 @@ title: Cloud Data Platform
   * [Feature Store](/cloud_data_platform/feature_store)
   * [Orchestrators](/cloud_data_platform/orchestrators)
 * [Data Centers](/data_centers)
+* [ERP Integration](/erp_integration)
 * [Machine Learning](/machine_learning)
 * [Robotics](/robotics)
 * [Self Driving Cars](/self_driving_cars)

@@ -20,7 +20,8 @@ title: Customer Relationship Management (CRM)
   * [Customer success](https://www.pega.com/customers?f%5B0%5D=solution%3A10236&f%5B1%5D=solution%3A10241&f%5B2%5D=solution%3A10256)
 
 #### Other
-* [Computer Vision](/computer_vision)
+* [Cloud Data Platform](/cloud_data_platform)
+* [ERP Integration](/erp_integration)
 * [Machine Learning](/machine_learning)
 * [MLOps](/mlops)
 * [Probabilities and Statistics](/probabilities_and_statistics)
