@@ -24,7 +24,7 @@ title: ERP Integration
 
 #### Articles
 * [The Rise of the Universal API](https://www.youtube.com/watch?v=D9yEf9c0VLQ) - Peter Zhou (Cofounder & CEO of Rutter) and Ansel Parikh (Cofounder & COO of Finch)
-* [ERP Integration Patterns and Best Practices](https://www.techtarget.com/searcherp/tip/6-ERP-integration-best-practices) (2023)
+* [ERP Integration Patterns and Best Practices](https://www.bigcommerce.com/articles/ecommerce/erp-integration/)
 
 #### Other
 * [Cloud Data Platform](/cloud_data_platform)
