@@ -12,7 +12,6 @@ title: ERP Integration
   * Enterprise automation platform for ERP integration
 * [Celigo](https://www.celigo.com/)
   * iPaaS platform specializing in ERP and business application integration
-  * [NetSuite Integration Made Easy](https://www.youtube.com/watch?v=8Z9FOBxwf5Y) (2023)
 
 #### Open Source Tools
 * [Apache Camel](https://camel.apache.org/)
