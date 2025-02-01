@@ -13,8 +13,11 @@ title: Funding for Entrepreneurship
 * [O'Shaughnessy Ventures](https://www.osv.llc/)
 
 #### Talks
-* MIT Course 15.393: [Nuts and Bolts of New Ventures](http://nutsandbolts.mit.edu/index.php) (2025)
-  * Joseph Hadzima: [Investing in New Ventures](https://www.youtube.com/watch?v=BGd1uUgjP6s)
+* MIT Course 15.393: [Nuts and Bolts of New Ventures](http://nutsandbolts.mit.edu/index.php) (2025, 2023)
+  * Joseph Hadzima: 
+    * [Investing in New Ventures](https://www.youtube.com/watch?v=BGd1uUgjP6s)
+    * [Using Stock and Options as Compensation](https://www.youtube.com/watch?v=k0VwD2le2kw)
+
 
 #### Funding Securities
 * SAFE Notes
