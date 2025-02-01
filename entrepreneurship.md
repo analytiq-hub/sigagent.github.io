@@ -15,7 +15,8 @@ title: Entrepreneurship
 * [Jackson Lu](https://www.pnas.org/doi/full/10.1073/pnas.1918896117)
   * [Why East Asians but not South Asians are underrepresented in leadership positions in the United States](https://www.pnas.org/doi/full/10.1073/pnas.1918896117) (2019)
 * MIT Course 15.393: [Nuts and Bolts of New Ventures](http://nutsandbolts.mit.edu/index.php) (2025)
-  * Mindy Garber:[Negotiation Skills](https://www.youtube.com/watch?v=XYvjKZPSe5g)
+  * Mindy Garber: [Negotiation Skills](https://www.youtube.com/watch?v=XYvjKZPSe5g)
+  * Rich Kivel: [Business Models](https://www.youtube.com/watch?v=hc435sR3a3w)
 
 #### Books
 * Steve Blank: [The Four Steps to the Epiphany:  Successful Strategies for Products that Win](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/1119690358) (2007, fourth ed)
@@ -162,8 +163,13 @@ title: Entrepreneurship
 * Andreas Klinger: [How to use Gmail more efficiently](https://klinger.io/posts/how-to-use-gmail-more-efficiently) (2013)
 
 #### Business Models
-* MIT IAP: 2025 Nuts and Bolts of New Ventures
-  * Rich Kivel: [Business Models](https://www.youtube.com/watch?v=hc435sR3a3w) (2025)
+* Alexander Osterwalder
+  * [Tools for Business Model Generation](https://www.youtube.com/watch?v=8GIbCg8NpBw) (2013)
+  * [Competing on Business Models](https://www.youtube.com/watch?v=kIxs_BY6r6I) (2019)
+* Optima Training
+  * [Introduction to the Business Model Canvas](https://www.youtube.com/watch?v=I8nwNcCfyig) (2022)
+  * [Business Model Canvas Example: Training Business](https://www.youtube.com/watch?v=4vtTliobKlE)
+* IIBA: [Business Model Canvas Technique - Business Analysis Live](https://www.youtube.com/watch?v=dY3CNwq8iiU)
 
 #### Startup Surveys
 * [The Perplexity AI Approach](https://docs.google.com/document/d/1EoNhgszwNzVFwxlJWyk40NFYWG7B1wk_FgsqpfSNG9s)
