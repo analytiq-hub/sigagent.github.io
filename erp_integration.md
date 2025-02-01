@@ -10,7 +10,6 @@ title: ERP Integration
   * Specializes in NetSuite, Salesforce, and QuickBooks integrations
 * [Workato](https://www.workato.com/)
   * Enterprise automation platform for ERP integration
-  * [Workato's approach to Enterprise Automation](https://www.youtube.com/watch?v=2Y3BqF_XKIg) (2023)
 * [Celigo](https://www.celigo.com/)
   * iPaaS platform specializing in ERP and business application integration
   * [NetSuite Integration Made Easy](https://www.youtube.com/watch?v=8Z9FOBxwf5Y) (2023)
