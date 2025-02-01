@@ -17,6 +17,7 @@ title: Funding for Entrepreneurship
   * Joseph Hadzima: 
     * [Investing in New Ventures](https://www.youtube.com/watch?v=BGd1uUgjP6s)
     * [Using Stock and Options as Compensation](https://www.youtube.com/watch?v=k0VwD2le2kw)
+* [Mike Moyer's Slicing Pie: A Fair and Logical Approach to Equity Distribution](https://www.youtube.com/watch?v=Vsd7QwbCATw) (2024)
 
 
 #### Funding Securities
