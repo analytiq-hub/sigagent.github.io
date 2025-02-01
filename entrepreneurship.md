@@ -161,6 +161,10 @@ title: Entrepreneurship
 #### Management
 * Andreas Klinger: [How to use Gmail more efficiently](https://klinger.io/posts/how-to-use-gmail-more-efficiently) (2013)
 
+#### Business Models
+* MIT IAP: 2025 Nuts and Bolts of New Ventures
+  * Rich Kivel: [Business Models](https://www.youtube.com/watch?v=hc435sR3a3w) (2025)
+
 #### Startup Surveys
 * [The Perplexity AI Approach](https://docs.google.com/document/d/1EoNhgszwNzVFwxlJWyk40NFYWG7B1wk_FgsqpfSNG9s)
 * [AI Startups in Accounting](https://docs.google.com/document/d/1J4z52KK_EDEAPRXoe-NSbcv-VtBwl77W2fzooourRNU)
