@@ -23,7 +23,7 @@ title: ERP Integration
   * [Getting Started with Mulesoft](https://www.youtube.com/watch?v=3HU6_6zKj6E) (2023)
 
 #### Articles
-* [The Rise of Universal APIs](https://www.linkedin.com/pulse/rise-universal-apis-merge-dev-plaid-bridge-api-kevin-william-david/) (2023)
+* [The Rise of the Universal API](https://www.youtube.com/watch?v=D9yEf9c0VLQ) - Peter Zhou (Cofounder & CEO of Rutter) and Ansel Parikh (Cofounder & COO of Finch)
 * [ERP Integration Patterns and Best Practices](https://www.techtarget.com/searcherp/tip/6-ERP-integration-best-practices) (2023)
 
 #### Other
