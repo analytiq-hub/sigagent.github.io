@@ -28,7 +28,6 @@ title: GPUs
     * Dequantize the non-outlier results and add both outlier and non-outlier results together to receive the full result in FP16.
   * HuggingFace python implementation
 
-
 #### Companies
 * Tesla
   * [Tesla Hardware 3 (Full Self-Driving Computer) Detailed](https://www.autopilotreview.com/tesla-custom-ai-chips-hardware-3/)
