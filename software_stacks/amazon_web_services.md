@@ -93,6 +93,7 @@ title: Amazon Web Services
   * [Build, Secure, Manage Serverless Applications at Scale on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/b34eab03-4ebe-46c1-bc63-cd2d975d8ad4/en-US)
   * [Tutorial: Using AWS Lambda with Amazon Kinesis](https://docs.aws.amazon.com/lambda/latest/dg/with-kinesis-example.html)
   * [Serverless on AWS Lambda: A Comprehensive Comparison Of Approaches (Serverless Framework vs SAM vs Terraform vs CloudFormation)](https://openupthecloud.com/serverless-approaches-comparison/)
+  * Zappa [github](https://github.com/zappa/Zappa?tab=readme-ov-file#large-projects): simplify the deployment of Python applications on AWS Lambda and API Gateway
 * SNS
   * A. Patel: [AWS — Difference between SQS and SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5) (2019)
   * Be A Better Dev: [AWS SQS vs SNS vs EventBridge - When to Use What?](https://www.youtube.com/watch?v=RoKAEzdcr7k) (2022)
