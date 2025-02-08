@@ -6,7 +6,10 @@ title: Robotics Process Automation
 #### Tutorials
 * [PyWinAuto Tutorial](https://www.youtube.com/watch?v=R4E4IOIC63s)
 
-#### Tools
+#### Agents
+* [Browser Use](https://github.com/browser-use/browser-use)
+
+#### Web Scraping Tools
 * [Selenium](https://www.selenium.dev/)
   * [Selenium Base](https://github.com/seleniumbase/SeleniumBase)
 * [Appium](https://appium.io/)
