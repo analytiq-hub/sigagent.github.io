@@ -6,6 +6,17 @@ title: Robotics Process Automation
 #### Tutorials
 * [PyWinAuto Tutorial](https://www.youtube.com/watch?v=R4E4IOIC63s)
 
+#### Tools
+* [Selenium](https://www.selenium.dev/)
+  * [Selenium Base](https://github.com/seleniumbase/SeleniumBase)
+* [Appium](https://appium.io/)
+* [Puppeteer](https://pptr.dev/)
+* [Playwright](https://playwright.dev/)
+* [Cypress](https://www.cypress.io/)
+
+#### Blog Posts
+* [Playwright vs Selenium vs Puppeteer vs Cypress](https://betterstack.com/community/comparisons/playwright-cypress-puppeteer-selenium-comparison/)
+
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
 * [Autonomous Agents](/autonomous_agents)
