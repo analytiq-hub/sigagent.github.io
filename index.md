@@ -113,7 +113,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [Religion](/religion)
 * [Robotics](/robotics)
   * [Grasp](/robotics/grasping)
-* [Robotics Process Automation](/robotics_process_automation)
+* [Robotics Process Automation (RPA) and Intelligent Process Automation (IPA)](/robotics_process_automation)
 * [Romania](/romania)
   * [Environment in Romania](/romania/environment)
 * [Science-Fiction](/science_fiction)

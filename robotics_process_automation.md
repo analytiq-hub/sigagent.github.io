@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: Robotics Process Automation
+title: Robotics Process Automation (RPA) and Intelligent Process Automation (IPA)
 ---
 #### Tutorials
 * [PyWinAuto Tutorial](https://www.youtube.com/watch?v=R4E4IOIC63s)
@@ -20,7 +20,12 @@ title: Robotics Process Automation
 #### Blog Posts
 * [Playwright vs Selenium vs Puppeteer vs Cypress](https://betterstack.com/community/comparisons/playwright-cypress-puppeteer-selenium-comparison/)
 
+#### Also see
+* [AI Computer Use](/ai_computer_use)
+
 #### Other
+* [AI Code Editors](/ai_code_editors)
+* [AI Computer Use](/ai_computer_use)
 * [Artificial Intelligence](/artificial_intelligence)
 * [Autonomous Agents](/autonomous_agents)
 * [Cognitive Science](/cognitive_science)

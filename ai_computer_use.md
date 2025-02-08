@@ -9,7 +9,11 @@ title: AI Computer Use
   * [Developing a computer use model](https://www.anthropic.com/news/developing-computer-use) (2024)
   * Docs: [Computer use](https://docs.anthropic.com/en/docs/build-with-claude/computer-use)
 
+#### Tools
+* [Browser Use](https://github.com/browser-use/browser-use)
 
+Also see:
+* [Robotics Process Automation (RPA) and Intelligent Process Automation (IPA)](/robotics_process_automation)
 
 #### Other
 * [AI Code Editors](/ai_code_editors)
@@ -31,5 +35,6 @@ title: AI Computer Use
 * [MLOps](/mlops)
 * [Probabilities and Statistics](/probabilities_and_statistics)
 * [Robotics](/robotics)
+* [Robotics Process Automation (RPA) and Intelligent Process Automation (IPA)](/robotics_process_automation)
 * [Self Driving Cars](/self_driving_cars)
 * [Computational Topology](/computational_topology)
