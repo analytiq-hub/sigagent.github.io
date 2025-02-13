@@ -19,6 +19,56 @@ title: Optical Character Recognition
 * https://github.com/1rgs/jsonformer - applies constrained token generation over the logits - so more useful for HuggingFace powered models
 * https://github.com/outlines-dev/outlines - claims more features
 
+#### Table Extraction 
+* Benchmarks
+  * SciTSR (Scientific Table Structure Recognition Dataset)
+    * [Dataset Link](https://github.com/Academic-Hammer/SciTSR)
+    * Contains 15,000 tables from scientific papers in PDF format
+    * Focuses on complex table structures with merged cells and hierarchical headers
+    * Includes both images and ground truth annotations in JSON format
+
+  * TableBank
+    * [Dataset Paper](https://arxiv.org/abs/1903.01949)
+    * [Dataset Link](https://github.com/doc-analysis/TableBank)
+    * 417,234 tables from Word and LaTeX documents
+    * Labeled with both table detection and structure recognition annotations
+    * Automatic labeling process using digital document formats
+
+  * PubTabNet
+    * [Dataset Link](https://github.com/ibm-aur-nlp/PubTabNet)
+    * [Paper](https://arxiv.org/abs/1911.10683)
+    * 568,000 tables extracted from PubMed Central Open Access Subset
+    * HTML representation of table structures
+    * Includes both simple and complex table layouts
+
+  * ICDAR Competitions Datasets
+    * [DocLayNet](https://github.com/DS4SD/DocLayNet)
+    * Focus on both modern and historical documents
+    * Includes table detection, structure recognition, and cell content extraction tasks
+
+  * ViDoRe Benchmark
+    * [Dataset Link](https://github.com/illuin-tech/vidore-benchmark)
+    * Comprehensive evaluation of document retrieval systems
+    * 100,000+ documents with rich visual elements
+    * Includes complex tables, figures, and layout structures
+
+  * TabStruct-Net
+    * [Dataset Link](https://github.com/Academic-Hammer/TabStruct-Net)
+    * 6,000+ tables from scientific papers
+    * Specialized in handling complex hierarchical table structures
+    * Includes cell relationship annotations
+
+  * FinTabNet
+    * [Dataset Link](https://developer.ibm.com/data/fintabnet/)
+    * 111,690 tables from financial documents (10-K reports)
+    * Annotated with table structure and cell semantic types
+    * Includes complex financial tables with nested headers and spanning cells
+    * Specifically designed for financial document understanding
+
+#### Companies
+* [Nanonets](https://nanonets.com/)
+
+
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
 * [Autonomous Agents](/autonomous_agents)
