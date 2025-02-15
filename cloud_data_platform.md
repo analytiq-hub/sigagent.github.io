@@ -28,6 +28,7 @@ title: Cloud Data Platform
     * [Create a cluster with JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub-launch.html)
 * [Facebook](/software_stacks/facebook)
 * [MongoDB](/software_stacks/mongodb)
+  * [MongoDB's GenAI Showcase](https://github.com/mongodb-developer/GenAI-Showcase)
 * [Ray](/software_stacks/ray)
 * [Uber](/software_stacks/uber)
 * [Weaviate](/software_stacks/weaviate)
