@@ -17,3 +17,4 @@ title: Python Programming Language
 #### Blog posts
 * [Porting Python2.7 code to Python3.6](https://bitdribble.github.io/python/2021/04/11/port-python2-to-python3/)
 * [Testing and Packaging a Python Library](https://www.mongodb.com/developer/products/mongodb/pytest-fixtures-and-pypi/)
+  * YouTube:[Testing & Packaging a Python Library: Coding with Mark](https://www.youtube.com/live/X9QqA0alA8Q) (2024)
