@@ -16,6 +16,7 @@ title: Robotics Process Automation (RPA) and Intelligent Process Automation (IPA
 * [Puppeteer](https://pptr.dev/)
 * [Playwright](https://playwright.dev/)
 * [Cypress](https://www.cypress.io/)
+* [AgentQL](https://www.agentql.com/)
 
 #### Blog Posts
 * [Playwright vs Selenium vs Puppeteer vs Cypress](https://betterstack.com/community/comparisons/playwright-cypress-puppeteer-selenium-comparison/)
