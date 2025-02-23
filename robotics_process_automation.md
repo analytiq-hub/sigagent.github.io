@@ -17,6 +17,9 @@ title: Robotics Process Automation (RPA) and Intelligent Process Automation (IPA
 * [Playwright](https://playwright.dev/)
 * [Cypress](https://www.cypress.io/)
 * [AgentQL](https://www.agentql.com/)
+  * [Playground](https://dev.agentql.com/playground)
+  * [Github](https://github.com/tinyfish-io/agentql/tree/main)
+  * Execute Automation: [AgentQL: How Deepseek & OpenAI Supercharge AI Agents for Web Scraping](https://www.youtube.com/watch?v=XzmkFSqTgtM)
 
 #### Blog Posts
 * [Playwright vs Selenium vs Puppeteer vs Cypress](https://betterstack.com/community/comparisons/playwright-cypress-puppeteer-selenium-comparison/)
