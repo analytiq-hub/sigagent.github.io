@@ -16,5 +16,8 @@ title: Python Programming Language
 
 #### Blog posts
 * [Porting Python2.7 code to Python3.6](https://bitdribble.github.io/python/2021/04/11/port-python2-to-python3/)
+
+#### PyTest
 * [Testing and Packaging a Python Library](https://www.mongodb.com/developer/products/mongodb/pytest-fixtures-and-pypi/)
   * YouTube:[Testing & Packaging a Python Library: Coding with Mark](https://www.youtube.com/live/X9QqA0alA8Q) (2024)
+* [Testing Async MongoDB AWS Applications with Pytest](https://handmadesoftware.medium.com/testing-async-mongodb-aws-applications-with-pytest-ca28da5fa0c6) (2024)
