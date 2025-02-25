@@ -23,6 +23,7 @@ title: Funding for Entrepreneurship
 #### Funding Securities
 * SAFE Notes
   * [What are safe notes](https://kruzeconsulting.com/safe-notes/)
+  * [In Lehmann's Terms](https://inlehmannsterms.substack.com): [How Safe are Safes?](https://inlehmannsterms.substack.com/p/how-safe-are-safes)
 
 #### Tools
 * [Brief Link](https://brieflink.com/)
