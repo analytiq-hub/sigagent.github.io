@@ -69,3 +69,5 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-pdf-embed # Per example at https://github.com/MihajloNesic/minimal-mistakes-pdf-example/
+
+future: true
