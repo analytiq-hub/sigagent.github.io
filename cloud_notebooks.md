@@ -6,8 +6,7 @@ title: Cloud Notebooks
 #### Cloud Notebook Platforms
 * [Google Colab](https://colab.research.google.com/)
   * Free tier with GPU/TPU access
-  * [Colab Pro](https://colab.research.google.com/signup) ($9.99/month) - better GPUs, longer runtimes
-  * [Colab Pro+](https://colab.research.google.com/signup) ($49.99/month) - premium GPUs, even longer runtimes
+  * Premium with better GPUs, even longer runtimes
 * [Kaggle Notebooks](https://www.kaggle.com/code)
   * Free GPU/TPU access
   * Integrated with Kaggle datasets and competitions
@@ -15,13 +14,10 @@ title: Cloud Notebooks
   * Free tier with 15GB storage and GPU access
   * No AWS account required
 * [Databricks Community Edition](https://community.cloud.databricks.com/)
-  * Free Spark clusters
-  * Limited to 15GB datasets
-* [Gradient by Paperspace](https://gradient.run/)
-  * Free tier with limited GPU hours
-  * Pay-as-you-go and subscription options
+* [Paperspace](https://www.paperspace.com/notebooks)
+  * Acquired by DigitalOcean
 * [Saturn Cloud](https://saturncloud.io/)
-  * Free tier with 30 hours/month
+  * Free tier
   * Dask integration for distributed computing
 * [Deepnote](https://deepnote.com/)
   * Collaborative notebooks with real-time editing
