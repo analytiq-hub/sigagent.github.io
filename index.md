@@ -32,6 +32,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Feature Store](/cloud_data_platform/feature_store)
   * [Logging](/cloud_data_platform/logging)
   * [Orchestrators](/cloud_data_platform/orchestrators)
+* [Cloud Notebooks](/cloud_notebooks)
 * [Cognitive Science](/cognitive_science)
 * [Computation Theory](/computation_theory)
 * [Computer Vision](/computer_vision)
