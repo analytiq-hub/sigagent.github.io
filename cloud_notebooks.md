@@ -37,13 +37,6 @@ title: Cloud Notebooks
 * **Persistence**: Runtime limitations, idle shutdown policies
 * **Storage**: Amount of free storage, data persistence between sessions
 
-#### Tips for Cloud Notebooks
-* Always implement checkpointing for long-running computations
-* Use version control integration when available
-* Download important notebooks regularly as backup
-* For GPU work, optimize code before execution to maximize limited free GPU time
-* Consider mounting cloud storage (Google Drive, S3) for persistent data access
-
 #### Other
 * [Colab](/colab)
 * [Jupyter Notebooks](/jupyter)
