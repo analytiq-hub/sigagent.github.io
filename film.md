@@ -14,6 +14,8 @@ title: Film
 * [Ivanhoe](https://www.amazon.com/gp/video/detail/B07C1GQJ1V), BBC production (1997) with Ciarán Hinds
 * [Marnie](https://www.amazon.com/Marnie-Tippi-Hedren/dp/B002RXR1F0), by Alfred Hitchcock
   * [Film review](https://www.youtube.com/watch?v=Z36jzuiQDcA) by [Thoughts of a Film Student](https://www.youtube.com/@ThoughtsofaFilmStudent)
+* [Scarlet Street](https://www.amazon.com/Scarlet-Street-Edward-G-Robinson/dp/B09RTV2LYS), by Fritz Lang, with Edward G. Robinson and Joan Bennett (1945)
+  * [A Romanian Jew in Hollywood: Edward G. Robinson](https://sciendo.com/de/article/10.2478/abcsj-2014-0022?tab=references), by Raluca Moldovan
 
 #### Books
 * Simon Callow's Orson Welles biography
