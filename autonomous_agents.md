@@ -24,6 +24,7 @@ title: Autonomous Agents
 * Wiki: [SOAR](https://en.wikipedia.org/wiki/Soar_(cognitive_architecture)) architecture
 * Philip Carter: [All the Hard Stuff Nobody Talks About when Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm) (2023)
 * Simon Willison: [Prompt injection explained](https://simonwillison.net/2023/May/2/prompt-injection-explained/) (2023)
+* OpenAI: [Assistants & Agents Build Hour](https://academy.openai.com/home/videos/assistants-and-agents-build-hour-2025-02-07), [github](https://github.com/openai/build-hours/tree/main/2-assistants)
 
 #### Talks
 * [Langchain](https://www.crowdcast.io/@langchain) crowdcast:
