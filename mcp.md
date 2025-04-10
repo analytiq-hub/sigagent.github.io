@@ -11,9 +11,12 @@ title: Media Context Protocol (MCP)
 * Cole Medin: [The MCP Integration EVERYONE is Sleeping On (MCP + Custom AI Agents)](https://www.youtube.com/watch?v=soC4n-nKWF8) (2025)
   * Shows how to use Pydantic Agent framework to build custom MCP Client
 
-
 #### Blogs
 * Yogeshwari Bahiram: [Implementing MCP(FastMCP) in a FastAPI Application](https://medium.com/@yogeshwaribahiram2000/implementing-mcp-architecture-in-a-fastapi-application-f513989b65d9) (2025)
+* Bob Remeika: [Building a Server-Sent Events (SSE) MCP Server with FastAPI](https://www.ragie.ai/blog/building-a-server-sent-events-sse-mcp-server-with-fastapi)
+
+#### Tools
+* [Supergateway](https://github.com/supercorp-ai/supergateway) runs MCP stdio-based servers over SSE or WebSockets
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
