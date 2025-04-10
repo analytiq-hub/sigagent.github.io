@@ -91,6 +91,7 @@ blog_posts_by_category_title: Blog Posts by Category
   * [Philosophy of Math](/math/philosophy_of_math.md)
   * [Representation Theory](/math/representation_theory)
   * [Topology](/math/topology)
+* [MCP](/mcp)
 * [Meta Learning](/meta_learning)
 * [MLOps](/mlops)
 * [Music](/music)
