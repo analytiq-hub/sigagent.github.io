@@ -17,6 +17,7 @@ title: Media Context Protocol (MCP)
 
 #### Tools
 * [Supergateway](https://github.com/supercorp-ai/supergateway) runs MCP stdio-based servers over SSE or WebSockets
+* [MCP Client CLI](https://github.com/adhikasp/mcp-client-cli)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
