@@ -52,6 +52,7 @@ title: Autonomous Agents
 * [weaviate.io](https://weaviate.io/)
 * [Vertex AI](https://cloud.google.com/vertex-ai) on GCP
   * [Use PaLM models with enterprise grade privacy. Python and JavaScript.](https://twitter.com/hwchase17/status/1661756592025649152) (2023)
+* OpenAI [Codex](https://github.com/openai/codex)
 
 #### Demos
 * [Flowiseai.com](https://flowiseai.com/)
