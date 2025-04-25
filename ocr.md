@@ -13,6 +13,7 @@ title: Optical Character Recognition
   * [PaddleOCR: Unveiling the Power of Optical Character Recognition](https://learnopencv.com/optical-character-recognition-using-paddleocr/#Paddle-OCR-) (2022)
 * Hacker News: [Our search for the best OCR tool (2019)](https://news.ycombinator.com/item?id=32053525) (2022)
 * [OCR in 2024: Benchmarking Text Extraction/Capture Accuracy](https://research.aimultiple.com/ocr-accuracy/)
+* [OmniAI OCR Benchmark](https://getomni.ai/ocr-benchmark) (2025)
 
 #### Process unstructured data into JSon
 * https://jxnl.github.io/instructor/ - It's a thin wrapper over LLM + a few additional parsing / extraction capabilities
