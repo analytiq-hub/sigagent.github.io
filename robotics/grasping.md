@@ -46,7 +46,7 @@ title: Robotics - Grasping
 * D. Fox et al, [Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes](https://arxiv.org/abs/2103.14127) (2021), [video](https://www.youtube.com/watch?v=qRLKYSLXElM), [github](https://github.com/NVlabs/contact_graspnet)
 
 #### Links
-* [Autonomous Agents](/autonomous_agents)
+* [AI Agents](/ai_agents)
 * [Crypto Currencies](/crypto_currencies)
 * [Machine Learning](/machine_learning)
 * [Meta Learning](/meta_learning)

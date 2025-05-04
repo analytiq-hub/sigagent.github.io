@@ -12,7 +12,7 @@ title: Finance
 
 #### Links
 * [Artificial Intelligence](/artificial_intelligence)
-* [Autonomous Agents](/autonomous_agents)
+* [AI Agents](/ai_agents)
 * [Cloud Data Platform](/cloud_data_platform)
 * [Cognitive Science](/cognitive_science)
 * [Computation Theory](/computation_theory)

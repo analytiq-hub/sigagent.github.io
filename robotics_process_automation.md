@@ -31,7 +31,7 @@ title: Robotics Process Automation (RPA) and Intelligent Process Automation (IPA
 * [AI Code Editors](/ai_code_editors)
 * [AI Computer Use](/ai_computer_use)
 * [Artificial Intelligence](/artificial_intelligence)
-* [Autonomous Agents](/autonomous_agents)
+* [AI Agents](/ai_agents)
 * [Cognitive Science](/cognitive_science)
 * [Computation Theory](/computation_theory)
 * [Language Models](/language_models)

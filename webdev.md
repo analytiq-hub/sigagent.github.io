@@ -37,7 +37,7 @@ title: Webdev
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
-* [Autonomous Agents](/autonomous_agents)
+* [AI Agents](/ai_agents)
 * [Cognitive Science](/cognitive_science)
 * [Computation Theory](/computation_theory)
 * [Language Models](/language_models)

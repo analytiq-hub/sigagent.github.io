@@ -78,7 +78,7 @@ See more on the [ROSCON web site](https://roscon.ros.org/world/2020/)
 See [Grasping](/robotics/grasping)
 
 #### Links
-* [Autonomous Agents](/autonomous_agents)
+* [AI Agents](/ai_agents)
 * [Crypto Currencies](/crypto_currencies)
 * [Machine Learning](/machine_learning)
 * [Meta Learning](/meta_learning)

@@ -22,7 +22,7 @@ blog_posts_by_category_title: Blog Posts by Category
 * [AI Code Editors](/ai_code_editors)
 * [AI Computer Use](/ai_computer_use)
 * [Artificial Intelligence](/artificial_intelligence)
-* [Autonomous Agents](/autonomous_agents)
+* [AI Agents](/ai_agents)
 * [Healthcare](/healthcare)
   * [Biotech](/biotech)
     * [Cell Simulations](/biotech/cell_simulations)

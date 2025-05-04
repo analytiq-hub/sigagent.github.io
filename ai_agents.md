@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: Autonomous Agents
+title: AI Agents
 ---
 #### Articles
 * [Doing more with less: meta-reasoning and meta-learning in humans and machines](https://cocosci.princeton.edu/papers/doing-more-with-less.pdf) (2023)
@@ -87,7 +87,7 @@ title: Autonomous Agents
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
-* [Autonomous Agents](/autonomous_agents)
+* [AI Agents](/ai_agents)
 * [Cognitive Science](/cognitive_science)
 * [Computation Theory](/computation_theory)
 * [Finance](/finance)

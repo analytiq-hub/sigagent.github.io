@@ -14,7 +14,7 @@ title: Graph QL
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
-* [Autonomous Agents](/autonomous_agents)
+* [AI Agents](/ai_agents)
 * [Graph QL](/graph_ql)
 * [Graph Databases](/graph_databases)
 * [Language Models](/language_models)

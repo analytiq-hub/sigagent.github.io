@@ -19,7 +19,7 @@ Also see:
 * [AI Code Editors](/ai_code_editors)
 * [AI Computer Use](/ai_computer_use)
 * [Artificial Intelligence](/artificial_intelligence)
-* [Autonomous Agents](/autonomous_agents)
+* [AI Agents](/ai_agents)
 * [Cloud Data Platform](/cloud_data_platform)
 * [Cognitive Science](/cognitive_science)
 * [Computation Theory](/computation_theory)
