@@ -341,6 +341,10 @@ Architectures](https://arxiv.org/pdf/1206.5533v2.pdf), Y. Bengio (2012)
 #### Contrastive Learning
 * G. Hinton: [The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf), [talk](https://nips.cc/virtual/2022/invited-talk/55869) (2022)
 
+#### Representation Learning
+* S. Alshammari et al: [I-CON: A Unifying Framework for Representation Learning](https://openreview.net/pdf?id=WfaQrKCr4X) (2025), [openreview](https://openreview.net/forum?id=WfaQrKCr4X)
+  * [MIT News](https://news.mit.edu): [“Periodic table of machine learning” could fuel AI discovery](https://news.mit.edu/2025/machine-learning-periodic-table-could-fuel-ai-discovery-0423), [LinkedIn](https://www.linkedin.com/posts/mit_mit-researchers-have-unveiled-a-game-changing-activity-7323008039647653888-V7B2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAHsmm8Bs3ql0hVb6wudvB6dgUkOA1CWeJs)
+
 #### News Ranking
 * X. Ni et al: [Prioritizing Original News on Facebook](https://arxiv.org/pdf/2102.08465.pdf) (2021)
 
