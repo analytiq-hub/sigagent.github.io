@@ -53,7 +53,7 @@ title: AI Agents
 * [Vertex AI](https://cloud.google.com/vertex-ai) on GCP
   * [Use PaLM models with enterprise grade privacy. Python and JavaScript.](https://twitter.com/hwchase17/status/1661756592025649152) (2023)
 * OpenAI [Codex](https://github.com/openai/codex)
-* Amazon Nova: [Act](https://nova.amazon.com/act) scraper model
+* Amazon Nova: [Act](https://nova.amazon.com/act) scraper model, [github](https://github.com/aws/nova-act), [AI Tinkerers](https://boston.aitinkerers.org/talks/rsvp_ispYtI58Gpk)
 
 #### Demos
 * [Flowiseai.com](https://flowiseai.com/)
