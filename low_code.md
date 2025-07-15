@@ -18,7 +18,10 @@ title: Low Code Apps
   * [How to self-host N8N in the cloud for FREE for UNLIMITED automations](https://www.youtube.com/watch?v=UHHkehy3SQk)
 * Anthony Sidashin:
   * [Self hosting is awesome](https://pixeljets.com/blog/self-hosted-is-awesome/) (2024)
-  * [My experience using n8n, from a developer perspective](https://pixeljets.com/blog/n8n/) (22024)
+
+* n8n
+  * [My experience using n8n, from a developer perspective](https://pixeljets.com/blog/n8n/) (2024)
+  * [Automatically Download & Save Gmail Attachments with N8N](https://www.youtube.com/watch?v=WkltQEhG5_g) (2025)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
