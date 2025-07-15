@@ -22,6 +22,7 @@ title: Low Code Apps
 * n8n
   * [My experience using n8n, from a developer perspective](https://pixeljets.com/blog/n8n/) (2024)
   * [Automatically Download & Save Gmail Attachments with N8N](https://www.youtube.com/watch?v=WkltQEhG5_g) (2025)
+  * [How to Build AI Agents with n8n in 2025](https://www.youtube.com/watch?v=geR9PeCuHK4) (2025)
 
 #### Other
 * [Artificial Intelligence](/artificial_intelligence)
