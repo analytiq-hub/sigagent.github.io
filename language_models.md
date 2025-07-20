@@ -75,6 +75,7 @@ title: Language Models
 * [promptingguide.ai](https://www.promptingguide.ai/)
 * [AI prompt engineering in 2025: What works and what doesn’t - Sander Schulhoff](https://www.youtube.com/watch?v=eKuFqQKYRrA) (2025)
   * Sander Shulhoff et al: [The Prompt Report: A Systematic Survey of Prompt Engineering Techniques](https://arxiv.org/pdf/2406.06608) (2025)
+* [learnprompting.org](https://learnprompting.org)
 
 #### Compound LLMs
 * [DSPy](https://github.com/stanfordnlp/dspy)
