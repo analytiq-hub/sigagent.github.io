@@ -73,6 +73,8 @@ title: Language Models
 * [Many-Shot In-Context Learning](https://arxiv.org/pdf/2404.11018)
 * Cameron Wolfe: [Modern Advances in Prompt Engineering](https://cameronrwolfe.substack.com/p/modern-advances-in-prompt-engineering) (2024)
 * [promptingguide.ai](https://www.promptingguide.ai/)
+* [AI prompt engineering in 2025: What works and what doesn’t - Sander Schulhoff](https://www.youtube.com/watch?v=eKuFqQKYRrA) (2025)
+  * Sander Shulhoff et al: [The Prompt Report: A Systematic Survey of Prompt Engineering Techniques](https://arxiv.org/pdf/2406.06608) (2025)
 
 #### Compound LLMs
 * [DSPy](https://github.com/stanfordnlp/dspy)
