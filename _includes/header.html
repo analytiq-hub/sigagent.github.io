@@ -1,4 +1,4 @@
-<header class="bg-black text-white min-h-[60px] flex items-center">
+<header class="bg-gray-900 text-white min-h-[60px] flex items-center">
 
   <div class="max-w-6xl mx-auto px-5 flex items-center justify-between min-h-[60px] w-full">
     <a class="text-2xl font-semibold tracking-tight text-white no-underline hover:text-gray-300 transition-colors duration-200" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
@@ -13,7 +13,7 @@
                   {{ item.title | escape }}
                   <span class="text-xs transition-transform duration-200 group-hover:rotate-180">▼</span>
                 </a>
-                <div class="absolute top-full left-0 bg-black border border-gray-600 rounded shadow-lg min-w-[200px] z-50 opacity-0 invisible -translate-y-2 transition-all duration-200 group-hover:opacity-100 group-hover:visible group-hover:translate-y-0 py-1 text-left pointer-events-none group-hover:pointer-events-auto">
+                <div class="absolute top-full left-0 bg-gray-800 border border-gray-600 rounded shadow-lg min-w-[200px] z-50 opacity-0 invisible -translate-y-2 transition-all duration-200 group-hover:opacity-100 group-hover:visible group-hover:translate-y-0 py-1 text-left pointer-events-none group-hover:pointer-events-auto" style="background-color: #374151 !important;">
                   {%- for child in item.children -%}
                     <a class="block px-3 py-1 text-white no-underline font-normal transition-colors duration-200 hover:bg-gray-800 hover:text-gray-300" href="{{ child.url | relative_url }}">{{ child.title | escape }}</a>
                   {%- endfor -%}
