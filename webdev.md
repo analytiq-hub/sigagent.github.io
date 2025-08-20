@@ -32,6 +32,7 @@ title: Webdev
 * Sencha ext.js
   * [.net, asp.net, sencha review](https://grok.com/share/c2hhcmQtMw%3D%3D_519c7124-eaf0-4757-9526-81887e95fd80)
   * Reddit: [Anyone remember ExtJS/ Sencha?](https://www.reddit.com/r/webdev/comments/1ccrfjx/anyone_remember_extjs_sencha/) (2024)
+  * [React or Sencha Touch/Ext JS? Small team looking to invest in learning a front end framework](https://www.reddit.com/r/javascript/comments/325ldv/react_or_sencha_touchext_js_small_team_looking_to/) (2014)
 
 #### Low Code UI
 * Microsoft PowerApp
