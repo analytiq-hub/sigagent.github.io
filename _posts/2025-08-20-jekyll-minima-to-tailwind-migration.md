@@ -54,6 +54,35 @@ When you need more sophisticated layouts or Tailwind-specific components, Jekyll
 
 This flexibility gives you the best of both worlds - simple content editing in Markdown, with the power to create complex layouts when needed.
 
+### 3. Enhanced Features with Jekyll
+
+The Jekyll + Tailwind combination also preserves and enhances Jekyll's powerful features. Take a look at the [markdown example page](https://bitdribble.github.io/markdown/) which demonstrates:
+
+**Code Syntax Highlighting:** Jekyll automatically highlights code blocks with proper syntax coloring for multiple languages:
+
+```python
+def fibonacci(n):
+    if n <= 1:
+        return n
+    return fibonacci(n-1) + fibonacci(n-2)
+```
+
+**MathJax Integration:** Mathematical formulas can be enabled by adding `mathjax: true` to the page front matter:
+
+```yaml
+---
+layout: page
+title: Your Page Title
+mathjax: true
+---
+```
+
+Then you can write beautiful mathematical expressions:
+- Inline math: `$E = mc^2$` 
+- Display equations: `$$\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}$$`
+
+**Page Headers:** Jekyll's front matter system makes it easy to configure pages with metadata, layout selection, and feature toggles like MathJax - all while maintaining the flexibility to use Tailwind styling throughout the content.
+
 ### 3. Component-Based Layouts
 
 The Jekyll layout system works beautifully with Tailwind. I was able to create reusable layouts that leverage Tailwind's utility classes:
