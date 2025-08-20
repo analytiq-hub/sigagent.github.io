@@ -9,18 +9,18 @@
           {%- for item in site.header_pages -%}
             {%- if item.children -%}
               <div class="relative group">
-                <a class="inline-flex items-center gap-1 px-4 py-2 text-white no-underline font-normal transition-colors duration-200 hover:text-gray-300 cursor-pointer" href="javascript:void(0)">
+                <a class="inline-flex items-center gap-1 px-4 py-2 text-blue-400 no-underline font-normal transition-colors duration-200 hover:text-blue-300 cursor-pointer visited:text-blue-400" href="javascript:void(0)">
                   {{ item.title | escape }}
                   <span class="text-xs transition-transform duration-200 group-hover:rotate-180">▼</span>
                 </a>
                 <div class="absolute top-full left-0 bg-gray-800 border border-gray-600 rounded shadow-lg min-w-[200px] z-50 opacity-0 invisible -translate-y-2 transition-all duration-200 group-hover:opacity-100 group-hover:visible group-hover:translate-y-0 py-1 text-left pointer-events-none group-hover:pointer-events-auto" style="background-color: #374151 !important;">
                   {%- for child in item.children -%}
-                    <a class="block px-3 py-1 text-white no-underline font-normal transition-colors duration-200 hover:bg-gray-800 hover:text-gray-300" href="{{ child.url | relative_url }}">{{ child.title | escape }}</a>
+                    <a class="block px-3 py-1 text-blue-400 no-underline font-normal transition-colors duration-200 hover:bg-gray-800 hover:text-blue-300 visited:text-blue-400" href="{{ child.url | relative_url }}">{{ child.title | escape }}</a>
                   {%- endfor -%}
                 </div>
               </div>
             {%- else -%}
-              <a class="inline-block px-4 py-2 text-white no-underline font-normal transition-colors duration-200 hover:text-gray-300" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+              <a class="inline-block px-4 py-2 text-blue-400 no-underline font-normal transition-colors duration-200 hover:text-blue-300 visited:text-blue-400" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
         </div>
@@ -45,5 +45,14 @@
 
 .group:hover .group-hover\:pointer-events-auto {
   pointer-events: auto;
+}
+
+/* Prevent visited link color changes */
+#nav-menu a:visited {
+  color: #60a5fa !important; /* text-blue-400 */
+}
+
+#nav-menu a:hover:visited {
+  color: #93c5fd !important; /* text-blue-300 */
 }
 </style>
