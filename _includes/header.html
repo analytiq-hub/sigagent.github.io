@@ -18,19 +18,17 @@
           {%- for item in site.header_pages -%}
             {%- if item.children -%}
               <div class="dropdown">
-                <a class="page-link dropdown-toggle" href="{{ item.url | relative_url }}">
+                <a class="dropdown-toggle page-link" href="javascript:void(0)">
                   {{ item.title | escape }}
                   <span class="dropdown-arrow">▼</span>
                 </a>
                 <div class="dropdown-menu">
                   {%- for child in item.children -%}
-                    {%- assign child_page = site.pages | where: "path", child.url | first -%}
                     <a class="dropdown-item" href="{{ child.url | relative_url }}">{{ child.title | escape }}</a>
                   {%- endfor -%}
                 </div>
               </div>
             {%- else -%}
-              {%- assign my_page = site.pages | where: "path", item.url | first -%}
               <a class="page-link" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}

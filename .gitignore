@@ -4,3 +4,7 @@ _site/
 .jekyll-metadata
 vendor/
 .bundle/
+
+# Tailwind CSS executable
+tailwindcss
+tailwindcss-*
