@@ -49,28 +49,24 @@ title: About
       </p>
       <ul class="list-none space-y-2 mb-4">
         <li class="flex items-start">
-          <span class="text-red-500 mr-2">•</span>
           <span class="text-gray-700">
             Implemented full stack AI in <span class="text-red-500 font-medium">Fintech</span> and 
             <span class="text-red-500 font-medium">Health Tech</span>
           </span>
         </li>
         <li class="flex items-start">
-          <span class="text-red-500 mr-2">•</span>
           <span class="text-gray-700">
             Architected <span class="text-red-500 font-medium">robotics</span> and AI infrastructure 
             for <span class="text-red-500 font-medium">Self Driving Cars</span>
           </span>
         </li>
         <li class="flex items-start">
-          <span class="text-red-500 mr-2">•</span>
           <span class="text-gray-700">
             Built high-performance stock market 
             <span class="text-red-500 font-medium">trading infrastructure</span> for Wall St
           </span>
         </li>
         <li class="flex items-start">
-          <span class="text-red-500 mr-2">•</span>
           <span class="text-gray-700">
             Worked with embedded software, hardware, FPGAs, Linux kernel, and computer networks
           </span>
