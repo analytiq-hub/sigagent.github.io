@@ -86,7 +86,7 @@ header_pages:
     url: "/about"
 
 # Build settings
-theme: minima
+# theme: minima  # Removed - using Tailwind CSS instead
 
 plugins:
  - jekyll-feed

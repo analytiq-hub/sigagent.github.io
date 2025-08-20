@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}" class="dark">
 
   {%- include head.html -%}
 
-  <body>
+  <body class="bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 font-sans antialiased">
 
     {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+    <main class="min-h-screen" aria-label="Content">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         {{ content }}
       </div>
     </main>

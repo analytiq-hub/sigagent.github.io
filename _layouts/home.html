@@ -2,14 +2,15 @@
 layout: default
 ---
 
-<div class="home">
+<div class="space-y-8">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+    <h1 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white">{{ page.title }}</h1>
   {%- endif -%}
   {% include mathjax.html %}
 
-  {{ content }}
-
+  <div class="prose prose-lg dark:prose-invert max-w-none">
+    {{ content }}
+  </div>
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
@@ -17,61 +18,58 @@ layout: default
     {% assign posts = site.posts %}
   {% endif %}
 
-
   {%- if posts.size > 0 -%}
-    {%- if page.blog_posts_title -%}
-      <h2 class="post-list-heading">{{ page.blog_posts_title }}</h2>
-    {%- endif -%}
-    <ul>
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts limit: page.blog_posts_limit -%}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> ({{ post.date | date: date_format }})
-      </li>
-      {%- endfor -%}
-    </ul>
-    
-    {% if site.paginate %}
-      <div class="pager">
-        <ul class="pagination">
-        {%- if paginator.previous_page %}
-          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-          <li><div class="current-page">{{ paginator.page }}</div></li>
-        {%- if paginator.next_page %}
-          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-        </ul>
+    <section class="space-y-6">
+      {%- if page.blog_posts_title -%}
+        <h2 class="text-2xl font-semibold text-gray-900 dark:text-white border-b border-gray-200 dark:border-gray-700 pb-2">{{ page.blog_posts_title }}</h2>
+      {%- endif -%}
+      <div class="space-y-3">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {%- for post in posts limit: page.blog_posts_limit -%}
+        <div class="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
+          <a href="{{ post.url | relative_url }}" class="text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 font-medium no-underline">{{ post.title | escape }}</a>
+          <span class="text-sm text-gray-500 dark:text-gray-400">{{ post.date | date: date_format }}</span>
+        </div>
+        {%- endfor -%}
       </div>
-    {%- endif %}
-
+      
+      {% if site.paginate %}
+        <nav class="flex justify-center space-x-2 mt-8">
+          {%- if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path | relative_url }}" class="px-3 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition-colors">← Page {{ paginator.previous_page }}</a>
+          {%- else %}
+            <span class="px-3 py-2 bg-gray-300 dark:bg-gray-600 text-gray-500 dark:text-gray-400 rounded cursor-not-allowed">•</span>
+          {%- endif %}
+          <span class="px-3 py-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded">Page {{ paginator.page }}</span>
+          {%- if paginator.next_page %}
+            <a href="{{ paginator.next_page_path | relative_url }}" class="px-3 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition-colors">Page {{ paginator.next_page }} →</a>
+          {%- else %}
+            <span class="px-3 py-2 bg-gray-300 dark:bg-gray-600 text-gray-500 dark:text-gray-400 rounded cursor-not-allowed">•</span>
+          {%- endif %}
+        </nav>
+      {%- endif %}
+    </section>
   {%- endif -%}
 
- <h2 class="post-list-heading">{{ page.blog_posts_by_category_title }}</h2>
- {% comment %}
-    #
-    #  Change date order by adding '| reverse' to 'sorted_posts'
-    #  To sort by title or other variables use {% assign sorted_posts = category[1] | sort: 'title' %}
-    #
- {% endcomment %}
- {% assign sorted_cats = site.categories | sort %}
- <ul>
- {% for category in sorted_cats %}
-    {% assign sorted_posts = category[1] %}
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    <li>{{category[0]}}
-      <ul>
-	{% for post in sorted_posts %}
-	<li>
-	  <a href="{{ site.url }}{{ site.baseurl }}{{  post.url }}">{{  post.title }}</a> ({{ post.date | date: date_format }})
-	</li>
-	{% endfor %}
-      </ul>
-    </li>
- {% endfor %}    
- <ul>
+  <section class="space-y-6">
+    <h2 class="text-2xl font-semibold text-gray-900 dark:text-white border-b border-gray-200 dark:border-gray-700 pb-2">{{ page.blog_posts_by_category_title }}</h2>
+    {% assign sorted_cats = site.categories | sort %}
+    <div class="space-y-6">
+      {% for category in sorted_cats %}
+        {% assign sorted_posts = category[1] %}
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <div class="bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-6">
+          <h3 class="text-xl font-medium text-gray-900 dark:text-white mb-4">{{category[0]}}</h3>
+          <div class="space-y-2">
+            {% for post in sorted_posts %}
+            <div class="flex items-center justify-between p-3 bg-gray-50 dark:bg-gray-900 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
+              <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" class="text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 font-medium no-underline">{{ post.title }}</a>
+              <span class="text-sm text-gray-500 dark:text-gray-400">{{ post.date | date: date_format }}</span>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      {% endfor %}    
+    </div>
+  </section>
 </div>

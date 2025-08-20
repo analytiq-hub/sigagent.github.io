@@ -4,8 +4,8 @@ source "https://rubygems.org"
 gemspec
 
 
-#gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.3.0"
+# gem "github-pages", group: :jekyll_plugins  # Commented out to avoid theme conflicts
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

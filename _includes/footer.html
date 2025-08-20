@@ -1,34 +1,37 @@
-<footer class="site-footer h-card">
+<footer class="bg-gray-800 dark:bg-gray-900 border-t border-gray-700 mt-auto">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <div class="wrapper">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ 'feed.xml' | relative_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+      <div class="space-y-4">
+        <div class="flex items-center space-x-2">
+          <a href="{{ 'feed.xml' | relative_url }}" class="inline-flex items-center space-x-2 text-orange-400 hover:text-orange-300 transition-colors">
+            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M3.429 2.571c0-.952.77-1.714 1.714-1.714a1.71 1.71 0 011.715 1.714 1.71 1.71 0 01-1.715 1.715c-.943 0-1.714-.763-1.714-1.715z"/>
+              <path d="M3.429 7.571c3.771 0 6.857 3.086 6.857 6.858 0 .952-.77 1.714-1.714 1.714-.952 0-1.715-.762-1.715-1.714a3.43 3.43 0 00-3.428-3.429c-.952 0-1.714-.77-1.714-1.714s.762-1.715 1.714-1.715z"/>
+              <path d="M3.429 12.571a1.71 1.71 0 011.714 1.715 1.71 1.71 0 01-1.714 1.714 1.71 1.71 0 01-1.714-1.714c0-.952.77-1.715 1.714-1.715z"/>
+            </svg>
+            <span>RSS Feed</span>
           </a>
-        </p>
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
+        </div>
+        {%- if site.author %}
+          <div class="space-y-2 text-gray-300">
+            {% if site.author.name -%}
+              <div class="font-medium text-white">{{ site.author.name | escape }}</div>
+            {% endif -%}
+            {% if site.author.email -%}
+              <div><a class="text-blue-400 hover:text-blue-300 transition-colors" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></div>
+            {%- endif %}
+          </div>
+        {%- endif %}
       </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+      <div>
+        <p class="text-gray-300 text-sm leading-relaxed">{{ site.description | escape }}</p>
       </div>
     </div>
 
-    <div class="social-links">
+    <div class="mt-8 pt-6 border-t border-gray-700">
       {%- include social.html -%}
     </div>
 
