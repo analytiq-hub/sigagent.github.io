@@ -4,10 +4,10 @@
 dev:
 	@echo "Starting development environment..."
 	@echo "Building initial Tailwind CSS..."
-	@./tailwindcss -i _sass/tailwind.css -o assets/css/tailwind.css --minify
+	@./tailwindcss -o assets/css/tailwind.css --minify
 	@echo "Starting Tailwind watcher and Jekyll server..."
 	@trap 'echo "Stopping all processes..."; kill 0' INT; \
-	./tailwindcss -i _sass/tailwind.css -o assets/css/tailwind.css --watch & \
+	./tailwindcss -o assets/css/tailwind.css --watch & \
 	TAILWIND_PID=$$!; \
 	bundle exec jekyll serve & \
 	JEKYLL_PID=$$!; \
@@ -17,14 +17,14 @@ dev:
 # Build for production
 build:
 	@echo "Building Tailwind CSS for production..."
-	./tailwindcss -i _sass/tailwind.css -o assets/css/tailwind.css --minify
+	./tailwindcss -o assets/css/tailwind.css --minify
 	@echo "Building Jekyll site..."
 	bundle exec jekyll build
 
 # Watch Tailwind changes only
 watch:
 	@echo "Watching Tailwind CSS for changes..."
-	./tailwindcss -i _sass/tailwind.css -o assets/css/tailwind.css --watch
+	./tailwindcss -o assets/css/tailwind.css --watch
 
 # Clean generated files
 clean:
