@@ -69,26 +69,489 @@ Use `git status` to check repository status.
 ### Fenced Code Blocks
 
 ```javascript
+// JavaScript example
 function greet(name) {
     console.log(`Hello, ${name}!`);
 }
 
+const fibonacci = (n) => {
+    if (n <= 1) return n;
+    return fibonacci(n - 1) + fibonacci(n - 2);
+};
+
 greet("World");
+console.log(fibonacci(10));
 ```
 
 ```python
+# Python example
 def fibonacci(n):
+    """Calculate fibonacci number recursively"""
     if n <= 1:
         return n
     return fibonacci(n-1) + fibonacci(n-2)
 
+def quicksort(arr):
+    if len(arr) <= 1:
+        return arr
+    pivot = arr[len(arr) // 2]
+    left = [x for x in arr if x < pivot]
+    middle = [x for x in arr if x == pivot]
+    right = [x for x in arr if x > pivot]
+    return quicksort(left) + middle + quicksort(right)
+
 print(fibonacci(10))
+print(quicksort([3, 6, 8, 10, 1, 2, 1]))
 ```
 
 ```bash
 #!/bin/bash
+# Bash scripting example
 echo "Hello, World!"
+
+# Function to check if a file exists
+check_file() {
+    if [ -f "$1" ]; then
+        echo "File $1 exists"
+    else
+        echo "File $1 does not exist"
+    fi
+}
+
+# Loop through arguments
+for arg in "$@"; do
+    check_file "$arg"
+done
+
 ls -la
+```
+
+```java
+// Java example
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        
+        // Fibonacci calculation
+        int n = 10;
+        System.out.println("Fibonacci(" + n + ") = " + fibonacci(n));
+    }
+    
+    public static int fibonacci(int n) {
+        if (n <= 1) return n;
+        return fibonacci(n - 1) + fibonacci(n - 2);
+    }
+    
+    // Generic method example
+    public static <T> void swap(T[] array, int i, int j) {
+        T temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+}
+```
+
+```c
+// C programming example
+#include <stdio.h>
+#include <stdlib.h>
+
+int fibonacci(int n) {
+    if (n <= 1) return n;
+    return fibonacci(n - 1) + fibonacci(n - 2);
+}
+
+void quicksort(int arr[], int low, int high) {
+    if (low < high) {
+        int pi = partition(arr, low, high);
+        quicksort(arr, low, pi - 1);
+        quicksort(arr, pi + 1, high);
+    }
+}
+
+int partition(int arr[], int low, int high) {
+    int pivot = arr[high];
+    int i = (low - 1);
+    
+    for (int j = low; j <= high - 1; j++) {
+        if (arr[j] < pivot) {
+            i++;
+            swap(&arr[i], &arr[j]);
+        }
+    }
+    swap(&arr[i + 1], &arr[high]);
+    return (i + 1);
+}
+
+int main() {
+    printf("Hello, World!\n");
+    printf("Fibonacci(10) = %d\n", fibonacci(10));
+    return 0;
+}
+```
+
+```cpp
+// C++ example
+#include <iostream>
+#include <vector>
+#include <algorithm>
+
+class Calculator {
+private:
+    double result;
+    
+public:
+    Calculator() : result(0) {}
+    
+    Calculator& add(double value) {
+        result += value;
+        return *this;
+    }
+    
+    Calculator& multiply(double value) {
+        result *= value;
+        return *this;
+    }
+    
+    double getResult() const { return result; }
+};
+
+template<typename T>
+void quicksort(std::vector<T>& arr, int low, int high) {
+    if (low < high) {
+        int pi = partition(arr, low, high);
+        quicksort(arr, low, pi - 1);
+        quicksort(arr, pi + 1, high);
+    }
+}
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    
+    Calculator calc;
+    double result = calc.add(10).multiply(2).add(5).getResult();
+    std::cout << "Result: " << result << std::endl;
+    
+    return 0;
+}
+```
+
+```go
+// Go example
+package main
+
+import (
+    "fmt"
+    "sort"
+)
+
+func fibonacci(n int) int {
+    if n <= 1 {
+        return n
+    }
+    return fibonacci(n-1) + fibonacci(n-2)
+}
+
+type Person struct {
+    Name string
+    Age  int
+}
+
+func (p Person) String() string {
+    return fmt.Sprintf("%s (%d years old)", p.Name, p.Age)
+}
+
+func main() {
+    fmt.Println("Hello, World!")
+    fmt.Printf("Fibonacci(10) = %d\n", fibonacci(10))
+    
+    people := []Person{
+        {"Alice", 30},
+        {"Bob", 25},
+        {"Charlie", 35},
+    }
+    
+    sort.Slice(people, func(i, j int) bool {
+        return people[i].Age < people[j].Age
+    })
+    
+    for _, person := range people {
+        fmt.Println(person)
+    }
+}
+```
+
+```rust
+// Rust example
+fn fibonacci(n: u32) -> u32 {
+    match n {
+        0 => 0,
+        1 => 1,
+        _ => fibonacci(n - 1) + fibonacci(n - 2),
+    }
+}
+
+#[derive(Debug)]
+struct Person {
+    name: String,
+    age: u32,
+}
+
+impl Person {
+    fn new(name: &str, age: u32) -> Self {
+        Person {
+            name: name.to_string(),
+            age,
+        }
+    }
+    
+    fn greet(&self) {
+        println!("Hello, I'm {} and I'm {} years old", self.name, self.age);
+    }
+}
+
+fn main() {
+    println!("Hello, World!");
+    println!("Fibonacci(10) = {}", fibonacci(10));
+    
+    let person = Person::new("Alice", 30);
+    person.greet();
+    
+    let numbers = vec![64, 34, 25, 12, 22, 11, 90];
+    let mut sorted = numbers.clone();
+    sorted.sort();
+    println!("Original: {:?}", numbers);
+    println!("Sorted: {:?}", sorted);
+}
+```
+
+```typescript
+// TypeScript example
+interface Person {
+    name: string;
+    age: number;
+    email?: string;
+}
+
+class Calculator {
+    private result: number = 0;
+    
+    add(value: number): Calculator {
+        this.result += value;
+        return this;
+    }
+    
+    multiply(value: number): Calculator {
+        this.result *= value;
+        return this;
+    }
+    
+    getResult(): number {
+        return this.result;
+    }
+}
+
+function fibonacci(n: number): number {
+    if (n <= 1) return n;
+    return fibonacci(n - 1) + fibonacci(n - 2);
+}
+
+const greetPerson = (person: Person): string => {
+    return `Hello, ${person.name}! You are ${person.age} years old.`;
+};
+
+// Usage
+const person: Person = { name: "Alice", age: 30 };
+console.log(greetPerson(person));
+console.log(`Fibonacci(10) = ${fibonacci(10)}`);
+
+const calc = new Calculator();
+const result = calc.add(10).multiply(2).add(5).getResult();
+console.log(`Calculator result: ${result}`);
+```
+
+```ruby
+# Ruby example
+class Person
+  attr_accessor :name, :age
+  
+  def initialize(name, age)
+    @name = name
+    @age = age
+  end
+  
+  def greet
+    puts "Hello, I'm #{@name} and I'm #{@age} years old"
+  end
+  
+  def adult?
+    @age >= 18
+  end
+end
+
+def fibonacci(n)
+  return n if n <= 1
+  fibonacci(n - 1) + fibonacci(n - 2)
+end
+
+def quicksort(array)
+  return array if array.length <= 1
+  
+  pivot = array[array.length / 2]
+  left = array.select { |x| x < pivot }
+  middle = array.select { |x| x == pivot }
+  right = array.select { |x| x > pivot }
+  
+  quicksort(left) + middle + quicksort(right)
+end
+
+# Usage
+puts "Hello, World!"
+puts "Fibonacci(10) = #{fibonacci(10)}"
+
+person = Person.new("Alice", 30)
+person.greet
+puts "Is adult? #{person.adult?}"
+
+numbers = [64, 34, 25, 12, 22, 11, 90]
+puts "Original: #{numbers}"
+puts "Sorted: #{quicksort(numbers)}"
+```
+
+```php
+<?php
+// PHP example
+class Person {
+    private $name;
+    private $age;
+    
+    public function __construct($name, $age) {
+        $this->name = $name;
+        $this->age = $age;
+    }
+    
+    public function greet() {
+        return "Hello, I'm {$this->name} and I'm {$this->age} years old";
+    }
+    
+    public function isAdult() {
+        return $this->age >= 18;
+    }
+}
+
+function fibonacci($n) {
+    if ($n <= 1) return $n;
+    return fibonacci($n - 1) + fibonacci($n - 2);
+}
+
+function quicksort($array) {
+    if (count($array) <= 1) return $array;
+    
+    $pivot = $array[intval(count($array) / 2)];
+    $left = array_filter($array, function($x) use ($pivot) { return $x < $pivot; });
+    $middle = array_filter($array, function($x) use ($pivot) { return $x == $pivot; });
+    $right = array_filter($array, function($x) use ($pivot) { return $x > $pivot; });
+    
+    return array_merge(quicksort($left), $middle, quicksort($right));
+}
+
+// Usage
+echo "Hello, World!\n";
+echo "Fibonacci(10) = " . fibonacci(10) . "\n";
+
+$person = new Person("Alice", 30);
+echo $person->greet() . "\n";
+echo "Is adult? " . ($person->isAdult() ? "Yes" : "No") . "\n";
+
+$numbers = [64, 34, 25, 12, 22, 11, 90];
+echo "Original: " . implode(", ", $numbers) . "\n";
+echo "Sorted: " . implode(", ", quicksort($numbers)) . "\n";
+?>
+```
+
+```swift
+// Swift example
+import Foundation
+
+struct Person {
+    let name: String
+    let age: Int
+    
+    func greet() -> String {
+        return "Hello, I'm \(name) and I'm \(age) years old"
+    }
+    
+    var isAdult: Bool {
+        return age >= 18
+    }
+}
+
+func fibonacci(_ n: Int) -> Int {
+    if n <= 1 { return n }
+    return fibonacci(n - 1) + fibonacci(n - 2)
+}
+
+func quicksort<T: Comparable>(_ array: [T]) -> [T] {
+    guard array.count > 1 else { return array }
+    
+    let pivot = array[array.count / 2]
+    let left = array.filter { $0 < pivot }
+    let middle = array.filter { $0 == pivot }
+    let right = array.filter { $0 > pivot }
+    
+    return quicksort(left) + middle + quicksort(right)
+}
+
+// Usage
+print("Hello, World!")
+print("Fibonacci(10) = \(fibonacci(10))")
+
+let person = Person(name: "Alice", age: 30)
+print(person.greet())
+print("Is adult? \(person.isAdult)")
+
+let numbers = [64, 34, 25, 12, 22, 11, 90]
+print("Original: \(numbers)")
+print("Sorted: \(quicksort(numbers))")
+```
+
+```kotlin
+// Kotlin example
+data class Person(val name: String, val age: Int) {
+    fun greet(): String = "Hello, I'm $name and I'm $age years old"
+    val isAdult: Boolean get() = age >= 18
+}
+
+fun fibonacci(n: Int): Int {
+    return when {
+        n <= 1 -> n
+        else -> fibonacci(n - 1) + fibonacci(n - 2)
+    }
+}
+
+fun <T : Comparable<T>> quicksort(list: List<T>): List<T> {
+    if (list.size <= 1) return list
+    
+    val pivot = list[list.size / 2]
+    val left = list.filter { it < pivot }
+    val middle = list.filter { it == pivot }
+    val right = list.filter { it > pivot }
+    
+    return quicksort(left) + middle + quicksort(right)
+}
+
+fun main() {
+    println("Hello, World!")
+    println("Fibonacci(10) = ${fibonacci(10)}")
+    
+    val person = Person("Alice", 30)
+    println(person.greet())
+    println("Is adult? ${person.isAdult}")
+    
+    val numbers = listOf(64, 34, 25, 12, 22, 11, 90)
+    println("Original: $numbers")
+    println("Sorted: ${quicksort(numbers)}")
+}
 ```
 
 ### Indented Code Block
