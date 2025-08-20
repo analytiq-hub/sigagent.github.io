@@ -56,11 +56,34 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - language_models.md
- - self_driving_cars.md
- - market_trading.md
- - blog.md
- - about.md
+  - title: "AI Topics"
+    url: "#"
+    children:
+      - title: "Language Models"
+        url: "/language_models"
+      - title: "Self Driving Cars"
+        url: "/self_driving_cars"
+      - title: "Artificial Intelligence"
+        url: "/artificial_intelligence"
+      - title: "Computer Vision"
+        url: "/computer_vision"
+      - title: "Cognitive Science"
+        url: "/cognitive_science"
+  - title: "Tech Topics"
+    url: "#"
+    children:
+      - title: "Market Trading"
+        url: "/market_trading"
+      - title: "Webdev"
+        url: "/webdev"
+      - title: "DevOps"
+        url: "/devops"
+      - title: "Biotech"
+        url: "/biotech"
+  - title: "Blog"
+    url: "/blog"
+  - title: "About"
+    url: "/about"
 
 # Build settings
 theme: minima
