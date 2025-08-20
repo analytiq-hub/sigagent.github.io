@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From Jekyll Minima to Tailwind: A Seamless Migration Story"
-date: 2025-08-20 12:00:00 -0500
+mathjax: true
 categories: [webdev, jekyll, tailwind]
 ---
 
@@ -101,8 +101,9 @@ mathjax: true
 ```
 
 Then you can write beautiful mathematical expressions:
-- Inline math: `$E = mc^2$` 
-- Display equations: `$$\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}$$`
+- Inline math: $E = mc^2$ 
+- Display equations: 
+$$\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}$$
 
 **Page Headers:** Jekyll's front matter system makes it easy to configure pages with metadata, layout selection, and feature toggles like MathJax - all while maintaining the flexibility to use Tailwind styling throughout the content.
 

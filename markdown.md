@@ -660,48 +660,43 @@ Once enabled, you can use LaTeX syntax for mathematical expressions:
 **Block math:** Use double dollar signs for display equations:
 
 ```latex
-$$
+$
 \int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
-$$
+$
 ```
 
 Renders as:
 
-$$
-\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
-$$
+$\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}$
 
 **Matrix example:**
 
 ```latex
-$$
+$
 \begin{pmatrix}
 a & b \\
 c & d
 \end{pmatrix}
-$$
+$
 ```
 
 Renders as:
 
-$$
-\begin{pmatrix}
-a & b \\
-c & d
-\end{pmatrix}
-$$
+$
+\begin{pmatrix} a & b \\ c & d \end{pmatrix}
+$
 
 **More complex equations:**
 
 ```latex
-$$
+$
 f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^n
-$$
+$
 ```
 
-$$
+$
 f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^n
-$$
+$
 
 ## Footnotes
 
