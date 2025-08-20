@@ -9,7 +9,7 @@ title: About
     <div class="text-center md:text-left">
       <div class="w-48 h-48 md:w-64 md:h-64 mx-auto md:mx-0 mb-6 relative">
         <img src="../src/images/andrei_circle.png" alt="Andrei Radulescu-Banu" 
-             class="w-full h-full object-cover rounded-full shadow-lg border-4 border-blue-200">
+             class="w-full h-full object-cover rounded-full">
       </div>
       <h2 class="text-2xl font-bold text-gray-900 mb-2">Andrei Radulescu-Banu</h2>
       <p class="text-lg text-gray-600 mb-4">Founder</p>
