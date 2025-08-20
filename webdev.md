@@ -29,6 +29,9 @@ title: Webdev
 * [figma](figma.com) for web site design/planing
 * AWS Amplify
   * [AWS Amplify in Plain English - Getting Started Tutorial for Beginners](https://www.youtube.com/watch?v=HdCmo0a3ngMe) (2023)
+* Sencha ext.js
+  * [.net, asp.net, sencha review](https://grok.com/share/c2hhcmQtMw%3D%3D_519c7124-eaf0-4757-9526-81887e95fd80)
+  * Reddit: [Anyone remember ExtJS/ Sencha?](https://www.reddit.com/r/webdev/comments/1ccrfjx/anyone_remember_extjs_sencha/) (2024)
 
 #### Low Code UI
 * Microsoft PowerApp
