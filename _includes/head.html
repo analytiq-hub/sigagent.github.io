@@ -22,6 +22,23 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/atom-one-light.min.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
   <script>hljs.highlightAll();</script>
+  
+  <!-- Custom syntax highlighting color overrides -->
+  <style>
+    /* Keep the existing background, just change the mustard colors */
+    .hljs-number, .hljs-literal {
+      color: #ff6b35 !important; /* Orange for numbers instead of mustard */
+    }
+    .hljs-string, .hljs-attr {
+      color: #ff7875 !important; /* Coral for strings instead of mustard */
+    }
+    .hljs-variable, .hljs-name {
+      color: #ff9f43 !important; /* Vibrant orange for variables */
+    }
+    .hljs-type, .hljs-class {
+      color: #fd79a8 !important; /* Pink coral for types */
+    }
+  </style>
   <style>
     /* Enhanced markdown prose styles */
     .prose {
