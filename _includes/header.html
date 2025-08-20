@@ -1,35 +1,26 @@
-<header class="site-header">
+<header class="bg-black text-white min-h-[60px] flex items-center">
 
-  <div class="wrapper">
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  <div class="max-w-6xl mx-auto px-5 flex items-center justify-between min-h-[60px] w-full">
+    <a class="text-2xl font-semibold tracking-tight text-white no-underline hover:text-gray-300 transition-colors duration-200" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     {%- if site.header_pages -%}
-      <nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
-
-        <div class="trigger">
+      <nav class="flex items-center ml-auto">
+        <div class="flex items-center space-x-0" id="nav-menu">
           {%- for item in site.header_pages -%}
             {%- if item.children -%}
-              <div class="dropdown">
-                <a class="dropdown-toggle page-link" href="javascript:void(0)">
+              <div class="relative group">
+                <a class="inline-flex items-center gap-1 px-4 py-2 text-white no-underline font-normal transition-colors duration-200 hover:text-gray-300 cursor-pointer" href="javascript:void(0)">
                   {{ item.title | escape }}
-                  <span class="dropdown-arrow">▼</span>
+                  <span class="text-xs transition-transform duration-200 group-hover:rotate-180">▼</span>
                 </a>
-                <div class="dropdown-menu">
+                <div class="absolute top-full left-0 bg-black border border-gray-600 rounded shadow-lg min-w-[200px] z-50 opacity-0 invisible -translate-y-2 transition-all duration-200 group-hover:opacity-100 group-hover:visible group-hover:translate-y-0 py-1 text-left pointer-events-none group-hover:pointer-events-auto">
                   {%- for child in item.children -%}
-                    <a class="dropdown-item" href="{{ child.url | relative_url }}">{{ child.title | escape }}</a>
+                    <a class="block px-3 py-1 text-white no-underline font-normal transition-colors duration-200 hover:bg-gray-800 hover:text-gray-300" href="{{ child.url | relative_url }}">{{ child.title | escape }}</a>
                   {%- endfor -%}
                 </div>
               </div>
             {%- else -%}
-              <a class="page-link" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+              <a class="inline-block px-4 py-2 text-white no-underline font-normal transition-colors duration-200 hover:text-gray-300" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
         </div>
@@ -37,3 +28,22 @@
     {%- endif -%}
   </div>
 </header>
+
+<style>
+/* Ensure dropdowns work properly */
+.group:hover .group-hover\:opacity-100 {
+  opacity: 1;
+}
+
+.group:hover .group-hover\:visible {
+  visibility: visible;
+}
+
+.group:hover .group-hover\:translate-y-0 {
+  transform: translateY(0);
+}
+
+.group:hover .group-hover\:pointer-events-auto {
+  pointer-events: auto;
+}
+</style>
