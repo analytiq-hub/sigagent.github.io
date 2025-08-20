@@ -4,11 +4,11 @@ layout: default
 
 <div class="space-y-8">
   {%- if page.title -%}
-    <h1 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white">{{ page.title }}</h1>
+    <h1 class="text-3xl md:text-4xl font-bold text-gray-900">{{ page.title }}</h1>
   {%- endif -%}
   {% include mathjax.html %}
 
-  <div class="prose prose-lg dark:prose-invert max-w-none">
+  <div class="prose prose-lg max-w-none">
     {{ content }}
   </div>
 
@@ -21,14 +21,14 @@ layout: default
   {%- if posts.size > 0 -%}
     <section class="space-y-6">
       {%- if page.blog_posts_title -%}
-        <h2 class="text-2xl font-semibold text-gray-900 dark:text-white border-b border-gray-200 dark:border-gray-700 pb-2">{{ page.blog_posts_title }}</h2>
+        <h2 class="text-2xl font-semibold text-gray-900 border-b border-gray-200 pb-2">{{ page.blog_posts_title }}</h2>
       {%- endif -%}
       <div class="space-y-3">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {%- for post in posts limit: page.blog_posts_limit -%}
-        <div class="flex items-center justify-between p-4 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
-          <a href="{{ post.url | relative_url }}" class="text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 font-medium no-underline">{{ post.title | escape }}</a>
-          <span class="text-sm text-gray-500 dark:text-gray-400">{{ post.date | date: date_format }}</span>
+        <div class="flex items-center justify-between p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors">
+          <a href="{{ post.url | relative_url }}" class="text-blue-600 hover:text-blue-700 font-medium no-underline">{{ post.title | escape }}</a>
+          <span class="text-sm text-gray-500">{{ post.date | date: date_format }}</span>
         </div>
         {%- endfor -%}
       </div>
