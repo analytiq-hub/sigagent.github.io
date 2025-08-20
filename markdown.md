@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Markdown Test Page
+mathjax: true
 ---
 
 # Heading 1
@@ -640,23 +641,66 @@ It can contain **markdown** too!
 
 </details>
 
-## Math (if MathJax is enabled)
+## Math (MathJax Support)
 
-Inline math: $E = mc^2$
+**To enable MathJax on a page, add `mathjax: true` to the front matter:**
 
-Block math:
+```yaml
+---
+layout: page
+title: Your Page Title
+mathjax: true
+---
+```
+
+Once enabled, you can use LaTeX syntax for mathematical expressions:
+
+**Inline math:** Use single dollar signs: `$E = mc^2$` renders as $E = mc^2$
+
+**Block math:** Use double dollar signs for display equations:
+
+```latex
+$$
+\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
+$$
+```
+
+Renders as:
 
 $$
 \int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
 $$
 
-Matrix:
+**Matrix example:**
+
+```latex
+$$
+\begin{pmatrix}
+a & b \\
+c & d
+\end{pmatrix}
+$$
+```
+
+Renders as:
 
 $$
 \begin{pmatrix}
 a & b \\
 c & d
 \end{pmatrix}
+$$
+
+**More complex equations:**
+
+```latex
+$$
+f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^n
+$$
+```
+
+$$
+f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^n
 $$
 
 ## Footnotes
