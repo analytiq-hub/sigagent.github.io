@@ -4,6 +4,7 @@ title: "From Jekyll Minima to Tailwind: A Seamless Migration Story"
 date: 2025-08-20
 author: Andrei Radulescu-Banu
 mathjax: true
+image: /assets/images/jekyll-tailwind.png
 categories: [webdev, jekyll, tailwind]
 ---
 
