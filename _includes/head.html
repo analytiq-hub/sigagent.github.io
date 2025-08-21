@@ -3,20 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    tailwind.config = {
-      darkMode: 'class',
-      theme: {
-        extend: {
-          fontFamily: {
-            'sans': ['Inter', 'ui-sans-serif', 'system-ui'],
-            'mono': ['JetBrains Mono', 'ui-monospace', 'SFMono-Regular']
-          }
-        }
-      }
-    }
-  </script>
+  <link rel="stylesheet" href="{{ '/assets/css/tailwind.css' | relative_url }}">
   
   <!-- Syntax highlighting with highlight.js -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/atom-one-light.min.css">

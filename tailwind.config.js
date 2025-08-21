@@ -8,6 +8,7 @@ module.exports = {
     './*.md',
     './**/*.md'
   ],
+  darkMode: 'class',
   theme: {
     extend: {
       fontFamily: {
