@@ -5,13 +5,13 @@ layout: default
   <div class="flex flex-col lg:flex-row gap-8">
     <!-- Main Content -->
     <main class="flex-1">
-      <article class="bg-white rounded-lg border border-gray-200 p-8 shadow-sm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+      <article class="h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="mb-8 border-b border-gray-200 pb-6">
+  <header class="mb-8 pb-6 border-b border-gray-200">
     {%- if page.image -%}
-      <div class="mb-6 flex justify-center bg-gray-50 rounded-lg p-4">
-        <div class="w-full flex items-center justify-center">
-          <img src="{{ page.image | relative_url }}" alt="{{ page.title | escape }}" class="w-full h-auto max-h-96 object-contain rounded-lg shadow-lg">
+      <div class="mb-6 flex justify-center">
+        <div class="w-full max-w-3xl">
+          <img src="{{ page.image | relative_url }}" alt="{{ page.title | escape }}" class="w-full h-auto object-contain rounded-lg">
         </div>
       </div>
     {%- endif -%}
@@ -39,7 +39,7 @@ layout: default
     </div>
   </header>
 
-  <div class="prose prose-lg max-w-none e-content" itemprop="articleBody">
+  <div class="prose prose-lg max-w-3xl e-content" itemprop="articleBody">
     {{ content }}
   </div>
 

@@ -17,18 +17,18 @@ title: Blog
     <div class="flex flex-col lg:flex-row gap-8">
         <!-- Main Content -->
         <main class="flex-1">
-            <div class="space-y-8">
+            <div class="divide-y divide-gray-200">
             {% for post in site.posts %}
-                <article class="bg-white rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 overflow-hidden">
-                    <div class="flex flex-col md:flex-row">
+                <article class="py-8 first:pt-0">
+                    <div class="flex flex-col md:flex-row gap-6">
                         {%- if post.image -%}
-                            <div class="md:w-1/3 flex-shrink-0 bg-gray-50 rounded-lg overflow-hidden">
-                                <div class="aspect-video h-48 md:h-auto flex items-center justify-center p-2">
-                                    <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="w-full h-full object-contain">
+                            <div class="md:w-1/3 flex-shrink-0">
+                                <div class="aspect-video bg-gray-50 rounded-lg overflow-hidden">
+                                    <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="w-full h-full object-contain p-2">
                                 </div>
                             </div>
                         {%- endif -%}
-                        <div class="flex-1 p-6">
+                        <div class="flex-1">
                             <header class="mb-4">
                                 <h2 class="text-xl md:text-2xl font-bold text-gray-900 mb-2">
                                     <a href="{{ post.url | relative_url }}" class="text-gray-900 hover:text-blue-600 transition-colors">
