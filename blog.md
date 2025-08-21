@@ -5,29 +5,35 @@ title: Blog
 
 <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
     <!-- Header -->
-    <header class="mb-8">
-        <h1 class="text-2xl md:text-3xl font-semibold text-gray-800 mb-2">
+    <header class="mb-12 pb-8 border-b border-gray-200">
+        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
             Blog
         </h1>
-        <p class="text-gray-600 text-lg">
+        <p class="text-gray-600 text-xl leading-relaxed">
             Technical insights, tutorials, and thoughts on AI, software engineering, and technology
         </p>
     </header>
 
-    <div class="flex flex-col lg:flex-row gap-8">
+    <div class="flex flex-col lg:flex-row gap-8 lg:items-start">
         <!-- Main Content -->
         <main class="flex-1">
             <div class="divide-y divide-gray-200">
             {% for post in site.posts %}
                 <article class="py-8 first:pt-0">
                     <div class="flex flex-col md:flex-row gap-6">
-                        {%- if post.image -%}
-                            <div class="md:w-1/3 flex-shrink-0">
+                        <div class="md:w-1/3 flex-shrink-0">
+                            {%- if post.image -%}
                                 <div class="aspect-video bg-gray-50 rounded-lg overflow-hidden">
                                     <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="w-full h-full object-contain p-2">
                                 </div>
-                            </div>
-                        {%- endif -%}
+                            {%- else -%}
+                                <div class="aspect-video bg-gradient-to-br from-blue-50 to-indigo-100 rounded-lg flex items-center justify-center">
+                                    <svg class="w-12 h-12 text-blue-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9.5a2 2 0 00-2-2h-1"/>
+                                    </svg>
+                                </div>
+                            {%- endif -%}
+                        </div>
                         <div class="flex-1">
                             <header class="mb-4">
                                 <h2 class="text-xl md:text-2xl font-bold text-gray-900 mb-2">
