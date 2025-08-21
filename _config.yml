@@ -1,10 +1,10 @@
-title: Bitdribble
+title: Analytiq Hub
 author:
   name: Andrei Radulescu-Banu
-  email: "bitdribble@gmail.com"
+  email: "andrei@analytiqhub.com"
 description: > # this means to ignore newlines until "show_excerpts:"
-  Bitdribble is a knowledge repository
-  maintained by Andrei Radulescu-Banu.
+  Analytiq Hub provides custom AI solutions and expert guidance 
+  for biotech and healthtech companies.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 permalink: pretty
@@ -23,7 +23,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: bitdribble
-    github:  bitdribble
+    github:  andrei-radulescu-banu
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -56,59 +56,50 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  - title: "AI Topics"
+  - title: "Services"
+    url: "/services"
+  - title: "Resources"
     url: "#"
     children:
-      - title: "Language Models"
-        url: "/language_models"
-      - title: "Self Driving Cars"
-        url: "/self_driving_cars"
-      - title: "Artificial Intelligence"
-        url: "/artificial_intelligence"
-      - title: "Computer Vision"
-        url: "/computer_vision"
-      - title: "Cognitive Science"
-        url: "/cognitive_science"
-  - title: "Tech Topics"
-    url: "#"
-    children:
-      - title: "Market Trading"
-        url: "/market_trading"
-      - title: "Webdev"
-        url: "/webdev"
-      - title: "DevOps"
-        url: "/devops"
-      - title: "Biotech"
-        url: "/biotech"
-  - title: "Blog"
-    url: "/blog"
+      - title: "Use Cases"
+        url: "/use-cases"
+      - title: "Technology"
+        url: "/technology"
+      - title: "Blog"
+        url: "/blog"
+  - title: "Talks"
+    url: "/talks"
   - title: "About"
     url: "/about"
+  - title: "Contact"
+    url: "/contact"
 
 # Footer sitemap - simplified navigation for footer display
 site_map:
-  - title: "AI Topics"
+  - title: "Services"
     links:
-      - title: "Language Models"
-        url: "/language_models"
-      - title: "Computer Vision"
-        url: "/computer_vision"
-      - title: "Cognitive Science"
-        url: "/cognitive_science"
-  - title: "Tech Topics"
+      - title: "Services"
+        url: "/services"
+      - title: "Use Cases"
+        url: "/use-cases"
+      - title: "Technology"
+        url: "/technology"
+  - title: "Company"
     links:
-      - title: "Market Trading"
-        url: "/market_trading"
-      - title: "Webdev"
-        url: "/webdev"
-      - title: "DevOps"
-        url: "/devops"
-  - title: "Site"
+      - title: "About"
+        url: "/about"
+      - title: "Team"
+        url: "/team"
+      - title: "Partners"
+        url: "/partners"
+  - title: "Resources"
     links:
       - title: "Blog"
         url: "/blog"
-      - title: "About"
-        url: "/about"
+      - title: "Talks"
+        url: "/talks"
+      - title: "Open Source"
+        url: "/open-source"
 
 # Build settings
 # theme: minima  # Removed - using Tailwind CSS instead
