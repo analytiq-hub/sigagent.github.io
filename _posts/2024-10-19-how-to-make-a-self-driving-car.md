@@ -11,7 +11,7 @@ categories: [ai, programming, tech, reviews]
 
 ## The Self-Driving Landscape
 
-Fantastic survey of self driving – how does the stack look like? What is readily available off the shelf, and what is not – from Erin Price-Wright. She talks of issues tackled in perception, localization & mapping, control, planning. Excellent stuff.
+[Fantastic survey of self driving](https://www.linkedin.com/feed/update/urn:li:activity:7237489267084550146/) – how does the stack look like? What is readily available off the shelf, and what is not – [from Erin Price-Wright](https://www.linkedin.com/feed/update/urn:li:activity:7237489267084550146/#). She talks of issues tackled in perception, localization & mapping, control, planning. Excellent stuff.
 
 ## Personal Experience with Lidar Systems
 
@@ -35,15 +35,15 @@ I suppose the self-driving car industry, while bringing a great promise, is stil
 
 ## Industry Insights
 
-Anyhow… I enjoyed Erin Price-Wright piece tremendously!
+Anyhow… I enjoyed [Erin Price-Wright](https://www.linkedin.com/feed/update/urn:li:activity:7237489267084550146/#) piece tremendously!
 
-While at HackMIT '24, I also enjoyed sitting on the same hackathon panel with Chris Urmson, ex-lead at Waymo, and current cofounder/CEO of Aurora. He spoke to students about his career, a recording is available here. The hackers/students had very good questions for him… Some were working at interns at a couple other self driving car companies. But, they had run into very similar issues I was running into.
+While at HackMIT '24, I also enjoyed sitting on the same hackathon panel with [Chris Urmson](https://www.linkedin.com/in/chris-urmson-5392273/), ex-lead at Waymo, and current cofounder/CEO of Aurora. He spoke to students about his career, a recording is available here. The hackers/students had very good questions for him… Some were working at interns at a couple other self driving car companies. But, they had run into very similar issues I was running into.
 
 ## My AI Camp Presentation
 
 Back in January, I gave a talk on **How to Build a Self-Driving Car - A Look at Robotics System Design**. It goes into a lot of the same details in Erin's survey, but more from an implementation angle.
 
-I am making the slides available for the first time: **[How to Build a Self-Driving Car Slides](link-to-slides)**. Comments would be appreciated!
+I am making the slides available for the first time: **[How to Build a Self-Driving Car Slides](https://docs.google.com/presentation/d/1zl9OxqveTH6ASSh2oFmGDQUA-CwMWr-D6tjHNFMAnvs/edit?slide=id.g1efc3f84a80_0_21#slide=id.g1efc3f84a80_0_21)**. Comments would be appreciated!
 
 ## Conclusion
 
