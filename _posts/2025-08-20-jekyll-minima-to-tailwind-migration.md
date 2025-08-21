@@ -195,7 +195,7 @@ module.exports = {
 ```
 
 **Build Process Integration:**
-Created a `Makefile` to streamline development with proper process management:
+Created a `Makefile` to streamline development with proper process management: `make dev` starts the web server locally, and `Ctrl-C` stops it: 
 ```makefile
 # Development with live reload and signal handling
 dev:
@@ -213,17 +213,6 @@ build:
 	./tailwindcss -o assets/css/tailwind.css --minify
 	bundle exec jekyll build
 ```
-
-**How `make dev` Works:**
-The development command runs both Tailwind CSS compilation and Jekyll server simultaneously:
-
-1. **Signal Handling:** Uses `trap` to catch Ctrl+C (SIGINT) and cleanly shut down both processes
-2. **Parallel Execution:** Runs Tailwind watcher and Jekyll server as background processes (`&`)
-3. **Process Management:** Stores process IDs and uses `kill 0` to terminate the entire process group
-4. **Live Reload:** Both Tailwind CSS changes and Jekyll content changes trigger automatic rebuilds
-5. **Clean Shutdown:** Pressing **Ctrl+C** gracefully stops both the Tailwind watcher and Jekyll server
-
-This setup provides a smooth development experience where you can edit both content and styles with immediate feedback, and a single **Ctrl+C** cleanly shuts down the entire development environment.
 
 ### 2. Replacing the Minima Theme
 
@@ -245,7 +234,6 @@ This setup provides a smooth development experience where you can edit both cont
 Replaced Minima's navigation with a modern Tailwind-based header featuring:
 - Responsive dropdown menus
 - Clean typography and spacing
-- Mobile-friendly hamburger menu
 
 ### 4. Content Preservation
 
