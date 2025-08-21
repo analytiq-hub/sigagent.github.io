@@ -64,9 +64,16 @@ permalink: /contact/
                 <div>
                     <h3 class="text-xl font-medium text-gray-900 mb-4">Schedule a Meeting</h3>
                     <div class="space-y-4">
-                        <p class="text-sm text-gray-600">
+                        <p class="text-sm text-gray-600 mb-4">
                             Talk to us about how AI can improve your business operations.
                         </p>
+                        <button onclick="openCalendlyModal()" 
+                                class="inline-flex items-center px-6 py-3 text-white bg-blue-600 hover:bg-blue-700 rounded-lg font-medium transition-colors duration-200">
+                            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 002 2z"/>
+                            </svg>
+                            Schedule a Meeting
+                        </button>
                     </div>
                 </div>
             </div>
