@@ -4,6 +4,13 @@ layout: default
 <article class="bg-white rounded-lg border border-gray-200 p-8 shadow-sm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="mb-8 border-b border-gray-200 pb-6">
+    {%- if page.image -%}
+      <div class="mb-6 flex justify-center bg-gray-50 rounded-lg p-6">
+        <div class="max-w-2xl w-full flex items-center justify-center">
+          <img src="{{ page.image | relative_url }}" alt="{{ page.title | escape }}" class="max-w-full h-auto max-h-80 object-contain rounded-lg shadow-lg">
+        </div>
+      </div>
+    {%- endif -%}
     <h1 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4 p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
