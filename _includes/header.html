@@ -12,7 +12,8 @@
 
       <!-- Navigation -->
       {%- if site.header_pages -%}
-        <nav class="flex items-center space-x-1" id="nav-menu">
+        <!-- Desktop Navigation -->
+        <nav class="hidden md:flex items-center space-x-1" id="nav-menu">
           {%- for item in site.header_pages -%}
             {%- if item.children -%}
               <div class="relative dropdown-container">
@@ -33,13 +34,53 @@
             {%- endif -%}
           {%- endfor -%}
         </nav>
+        
+        <!-- Mobile Hamburger Button -->
+        <button id="mobile-menu-button" class="md:hidden inline-flex items-center justify-center p-2 rounded-md text-gray-600 hover:text-blue-600 hover:bg-gray-50 transition-all duration-200" type="button">
+          <span class="sr-only">Open main menu</span>
+          <!-- Hamburger Icon -->
+          <svg id="hamburger-icon" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+          <!-- Close Icon -->
+          <svg id="close-icon" class="w-6 h-6 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
       {%- endif -%}
     </div>
   </div>
+  
+  <!-- Mobile Navigation Menu -->
+  {%- if site.header_pages -%}
+    <div id="mobile-menu" class="md:hidden bg-white border-b border-gray-200 shadow-sm hidden">
+      <div class="px-4 py-2 space-y-1">
+        {%- for item in site.header_pages -%}
+          {%- if item.children -%}
+            <div class="mobile-dropdown-container">
+              <button class="mobile-dropdown-toggle w-full flex items-center justify-between px-4 py-3 text-left text-gray-700 font-medium hover:text-blue-600 hover:bg-gray-50 rounded-md transition-all duration-200" type="button">
+                <span>{{ item.title | escape }}</span>
+                <svg class="w-5 h-5 transition-transform duration-200 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                  <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                </svg>
+              </button>
+              <div class="mobile-dropdown-menu hidden pl-8 pb-2 space-y-1">
+                {%- for child in item.children -%}
+                  <a class="block px-4 py-2 text-gray-600 no-underline font-normal hover:text-blue-600 hover:bg-gray-50 rounded-md transition-all duration-200" href="{{ child.url | relative_url }}">{{ child.title | escape }}</a>
+                {%- endfor -%}
+              </div>
+            </div>
+          {%- else -%}
+            <a class="block px-4 py-3 text-gray-700 no-underline font-medium hover:text-blue-600 hover:bg-gray-50 rounded-md transition-all duration-200" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+    </div>
+  {%- endif -%}
 </header>
 
 <style>
-/* Dropdown menu styles */
+/* Desktop dropdown menu styles */
 .dropdown-menu {
   pointer-events: none;
   display: none;
@@ -57,12 +98,27 @@
   transform: rotate(180deg);
 }
 
+/* Mobile menu styles */
+#mobile-menu.active {
+  display: block !important;
+}
+
+.mobile-dropdown-menu.active {
+  display: block !important;
+}
+
+.mobile-dropdown-toggle.active svg {
+  transform: rotate(180deg);
+}
+
 /* Prevent visited link color changes */
-#nav-menu a:visited {
+#nav-menu a:visited,
+#mobile-menu a:visited {
   color: #4b5563 !important; /* text-gray-600 */
 }
 
-#nav-menu a:hover:visited {
+#nav-menu a:hover:visited,
+#mobile-menu a:hover:visited {
   color: #2563eb !important; /* text-blue-600 */
 }
 
@@ -77,10 +133,16 @@
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const dropdownContainers = document.querySelectorAll('.dropdown-container');
+  const mobileDropdownContainers = document.querySelectorAll('.mobile-dropdown-container');
+  const mobileMenuButton = document.getElementById('mobile-menu-button');
+  const mobileMenu = document.getElementById('mobile-menu');
+  const hamburgerIcon = document.getElementById('hamburger-icon');
+  const closeIcon = document.getElementById('close-icon');
   
   console.log('Found dropdown containers:', dropdownContainers.length);
+  console.log('Found mobile dropdown containers:', mobileDropdownContainers.length);
   
-  // Close all dropdowns
+  // Close all desktop dropdowns
   function closeAllDropdowns() {
     dropdownContainers.forEach(container => {
       const toggle = container.querySelector('.dropdown-toggle');
@@ -90,43 +152,130 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
   
-  // Handle dropdown toggle clicks
+  // Close all mobile dropdowns
+  function closeAllMobileDropdowns() {
+    mobileDropdownContainers.forEach(container => {
+      const toggle = container.querySelector('.mobile-dropdown-toggle');
+      const menu = container.querySelector('.mobile-dropdown-menu');
+      toggle.classList.remove('active');
+      menu.classList.remove('active');
+    });
+  }
+  
+  // Toggle mobile menu
+  function toggleMobileMenu() {
+    const isActive = mobileMenu.classList.contains('active');
+    if (isActive) {
+      mobileMenu.classList.remove('active');
+      hamburgerIcon.classList.remove('hidden');
+      closeIcon.classList.add('hidden');
+      closeAllMobileDropdowns();
+    } else {
+      mobileMenu.classList.add('active');
+      hamburgerIcon.classList.add('hidden');
+      closeIcon.classList.remove('hidden');
+      closeAllDropdowns(); // Close desktop dropdowns
+    }
+  }
+  
+  // Handle mobile menu button clicks
+  if (mobileMenuButton) {
+    mobileMenuButton.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      toggleMobileMenu();
+    });
+  }
+  
+  // Handle desktop dropdown toggle clicks
   dropdownContainers.forEach(container => {
     const toggle = container.querySelector('.dropdown-toggle');
     const menu = container.querySelector('.dropdown-menu');
     
-    console.log('Setting up dropdown:', toggle.textContent.trim());
+    console.log('Setting up desktop dropdown:', toggle.textContent.trim());
     
     toggle.addEventListener('click', function(e) {
       e.preventDefault();
       e.stopPropagation();
       
       const isActive = toggle.classList.contains('active');
-      console.log('Dropdown clicked:', toggle.textContent.trim(), 'Active:', isActive);
+      console.log('Desktop dropdown clicked:', toggle.textContent.trim(), 'Active:', isActive);
       
-      // Close all other dropdowns
+      // Close all other dropdowns and mobile menu
       closeAllDropdowns();
+      if (mobileMenu && mobileMenu.classList.contains('active')) {
+        toggleMobileMenu();
+      }
       
       // Toggle current dropdown
       if (!isActive) {
         toggle.classList.add('active');
         menu.classList.add('active');
-        console.log('Dropdown opened:', toggle.textContent.trim());
+        console.log('Desktop dropdown opened:', toggle.textContent.trim());
       }
     });
   });
   
-  // Close dropdowns when clicking outside
+  // Handle mobile dropdown toggle clicks
+  mobileDropdownContainers.forEach(container => {
+    const toggle = container.querySelector('.mobile-dropdown-toggle');
+    const menu = container.querySelector('.mobile-dropdown-menu');
+    
+    console.log('Setting up mobile dropdown:', toggle.textContent.trim());
+    
+    toggle.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      
+      const isActive = toggle.classList.contains('active');
+      console.log('Mobile dropdown clicked:', toggle.textContent.trim(), 'Active:', isActive);
+      
+      // Toggle current mobile dropdown
+      if (isActive) {
+        toggle.classList.remove('active');
+        menu.classList.remove('active');
+      } else {
+        toggle.classList.add('active');
+        menu.classList.add('active');
+        console.log('Mobile dropdown opened:', toggle.textContent.trim());
+      }
+    });
+  });
+  
+  // Close menus when clicking outside
   document.addEventListener('click', function(e) {
-    if (!e.target.closest('.dropdown-container')) {
+    if (!e.target.closest('.dropdown-container') && 
+        !e.target.closest('.mobile-dropdown-container') &&
+        !e.target.closest('#mobile-menu-button') &&
+        !e.target.closest('#mobile-menu')) {
       closeAllDropdowns();
+      closeAllMobileDropdowns();
+      if (mobileMenu && mobileMenu.classList.contains('active')) {
+        toggleMobileMenu();
+      }
     }
   });
   
-  // Close dropdowns when pressing Escape
+  // Close menus when pressing Escape
   document.addEventListener('keydown', function(e) {
     if (e.key === 'Escape') {
       closeAllDropdowns();
+      closeAllMobileDropdowns();
+      if (mobileMenu && mobileMenu.classList.contains('active')) {
+        toggleMobileMenu();
+      }
+    }
+  });
+  
+  // Close mobile menu when screen size changes to desktop
+  window.addEventListener('resize', function() {
+    if (window.innerWidth >= 768) { // md breakpoint
+      if (mobileMenu && mobileMenu.classList.contains('active')) {
+        mobileMenu.classList.remove('active');
+        hamburgerIcon.classList.remove('hidden');
+        closeIcon.classList.add('hidden');
+        closeAllMobileDropdowns();
+      }
     }
   });
 });
