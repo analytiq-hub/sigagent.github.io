@@ -6,11 +6,8 @@ title: Blog
 <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
     <!-- Header -->
     <header class="mb-12 pb-8 border-b border-gray-200">
-        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Blog
-        </h1>
         <p class="text-gray-600 text-xl leading-relaxed">
-            Technical insights, tutorials, and thoughts on AI, software engineering, and technology
+            Technical insights, tutorials, and thoughts on AI
         </p>
     </header>
 
