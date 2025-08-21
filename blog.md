@@ -3,15 +3,6 @@ layout: default
 title: Blog
 pagination:
   enabled: true
-  per_page: 5
-  permalink: '/blog/page/:num/'
-  title: ':title - Page :num'
-  limit: 0
-  trail:
-    before: 2
-    after: 2
-  sort_field: 'date'
-  sort_reverse: true
 ---
 
 <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
