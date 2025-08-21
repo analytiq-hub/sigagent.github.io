@@ -4,17 +4,15 @@ title: Archives
 ---
 
 <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
-    <!-- Header -->
-    <header class="mb-12 pb-8 border-b border-gray-200">
-        <h1 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Archives</h1>
-        <p class="text-gray-600 text-xl leading-relaxed">
-            Browse all blog posts by date
-        </p>
-    </header>
-
     <div class="flex flex-col lg:flex-row gap-8 lg:items-start">
         <!-- Main Content -->
         <main class="lg:w-0 lg:flex-1">
+            <!-- Header -->
+            <header class="mb-12 pb-8 border-b border-gray-200">
+                <p class="text-gray-600 text-xl leading-relaxed">
+                    Browse blog posts by month
+                </p>
+            </header>
             <div data-pagination="archives">
                 <!-- Filtered content will be shown/hidden by JavaScript -->
                 <div id="filtered-view" style="display: none;">

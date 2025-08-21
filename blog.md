@@ -6,16 +6,15 @@ pagination:
 ---
 
 <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
-    <!-- Header -->
-    <header class="mb-12 pb-8 border-b border-gray-200">
-        <p class="text-gray-600 text-xl leading-relaxed">
-            Technical insights, tutorials, and thoughts on AI
-        </p>
-    </header>
-
     <div class="flex flex-col lg:flex-row gap-8 lg:items-start">
         <!-- Main Content -->
         <main class="lg:w-0 lg:flex-1">
+            <!-- Header -->
+            <header class="mb-12 pb-8 border-b border-gray-200">
+                <p class="text-gray-600 text-xl leading-relaxed">
+                    Technical insights, tutorials, and thoughts on AI
+                </p>
+            </header>
             <div class="divide-y divide-gray-200">
             {% for post in paginator.posts %}
                 <article class="py-8 first:pt-0">
