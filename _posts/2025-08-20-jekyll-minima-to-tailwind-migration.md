@@ -138,15 +138,15 @@ The transformation has been dramatic. Here's a side-by-side comparison of the ol
 
 <div class="grid md:grid-cols-2 gap-8 my-8">
   <div class="space-y-4">
-    <h3 class="text-xs font-semibold text-gray-900">Before: Jekyll Minima Theme</h3>
+    <h3 class="!text-sm font-semibold text-gray-900">Before: Jekyll Minima Theme</h3>
     <img src="/assets/images/bitdribble_github_io_old.png" alt="Old Jekyll Minima Site" class="w-full rounded-lg shadow-lg border border-gray-200">
-    <p class="text-sm text-gray-600 italic">The original site using Jekyll's Minima theme with dark styling</p>
+    <p class="text-base text-gray-600 italic">The original site using Jekyll's Minima theme with dark styling</p>
   </div>
   
   <div class="space-y-4">
-    <h3 class="text-xs font-semibold text-gray-900">After: Tailwind CSS Design</h3>
+    <h3 class="!text-sm font-semibold text-gray-900">After: Tailwind CSS Design</h3>
     <img src="/assets/images/bitdribble_github_io_new.png" alt="New Tailwind CSS Site" class="w-full rounded-lg shadow-lg border border-gray-200">
-    <p class="text-sm text-gray-600 italic">The modern site with Tailwind CSS featuring improved navigation and visual hierarchy</p>
+    <p class="text-base text-gray-600 italic">The modern site with Tailwind CSS featuring improved navigation and visual hierarchy</p>
   </div>
 </div>
 
