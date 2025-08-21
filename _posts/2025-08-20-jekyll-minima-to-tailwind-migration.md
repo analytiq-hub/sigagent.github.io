@@ -129,15 +129,6 @@ $$\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}$$
 
 **Page Headers:** Jekyll's front matter system makes it easy to configure pages with metadata, layout selection, and feature toggles like MathJax - all while maintaining the flexibility to use Tailwind styling throughout the content.
 
-### 4. Component-Based Layouts
-
-The Jekyll layout system works beautifully with Tailwind. I was able to create reusable layouts that leverage Tailwind's utility classes:
-
-- **Card-based blog listings** with hover effects and shadows
-- **Responsive navigation** that adapts to mobile and desktop
-- **Modern typography** with proper spacing and hierarchy
-- **Consistent color schemes** across all pages
-
 ## The Payoff
 
 The transformation has been dramatic. Here's a side-by-side comparison of the old Minima theme versus the new Tailwind-powered design:
