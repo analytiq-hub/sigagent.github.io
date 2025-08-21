@@ -30,7 +30,11 @@
                 </div>
               </div>
             {%- else -%}
-              <a class="inline-block px-4 py-2 text-gray-600 no-underline font-medium transition-all duration-200 hover:text-blue-600 hover:bg-gray-50 rounded-md whitespace-nowrap" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+              {%- if item.button_style == "solid" -%}
+                <a class="inline-block px-4 py-2 text-white !text-white no-underline font-medium transition-all duration-200 bg-blue-600 hover:bg-blue-700 rounded-md whitespace-nowrap" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+              {%- else -%}
+                <a class="inline-block px-4 py-2 text-gray-600 no-underline font-medium transition-all duration-200 hover:text-blue-600 hover:bg-gray-50 rounded-md whitespace-nowrap" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+              {%- endif -%}
             {%- endif -%}
           {%- endfor -%}
         </nav>
@@ -71,7 +75,11 @@
               </div>
             </div>
           {%- else -%}
-            <a class="block px-4 py-3 text-gray-700 no-underline font-medium active:text-blue-600 active:bg-blue-50 focus:text-blue-600 focus:bg-gray-50 rounded-md transition-all duration-200 touch-manipulation" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+            {%- if item.button_style == "solid" -%}
+              <a class="block px-4 py-3 text-white !text-white no-underline font-medium active:text-white active:bg-blue-700 focus:text-white focus:bg-blue-700 bg-blue-600 rounded-md transition-all duration-200 touch-manipulation" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+            {%- else -%}
+              <a class="block px-4 py-3 text-gray-700 no-underline font-medium active:text-blue-600 active:bg-blue-50 focus:text-blue-600 focus:bg-gray-50 rounded-md transition-all duration-200 touch-manipulation" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+            {%- endif -%}
           {%- endif -%}
         {%- endfor -%}
       </div>
@@ -146,6 +154,20 @@
 #nav-menu a:hover:visited,
 #mobile-menu a:hover:visited {
   color: #2563eb !important; /* text-blue-600 */
+}
+
+/* Ensure solid button style keeps white text even when visited */
+#nav-menu a.bg-blue-600:visited,
+#mobile-menu a.bg-blue-600:visited {
+  color: white !important;
+}
+
+/* Light blue text on hover for solid buttons */
+#nav-menu a.bg-blue-600:hover,
+#nav-menu a.bg-blue-600:hover:visited,
+#mobile-menu a.bg-blue-600:hover,
+#mobile-menu a.bg-blue-600:hover:visited {
+  color: #93c5fd !important; /* text-blue-300 */
 }
 
 /* Smooth transitions for all interactive elements */

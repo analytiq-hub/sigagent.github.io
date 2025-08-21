@@ -72,8 +72,9 @@ header_pages:
     url: "/blog"
   - title: "About"
     url: "/about"
-  - title: "Contact"
+  - title: "Get Started"
     url: "/contact"
+    button_style: "solid"
 
 # Footer sitemap - simplified navigation for footer display
 site_map:
