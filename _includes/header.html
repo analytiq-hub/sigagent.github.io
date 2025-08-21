@@ -58,20 +58,20 @@
         {%- for item in site.header_pages -%}
           {%- if item.children -%}
             <div class="mobile-dropdown-container">
-              <button class="mobile-dropdown-toggle w-full flex items-center justify-between px-4 py-3 text-left text-gray-700 font-medium hover:text-blue-600 hover:bg-gray-50 rounded-md transition-all duration-200" type="button">
+              <button class="mobile-dropdown-toggle w-full flex items-center justify-between px-4 py-3 text-left text-gray-700 font-medium active:text-blue-600 active:bg-blue-50 focus:text-blue-600 focus:bg-gray-50 rounded-md transition-all duration-200 group touch-manipulation" type="button">
                 <span>{{ item.title | escape }}</span>
-                <svg class="w-5 h-5 transition-transform duration-200 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                <svg class="w-5 h-5 transition-all duration-200 text-gray-400 group-active:text-blue-500 group-focus:text-blue-500" fill="currentColor" viewBox="0 0 20 20">
                   <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
                 </svg>
               </button>
               <div class="mobile-dropdown-menu hidden pl-8 pb-2 space-y-1">
                 {%- for child in item.children -%}
-                  <a class="block px-4 py-2 text-gray-600 no-underline font-normal hover:text-blue-600 hover:bg-gray-50 rounded-md transition-all duration-200" href="{{ child.url | relative_url }}">{{ child.title | escape }}</a>
+                  <a class="block px-4 py-2 text-gray-600 no-underline font-normal active:text-blue-600 active:bg-blue-50 focus:text-blue-600 focus:bg-gray-50 rounded-md transition-all duration-200 touch-manipulation" href="{{ child.url | relative_url }}">{{ child.title | escape }}</a>
                 {%- endfor -%}
               </div>
             </div>
           {%- else -%}
-            <a class="block px-4 py-3 text-gray-700 no-underline font-medium hover:text-blue-600 hover:bg-gray-50 rounded-md transition-all duration-200" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+            <a class="block px-4 py-3 text-gray-700 no-underline font-medium active:text-blue-600 active:bg-blue-50 focus:text-blue-600 focus:bg-gray-50 rounded-md transition-all duration-200 touch-manipulation" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
           {%- endif -%}
         {%- endfor -%}
       </div>
@@ -99,8 +99,17 @@
 }
 
 /* Mobile menu styles */
+#mobile-menu {
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+}
+
 #mobile-menu.active {
   display: block !important;
+  opacity: 1;
+  max-height: 500px;
 }
 
 .mobile-dropdown-menu.active {
@@ -109,6 +118,21 @@
 
 .mobile-dropdown-toggle.active svg {
   transform: rotate(180deg);
+}
+
+/* Enhanced mobile touch effects */
+.mobile-dropdown-toggle:active svg,
+.mobile-dropdown-toggle:focus svg,
+.mobile-dropdown-toggle.active svg {
+  color: rgb(59, 130, 246) !important;
+}
+
+/* Add subtle touch feedback animation */
+@media (hover: none) and (pointer: coarse) {
+  .mobile-dropdown-toggle:active,
+  #mobile-menu a:active {
+    transform: scale(0.98);
+  }
 }
 
 /* Prevent visited link color changes */
