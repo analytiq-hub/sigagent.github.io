@@ -1,6 +1,6 @@
 ---
 description: Create a new Jekyll blog post with proper front matter and structure
-allowed-tools: [Write, Read, Bash]
+allowed-tools: [Write, Read, Bash, WebSearch, WebFetch, Grep, Glob, TodoWrite]
 ---
 
 Create a new Jekyll blog post with the title "$ARGUMENTS".
