@@ -6,8 +6,6 @@ categories: [tech, programming, jekyll, tailwind, ai]
 mathjax: false
 ---
 
-# How to create commands in Claude Code for Jekyll-Tailwind projects
-
 ## Introduction
 
 Working with Jekyll and Tailwind CSS can involve repetitive tasks like creating new blog posts, setting up proper front matter, and ensuring consistent formatting. Claude Code's custom command system provides an elegant solution to streamline these workflows by creating project-specific automation that understands your Jekyll structure and Tailwind styling.
