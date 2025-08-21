@@ -1,6 +1,14 @@
 {% comment %}
-  Placeholder to allow defining custom head, in principle, you can add anything here, e.g. favicons:
-
-  1. Head over to https://realfavicongenerator.net/ to add your own favicons.
-  2. Customize default _includes/custom-head.html in your source directory and insert the given code snippet.
+  Site-specific head customizations. Add your custom meta tags, analytics, favicons, etc. here.
+  
+  Examples:
+  - Google Analytics or other tracking codes
+  - Custom favicons from https://realfavicongenerator.net/
+  - Site-specific meta tags (Open Graph, Twitter Cards)
+  - Additional fonts beyond theme defaults
+  - Custom CSS or JavaScript for this specific site
 {% endcomment %}
+
+{%- if jekyll.environment == 'production' and site.google_analytics -%}
+  {%- include google-analytics.html -%}
+{%- endif -%}
