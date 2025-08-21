@@ -24,7 +24,7 @@ pagination:
 
     <div class="flex flex-col lg:flex-row gap-8 lg:items-start">
         <!-- Main Content -->
-        <main class="flex-1">
+        <main class="lg:w-0 lg:flex-1">
             <div class="divide-y divide-gray-200">
             {% for post in paginator.posts %}
                 <article class="py-8 first:pt-0">
@@ -146,7 +146,7 @@ pagination:
         </main>
 
         <!-- Sidebar - Hidden on mobile -->
-        <aside class="hidden lg:block lg:w-80 flex-shrink-0">
+        <aside class="hidden lg:block w-80 flex-shrink-0">
             {% include blog-sidebar.html %}
         </aside>
     </div>

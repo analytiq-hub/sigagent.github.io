@@ -14,7 +14,7 @@ title: Categories
 
     <div class="flex flex-col lg:flex-row gap-8 lg:items-start">
         <!-- Main Content -->
-        <main class="flex-1">
+        <main class="lg:w-0 lg:flex-1">
             {% assign urlParams = page.url | split: '?' %}
             {% if urlParams.size > 1 %}
                 <div>
@@ -108,7 +108,7 @@ title: Categories
         </main>
 
         <!-- Sidebar -->
-        <aside class="hidden lg:block lg:w-80 flex-shrink-0">
+        <aside class="hidden lg:block w-80 flex-shrink-0">
             {% include blog-sidebar.html %}
         </aside>
     </div>
