@@ -1,0 +1,46 @@
+/* Site-specific customizations */
+
+/* Custom syntax highlighting color overrides */
+/* Keep the existing background, just change the mustard colors */
+.hljs-number, .hljs-literal {
+  color: #ff6b35 !important; /* Orange for numbers instead of mustard */
+}
+.hljs-string, .hljs-attr {
+  color: #ff7875 !important; /* Coral for strings instead of mustard */
+}
+.hljs-variable, .hljs-name {
+  color: #ff9f43 !important; /* Vibrant orange for variables */
+}
+.hljs-type, .hljs-class {
+  color: #fd79a8 !important; /* Pink coral for types */
+}
+
+/* Profile image styling for About page */
+.profile-container {
+  float: right;
+  margin: 0 0 20px 20px;
+  max-width: 200px;
+}
+
+.profile-image {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  border: 3px solid #e1e4e8;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.profile-image:hover {
+  transform: scale(1.05);
+}
+
+/* Responsive design for mobile */
+@media (max-width: 768px) {
+  .profile-container {
+    float: none;
+    margin: 0 auto 20px auto;
+    text-align: center;
+    max-width: 150px;
+  }
+}
