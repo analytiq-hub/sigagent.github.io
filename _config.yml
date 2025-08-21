@@ -85,6 +85,31 @@ header_pages:
   - title: "About"
     url: "/about"
 
+# Footer sitemap - simplified navigation for footer display
+site_map:
+  - title: "AI Topics"
+    links:
+      - title: "Language Models"
+        url: "/language_models"
+      - title: "Computer Vision"
+        url: "/computer_vision"
+      - title: "Cognitive Science"
+        url: "/cognitive_science"
+  - title: "Tech Topics"
+    links:
+      - title: "Market Trading"
+        url: "/market_trading"
+      - title: "Webdev"
+        url: "/webdev"
+      - title: "DevOps"
+        url: "/devops"
+  - title: "Site"
+    links:
+      - title: "Blog"
+        url: "/blog"
+      - title: "About"
+        url: "/about"
+
 # Build settings
 # theme: minima  # Removed - using Tailwind CSS instead
 
