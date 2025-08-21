@@ -13,10 +13,11 @@ Please:
    - Add `mathjax: true` if the topic might benefit from mathematical expressions
    - Include appropriate categories based on the topic (choose from: tech, programming, webdev, jekyll, tailwind, ai, tutorials, reviews)
 3. **Structure the content** with:
-   - An engaging introduction
-   - Clear section headings
+   - An engaging introduction (start directly with content, NO title repetition)
+   - Clear section headings using ## and ###
    - Placeholder content that matches the style of other posts on bitdribble.github.io
    - A conclusion
+   - DO NOT include the title as an H1 in the markdown body (Jekyll layouts handle this)
 4. **Add relevant code examples** if the topic is technical
 5. **Use Tailwind CSS** for any custom HTML layouts if needed
 6. **Follow the writing style** of existing posts - technical but accessible, with practical examples
