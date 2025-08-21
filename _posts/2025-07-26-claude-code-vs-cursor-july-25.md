@@ -2,6 +2,7 @@
 layout: post
 title: "Claude Code vs Cursor, July '25"
 date: 2025-07-26
+author: Andrei Radulescu-Banu
 image: /assets/images/claude_code_vs_cursor.png
 categories: [ai, programming, tech, reviews]
 ---
