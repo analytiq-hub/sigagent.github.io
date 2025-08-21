@@ -8,6 +8,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 permalink: pretty
+baseurl: ""
 
 
 # Minima date format
@@ -108,6 +109,9 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-pdf-embed # Per example at https://github.com/MihajloNesic/minimal-mistakes-pdf-example/
+ - jekyll-paginate-v2
+
+
 
 future: true
 

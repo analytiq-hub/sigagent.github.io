@@ -1,6 +1,17 @@
 ---
 layout: default
 title: Blog
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/blog/page/:num/'
+  title: ':title - Page :num'
+  limit: 0
+  trail:
+    before: 2
+    after: 2
+  sort_field: 'date'
+  sort_reverse: true
 ---
 
 <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
@@ -15,7 +26,7 @@ title: Blog
         <!-- Main Content -->
         <main class="flex-1">
             <div class="divide-y divide-gray-200">
-            {% for post in site.posts %}
+            {% for post in paginator.posts %}
                 <article class="py-8 first:pt-0">
                     <div class="flex flex-col md:flex-row gap-6">
                         <div class="md:w-1/3 flex-shrink-0">
@@ -75,10 +86,61 @@ title: Blog
                 </article>
             {% endfor %}
             
-            {% if site.posts.size == 0 %}
+            {% if paginator.posts.size == 0 %}
                 <div class="text-center py-12">
                     <p class="text-gray-600 text-lg">No blog posts available yet.</p>
                 </div>
+            {% endif %}
+            
+            <!-- Pagination -->
+            {% if paginator.total_pages > 1 %}
+                <nav class="mt-12 pt-8 border-t border-gray-200" aria-label="Blog pagination">
+                    <div class="flex items-center justify-between">
+                        {% if paginator.previous_page %}
+                            <a href="{{ paginator.previous_page_path | relative_url }}" 
+                               class="inline-flex items-center gap-2 px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-md hover:bg-gray-50 transition-colors">
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+                                </svg>
+                                Previous
+                            </a>
+                        {% else %}
+                            <div></div>
+                        {% endif %}
+                        
+                        <div class="flex items-center gap-2">
+                            {% for page in (1..paginator.total_pages) %}
+                                {% if page == paginator.page %}
+                                    <span class="px-3 py-2 text-sm font-medium text-white bg-blue-600 rounded-md">
+                                        {{ page }}
+                                    </span>
+                                {% elsif page == 1 %}
+                                    <a href="{{ site.baseurl }}/blog/" 
+                                       class="px-3 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-md hover:bg-gray-50 transition-colors">
+                                        {{ page }}
+                                    </a>
+                                {% else %}
+                                    <a href="{{ site.baseurl }}/blog/page/{{ page }}/" 
+                                       class="px-3 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-md hover:bg-gray-50 transition-colors">
+                                        {{ page }}
+                                    </a>
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                        
+                        {% if paginator.next_page %}
+                            <a href="{{ paginator.next_page_path | relative_url }}" 
+                               class="inline-flex items-center gap-2 px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-md hover:bg-gray-50 transition-colors">
+                                Next
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                                </svg>
+                            </a>
+                        {% else %}
+                            <div></div>
+                        {% endif %}
+                    </div>
+                </nav>
             {% endif %}
             </div>
         </main>
