@@ -1,0 +1,56 @@
+---
+layout: page
+title: Use Cases
+permalink: /use-cases/
+---
+
+<div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
+    <!-- Hero Section -->
+    <header class="text-center md:mb-12 mb-8">
+        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+            Use Cases & Success Stories
+        </h1>
+        <div class="text-xl md:text-2xl text-gray-600 mb-8">
+            <p class="mb-4">Real-world applications of our AI solutions</p>
+            <p class="text-lg">See how we've helped businesses transform their operations</p>
+        </div>
+    </header>
+
+    <main>
+        <!-- Use Cases Grid -->
+        <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">Banking</h3>
+                    <p class="text-gray-600 mb-4">Speed up loan approvals with automated document processing.</p>
+                    <a href="/use-cases/banking/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
+                </div>
+                <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">Clinical Trials</h3>
+                    <p class="text-gray-600 mb-4">Process invoices faster and track budgets with AI.</p>
+                    <a href="/use-cases/clinical-trials/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
+                </div>
+                <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">Insurance</h3>
+                    <p class="text-gray-600 mb-4">Automate claims processing and risk assessment.</p>
+                    <a href="/use-cases/insurance/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
+                </div>
+                <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">Private Equity</h3>
+                    <p class="text-gray-600 mb-4">Due diligence automation and portfolio insights.</p>
+                    <a href="/use-cases/private-equity/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
+                </div>
+                <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">Supply Chain</h3>
+                    <p class="text-gray-600 mb-4">Optimize logistics and predict demand patterns.</p>
+                    <a href="/use-cases/supply-chain/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
+                </div>
+                <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">DME</h3>
+                    <p class="text-gray-600 mb-4">Durable Medical Equipment processing and compliance.</p>
+                    <a href="/use-cases/dme/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
+                </div>
+            </div>
+        </section>
+    </main>
+</div>
