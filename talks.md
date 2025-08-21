@@ -6,10 +6,13 @@ permalink: /talks/
 
 <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
     <!-- Header -->
-    <header class="text-center mb-12">
-        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            Public Engagements
+    <header class="mb-8">
+        <h1 class="text-2xl md:text-3xl font-semibold text-gray-800 mb-2">
+            Talks & Presentations
         </h1>
+        <p class="text-gray-600 text-lg">
+            Speaking engagements and public presentations on AI, technology, and innovation
+        </p>
     </header>
 
     <main>
