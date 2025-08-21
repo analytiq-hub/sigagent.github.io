@@ -11,7 +11,11 @@ DocRouter.AI transforms messy, multi-layout business documents into clean, struc
 
 ## DocRouter.AI User Experience
 
+<img src="/assets/images/doc_router_user_experience.png" alt="DocRouter.AI User Experience" style="display: block; margin: 2rem auto; width: 80%; border-radius: 0.5rem; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);">
+
 We're developing DocRouter.AI as open source because experience shows it leads to better-designed, more resilient code over time. Business value comes from our SaaS version at app.docrouter.ai and enterprise on-VPC installations. We also offer consulting to help other companies build software using similar styles and tools.
+
+<img src="/assets/images/doc_router_repo.png" alt="DocRouter.AI Repository" style="display: block; margin: 2rem auto; width: 80%; border-radius: 0.5rem; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);">
 
 **GitHub Repository:** [github.com/analytiq-hub/doc-router](https://github.com/analytiq-hub/doc-router)
 
@@ -28,6 +32,8 @@ But tools like GitHub Copilot (which helped me learn Apache Spark and Terraform 
 By fall of last year, Cursor enabled me to build DocRouter.AI with a Next.js front end, FastAPI back end, and AWS via Terraform. Claude Code exploded about a month ago, and I've began using it intensively.
 
 ## Lessons from AI Coding Tools: What Works and What Doesn't
+
+<img src="/assets/images/claude_code_vs_cursor.png" alt="Claude Code vs Cursor" style="display: block; margin: 2rem auto; width: 80%; border-radius: 0.5rem; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);">
 
 We often hear engineers claiming they can "zero-shot vibe code" entire apps from scratch. That's possible for simple, UI-focused apps, but for anything complex, the human engineer must stay in the loop. Knowing when to let AI take over and when to intervene is becoming a black art.
 
