@@ -3,7 +3,7 @@ layout: default
 title: Blog
 ---
 
-<div class="max-w-4xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
+<div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
     <!-- Header -->
     <header class="mb-8">
         <h1 class="text-2xl md:text-3xl font-semibold text-gray-800 mb-2">
@@ -14,16 +14,17 @@ title: Blog
         </p>
     </header>
 
-    <!-- Posts List -->
-    <main>
-        <div class="space-y-8">
+    <div class="flex flex-col lg:flex-row gap-8">
+        <!-- Main Content -->
+        <main class="flex-1">
+            <div class="space-y-8">
             {% for post in site.posts %}
                 <article class="bg-white rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 overflow-hidden">
                     <div class="flex flex-col md:flex-row">
                         {%- if post.image -%}
                             <div class="md:w-1/3 flex-shrink-0 bg-gray-50 rounded-lg overflow-hidden">
-                                <div class="aspect-video h-48 md:h-auto flex items-center justify-center p-4">
-                                    <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="max-w-full max-h-full object-contain">
+                                <div class="aspect-video h-48 md:h-auto flex items-center justify-center p-2">
+                                    <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" class="w-full h-full object-contain">
                                 </div>
                             </div>
                         {%- endif -%}
@@ -70,12 +71,18 @@ title: Blog
                     </div>
                 </article>
             {% endfor %}
-        </div>
-        
-        {% if site.posts.size == 0 %}
-            <div class="text-center py-12">
-                <p class="text-gray-600 text-lg">No blog posts available yet.</p>
+            
+            {% if site.posts.size == 0 %}
+                <div class="text-center py-12">
+                    <p class="text-gray-600 text-lg">No blog posts available yet.</p>
+                </div>
+            {% endif %}
             </div>
-        {% endif %}
-    </main>
+        </main>
+
+        <!-- Sidebar - Hidden on mobile -->
+        <aside class="hidden lg:block lg:w-80 flex-shrink-0">
+            {% include blog-sidebar.html %}
+        </aside>
+    </div>
 </div>

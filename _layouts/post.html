@@ -1,13 +1,17 @@
 ---
 layout: default
 ---
-<article class="bg-white rounded-lg border border-gray-200 p-8 shadow-sm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
+  <div class="flex flex-col lg:flex-row gap-8">
+    <!-- Main Content -->
+    <main class="flex-1">
+      <article class="bg-white rounded-lg border border-gray-200 p-8 shadow-sm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="mb-8 border-b border-gray-200 pb-6">
     {%- if page.image -%}
-      <div class="mb-6 flex justify-center bg-gray-50 rounded-lg p-6">
-        <div class="max-w-2xl w-full flex items-center justify-center">
-          <img src="{{ page.image | relative_url }}" alt="{{ page.title | escape }}" class="max-w-full h-auto max-h-80 object-contain rounded-lg shadow-lg">
+      <div class="mb-6 flex justify-center bg-gray-50 rounded-lg p-4">
+        <div class="w-full flex items-center justify-center">
+          <img src="{{ page.image | relative_url }}" alt="{{ page.title | escape }}" class="w-full h-auto max-h-96 object-contain rounded-lg shadow-lg">
         </div>
       </div>
     {%- endif -%}
@@ -46,4 +50,12 @@ layout: default
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-</article>
+      </article>
+    </main>
+
+    <!-- Sidebar - Hidden on mobile -->
+    <aside class="hidden lg:block lg:w-80 flex-shrink-0">
+      {% include blog-sidebar.html %}
+    </aside>
+  </div>
+</div>
