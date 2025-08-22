@@ -6,9 +6,9 @@ permalink: /case-studies/dme/
 ---
 
 
-For a stealth startup, over a year and a half, we implemented an intelligent systems to streamline complex healthcare processes, in areas like Medical Necessity Review. We architected and implemented the core system, establishing the foundation that enables the AI-driven solution to operate efficiently and reliably.
+For a stealth startup, we implemented an intelligent systems to streamline complex healthcare processes, for Medical Necessity Review. Other components were added later. We architected and implemented the core system, establishing the foundation that enables the AI-driven solution to operate efficiently and reliably.
 
-Our approach is designed to handle vast amounts of data and integrate seamlessly with existing healthcare infrastructures. The system is built around several key components:
+Our approach was designed to handle vast amounts of data and to integrate seamlessly with existing healthcare infrastructures. The system was built around several key components:
 
 ## Intelligent Data Ingestion & Processing {#intelligent-data-ingestion}
 
