@@ -108,6 +108,30 @@
   transform: rotate(180deg);
 }
 
+/* Hover effects for desktop dropdowns */
+@media (min-width: 768px) {
+  .dropdown-container:hover .dropdown-menu {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: translateY(0) !important;
+    pointer-events: auto !important;
+  }
+  
+  .dropdown-container:hover .dropdown-toggle svg {
+    transform: rotate(180deg);
+  }
+  
+  /* Ensure dropdown stays open when hovering over the menu */
+  .dropdown-menu:hover {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: translateY(0) !important;
+    pointer-events: auto !important;
+  }
+}
+
 /* Mobile menu styles */
 #mobile-menu {
   opacity: 0;
@@ -235,13 +259,14 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
   
-  // Handle desktop dropdown toggle clicks
+  // Handle desktop dropdown toggle clicks and hover
   dropdownContainers.forEach(container => {
     const toggle = container.querySelector('.dropdown-toggle');
     const menu = container.querySelector('.dropdown-menu');
     
     console.log('Setting up desktop dropdown:', toggle.textContent.trim());
     
+    // Click handler for desktop dropdowns
     toggle.addEventListener('click', function(e) {
       e.preventDefault();
       e.stopPropagation();
@@ -262,6 +287,31 @@ document.addEventListener('DOMContentLoaded', function() {
         console.log('Desktop dropdown opened:', toggle.textContent.trim());
       }
     });
+    
+    // Hover handlers for desktop dropdowns
+    if (window.innerWidth >= 768) {
+      container.addEventListener('mouseenter', function() {
+        // Close other dropdowns when hovering over a new one
+        closeAllDropdowns();
+        toggle.classList.add('active');
+        menu.classList.add('active');
+      });
+      
+      container.addEventListener('mouseleave', function() {
+        // Small delay to allow moving mouse to dropdown menu
+        setTimeout(() => {
+          if (!container.matches(':hover') && !menu.matches(':hover')) {
+            toggle.classList.remove('active');
+            menu.classList.remove('active');
+          }
+        }, 100);
+      });
+      
+      menu.addEventListener('mouseleave', function() {
+        toggle.classList.remove('active');
+        menu.classList.remove('active');
+      });
+    }
   });
   
   // Handle mobile dropdown toggle clicks
@@ -324,6 +374,11 @@ document.addEventListener('DOMContentLoaded', function() {
         closeIcon.classList.add('hidden');
         closeAllMobileDropdowns();
       }
+      // Close all dropdowns on resize to prevent hover issues
+      closeAllDropdowns();
+    } else {
+      // On mobile, ensure all dropdowns are closed
+      closeAllDropdowns();
     }
   });
 });
