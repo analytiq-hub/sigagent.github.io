@@ -8,7 +8,7 @@ permalink: /case-studies/
     <!-- Hero Section -->
     <header class="text-center md:mb-12 mb-8">
         <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            Use Cases & Success Stories
+            Case Studies & Success Stories
         </h1>
         <div class="text-xl md:text-2xl text-gray-600 mb-8">
             <p class="mb-4">Real-world applications of our AI solutions</p>
@@ -17,7 +17,7 @@ permalink: /case-studies/
     </header>
 
     <main>
-        <!-- Use Cases Grid -->
+        <!-- Case Studies Grid -->
         <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
