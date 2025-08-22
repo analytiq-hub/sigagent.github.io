@@ -62,8 +62,8 @@ header_pages:
   - title: "Resources"
     url: "#"
     children:
-      - title: "Use Cases"
-        url: "/use-cases"
+      - title: "Case Studies"
+        url: "/case-studies"
       - title: "Technology"
         url: "/technology"
   - title: "Talks"
@@ -82,8 +82,8 @@ site_map:
     links:
       - title: "Services"
         url: "/services"
-      - title: "Use Cases"
-        url: "/use-cases"
+      - title: "Case Studies"
+        url: "/case-studies"
       - title: "Technology"
         url: "/technology"
   - title: "Company"

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Use Cases
-permalink: /use-cases/
+permalink: /case-studies/
 ---
 
 <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
@@ -23,32 +23,32 @@ permalink: /use-cases/
                 <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
                     <h3 class="text-xl font-medium text-gray-900 mb-2">Banking</h3>
                     <p class="text-gray-600 mb-4">Speed up loan approvals with automated document processing.</p>
-                    <a href="/use-cases/banking/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
+                    <a href="/case-studies/banking/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
                 </div>
                 <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
                     <h3 class="text-xl font-medium text-gray-900 mb-2">Clinical Trials</h3>
                     <p class="text-gray-600 mb-4">Process invoices faster and track budgets with AI.</p>
-                    <a href="/use-cases/clinical-trials/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
+                    <a href="/case-studies/clinical-trials/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
                 </div>
                 <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
                     <h3 class="text-xl font-medium text-gray-900 mb-2">Insurance</h3>
                     <p class="text-gray-600 mb-4">Automate claims processing and risk assessment.</p>
-                    <a href="/use-cases/insurance/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
+                    <a href="/case-studies/insurance/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
                 </div>
                 <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
                     <h3 class="text-xl font-medium text-gray-900 mb-2">Private Equity</h3>
                     <p class="text-gray-600 mb-4">Due diligence automation and portfolio insights.</p>
-                    <a href="/use-cases/private-equity/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
+                    <a href="/case-studies/private-equity/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
                 </div>
                 <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
                     <h3 class="text-xl font-medium text-gray-900 mb-2">Supply Chain</h3>
                     <p class="text-gray-600 mb-4">Optimize logistics and predict demand patterns.</p>
-                    <a href="/use-cases/supply-chain/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
+                    <a href="/case-studies/supply-chain/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
                 </div>
                 <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
                     <h3 class="text-xl font-medium text-gray-900 mb-2">DME</h3>
                     <p class="text-gray-600 mb-4">Durable Medical Equipment processing and compliance.</p>
-                    <a href="/use-cases/dme/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
+                    <a href="/case-studies/dme/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
                 </div>
             </div>
         </section>
