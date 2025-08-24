@@ -31,20 +31,15 @@ permalink: /case-studies/
                     <a href="/case-studies/epic_dme_order_processing/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
                 </div>
                 <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
-                    <h3 class="text-xl font-medium text-gray-900 mb-2">Banking</h3>
-                    <p class="text-gray-600 mb-4">Speed up loan approvals with automated document processing.</p>
-                    <a href="/case-studies/banking/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">Insurance</h3>
+                    <p class="text-gray-600 mb-4">Automate claims processing and risk assessment.</p>
+                    <a href="/case-studies/insurance_wholesaler/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
                 </div>
                 <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
                     <h3 class="text-xl font-medium text-gray-900 mb-2">Clinical Trials</h3>
                     <p class="text-gray-600 mb-4">Process invoices faster and track budgets with AI.</p>
                     <a href="/case-studies/clinical-trials/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
-                </div>
-                <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
-                    <h3 class="text-xl font-medium text-gray-900 mb-2">Insurance</h3>
-                    <p class="text-gray-600 mb-4">Automate claims processing and risk assessment.</p>
-                    <a href="/case-studies/insurance/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
-                </div>
+                </div> 
                 <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
                     <h3 class="text-xl font-medium text-gray-900 mb-2">Supply Chain</h3>
                     <p class="text-gray-600 mb-4">Optimize logistics and predict demand patterns.</p>
