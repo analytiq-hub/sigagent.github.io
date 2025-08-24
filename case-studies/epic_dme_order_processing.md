@@ -1,6 +1,7 @@
 ---
 layout: case-study
-title: Epic Order Processing for DME
+title: Epic EHR Integration
+subtitle: Intelligent Epic order processing automation
 permalink: /case-studies/epic_dme_order_processing/
 ---
 
