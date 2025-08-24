@@ -1,15 +1,11 @@
 ---
 layout: page
 title: Case Studies & Success Stories
+subtitle: See how we've helped businesses transform their operations
 permalink: /case-studies/
 ---
 
 <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
-    <!-- Hero Section -->
-    <header class="text-left md:mb-12 mb-8">
-            <p class="text-lg">See how we've helped businesses transform their operations</p>
-    </header>
-
     <main>
         <!-- Case Studies Grid -->
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">

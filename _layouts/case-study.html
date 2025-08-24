@@ -16,6 +16,9 @@ layout: default
       </div>
     {%- endif -%}
     <h1 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4 p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    {%- if page.subtitle -%}
+      <p class="text-lg md:text-xl text-gray-600 mb-6">{{ page.subtitle | escape }}</p>
+    {%- endif -%}
     <div class="flex flex-wrap items-center gap-4 text-sm text-gray-500">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- if page.date -%}

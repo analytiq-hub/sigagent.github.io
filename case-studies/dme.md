@@ -1,10 +1,9 @@
 ---
 layout: case-study
 title: DME - Medical Necessity Review
-subtitle: Intelligent systems to streamline complex healthcare processes
+subtitle: Zero-to-one healthcare AI implementation
 permalink: /case-studies/dme/
 ---
-
 
 For a stealth startup, we implemented an intelligent systems to streamline complex healthcare processes, for Medical Necessity Review. 
 
