@@ -46,11 +46,6 @@ permalink: /case-studies/
                     <a href="/case-studies/insurance/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
                 </div>
                 <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
-                    <h3 class="text-xl font-medium text-gray-900 mb-2">Private Equity</h3>
-                    <p class="text-gray-600 mb-4">Due diligence automation and portfolio insights.</p>
-                    <a href="/case-studies/private-equity/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
-                </div>
-                <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
                     <h3 class="text-xl font-medium text-gray-900 mb-2">Supply Chain</h3>
                     <p class="text-gray-600 mb-4">Optimize logistics and predict demand patterns.</p>
                     <a href="/case-studies/supply-chain/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
