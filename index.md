@@ -101,7 +101,7 @@ title: "Analytiq Hub - Data+AI Solutions"
                         url="/case-studies/insurance_wholesaler/" %}
                 </div>
                 <div class="text-center mt-6">
-                    <a href="/use-cases/" class="text-blue-600 hover:text-blue-800 font-medium">View All Use Cases →</a>
+                    <a href="/case-studies/" class="text-blue-600 hover:text-blue-800 font-medium">View All Case Studies →</a>
                 </div>
             </div>
         </section>
