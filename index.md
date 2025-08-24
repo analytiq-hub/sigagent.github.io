@@ -90,16 +90,15 @@ title: "Analytiq Hub - Data+AI Solutions"
                     See how we've helped businesses like yours streamline operations with AI
                 </p>
                 <div class="grid md:grid-cols-2 gap-8">
-                    <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
-                        <h3 class="text-xl font-medium text-gray-900 mb-2">Banking</h3>
-                        <p class="text-gray-600 mb-4">Speed up loan approvals with automated document processing.</p>
-                        <a href="/use-cases/banking/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
-                    </div>
-                    <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
-                        <h3 class="text-xl font-medium text-gray-900 mb-2">Clinical Trials</h3>
-                        <p class="text-gray-600 mb-4">Process invoices faster and track budgets with AI.</p>
-                        <a href="/use-cases/clinical-trials/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
-                    </div>
+                    {% include case-study-card.html 
+                        title="DME" 
+                        description="Durable Medical Equipment - full stack AI for processing and compliance." 
+                        url="/case-studies/dme/" %}
+                    
+                    {% include case-study-card.html 
+                        title="Insurance" 
+                        description="Automate claims processing and risk assessment." 
+                        url="/case-studies/insurance_wholesaler/" %}
                 </div>
                 <div class="text-center mt-6">
                     <a href="/use-cases/" class="text-blue-600 hover:text-blue-800 font-medium">View All Use Cases →</a>
