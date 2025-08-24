@@ -18,7 +18,11 @@ We architected and implemented the core system, establishing the foundation that
 
 ## Key Features
 
-Our approach was designed to handle vast amounts of data and to integrate seamlessly with existing healthcare infrastructures. 
+Our approach was designed to handle vast amounts of data and to integrate seamlessly with existing healthcare infrastructures. The design supported:
+* Download faxes (from RightFax, FaxAge, iFax) containing medical orders, chart notes, lab results, insurance claim information
+* Extracting structured information with OCR and LLMs
+* Allowing the operator/human-in-the-loop to review and update the extracted infomation in the UI
+* Creating the DME order in the EHR (Brightree, HDMS)
 
 ## How It Works
 The system was built around several key components:
