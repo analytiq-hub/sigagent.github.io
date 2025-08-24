@@ -1,19 +1,13 @@
 ---
 layout: page
-title: Use Cases
+title: Case Studies & Success Stories
 permalink: /case-studies/
 ---
 
 <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
     <!-- Hero Section -->
-    <header class="text-center md:mb-12 mb-8">
-        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            Case Studies & Success Stories
-        </h1>
-        <div class="text-xl md:text-2xl text-gray-600 mb-8">
-            <p class="mb-4">Real-world applications of our AI solutions</p>
+    <header class="text-left md:mb-12 mb-8">
             <p class="text-lg">See how we've helped businesses transform their operations</p>
-        </div>
     </header>
 
     <main>
