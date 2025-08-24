@@ -78,8 +78,6 @@ header_pages:
 site_map:
   - title: "Services"
     links:
-      - title: "Services"
-        url: "/services"
       - title: "Case Studies"
         url: "/case-studies"
       - title: "Technology"
@@ -88,18 +86,12 @@ site_map:
     links:
       - title: "About"
         url: "/about"
-      - title: "Team"
-        url: "/team"
-      - title: "Partners"
-        url: "/partners"
   - title: "Resources"
     links:
       - title: "Blog"
         url: "/blog"
       - title: "Talks"
         url: "/talks"
-      - title: "Open Source"
-        url: "/open-source"
 
 # Build settings
 # theme: minima  # Removed - using Tailwind CSS instead
