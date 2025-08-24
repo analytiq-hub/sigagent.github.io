@@ -16,7 +16,7 @@ permalink: /case-studies/
             
             {% include case-study-card.html 
                 title="Epic EHR Integration" 
-                description="Automated order processing from Epic systems with zero-touch RPA and intelligent document handling." 
+                description="Automated order processing with zero-touch RPA and intelligent document handling." 
                 url="/case-studies/epic_dme_order_processing/" %}
             
             {% include case-study-card.html 
