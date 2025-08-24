@@ -21,6 +21,16 @@ permalink: /case-studies/
         <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">DME</h3>
+                    <p class="text-gray-600 mb-4">Durable Medical Equipment - full stack AI for processing and compliance.</p>
+                    <a href="/case-studies/dme/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
+                </div>
+                <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">Epic EHR Integration</h3>
+                    <p class="text-gray-600 mb-4">Automated order processing from Epic systems with zero-touch RPA and intelligent document handling.</p>
+                    <a href="/case-studies/epic_dme_order_processing/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
+                </div>
+                <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
                     <h3 class="text-xl font-medium text-gray-900 mb-2">Banking</h3>
                     <p class="text-gray-600 mb-4">Speed up loan approvals with automated document processing.</p>
                     <a href="/case-studies/banking/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
@@ -45,11 +55,7 @@ permalink: /case-studies/
                     <p class="text-gray-600 mb-4">Optimize logistics and predict demand patterns.</p>
                     <a href="/case-studies/supply-chain/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
                 </div>
-                <div class="border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow">
-                    <h3 class="text-xl font-medium text-gray-900 mb-2">DME</h3>
-                    <p class="text-gray-600 mb-4">Durable Medical Equipment processing and compliance.</p>
-                    <a href="/case-studies/dme/" class="text-blue-600 hover:text-blue-800 font-medium">Learn More →</a>
-                </div>
+                
             </div>
         </section>
     </main>
