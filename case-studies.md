@@ -40,6 +40,11 @@ permalink: /case-studies/
                 title="DocRouter.AI" 
                 description="Leveraging AI coding tools and expertise to develop an intelligent document processing platform." 
                 url="/case-studies/docrouter-ai/" %}
+            
+            {% include case-study-card.html 
+                title="Supply Chain" 
+                description="Document processing for trade documents and security compliance in global supply chains." 
+                url="/case-studies/supply-chain/" %}
             </div>
         </main>
     </div>
