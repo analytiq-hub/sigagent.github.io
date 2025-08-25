@@ -47,7 +47,7 @@ To manage the diverse types of data involved, we designed a sophisticated tech s
 - **Postgres** serves as the UI backend and system of record, providing a reliable and structured data store for patient and order data
 - **Databricks** is leveraged for big data batch processing, analytics, and job/workflows
 - **Prefect** for orchestration and parallelization of jobs, to achieve horizontal scaling
-- **Terraform** to control all cloud infrastructure, including VPC setup, DNS, databases, Databricks installation, LabelStudio installation, AWS Lambda functions, Github runners and other services
+- **Terraform** to control all cloud infrastructure, including VPC setup, DNS, ECS, EKS, databases, Databricks installation, LabelStudio installation, AWS Lambda functions, Github runners and other services
 
 ### Leveraging Large Language Models (LLMs) {#leveraging-llms}
 
