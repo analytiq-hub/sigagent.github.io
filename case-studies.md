@@ -20,7 +20,7 @@ permalink: /case-studies/
     <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8">
         <main>
             <!-- Case Studies Grid -->
-            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 justify-items-center max-w-5xl mx-auto">
             {% include case-study-card.html 
                 title="DME" 
                 description="Durable Medical Equipment - full stack AI for processing and compliance." 
