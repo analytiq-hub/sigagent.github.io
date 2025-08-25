@@ -306,10 +306,6 @@ permalink: /technology/
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
-                            <span>ERP integration (Epic, Brightree, HDMS)</span>
-                        </li>
-                        <li class="flex items-start space-x-2">
-                            <span class="text-white">•</span>
                             <span>Large Language Models, fine tuning</span>
                         </li>
                         <li class="flex items-start space-x-2">
@@ -318,11 +314,15 @@ permalink: /technology/
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
-                            <span>RPA and IPA automation</span>
+                            <span>Computer Vision, Robotics (ROS, Lidar)</span>
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
-                            <span>Computer Vision, Robotics (ROS, Lidar)</span>
+                            <span>ERP integration (Epic, Brightree, HDMS)</span>
+                        </li>
+                        <li class="flex items-start space-x-2">
+                            <span class="text-white">•</span>
+                            <span>RPA and IPA automation</span>
                         </li>
                     </ul>
                 </div>
@@ -335,11 +335,11 @@ permalink: /technology/
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
-                            <span>DevOps, MLOps (Prefect, Terraform, Docker)</span>
+                            <span>DevOps, MLOps (K8S, Terraform)</span>
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
-                            <span>Business Intelligence (Databricks, MLFlow)</span>
+                            <span>Business Intelligence (Databricks, Snowflake)</span>
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
