@@ -71,7 +71,7 @@ permalink: /technology/
         <section class="bg-gray-50 rounded-lg p-8 mb-12">
             <h2 class="text-3xl font-semibold text-gray-900 mb-6 text-center">The Intelligence: AI and Machine Learning</h2>
             <p class="text-lg text-gray-600 mb-8 max-w-3xl mx-auto text-center">
-                Next, we infuse intelligence. Using advanced AI, we automate repetitive tasks like data extraction from unstructured documents, achieving human-in-the-loop accuracy for regulated industries.
+                Next, we infuse intelligence. Using advanced AI, we streamline complex processes, automate repetitive tasks, uncover actionable insights, and enhance decision-making, achieving human-in-the-loop accuracy and efficiency for regulated industries.
             </p>
             <div class="grid md:grid-cols-3 gap-6">
                 <!-- Card Examples: Group 3-4 per row, with benefits -->
