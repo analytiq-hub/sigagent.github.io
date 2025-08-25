@@ -45,6 +45,11 @@ permalink: /case-studies/
                 title="Supply Chain" 
                 description="Optimize logistics and predict demand patterns." 
                 url="/case-studies/supply-chain/" %}
+            
+            {% include case-study-card.html 
+                title="DocRouter.AI" 
+                description="Leveraging AI coding tools and expertise to develop an intelligent document processing platform." 
+                url="/case-studies/docrouter-ai/" %}
             </div>
         </main>
     </div>
