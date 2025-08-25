@@ -150,14 +150,125 @@ permalink: /technology/
             </p>
             <!-- Sub-grids for Data & Analytics, Development & Integration, DevOps -->
             <div class="grid md:grid-cols-3 gap-8 mb-8">
-                <!-- Example Sub-section -->
+                <!-- Data & Analytics Sub-section -->
                 <div>
                     <h3 class="text-xl font-medium text-gray-900 mb-4 text-center">Data & Analytics</h3>
                     <div class="space-y-4">
-                        <!-- Bullet-style cards for MongoDB, PostgreSQL, etc., with benefits like "Real-time insights for supply chain reconciliation" -->
+                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                            <div class="flex items-start space-x-3">
+                                <div class="w-8 h-8 bg-green-100 rounded flex items-center justify-center flex-shrink-0">
+                                    <span class="text-green-600 font-semibold text-sm">M</span>
+                                </div>
+                                <div>
+                                    <h4 class="font-semibold text-gray-900 text-sm">MongoDB</h4>
+                                    <p class="text-gray-600 text-xs">Flexible document storage for semi-structured LLM outputs and metadata</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                            <div class="flex items-start space-x-3">
+                                <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center flex-shrink-0">
+                                    <span class="text-blue-600 font-semibold text-sm">P</span>
+                                </div>
+                                <div>
+                                    <h4 class="font-semibold text-gray-900 text-sm">PostgreSQL</h4>
+                                    <p class="text-gray-600 text-xs">Reliable transactional data for UI backends and structured business logic</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                            <div class="flex items-start space-x-3">
+                                <div class="w-8 h-8 bg-red-100 rounded flex items-center justify-center flex-shrink-0">
+                                    <span class="text-red-600 font-semibold text-sm">S</span>
+                                </div>
+                                <div>
+                                    <h4 class="font-semibold text-gray-900 text-sm">Apache Spark</h4>
+                                    <p class="text-gray-600 text-xs">Large-scale data processing for batch analytics and ML pipelines</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <!-- Similar for Development (React, FastAPI) and DevOps (Terraform, Kubernetes) -->
+                
+                <!-- Development & Integration Sub-section -->
+                <div>
+                    <h3 class="text-xl font-medium text-gray-900 mb-4 text-center">Development & Integration</h3>
+                    <div class="space-y-4">
+                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                            <div class="flex items-start space-x-3">
+                                <div class="w-8 h-8 bg-cyan-100 rounded flex items-center justify-center flex-shrink-0">
+                                    <span class="text-cyan-600 font-semibold text-sm">R</span>
+                                </div>
+                                <div>
+                                    <h4 class="font-semibold text-gray-900 text-sm">React & Next.js</h4>
+                                    <p class="text-gray-600 text-xs">Modern responsive UIs with server-side rendering for optimal performance</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                            <div class="flex items-start space-x-3">
+                                <div class="w-8 h-8 bg-green-100 rounded flex items-center justify-center flex-shrink-0">
+                                    <span class="text-green-600 font-semibold text-sm">F</span>
+                                </div>
+                                <div>
+                                    <h4 class="font-semibold text-gray-900 text-sm">FastAPI</h4>
+                                    <p class="text-gray-600 text-xs">High-performance async APIs with automatic documentation and validation</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                            <div class="flex items-start space-x-3">
+                                <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center flex-shrink-0">
+                                    <span class="text-blue-600 font-semibold text-sm">T</span>
+                                </div>
+                                <div>
+                                    <h4 class="font-semibold text-gray-900 text-sm">TypeScript</h4>
+                                    <p class="text-gray-600 text-xs">Type-safe development reducing bugs and improving maintainability</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- DevOps & Operations Sub-section -->
+                <div>
+                    <h3 class="text-xl font-medium text-gray-900 mb-4 text-center">DevOps & Operations</h3>
+                    <div class="space-y-4">
+                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                            <div class="flex items-start space-x-3">
+                                <div class="w-8 h-8 bg-purple-100 rounded flex items-center justify-center flex-shrink-0">
+                                    <span class="text-purple-600 font-semibold text-sm">T</span>
+                                </div>
+                                <div>
+                                    <h4 class="font-semibold text-gray-900 text-sm">Terraform</h4>
+                                    <p class="text-gray-600 text-xs">Infrastructure as code for reproducible, version-controlled deployments</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                            <div class="flex items-start space-x-3">
+                                <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center flex-shrink-0">
+                                    <span class="text-blue-600 font-semibold text-sm">K</span>
+                                </div>
+                                <div>
+                                    <h4 class="font-semibold text-gray-900 text-sm">Kubernetes</h4>
+                                    <p class="text-gray-600 text-xs">Container orchestration for scalable, resilient application deployment</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                            <div class="flex items-start space-x-3">
+                                <div class="w-8 h-8 bg-green-100 rounded flex items-center justify-center flex-shrink-0">
+                                    <span class="text-green-600 font-semibold text-sm">P</span>
+                                </div>
+                                <div>
+                                    <h4 class="font-semibold text-gray-900 text-sm">Prefect</h4>
+                                    <p class="text-gray-600 text-xs">Workflow orchestration for complex data pipelines and ML operations</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="bg-gradient-to-r from-blue-600 to-blue-800 text-white rounded-lg p-6">
                 <h3 class="text-2xl font-medium mb-4 text-center">Plan, Build, Operate: Our End-to-End Approach</h3>
