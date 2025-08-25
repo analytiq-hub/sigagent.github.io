@@ -74,19 +74,72 @@ permalink: /technology/
                 Next, we infuse intelligence. Using advanced AI, we streamline complex processes, automate repetitive tasks, uncover actionable insights, and enhance decision-making, achieving human-in-the-loop accuracy and efficiency for regulated industries.
             </p>
             <div class="grid md:grid-cols-3 gap-6">
-                <!-- Card Examples: Group 3-4 per row, with benefits -->
+                <!-- OpenAI & Anthropic Card -->
                 <div class="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
                     <div class="w-12 h-12 bg-green-100 rounded-full mx-auto mb-4 flex items-center justify-center">
                         <span class="text-green-600 text-2xl">🤖</span>
                     </div>
-                    <h3 class="text-xl font-medium text-gray-900 mb-2">OpenAI & Anthropic</h3>
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">OpenAI, Anthropic, Gemini</h3>
                     <p class="text-gray-600 text-sm">
-                        Enables precise LLM-based extraction, as in our finance use cases for loan origination—boosting speed and compliance.
+                        Power intelligent document extraction and analysis—transforming unstructured PDFs into structured data with 95%+ accuracy.
                     </p>
                 </div>
-                <!-- Include Hugging Face, LangChain, LlamaIndex, etc. Highlight integrations like "Fine-tuned with PyTorch for custom models" -->
+                
+                <!-- LangChain & LlamaIndex Card -->
+                <div class="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
+                    <div class="w-12 h-12 bg-blue-100 rounded-full mx-auto mb-4 flex items-center justify-center">
+                        <span class="text-blue-600 text-2xl">🔗</span>
+                    </div>
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">LangChain & LlamaIndex</h3>
+                    <p class="text-gray-600 text-sm">
+                        Build sophisticated RAG pipelines and agent workflows—enabling context-aware AI that understands your business domain.
+                    </p>
+                </div>
+                
+                <!-- PyTorch & Custom Models Card -->
+                <div class="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
+                    <div class="w-12 h-12 bg-orange-100 rounded-full mx-auto mb-4 flex items-center justify-center">
+                        <span class="text-orange-600 text-2xl">⚡</span>
+                    </div>
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">PyTorch & Fine-tuning</h3>
+                    <p class="text-gray-600 text-sm">
+                        Create custom models for specialized tasks—fine-tuned on your data for industry-specific document classification and extraction.
+                    </p>
+                </div>
+                
+                <!-- LiteLLM & Multi-Provider Card -->
+                <div class="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
+                    <div class="w-12 h-12 bg-purple-100 rounded-full mx-auto mb-4 flex items-center justify-center">
+                        <span class="text-purple-600 text-2xl">🌐</span>
+                    </div>
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">LiteLLM & Multi-Provider</h3>
+                    <p class="text-gray-600 text-sm">
+                        Seamlessly switch between AI providers—optimizing for cost, speed, and accuracy while avoiding vendor lock-in.
+                    </p>
+                </div>
+                
+                <!-- MLFlow & Model Management Card -->
+                <div class="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
+                    <div class="w-12 h-12 bg-indigo-100 rounded-full mx-auto mb-4 flex items-center justify-center">
+                        <span class="text-indigo-600 text-2xl">📈</span>
+                    </div>
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">MLFlow & Experiments</h3>
+                    <p class="text-gray-600 text-sm">
+                        Track model performance and manage experiments—ensuring consistent accuracy and enabling rapid iteration cycles.
+                    </p>
+                </div>
+                
+                <!-- LabelStudio & Data Annotation Card -->
+                <div class="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
+                    <div class="w-12 h-12 bg-pink-100 rounded-full mx-auto mb-4 flex items-center justify-center">
+                        <span class="text-pink-600 text-2xl">🏷️</span>
+                    </div>
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">LabelStudio & Annotation</h3>
+                    <p class="text-gray-600 text-sm">
+                        Streamline data labeling and quality control—enabling human-in-the-loop workflows for continuous model improvement.
+                    </p>
+                </div>
             </div>
-            <p class="text-center mt-6 text-gray-600">Our expertise: We've fine-tuned models for 99% accuracy in pilots with insurance carriers.</p>
         </section>
 
         <!-- Section 3: The Engine - Data, Development & DevOps (Climax/Execution) -->
