@@ -38,7 +38,6 @@ DocRouter.AI acts as a horizontal AI accelerator, plugging into vertical-specifi
 
 DocRouter.AI has achieved significant impact:
 - Reduces processing time by up to 90% and eliminates costly errors by 95%.
-- Delivers annual savings of over $50,000 per client through automation.
 - Proven in pilots with insurance and supply chain organizations, handling use cases like claims processing, loan origination, patient records, manifests, and quiz grading.
 - Open-source nature fosters community contributions, while SaaS (app.docrouter.ai) and enterprise deployments provide business value.
 - Enables quick setup and customization, making it industry-agnostic yet precise for compliance-heavy workflows.
