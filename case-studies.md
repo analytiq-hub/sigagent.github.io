@@ -37,16 +37,6 @@ permalink: /case-studies/
                 url="/case-studies/insurance_wholesaler/" %}
             
             {% include case-study-card.html 
-                title="Clinical Trials" 
-                description="Process invoices faster and track budgets with AI." 
-                url="/case-studies/clinical-trials/" %}
-            
-            {% include case-study-card.html 
-                title="Supply Chain" 
-                description="Optimize logistics and predict demand patterns." 
-                url="/case-studies/supply-chain/" %}
-            
-            {% include case-study-card.html 
                 title="DocRouter.AI" 
                 description="Leveraging AI coding tools and expertise to develop an intelligent document processing platform." 
                 url="/case-studies/docrouter-ai/" %}
