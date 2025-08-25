@@ -9,7 +9,7 @@ permalink: /technology/
         <!-- Tech Stack Section -->
         <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
             <h2 class="text-3xl font-semibold text-gray-900 mb-8 text-center">Tech Stack</h2>
-            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
                 <!-- Cloud Platforms -->
                 <div class="bg-gray-50 rounded-lg p-6">
                     <h3 class="text-lg font-medium text-gray-900 mb-4 text-center">Cloud Platforms</h3>
@@ -52,6 +52,24 @@ permalink: /technology/
                             <span class="text-gray-700">OpenAI</span>
                         </div>
                         <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-purple-100 rounded flex items-center justify-center">
+                                <span class="text-purple-600 font-semibold text-sm">A</span>
+                            </div>
+                            <span class="text-gray-700">Anthropic</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center">
+                                <span class="text-blue-600 font-semibold text-sm">G</span>
+                            </div>
+                            <span class="text-gray-700">Google AI</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-red-100 rounded flex items-center justify-center">
+                                <span class="text-red-600 font-semibold text-sm">G</span>
+                            </div>
+                            <span class="text-gray-700">Groq / DeepSeek</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
                             <div class="w-8 h-8 bg-yellow-100 rounded flex items-center justify-center">
                                 <span class="text-yellow-600 font-semibold text-sm">H</span>
                             </div>
@@ -69,6 +87,30 @@ permalink: /technology/
                             </div>
                             <span class="text-gray-700">LlamaIndex</span>
                         </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-indigo-100 rounded flex items-center justify-center">
+                                <span class="text-indigo-600 font-semibold text-sm">L</span>
+                            </div>
+                            <span class="text-gray-700">LiteLLM</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-orange-100 rounded flex items-center justify-center">
+                                <span class="text-orange-600 font-semibold text-sm">P</span>
+                            </div>
+                            <span class="text-gray-700">PyTorch</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-pink-100 rounded flex items-center justify-center">
+                                <span class="text-pink-600 font-semibold text-sm">L</span>
+                            </div>
+                            <span class="text-gray-700">LabelStudio</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center">
+                                <span class="text-blue-600 font-semibold text-sm">M</span>
+                            </div>
+                            <span class="text-gray-700">MLFlow</span>
+                        </div>
                     </div>
                 </div>
 
@@ -76,6 +118,18 @@ permalink: /technology/
                 <div class="bg-gray-50 rounded-lg p-6">
                     <h3 class="text-lg font-medium text-gray-900 mb-4 text-center">Data & Analytics</h3>
                     <div class="space-y-3">
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-green-100 rounded flex items-center justify-center">
+                                <span class="text-green-600 font-semibold text-sm">M</span>
+                            </div>
+                            <span class="text-gray-700">MongoDB</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center">
+                                <span class="text-blue-600 font-semibold text-sm">P</span>
+                            </div>
+                            <span class="text-gray-700">PostgreSQL</span>
+                        </div>
                         <div class="flex items-center space-x-3">
                             <div class="w-8 h-8 bg-red-100 rounded flex items-center justify-center">
                                 <span class="text-red-600 font-semibold text-sm">S</span>
@@ -86,7 +140,149 @@ permalink: /technology/
                             <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center">
                                 <span class="text-blue-600 font-semibold text-sm">J</span>
                             </div>
-                            <span class="text-gray-700">John Snow LABS</span>
+                            <span class="text-gray-700">John Snow Labs</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Development & Integration -->
+                <div class="bg-gray-50 rounded-lg p-6">
+                    <h3 class="text-lg font-medium text-gray-900 mb-4 text-center">Development & Integration</h3>
+                    <div class="space-y-3">
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-cyan-100 rounded flex items-center justify-center">
+                                <span class="text-cyan-600 font-semibold text-sm">R</span>
+                            </div>
+                            <span class="text-gray-700">React</span>
+                        </div>                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center">
+                                <span class="text-blue-600 font-semibold text-sm">N</span>
+                            </div>
+                            <span class="text-gray-700">Next.js</span>
+                        </div>
+
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-green-100 rounded flex items-center justify-center">
+                                <span class="text-green-600 font-semibold text-sm">F</span>
+                            </div>
+                            <span class="text-gray-700">FastAPI</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center">
+                                <span class="text-blue-600 font-semibold text-sm">T</span>
+                            </div>
+                            <span class="text-gray-700">TypeScript</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-yellow-100 rounded flex items-center justify-center">
+                                <span class="text-yellow-600 font-semibold text-sm">J</span>
+                            </div>
+                            <span class="text-gray-700">JavaScript</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center">
+                                <span class="text-blue-600 font-semibold text-sm">D</span>
+                            </div>
+                            <span class="text-gray-700">Docker</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-purple-100 rounded flex items-center justify-center">
+                                <span class="text-purple-600 font-semibold text-sm">M</span>
+                            </div>
+                            <span class="text-gray-700">Material-UI</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-teal-100 rounded flex items-center justify-center">
+                                <span class="text-teal-600 font-semibold text-sm">T</span>
+                            </div>
+                            <span class="text-gray-700">Tailwind CSS</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- DevOps & Infrastructure -->
+        <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
+            <h2 class="text-3xl font-semibold text-gray-900 mb-8 text-center">DevOps & Infrastructure</h2>
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- Infrastructure as Code -->
+                <div class="bg-gray-50 rounded-lg p-6">
+                    <h3 class="text-lg font-medium text-gray-900 mb-4 text-center">Infrastructure as Code</h3>
+                    <div class="space-y-3">
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-purple-100 rounded flex items-center justify-center">
+                                <span class="text-purple-600 font-semibold text-sm">T</span>
+                            </div>
+                            <span class="text-gray-700">Terraform</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center">
+                                <span class="text-blue-600 font-semibold text-sm">K</span>
+                            </div>
+                            <span class="text-gray-700">Kubernetes (AWS EKS)</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center">
+                                <span class="text-blue-600 font-semibold text-sm">E</span>
+                            </div>
+                            <span class="text-gray-700">AWS ECS</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Orchestration & Automation -->
+                <div class="bg-gray-50 rounded-lg p-6">
+                    <h3 class="text-lg font-medium text-gray-900 mb-4 text-center">Orchestration & Automation</h3>
+                    <div class="space-y-3">
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-green-100 rounded flex items-center justify-center">
+                                <span class="text-green-600 font-semibold text-sm">P</span>
+                            </div>
+                            <span class="text-gray-700">Prefect</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center">
+                                <span class="text-blue-600 font-semibold text-sm">n</span>
+                            </div>
+                            <span class="text-gray-700">n8n</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-orange-100 rounded flex items-center justify-center">
+                                <span class="text-orange-600 font-semibold text-sm">S</span>
+                            </div>
+                            <span class="text-gray-700">Puppeteer, Selenium</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Development Tools -->
+                <div class="bg-gray-50 rounded-lg p-6">
+                    <h3 class="text-lg font-medium text-gray-900 mb-4 text-center">Development Tools</h3>
+                    <div class="space-y-3">
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center">
+                                <span class="text-blue-600 font-semibold text-sm">V</span>
+                            </div>
+                            <span class="text-gray-700">VS Code</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-purple-100 rounded flex items-center justify-center">
+                                <span class="text-purple-600 font-semibold text-sm">C</span>
+                            </div>
+                            <span class="text-gray-700">Cursor</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-orange-100 rounded flex items-center justify-center">
+                                <span class="text-orange-600 font-semibold text-sm">C</span>
+                            </div>
+                            <span class="text-gray-700">Claude Code</span>
+                        </div>
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-green-100 rounded flex items-center justify-center">
+                                <span class="text-green-600 font-semibold text-sm">G</span>
+                            </div>
+                            <span class="text-gray-700">GitHub Copilot</span>
                         </div>
                     </div>
                 </div>
@@ -106,11 +302,11 @@ permalink: /technology/
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
-                            <span>Rules engines, ERP integration</span>
+                            <span>Rules engines</span>
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
-                            <span>Computer Vision, Robotics</span>
+                            <span>ERP integration (Epic, Brightree, HDMS)</span>
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
@@ -118,15 +314,15 @@ permalink: /technology/
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
-                            <span>Chat, Summarization, RAG</span>
-                        </li>
-                        <li class="flex items-start space-x-2 ml-4">
-                            <span class="text-blue-200">-</span>
-                            <span class="text-blue-200">On-prem or with deidentified data</span>
+                            <span>Chat, Summarization, Extraction, RAG</span>
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
                             <span>RPA and IPA automation</span>
+                        </li>
+                        <li class="flex items-start space-x-2">
+                            <span class="text-white">•</span>
+                            <span>Computer Vision, Robotics (ROS, Lidar)</span>
                         </li>
                     </ul>
                 </div>
@@ -135,15 +331,15 @@ permalink: /technology/
                     <ul class="text-blue-100 space-y-3">
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
-                            <span>Full stack customized UI</span>
+                            <span>Full stack customized UI (React, Next.js, TypeScript)</span>
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
-                            <span>DevOps, MLOps</span>
+                            <span>DevOps, MLOps (Prefect, Terraform, Docker)</span>
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
-                            <span>Business Intelligence</span>
+                            <span>Business Intelligence (Databricks, MLFlow)</span>
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
@@ -151,7 +347,7 @@ permalink: /technology/
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
-                            <span>Microservices and API development</span>
+                            <span>Microservices and API development (FastAPI)</span>
                         </li>
                         <li class="flex items-start space-x-2">
                             <span class="text-white">•</span>
