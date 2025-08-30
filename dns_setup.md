@@ -17,13 +17,18 @@ title: DNS Setup for GitHub Pages
       <li class="text-gray-700">Navigate to your repository on GitHub</li>
       <li class="text-gray-700">Go to <strong>Settings</strong> → <strong>Pages</strong></li>
       <li class="text-gray-700">Under "Custom domain", enter your domain name (e.g., <code class="bg-gray-100 px-2 py-1 rounded">example.com</code>)</li>
-      <li class="text-gray-700">Check <strong>"Enforce HTTPS"</strong> (recommended)</li>
       <li class="text-gray-700">Click <strong>Save</strong></li>
     </ol>
 
     <div class="bg-blue-50 border-l-4 border-blue-400 p-4 mb-6">
       <p class="text-blue-700">
         <strong>Note:</strong> GitHub will create a CNAME file in your repository root. Don't delete this file.
+      </p>
+    </div>
+
+    <div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 mb-6">
+      <p class="text-yellow-700">
+        <strong>Important:</strong> Do NOT enable "Enforce HTTPS" yet. This must be done after DNS configuration is complete and verified.
       </p>
     </div>
 
