@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building Your Company Website with Analytiq Pages: GitHub Pages + Jekyll + Tailwind"
+title: "Build Your Company Website with Analytiq Pages"
 date: 2025-08-30
 author: Andrei Radulescu-Banu
 mathjax: false
