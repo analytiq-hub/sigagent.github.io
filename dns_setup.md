@@ -71,36 +71,36 @@ Type: A    Name: @    Value: 185.199.111.153</code></pre>
       <div class="border rounded-lg p-4">
         <h4 class="font-semibold text-gray-800 mb-2">Cloudflare</h4>
         <ul class="text-sm text-gray-600 space-y-1">
-          <li>• Go to DNS → Records</li>
-          <li>• Add A/CNAME records as above</li>
-          <li>• Set Proxy status to "DNS only" (gray cloud)</li>
+          <li>Go to DNS → Records</li>
+          <li>Add A/CNAME records as above</li>
+          <li>Set Proxy status to "DNS only" (gray cloud)</li>
         </ul>
       </div>
 
       <div class="border rounded-lg p-4">
         <h4 class="font-semibold text-gray-800 mb-2">Namecheap</h4>
         <ul class="text-sm text-gray-600 space-y-1">
-          <li>• Go to Advanced DNS</li>
-          <li>• Add A/CNAME records</li>
-          <li>• TTL can be set to Automatic</li>
+          <li>Go to Advanced DNS</li>
+          <li>Add A/CNAME records</li>
+          <li>TTL can be set to Automatic</li>
         </ul>
       </div>
 
       <div class="border rounded-lg p-4">
         <h4 class="font-semibold text-gray-800 mb-2">GoDaddy</h4>
         <ul class="text-sm text-gray-600 space-y-1">
-          <li>• Go to DNS → Manage Zones</li>
-          <li>• Add A/CNAME records</li>
-          <li>• Use @ for apex domain</li>
+          <li>Go to DNS → Manage Zones</li>
+          <li>Add A/CNAME records</li>
+          <li>Use @ for apex domain</li>
         </ul>
       </div>
 
       <div class="border rounded-lg p-4">
         <h4 class="font-semibold text-gray-800 mb-2">Route 53 (AWS)</h4>
         <ul class="text-sm text-gray-600 space-y-1">
-          <li>• Go to Hosted Zones</li>
-          <li>• Create A/CNAME records</li>
-          <li>• Use root domain for Name field</li>
+          <li>Go to Hosted Zones</li>
+          <li>Create A/CNAME records</li>
+          <li>Use root domain for Name field</li>
         </ul>
       </div>
     </div>
