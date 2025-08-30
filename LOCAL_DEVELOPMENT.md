@@ -1,3 +1,8 @@
+---
+layout: default
+title: Local Development Setup
+---
+
 # Local Development Setup
 
 This guide explains how to set up Jekyll locally for development and testing of the Analytiq Hub website.
