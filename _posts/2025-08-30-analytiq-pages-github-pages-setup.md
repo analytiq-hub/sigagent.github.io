@@ -10,6 +10,8 @@ categories: [webdev, jekyll, tailwind, github-pages, company-website]
 
 Setting up a professional company website shouldn't require a team of developers or expensive hosting solutions. **Analytiq Pages** is our streamlined approach to building beautiful, fast company websites using GitHub Pages, Jekyll, and Tailwind CSS - completely free and with enterprise-grade reliability.
 
+📢 [Join the Analytiq Pages discussion on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7367581674697629697/)
+
 ## Why Analytiq Pages?
 
 After building numerous company websites and helping startups establish their web presence, we've distilled the best practices into a reproducible system that delivers:
