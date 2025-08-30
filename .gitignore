@@ -8,3 +8,7 @@ vendor/
 # Tailwind CSS executable
 tailwindcss
 tailwindcss-*
+
+# macOS system files
+.DS_Store
+**/.DS_Store
