@@ -105,5 +105,37 @@ title: "Analytiq Hub - Data+AI Solutions"
                 </div>
             </div>
         </section>
+
+        <!-- Testimonials Section -->
+        <section class="bg-gray-50 rounded-lg shadow-lg p-8 mb-12">
+            <h2 class="text-3xl font-semibold text-gray-900 mb-8 text-center">What Our Clients Say</h2>
+            <div class="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
+                {% include testimonial-card.html 
+                    quote="Analytiq helped us create custom AI solutions for the healthcare industry. Andrei has great knowledge of the current AI technologies and helped us apply them in an effective manner. Their experience helped generate tremendous value to our business."
+                    name="Albert Woo"
+                    title="President"
+                    company="Boston Medical Data"
+                    image="/assets/images/albert_woo.jpeg" %}
+                
+                {% include testimonial-card.html 
+                    quote="Analytiq Hub was fundamental to our early growth. Andrei helped us with foundational architectural decisions that drove our early successes. Highly recommended for early startups looking for technical leadership!"
+                    name="Kevin Chen"
+                    title="Director of Engineering"
+                    image="/assets/images/kevin_chen.jpg" %}
+                
+                {% include testimonial-card.html 
+                    quote="Andrei continues to impress over the 20+ years I've known him. He listens to customer needs and applies the right technologies and processes to the solution. And now he's leading the way with value-building AI solutions."
+                    name="Brian Suthoff"
+                    title="Entrepreneur & Investor"
+                    image="/assets/images/brian_suthoff.jpeg" %}
+                
+                {% include testimonial-card.html 
+                    quote="🎉🎉 a fantastic meetup last week in Boston by AICamp Boston community. Thanks speakers Andrei Radulescu-Banu … for their deep dive into cutting-edge tech and insightful discussions."
+                    name="Bill Liu"
+                    title="Founder"
+                    company="AICamp"
+                    image="/assets/images/bill_liu.jpeg" %}
+            </div>
+        </section>
     </main>
 </div>
