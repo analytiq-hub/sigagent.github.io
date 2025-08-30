@@ -108,9 +108,9 @@ Type: A    Name: @    Value: 185.199.111.153</code></pre>
     <h2 class="text-2xl font-bold text-gray-900 mt-8 mb-4">Step 4: Verify DNS Configuration</h2>
 
     <ol class="list-decimal list-inside space-y-3 mb-6">
-      <li class="text-gray-700">Wait for DNS propagation (can take up to 24 hours, usually much faster)</li>
-      <li class="text-gray-700">Check DNS propagation at <a href="https://www.whatsmydns.net/" target="_blank" class="text-blue-600 hover:text-blue-800">whatsmydns.net</a></li>
       <li class="text-gray-700">Visit your domain to confirm it loads your GitHub Pages site</li>
+      <li class="text-gray-700">Wait for DNS propagation (can take up to 24 hours, usually much faster)</li>
+      <li class="text-gray-700">If needed check DNS propagation at <a href="https://www.whatsmydns.net/" target="_blank" class="text-blue-600 hover:text-blue-800">whatsmydns.net</a></li>
     </ol>
 
     <h2 class="text-2xl font-bold text-gray-900 mt-8 mb-4">Step 5: Enable HTTPS (After DNS is Working)</h2>
