@@ -11,7 +11,7 @@ This is a Jekyll sandbox project that combines:
 
 ## Getting Started
 
-- For complete development setup and workflow instructions, see [Local Development](docs/local_development.md).
+- For complete development setup and workflow instructions, see [Local Development](http://analytiqhub.com/docs/local_development/).
 - For DNS setup see [DNS Setup](http://analytiqhub.com/docs/dns_setup)
 
 ## Quick Start
