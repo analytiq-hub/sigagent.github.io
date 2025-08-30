@@ -92,13 +92,6 @@ bundle exec jekyll serve --no-watch
 - **Performance**: Check page load times
 - **Content**: Verify all content displays correctly
 
-### 4. Validate HTML (Optional)
-Install and use HTML validator:
-```bash
-gem install html-proofer
-bundle exec htmlproofer ./_site
-```
-
 ## Common Commands
 
 | Command | Purpose |
@@ -128,7 +121,7 @@ Ensure you're using a compatible Ruby version. Check `.ruby-version` if present,
 
 ## Deployment Notes
 
-This site is configured for GitHub Pages deployment. The `github-pages` gem ensures compatibility with GitHub's Jekyll environment.
+This site is automatically deployed to GitHub Pages when code is pushed to the main branch via GitHub Actions.
 
 **Before pushing changes:**
 1. Run `make build` to ensure the site builds successfully
