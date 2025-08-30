@@ -80,16 +80,9 @@ make build
 
 This creates a `_site/` directory with the generated static files.
 
-### 2. Serve the Built Site
-Test the production build locally:
-```bash
-bundle exec jekyll serve --no-watch
-```
-
 ### 3. Check for Issues
 - **Broken links**: Manually check navigation and internal links
 - **Responsive design**: Test on different screen sizes
-- **Performance**: Check page load times
 - **Content**: Verify all content displays correctly
 
 ## Common Commands
@@ -122,11 +115,3 @@ Ensure you're using a compatible Ruby version. Check `.ruby-version` if present,
 ## Deployment Notes
 
 This site is automatically deployed to GitHub Pages when code is pushed to the main branch via GitHub Actions.
-
-**Before pushing changes:**
-1. Run `make build` to ensure the site builds successfully
-2. Test the built site locally
-3. Check for any console errors in the browser
-4. Verify responsive design works correctly
-
-The site will automatically deploy when changes are pushed to the main branch.
