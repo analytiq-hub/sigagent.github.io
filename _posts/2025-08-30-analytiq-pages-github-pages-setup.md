@@ -4,7 +4,7 @@ title: "Build Your Company Website with Analytiq Pages"
 date: 2025-08-30
 author: Andrei Radulescu-Banu
 mathjax: false
-image: /assets/images/analytiq-pages-setup.png
+image: /assets/images/analytiq_pages.png
 categories: [webdev, jekyll, tailwind, github-pages, company-website]
 ---
 
