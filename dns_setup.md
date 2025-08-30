@@ -105,13 +105,30 @@ Type: A    Name: @    Value: 185.199.111.153</code></pre>
       </div>
     </div>
 
-    <h2 class="text-2xl font-bold text-gray-900 mt-8 mb-4">Step 4: Verify Configuration</h2>
+    <h2 class="text-2xl font-bold text-gray-900 mt-8 mb-4">Step 4: Verify DNS Configuration</h2>
 
     <ol class="list-decimal list-inside space-y-3 mb-6">
       <li class="text-gray-700">Wait for DNS propagation (can take up to 24 hours, usually much faster)</li>
       <li class="text-gray-700">Check DNS propagation at <a href="https://www.whatsmydns.net/" target="_blank" class="text-blue-600 hover:text-blue-800">whatsmydns.net</a></li>
       <li class="text-gray-700">Visit your domain to confirm it loads your GitHub Pages site</li>
-      <li class="text-gray-700">Verify HTTPS is working (look for the padlock icon)</li>
+    </ol>
+
+    <h2 class="text-2xl font-bold text-gray-900 mt-8 mb-4">Step 5: Enable HTTPS (After DNS is Working)</h2>
+
+    <div class="bg-green-50 border-l-4 border-green-400 p-4 mb-4">
+      <p class="text-green-700">
+        <strong>Only proceed with this step after your domain is successfully loading your GitHub Pages site.</strong>
+      </p>
+    </div>
+
+    <ol class="list-decimal list-inside space-y-3 mb-6">
+      <li class="text-gray-700">Return to your repository's <strong>Settings</strong> → <strong>Pages</strong></li>
+      <li class="text-gray-700"><strong>Refresh the page</strong> to update the DNS check status</li>
+      <li class="text-gray-700">Verify that GitHub shows "DNS check successful" or similar confirmation</li>
+      <li class="text-gray-700">Now check <strong>"Enforce HTTPS"</strong></li>
+      <li class="text-gray-700">Click <strong>Save</strong></li>
+      <li class="text-gray-700">Wait for SSL certificate provisioning (can take several hours)</li>
+      <li class="text-gray-700">Verify HTTPS is working by visiting your site and checking for the padlock icon</li>
     </ol>
 
     <h2 class="text-2xl font-bold text-gray-900 mt-8 mb-4">Troubleshooting</h2>
@@ -120,18 +137,18 @@ Type: A    Name: @    Value: 185.199.111.153</code></pre>
       <div class="bg-yellow-50 border-l-4 border-yellow-400 p-4">
         <h4 class="font-semibold text-yellow-800 mb-2">Site not loading?</h4>
         <ul class="text-yellow-700 text-sm space-y-1">
-          <li>• Check that DNS records are correct</li>
-          <li>• Wait for DNS propagation (up to 24 hours)</li>
-          <li>• Verify the CNAME file exists in your repository</li>
+          <li>Check that DNS records are correct</li>
+          <li>Wait for DNS propagation (up to 24 hours)</li>
+          <li>Verify the CNAME file exists in your repository</li>
         </ul>
       </div>
 
       <div class="bg-red-50 border-l-4 border-red-400 p-4">
         <h4 class="font-semibold text-red-800 mb-2">HTTPS not working?</h4>
         <ul class="text-red-700 text-sm space-y-1">
-          <li>• Ensure "Enforce HTTPS" is enabled in GitHub Pages settings</li>
-          <li>• Wait for SSL certificate provisioning (can take several hours)</li>
-          <li>• Try disabling and re-enabling "Enforce HTTPS"</li>
+          <li>Ensure "Enforce HTTPS" is enabled in GitHub Pages settings</li>
+          <li>Wait for SSL certificate provisioning (can take several hours)</li>
+          <li>Try disabling and re-enabling "Enforce HTTPS"</li>
         </ul>
       </div>
     </div>
