@@ -72,7 +72,7 @@ Our solution leverages enterprise-proven technologies to deliver consistent perf
 
 **Exponential Growth Enablement**: The platform's success enabled our client to:
 - **Scale their engineering team 4x** (from 2 to 8-10 engineers) within 18 months
-- **Secure Series A funding** by demonstrating proven revenue and customer traction
+- **Secure Pre-Seed funding** by demonstrating proven revenue and customer traction
 - **Expand into new markets** by adapting the core platform for additional healthcare workflows
 - **Achieve operational efficiency** that competitors using manual processes simply cannot match
 
