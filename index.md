@@ -107,7 +107,7 @@ title: "Analytiq Hub - Data+AI Solutions"
         </section>
 
         <!-- Testimonials Section -->
-        <section class="bg-gray-50 rounded-lg shadow-lg p-8 mb-12">
+        <section class="bg-blue-50 rounded-lg shadow-lg p-8 mb-12">
             <h2 class="text-3xl font-semibold text-gray-900 mb-8 text-center">What Our Clients Say</h2>
             <div class="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
                 {% include testimonial-card.html 
