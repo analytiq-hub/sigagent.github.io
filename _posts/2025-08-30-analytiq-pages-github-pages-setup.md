@@ -108,7 +108,7 @@ The forked template already includes Tailwind CSS configuration, so your site is
 
 ### Step 3: Local Development Setup
 
-Install [local development prerequisites]((https://analytiqhub.com/docs/local_development)) and start developing locally:
+Install [local development prerequisites](https://analytiqhub.com/docs/local_development) and start developing locally:
 
 ```bash
 # Install dependencies
@@ -120,7 +120,7 @@ make dev
 
 For complete setup instructions including Ruby, Bundler, and troubleshooting, see the full [Local Development Setup guide](https://analytiqhub.com/docs/local_development).
 
-Point your web browser to the local developmen server at [http://localhost:4000](http://localhost:4000). 
+Point your web browser to the local development server at [http://localhost:4000](http://localhost:4000). 
 
 After editing files in the sandbox, manually or with Claude Code, Cursor or the preferred AI editor, they are automatically refreshed on the development server. 
 * Changes to the menu or the footing require a restart of the local development server.
