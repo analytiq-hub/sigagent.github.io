@@ -126,4 +126,4 @@ plugins:
 future: true
 
 # GitHub repository configuration
-repository: bitdribble/bitdribble.github.io
+repository:  analytiq-hub/analytiq-hub.github.io 
