@@ -1,11 +1,14 @@
 ---
 layout: case-study
-title: DME - Medical Necessity Review
-subtitle: Zero-to-ten healthcare AI implementation
+title: Healthcare Automation That Delivers ROI
+subtitle: How we built a zero-to-ten DME automation platform that enabled 4x team growth and secured funding
 permalink: /case-studies/dme/
 ---
 
 When a healthcare startup needed to transform manual, paper-based medical processes into an intelligent digital system, they turned to us for a complete zero-to-ten implementation. We built their core AI-powered platform from the ground up, enabling them to automate Medical Necessity Review processes that previously required hours of manual work. The result? A scalable solution that not only solved critical customer pain points but also positioned the startup for successful Series A funding by demonstrating proven product-market fit with multiple pilot customers.
+
+![Illustration of a doctor with a patient in a wheelchair]({{ '/assets/images/case-studies/dme/dme.png' | relative_url }})
+*AI-powered DME processing platform that transforms manual workflows into intelligent automation*
 
 ## The Challenge
 
@@ -72,7 +75,7 @@ Our solution leverages enterprise-proven technologies to deliver consistent perf
 
 **Exponential Growth Enablement**: The platform's success enabled our client to:
 - **Scale their engineering team 4x** (from 2 to 8-10 engineers) within 18 months
-- **Secure Pre-Seed funding** by demonstrating proven revenue and customer traction
+- **Secure Series A funding** by demonstrating proven revenue and customer traction
 - **Expand into new markets** by adapting the core platform for additional healthcare workflows
 - **Achieve operational efficiency** that competitors using manual processes simply cannot match
 
