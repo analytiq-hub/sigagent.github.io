@@ -7,6 +7,9 @@ permalink: /case-studies/docrouter-ai/
 
 When enterprises across insurance, healthcare, finance, and supply chain needed to eliminate manual document processing bottlenecks, we delivered DocRouter.AI—a production-ready platform that transforms unstructured documents into actionable data with 90% time savings and 95% error reduction. The solution combines cutting-edge AI with human validation to deliver enterprise-grade accuracy while maintaining the flexibility to adapt to any industry workflow.
 
+![DocRouter AI Platform]({{ '/assets/images/case-studies/docrouter-ai/docrouter insurance best.png' | relative_url }})
+*AI-powered document processing platform that transforms unstructured documents into actionable data*
+
 ## The Challenge
 
 Enterprises across regulated industries face a $50B+ document processing crisis: manual data entry costs $2-5 per document, creates 15-20% error rates, and creates compliance risks that can result in millions in penalties. Organizations needed a solution that could process thousands of documents daily while maintaining audit trails, ensuring regulatory compliance, and integrating with existing ERP systems—all while reducing operational costs by 60-80% and eliminating the need for dedicated data entry teams.
