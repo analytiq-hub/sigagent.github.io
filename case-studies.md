@@ -26,13 +26,13 @@ permalink: /case-studies/
                 description="How we built a zero-to-ten DME automation platform that enabled 4x team growth and secured funding" 
                 url="/case-studies/dme/" %}
             
-            {% include case-study-card.html 
-                title="Epic EHR Integration That Delivers ROI" 
+            {% include case-study-card.html
+                title="Epic EHR Integration That Reduces Errors" 
                 description="Zero-touch Epic automation reducing processing time by 90% while ensuring 100% compliance" 
                 url="/case-studies/epic_dme_order_processing/" %}
             
             {% include case-study-card.html 
-                title="Insurance Automation That Delivers ROI" 
+                title="Insurance Automation That Reduces Manual Work" 
                 description="AI-powered submission processing reducing manual work by 75% while ensuring compliance" 
                 url="/case-studies/insurance_wholesaler/" %}
             
