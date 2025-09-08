@@ -9,12 +9,12 @@ permalink: /case-studies/epic_dme_order_processing/
 
 A leading Durable Medical Equipment (DME) provider serving major healthcare systems (Albany Med, St. Peters) faced a critical operational crisis: 50% of their CPAP orders originated from Epic EHR systems, but manual processing was expensive and error prone. Staff spent hours daily manually pulling orders from Epic's In Basket, searching for supporting documents (facesheets, sleep studies, office notes), and handling duplicates across multiple chart types—a process that was unsustainable as healthcare systems moved away from fax-based workflows. With Medicare compliance requirements demanding specific documentation sequences and real-time processing expectations, the manual approach created both financial losses and regulatory risks that threatened the business's ability to scale.
 
+![Epic EHR Integration]({{ 'assets/images/case-studies/epic-dme/epic-dme-hero.png' | relative_url }})
+*Zero-touch Epic automation platform that transforms manual order processing into intelligent workflows*
+
 ## The Solution
 
 We delivered a complete zero-touch Epic automation platform that transforms manual order processing into an intelligent, automated workflow. Our solution reduced processing time, eliminated manual errors, and ensured compliance with Medicare requirements—delivering immediate ROI of $200,000+ annually while enabling real-time order processing that scales with business growth.
-
-![Epic EHR Integration]({{ 'assets/images/case-studies/epic-dme/epic-dme-hero.png' | relative_url }})
-*Zero-touch Epic automation platform that transforms manual order processing into intelligent workflows*
 
 ## Enterprise Capabilities That Drive Results
 

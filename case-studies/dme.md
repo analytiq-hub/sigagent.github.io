@@ -5,7 +5,9 @@ subtitle: How we built a zero-to-ten DME automation platform that enabled 4x tea
 permalink: /case-studies/dme/
 ---
 
-When a healthcare startup needed to transform manual, paper-based medical processes into an intelligent digital system, they turned to us for a complete zero-to-ten implementation. We built their core AI-powered platform from the ground up, enabling them to automate Medical Necessity Review processes that previously required hours of manual work. The result? A scalable solution that not only solved critical customer pain points but also positioned the startup for successful Series A funding by demonstrating proven product-market fit with multiple pilot customers.
+## Overview
+
+When a healthcare startup needed to transform manual, paper-based medical processes into an intelligent digital system, they turned to us for a complete zero-to-ten implementation. We built their core AI-powered platform from the ground up, enabling them to automate Medical Necessity Review processes that previously required hours of manual work. The result? A scalable solution that not only solved critical customer pain points but also positioned the startup for Series A funding by demonstrating proven product-market fit with multiple pilot customers.
 
 ![Illustration of a doctor with a patient in a wheelchair]({{ '/assets/images/case-studies/dme/dme.png' | relative_url }})
 *AI-powered DME processing platform that transforms manual workflows into intelligent automation*

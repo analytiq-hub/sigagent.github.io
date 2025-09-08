@@ -7,6 +7,9 @@ permalink: /case-studies/supply-chain/
 
 When global supply chain operations needed to eliminate manual document processing bottlenecks, we delivered intelligent AI-powered solutions that transform complex trade documents and security compliance workflows—reducing processing time from hours to minutes while ensuring accuracy and regulatory compliance across international operations.
 
+![Supply Chain Automation]({{ '/assets/images/case-studies/supply-chain/supply-chain-hero.png' | relative_url }})
+*AI-powered supply chain document processing that transforms trade documents and security compliance workflows*
+
 ## The Challenge
 
 Global supply chain operations face critical operational challenges processing vast amounts of complex documentation that requires high accuracy and speed. Organizations needed automated solutions to handle:

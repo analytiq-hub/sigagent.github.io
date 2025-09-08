@@ -13,6 +13,9 @@ A specialty insurance wholesaler processing 7,000 submissions annually faced cri
 
 We delivered DocRouter.AI, an intelligent document processing platform that automates insurance submission workflows while maintaining the human oversight required for regulatory compliance. The solution processes handwritten and typed ACORD forms using advanced OCR and LLM technology, automatically extracting structured data and integrating with ALIS systems—reducing manual processing time from hours to minutes while ensuring accuracy and compliance.
 
+![Insurance Automation Platform]({{ '/assets/images/case-studies/insurance-wholesaler/insurance-hero.png' | relative_url }})
+*AI-powered insurance submission processing that automates ACORD form workflows with 75% efficiency gains*
+
 ## Key Capabilities That Drive Results
 
 DocRouter.AI delivers measurable business value through features designed for insurance industry compliance and operational efficiency:
