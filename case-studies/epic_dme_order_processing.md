@@ -13,6 +13,9 @@ A leading Durable Medical Equipment (DME) provider serving major healthcare syst
 
 We delivered a complete zero-touch Epic automation platform that transforms manual order processing into an intelligent, automated workflow. Our solution reduced processing time, eliminated manual errors, and ensured compliance with Medicare requirements—delivering immediate ROI of $200,000+ annually while enabling real-time order processing that scales with business growth.
 
+![Epic EHR Integration]({{ 'assets/images/case-studies/epic-dme/epic-dme-hero.png' | relative_url }})
+*Zero-touch Epic automation platform that transforms manual order processing into intelligent workflows*
+
 ## Enterprise Capabilities That Drive Results
 
 Our Epic automation platform delivers measurable business value through features designed for healthcare compliance and operational excellence:
