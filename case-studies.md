@@ -22,28 +22,28 @@ permalink: /case-studies/
             <!-- Case Studies Grid -->
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 justify-items-center max-w-5xl mx-auto">
             {% include case-study-card.html 
-                title="DME" 
-                description="Durable Medical Equipment - full stack AI for processing and compliance." 
+                title="Healthcare Automation That Delivers ROI" 
+                description="How we built a zero-to-ten DME automation platform that enabled 4x team growth and secured funding" 
                 url="/case-studies/dme/" %}
             
             {% include case-study-card.html 
-                title="Epic EHR Integration" 
-                description="Automated order processing with zero-touch RPA and intelligent document handling." 
+                title="Epic EHR Integration That Delivers ROI" 
+                description="Zero-touch Epic automation reducing processing time by 90% while ensuring 100% compliance" 
                 url="/case-studies/epic_dme_order_processing/" %}
             
             {% include case-study-card.html 
-                title="Insurance" 
-                description="Automate claims processing and risk assessment." 
+                title="Insurance Automation That Delivers ROI" 
+                description="AI-powered submission processing reducing manual work by 75% while ensuring compliance" 
                 url="/case-studies/insurance_wholesaler/" %}
             
             {% include case-study-card.html 
-                title="DocRouter.AI" 
-                description="Leveraging AI coding tools and expertise to develop an intelligent document processing platform." 
+                title="DocRouter.AI - Document Processing Platform" 
+                description="AI-powered document understanding for enterprise workflows" 
                 url="/case-studies/docrouter-ai/" %}
             
             {% include case-study-card.html 
-                title="Supply Chain" 
-                description="Document processing for trade documents and security compliance in global supply chains." 
+                title="Supply Chain Automation That Delivers Results" 
+                description="AI-powered trade document processing reducing manual work from hours to minutes" 
                 url="/case-studies/supply-chain/" %}
             </div>
         </main>
