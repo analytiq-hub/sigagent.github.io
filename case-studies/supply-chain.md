@@ -4,6 +4,7 @@ title: Supply Chain Automation That Delivers Results
 subtitle: AI-powered trade document processing reducing manual work from hours to minutes
 permalink: /case-studies/supply-chain/
 ---
+## Overview
 
 When global supply chain operations needed to eliminate manual document processing bottlenecks, we delivered intelligent AI-powered solutions that transform complex trade documents and security compliance workflows—reducing processing time from hours to minutes while ensuring accuracy and regulatory compliance across international operations.
 
