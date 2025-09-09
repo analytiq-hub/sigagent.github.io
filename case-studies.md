@@ -15,6 +15,15 @@ permalink: /case-studies/
     </div>
 </div>
 
+<!-- People Header Image -->
+<div class="bg-white py-4">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8">
+        <div class="text-center">
+            <img src="/assets/images/people header 1.png" alt="People Header" class="mx-auto max-w-full h-auto rounded-lg shadow-sm">
+        </div>
+    </div>
+</div>
+
 <!-- Content Section with White Background -->
 <div class="bg-white py-8 md:py-12">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8">
