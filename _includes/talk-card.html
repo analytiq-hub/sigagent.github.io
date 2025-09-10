@@ -60,7 +60,7 @@
                 <span class="text-gray-400">•</span>
                 {% if include.date %}
                     <time datetime="{{ include.date | date: '%Y-%m-%d' }}" class="text-gray-600">
-                        {{ include.date | date: '%B %d, %Y' }}
+                        {{ include.date | date: '%b %d, %Y' | replace: 'Sep', 'Sept' }}
                     </time>
                 {% else %}
                     <span class="text-gray-600">{{ include.date }}</span>
