@@ -10,7 +10,7 @@ title: "Analytiq Hub - Data+AI Solutions"
             Boost Your Business with AI and Data
         </h1>
         <div class="text-xl md:text-2xl text-gray-600 mb-8">
-            <p class="mb-4">Custom AI solutions and expert guidance for biotech and healthtech</p>
+            <p class="mb-4">Custom AI solutions and expert guidance for biotech, healthtech, and beyond</p>
             <p class="text-lg">We help startups and businesses save time and cut costs</p>
         </div>
         <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -89,15 +89,20 @@ title: "Analytiq Hub - Data+AI Solutions"
                 <p class="text-lg text-gray-600 mb-6">
                     See how we've helped businesses like yours streamline operations with AI
                 </p>
-                <div class="grid md:grid-cols-2 gap-8">
+                <div class="grid md:grid-cols-3 gap-8">
                     {% include case-study-card.html 
-                        title="DME" 
-                        description="Durable Medical Equipment - full stack AI for processing and compliance." 
+                        title="Healthcare Automation That Delivers ROI" 
+                        description="Zero-to-ten DME automation platform enabling 4x team growth and Series A funding with 99%+ accuracy" 
                         url="/case-studies/dme/" %}
                     
                     {% include case-study-card.html 
-                        title="Insurance" 
-                        description="Automate claims processing and risk assessment." 
+                        title="Epic EHR Integration That Reduces Errors" 
+                        description="Zero-touch Epic automation reducing processing time by 90% while ensuring 100% compliance" 
+                        url="/case-studies/epic_dme_order_processing/" %}
+                    
+                    {% include case-study-card.html 
+                        title="Insurance Automation That Reduces Manual Work" 
+                        description="AI-powered submission processing reducing manual work by 75% while ensuring compliance" 
                         url="/case-studies/insurance_wholesaler/" %}
                 </div>
                 <div class="text-center mt-6">
