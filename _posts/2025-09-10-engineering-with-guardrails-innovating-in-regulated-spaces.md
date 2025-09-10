@@ -3,6 +3,7 @@ layout: post
 title: "Navigating Compliance in Startups: A Guide for Regulated Industries"
 date: 2025-09-10
 author: Andrei Radulescu-Banu
+image: /assets/images/engineering_with_guardrails.png
 categories: [ai, programming, tech, reviews]
 ---
 
