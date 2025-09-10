@@ -15,6 +15,18 @@ permalink: /talks/
     <main>
         <!-- Talks Container -->
         <div class="space-y-8" id="talks-container">
+            {% include talk-card.html 
+                title="Engineering with Guardrails: Innovating in Regulated Spaces"
+                speaker="Ilsa Webeck, Andrei Radulescu-Banu, Marjan Monfared"
+                date="September 9, 2025"
+                event="Startup Boston Week 2025"
+                event_url="https://sbw2025.sched.com/event/264KN/engineering-with-guardrails-innovating-in-regulated-spaces"
+                logos="/assets/images/startup_boston_week.png"
+                image="/assets/images/engineering_with_guardrails.png"
+                links="https://sbw2025.sched.com/event/264KN/engineering-with-guardrails-innovating-in-regulated-spaces;Event Details|https://streamyard.com/watch/GWAw3FHAfUZy;Recording|https://www.linkedin.com/feed/update/urn:li:activity:7371516401406124032/;LinkedIn Post"
+                abstract="<p>Building fast doesn’t mean ignoring the rules—especially in healthcare, fintech, AI, or consumer hardware. Our panel explores how to embed compliance into the development process without slowing innovation - for CTOs, technical founders, and engineering leaders operating in regulated industries.</p>
+                Moderated by Rabeeh Majidi."
+            %}
             
             {% include talk-card.html 
                 title="GradeAssist AI: A School Quiz Grader"
