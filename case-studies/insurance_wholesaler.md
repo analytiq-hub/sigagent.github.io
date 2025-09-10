@@ -1,7 +1,7 @@
 ---
 layout: case-study
 title: Insurance Automation That Reduces Manual Work
-subtitle: AI-powered submission processing reducing manual work by 75% while ensuring compliance
+subtitle: AI-powered submission processing reducing manual work by 75%
 permalink: /case-studies/insurance_wholesaler/
 ---
 

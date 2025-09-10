@@ -32,7 +32,7 @@ permalink: /case-studies/
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 justify-items-center max-w-5xl mx-auto">
             {% include case-study-card.html 
                 title="Healthcare Automation That Delivers ROI" 
-                description="How we built a zero-to-ten DME automation platform that enabled 4x team growth and secured funding" 
+                description="How we built a zero-to-ten DME automation platform that enabled 4x team growth" 
                 url="/case-studies/dme/" %}
             
             {% include case-study-card.html
@@ -42,7 +42,7 @@ permalink: /case-studies/
             
             {% include case-study-card.html 
                 title="Insurance Automation That Reduces Manual Work" 
-                description="AI-powered submission processing reducing manual work by 75% while ensuring compliance" 
+                description="AI-powered submission processing reducing manual work by 75%" 
                 url="/case-studies/insurance_wholesaler/" %}
             
             {% include case-study-card.html 
