@@ -134,6 +134,6 @@ Facing **FDA** or **HIPAA**? Start informed. For complicated problems—look asi
 
 ## Why Compliance Pays Off: The Bigger Picture
 
-Non-compliance isn't just risky—it's ruinous, with breaches costing $220,000 more for unprepared firms. Yet, proactive startups see ROI: Faster market entry, investor confidence, and scalable innovation. As regs like AI guidelines tighten, embed compliance now. Resources like FDA's "breakthrough" designated programs lower barriers. For more, revisit the [panel recording](https://streamyard.com/watch/GWAw3FHAfUZy) or consult experts—your guardrails today fuel tomorrow's breakthroughs.
+Non-compliance isn't just risky—it's ruinous, with breaches costing tens and hundreds of thousands of dollars for unprepared firms. Yet, proactive startups see ROI: Faster market entry, investor confidence, and scalable innovation. As regs like AI guidelines tighten, embed compliance now. Resources like FDA's "breakthrough" designated programs lower barriers. For more, revisit the [panel recording](https://streamyard.com/watch/GWAw3FHAfUZy) or consult experts—your guardrails today fuel tomorrow's breakthroughs.
 
 *Insights blend panel discussions from September 9, 2025, with industry best practices. Always seek tailored legal advice.*
