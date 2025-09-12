@@ -70,9 +70,11 @@ While AI offers significant innovation potential in the highly regulated healthc
 
 The AI revolution has dramatically accelerated development. With AI editors like Claude Code and Cursor, projects that used to take three months now take a week or half a week. Code review with AI and enhanced development workflows make innovation much faster for engineers.
 
-_"There's huge wave of innovation coming and I don't know how it's going to impact regulations as a framework, but for sure it's going to be impact it. The companies that build software stacks to help with regulatory evaluation already embed AI in the document processing. It's now simpler to see of whether you're on track with your compliance."_
+_"There's huge wave of innovation coming and I don't know how it's going to impact regulations as a framework, but for sure it's going to be impact it"_, says Andrei. _"The companies that build software stacks to help with regulatory evaluation already embed AI in the document processing. It's now simpler to see of whether you're on track with your compliance."_
 
-_"For the DocRouter.AI, being a horizontal platform means that you can have customers with different security requirements. Transportation requirements are going to be different than for insurance or for medical or legal. You can make a lot of progress with customers with lesser requirements - and then, the feature you develop is portable to the other domains. It's a game of figuring out how to get the data from the customers, and how to find the right pilots to build on that so that when you go to a more strictly regulated environment with HIPAA data, for example, then you're ready and you can make quick progress."_
+_"For the DocRouter.AI"_, says Andrei, _"being a horizontal platform means that you can have customers with different security requirements. Supply Chain requirements are going to be different than for Insurance or Medical or Legal. You can make a lot of progress with customers with lesser requirements. Then, the feature you develop is portable to other domains."_
+
+_"It's a game of figuring out how to work with customers sharing their data, and how to find the right product pilots, so that when you go to a strictly regulated environment with HIPAA data, for example, then you can make quick progress."_
 
 Tips for enabling innovation:
 * For **HIPAA**, use modular architectures where sensitive **PHI** is isolated in compliant modules, allowing rapid iteration on non-sensitive features.	
