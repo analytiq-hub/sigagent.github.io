@@ -9,11 +9,21 @@ categories: [ai, programming, tech, reviews]
 
 In the dynamic world of startups, especially those operating in heavily regulated sectors like healthcare, fintech, AI, and consumer hardware, compliance isn't just a checkbox—it's a foundational element that safeguards innovation, protects users, and unlocks growth opportunities. 
 
-As regulations evolve rapidly — with frameworks like HIPAA, SOC 2, FDA approvals, and GDPR becoming more stringent — startups must integrate compliance from the outset to avoid costly pitfalls. 
+As regulations evolve rapidly — with frameworks like HIPAA, SOC 2, FDA approvals, and GDPR becoming more stringent — startups must integrate compliance from the outset to avoid costly pitfalls
 
 In this blog post, we draw from insights shared at Startup Boston Week 2025's [Engineering with Guardrails](https://streamyard.com/watch/GWAw3FHAfUZy) panel, featuring Ilsa Webeck (Simbex), Marjan Monfared (Leaf Guardian), and Andrei Radulescu-Banu (DocRouter.AI), moderated by Rabeeh Majidi (OrthoKinetic Track) - incorporating panel wisdom alongside other general best practices.
 
 Whether you're a technical founder or CTO, understanding these principles can help you build resilient products that scale without regulatory roadblocks.
+
+## Which Regulatory Framewors? How do they differ from each other?
+While all regulatory frameworks aim to promote safety, security, and accountability, it's vital to understand their key differences, as advice applicable to one may not translate to others. 
+* **HIPAA** is a U.S. federal law mandating the protection of protected health information (PHI) through privacy and security rules, including breach notifications, for covered entities like healthcare providers and their business associates.
+* **FDA** regulations for *pharmaceuticals* focus on ensuring drug safety and efficacy via rigorous processes like New Drug Applications (NDAs), which often involve extensive clinical trials and can take an average of 12 years.
+* In contrast, **FDA** oversight for *medical devices* is risk-based, with devices classified into *Class I* (low risk, general controls), *Class II* (moderate risk, often requiring 510(k) clearance for substantial equivalence to existing devices), and *Class III* (high risk, needing Premarket Approval with clinical data), typically spanning 3-7 years.
+* **SOC2**, developed by the *AICPA*, is an attestation framework for service organizations, evaluating controls across trust services criteria (security, availability, etc.) via *Type 1* (design) or *Type 2* (operational effectiveness) reports, and it's not industry-specific or legally mandated like **HIPAA**.
+* **HITRUST** is a voluntary, certifiable framework tailored to healthcare, incorporating **HIPAA** along with standards like **NIST** and **ISO** for comprehensive risk management, going beyond **HIPAA**'s requirements with prescriptive controls and global applicability.
+
+For example, while **FDA** emphasizes product testing and recalls, **HIPAA** prioritizes data handling, and **SOC 2** focuses on organizational controls—highlighting why strategies must be customized to each framework's unique scope and enforcement.
 
 ## Common Compliance Mistakes Startups Make (and How to Sidestep Them)
 
