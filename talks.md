@@ -23,7 +23,7 @@ permalink: /talks/
                 event_url="https://sbw2025.sched.com/event/264KN/engineering-with-guardrails-innovating-in-regulated-spaces"
                 logos="/assets/images/startup_boston_week.png"
                 image="/assets/images/engineering_with_guardrails.png"
-                links="https://sbw2025.sched.com/event/264KN/engineering-with-guardrails-innovating-in-regulated-spaces;Event Details|https://streamyard.com/watch/GWAw3FHAfUZy;Recording|https://www.linkedin.com/feed/update/urn:li:activity:7371516401406124032/;LinkedIn Post"
+                links="https://sbw2025.sched.com/event/264KN/engineering-with-guardrails-innovating-in-regulated-spaces;Event Details|https://www.linkedin.com/pulse/navigating-compliance-startups-guide-regulated-andrei-radulescu-banu-jvnpe/?trackingId=vRI2OmOOSBqVGIijBp2OvQ%3D%3D;Blog Post|https://streamyard.com/watch/GWAw3FHAfUZy;Recording|https://www.linkedin.com/feed/update/urn:li:activity:7371516401406124032/;LinkedIn Post"
                 abstract="<p>Building fast doesn’t mean ignoring the rules—especially in healthcare, fintech, AI, or consumer hardware. Our panel explores how to embed compliance into the development process without slowing innovation - for CTOs, technical founders, and engineering leaders operating in regulated industries.</p>
                 Moderated by Rabeeh Majidi."
             %}

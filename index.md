@@ -92,7 +92,7 @@ title: "Analytiq Hub - Data+AI Solutions"
                 <div class="grid md:grid-cols-3 gap-8">
                     {% include case-study-card.html 
                         title="Healthcare Automation That Delivers ROI" 
-                        description="Zero-to-ten DME automation platform enabling 4x team growth and Series A funding with 99%+ accuracy" 
+                        description="How we built a zero-to-ten DME automation platform that enabled 4x team growth" 
                         url="/case-studies/dme/" %}
                     
                     {% include case-study-card.html 
