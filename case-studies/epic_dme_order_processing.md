@@ -42,7 +42,9 @@ Our solution leverages enterprise-proven technologies to deliver consistent perf
 **Healthcare-Grade Infrastructure**: Our architecture combines AWS services with healthcare-specific compliance and security:
 
 * **AWS S3 + MongoDB**: HIPAA-compliant storage for emails, files, and metadata with 99.999% durability and automatic encryption
-* **Databricks + SQS**: Enterprise orchestration platform handling scraping, reassembly, and OCR with horizontal scaling and fault tolerance
+* **Databricks**: Job scheduling, delta lake for batch processing of patient data 
+* **Prefect + SQS**: Enterprise orchestration platform handling scraping, reassembly
+* **OCR + LLM** with horizontal scaling and fault tolerance
 * **Terraform + Lambda**: Infrastructure-as-code deployment with serverless functions for MFA handling and event-driven processing
 * **Epic Integration**: Vendor-approved RPA approach with FHIR compliance considerations and credential-based access management
 
