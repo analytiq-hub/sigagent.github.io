@@ -364,7 +364,7 @@ permalink: /technology/
                 Partner with Analytiq Hub's experts to automate what slows you down. From document workflows to AI integrations, we'll tailor our stack to your needs.
             </p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                <a href="/contact/" class="bg-white text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600 px-8 py-4 rounded-lg font-semibold border-2 border-white hover:bg-white hover:bg-opacity-10 transition-all duration-200">Schedule a Demo</a>
+                <a href="/contact/" class="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold border-2 border-white hover:bg-white hover:bg-opacity-10 transition-all duration-200">Schedule a Demo</a>
                 <a href="/contact/" class="border-2 border-white px-8 py-4 rounded-lg font-semibold hover:bg-white hover:bg-opacity-10 transition-all duration-200">Learn More</a>
             </div>
         </section>
