@@ -32,7 +32,7 @@
               </div>
             {%- else -%}
               {%- if item.button_style == "solid" -%}
-                <a class="inline-block px-4 py-2 text-white !text-white no-underline font-medium transition-all duration-200 bg-blue-600 hover:bg-blue-700 rounded-md whitespace-nowrap" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+                <a class="inline-block px-4 py-2 text-white !text-white no-underline font-medium transition-all duration-200 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 rounded-md whitespace-nowrap shadow-lg hover:shadow-xl" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
               {%- else -%}
                 <a class="inline-block px-4 py-2 text-gray-600 no-underline font-medium transition-all duration-200 hover:text-blue-600 hover:bg-gray-50 rounded-md whitespace-nowrap" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
               {%- endif -%}
@@ -77,7 +77,7 @@
             </div>
           {%- else -%}
             {%- if item.button_style == "solid" -%}
-              <a class="block px-4 py-3 text-white !text-white no-underline font-medium active:text-white active:bg-blue-700 focus:text-white focus:bg-blue-700 bg-blue-600 rounded-md transition-all duration-200 touch-manipulation" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+              <a class="block px-4 py-3 text-white !text-white no-underline font-medium active:text-white active:from-blue-700 active:to-purple-700 focus:text-white focus:from-blue-700 focus:to-purple-700 bg-gradient-to-r from-blue-600 to-purple-600 rounded-md transition-all duration-200 touch-manipulation shadow-lg" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
             {%- else -%}
               <a class="block px-4 py-3 text-gray-700 no-underline font-medium active:text-blue-600 active:bg-blue-50 focus:text-blue-600 focus:bg-gray-50 rounded-md transition-all duration-200 touch-manipulation" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
             {%- endif -%}
