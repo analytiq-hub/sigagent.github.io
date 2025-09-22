@@ -50,20 +50,20 @@ title: About
       <ul class="list-none space-y-2 mb-4">
         <li class="flex items-start">
           <span class="text-gray-700">
-            Implemented full stack AI in <span class="text-red-500 font-medium">Fintech</span> and 
-            <span class="text-red-500 font-medium">Health Tech</span>
+            Implemented full stack AI in <span class="text-purple-600 font-medium">Fintech</span> and 
+            <span class="text-purple-600 font-medium">Health Tech</span>
           </span>
         </li>
         <li class="flex items-start">
           <span class="text-gray-700">
-            Architected <span class="text-red-500 font-medium">robotics</span> and AI infrastructure 
-            for <span class="text-red-500 font-medium">Self Driving Cars</span>
+            Architected <span class="text-purple-600 font-medium">robotics</span> and AI infrastructure 
+            for <span class="text-purple-600 font-medium">Self Driving Cars</span>
           </span>
         </li>
         <li class="flex items-start">
           <span class="text-gray-700">
             Built high-performance stock market 
-            <span class="text-red-500 font-medium">trading infrastructure</span> for Wall St
+            <span class="text-purple-600 font-medium">trading infrastructure</span> for Wall St
           </span>
         </li>
         <li class="flex items-start">
@@ -74,7 +74,7 @@ title: About
       </ul>
       
       <p class="text-gray-600 mb-4 leading-relaxed">
-        He holds a <span class="text-red-500 font-medium">PhD in Math from MIT</span>. He learned 
+        He holds a <span class="text-purple-600 font-medium">PhD in Math from MIT</span>. He learned 
         programming by tinkering with the Linux IP stack and with kernel drivers.
       </p>
     </div>
@@ -89,9 +89,9 @@ title: About
         </p>
         <p class="text-gray-600 mb-4 leading-relaxed">
           He is mentoring early startups, and working with college students doing early-stage 
-          projects. He was a <span class="text-red-500 font-medium">Hack MIT</span> panel judge, 
-          <span class="text-red-500 font-medium">AI Furnace</span> invited panelist, 
-          <span class="text-red-500 font-medium">AI Camp</span> co-organizer. 
+          projects. He was a <span class="text-purple-600 font-medium">Hack MIT</span> panel judge, 
+          <span class="text-purple-600 font-medium">AI Furnace</span> invited panelist, 
+          <span class="text-purple-600 font-medium">AI Camp</span> co-organizer. 
           He is pretty active on the Boston meetup scene.
         </p>
       </div>
@@ -99,9 +99,9 @@ title: About
       <!-- Technical Leadership Section -->
       <div>
         <p class="text-gray-600 leading-relaxed">
-          He is a founding member of <span class="text-red-500 font-medium">Smaht.AI</span>, an 
+          He is a founding member of <span class="text-purple-600 font-medium">Smaht.AI</span>, an 
           organization of entrepreneurs in the Boston area with deep hands-on engineering 
-          knowledge. He is also a member of <span class="text-red-500 font-medium">Tribe.AI</span>. 
+          knowledge. He is also a member of <span class="text-purple-600 font-medium">Tribe.AI</span>. 
         </p>
       </div>
     </div>
