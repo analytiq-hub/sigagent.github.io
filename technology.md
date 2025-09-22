@@ -23,8 +23,8 @@ permalink: /technology/
             <div class="grid md:grid-cols-4 gap-6">
                 <!-- AWS Card -->
                 <div class="bg-gradient-to-br from-orange-50 to-orange-100 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
-                    <div class="w-12 h-12 bg-orange-100 rounded-full mx-auto mb-4 flex items-center justify-center">
-                        <span class="text-orange-600 text-2xl">☁️</span>
+                    <div class="w-12 h-12 mx-auto mb-4 flex items-center justify-center">
+                        <img src="/assets/images/icons/AWS.png" alt="AWS" class="w-12 h-12 object-contain">
                     </div>
                     <h3 class="text-xl font-medium text-gray-900 mb-2">AWS</h3>
                     <p class="text-gray-600 text-sm">
@@ -34,8 +34,8 @@ permalink: /technology/
                 
                 <!-- Google Cloud Card -->
                 <div class="bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
-                    <div class="w-12 h-12 bg-blue-100 rounded-full mx-auto mb-4 flex items-center justify-center">
-                        <span class="text-blue-600 text-2xl">🧠</span>
+                    <div class="w-12 h-12 mx-auto mb-4 flex items-center justify-center">
+                        <img src="/assets/images/icons/Google Cloud.png" alt="Google Cloud" class="w-12 h-12 object-contain">
                     </div>
                     <h3 class="text-xl font-medium text-gray-900 mb-2">Google Cloud</h3>
                     <p class="text-gray-600 text-sm">
@@ -45,8 +45,8 @@ permalink: /technology/
                 
                 <!-- Azure Card -->
                 <div class="bg-gradient-to-br from-blue-50 to-indigo-100 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
-                    <div class="w-12 h-12 bg-blue-100 rounded-full mx-auto mb-4 flex items-center justify-center">
-                        <span class="text-blue-600 text-2xl">🏢</span>
+                    <div class="w-12 h-12 mx-auto mb-4 flex items-center justify-center">
+                        <img src="/assets/images/icons/Azure.png" alt="Azure" class="w-12 h-12 object-contain">
                     </div>
                     <h3 class="text-xl font-medium text-gray-900 mb-2">Azure</h3>
                     <p class="text-gray-600 text-sm">
@@ -56,8 +56,8 @@ permalink: /technology/
                 
                 <!-- Databricks Card -->
                 <div class="bg-gradient-to-br from-orange-50 to-red-100 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
-                    <div class="w-12 h-12 bg-orange-100 rounded-full mx-auto mb-4 flex items-center justify-center">
-                        <span class="text-orange-600 text-2xl">📊</span>
+                    <div class="w-12 h-12 mx-auto mb-4 flex items-center justify-center">
+                        <img src="/assets/images/icons/databricks.png" alt="Databricks" class="w-12 h-12 object-contain">
                     </div>
                     <h3 class="text-xl font-medium text-gray-900 mb-2">Databricks</h3>
                     <p class="text-gray-600 text-sm">
