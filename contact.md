@@ -13,7 +13,7 @@ permalink: /contact/
 
     <main>
         <!-- Single panel with two columns -->
-        <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
+        <section class="bg-gradient-to-br from-white to-blue-50 rounded-lg shadow-lg p-8 mb-12">
             <div class="grid md:grid-cols-2 gap-8">
                 <!-- Left column: Contact Information -->
                 <div>

@@ -13,12 +13,9 @@ title: "Analytiq Hub - Data+AI Solutions"
             <p class="mb-4">Custom AI solutions that transform manual workflows into intelligent automation—proven to cut processing time from hours to minutes while maintaining 99%+ accuracy</p>
             <p class="text-lg">Specialized expertise for biotech, healthtech, and regulated industries</p>
         </div>
-        <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+        <div class="flex justify-center items-center">
             <a href="/contact/" class="inline-block bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-200 shadow-lg hover:shadow-xl">
                 Contact Us
-            </a>
-            <a href="/use-cases/" class="inline-block border-2 border-blue-600 text-blue-600 hover:bg-blue-50 px-8 py-4 rounded-lg font-semibold text-lg transition-colors duration-200">
-                Success Stories
             </a>
         </div>
     </header>
@@ -48,7 +45,7 @@ title: "Analytiq Hub - Data+AI Solutions"
                         url="/case-studies/insurance_wholesaler/" %}
                 </div>
                 <div class="text-center mt-6">
-                    <a href="/case-studies/" class="text-blue-600 hover:text-blue-800 font-medium">View All Case Studies →</a>
+                    <a href="/case-studies/" class="text-blue-600 hover:text-blue-800 font-medium">View All Success Stories →</a>
                 </div>
             </div>
         </section>

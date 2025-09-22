@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<div class="bg-white rounded-lg shadow-lg p-8">
+<div class="bg-gradient-to-br from-white to-blue-50 rounded-lg shadow-lg p-8">
   <div class="grid md:grid-cols-3 gap-8 items-start">
     <!-- Left Column - Photo and Name -->
     <div class="text-center md:text-left">

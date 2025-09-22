@@ -60,7 +60,7 @@ header_pages:
   - title: "Resources"
     url: "#"
     children:
-      - title: "Case Studies"
+      - title: "Success Stories"
         url: "/case-studies"
       - title: "Technology"
         url: "/technology"
@@ -78,7 +78,7 @@ header_pages:
 site_map:
   - title: "Services"
     links:
-      - title: "Case Studies"
+      - title: "Success Stories"
         url: "/case-studies"
       - title: "Technology"
         url: "/technology"

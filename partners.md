@@ -18,7 +18,7 @@ permalink: /partners/
 
     <main>
         <!-- Partners content will be ported here -->
-        <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
+        <section class="bg-gradient-to-br from-white to-purple-50 rounded-lg shadow-lg p-8 mb-12">
             <div class="prose max-w-none">
                 <p class="text-lg text-gray-600">We work with leading technology partners to deliver comprehensive solutions.</p>
             </div>

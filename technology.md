@@ -15,14 +15,14 @@ permalink: /technology/
         </section>
 
         <!-- Section 1: The Foundation - Cloud Platforms (Start of the Story) -->
-        <section id="foundation" class="bg-white rounded-lg shadow-lg p-8 mb-12">
+        <section id="foundation" class="bg-gradient-to-br from-white to-blue-50 rounded-lg shadow-lg p-8 mb-12">
             <h2 class="text-3xl font-semibold text-gray-900 mb-6 text-center">The Foundation: Scalable Cloud Infrastructure</h2>
             <p class="text-lg text-gray-600 mb-8 max-w-3xl mx-auto text-center">
                 Every great solution starts with a solid base. We leverage multi-cloud platforms to ensure your systems are reliable, scalable, and cost-effective—handling everything from insurance claims to supply chain audits without downtime.
             </p>
             <div class="grid md:grid-cols-4 gap-6">
                 <!-- AWS Card -->
-                <div class="bg-gray-50 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
+                <div class="bg-gradient-to-br from-orange-50 to-orange-100 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
                     <div class="w-12 h-12 bg-orange-100 rounded-full mx-auto mb-4 flex items-center justify-center">
                         <span class="text-orange-600 text-2xl">☁️</span>
                     </div>
@@ -33,7 +33,7 @@ permalink: /technology/
                 </div>
                 
                 <!-- Google Cloud Card -->
-                <div class="bg-gray-50 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
+                <div class="bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
                     <div class="w-12 h-12 bg-blue-100 rounded-full mx-auto mb-4 flex items-center justify-center">
                         <span class="text-blue-600 text-2xl">🧠</span>
                     </div>
@@ -44,7 +44,7 @@ permalink: /technology/
                 </div>
                 
                 <!-- Azure Card -->
-                <div class="bg-gray-50 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
+                <div class="bg-gradient-to-br from-blue-50 to-indigo-100 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
                     <div class="w-12 h-12 bg-blue-100 rounded-full mx-auto mb-4 flex items-center justify-center">
                         <span class="text-blue-600 text-2xl">🏢</span>
                     </div>
@@ -55,7 +55,7 @@ permalink: /technology/
                 </div>
                 
                 <!-- Databricks Card -->
-                <div class="bg-gray-50 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
+                <div class="bg-gradient-to-br from-orange-50 to-red-100 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
                     <div class="w-12 h-12 bg-orange-100 rounded-full mx-auto mb-4 flex items-center justify-center">
                         <span class="text-orange-600 text-2xl">📊</span>
                     </div>
@@ -68,14 +68,14 @@ permalink: /technology/
         </section>
 
         <!-- Section 2: The Intelligence - AI & ML Tools (Building Tension/Innovation) -->
-        <section class="bg-gray-50 rounded-lg p-8 mb-12">
+        <section class="bg-gradient-to-br from-purple-50 to-blue-50 rounded-lg p-8 mb-12">
             <h2 class="text-3xl font-semibold text-gray-900 mb-6 text-center">The Intelligence: AI and Machine Learning</h2>
             <p class="text-lg text-gray-600 mb-8 max-w-3xl mx-auto text-center">
                 Next, we infuse intelligence. Using advanced AI, we streamline complex processes, automate repetitive tasks, uncover actionable insights, and enhance decision-making, achieving human-in-the-loop accuracy and efficiency for regulated industries.
             </p>
             <div class="grid md:grid-cols-3 gap-6">
                 <!-- OpenAI & Anthropic Card -->
-                <div class="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
+                <div class="bg-gradient-to-br from-green-50 to-emerald-100 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
                     <div class="w-12 h-12 bg-green-100 rounded-full mx-auto mb-4 flex items-center justify-center">
                         <span class="text-green-600 text-2xl">🤖</span>
                     </div>
@@ -86,7 +86,7 @@ permalink: /technology/
                 </div>
                 
                 <!-- LangChain & LlamaIndex Card -->
-                <div class="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
+                <div class="bg-gradient-to-br from-blue-50 to-cyan-100 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
                     <div class="w-12 h-12 bg-blue-100 rounded-full mx-auto mb-4 flex items-center justify-center">
                         <span class="text-blue-600 text-2xl">🔗</span>
                     </div>
@@ -97,7 +97,7 @@ permalink: /technology/
                 </div>
                 
                 <!-- PyTorch & Custom Models Card -->
-                <div class="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
+                <div class="bg-gradient-to-br from-orange-50 to-amber-100 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
                     <div class="w-12 h-12 bg-orange-100 rounded-full mx-auto mb-4 flex items-center justify-center">
                         <span class="text-orange-600 text-2xl">⚡</span>
                     </div>
@@ -108,7 +108,7 @@ permalink: /technology/
                 </div>
                 
                 <!-- LiteLLM & Multi-Provider Card -->
-                <div class="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
+                <div class="bg-gradient-to-br from-purple-50 to-violet-100 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
                     <div class="w-12 h-12 bg-purple-100 rounded-full mx-auto mb-4 flex items-center justify-center">
                         <span class="text-purple-600 text-2xl">🌐</span>
                     </div>
@@ -119,7 +119,7 @@ permalink: /technology/
                 </div>
                 
                 <!-- MLFlow & Model Management Card -->
-                <div class="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
+                <div class="bg-gradient-to-br from-indigo-50 to-blue-100 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
                     <div class="w-12 h-12 bg-indigo-100 rounded-full mx-auto mb-4 flex items-center justify-center">
                         <span class="text-indigo-600 text-2xl">📈</span>
                     </div>
@@ -130,7 +130,7 @@ permalink: /technology/
                 </div>
                 
                 <!-- LabelStudio & Data Annotation Card -->
-                <div class="bg-white rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
+                <div class="bg-gradient-to-br from-pink-50 to-rose-100 rounded-lg p-6 text-center hover:shadow-xl transition-shadow">
                     <div class="w-12 h-12 bg-pink-100 rounded-full mx-auto mb-4 flex items-center justify-center">
                         <span class="text-pink-600 text-2xl">🏷️</span>
                     </div>
@@ -143,7 +143,7 @@ permalink: /technology/
         </section>
 
         <!-- Section 3: The Engine - Data, Development & DevOps (Climax/Execution) -->
-        <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
+        <section class="bg-gradient-to-br from-white to-indigo-50 rounded-lg shadow-lg p-8 mb-12">
             <h2 class="text-3xl font-semibold text-gray-900 mb-6 text-center">The Engine: Data Handling, Development, and Operations</h2>
             <p class="text-lg text-gray-600 mb-8 max-w-3xl mx-auto text-center">
                 With the foundation and intelligence in place, we build and operate seamlessly. This includes data analytics for insights and DevOps for rapid deployment, ensuring your workflows integrate with ERPs like Epic.
@@ -154,7 +154,7 @@ permalink: /technology/
                 <div>
                     <h3 class="text-xl font-medium text-gray-900 mb-4 text-center">Data & Analytics</h3>
                     <div class="space-y-4">
-                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                        <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
                                 <div class="w-8 h-8 bg-green-100 rounded flex items-center justify-center flex-shrink-0">
                                     <span class="text-green-600 font-semibold text-sm">M</span>
@@ -165,7 +165,7 @@ permalink: /technology/
                                 </div>
                             </div>
                         </div>
-                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                        <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
                                 <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center flex-shrink-0">
                                     <span class="text-blue-600 font-semibold text-sm">P</span>
@@ -176,7 +176,7 @@ permalink: /technology/
                                 </div>
                             </div>
                         </div>
-                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                        <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
                                 <div class="w-8 h-8 bg-red-100 rounded flex items-center justify-center flex-shrink-0">
                                     <span class="text-red-600 font-semibold text-sm">S</span>
@@ -194,7 +194,7 @@ permalink: /technology/
                 <div>
                     <h3 class="text-xl font-medium text-gray-900 mb-4 text-center">Development & Integration</h3>
                     <div class="space-y-4">
-                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                        <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
                                 <div class="w-8 h-8 bg-cyan-100 rounded flex items-center justify-center flex-shrink-0">
                                     <span class="text-cyan-600 font-semibold text-sm">R</span>
@@ -205,7 +205,7 @@ permalink: /technology/
                                 </div>
                             </div>
                         </div>
-                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                        <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
                                 <div class="w-8 h-8 bg-green-100 rounded flex items-center justify-center flex-shrink-0">
                                     <span class="text-green-600 font-semibold text-sm">F</span>
@@ -216,7 +216,7 @@ permalink: /technology/
                                 </div>
                             </div>
                         </div>
-                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                        <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
                                 <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center flex-shrink-0">
                                     <span class="text-blue-600 font-semibold text-sm">T</span>
@@ -234,7 +234,7 @@ permalink: /technology/
                 <div>
                     <h3 class="text-xl font-medium text-gray-900 mb-4 text-center">DevOps & Operations</h3>
                     <div class="space-y-4">
-                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                        <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
                                 <div class="w-8 h-8 bg-purple-100 rounded flex items-center justify-center flex-shrink-0">
                                     <span class="text-purple-600 font-semibold text-sm">T</span>
@@ -245,7 +245,7 @@ permalink: /technology/
                                 </div>
                             </div>
                         </div>
-                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                        <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
                                 <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center flex-shrink-0">
                                     <span class="text-blue-600 font-semibold text-sm">K</span>
@@ -256,7 +256,7 @@ permalink: /technology/
                                 </div>
                             </div>
                         </div>
-                        <div class="bg-gray-50 rounded-lg p-4 hover:bg-gray-100 transition-colors">
+                        <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
                                 <div class="w-8 h-8 bg-green-100 rounded flex items-center justify-center flex-shrink-0">
                                     <span class="text-green-600 font-semibold text-sm">P</span>
@@ -323,7 +323,7 @@ permalink: /technology/
         </section>
 
         <!-- Section 4: The Safeguard - Security & Compliance (Resolution) -->
-        <section class="bg-gray-50 rounded-lg p-8 mb-12">
+        <section class="bg-gradient-to-br from-green-50 to-blue-50 rounded-lg p-8 mb-12">
             <h2 class="text-3xl font-semibold text-gray-900 mb-6 text-center">The Safeguard: Security and Compliance</h2>
             <p class="text-lg text-gray-600 mb-8 max-w-3xl mx-auto text-center">
                 Finally, we protect what matters. Our solutions meet the highest standards, ensuring trust in sensitive workflows like patient records or financial audits.
@@ -358,14 +358,14 @@ permalink: /technology/
         </section>
 
         <!-- CTA Section: Happy Ending/Call to Action -->
-        <section class="bg-blue-600 text-white rounded-lg p-8 text-center">
+        <section class="bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg p-8 text-center">
             <h2 class="text-3xl font-bold mb-4">Ready to Write Your Technology Story?</h2>
             <p class="text-lg mb-8 max-w-2xl mx-auto">
                 Partner with Analytiq Hub's experts to automate what slows you down. From document workflows to AI integrations, we'll tailor our stack to your needs.
             </p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                <a href="/contact/" class="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold">Schedule a Demo</a>
-                <a href="/contact/" class="border-2 border-white px-8 py-4 rounded-lg font-semibold">Learn More</a>
+                <a href="/contact/" class="bg-white text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600 px-8 py-4 rounded-lg font-semibold border-2 border-white hover:bg-white hover:bg-opacity-10 transition-all duration-200">Schedule a Demo</a>
+                <a href="/contact/" class="border-2 border-white px-8 py-4 rounded-lg font-semibold hover:bg-white hover:bg-opacity-10 transition-all duration-200">Learn More</a>
             </div>
         </section>
     </main>

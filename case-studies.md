@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Case Studies & Success Stories
+title: Success Stories
 subtitle: See how we've helped businesses transform their operations
 permalink: /case-studies/
 ---
@@ -28,7 +28,7 @@ permalink: /case-studies/
 <div class="bg-white py-8 md:py-12">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8">
         <main>
-            <!-- Case Studies Grid -->
+            <!-- Success Stories Grid -->
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 justify-items-center max-w-5xl mx-auto">
             {% include case-study-card.html 
                 title="Healthcare Automation That Delivers ROI" 
