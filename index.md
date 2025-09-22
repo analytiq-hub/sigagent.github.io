@@ -7,11 +7,11 @@ title: "Analytiq Hub - Data+AI Solutions"
     <!-- Hero Section -->
     <header class="text-center md:mb-12 mb-8">
         <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            Boost Your Business with AI and Data
+            Reduce Processing Time by 90% with AI That Actually Works
         </h1>
         <div class="text-xl md:text-2xl text-gray-600 mb-8">
-            <p class="mb-4">Custom AI solutions and expert guidance for biotech, healthtech, and beyond</p>
-            <p class="text-lg">We help startups and businesses save time and cut costs</p>
+            <p class="mb-4">Custom AI solutions that transform manual workflows into intelligent automation—proven to cut processing time from hours to minutes while maintaining 99%+ accuracy</p>
+            <p class="text-lg">Specialized expertise for biotech, healthtech, and regulated industries</p>
         </div>
         <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a href="/contact/" class="inline-block bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-colors duration-200">
@@ -24,6 +24,67 @@ title: "Analytiq Hub - Data+AI Solutions"
     </header>
 
     <main>
+        <!-- Success Stories Section -->
+        <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
+            <h2 class="text-3xl font-semibold text-gray-900 mb-6 text-center">Success Stories</h2>
+            <div class="max-w-3xl mx-auto text-center">
+                <p class="text-lg text-gray-600 mb-6">
+                    See how we've helped businesses like yours streamline operations with AI
+                </p>
+                <div class="grid md:grid-cols-3 gap-8">
+                    {% include case-study-card.html 
+                        title="Healthcare Automation That Delivers ROI" 
+                        description="How we built a zero-to-ten DME automation platform that enabled 4x team growth" 
+                        url="/case-studies/dme/" %}
+                    
+                    {% include case-study-card.html 
+                        title="Epic EHR Integration That Reduces Errors" 
+                        description="Zero-touch Epic automation reducing processing time by 90% while ensuring 100% compliance" 
+                        url="/case-studies/epic_dme_order_processing/" %}
+                    
+                    {% include case-study-card.html 
+                        title="Insurance Automation That Reduces Manual Work" 
+                        description="AI-powered submission processing reducing manual work by 75%" 
+                        url="/case-studies/insurance_wholesaler/" %}
+                </div>
+                <div class="text-center mt-6">
+                    <a href="/case-studies/" class="text-blue-600 hover:text-blue-800 font-medium">View All Case Studies →</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Testimonials Section -->
+        <section class="bg-blue-50 rounded-lg shadow-lg p-8 mb-12">
+            <h2 class="text-3xl font-semibold text-gray-900 mb-8 text-center">What Our Clients Say</h2>
+            <div class="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
+                {% include testimonial-card.html 
+                    quote="Analytiq helped us create custom AI solutions for the healthcare industry. Andrei has great knowledge of the current AI technologies and helped us apply them in an effective manner. Their experience helped generate tremendous value to our business."
+                    name="Albert Woo"
+                    title="President"
+                    company="Boston Medical Data"
+                    image="/assets/images/albert_woo.jpeg" %}
+                
+                {% include testimonial-card.html 
+                    quote="Analytiq Hub was fundamental to our early growth. Andrei helped us with foundational architectural decisions that drove our early successes. Highly recommended for early startups looking for technical leadership!"
+                    name="Kevin Chen"
+                    title="Director of Engineering"
+                    image="/assets/images/kevin_chen.jpg" %}
+                
+                {% include testimonial-card.html 
+                    quote="Andrei continues to impress over the 20+ years I've known him. He listens to customer needs and applies the right technologies and processes to the solution. And now he's leading the way with value-building AI solutions."
+                    name="Brian Suthoff"
+                    title="Entrepreneur & Investor"
+                    image="/assets/images/brian_suthoff.jpeg" %}
+                
+                {% include testimonial-card.html 
+                    quote="🎉🎉 a fantastic meetup last week in Boston by AICamp Boston community. Thanks speakers Andrei Radulescu-Banu … for their deep dive into cutting-edge tech and insightful discussions."
+                    name="Bill Liu"
+                    title="Founder"
+                    company="AICamp"
+                    image="/assets/images/bill_liu.jpeg" %}
+            </div>
+        </section>
+
         <!-- Services Section -->
         <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
             <h2 class="text-3xl font-semibold text-gray-900 mb-6 text-center">Our Services</h2>
@@ -79,67 +140,6 @@ title: "Analytiq Hub - Data+AI Solutions"
                         </ul>
                     </div>
                 </div>
-            </div>
-        </section>
-
-        <!-- Success Stories Section -->
-        <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-6 text-center">Success Stories</h2>
-            <div class="max-w-3xl mx-auto text-center">
-                <p class="text-lg text-gray-600 mb-6">
-                    See how we've helped businesses like yours streamline operations with AI
-                </p>
-                <div class="grid md:grid-cols-3 gap-8">
-                    {% include case-study-card.html 
-                        title="Healthcare Automation That Delivers ROI" 
-                        description="How we built a zero-to-ten DME automation platform that enabled 4x team growth" 
-                        url="/case-studies/dme/" %}
-                    
-                    {% include case-study-card.html 
-                        title="Epic EHR Integration That Reduces Errors" 
-                        description="Zero-touch Epic automation reducing processing time by 90% while ensuring 100% compliance" 
-                        url="/case-studies/epic_dme_order_processing/" %}
-                    
-                    {% include case-study-card.html 
-                        title="Insurance Automation That Reduces Manual Work" 
-                        description="AI-powered submission processing reducing manual work by 75% while ensuring compliance" 
-                        url="/case-studies/insurance_wholesaler/" %}
-                </div>
-                <div class="text-center mt-6">
-                    <a href="/case-studies/" class="text-blue-600 hover:text-blue-800 font-medium">View All Case Studies →</a>
-                </div>
-            </div>
-        </section>
-
-        <!-- Testimonials Section -->
-        <section class="bg-blue-50 rounded-lg shadow-lg p-8 mb-12">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-8 text-center">What Our Clients Say</h2>
-            <div class="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
-                {% include testimonial-card.html 
-                    quote="Analytiq helped us create custom AI solutions for the healthcare industry. Andrei has great knowledge of the current AI technologies and helped us apply them in an effective manner. Their experience helped generate tremendous value to our business."
-                    name="Albert Woo"
-                    title="President"
-                    company="Boston Medical Data"
-                    image="/assets/images/albert_woo.jpeg" %}
-                
-                {% include testimonial-card.html 
-                    quote="Analytiq Hub was fundamental to our early growth. Andrei helped us with foundational architectural decisions that drove our early successes. Highly recommended for early startups looking for technical leadership!"
-                    name="Kevin Chen"
-                    title="Director of Engineering"
-                    image="/assets/images/kevin_chen.jpg" %}
-                
-                {% include testimonial-card.html 
-                    quote="Andrei continues to impress over the 20+ years I've known him. He listens to customer needs and applies the right technologies and processes to the solution. And now he's leading the way with value-building AI solutions."
-                    name="Brian Suthoff"
-                    title="Entrepreneur & Investor"
-                    image="/assets/images/brian_suthoff.jpeg" %}
-                
-                {% include testimonial-card.html 
-                    quote="🎉🎉 a fantastic meetup last week in Boston by AICamp Boston community. Thanks speakers Andrei Radulescu-Banu … for their deep dive into cutting-edge tech and insightful discussions."
-                    name="Bill Liu"
-                    title="Founder"
-                    company="AICamp"
-                    image="/assets/images/bill_liu.jpeg" %}
             </div>
         </section>
     </main>
