@@ -156,8 +156,8 @@ permalink: /technology/
                     <div class="space-y-4">
                         <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
-                                <div class="w-8 h-8 bg-green-100 rounded flex items-center justify-center flex-shrink-0">
-                                    <span class="text-green-600 font-semibold text-sm">M</span>
+                                <div class="w-8 h-8 flex items-center justify-center flex-shrink-0">
+                                    <img src="/assets/images/icons/MongoDB.png" alt="MongoDB" class="w-8 h-8 object-contain">
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-gray-900 text-sm">MongoDB</h4>
@@ -167,8 +167,8 @@ permalink: /technology/
                         </div>
                         <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
-                                <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center flex-shrink-0">
-                                    <span class="text-blue-600 font-semibold text-sm">P</span>
+                                <div class="w-8 h-8 flex items-center justify-center flex-shrink-0">
+                                    <img src="/assets/images/icons/PostgresSQL.png" alt="PostgreSQL" class="w-8 h-8 object-contain">
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-gray-900 text-sm">PostgreSQL</h4>
@@ -178,8 +178,8 @@ permalink: /technology/
                         </div>
                         <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
-                                <div class="w-8 h-8 bg-red-100 rounded flex items-center justify-center flex-shrink-0">
-                                    <span class="text-red-600 font-semibold text-sm">S</span>
+                                <div class="w-8 h-8 flex items-center justify-center flex-shrink-0">
+                                    <img src="/assets/images/icons/Apache Spark.png" alt="Apache Spark" class="w-8 h-8 object-contain">
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-gray-900 text-sm">Apache Spark</h4>
@@ -196,8 +196,8 @@ permalink: /technology/
                     <div class="space-y-4">
                         <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
-                                <div class="w-8 h-8 bg-cyan-100 rounded flex items-center justify-center flex-shrink-0">
-                                    <span class="text-cyan-600 font-semibold text-sm">R</span>
+                                <div class="w-8 h-8 flex items-center justify-center flex-shrink-0">
+                                    <img src="/assets/images/icons/React.png" alt="React" class="w-8 h-8 object-contain">
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-gray-900 text-sm">React & Next.js</h4>
@@ -207,8 +207,8 @@ permalink: /technology/
                         </div>
                         <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
-                                <div class="w-8 h-8 bg-green-100 rounded flex items-center justify-center flex-shrink-0">
-                                    <span class="text-green-600 font-semibold text-sm">F</span>
+                                <div class="w-8 h-8 flex items-center justify-center flex-shrink-0">
+                                    <img src="/assets/images/icons/FastAPI.png" alt="FastAPI" class="w-8 h-8 object-contain">
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-gray-900 text-sm">FastAPI</h4>
@@ -218,8 +218,8 @@ permalink: /technology/
                         </div>
                         <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
-                                <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center flex-shrink-0">
-                                    <span class="text-blue-600 font-semibold text-sm">T</span>
+                                <div class="w-8 h-8 flex items-center justify-center flex-shrink-0">
+                                    <img src="/assets/images/icons/TypeScript.png" alt="TypeScript" class="w-8 h-8 object-contain">
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-gray-900 text-sm">TypeScript</h4>
@@ -236,8 +236,8 @@ permalink: /technology/
                     <div class="space-y-4">
                         <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
-                                <div class="w-8 h-8 bg-purple-100 rounded flex items-center justify-center flex-shrink-0">
-                                    <span class="text-purple-600 font-semibold text-sm">T</span>
+                                <div class="w-8 h-8 flex items-center justify-center flex-shrink-0">
+                                    <img src="/assets/images/icons/HashiCorp Terraform.png" alt="Terraform" class="w-8 h-8 object-contain">
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-gray-900 text-sm">Terraform</h4>
@@ -247,8 +247,8 @@ permalink: /technology/
                         </div>
                         <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
-                                <div class="w-8 h-8 bg-blue-100 rounded flex items-center justify-center flex-shrink-0">
-                                    <span class="text-blue-600 font-semibold text-sm">K</span>
+                                <div class="w-8 h-8 flex items-center justify-center flex-shrink-0">
+                                    <img src="/assets/images/icons/Kubernetes.png" alt="Kubernetes" class="w-8 h-8 object-contain">
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-gray-900 text-sm">Kubernetes</h4>
@@ -258,8 +258,8 @@ permalink: /technology/
                         </div>
                         <div class="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-4 hover:from-gray-100 hover:to-gray-200 transition-all duration-200">
                             <div class="flex items-start space-x-3">
-                                <div class="w-8 h-8 bg-green-100 rounded flex items-center justify-center flex-shrink-0">
-                                    <span class="text-green-600 font-semibold text-sm">P</span>
+                                <div class="w-8 h-8 flex items-center justify-center flex-shrink-0">
+                                    <img src="/assets/images/icons/prefect.png" alt="Prefect" class="w-8 h-8 object-contain">
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-gray-900 text-sm">Prefect</h4>
