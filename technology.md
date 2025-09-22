@@ -22,7 +22,7 @@ permalink: /technology/
             </p>
             <div class="grid md:grid-cols-4 gap-6">
                 <!-- AWS Card -->
-                <div class="border border-gray-200 rounded-lg p-6 text-center hover:shadow-lg transition-shadow">
+                <div class="bg-white border border-gray-200 rounded-lg p-6 text-center hover:shadow-lg transition-shadow">
                     <div class="w-12 h-12 mx-auto mb-4 flex items-center justify-center">
                         <img src="/assets/images/icons/AWS.png" alt="AWS" class="w-12 h-12 object-contain">
                     </div>
@@ -33,7 +33,7 @@ permalink: /technology/
                 </div>
                 
                 <!-- Google Cloud Card -->
-                <div class="border border-gray-200 rounded-lg p-6 text-center hover:shadow-lg transition-shadow">
+                <div class="bg-white border border-gray-200 rounded-lg p-6 text-center hover:shadow-lg transition-shadow">
                     <div class="w-12 h-12 mx-auto mb-4 flex items-center justify-center">
                         <img src="/assets/images/icons/Google Cloud.png" alt="Google Cloud" class="w-12 h-12 object-contain">
                     </div>
@@ -44,7 +44,7 @@ permalink: /technology/
                 </div>
                 
                 <!-- Azure Card -->
-                <div class="border border-gray-200 rounded-lg p-6 text-center hover:shadow-lg transition-shadow">
+                <div class="bg-white border border-gray-200 rounded-lg p-6 text-center hover:shadow-lg transition-shadow">
                     <div class="w-12 h-12 mx-auto mb-4 flex items-center justify-center">
                         <img src="/assets/images/icons/Azure.png" alt="Azure" class="w-12 h-12 object-contain">
                     </div>
@@ -55,7 +55,7 @@ permalink: /technology/
                 </div>
                 
                 <!-- Databricks Card -->
-                <div class="border border-gray-200 rounded-lg p-6 text-center hover:shadow-lg transition-shadow">
+                <div class="bg-white border border-gray-200 rounded-lg p-6 text-center hover:shadow-lg transition-shadow">
                     <div class="w-12 h-12 mx-auto mb-4 flex items-center justify-center">
                         <img src="/assets/images/icons/databricks.png" alt="Databricks" class="w-12 h-12 object-contain">
                     </div>
