@@ -6,7 +6,7 @@ permalink: /technology/
 <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
     <main>
         <!-- Hero/Introduction Section: Set the Story Hook -->
-        <section class="bg-gradient-to-r from-blue-600 to-blue-800 text-white rounded-lg shadow-lg p-8 mb-12 text-center">
+        <section class="bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg shadow-lg p-8 mb-12 text-center">
             <h1 class="text-4xl font-bold mb-4">Our Technology Story: Building AI-Powered Solutions</h1>
             <p class="text-xl max-w-3xl mx-auto mb-6">
                 At Analytiq Hub, we don't just use technology—we orchestrate it to automate workflows, extract insights, and drive efficiency across industries like finance, healthcare, and logistics. Let's walk through how we do it.
@@ -270,7 +270,7 @@ permalink: /technology/
                     </div>
                 </div>
             </div>
-            <div class="bg-gradient-to-r from-blue-600 to-blue-800 text-white rounded-lg p-6">
+            <div class="bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg p-6">
                 <h3 class="text-2xl font-medium mb-4 text-center">Plan, Build, Operate: Our End-to-End Approach</h3>
                 <div class="grid md:grid-cols-2 gap-6">
                     <!-- Planning & AI Solutions Column -->
