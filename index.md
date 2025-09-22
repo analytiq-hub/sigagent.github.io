@@ -14,7 +14,7 @@ title: "Analytiq Hub - Data+AI Solutions"
             <p class="text-lg">Specialized expertise for biotech, healthtech, and regulated industries</p>
         </div>
         <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <a href="/contact/" class="inline-block bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-colors duration-200">
+            <a href="/contact/" class="inline-block bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-200 shadow-lg hover:shadow-xl">
                 Contact Us
             </a>
             <a href="/use-cases/" class="inline-block border-2 border-blue-600 text-blue-600 hover:bg-blue-50 px-8 py-4 rounded-lg font-semibold text-lg transition-colors duration-200">
@@ -114,7 +114,7 @@ title: "Analytiq Hub - Data+AI Solutions"
         </section>
 
         <!-- Why Choose Us -->
-        <section class="bg-gradient-to-r from-blue-600 to-blue-800 rounded-lg shadow-lg p-8 mb-12">
+        <section class="bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg shadow-lg p-8 mb-12">
             <div class="text-center">
                 <h2 class="text-3xl font-semibold text-white mb-6">Why Analytiq Hub?</h2>
                 <p class="text-xl text-blue-100 mb-8">
