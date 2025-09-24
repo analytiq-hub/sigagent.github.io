@@ -6,12 +6,9 @@ title: "Analytiq Hub - Data+AI Solutions"
 <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
     <!-- Hero Section -->
     <header class="text-center md:mb-12 mb-8">
-        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            Reduce Processing Time by 90% with AI That Actually Works
-        </h1>
+        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">From Zero to <span class="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Scale</span>: AI Solutions That Actually Work</h1>
         <div class="text-xl md:text-2xl text-gray-600 mb-8">
-            <p class="mb-4">Custom AI solutions that transform manual workflows into intelligent automation—proven to cut processing time from hours to minutes while maintaining 99%+ accuracy</p>
-            <p class="text-lg">Specialized expertise for biotech, healthtech, and regulated industries</p>
+            <p class="mb-4">Specialized expertise for biotech, healthtech, and regulated industries</p>
         </div>
         <div class="flex justify-center items-center">
             <a href="/contact/" class="inline-block bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-200 shadow-lg hover:shadow-xl">
