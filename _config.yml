@@ -5,7 +5,6 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   Analytiq Hub provides custom AI solutions and expert guidance 
   for biotech and healthtech companies.
-logo: /assets/images/analytiq_hub_logo_small.png
 
 show_excerpts: false # set to true to show excerpts on the homepage
 permalink: pretty
