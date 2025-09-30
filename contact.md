@@ -77,10 +77,10 @@ permalink: /contact/
                            class="block w-full bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white text-center px-8 py-4 rounded-xl font-semibold text-lg transition-all duration-200 shadow-lg hover:shadow-xl">
                             Call Us
                         </a>
-                        <div class="w-full relative">
-                            <div class="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 rounded-xl p-0.5">
-                                <button onclick="openCalendlyModal()" 
-                                        class="w-full h-full bg-white hover:bg-gray-50 text-blue-600 hover:text-purple-600 text-center px-8 py-4 rounded-xl font-semibold text-lg transition-all duration-200 shadow-lg hover:shadow-xl">
+                        <div class="w-full">
+                            <div class="bg-gradient-to-r from-blue-600 to-purple-600 rounded-xl p-0.5">
+                                <button onclick="openCalendlyModal()"
+                                        class="w-full bg-white hover:bg-gray-50 text-blue-600 hover:text-purple-600 text-center px-8 py-4 rounded-xl font-semibold text-lg transition-all duration-200 shadow-lg hover:shadow-xl">
                                     Schedule a Meeting
                                 </button>
                             </div>
