@@ -52,3 +52,27 @@ The MCP server needs to implement interfaces that solve the task at hand.
 The MCP tuning is an iterative process. To keep track of the development progress, it becomes essential to be able to evaluate the quality of the results.
 
 ## Evaluation
+
+Start by creating a ground truth dataset of problems to be solved.
+
+Create an evaluation script, that forks Claude Code for each of the dataset items - runs it in automated mode to solve the respective question (without user intervention) - and, when the result is saved, it forks a 2nd instance of Claude Code to evaluate against what was expected (i.e., the ground truth).
+
+List of evaluation metrics:
+- Accuracy
+- Completeness
+- (Optionally) accuracy and completeness of retrieved chunks from vector DB, for MCP interfaces that read the vector DB
+- (For select MCP tools) Per-tool response accuracy, completeness
+- ToDo completion
+
+## Eval Visualization
+Given eval is so complicated to parse with the human eye, visualization of eval is needed.
+
+Include:
+- At-a-glance table with one row per question
+- Radar chart with aggregate metrics
+- Distribution of metrics
+- Per-question tool use summary, with at-a-glance view of
+  - Which tool is called
+  - Input
+  - Output
+  - ToDo progress, if applicable
