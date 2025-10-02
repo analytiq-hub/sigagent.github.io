@@ -33,3 +33,10 @@ The agent needs a knowledge base. This is not provided standard with the Claude 
 
 Our choice for vector DB is __Pinecone__, for the simplicity and ready-availability of the SAAS platform. Multiple other open source options are available for vector DB: __Weaviate__, __Qdrant__, __ChromaDB__. Most relational or text databases now support vector DB tables or collections (__Postgres__, __MongoDB__).
 
+In our design, all the custom interfaces for the agent are implemented in the MCP server, for portability. The MCP server will have a __vector_db_lookup()__ interface.
+
+## Knowledge Base Indexing
+
+The __knowledge base__ can be stored, for example, in a MongoDB database, or in S3. 
+
+An __indexing__ tool periodically scans the __knowledge base__, chunks it, and uploads it to an __index__ in the __Pinecone__ vector DB. The operation is idempotent - only changes in the knowledge base result in vector db index changes. Chunks that already exist in the vector db index are not duplicated.
