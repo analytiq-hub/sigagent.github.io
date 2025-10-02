@@ -48,3 +48,7 @@ The MCP server needs to implement interfaces that solve the task at hand.
 - __CLAUDE.md__ describes how to create a plan of action - what steps to take, and which tools are likely to be necessary for each step.
 - The agent goes step by step through the plan, with or without user intervention - and calls the MCP tools for the respective step, creating/updating files as it goes along
 - The MCP tools either reach to the knowledge base, or operate to read/write files in the format required by the agent.
+
+The MCP tuning is an iterative process. To keep track of the development progress, it becomes essential to be able to evaluate the quality of the results.
+
+## Evaluation
