@@ -3,6 +3,7 @@ layout: post
 title: "How To Train Your AI Agent"
 date: 2025-10-02
 author: Andrei Radulescu-Banu
+image: /assets/images/how_to_train_your_ai_agent.png
 categories: [ai, programming, tutorials]
 ---
 
