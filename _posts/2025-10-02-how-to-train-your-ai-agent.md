@@ -7,7 +7,14 @@ image: /assets/images/how_to_train_your_ai_agent.png
 categories: [ai, programming, tutorials]
 ---
 
-Developing an AI agent isn't a monolithic task—it's two intertwined yet distinct challenges: first, creating the foundational infrastructure for the agent itself, and second, fine-tuning it to tackle the specific problem you're aiming to solve. This could range from a fully autonomous system to one that thrives with human-in-the-loop oversight. Over time, these phases have naturally evolved into separate endeavors, each calling for its own set of techniques and tools.
+Developing an AI agent comes down to a number of intertwined yet distinct challenges:
+1. Creating the runtime __infrastructure__ for the agent itself
+2. Refining it to tackle the __specific problem__ you're aiming to solve
+3. Creating a __knowledge base__ the agent can use during its execution steps
+4. Setting up an __evaluation infrastructure__ to track progress and catch agent mistakes
+5. __Integrating__ the agent into the larger application
+
+Whether the AI agent is __fully autonomous__ or works with __human-in-the-loop__ oversight, development includes roughly the steps outlined above. Each step calls for its own set of techniques and tools.
 
 When it comes to building the agent, think of it as laying down a robust infrastructure. The key here is to keep things generic and modular, ensuring that the later tuning process isn't shackled by early decisions. Sure, you could roll your own from the ground up, but why reinvent the wheel when a slew of frameworks now deliver battle-tested, more-or-less ready-to-deploy AI agent infrastructures?
 
