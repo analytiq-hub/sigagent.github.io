@@ -40,3 +40,11 @@ In our design, all the custom interfaces for the agent are implemented in the MC
 The __knowledge base__ can be stored, for example, in a MongoDB database, or in S3. 
 
 An __indexing__ tool periodically scans the __knowledge base__, chunks it, and uploads it to an __index__ in the __Pinecone__ vector DB. The operation is idempotent - only changes in the knowledge base result in vector db index changes. Chunks that already exist in the vector db index are not duplicated.
+
+## MCP tuning
+
+The MCP server needs to implement interfaces that solve the task at hand.
+- The user enters the chat question, attaches the files that need to be processed. Or, for coding tasks, points the chat question to the files that need to be modified or created
+- __CLAUDE.md__ describes how to create a plan of action - what steps to take, and which tools are likely to be necessary for each step.
+- The agent goes step by step through the plan, with or without user intervention - and calls the MCP tools for the respective step, creating/updating files as it goes along
+- The MCP tools either reach to the knowledge base, or operate to read/write files in the format required by the agent.
