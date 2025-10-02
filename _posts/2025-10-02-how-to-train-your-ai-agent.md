@@ -19,3 +19,7 @@ Also, while an AI agent infrastructure could be created from scratch, a number o
 Comparatively, tuning the agent is very specific to the task at hand - i.e., to what the agent needs to solve.
 
 Often, an AI Agent project is started when the precise specification of the task, or its specific sub-tasks, are not fully known. 
+
+## __The Infrastructure__: Creating the AI Agent
+
+Our infrastructure of choice, at the time of the writing of this post, is [__Claude Code__](https://docs.claude.com/en/docs/claude-code/overview), which also has an available [__Claude Agent SDK__](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk)
