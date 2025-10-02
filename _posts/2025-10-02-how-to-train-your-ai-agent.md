@@ -6,83 +6,58 @@ author: Andrei Radulescu-Banu
 categories: [ai, programming, tutorials]
 ---
 
-There are two separate problems:
-- Creating the AI Agent 
-- Tuning the AI Agent to solve the specific problem you are targetting - whether it is a fully automated agent, or one requiring human-in-the-loop intervention.
+Developing an AI agent isn't a monolithic task—it's two intertwined yet distinct challenges: first, creating the foundational infrastructure for the agent itself, and second, fine-tuning it to tackle the specific problem you're aiming to solve. This could range from a fully autonomous system to one that thrives with human-in-the-loop oversight. Over time, these phases have naturally evolved into separate endeavors, each calling for its own set of techniques and tools.
 
-These two problems have evolved to be separate, and to requie different techniques.
+When it comes to building the agent, think of it as laying down a robust infrastructure. The key here is to keep things generic and modular, ensuring that the later tuning process isn't shackled by early decisions. Sure, you could roll your own from the ground up, but why reinvent the wheel when a slew of frameworks now deliver battle-tested, more-or-less ready-to-deploy AI agent infrastructures?
 
-Creating an AI agent is an infrastructure task, and it is best for this infrastructure to be generic - so the tuning phase does not depend on specific choices made during the agent creation.
+On the flip side, tuning the agent is where things get intimately personal to your use case—it's all about adapting to the exact nuances of what the agent needs to accomplish. Interestingly, many AI agent projects kick off precisely because the full scope of the task, or even its sub-tasks, isn't crystal clear from the start. This uncertainty makes the process iterative and exploratory, which is part of the fun (and frustration).
 
-Also, while an AI agent infrastructure could be created from scratch, a number of frameworks have become available to provide more or less ready-made AI agent infrastructure.
+## Building the Infrastructure: Creating Your AI Agent
 
-Comparatively, tuning the agent is very specific to the task at hand - i.e., to what the agent needs to solve.
+As of this writing, our go-to stack for agent creation is [Claude Code](https://docs.claude.com/en/docs/claude-code/overview), complemented beautifully by the [Claude Agent SDK](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk). What draws us to it? A suite of powerful features like subcommands for modular execution, subagents for hierarchical delegation, and an MCP server that lets you seamlessly extend the agent's toolkit.
 
-Often, an AI Agent project is started when the precise specification of the task, or its specific sub-tasks, are not fully known. 
+No agent is complete without a solid knowledge base, though—and the SDK doesn't ship with one out of the box. You'll need to craft this yourself. For the vector database powering it, we've settled on Pinecone, prized for its straightforward SaaS model that gets you up and running without fuss. That said, the open-source landscape is rich with alternatives: Weaviate, Qdrant, or ChromaDB, to name a few. Even traditional players like Postgres or MongoDB have jumped on the vector bandwagon, now offering built-in support for vector tables or collections.
 
-## __The Infrastructure__: Creating the AI Agent
+In our architecture, we centralize all custom interfaces for the agent within the MCP server. This choice boosts portability across setups. Naturally, the MCP server includes a `vector_db_lookup()` interface to bridge the agent with its knowledge reservoir.
 
-Our infrastructure of choice, at the time of the writing of this post, is [__Claude Code__](https://docs.claude.com/en/docs/claude-code/overview), which also has an available [__Claude Agent SDK__](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk)
+## Indexing Your Knowledge Base
 
-Features supported:
-* Subcommands
-* Subagents
-* MCP server - used for extending the set of available tools
+Once you've got your knowledge base in place—say, tucked away in a MongoDB collection or an S3 bucket—it's time to make it searchable. Enter the indexing tool: it runs on a schedule, scanning the base for updates, intelligently chunking the content, and pushing those embeddings into a dedicated Pinecone index. We designed this to be fully idempotent, meaning it only acts on changes. Existing chunks in the vector DB? They're left untouched, no duplicates cluttering things up.
 
-The agent needs a knowledge base. This is not provided standard with the Claude Agent SDK, and needs to be manually built.
+## Tuning via the MCP Server
 
-Our choice for vector DB is __Pinecone__, for the simplicity and ready-availability of the SAAS platform. Multiple other open source options are available for vector DB: __Weaviate__, __Qdrant__, __ChromaDB__. Most relational or text databases now support vector DB tables or collections (__Postgres__, __MongoDB__).
+With infrastructure humming, tuning shifts focus to the MCP server, where you craft interfaces laser-targeted at your task. Picture this workflow: A user drops in with a chat query, perhaps attaching files ripe for processing. For coding gigs, they might simply point to the files needing tweaks or a fresh start.
 
-In our design, all the custom interfaces for the agent are implemented in the MCP server, for portability. The MCP server will have a __vector_db_lookup()__ interface.
+Enter CLAUDE.md, your agent's North Star document. It spells out how to forge a plan of action—detailing the sequence of steps and flagging which tools will likely shine in each one.
 
-## Knowledge Base Indexing
+From there, the agent marches forward, step by step. It can go solo or pause for human nods, calling on MCP tools as needed to birth new files, refine existing ones, or query the knowledge base. These tools are built to handle reads and writes in formats the agent digests effortlessly.
 
-The __knowledge base__ can be stored, for example, in a MongoDB database, or in S3. 
+Tuning isn't a one-and-done; it's an iterative dance. To gauge your progress and spot weak spots, rigorous evaluation becomes your compass.
 
-An __indexing__ tool periodically scans the __knowledge base__, chunks it, and uploads it to an __index__ in the __Pinecone__ vector DB. The operation is idempotent - only changes in the knowledge base result in vector db index changes. Chunks that already exist in the vector db index are not duplicated.
+## Putting It to the Test: Evaluation
 
-## MCP tuning
+Kick things off by assembling a ground-truth dataset—a curated set of benchmark problems mirroring real-world scenarios. Your evaluation script then takes the reins: For each item, it spins up a fresh Claude Code instance to tackle the problem in pure automated mode, sans user meddling. Once the output lands, a second forked instance steps in as the impartial judge, scoring it against the expected ground truth.
 
-The MCP server needs to implement interfaces that solve the task at hand.
-- The user enters the chat question, attaches the files that need to be processed. Or, for coding tasks, points the chat question to the files that need to be modified or created
-- __CLAUDE.md__ describes how to create a plan of action - what steps to take, and which tools are likely to be necessary for each step.
-- The agent goes step by step through the plan, with or without user intervention - and calls the MCP tools for the respective step, creating/updating files as it goes along
-- The MCP tools either reach to the knowledge base, or operate to read/write files in the format required by the agent.
+The metrics we track paint a full picture:
+- Overall accuracy: How spot-on are the results?
+- Completeness: Does it cover all bases without omissions?
+- For MCP interfaces leaning on vector DB retrieval: Accuracy and completeness of the chunks pulled back.
+- Drilling deeper, for select MCP tools: Per-tool breakdowns of response accuracy and completeness.
+- And if ToDos are in play: How thoroughly were they checked off?
 
-The MCP tuning is an iterative process. To keep track of the development progress, it becomes essential to be able to evaluate the quality of the results.
+## Bringing Eval to Life: Visualization
 
-## Evaluation
+Raw eval logs? They're a thicket—human eyes glaze over parsing them. Visualization turns that fog into clarity. We layer in:
+- A quick-scan table, one row per question, for instant overviews.
+- A radar chart aggregating metrics into a visual story of strengths and gaps.
+- Distributions to reveal patterns across the board.
+- Per-question deep dives on tool usage: At-a-glance summaries of which tools fired, what inputs they took, the outputs they spat, and any ToDo progress where relevant.
 
-Start by creating a ground truth dataset of problems to be solved.
+## The Rhythm of Iteration
 
-Create an evaluation script, that forks Claude Code for each of the dataset items - runs it in automated mode to solve the respective question (without user intervention) - and, when the result is saved, it forks a 2nd instance of Claude Code to evaluate against what was expected (i.e., the ground truth).
+Here's how the development loop flows in practice:
+- Bootstrap your ground-truth dataset with straightforward questions to get baseline momentum.
+- Fire up the evaluation suite and scrutinize the metrics—zero in on the ones falling short.
+- For each shortfall, triage the root cause: Does the knowledge base crave fresh entries? Should chunking, indexing, or retrieval get a polish? Is an MCP tool buggy and begging for a fix—or outright absent, demanding invention? Or perhaps CLAUDE.md itself needs a refresh to better guide the agent?
 
-List of evaluation metrics:
-- Accuracy
-- Completeness
-- (Optionally) accuracy and completeness of retrieved chunks from vector DB, for MCP interfaces that read the vector DB
-- (For select MCP tools) Per-tool response accuracy, completeness
-- ToDo completion
-
-## Eval Visualization
-Given eval is so complicated to parse with the human eye, visualization of eval is needed.
-
-Include:
-- At-a-glance table with one row per question
-- Radar chart with aggregate metrics
-- Distribution of metrics
-- Per-question tool use summary, with at-a-glance view of
-  - Which tool is called
-  - Input
-  - Output
-  - ToDo progress, if applicable
-
-## Iterative development process
-- Add basic questions to the ground truth dataset.
-- Run evaluation, see which metrics are imperfect
-- To solve an imperfect eval metric, decide whether:
-  - The knowledge base needs new items
-  - Chunking/indexing/chunk retrieval in the vectorDB needs to be improved
-  - An MCP tool needs to be fixed
-  - Or, an MCP tool needs to be added
-  - Or, the CLAUDE.md needs to be updated
+This cycle isn't linear; it's a spiral upward, refining your agent into a precision instrument tailored to the task. Whether you're automating workflows or prototyping wild ideas, embracing this structured yet flexible approach keeps the project on track—and the breakthroughs coming.
