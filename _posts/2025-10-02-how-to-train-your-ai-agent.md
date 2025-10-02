@@ -36,7 +36,7 @@ When it comes to building the agent, we separate out the __Infrastructure__ desi
 - Often times, the __task__ solved by the agent needs to be flexible and change later during the product lifecycle. This calls for __infrastructure__ to be separated out from the __task customization__. Sometimes, the __task__ or its __subtasks__ are not even fully known or understood at the outset of the AI Agent project.
 - The __Infrastructure__ is now available ready-made, and may not have to be built from scratch.
 
-## Building the Infrastructure: Creating Your AI Agent
+## The AI Agent Infrastructure
 
 As of this writing, our go-to stack for agent creation is [Claude Code](https://docs.claude.com/en/docs/claude-code/overview), complemented beautifully by the [Claude Agent SDK](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk). What draws us to it? A suite of powerful features like subcommands for modular execution, subagents for hierarchical delegation, and an MCP server that lets you seamlessly extend the agent's toolkit.
 
