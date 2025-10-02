@@ -16,9 +16,25 @@ Developing an AI agent comes down to a number of intertwined yet distinct challe
 
 Whether the AI agent is __fully autonomous__ or works with __human-in-the-loop__ oversight, development includes roughly the steps outlined above. Each step calls for its own set of techniques and tools.
 
-When it comes to building the agent, think of it as laying down a robust infrastructure. The key here is to keep things generic and modular, ensuring that the later tuning process isn't shackled by early decisions. Sure, you could roll your own from the ground up, but why reinvent the wheel when a slew of frameworks now deliver battle-tested, more-or-less ready-to-deploy AI agent infrastructures?
+## Examples: Windsurf, Cursor and Claude Code
 
-On the flip side, tuning the agent is where things get intimately personal to your use case—it's all about adapting to the exact nuances of what the agent needs to accomplish. Interestingly, many AI agent projects kick off precisely because the full scope of the task, or even its sub-tasks, isn't crystal clear from the start. This uncertainty makes the process iterative and exploratory, which is part of the fun (and frustration).
+The reader may be familiar with the AI Editors like __Windsurf__, __Cursor__, __Github Copilot__ and with command line tools like __Claude Code__. The latter, __Claude Code__, also has a __VSCode__ extension by the same name.
+
+The underlying agents, in each case, are integrated with the text editor (our __Step 5__). While Windsurf, Cursor and Claude Code each have their own agent infrastructure.
+
+__Claude Code__ is different in that it is a command line tool which can be executed as a standalone, in interactive or non-interactive mode. __Anthropic__ has also developed a __Claude Agent SDK__, with __Typescript__, __Python__ and __shell command__ flavors. This SDK serves as __infrastructure__ for custom AI agents (our __Step 1__).
+
+The __knowledge base__ (step 3) for these agents is embedded into the language models themselves. __Windsurf__, __Cursor__, __Github Copilot__ use multiple-vendor language models, in addition to models used in-house. __Claude Code__ on the other hand, only uses __Anthropic__ language models.
+
+__Windsurf__, __Cursor__, __Github Copilot__ also use a __tab-completion__ model, which employs a smaller LLM acting directly in the editor buffer. __Claude Code__ does not have that feature.
+
+The approach for each of these AI editors is proprietary, and slightly different (__Step 2__). Each, however, supports extending its functionality through __MCP Server__ support, allowing the editor, for example, to read external Github repositories through __MCP__.
+
+## Separation of concerns: Infrastructure vs. Task Customization
+
+When it comes to building the agent, we separate out the __Infrastructure__ design from the __Task Customization__, for a couple of reasons:
+- Often times, the __task__ solved by the agent needs to be flexible and change later during the product lifecycle. This calls for __infrastructure__ to be separated out from the __task customization__. Sometimes, the __task__ or its __subtasks__ are not even fully known or understood at the outset of the AI Agent project.
+- The __Infrastructure__ is now available ready-made, and may not have to be built from scratch.
 
 ## Building the Infrastructure: Creating Your AI Agent
 
