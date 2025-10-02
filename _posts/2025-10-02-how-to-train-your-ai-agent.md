@@ -76,3 +76,13 @@ Include:
   - Input
   - Output
   - ToDo progress, if applicable
+
+## Iterative development process
+- Add basic questions to the ground truth dataset.
+- Run evaluation, see which metrics are imperfect
+- To solve an imperfect eval metric, decide whether:
+  - The knowledge base needs new items
+  - Chunking/indexing/chunk retrieval in the vectorDB needs to be improved
+  - An MCP tool needs to be fixed
+  - Or, an MCP tool needs to be added
+  - Or, the CLAUDE.md needs to be updated
