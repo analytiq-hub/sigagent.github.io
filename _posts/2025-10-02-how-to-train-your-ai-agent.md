@@ -9,7 +9,7 @@ categories: [ai, programming, tutorials]
 
 Developing an AI agent comes down to a number of intertwined yet distinct challenges:
 1. Creating the __runtime infrastructure__ for the agent itself
-2. Refining it to tackle the __specific problem__ you're aiming to solve
+2. __Planning__: Making agent tackle the __specific problem__ you're aiming to solve
 3. Creating a __knowledge base__ the agent can use during its execution steps
 4. Setting up an __evaluation infrastructure__ to track progress and catch agent mistakes
 5. __Integrating__ the agent into the larger application
@@ -42,7 +42,9 @@ Custom AI Agents, though, will often need an __external knowledge base__, adapte
 
 __Windsurf__, __Cursor__, __Github Copilot__ also use a __tab-completion__ model, which employs a smaller LLM acting directly in the editor buffer. __Claude Code__ does not have that feature.
 
-The approach for each of these AI editors is proprietary, and slightly different (__Step 2__). Each, however, supports extending its functionality through __MCP Server__ support, allowing the editor, for example, to read external Github repositories through __MCP__.
+The approach each of these AI editors takes during their __coding task__ is proprietary, and slightly different (our __Step 2__). Each, however, supports extending its functionality through __MCP Server__ support, allowing the editor, for example, to read external Github repositories through __MCP__.
+
+Custom AI agents, however, need to implement their own __problem-solving mechanism__
 
 Evaluation for these AI editors is also proprietary (__Step 4__). Custom AI Agents would need their own evaluation infrastructure developed from scratch.
 
