@@ -114,19 +114,35 @@ From there, the agent marches forward, step by step. It can go solo or pause for
 
 ## Tuning the Agent through Evaluation
 
+Once the __infrastructure__ is stood up, the __knowledge base__ available, the __MCP server__ working, and the agent begins to be integrated in the larger application - you need to __tune__ the agent and __adapt__ it to the task at hand.
 
-Kick things off by assembling a ground-truth dataset—a curated set of benchmark problems mirroring real-world scenarios. Your evaluation script then takes the reins: For each item, it spins up a fresh Claude Code instance to tackle the problem in pure automated mode, sans user meddling. Once the output lands, a second forked instance steps in as the impartial judge, scoring it against the expected ground truth.
+__Tuning__ can mean:
+- Adding or updating to the __knowledge base__
+- Adding or updating the __MCP server tools__
+- Improving the __CLAUDE.md__ design, to steer the running agent through its __ToDo__s.
 
-The metrics we track paint a full picture:
-- Overall accuracy: How spot-on are the results?
-- Completeness: Does it cover all bases without omissions?
-- For MCP interfaces leaning on vector DB retrieval: Accuracy and completeness of the chunks pulled back.
-- Drilling deeper, for select MCP tools: Per-tool breakdowns of response accuracy and completeness.
-- And if ToDos are in play: How thoroughly were they checked off?
+__Evaluation__ is an essential step here. 
+
+Kick things off by:
+- Assembling a __ground-truth dataset__ — a curated set of benchmark problems mirroring real-world scenarios. 
+- Create an __evaluation script__ that, for each item, spins up a fresh __Claude Code__ instance to tackle the problem in pure automated mode, assuming no user intervention. 
+- Once the ___Claude Code__ instance completes processing a __dataset item__, a second forked instance of __Claude Code__ runs to evaluate and judge the output, for a number of metrics, as __LLM Judge__.
+
+The metrics tracked by the __LLM Judge__ are:
+- __Accuracy:__ How spot-on are the results?
+- __Completeness:__ Does it cover all requirements without omissions?
+- For MCP interfaces leaning on vector DB retrieval: __Accuracy__ and __completeness__ of the chunks pulled back.
+- Completion rate of the __ToDo__'s
+- Drilling deeper, for select MCP tools: __Per-tool breakdowns__ of response __accuracy__ and __completeness__.
+- __Number of failed validations__ during the actual run
+- __Validation tests__ run by the LLM judge at eval time, using the same MCP validation tools you added
+- Other statistics: __number of steps__ to solve the question,  __LLM models__ used, __in__ and __out__ tokens, __cached__ tokens, __cost__
 
 ## Bringing Eval to Life: Visualization
 
-Raw eval logs? They're a thicket—human eyes glaze over parsing them. Visualization turns that fog into clarity. We layer in:
+Raw eval logs are a thicket. Human eyes need __at-a-glance view__. 
+
+In our approach, we build a custom web visualiser of eval results, with:
 - A quick-scan table, one row per question, for instant overviews.
 - A radar chart aggregating metrics into a visual story of strengths and gaps.
 - Distributions to reveal patterns across the board.
