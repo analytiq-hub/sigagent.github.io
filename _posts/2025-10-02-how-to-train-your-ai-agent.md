@@ -52,13 +52,48 @@ Evaluation for these AI editors is also proprietary (__Step 4__). Custom AI Agen
 
 Here is a Comparison Table for the AI editors we described: 
 
-| Step | Windsurf, Cursor, Github Copilot | Claude Code | Custom Agent |
-|------|-----------------------------------|-------------|--------------|
-| **1. Runtime Infrastructure** | Proprietary, integrated with text editors | Proprietary, available as command-line tool + VSCode extension | Claude Code + Claude Agent SDK (TypeScript/Python/Shell) |
-| **2. Task Planning** | Proprietary system prompt. Windsurf Rules file for Windsurf. Cursor Rules file for Cursor | Proprietary system prompt. CLAUDE.md for custom planning. | Custom via CLAUDE.md + editable system prompts (Claude Agent SDK) |
-| **3. Knowledge Base** | Embedded in LLM training + web search for API docs. Extensible through MCP. | Embedded in LLM training + web search for API docs. Extensible through MCP. | External vector DB (Pinecone/Weaviate/Qdrant) + custom MCP server tools |
-| **4. Evaluation Infrastructure** | Proprietary, internal evaluation systems | Proprietary, internal evaluation systems | Custom evaluation scripts + LLM Judge + web visualization dashboard |
-| **5. Integration** | Native text editor integration | Command-line + VSCode extension | Custom VSCode extension |
+<table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 14px;">
+  <thead>
+    <tr style="background: #1e40af !important; color: white !important;">
+      <th style="padding: 12px 16px; text-align: white; font-weight: 600; background: #1e40af !important; color: white !important;">Step</th>
+      <th style="padding: 12px 16px; text-align: left; font-weight: 600; background: #1e40af !important; color: white !important;">Windsurf, Cursor, Github Copilot</th>
+      <th style="padding: 12px 16px; text-align: left; font-weight: 600; background: #1e40af !important; color: white !important;">Claude Code</th>
+      <th style="padding: 12px 16px; text-align: left; font-weight: 600; background: #1e40af !important; color: white !important;">Custom Agent</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background: #fef3c7;">
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; font-weight: 600; color: #92400e;">1. Runtime Infrastructure</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; color: #374151;">Proprietary, integrated with text editors</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; color: #374151;">Proprietary, available as command-line tool + VSCode extension</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; color: #374151;">Claude Code + Claude Agent SDK (TypeScript/Python/Shell)</td>
+    </tr>
+    <tr style="background: #dbeafe;">
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; font-weight: 600; color: #1e40af;">2. Task Planning</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; color: #374151;">Proprietary system prompt. Windsurf Rules file for Windsurf. Cursor Rules file for Cursor</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; color: #374151;">Proprietary system prompt. CLAUDE.md for custom planning.</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; color: #374151;">Custom via CLAUDE.md + editable system prompts (Claude Agent SDK)</td>
+    </tr>
+    <tr style="background: #f3e8ff;">
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; font-weight: 600; color: #7c3aed;">3. Knowledge Base</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; color: #374151;">Embedded in LLM training + web search for API docs. Extensible through MCP.</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; color: #374151;">Embedded in LLM training + web search for API docs. Extensible through MCP.</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; color: #374151;">External vector DB (Pinecone/Weaviate/Qdrant) + custom MCP server tools</td>
+    </tr>
+    <tr style="background: #fecaca;">
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; font-weight: 600; color: #dc2626;">4. Evaluation Infrastructure</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; color: #374151;">Proprietary, internal evaluation systems</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; color: #374151;">Proprietary, internal evaluation systems</td>
+      <td style="padding: 12px 16px; border-bottom: 1px solid #d1d5db; color: #374151;">Custom evaluation scripts + LLM Judge + web visualization dashboard</td>
+    </tr>
+    <tr style="background: #d1fae5;">
+      <td style="padding: 12px 16px; font-weight: 600; color: #059669;">5. Integration</td>
+      <td style="padding: 12px 16px; color: #374151;">Native text editor integration</td>
+      <td style="padding: 12px 16px; color: #374151;">Command-line + VSCode extension</td>
+      <td style="padding: 12px 16px; color: #374151;">Custom VSCode extension</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Separation of concerns: Infrastructure vs. Task-Specific Planning
 
