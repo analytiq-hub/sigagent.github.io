@@ -125,6 +125,8 @@ __Tuning__ can mean:
 
 __Evaluation__ is an essential step here. 
 
+![Claude Code Offline System Architecture](/assets/images/claude_code_offline_system.png)
+
 Kick things off by:
 - Assembling a __ground-truth dataset__ — a curated set of benchmark problems mirroring real-world scenarios. 
 - Create an __evaluation script__ that, for each item, spins up a fresh __Claude Code__ instance to tackle the problem in pure automated mode, assuming no user intervention. 
