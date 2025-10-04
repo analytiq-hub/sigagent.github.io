@@ -50,6 +50,16 @@ Custom AI agents, however, need to implement their own __problem-solving mechani
 
 Evaluation for these AI editors is also proprietary (__Step 4__). Custom AI Agents would need their own evaluation infrastructure developed from scratch.
 
+Here is a Comparison Table for the AI editors we described: 
+
+| Step | Windsurf, Cursor, Github Copilot | Claude Code | Custom Agent |
+|------|-----------------------------------|-------------|--------------|
+| **1. Runtime Infrastructure** | Proprietary, integrated with text editors | Proprietary, available as command-line tool + VSCode extension | Claude Code + Claude Agent SDK (TypeScript/Python/Shell) |
+| **2. Task Planning** | Proprietary system prompt. Windsurf Rules file for Windsurf. Cursor Rules file for Cursor | Proprietary system prompt. CLAUDE.md for custom planning. | Custom via CLAUDE.md + editable system prompts (Claude Agent SDK) |
+| **3. Knowledge Base** | Embedded in LLM training + web search for API docs. Extensible through MCP. | Embedded in LLM training + web search for API docs. Extensible through MCP. | External vector DB (Pinecone/Weaviate/Qdrant) + custom MCP server tools |
+| **4. Evaluation Infrastructure** | Proprietary, internal evaluation systems | Proprietary, internal evaluation systems | Custom evaluation scripts + LLM Judge + web visualization dashboard |
+| **5. Integration** | Native text editor integration | Command-line + VSCode extension | Custom VSCode extension |
+
 ## Separation of concerns: Infrastructure vs. Task-Specific Planning
 
 When it comes to building the agent, we separate out the __Infrastructure__ design from the __Task Planning__, for a couple of reasons:
