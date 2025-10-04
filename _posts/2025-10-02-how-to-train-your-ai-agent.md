@@ -140,7 +140,7 @@ The metrics tracked by the __LLM Judge__ are:
 
 ## Bringing Eval to Life: Visualization
 
-Raw eval logs are a thicket. Human eyes need __at-a-glance view__. 
+Raw eval logs are hard to monitor without an __at-a-glance view__. 
 
 In our approach, we build a custom web visualiser of eval results, with:
 - A quick-scan table, one row per question, for instant overviews.
@@ -148,11 +148,11 @@ In our approach, we build a custom web visualiser of eval results, with:
 - Distributions to reveal patterns across the board.
 - Per-question deep dives on tool usage: At-a-glance summaries of which tools fired, what inputs they took, the outputs they spat, and any ToDo progress where relevant.
 
-## The Rhythm of Iteration
+## Iteration and Improvement
 
 Here's how the development loop flows in practice:
 - Bootstrap your ground-truth dataset with straightforward questions to get baseline momentum.
 - Fire up the evaluation suite and scrutinize the metrics—zero in on the ones falling short.
 - For each shortfall, triage the root cause: Does the knowledge base crave fresh entries? Should chunking, indexing, or retrieval get a polish? Is an MCP tool buggy and begging for a fix—or outright absent, demanding invention? Or perhaps CLAUDE.md itself needs a refresh to better guide the agent?
 
-This cycle isn't linear; it's a spiral upward, refining your agent into a precision instrument tailored to the task. Whether you're automating workflows or prototyping wild ideas, embracing this structured yet flexible approach keeps the project on track—and the breakthroughs coming.
+This cycle is a spiral upward, tailoring and refining your agent to the task. 
