@@ -159,4 +159,4 @@ Here's how the development loop flows in practice:
   - Is an __MCP tool__ not working properly? Or is a new __MCP tool__ needed?
   - Or perhaps __CLAUDE.md__ itself needs a refresh to better guide the agent?
 
-This cycle is a spiral upward, tailoring and refining your agent to the task. 
+As problems are discovered, and fixed, the ground truth dataset is expanded. Re-running over previously-working dataset items ensures the new fixes don't break old functionality.
