@@ -26,7 +26,7 @@ The latter, __Claude Code__, also has a __VSCode__ extension by the same name.
 
 In each case, the underlying AI agents are integrated with the text editor (our __Step 5__). 
 
-While __Windsurf__, __Cursor__ and __Claude Code__ each have their own agent infrastructure (our __Step 1__), the latter, __Claude Code__ is different in that it is available as a __command line tool__ which can be executed as a standalone, in interactive or non-interactive mode. 
+While __Windsurf__, __Cursor__ and __Claude Code__ each have their own agent infrastructure (our __Step 1__), the latter, __Claude Code__ is different in that it is available as a __command line tool__ which can be executed standalone, in interactive or non-interactive mode. 
 
 __Anthropic__ has also developed a __Claude Agent SDK__, with __Typescript__, __Python__ and __shell command__ flavors. The __Claude Agent SDK__ can be used for coding tasks, but also for more general tasks - for example, for document processing, or for support message processing, or for marketing reasearch and outreach.
 
