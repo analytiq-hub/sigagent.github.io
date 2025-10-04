@@ -42,7 +42,7 @@ Custom AI Agents, though, don't have all necessary knowledge baked into their LL
 
 For example - one of our customer companies develops a lab information management system that uses a scripting language to define web forms. The forms are used to manage lab processes in Biotech, Food Manufacturing, or Forensics. The AI Agent we developed employs an __external knowledge base__ (__Step 3__) to provide full documentation and examples for the scripting language. The generalist LLMs, while trained on __Python__, __Typescript__ and other programming languages, would not have baked-in information about the custom scripting languge for web forms.
 
-__Windsurf__, __Cursor__, __Github Copilot__ also use a __tab-completion__ model, which employs a smaller LLM acting directly in the editor buffer. __Claude Code__ does not have that feature.
+__Windsurf__, __Cursor__, __Github Copilot__ also use a __tab-completion__ model, which employs a smaller, faster LLM acting directly in the editor buffer. __Claude Code__ does not have that feature.
 
 The approach each of these AI editors takes during their __coding task__ is proprietary, and slightly different (our __Step 2__). Each, however, supports extending its functionality through __MCP Server__ support, allowing the editor, for example, to read external Github repositories through __MCP__.
 
