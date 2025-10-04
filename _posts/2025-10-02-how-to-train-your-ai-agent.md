@@ -18,13 +18,25 @@ Whether the AI agent is __fully autonomous__ or works with __human-in-the-loop__
 
 ## Examples: Windsurf, Cursor and Claude Code
 
-Let's start with some examples the reader may be familiar: the AI Editors like __Windsurf__, __Cursor__, __Github Copilot__ and with command line tools like __Claude Code__. The latter, __Claude Code__, also has a __VSCode__ extension by the same name.
+Let's start with some examples the reader may be familiar: 
+* AI Editors like __Windsurf__, __Cursor__, __Github Copilot__
+* Command line tools like __Claude Code__. 
 
-The underlying agents, in each case, are integrated with the text editor (our __Step 5__). While Windsurf, Cursor and Claude Code each have their own agent infrastructure.
+The latter, __Claude Code__, also has a __VSCode__ extension by the same name.
 
-__Claude Code__ is different in that it is a command line tool which can be executed as a standalone, in interactive or non-interactive mode. __Anthropic__ has also developed a __Claude Agent SDK__, with __Typescript__, __Python__ and __shell command__ flavors. This SDK serves as __infrastructure__ for custom AI agents (our __Step 1__).
+In each case, the underlying AI agents are integrated with the text editor (our __Step 5__). 
 
-The __knowledge base__ (__Step 3__) for these agents is embedded into the language models themselves. __Windsurf__, __Cursor__, __Github Copilot__ use multiple-vendor language models, in addition to models used in-house. __Claude Code__ on the other hand, only uses __Anthropic__ language models.
+While __Windsurf__, __Cursor__ and __Claude Code__ each have their own agent infrastructure (our __Step 1__), the latter, __Claude Code__ is different in that it is available as a __command line tool__ which can be executed as a standalone, in interactive or non-interactive mode. 
+
+__Anthropic__ has also developed a __Claude Agent SDK__, with __Typescript__, __Python__ and __shell command__ flavors. The __Claude Agent SDK__ can be used for coding tasks, but also for more general tasks - for example, for document processing, or for support message processing, or for marketing reasearch and outreach.
+
+An Agent SDK is not available for __Windsurf__ or __Claude Code__.
+
+The __knowledge base__ (__Step 3__) for these agents is embedded into the language models themselves. These coding agents are required to understand and code in programming languages like __Python__, __Typescript__, __C__, __C++__ or __Java__. The language models are trained on these programming languges. 
+
+While these agents do not technically require an external __knowledge base__, they use a __web search__ tool to look up product documentation, when implementing __coding tasks__.
+
+ __Windsurf__, __Cursor__, __Github Copilot__ use multiple-vendor language models, in addition to models used in-house. __Claude Code__ on the other hand, only uses __Anthropic__ language models.
 
 Custom AI Agents, though, will often need an __external knowledge base__, adapted to the task at hand (__Step 3__).
 
