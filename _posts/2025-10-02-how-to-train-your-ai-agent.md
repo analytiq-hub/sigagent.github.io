@@ -81,7 +81,28 @@ To build the knowledge base, you need:
 
 The lookup operation is what you'd expect - the chunk of text is mapped through the same __LLM embedding__, and looked up for __similarity__ with existing chunks in the vector db index - returning the most closely similar chunks from the __knowledge base__.
 
-## Tuning via the MCP Server
+## Tuning AI Agent Actions via the MCP Server
+
+With the knowledge base available, and searchable - we now let the AI agent use it through __MCP Server__ tools.
+
+These tools can:
+- Look up knowledge base articles for similarity
+- Perform file reads and edits that are specialised to your file format
+- Validate file edits, and run unit tests
+
+The tools take parameters, and are self-describing. The LLM model can figure out, to a good extent, which tools to call, and which parameters to pass - however, that is not sufficient for good agent design, because:
+- The same operation may be solved by different tools.
+- Or, the tools need to be called in a certain order.
+
+This is why step is crucial: __Task Planning__, which steers the agent in how it uses the __MCP Server__ tools.
+
+## Task Planning
+
+Task planning is designed partly through editing __CLAUDE.md__, and partly through changing the system prompt. 
+- With the command-line __Claude Code__ tool, its internal system prompt is not editable.
+- But with __Claude Agent SDK__, it is.
+
+In __CLAUDE.md__, we specify how to approach the various custom problems the agent might encounter. __Claude Code__ has built-in support for the __ToDoWrite__ tool. In __CLAUDE.md__, we specify what are the __ToDo__ tasks, for each problem the AI Agent might encounter.
 
 With infrastructure humming, tuning shifts focus to the MCP server, where you craft interfaces laser-targeted at your task. Picture this workflow: A user drops in with a chat query, perhaps attaching files ripe for processing. For coding gigs, they might simply point to the files needing tweaks or a fresh start.
 
