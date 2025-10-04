@@ -62,9 +62,15 @@ As of this writing, our go-to stack for agent creation is the [Claude Code](http
 - A suite of powerful features like __CLAUDE.md__ customization, __subcommands__ for modular execution, __subagents__ for hierarchical delegation
 - __MCP server support__, which lets you seamlessly extend the agent, and steer it to solve the __task__ at hand.
 
-No agent is complete without a solid knowledge base, though—and the SDK doesn't ship with one out of the box. You'll need to craft this yourself. For the vector database powering it, we've settled on Pinecone, prized for its straightforward SaaS model that gets you up and running without fuss. That said, the open-source landscape is rich with alternatives: Weaviate, Qdrant, or ChromaDB, to name a few. Even traditional players like Postgres or MongoDB have jumped on the vector bandwagon, now offering built-in support for vector tables or collections.
+No agent is complete without a solid __knowledge base__, and without good __evaluation infrastructure__.
 
-In our architecture, we centralize all custom interfaces for the agent within the MCP server. This choice boosts portability across setups. Naturally, the MCP server includes a `vector_db_lookup()` interface to bridge the agent with its knowledge reservoir.
+The Claude Agent SDK doesn't ship with either out of the box. You'll need to craft them yourself. 
+
+For the vector database powering the __knowledge base__, we've used __Pinecone__, prized for its straightforward SaaS model that gets you up and running quick. Pinecone documentation is also very accessible.
+
+That said, there are multiple Vector DB alternatives: __Weaviate__, __Qdrant__, or __ChromaDB__. Even traditional players like __Postgres__ or __MongoDB__ have jumped on the vector bandwagon, now offering built-in support for vector tables or collections.
+
+In our architecture, we __centralize all custom interfaces__ for the agent within the __MCP server__. This ensures portability and testability across setups. The __MCP server__ includes a `vector_db_lookup()` interface to let the agent look up the __knowledge base__.
 
 ## Indexing Your Knowledge Base
 
