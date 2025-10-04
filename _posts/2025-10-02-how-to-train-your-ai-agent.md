@@ -8,7 +8,7 @@ categories: [ai, programming, tutorials]
 ---
 
 Developing an AI agent comes down to a number of intertwined yet distinct challenges:
-1. Creating the runtime __infrastructure__ for the agent itself
+1. Creating the __runtime infrastructure__ for the agent itself
 2. Refining it to tackle the __specific problem__ you're aiming to solve
 3. Creating a __knowledge base__ the agent can use during its execution steps
 4. Setting up an __evaluation infrastructure__ to track progress and catch agent mistakes
