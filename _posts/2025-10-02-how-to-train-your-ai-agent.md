@@ -74,7 +74,12 @@ In our architecture, we __centralize all custom interfaces__ for the agent withi
 
 ## Indexing Your Knowledge Base
 
-Once you've got your knowledge base in place—say, tucked away in a MongoDB collection or an S3 bucket—it's time to make it searchable. Enter the indexing tool: it runs on a schedule, scanning the base for updates, intelligently chunking the content, and pushing those embeddings into a dedicated Pinecone index. We designed this to be fully idempotent, meaning it only acts on changes. Existing chunks in the vector DB? They're left untouched, no duplicates cluttering things up.
+To build the knowledge base, you need:
+- A collection of knowledge base files - we usually convert them all to __Markdown__, and store them in an __S3__ bucket, or in a __MongoDB collection__
+- A __vector DB index__ in your DB of choice
+- An __indexing script__, that runs periodically, and uploads the knowledge base markdown files into the vector DB index, mapped through an __LLM embedding__.
+
+The lookup operation is what you'd expect - the chunk of text is mapped through the same __LLM embedding__, and looked up for __similarity__ with existing chunks in the vector db index - returning the most closely similar chunks from the __knowledge base__.
 
 ## Tuning via the MCP Server
 
