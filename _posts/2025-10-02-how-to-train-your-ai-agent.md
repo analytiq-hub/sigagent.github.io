@@ -151,8 +151,11 @@ In our approach, we build a custom web visualiser of eval results, with:
 ## Iteration and Improvement
 
 Here's how the development loop flows in practice:
-- Bootstrap your ground-truth dataset with straightforward questions to get baseline momentum.
-- Fire up the evaluation suite and scrutinize the metrics—zero in on the ones falling short.
-- For each shortfall, triage the root cause: Does the knowledge base crave fresh entries? Should chunking, indexing, or retrieval get a polish? Is an MCP tool buggy and begging for a fix—or outright absent, demanding invention? Or perhaps CLAUDE.md itself needs a refresh to better guide the agent?
+- Bootstrap your ground-truth dataset with questions to get baseline momentum.
+- Start the evaluation suite and scrutinize the metrics
+- For each metrics shortfall, triage the root cause: 
+  - Does the knowledge base require new or updated data? 
+  - Is the problem caused by Vector DB chunking, indexing, or retrieval?
+  - Is an MCP tool buggy and begging for a fix—or outright absent, demanding invention? Or perhaps CLAUDE.md itself needs a refresh to better guide the agent?
 
 This cycle is a spiral upward, tailoring and refining your agent to the task. 
