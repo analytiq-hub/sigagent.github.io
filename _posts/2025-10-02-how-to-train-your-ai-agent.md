@@ -104,15 +104,16 @@ Task planning is designed partly through editing __CLAUDE.md__, and partly throu
 
 In __CLAUDE.md__, we specify how to approach the various custom problems the agent might encounter. __Claude Code__ has built-in support for the __ToDoWrite__ tool. In __CLAUDE.md__, we specify what are the __ToDo__ tasks, for each problem the AI Agent might encounter.
 
-With infrastructure humming, tuning shifts focus to the MCP server, where you craft interfaces laser-targeted at your task. Picture this workflow: A user drops in with a chat query, perhaps attaching files ripe for processing. For coding gigs, they might simply point to the files needing tweaks or a fresh start.
+## The Claude Code Event Loop
 
-Enter CLAUDE.md, your agent's North Star document. It spells out how to forge a plan of action—detailing the sequence of steps and flagging which tools will likely shine in each one.
+The __Claude Code__ agent itself has a baked-in event loop, which takes user input, file attachments and screenshots - puts __CLAUDE.md__ in context, determines its __ToDo__ tasks, and iterates through __MCP Server__ tools and other built-in tools to solve the task.
 
-From there, the agent marches forward, step by step. It can go solo or pause for human nods, calling on MCP tools as needed to birth new files, refine existing ones, or query the knowledge base. These tools are built to handle reads and writes in formats the agent digests effortlessly.
+The user can interrupt the flow at any moment, and continue it with altered instructions.
 
-Tuning isn't a one-and-done; it's an iterative dance. To gauge your progress and spot weak spots, rigorous evaluation becomes your compass.
+From there, the agent marches forward, step by step. It can go solo or pause for human nods, calling on more __MCP__ and __built-in tools__ as needed to create new files, edit existing ones, or query the knowledge base. 
 
-## Putting It to the Test: Evaluation
+## Tuning the Agent through Evaluation
+
 
 Kick things off by assembling a ground-truth dataset—a curated set of benchmark problems mirroring real-world scenarios. Your evaluation script then takes the reins: For each item, it spins up a fresh Claude Code instance to tackle the problem in pure automated mode, sans user meddling. Once the output lands, a second forked instance steps in as the impartial judge, scoring it against the expected ground truth.
 
