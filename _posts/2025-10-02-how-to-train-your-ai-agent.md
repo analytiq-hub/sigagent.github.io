@@ -154,8 +154,9 @@ Here's how the development loop flows in practice:
 - Bootstrap your ground-truth dataset with questions to get baseline momentum.
 - Start the evaluation suite and scrutinize the metrics
 - For each metrics shortfall, triage the root cause: 
-  - Does the knowledge base require new or updated data? 
-  - Is the problem caused by Vector DB chunking, indexing, or retrieval?
-  - Is an MCP tool buggy and begging for a fix—or outright absent, demanding invention? Or perhaps CLAUDE.md itself needs a refresh to better guide the agent?
+  - Does the __knowledge base__ require new or updated data? 
+  - Is the problem caused by Vector DB __chunking__, __indexing__, or __retrieval__?
+  - Is an __MCP tool__ not working properly? Or is a new __MCP tool__ needed?
+  - Or perhaps __CLAUDE.md__ itself needs a refresh to better guide the agent?
 
 This cycle is a spiral upward, tailoring and refining your agent to the task. 
