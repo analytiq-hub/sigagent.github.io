@@ -50,13 +50,17 @@ Evaluation for these AI editors is also proprietary (__Step 4__). Custom AI Agen
 
 ## Separation of concerns: Infrastructure vs. Task-Specific Planning
 
-When it comes to building the agent, we separate out the __Infrastructure__ design from the __Task Customization__, for a couple of reasons:
-- Often times, the __task__ solved by the agent needs to be flexible and change later during the product lifecycle. This calls for __infrastructure__ to be separated out from the __task customization__. Sometimes, the __task__ or its __subtasks__ are not even fully known or understood at the outset of the AI Agent project.
-- The __Infrastructure__ is now available ready-made, and may not have to be built from scratch.
+When it comes to building the agent, we separate out the __Infrastructure__ design from the __Task Planning__, for a couple of reasons:
+- Often times, the __task__ solved by the agent needs to be flexible and can change in the product lifecycle. This calls for __infrastructure__ to be separated out from the __task customization__. Sometimes, the __task__ or its __subtasks__ are not even fully known or understood at the outset of the AI Agent project.
+- The __infrastructure__ is now available ready-made, and may not have to be built from scratch.
+
+Adopting a ready-made, battle tested __AI Agent Infrastructure__ that is __steerable__ for your task will accelerate your AI Agent design.
 
 ## The AI Agent Infrastructure
 
-As of this writing, our go-to stack for agent creation is [Claude Code](https://docs.claude.com/en/docs/claude-code/overview), complemented by the [Claude Agent SDK](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk). What draws us to it? A suite of powerful features like subcommands for modular execution, subagents for hierarchical delegation, and an MCP server that lets you seamlessly extend the agent's toolkit.
+As of this writing, our go-to stack for agent creation is the [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) shell command, complemented by the [Claude Agent SDK](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk). Its advangates:
+- A suite of powerful features like __CLAUDE.md__ customization, __subcommands__ for modular execution, __subagents__ for hierarchical delegation
+- __MCP server support__, which lets you seamlessly extend the agent, and steer it to solve the __task__ at hand.
 
 No agent is complete without a solid knowledge base, though—and the SDK doesn't ship with one out of the box. You'll need to craft this yourself. For the vector database powering it, we've settled on Pinecone, prized for its straightforward SaaS model that gets you up and running without fuss. That said, the open-source landscape is rich with alternatives: Weaviate, Qdrant, or ChromaDB, to name a few. Even traditional players like Postgres or MongoDB have jumped on the vector bandwagon, now offering built-in support for vector tables or collections.
 
