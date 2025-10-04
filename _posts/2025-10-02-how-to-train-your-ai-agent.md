@@ -38,7 +38,7 @@ While these agents do not technically require an external __knowledge base__ for
 
  __Windsurf__, __Cursor__, __Github Copilot__ use multiple-vendor language models, in addition to models used in-house. __Claude Code__ on the other hand, only uses __Anthropic__ language models.
 
-Custom AI Agents, though, will often need an __external knowledge base__, adapted to the task at hand (__Step 3__).
+Custom AI Agents, though, don't have all necessary knowledge baked into their LLM model - and often need an __external knowledge base__, adapted to their task (__Step 3__).
 
 __Windsurf__, __Cursor__, __Github Copilot__ also use a __tab-completion__ model, which employs a smaller LLM acting directly in the editor buffer. __Claude Code__ does not have that feature.
 
