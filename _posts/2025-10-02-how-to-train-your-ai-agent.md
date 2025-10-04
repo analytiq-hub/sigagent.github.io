@@ -10,7 +10,7 @@ categories: [ai, programming, tutorials]
 Developing an AI agent comes down to a number of intertwined yet distinct challenges:
 1. Creating the __runtime infrastructure__ for the agent itself
 2. __Planning__: Making agent tackle the __specific problem__ you're aiming to solve
-3. Creating a __knowledge base__ the agent can use during its execution steps
+3. Creating a __knowledge base__ the agent can use to inform its execution steps
 4. Setting up an __evaluation infrastructure__ to track progress and catch agent mistakes
 5. __Integrating__ the agent into the larger application
 
@@ -48,7 +48,7 @@ Custom AI agents, however, need to implement their own __problem-solving mechani
 
 Evaluation for these AI editors is also proprietary (__Step 4__). Custom AI Agents would need their own evaluation infrastructure developed from scratch.
 
-## Separation of concerns: Infrastructure vs. Task Customization
+## Separation of concerns: Infrastructure vs. Task-Specific Planning
 
 When it comes to building the agent, we separate out the __Infrastructure__ design from the __Task Customization__, for a couple of reasons:
 - Often times, the __task__ solved by the agent needs to be flexible and change later during the product lifecycle. This calls for __infrastructure__ to be separated out from the __task customization__. Sometimes, the __task__ or its __subtasks__ are not even fully known or understood at the outset of the AI Agent project.
