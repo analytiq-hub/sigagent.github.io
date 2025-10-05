@@ -28,11 +28,11 @@ In each case, the underlying AI agents are integrated with the text editor (our 
 
 While __Windsurf__, __Cursor__ and __Claude Code__ each have their own agent infrastructure (our __Step 1__), the latter, __Claude Code__ is different in that it is available as a __command line tool__ which can be executed standalone, in interactive or non-interactive mode. 
 
-__Anthropic__ has also developed a __Claude Agent SDK__, with __Typescript__, __Python__ and __shell command__ flavors. The __Claude Agent SDK__ can be used both for coding tasks and for more general tasks - for example, for document processing, or for support message processing, or for marketing reasearch and outreach.
+__Anthropic__ has also developed a __Claude Agent SDK__, with __Typescript__, __Python__ and __shell command__ flavors. The __Claude Agent SDK__ can be used both for coding tasks and for more general tasks - for example, for document processing, or for support message processing, or for marketing research and outreach.
 
 An Agent SDK is not available for __Windsurf__ or __Claude Code__.
 
-The __knowledge base__ (__Step 3__) for these agents is embedded into the language models themselves. These coding agents can code in __Python__, __Typescript__, __C__, __C++__ or __Java__. The language models are trained on these programming languges. 
+The __knowledge base__ (__Step 3__) for these agents is embedded into the language models themselves. These coding agents can code in __Python__, __Typescript__, __C__, __C++__ or __Java__. The language models are trained on these programming languages. 
 
 While these agents do not technically require an external __knowledge base__ for pure coding skills, they use a __web search__ tool to look up product and API documentation. The web search tool comes handy when implementing __coding tasks__ against specific coding libraries and APIs.
 
@@ -40,7 +40,7 @@ While these agents do not technically require an external __knowledge base__ for
 
 Custom AI Agents, though, don't have all necessary knowledge baked into their LLM model - and often need an __external knowledge base__, adapted to their task (__Step 3__).
 
-For example - one of our customer companies develops a lab information management system that uses a scripting language to define web forms. The forms are used to manage lab processes in Biotech, Food Manufacturing, or Forensics. The AI Agent we developed employs an __external knowledge base__ (__Step 3__) to provide full documentation and examples for the scripting language. The generalist LLMs, while trained on __Python__, __Typescript__ and other programming languages, would not have baked-in information about the custom scripting languge for web forms.
+For example - one of our customer companies develops a lab information management system that uses a scripting language to define web forms. The forms are used to manage lab processes in Biotech, Food Manufacturing, or Forensics. The AI Agent we developed employs an __external knowledge base__ (__Step 3__) to provide full documentation and examples for the scripting language. The generalist LLMs, while trained on __Python__, __Typescript__ and other programming languages, would not have baked-in information about the custom scripting language for web forms.
 
 __Windsurf__, __Cursor__, __Github Copilot__ also use a __tab-completion__ model, which employs a smaller, faster LLM acting directly in the editor buffer. __Claude Code__ does not have that feature.
 
@@ -107,7 +107,7 @@ Adopting a ready-made, battle tested __AI Agent Infrastructure__ that is __steer
 
 ## The AI Agent Infrastructure
 
-As of this writing, our go-to stack for agent creation is the [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) shell command, complemented by the [Claude Agent SDK](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk). Its advangates:
+As of this writing, our go-to stack for agent creation is the [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) shell command, complemented by the [Claude Agent SDK](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk). Its advantages:
 - A suite of powerful features like __CLAUDE.md__ customization, __subcommands__ for modular execution, __subagents__ for hierarchical delegation
 - __MCP server support__, which lets you seamlessly extend the agent, and steer it to solve the __task__ at hand.
 
