@@ -156,7 +156,7 @@ In __CLAUDE.md__, we specify how to approach the various custom problems the age
 
 ## The Claude Code Event Loop
 
-The __Claude Code__ agent itself has a baked-in event loop, which takes user input, file attachments and screenshots - puts __CLAUDE.md__ in context, determines its __ToDo__ tasks, and iterates through __MCP Server__ tools and other built-in tools to solve the task.
+The __Claude Code__ agent itself has a baked-in [event loop](https://blog.promptlayer.com/claude-code-behind-the-scenes-of-the-master-agent-loop/?utm_source=chatgpt.com), which takes user input, file attachments and screenshots - puts __CLAUDE.md__ in context, determines its __ToDo__ tasks, and iterates through __MCP Server__ tools and other built-in tools to solve the task.
 
 The user can interrupt the flow at any moment, and continue it with altered instructions.
 
