@@ -162,6 +162,67 @@ The user can interrupt the flow at any moment, and continue it with altered inst
 
 From there, the agent marches forward, step by step. It can go solo or pause for human nods, calling on more __MCP__ and __built-in tools__ as needed to create new files, edit existing ones, or query the knowledge base. 
 
+Here is pseudocode for the Claude Code event loop:
+
+```python
+initialize conversation_history = []  // Flat history for full traceability
+initialize todo_list = {}  // JSON-structured tasks with IDs, status (pending/completed), priorities
+initialize user_queue = []  // Async queue for user interjections mid-loop
+
+// System prompt includes reminders: "Reference TODO list for planning. Update via TodoWrite tool."
+
+function main_loop(user_prompt):
+    append_to_history(user_prompt)
+
+    while true:
+        model_response = call_model(conversation_history)  // Claude generates response with potential tool calls
+
+        if model_response contains tool_call:
+            tool_name, tool_args = extract_tool_call(model_response)
+
+            // Handle TODO tools for planning/persistence
+            if tool_name == "TodoWrite":
+                todo_list = update_todo_list(tool_args)  // Parse JSON, add/update tasks, mark completions
+                tool_result = "TODO updated: " + summarize_changes(todo_list)
+                append_to_history("TODO Update: " + tool_result)
+
+            elif tool_name == "Task":  // Sub-agent spawn (limited depth)
+                sub_result = spawn_sub_agent(tool_args)  // Parallel instance, single output
+                tool_result = sub_result
+                append_to_history("Sub-task Result: " + tool_result)
+
+            else:  // Standard tools (Read, Write, Bash, etc.)
+                tool_result = execute_tool(tool_name, tool_args)  // Sandboxed execution
+                append_to_history("Tool Result: " + tool_result)
+
+            // Check for user interjection
+            if user_queue not empty:
+                user_input = dequeue_user_queue()
+                append_to_history("User: " + user_input)  // Inject without reset, continue loop
+
+            // Compress history if nearing context limit
+            if len(conversation_history) > threshold:
+                conversation_history = compress_history(conversation_history)  // Summarize via model
+
+            // Safety: Log everything, run risk checks (e.g., Haiku for bash)
+            log_execution(tool_name, tool_result)
+
+        else:  // Plain text response, terminate loop
+            final_output = model_response
+            break
+
+    return final_output
+
+// Helper: Spawn sub-agent (recursive, max depth 1)
+function spawn_sub_agent(task_args):
+    sub_prompt = "Solve sub-task: " + task_args + "\nCurrent TODO: " + todo_list
+    return main_loop(sub_prompt)  // Limited by depth param
+
+// User interaction: Async enqueue
+function user_interject(input):
+    enqueue_user_queue(input)
+```
+
 ## Tuning the Agent through Evaluation
 
 Once the __infrastructure__ is stood up, the __knowledge base__ available, the __MCP server__ working, and the agent begins to be integrated in the larger application - you need to __tune__ the agent and __adapt__ it to the task at hand.
