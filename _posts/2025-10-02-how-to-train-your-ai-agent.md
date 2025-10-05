@@ -164,6 +164,9 @@ The user can interrupt the flow at any moment, and continue it with altered inst
 
 From there, the agent marches forward, step by step. It can go solo or pause for human nods, calling on more __MCP__ and __built-in tools__ as needed to create new files, edit existing ones, or query the knowledge base. 
 
+<img src="/assets/images/ai_agent_event_loop.png" alt="Claude Code Event Loop" style="width: 100%; height: auto;">
+
+
 Here is pseudocode for the Claude Code event loop:
 
 ```python
