@@ -19,8 +19,8 @@ Whether the AI agent is __fully autonomous__ or works with __human-in-the-loop__
 ## Examples: Windsurf, Cursor and Claude Code
 
 Let's start with some examples the reader may be familiar with: 
-* AI Editors like __Windsurf__, __Cursor__, __Github Copilot__
-* Command line tools like __Claude Code__. 
+* AI Editors like [__Windsurf__](https://windsurf.com/), [__Cursor__](https://cursor.com/), __Github Copilot__
+* Command line tools like [__Claude Code__](https://www.claude.com/product/claude-code). 
 
 The latter, __Claude Code__, also has a __VSCode__ extension by the same name.
 
