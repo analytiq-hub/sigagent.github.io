@@ -103,7 +103,7 @@ When it comes to building the agent, we separate out the __Infrastructure__ desi
 
 Adopting a ready-made, battle tested __AI Agent Infrastructure__ that is __steerable__ for your task will accelerate your AI Agent design.
 
-![Claude Code Online System Architecture](/assets/images/claude_code_online_system.png)
+![Claude Code Online System Architecture](/assets/images/ai_agent_online_system.png)
 
 ## The AI Agent Infrastructure
 
