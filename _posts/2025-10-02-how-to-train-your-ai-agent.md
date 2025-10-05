@@ -116,7 +116,7 @@ No agent is complete without a solid __knowledge base__, and without good __eval
 
 The Claude Agent SDK doesn't ship with either out of the box. You'll need to craft them yourself. 
 
-For the vector database powering the __knowledge base__, we've used __Pinecone__, prized for its straightforward SaaS model that gets you up and running quick. Pinecone documentation is also very accessible.
+For the vector database powering the __knowledge base__, we've used [__Pinecone__](https://www.pinecone.io/), prized for its straightforward SaaS model that gets you up and running quick. Pinecone [documentation](https://docs.pinecone.io/guides/get-started/overview) is also very accessible.
 
 That said, there are multiple Vector DB alternatives: __Weaviate__, __Qdrant__, or __ChromaDB__. Even traditional players like __Postgres__ or __MongoDB__ have jumped on the vector bandwagon, now offering built-in support for vector tables or collections.
 
