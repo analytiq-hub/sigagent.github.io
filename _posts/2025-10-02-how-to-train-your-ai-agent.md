@@ -129,7 +129,9 @@ To build the knowledge base, you need:
 - A __vector DB index__ in your DB of choice
 - An __indexing script__, that runs periodically, and uploads the knowledge base markdown files into the vector DB index, mapped through an __LLM embedding__.
 
-The lookup operation is what you'd expect - the chunk of text is mapped through the same __LLM embedding__, and looked up for __similarity__ with existing chunks in the vector db index - returning the most closely similar chunks from the __knowledge base__.
+<img src="/assets/images/indexing_flow.png" alt="Knowledge Base Indexing Flow" style="width: 100%; height: auto;">
+
+The lookup operation is what you'd expect - the searched text is mapped through the same __LLM embedding__, and looked up for __similarity__ with existing chunks in the vector db index - returning the most closely similar chunks from the __knowledge base__.
 
 ## Tuning AI Agent Actions via the MCP Server
 
