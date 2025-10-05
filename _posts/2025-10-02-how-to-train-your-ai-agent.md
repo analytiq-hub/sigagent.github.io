@@ -108,8 +108,9 @@ Adopting a ready-made, battle tested __AI Agent Infrastructure__ that is __steer
 ## The AI Agent Infrastructure
 
 As of this writing, our go-to stack for agent creation is the [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) shell command, complemented by the [Claude Agent SDK](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk). Its advantages:
-- A suite of powerful features like __CLAUDE.md__ customization, __subcommands__ for modular execution, __subagents__ for hierarchical delegation
+- A suite of powerful features like [__CLAUDE.md__](https://docs.claude.com/en/docs/claude-code/memory#claude-md-imports) customization, __subcommands__ for modular execution, __subagents__ for hierarchical delegation
 - __MCP server support__, which lets you seamlessly extend the agent, and steer it to solve the __task__ at hand.
+- Built-in [__prompt caching__](https://docs.claude.com/en/docs/build-with-claude/prompt-caching#how-prompt-caching-works), and discounted packaged price for utilization, when using a Claude subscription.
 
 No agent is complete without a solid __knowledge base__, and without good __evaluation infrastructure__.
 
