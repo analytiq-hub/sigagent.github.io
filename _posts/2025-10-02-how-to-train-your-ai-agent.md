@@ -22,7 +22,7 @@ Let's start with some examples the reader may be familiar with:
 * AI Editors like [__Windsurf__](https://windsurf.com/), [__Cursor__](https://cursor.com/), [__Github Copilot__](https://github.com/features/copilot)
 * Command line tools like [__Claude Code__](https://www.claude.com/product/claude-code). 
 
-The latter, __Claude Code__, also has a __VSCode__ extension by the same name.
+The latter, __Claude Code__, also has a [__VSCode__ extension](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) by the same name.
 
 In each case, the underlying AI agents are integrated with the text editor (our __Step 5__). 
 
