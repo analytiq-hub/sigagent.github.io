@@ -46,7 +46,7 @@ __Windsurf__, __Cursor__, __Github Copilot__ also use a __tab-completion__ model
 
 The approach each of these AI editors takes during their __coding task__ is proprietary, and slightly different (our __Step 2__). Each, however, supports extending its functionality through __MCP Server__ support, allowing the editor, for example, to read external Github repositories through __MCP__.
 
-Custom AI agents, however, need to implement their own __problem-solving mechanism__
+Custom AI agents, however, need to implement their own __problem-solving mechanism__.
 
 Evaluation for these AI editors is also proprietary (__Step 4__). Custom AI Agents would need their own evaluation infrastructure developed from scratch.
 
