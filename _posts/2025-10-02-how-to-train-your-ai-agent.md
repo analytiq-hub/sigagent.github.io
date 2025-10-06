@@ -54,9 +54,9 @@ But having the __tools__ and the __knowledge base__ is not sufficient. The agent
 
 The approach each of the AI editors takes to __steer__ their __coding task__ is proprietary, and slightly different. A lot of the steering is done through proprietary system prompts. Some have [reverse engineered these system prompts](https://beyondthehype.dev/p/inside-claude-code-prompt-engineering-masterpiece) through intercepting API calls - but, for the most part, they remain hidden.
 
-Each AI editor, however, supports extending the system prompt through a configuration file: CLAUDE.md for Claude Code, Cursor Rules for Cursor, Windsurf Rules for Windsurf. It is these configuration files - CLAUDE.md in particular - that will be used to steer our Custom AI Agent.
+Each AI editor, however, supports extending the system prompt through a configuration file: __CLAUDE.md__ for Claude Code, __Cursor Rules__ for Cursor,__Windsurf Rules__ for Windsurf. It is these configuration files - CLAUDE.md in particular - that will be used to __steer our Custom AI Agent__.
 
-Windsurf, Cursor, Github Copilot also use a tab-completion model, which employs a smaller, faster LLM acting directly in the editor buffer. Claude Code does not have that feature. 
+Windsurf, Cursor, Github Copilot also use a __tab-completion model__, which employs a smaller, faster LLM acting directly in the editor buffer. Claude Code does not have that feature. 
 
 Evaluation for these AI editors is also proprietary (__Step 4__). Custom AI Agents would need their own evaluation infrastructure developed from scratch.
 
