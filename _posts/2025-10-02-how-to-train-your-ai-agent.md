@@ -8,11 +8,12 @@ categories: [ai, programming, tutorials]
 ---
 
 Developing an AI agent comes down to a number of intertwined yet distinct challenges:
-1. Creating the __runtime infrastructure__ for the agent itself
-2. __Planning__: Making agent tackle the __specific problem__ you're aiming to solve
-3. Creating a __knowledge base__ the agent can use to inform its execution steps
-4. Setting up an __evaluation infrastructure__ to track progress and catch agent mistakes
-5. __Integrating__ the agent into the larger application
+1. Create the __runtime infrastructure__ for the agent itself
+2. Add __tools__ for the task
+3. __Planning__: Making agent tackle the __specific problem__ you're aiming to solve
+4. Create a __knowledge base__ the agent can use to inform its execution steps
+5. Set up an __evaluation infrastructure__ to track progress and catch agent mistakes
+6. __Integrate__ the agent into the larger application
 
 Whether the AI agent is __fully autonomous__ or works with __human-in-the-loop__ oversight, development includes roughly the steps outlined above. Each step calls for its own set of techniques and tools.
 
@@ -24,7 +25,7 @@ Let's start with some examples the reader may be familiar with:
 
 The latter, __Claude Code__, also has a [__VSCode__ extension](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) by the same name.
 
-In each case, the underlying AI agents are integrated with the text editor (our __Step 5__). 
+In each case, the underlying AI agents are integrated with the text editor (our __Step 6__). 
 
 While __Windsurf__, __Cursor__ and __Claude Code__ each have their own agent infrastructure (our __Step 1__), the latter, __Claude Code__ is different in that it is available as a [__command line tool__](https://docs.claude.com/en/docs/claude-code/quickstart) which can be executed standalone, in [interactive](https://docs.claude.com/en/docs/claude-code/interactive-mode) or [non-interactive mode](https://docs.claude.com/en/docs/claude-code/cli-reference?utm_source=chatgpt.com). 
 
@@ -40,7 +41,7 @@ While these agents do not technically require an external __knowledge base__ for
 
 Custom AI Agents, though, don't have all necessary knowledge baked into their LLM model - and often need an __external knowledge base__, adapted to their task (__Step 3__).
 
-For example - one of our customer companies develops a lab information management system that uses a scripting language to define web forms. The forms are used to manage lab processes in Biotech, Food Manufacturing, or Forensics. The AI Agent we developed employs an __external knowledge base__ (__Step 3__) to provide full documentation and examples for the scripting language. The generalist LLMs, while trained on __Python__, __Typescript__ and other programming languages, would not have baked-in information about the custom scripting language for web forms.
+For example - one of our customer companies develops a lab information management system that uses a scripting language to define web forms. The forms are used to manage lab processes in Biotech, Food Manufacturing, or Forensics. The AI Agent we developed employs an __external knowledge base__  to provide full documentation and examples for the scripting language. The generalist LLMs, while trained on __Python__, __Typescript__ and other programming languages, would not have baked-in information about the custom scripting language for web forms.
 
 Custom AI agents need to implement their own __external knowledge base__ and __problem-solving tools__. These are both integrated into the Agent using an __MCP Server__. 
 
@@ -50,7 +51,7 @@ Custom AI agents need to implement their own __external knowledge base__ and __p
 
 An __MCP Server__, thus, can be used to make your AI agent __act__ on your __specific tasks__, and to access your __external knowledge base__.
 
-But having the __tools__ and the __knowledge base__ is not sufficient. The agent must also be steered through __task planning__ (our __Step 2__).
+But having the __tools__ and the __knowledge base__ is not sufficient. The agent must also be steered through __task planning__ (our __Step 4__).
 
 The approach each of the AI editors takes to __steer__ their __coding task__ is proprietary, and slightly different. A lot of the steering is done through proprietary system prompts. Some have [reverse engineered these system prompts](https://beyondthehype.dev/p/inside-claude-code-prompt-engineering-masterpiece) through intercepting API calls - but, for the most part, they remain hidden.
 
@@ -58,7 +59,7 @@ Each AI editor, however, supports extending the system prompt through a configur
 
 Windsurf, Cursor, Github Copilot also use a __tab-completion model__, which employs a smaller, faster LLM acting directly in the editor buffer. Claude Code does not have that feature. 
 
-Evaluation for these AI editors is also proprietary (__Step 4__). Custom AI Agents would need their own evaluation infrastructure developed from scratch.
+Evaluation for these AI editors is also proprietary (__Step 5__). Custom AI Agents would need their own evaluation infrastructure developed from scratch.
 
 Here is a Comparison Table for the AI editors we described: 
 
