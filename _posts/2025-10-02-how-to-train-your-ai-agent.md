@@ -17,6 +17,8 @@ Developing an AI agent comes down to a number of intertwined yet distinct challe
 
 Whether the AI agent is __fully autonomous__ or works with __human-in-the-loop__ oversight, development includes roughly the steps outlined above. Each step calls for its own set of techniques and tools.
 
+![Steps To Develop An AI Agent](/assets/images/ai_agent_steps_to_develop.png)
+
 ## Examples: Windsurf, Cursor and Claude Code
 
 Let's start with some examples the reader may be familiar with: 
