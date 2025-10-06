@@ -42,11 +42,21 @@ Custom AI Agents, though, don't have all necessary knowledge baked into their LL
 
 For example - one of our customer companies develops a lab information management system that uses a scripting language to define web forms. The forms are used to manage lab processes in Biotech, Food Manufacturing, or Forensics. The AI Agent we developed employs an __external knowledge base__ (__Step 3__) to provide full documentation and examples for the scripting language. The generalist LLMs, while trained on __Python__, __Typescript__ and other programming languages, would not have baked-in information about the custom scripting language for web forms.
 
-__Windsurf__, __Cursor__, __Github Copilot__ also use a __tab-completion__ model, which employs a smaller, faster LLM acting directly in the editor buffer. __Claude Code__ does not have that feature.
+Custom AI agents need to implement their own __external knowledge base__ and __problem-solving tools__. These are both integrated into the Agent using an __MCP Server__. 
 
-The approach each of these AI editors takes during their __coding task__ is proprietary, and slightly different (our __Step 2__). Each, however, supports extending its functionality through __MCP Server__ support, allowing the editor, for example, to read external Github repositories through __MCP__.
+![Extending Claude Code](/assets/images/ai_agent_extending_claude_code.png)
 
-Custom AI agents, however, need to implement their own __problem-solving mechanism__.
+ __MCP__ support is already available in all AI Editors. The editors can act as __MCP Clients__, and can, for example, read external Github repositories through a __Github MCP Server__. Any MCP Server is supported.
+
+An __MCP Server__, thus, can be used to make your AI agent __act__ on your __specific tasks__, and to access your __external knowledge base__.
+
+But having the __tools__ and the __knowledge base__ is not sufficient. The agent must also be steered through __task planning__ (our __Step 2__).
+
+The approach each of the AI editors takes to __steer__ their __coding task__ is proprietary, and slightly different. A lot of the steering is done through proprietary system prompts. Some have [reverse engineered these system prompts](https://beyondthehype.dev/p/inside-claude-code-prompt-engineering-masterpiece) through intercepting API calls - but, for the most part, they remain hidden.
+
+Each AI editor, however, supports extending the system prompt through a configuration file: CLAUDE.md for Claude Code, Cursor Rules for Cursor, Windsurf Rules for Windsurf. It is these configuration files - CLAUDE.md in particular - that will be used to steer our Custom AI Agent.
+
+Windsurf, Cursor, Github Copilot also use a tab-completion model, which employs a smaller, faster LLM acting directly in the editor buffer. Claude Code does not have that feature. 
 
 Evaluation for these AI editors is also proprietary (__Step 4__). Custom AI Agents would need their own evaluation infrastructure developed from scratch.
 
