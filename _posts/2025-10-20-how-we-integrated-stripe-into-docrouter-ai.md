@@ -155,6 +155,10 @@ session = stripe.checkout.Session.create(
 )
 ```
 
+<div class="flex justify-center my-4">
+  <img src="/assets/images/stripe_payment_portal.png" alt="Stripe Payment Portal">
+</div>
+
 Users are redirected to Stripe's hosted checkout page—we never see their credit card details. Stripe handles all payment security.
 
 ### Managing Subscriptions
