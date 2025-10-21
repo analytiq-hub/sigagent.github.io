@@ -39,12 +39,30 @@ We want users to start free, upgrade to plans, and be able to buy extra credits 
 
 New orgs get 100 granted SPUs (no card needed). Additional credits can be purchased. Users can subscribe to an __Individual__ or __Team__ plan, at a discount over the a-la-carte credits price. Or, they can select the __Enterprise__ plan, which is invoiced outside of Stripe.
 
+## Prices for large vs. small customers
+
 The __business__ challenge here is for the pricing scheme to be flexible enough to accommodate large __enterprise__ usage, at custom prices - while also allowing __self-onboarded__ customers. 
 
 Consumption waterfall: allowance first, then purchased, then granted. Keeps costs low for light users, upsell for heavy ones.
 
 The prices need to be in line with what is usually charged for document AI processing - while also capturing the value of more advanced, custom document workflows.
 
+## Price changing flexibility
+
 The __engineering__ challenge is, on the other hand, in how to create this pricing structure in __Stripe__, and ensure the variable part of the config (amounts, utilization thresholds) resides in __Stripe__ configuration rather than local __DocRouter.AI__ code. 
 
 Updating amounts or utilization thresholds at a later time should not require coding changes in DocRouter.AI. These updates should be possible by merely chaging price configuration in __Stripe__.
+
+Pricing updates, however, does not impact existing customers.
+
+How does it all work?
+
+## The Stripe Product and Price metadata
+
+We use Product and Price __metadata__ in __Stripe__:
+- We create a Stripe __DocRouter Product__ 
+![DocRouter Price](/assets/images/stripe_price.png)
+
+- And we assign it a `product=doc_router` key/value in the __price metadata__. The __DocRouter.AI__ software detects the product using the Stripe Python API, filtering all products to find specifically the one with this key/value.
+![DocRouter Price Metadata](/assets/images/stripe_price_metadata.png)
+
