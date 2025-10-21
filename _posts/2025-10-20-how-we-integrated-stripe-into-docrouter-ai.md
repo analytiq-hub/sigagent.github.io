@@ -137,3 +137,178 @@ prices = await _run_in_threadpool(
 ```
 
 The wrapper runs the synchronous `stripe.Price.list()` in a separate thread, keeping our async FastAPI endpoints responsive.
+
+## Stripe Checkout and Billing Portal
+
+### Purchasing Credits
+
+When users buy a-la-carte credits, we create a Stripe Checkout session:
+
+```python
+session = stripe.checkout.Session.create(
+    customer=stripe_customer_id,
+    payment_method_types=['card'],
+    line_items=[{...}],
+    success_url=success_url,
+    cancel_url=cancel_url,
+    metadata={'org_id': org_id, 'credits': credits}
+)
+```
+
+Users are redirected to Stripe's hosted checkout page—we never see their credit card details. Stripe handles all payment security.
+
+### Managing Subscriptions
+
+For subscription management, we use Stripe's Billing Portal:
+
+```python
+session = stripe.billing_portal.Session.create(
+    customer=stripe_customer_id,
+    return_url=return_url
+)
+```
+
+The portal lets users update payment methods, view invoices, and cancel subscriptions—all handled by Stripe.
+
+## Webhooks and Synchronization
+
+### Webhook Events
+
+Stripe sends webhooks for important events. We verify and process them:
+
+```python
+event = stripe.Webhook.construct_event(
+    payload,
+    signature_header,
+    webhook_secret
+)
+```
+
+Key events we handle:
+- `checkout.session.completed` - Add purchased credits
+- `customer.subscription.updated` - Sync subscription changes
+- `customer.subscription.deleted` - Clear subscription data
+- `invoice.payment_succeeded` - Record successful payments
+
+### Idempotency
+
+To prevent double-crediting, we track processed transactions:
+
+```python
+# Check if already processed
+existing = await db.payments_credit_transactions.find_one(
+    {"session_id": session_id}
+)
+if existing:
+    return  # Already processed
+
+# Process and record
+await db.payments_credit_transactions.insert_one({
+    "session_id": session_id,
+    "org_id": org_id,
+    "credits": credits,
+    "processed_at": datetime.utcnow()
+})
+```
+
+### Customer Synchronization
+
+On startup and via webhooks, we sync Stripe data to MongoDB. This keeps local data fresh without constant API calls.
+
+## MongoDB Schema
+
+We store payment data in MongoDB collections:
+
+**`payments_customers`** - One document per organization:
+```javascript
+{
+  org_id: "...",
+  user_id: "...",
+  stripe_customer_id: "cus_...",
+  user_name: "...",
+  user_email: "...",
+
+  // Subscription fields
+  subscription_type: "individual" | "team" | "enterprise",
+  subscription_spu_allowance: 5000,
+  subscription_spus_used: 1234,  // Reset each billing period
+  stripe_subscription_id: "sub_...",
+  stripe_subscription_item_id: "si_...",
+  stripe_subscription_status: "active",
+  stripe_current_billing_period_start: 1234567890,
+  stripe_current_billing_period_end: 1237246290,
+
+  // Credit fields
+  purchased_credits: 10000,
+  purchased_credits_used: 5000,
+  granted_credits: 100,
+  granted_credits_used: 50,
+
+  // Metadata
+  created_at: ISODate(...),
+  updated_at: ISODate(...),
+  subscription_updated_at: ISODate(...)
+}
+```
+
+**Note on Billing Periods**: Subscription SPU usage (`subscription_spus_used`) is reset each billing period. When recording usage, we check if the current period from Stripe differs from the stored period. If it does, we atomically reset the usage counter:
+
+```python
+if should_reset_billing_period(customer, new_period_start):
+    await db.payments_customers.update_one(
+        {"_id": customer_id},
+        {"$set": {
+            "stripe_current_billing_period_start": new_period_start,
+            "stripe_current_billing_period_end": new_period_end,
+            "subscription_spus_used": 0  # Fresh allowance for new period
+        }}
+    )
+```
+
+Subscription allowances renew monthly. Purchased and granted credits persist until consumed.
+
+**`payments_credit_transactions`** - Audit trail for credit purchases:
+```javascript
+{
+  session_id: "cs_...",
+  org_id: "...",
+  credits: 1000,
+  processed_at: ISODate(...)
+}
+```
+
+## Recording SPU Usage
+
+When LLM calls are made, we increment SPU usage:
+
+```python
+async def record_payment_usage(org_id, spus):
+    # Consumption order: subscription → purchased → granted
+    balances = await get_current_balances(db, org_id)
+    consumption = calculate_consumption_breakdown(spus, balances)
+
+    # Update balances atomically
+    await update_customer_balances(db, customer_id, consumption)
+
+    # Save usage record
+    await save_complete_usage_record(db, org_id, spus, consumption)
+```
+
+The consumption waterfall ensures subscription credits are used first, then purchased, then granted.
+
+## Displaying Usage
+
+Users view their credit utilization on the usage page. We query MongoDB:
+
+```python
+customer = await db.payments_customers.find_one({"org_id": org_id})
+
+return {
+    "subscription_allowance": customer["subscription_spu_allowance"],
+    "subscription_used": customer["subscription_spus_used"],
+    "purchased_remaining": customer["purchased_credits"] - customer["purchased_credits_used"],
+    "granted_remaining": customer["granted_credits"] - customer["granted_credits_used"]
+}
+```
+
+All data comes from MongoDB—no Stripe API calls needed for viewing usage, keeping the UI fast.
