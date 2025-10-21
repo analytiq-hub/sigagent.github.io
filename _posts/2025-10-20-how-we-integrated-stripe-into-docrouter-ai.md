@@ -194,30 +194,9 @@ Key events we handle:
 - `customer.subscription.deleted` - Clear subscription data
 - `invoice.payment_succeeded` - Record successful payments
 
-### Idempotency
+To prevent double-crediting, we track processed transactions in the `db.payments_credit_transactions` collection.
 
-To prevent double-crediting, we track processed transactions:
-
-```python
-# Check if already processed
-existing = await db.payments_credit_transactions.find_one(
-    {"session_id": session_id}
-)
-if existing:
-    return  # Already processed
-
-# Process and record
-await db.payments_credit_transactions.insert_one({
-    "session_id": session_id,
-    "org_id": org_id,
-    "credits": credits,
-    "processed_at": datetime.utcnow()
-})
-```
-
-### Customer Synchronization
-
-On startup and via webhooks, we sync Stripe data to MongoDB. This keeps local data fresh without constant API calls.
+On startup and via webhooks, we sync __Stripe__ data to __MongoDB__. This keeps local data fresh without constant API calls.
 
 ## MongoDB Schema
 
@@ -255,21 +234,7 @@ We store payment data in MongoDB collections:
 }
 ```
 
-**Note on Billing Periods**: Subscription SPU usage (`subscription_spus_used`) is reset each billing period. When recording usage, we check if the current period from Stripe differs from the stored period. If it does, we atomically reset the usage counter:
-
-```python
-if should_reset_billing_period(customer, new_period_start):
-    await db.payments_customers.update_one(
-        {"_id": customer_id},
-        {"$set": {
-            "stripe_current_billing_period_start": new_period_start,
-            "stripe_current_billing_period_end": new_period_end,
-            "subscription_spus_used": 0  # Fresh allowance for new period
-        }}
-    )
-```
-
-Subscription allowances renew monthly. Purchased and granted credits persist until consumed.
+Subscription SPU usage (`subscription_spus_used`) is atomically reset each billing period. Subscription allowances renew monthly. Purchased and granted credits persist until consumed.
 
 **`payments_credit_transactions`** - Audit trail for credit purchases:
 ```javascript
