@@ -281,7 +281,7 @@ Subscription allowances renew monthly. Purchased and granted credits persist unt
 }
 ```
 
-## Recording SPU Usage
+## Tracking SPU Usage
 
 When LLM calls are made, we increment SPU usage:
 
@@ -300,19 +300,4 @@ async def record_payment_usage(org_id, spus):
 
 The consumption waterfall ensures subscription credits are used first, then purchased, then granted.
 
-## Displaying Usage
-
-Users view their credit utilization on the usage page. We query MongoDB:
-
-```python
-customer = await db.payments_customers.find_one({"org_id": org_id})
-
-return {
-    "subscription_allowance": customer["subscription_spu_allowance"],
-    "subscription_used": customer["subscription_spus_used"],
-    "purchased_remaining": customer["purchased_credits"] - customer["purchased_credits_used"],
-    "granted_remaining": customer["granted_credits"] - customer["granted_credits_used"]
-}
-```
-
-All data comes from MongoDB—no Stripe API calls needed for viewing usage, keeping the UI fast.
+Users view their credit utilization on the usage page. All data comes from MongoDB — no Stripe API calls needed to track usage, keeping the UI fast.
