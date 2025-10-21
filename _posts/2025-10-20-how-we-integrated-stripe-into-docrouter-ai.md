@@ -77,3 +77,63 @@ __Stripe__ uses the following 'objects': __Products__, __Prices__ (multiple per 
 </div>
 
 The DocRouter.AI detects the prices and the tier limits from the metadata.
+
+## Python APIs for Retrieving Products and Prices
+
+DocRouter.AI uses the Stripe Python SDK to dynamically fetch pricing configuration at startup. Here's how:
+
+### Retrieving All Prices with Product Data
+
+```python
+prices = stripe.Price.list(active=True, expand=['data.product'])
+```
+
+The `expand=['data.product']` parameter loads the full product object (including metadata) alongside each price in a single API call.
+
+### Filtering by Product Metadata
+
+```python
+product_prices = [
+    price for price in prices.data
+    if price.product.metadata.get('product') == 'doc_router'
+]
+```
+
+This filters prices to only those belonging to our DocRouter product.
+
+### Parsing Price Metadata
+
+```python
+for price in product_prices:
+    metadata = price.metadata
+    price_type = metadata.get('price_type')
+
+    if price_type == 'base':
+        tier = metadata.get('tier')
+        included_spus = metadata.get('included_spus')
+        # Store tier limits for subscription plans
+```
+
+All pricing configuration lives in Stripe—we can update prices and tier limits without code changes.
+
+### Wrapping Stripe APIs for Async
+
+Since DocRouter.AI uses FastAPI (an async framework), we wrap Stripe's synchronous API calls to run in a thread pool:
+
+```python
+async def _run_in_threadpool(func, *args, **kwargs):
+    loop = asyncio.get_event_loop()
+    return await loop.run_in_executor(None, partial(func, *args, **kwargs))
+```
+
+This prevents blocking the event loop. In practice, we call:
+
+```python
+prices = await _run_in_threadpool(
+    stripe.Price.list,
+    active=True,
+    expand=['data.product']
+)
+```
+
+The wrapper runs the synchronous `stripe.Price.list()` in a separate thread, keeping our async FastAPI endpoints responsive.
