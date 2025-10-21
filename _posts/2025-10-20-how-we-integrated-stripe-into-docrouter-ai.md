@@ -8,6 +8,22 @@ categories: [tech, programming, ai, tutorials]
 
 At [DocRouter.AI](http://docrouter.ai), we build an AI app for processing documents using LLMs. As our user base grew, we needed a reliable way to handle billing. This post explains our Stripe integration, focusing on key design choices. We'll cover why we chose Stripe, how we keep things flexible, pricing decisions, APIs used, and more.
 
+## Table of Contents
+
+- [Why Use Stripe?](#why-use-stripe)
+- [DocRouter.AI Components](#docrouterai-components)
+- [Free Tier, Plans, and A-La-Carte Credits](#free-tier-plans-and-a-la-carte-credits)
+- [Prices for Large vs. Small Customers](#prices-for-large-vs-small-customers)
+- [Price Changing Flexibility](#price-changing-flexibility)
+- [The Stripe Product and Price Metadata](#the-stripe-product-and-price-metadata)
+- [Python APIs for Retrieving Products and Prices](#python-apis-for-retrieving-products-and-prices)
+- [Stripe Checkout and Billing Portal](#stripe-checkout-and-billing-portal)
+- [Webhooks and Synchronization](#webhooks-and-synchronization)
+- [MongoDB Schema](#mongodb-schema)
+- [Tracking SPU Usage](#tracking-spu-usage)
+- [Environment Variables](#environment-variables)
+- [Development and Testing with Stripe](#development-and-testing-with-stripe)
+
 ## Why Use Stripe?
 
 Stripe handles payments securely and scales with our app. It supports __subscriptions__ for recurring plans, __one-time charges__ for credits, and __webhooks__ for real-time updates.
