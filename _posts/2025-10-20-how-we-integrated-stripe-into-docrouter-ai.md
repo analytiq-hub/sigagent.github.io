@@ -190,6 +190,10 @@ session = stripe.billing_portal.Session.create(
 
 The portal lets users update payment methods, view invoices, and cancel subscriptions—all handled by Stripe.
 
+<div class="flex justify-center my-4">
+  <img src="/assets/images/stripe_doc_router_diagram.png" alt="Stripe DocRouter.AI Diagram">
+</div>
+
 ## Webhooks and Synchronization
 
 Stripe sends webhooks for important events. We verify and process them:
