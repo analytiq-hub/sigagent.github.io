@@ -295,3 +295,25 @@ Three Stripe-related environment variables configure the integration:
 **`STRIPE_PRODUCT_TAG`** - The product identifier in metadata (default: `"doc_router"`). Allows filtering prices to find only those belonging to your product.
 
 If `STRIPE_SECRET_KEY` is not set, Stripe integration is disabled and DocRouter operates in local-only mode.
+
+## Development and Testing with Stripe
+
+Stripe provides separate test and production environments. During development, we use **test mode** keys:
+
+```bash
+# .env for development
+STRIPE_SECRET_KEY=sk_test_...
+STRIPE_PUBLISHABLE_KEY=pk_test_...
+STRIPE_WEBHOOK_SECRET=whsec_...
+```
+
+Test mode keys (`sk_test_*`) access a completely separate sandbox with its own customers, subscriptions, and products. You can:
+
+- Create test products and prices in the Stripe Dashboard
+- Use test credit cards (like `4242 4242 4242 4242`) for checkout
+- Trigger webhooks manually to test event handling
+- View all transactions without affecting production data
+
+For production, swap to live keys (`sk_live_*`). The same code works in both modes—Stripe automatically routes API calls to the correct environment based on the key prefix.
+
+This separation lets us develop and debug payment flows safely without risking real customer data or charges.
