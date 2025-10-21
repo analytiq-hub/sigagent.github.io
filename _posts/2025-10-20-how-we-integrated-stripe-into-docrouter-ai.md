@@ -66,3 +66,10 @@ We use Product and Price __metadata__ in __Stripe__:
 - And we assign it a `product=doc_router` key/value in the __price metadata__. The __DocRouter.AI__ software detects the product using the Stripe Python API, filtering all products to find specifically the one with this key/value.
 ![DocRouter Price Metadata](/assets/images/stripe_price_metadata.png)
 
+__Stripe__ uses the following 'objects': __Products__, __Prices__ (multiple per product), __Users__ (one per customer), and __Subscriptions__ (each with one or more __Prices__.
+
+- We create two _recurring_ __Prices__ we'll use for monthly subscriptions: the __Individual Price__, and the __Team Price__. We again use _metadata_ to auto-detect the prices:
+  - The __Individual Price__ has metadata __included_spus=5000__, __price_type=base__, __tier=individual__.
+  - The __Team Price__ has __included_spus=25000__, __price_type=base__, __tier=team__
+
+The DocRouter.AI detects the prices and the tier limits from the metadata.
