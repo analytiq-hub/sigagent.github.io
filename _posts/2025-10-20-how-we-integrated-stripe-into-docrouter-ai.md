@@ -72,6 +72,8 @@ __Stripe__ uses the following 'objects': __Products__, __Prices__ (multiple per 
   - The __Individual Price__ has metadata __included_spus=5000__, __price_type=base__, __tier=individual__.
   - The __Team Price__ has __included_spus=25000__, __price_type=base__, __tier=team__
 
-![DocRouter Price Metadata](/assets/images/stripe_price_metadata.png)
+<div class="flex justify-center my-4">
+  <img src="/assets/images/stripe_price_metadata.png" alt="DocRouter Price Metadata" class="w-1/2">
+</div>
 
 The DocRouter.AI detects the prices and the tier limits from the metadata.
