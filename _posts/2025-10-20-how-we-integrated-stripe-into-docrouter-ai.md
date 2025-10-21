@@ -19,7 +19,7 @@ As long as the credit units are tied to predictable units of operation - for exa
 Stripe reduces fraud risks with built-in tools like Radar and handles global currencies/taxes. For an AI app with variable usage, it's essential — manual billing would be error-prone and slow.
 
 ## [DocRouter.AI](http://docrouter.ai) components
-Our front end is __Next.js__, with user authentication implemented through __Next.auth__. Our back end is __Fast API__. The database is __MongoDB__. 
+Our front end is __Next.JS__, with user authentication implemented through __Next.Auth__. Our back end is __Fast API__. The database is __MongoDB__. 
 
 DocRouter [supports __MCP__](https://docrouter.ai/docs/mcp/), and agentic __Claude Code__ integration - allowing document workflows to be controlled through a simple chat interface.
 
@@ -31,13 +31,15 @@ However, use tracking has to be automated, and the customer needs to be charged 
 
 Stripe integration is, thus, an essential ingredient in making this kind of programmatic integration possible.
 
-## Keeping It Flexible: Free Tier, Plans, and A-La-Carte Credits
+## Free Tier, Plans, and A-La-Carte Credits
 
 We want users to start free, upgrade to plans, and be able to buy extra credits without friction. Here's how:
 
 - **Free Tier**: New orgs get 100 granted SPUs (no card needed). Limits checked locally in MongoDB—`check_payment_limits` blocks ops if exceeded, raising a `402` error.
-- **Plans**: Monthly subs via Stripe (Individual: $10 for 1,000 SPUs; Team: $99 for 10,000). Enterprise is unlimited/custom, handled locally without Stripe.
-- **A-La-Carte Credits**: Users buy 10–10,000 SPUs ($0.001 each) as one-time Checkout sessions. Credits add to `purchased_credits` on success.
+- **Individual Plan**: $250/month for 5,000 SPUs ($0.05 per SPU) with basic document processing. Additional SPUs at $0.05 each.
+- **Team Plan**: $1,000/month for 25,000 SPUs ($0.04 per SPU) with advanced document processing and team collaboration features. Additional SPUs at $0.05 each.
+- **Enterprise Plan**: Custom pricing with dedicated support and custom document processing. Contact sales for details.
+- **A-La-Carte Credits**: Users can purchase additional SPUs beyond their plan allowance as one-time Checkout sessions. Credits add to `purchased_credits` on success.
 
 This mix uses Stripe for revenue capture but local tracking for instant checks. Consumption waterfall: allowance first, then purchased, then granted. Keeps costs low for light users, upsell for heavy ones.
 
