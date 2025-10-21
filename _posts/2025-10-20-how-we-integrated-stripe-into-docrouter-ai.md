@@ -283,3 +283,15 @@ async def record_payment_usage(org_id, spus):
 The consumption waterfall ensures subscription credits are used first, then purchased, then granted.
 
 Users view their credit utilization on the usage page. All data comes from MongoDB — no Stripe API calls needed to track usage, keeping the UI fast.
+
+## Environment Variables
+
+Three Stripe-related environment variables configure the integration:
+
+**`STRIPE_SECRET_KEY`** - Your Stripe API key for authentication. Required to enable Stripe integration.
+
+**`STRIPE_WEBHOOK_SECRET`** - Secret for verifying webhook signatures. Ensures webhook events are legitimate and not forged.
+
+**`STRIPE_PRODUCT_TAG`** - The product identifier in metadata (default: `"doc_router"`). Allows filtering prices to find only those belonging to your product.
+
+If `STRIPE_SECRET_KEY` is not set, Stripe integration is disabled and DocRouter operates in local-only mode.
