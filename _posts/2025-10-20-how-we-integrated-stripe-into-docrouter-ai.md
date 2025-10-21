@@ -192,8 +192,6 @@ The portal lets users update payment methods, view invoices, and cancel subscrip
 
 ## Webhooks and Synchronization
 
-### Webhook Events
-
 Stripe sends webhooks for important events. We verify and process them:
 
 ```python
