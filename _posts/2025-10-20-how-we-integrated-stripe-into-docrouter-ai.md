@@ -2,6 +2,7 @@
 layout: post
 title: "How We Integrated Stripe Into DocRouter.AI"
 date: 2025-10-20 00:00:00 +0000
+image: /assets/images/how_to_integrate_stripe.png
 categories: [tech, programming, ai, tutorials]
 ---
 
