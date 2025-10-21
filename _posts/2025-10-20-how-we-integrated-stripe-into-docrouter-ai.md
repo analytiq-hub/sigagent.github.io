@@ -317,8 +317,8 @@ Stripe provides separate test and production environments. During development, w
 ```bash
 # .env for development
 STRIPE_SECRET_KEY=sk_test_...
-STRIPE_PUBLISHABLE_KEY=pk_test_...
 STRIPE_WEBHOOK_SECRET=whsec_...
+STRIPE_PRODUCT_TAG=doc_router
 ```
 
 Test mode keys (`sk_test_*`) access a completely separate sandbox with its own customers, subscriptions, and products. You can:
@@ -331,3 +331,4 @@ Test mode keys (`sk_test_*`) access a completely separate sandbox with its own c
 For production, swap to live keys (`sk_live_*`). The same code works in both modes—Stripe automatically routes API calls to the correct environment based on the key prefix.
 
 This separation lets us develop and debug payment flows safely without risking real customer data or charges.
+
