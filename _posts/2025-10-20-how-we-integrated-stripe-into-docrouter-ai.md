@@ -35,18 +35,16 @@ Stripe integration is, thus, an essential ingredient in making this kind of prog
 
 We want users to start free, upgrade to plans, and be able to buy extra credits without friction. Here's how:
 
-- **Free Tier**: New orgs get 100 granted SPUs (no card needed). Limits checked locally in MongoDB—`check_payment_limits` blocks ops if exceeded, raising a `402` error.
-- **Individual Plan**: $250/month for 5,000 SPUs ($0.05 per SPU) with basic document processing. Additional SPUs at $0.05 each.
-- **Team Plan**: $1,000/month for 25,000 SPUs ($0.04 per SPU) with advanced document processing and team collaboration features. Additional SPUs at $0.05 each.
-- **Enterprise Plan**: Custom pricing with dedicated support and custom document processing. Contact sales for details.
-- **A-La-Carte Credits**: Users can purchase additional SPUs beyond their plan allowance as one-time Checkout sessions. Credits add to `purchased_credits` on success.
+![DocRouter Pricing Plans](/assets/images/docrouter_pricing.png)
 
-This mix uses Stripe for revenue capture but local tracking for instant checks. Consumption waterfall: allowance first, then purchased, then granted. Keeps costs low for light users, upsell for heavy ones.
+New orgs get 100 granted SPUs (no card needed). Additional credits can be purchased. Users can subscribe to an __Individual__ or __Team__ plan, at a discount over the a-la-carte credits price. Or, they can select the __Enterprise__ plan, which is invoiced outside of Stripe.
 
-## How We Came Up With Pricing
+The __business__ challenge here is for the pricing scheme to be flexible enough to accommodate large __enterprise__ usage, at custom prices - while also allowing __self-onboarded__ customers. 
 
-Pricing was trial-and-error. We ran scenarios in Grok.com (xAI's tool) to model revenue at different SPU rates—e.g., $0.001/SPU vs. $0.005, projecting churn at 5–20% usage thresholds. Grok helped simulate 1,000-user cohorts over 12 months.
+Consumption waterfall: allowance first, then purchased, then granted. Keeps costs low for light users, upsell for heavy ones.
 
-We also benchmarked competitors in AI document processing:
+The prices need to be in line with what is usually charged for document AI processing - while also capturing the value of more advanced, custom document workflows.
 
-- **Docparser**: Starter $39/mo for ~300 docs (effective ~$0.13/doc).
+The __engineering__ challenge is, on the other hand, in how to create this pricing structure in __Stripe__, and ensure the variable part of the config (amounts, utilization thresholds) resides in __Stripe__ configuration rather than local __DocRouter.AI__ code. 
+
+Updating amounts or utilization thresholds at a later time should not require coding changes in DocRouter.AI. These updates should be possible by merely chaging price configuration in __Stripe__.
