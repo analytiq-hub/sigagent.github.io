@@ -246,6 +246,23 @@ Subscription SPU usage (`subscription_spus_used`) is atomically reset each billi
 }
 ```
 
+**`payments_usage_records`** - Log of all SPU usage:
+```javascript
+{
+  org_id: "...",
+  spus: 42,
+  operation: "document_processing",
+  source: "backend",
+  timestamp: ISODate(...),
+  llm_provider: "anthropic",
+  llm_model: "claude-3-5-sonnet-20241022",
+  prompt_tokens: 1234,
+  completion_tokens: 567,
+  total_tokens: 1801,
+  actual_cost: 0.023
+}
+```
+
 ## Tracking SPU Usage
 
 When LLM calls are made, we increment SPU usage:
