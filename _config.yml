@@ -64,13 +64,15 @@ header_pages:
       - title: "Analytics"
         url: "/analytics"
   - title: "Documentation"
-    url: "/docs"
+    url: "/docs/documentation"
+  - title: "Talks"
+    url: "/talks"
   - title: "Blog"
     url: "/blog"
   - title: "About"
     url: "/about"
   - title: "Get Started"
-    url: "/contact"
+    url: "https://app.sigagent.ai"
     button_style: "solid"
 
 # Footer sitemap - simplified navigation for footer display
@@ -88,7 +90,9 @@ site_map:
   - title: "Resources"
     links:
       - title: "Documentation"
-        url: "/docs"
+        url: "/docs/documentation"
+      - title: "Talks"
+        url: "/talks"
       - title: "Blog"
         url: "/blog"
 

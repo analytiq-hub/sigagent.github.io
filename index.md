@@ -10,8 +10,15 @@ title: "SigAgent.AI - Claude Agent Monitoring & Telemetry"
         <div class="text-xl md:text-2xl text-gray-600 mb-8">
             <p class="mb-4">Real-time telemetry, analytics, and performance monitoring for your AI agents</p>
         </div>
-        <div class="flex justify-center items-center">
-            <a href="/contact/" class="inline-block bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-200 shadow-lg hover:shadow-xl">
+        <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+            <a href="https://app.sigagent.ai"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="inline-block bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-colors duration-200 border-2 border-transparent">
+                Launch Application
+            </a>
+            <a href="/contact/"
+               class="inline-block border-2 border-blue-600 text-blue-600 hover:bg-blue-50 px-8 py-4 rounded-lg font-semibold text-lg transition-colors duration-200">
                 Get Started Free
             </a>
         </div>
@@ -49,7 +56,7 @@ title: "SigAgent.AI - Claude Agent Monitoring & Telemetry"
                     </div>
                 </div>
                 <div class="text-center mt-6">
-                    <a href="/contact/" class="text-blue-600 hover:text-blue-800 font-medium">Get Started Today →</a>
+                    <a href="https://app.sigagent.ai" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 font-medium">Get Started Today →</a>
                 </div>
             </div>
         </section>
