@@ -58,37 +58,6 @@ title: "SigAgent.AI Documentation"
             </div>
         </section>
 
-        <!-- Features Section -->
-        <section class="bg-white rounded-lg shadow-lg p-8 mb-8">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-6">Key Features</h2>
-            <div class="grid md:grid-cols-2 gap-8">
-                <div>
-                    <h3 class="text-xl font-medium text-gray-900 mb-3">Real-time Telemetry</h3>
-                    <p class="text-gray-600 mb-4">
-                        Collect and monitor performance metrics from your Claude Agents in real-time with comprehensive analytics.
-                    </p>
-                </div>
-                <div>
-                    <h3 class="text-xl font-medium text-gray-900 mb-3">OTLP Integration</h3>
-                    <p class="text-gray-600 mb-4">
-                        Seamless integration using OpenTelemetry Protocol for data export and analysis with existing systems.
-                    </p>
-                </div>
-                <div>
-                    <h3 class="text-xl font-medium text-gray-900 mb-3">Secure Authentication</h3>
-                    <p class="text-gray-600 mb-4">
-                        Enterprise-grade security with organization access tokens and data encryption.
-                    </p>
-                </div>
-                <div>
-                    <h3 class="text-xl font-medium text-gray-900 mb-3">Free Tier</h3>
-                    <p class="text-gray-600 mb-4">
-                        Get started for free with no credit card required. Start monitoring immediately.
-                    </p>
-                </div>
-            </div>
-        </section>
-
         <!-- Getting Started Section -->
         <section class="bg-blue-50 rounded-lg p-8 mb-8">
             <h2 class="text-3xl font-semibold text-gray-900 mb-6">Getting Started</h2>
