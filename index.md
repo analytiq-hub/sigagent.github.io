@@ -1,136 +1,165 @@
 ---
 layout: default
-title: "Analytiq Hub - Data+AI Solutions"
+title: "SigAgent.AI - Claude Agent Monitoring & Telemetry"
 ---
 
 <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
     <!-- Hero Section -->
     <header class="text-center md:mb-12 mb-8">
-        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">From Zero to <span class="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Scale</span>: AI Solutions That Actually Work</h1>
+        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Advanced <span class="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Monitoring</span> for Claude Agents</h1>
         <div class="text-xl md:text-2xl text-gray-600 mb-8">
-            <p class="mb-4">Specialized expertise for biotech, healthtech, and regulated industries</p>
+            <p class="mb-4">Real-time telemetry, analytics, and performance monitoring for your AI agents</p>
         </div>
         <div class="flex justify-center items-center">
             <a href="/contact/" class="inline-block bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-200 shadow-lg hover:shadow-xl">
-                Contact Us
+                Get Started Free
             </a>
         </div>
     </header>
 
     <main>
-        <!-- Success Stories Section -->
+        <!-- Key Features Section -->
         <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-6 text-center">Success Stories</h2>
+            <h2 class="text-3xl font-semibold text-gray-900 mb-6 text-center">Key Features</h2>
             <div class="max-w-3xl mx-auto text-center">
                 <p class="text-lg text-gray-600 mb-6">
-                    See how we've helped businesses like yours streamline operations with AI
+                    Comprehensive monitoring and telemetry platform designed specifically for Claude Agents
                 </p>
                 <div class="grid md:grid-cols-3 gap-8">
-                    {% include case-study-card.html 
-                        title="Healthcare Automation That Delivers ROI" 
-                        description="How we built a zero-to-ten DME automation platform that enabled 4x team growth" 
-                        url="/case-studies/dme/" %}
-                    
-                    {% include case-study-card.html 
-                        title="Epic EHR Integration That Reduces Errors" 
-                        description="Zero-touch Epic automation reducing processing time by 90% while ensuring 100% compliance" 
-                        url="/case-studies/epic_dme_order_processing/" %}
-                    
-                    {% include case-study-card.html 
-                        title="Insurance Automation That Reduces Manual Work" 
-                        description="AI-powered submission processing reducing manual work by 75%" 
-                        url="/case-studies/insurance_wholesaler/" %}
+                    <div class="text-center">
+                        <div class="bg-blue-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
+                            <span class="text-2xl">📊</span>
+                        </div>
+                        <h3 class="text-xl font-medium text-gray-900 mb-2">Real-time Telemetry</h3>
+                        <p class="text-gray-600">Collect and monitor performance metrics from your Claude Agents in real-time</p>
+                    </div>
+                    <div class="text-center">
+                        <div class="bg-blue-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
+                            <span class="text-2xl">🔍</span>
+                        </div>
+                        <h3 class="text-xl font-medium text-gray-900 mb-2">Advanced Analytics</h3>
+                        <p class="text-gray-600">Comprehensive analytics and performance monitoring with detailed insights</p>
+                    </div>
+                    <div class="text-center">
+                        <div class="bg-blue-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
+                            <span class="text-2xl">🔗</span>
+                        </div>
+                        <h3 class="text-xl font-medium text-gray-900 mb-2">OTLP Integration</h3>
+                        <p class="text-gray-600">OTLP-compatible data export and seamless integration with existing systems</p>
+                    </div>
                 </div>
                 <div class="text-center mt-6">
-                    <a href="/case-studies/" class="text-blue-600 hover:text-blue-800 font-medium">View All Success Stories →</a>
+                    <a href="/contact/" class="text-blue-600 hover:text-blue-800 font-medium">Get Started Today →</a>
                 </div>
             </div>
         </section>
 
-        <!-- Testimonials Section -->
+        <!-- Benefits Section -->
         <section class="bg-blue-50 rounded-lg shadow-lg p-8 mb-12">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-8 text-center">What Our Clients Say</h2>
+            <h2 class="text-3xl font-semibold text-gray-900 mb-8 text-center">Why Choose SigAgent.AI?</h2>
             <div class="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
-                {% include testimonial-card.html 
-                    quote="Analytiq helped us create custom AI solutions for the healthcare industry. Andrei has great knowledge of the current AI technologies and helped us apply them in an effective manner. Their experience helped generate tremendous value to our business."
-                    name="Albert Woo"
-                    title="President"
-                    company="Boston Medical Data"
-                    image="/assets/images/albert_woo.jpeg" %}
+                <div class="bg-white rounded-lg p-6 shadow-md">
+                    <h3 class="text-xl font-semibold text-gray-900 mb-4">🚀 Get Started for Free</h3>
+                    <p class="text-gray-600 mb-4">
+                        No credit card required. Start monitoring your Claude Agents immediately with our free tier.
+                    </p>
+                    <ul class="text-gray-600 space-y-2">
+                        <li>• Real-time telemetry collection</li>
+                        <li>• Basic analytics dashboard</li>
+                        <li>• OTLP integration support</li>
+                    </ul>
+                </div>
                 
-                {% include testimonial-card.html 
-                    quote="Analytiq Hub was fundamental to our early growth. Andrei helped us with foundational architectural decisions that drove our early successes. Highly recommended for early startups looking for technical leadership!"
-                    name="Kevin Chen"
-                    title="Director of Engineering"
-                    image="/assets/images/kevin_chen.jpg" %}
+                <div class="bg-white rounded-lg p-6 shadow-md">
+                    <h3 class="text-xl font-semibold text-gray-900 mb-4">🔒 Secure & Reliable</h3>
+                    <p class="text-gray-600 mb-4">
+                        Enterprise-grade security with comprehensive data protection and authentication.
+                    </p>
+                    <ul class="text-gray-600 space-y-2">
+                        <li>• Secure authentication system</li>
+                        <li>• Data encryption at rest and in transit</li>
+                        <li>• Organization access tokens</li>
+                    </ul>
+                </div>
                 
-                {% include testimonial-card.html 
-                    quote="Andrei continues to impress over the 20+ years I've known him. He listens to customer needs and applies the right technologies and processes to the solution. And now he's leading the way with value-building AI solutions."
-                    name="Brian Suthoff"
-                    title="Entrepreneur & Investor"
-                    image="/assets/images/brian_suthoff.jpeg" %}
+                <div class="bg-white rounded-lg p-6 shadow-md">
+                    <h3 class="text-xl font-semibold text-gray-900 mb-4">📈 Advanced Analytics</h3>
+                    <p class="text-gray-600 mb-4">
+                        Comprehensive metrics and logging visualization to optimize your AI agent performance.
+                    </p>
+                    <ul class="text-gray-600 space-y-2">
+                        <li>• Performance metrics tracking</li>
+                        <li>• Detailed logging visualization</li>
+                        <li>• Custom dashboard creation</li>
+                    </ul>
+                </div>
                 
-                {% include testimonial-card.html 
-                    quote="🎉🎉 a fantastic meetup last week in Boston by AICamp Boston community. Thanks speakers Andrei Radulescu-Banu … for their deep dive into cutting-edge tech and insightful discussions."
-                    name="Bill Liu"
-                    title="Founder"
-                    company="AICamp"
-                    image="/assets/images/bill_liu.jpeg" %}
+                <div class="bg-white rounded-lg p-6 shadow-md">
+                    <h3 class="text-xl font-semibold text-gray-900 mb-4">🔧 Easy Integration</h3>
+                    <p class="text-gray-600 mb-4">
+                        Simple setup with environment variables and OTLP-compatible data export.
+                    </p>
+                    <ul class="text-gray-600 space-y-2">
+                        <li>• OTLP protocol support</li>
+                        <li>• Environment variable configuration</li>
+                        <li>• Seamless Claude Code integration</li>
+                    </ul>
+                </div>
             </div>
         </section>
 
-        <!-- Services Section -->
+        <!-- Platform Features Section -->
         <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-6 text-center">Our Services</h2>
+            <h2 class="text-3xl font-semibold text-gray-900 mb-6 text-center">Platform Features</h2>
             <div class="grid md:grid-cols-3 gap-8">
                 <div class="text-center">
                     <div class="bg-blue-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
-                        <span class="text-2xl">👔</span>
+                        <span class="text-2xl">📊</span>
                     </div>
-                    <h3 class="text-xl font-medium text-gray-900 mb-2">Fractional CTO</h3>
-                    <p class="text-gray-600">Strategic technology leadership and AI adoption guidance for startups and growing companies</p>
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">Real-time Monitoring</h3>
+                    <p class="text-gray-600">Live telemetry collection and performance monitoring for your Claude Agents with instant insights</p>
                 </div>
                 <div class="text-center">
                     <div class="bg-blue-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
-                        <span class="text-2xl">🏗️</span>
+                        <span class="text-2xl">🔍</span>
                     </div>
-                    <h3 class="text-xl font-medium text-gray-900 mb-2">Full Stack Implementation</h3>
-                    <p class="text-gray-600">End-to-end development of AI solutions and custom platforms across Azure, AWS, and Databricks</p>
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">Advanced Analytics</h3>
+                    <p class="text-gray-600">Comprehensive metrics visualization, performance tracking, and detailed logging for optimization</p>
                 </div>
                 <div class="text-center">
                     <div class="bg-blue-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
-                        <span class="text-2xl">🧠</span>
+                        <span class="text-2xl">🔗</span>
                     </div>
-                    <h3 class="text-xl font-medium text-gray-900 mb-2">AI and Data Solutions</h3>
-                    <p class="text-gray-600">Design AI systems that streamline operations and meet regulatory requirements</p>
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">OTLP Integration</h3>
+                    <p class="text-gray-600">Seamless integration with existing systems using OpenTelemetry Protocol for data export and analysis</p>
                 </div>
             </div>
         </section>
 
-        <!-- Why Choose Us -->
+        <!-- Why Choose SigAgent.AI -->
         <section class="bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg shadow-lg p-8 mb-12">
             <div class="text-center">
-                <h2 class="text-3xl font-semibold text-white mb-6">Why Analytiq Hub?</h2>
+                <h2 class="text-3xl font-semibold text-white mb-6">Why Choose SigAgent.AI?</h2>
                 <p class="text-xl text-blue-100 mb-8">
-                    Specialized expertise in biotech and healthtech with comprehensive AI solutions
+                    The only monitoring platform designed specifically for Claude Agents
                 </p>
                 <div class="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
                     <div class="bg-white bg-opacity-10 rounded-lg p-6">
-                        <h3 class="text-xl font-medium text-white mb-3">Industry Focus</h3>
+                        <h3 class="text-xl font-medium text-white mb-3">Claude-Specific Design</h3>
                         <ul class="text-blue-100 space-y-2 text-left">
-                            <li>• Biotech and healthtech specialization</li>
-                            <li>• Lab informatics expertise</li>
-                            <li>• Medical equipment sector knowledge</li>
-                            <li>• Startup-focused approach</li>
+                            <li>• Built specifically for Claude Agents</li>
+                            <li>• Native OTLP protocol support</li>
+                            <li>• Seamless Claude Code integration</li>
+                            <li>• Real-time telemetry collection</li>
                         </ul>
                     </div>
                     <div class="bg-white bg-opacity-10 rounded-lg p-6">
-                        <h3 class="text-xl font-medium text-white mb-3">Technical Excellence</h3>
+                        <h3 class="text-xl font-medium text-white mb-3">Enterprise Ready</h3>
                         <ul class="text-blue-100 space-y-2 text-left">
-                            <li>• AI and machine learning expertise</li>
-                            <li>• Multi-cloud platform experience</li>
-                            <li>• Custom AI solution development</li>
-                            <li>• Strategic technology partnership</li>
+                            <li>• Secure authentication system</li>
+                            <li>• Data encryption and protection</li>
+                            <li>• Organization access tokens</li>
+                            <li>• Free tier with no credit card required</li>
                         </ul>
                     </div>
                 </div>
