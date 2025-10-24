@@ -38,7 +38,7 @@ gem install bundler
 1. **Clone the repository** (if not already done):
    ```bash
    git clone <repository-url>
-   cd analytiq-hub.github.io
+   cd sigagent.github.io
    ```
 
 2. **Install dependencies**:
