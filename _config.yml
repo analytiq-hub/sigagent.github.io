@@ -1,10 +1,10 @@
-title: Analytiq Hub
+title: SigAgent.AI
 author:
   name: Andrei Radulescu-Banu
   email: "andrei@analytiqhub.com"
 description: > # this means to ignore newlines until "show_excerpts:"
-  Analytiq Hub provides custom AI solutions and expert guidance 
-  for biotech and healthtech companies.
+  SigAgent.AI provides advanced monitoring and telemetry solutions 
+  specifically designed for Claude Agents.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 permalink: pretty
@@ -56,15 +56,15 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  - title: "Resources"
+  - title: "Features"
     url: "#"
     children:
-      - title: "Success Stories"
-        url: "/case-studies"
-      - title: "Technology"
-        url: "/technology"
-  - title: "Talks"
-    url: "/talks"
+      - title: "Monitoring"
+        url: "/monitoring"
+      - title: "Analytics"
+        url: "/analytics"
+  - title: "Documentation"
+    url: "/docs"
   - title: "Blog"
     url: "/blog"
   - title: "About"
@@ -75,22 +75,22 @@ header_pages:
 
 # Footer sitemap - simplified navigation for footer display
 site_map:
-  - title: "Services"
+  - title: "Platform"
     links:
-      - title: "Success Stories"
-        url: "/case-studies"
-      - title: "Technology"
-        url: "/technology"
+      - title: "Monitoring"
+        url: "/monitoring"
+      - title: "Analytics"
+        url: "/analytics"
   - title: "Company"
     links:
       - title: "About"
         url: "/about"
   - title: "Resources"
     links:
+      - title: "Documentation"
+        url: "/docs"
       - title: "Blog"
         url: "/blog"
-      - title: "Talks"
-        url: "/talks"
 
 # Build settings
 # theme: minima  # Removed - using Tailwind CSS instead
