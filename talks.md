@@ -16,6 +16,18 @@ permalink: /talks/
         <!-- Talks Container -->
         <div class="space-y-8" id="talks-container">
             {% include talk-card.html 
+                title="How To Integrate Stripe Into Your AI Application"
+                speaker="Andrei Radulescu-Banu"
+                date="Oct 24, 2025"
+                event="AI Tinkerers"
+                event_url="https://boston.aitinkerers.org/"
+                logos="/assets/images/aitinkerers-1.png"
+                image="/assets/images/how_to_integrate_stripe.png"
+                links="https://boston.aitinkerers.org/p/ai-tinkerers-boston-meetup-october-2025;Event Details|https://www.linkedin.com/feed/update/urn:li:activity:7387836092588240896/;LinkedIn Post|/tech/programming/ai/tutorials/how-we-integrated-stripe-into-docrouter-ai/;Blog Post"
+                abstract="How did we built Stripe billing into DocRouter.AI? The talk covered why Stripe was the right choice for scaling metered AI usage, our SPU (Service Processing Units) credit system inspired by Databricks DBUs, free tier → plans → a-la-carte credits with consumption waterfall, dynamic pricing config 100% in Stripe metadata, async Stripe API calls in FastAPI, and our MongoDB backend schema."
+            %}
+
+            {% include talk-card.html 
                 title="How To Train Your AI Agent"
                 speaker="Andrei Radulescu-Banu"
                 date="Oct 15, 2025"
