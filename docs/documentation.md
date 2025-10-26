@@ -65,10 +65,10 @@ title: "SigAgent.AI Documentation"
                     <span class="text-blue-400">"OTEL_EXPORTER_OTLP_HEADERS"</span><span class="text-white">: </span><span class="text-green-300">"Authorization=Bearer YOUR_ORG_ACCESS_TOKEN"</span><span class="text-white">,</span>
                 </div>
                 <div class="ml-8 mb-2">
-                    <span class="text-blue-400">"CLAUDE_HOOK_MONITOR_URL"</span><span class="text-white">: </span><span class="text-green-300">"https://app.sigagent.ai/fastapi/v0/claude/log"</span><span class="text-white">,</span>
+                    <span class="text-blue-400">"SIGAGENT_URL"</span><span class="text-white">: </span><span class="text-green-300">"https://app.sigagent.ai/fastapi"</span><span class="text-white">,</span>
                 </div>
                 <div class="ml-8 mb-2">
-                    <span class="text-blue-400">"CLAUDE_HOOK_MONITOR_TOKEN"</span><span class="text-white">: </span><span class="text-green-300">"YOUR_ORG_ACCESS_TOKEN"</span>
+                    <span class="text-blue-400">"SIGAGENT_TOKEN"</span><span class="text-white">: </span><span class="text-green-300">"YOUR_ORG_ACCESS_TOKEN"</span>
                 </div>
                 <div class="ml-4 mb-2">
                     <span class="text-yellow-400">}</span>
