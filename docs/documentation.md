@@ -56,10 +56,10 @@ title: "SigAgent.AI Documentation"
                     <span class="text-blue-400">"OTEL_LOGS_EXPORTER"</span><span class="text-white">: </span><span class="text-green-300">"otlp"</span><span class="text-white">,</span>
                 </div>
                 <div class="ml-8 mb-2">
-                    <span class="text-blue-400">"OTEL_EXPORTER_OTLP_PROTOCOL"</span><span class="text-white">: </span><span class="text-green-300">"grpc"</span><span class="text-white">,</span>
+                    <span class="text-blue-400">"OTEL_EXPORTER_OTLP_PROTOCOL"</span><span class="text-white">: </span><span class="text-green-300">"http/protobuf"</span><span class="text-white">,</span>
                 </div>
                 <div class="ml-8 mb-2">
-                    <span class="text-blue-400">"OTEL_EXPORTER_OTLP_ENDPOINT"</span><span class="text-white">: </span><span class="text-green-300">"https://app.sigagent.ai:4317"</span><span class="text-white">,</span>
+                    <span class="text-blue-400">"OTEL_EXPORTER_OTLP_ENDPOINT"</span><span class="text-white">: </span><span class="text-green-300">"https://app.sigagent.ai/fastapi"</span><span class="text-white">,</span>
                 </div>
                 <div class="ml-8 mb-2">
                     <span class="text-blue-400">"OTEL_EXPORTER_OTLP_HEADERS"</span><span class="text-white">: </span><span class="text-green-300">"Authorization=Bearer YOUR_ORG_ACCESS_TOKEN"</span><span class="text-white">,</span>
