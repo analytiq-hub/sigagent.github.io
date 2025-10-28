@@ -30,7 +30,7 @@ title: "SigAgent.AI Documentation"
             </div>
 
             <p class="text-gray-600 mb-6">
-                Add the following configuration to your <code>~/.claude/settings.json</code> file:
+                Add the following configuration to your <code>~/.claude/settings.json</code> file. <br>You must use <code>http/protobuf</code> for protocol:
             </p>
 
             <div class="bg-gray-900 rounded-lg p-6 text-green-400 font-mono text-sm overflow-x-auto">
@@ -63,12 +63,6 @@ title: "SigAgent.AI Documentation"
                 </div>
                 <div class="ml-8 mb-2">
                     <span class="text-blue-400">"OTEL_EXPORTER_OTLP_HEADERS"</span><span class="text-white">: </span><span class="text-green-300">"Authorization=Bearer YOUR_ORG_ACCESS_TOKEN"</span><span class="text-white">,</span>
-                </div>
-                <div class="ml-8 mb-2">
-                    <span class="text-blue-400">"SIGAGENT_URL"</span><span class="text-white">: </span><span class="text-green-300">"https://app.sigagent.ai/fastapi"</span><span class="text-white">,</span>
-                </div>
-                <div class="ml-8 mb-2">
-                    <span class="text-blue-400">"SIGAGENT_TOKEN"</span><span class="text-white">: </span><span class="text-green-300">"YOUR_ORG_ACCESS_TOKEN"</span>
                 </div>
                 <div class="ml-4 mb-2">
                     <span class="text-yellow-400">}</span>
