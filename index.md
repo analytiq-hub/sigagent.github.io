@@ -50,56 +50,32 @@ title: "SigAgent.AI - Claude Agent Monitoring & Telemetry"
             </div>
         </section>
 
-        <!-- Benefits Section -->
-        <section class="bg-blue-50 rounded-lg shadow-lg p-8 mb-12">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-8 text-center">Why Choose SigAgent.AI?</h2>
-            <div class="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
-                <div class="bg-white rounded-lg p-6 shadow-md">
-                    <h3 class="text-xl font-semibold text-gray-900 mb-4">🚀 Launched at MIT Sundai Hackathon</h3>
-                    <p class="text-gray-600 mb-4">
-                        Born from real agent debugging needs. Start monitoring your Claude Agents immediately with our free tier.
-                    </p>
-                    <ul class="text-gray-600 space-y-2">
-                        <li>• Real-time telemetry collection</li>
-                        <li>• Tool call and skill usage timelines</li>
-                        <li>• OTLP integration support</li>
-                    </ul>
-                </div>
-                
-                <div class="bg-white rounded-lg p-6 shadow-md">
-                    <h3 class="text-xl font-semibold text-gray-900 mb-4">🔒 Secure & Reliable</h3>
-                    <p class="text-gray-600 mb-4">
-                        Enterprise-grade security with comprehensive data protection and authentication.
-                    </p>
-                    <ul class="text-gray-600 space-y-2">
-                        <li>• Secure authentication system</li>
-                        <li>• Data encryption at rest and in transit</li>
-                        <li>• Organization access tokens</li>
-                    </ul>
-                </div>
-                
-                <div class="bg-white rounded-lg p-6 shadow-md">
-                    <h3 class="text-xl font-semibold text-gray-900 mb-4">📈 Debug faster, ship safer</h3>
-                    <p class="text-gray-600 mb-4">
-                        Break down failures by tool, skill, and step to quickly isolate regressions and flaky behaviors.
-                    </p>
-                    <ul class="text-gray-600 space-y-2">
-                        <li>• Performance metrics tracking</li>
-                        <li>• Detailed logging & trace visualization</li>
-                        <li>• Step and tool call drill‑downs</li>
-                    </ul>
-                </div>
-                
-                <div class="bg-white rounded-lg p-6 shadow-md">
-                    <h3 class="text-xl font-semibold text-gray-900 mb-4">🔧 Easy Integration</h3>
-                    <p class="text-gray-600 mb-4">
-                        Simple setup for Claude Code and Claude‑based agents with environment variables and OTLP-compatible export.
-                    </p>
-                    <ul class="text-gray-600 space-y-2">
-                        <li>• OTLP protocol support</li>
-                        <li>• Environment variable configuration</li>
-                        <li>• Seamless Claude Code integration</li>
-                    </ul>
+<!-- Why Choose SigAgent.AI -->
+        <section class="bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg shadow-lg p-8 mb-12">
+            <div class="text-center">
+                <h2 class="text-3xl font-semibold text-white mb-6">Why Choose SigAgent.AI?</h2>
+                <p class="text-xl text-blue-100 mb-8">
+                    The only monitoring platform designed specifically for Claude Agents
+                </p>
+                <div class="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+                    <div class="bg-white bg-opacity-10 rounded-lg p-6">
+                        <h3 class="text-xl font-medium text-white mb-3">Claude-Specific Design</h3>
+                        <ul class="text-blue-100 space-y-2 text-left">
+                            <li>• Built specifically for Claude Agents</li>
+                            <li>• Native OTLP protocol support</li>
+                            <li>• Seamless Claude Code integration</li>
+                            <li>• Real-time telemetry collection</li>
+                        </ul>
+                    </div>
+                    <div class="bg-white bg-opacity-10 rounded-lg p-6">
+                        <h3 class="text-xl font-medium text-white mb-3">Enterprise Ready</h3>
+                        <ul class="text-blue-100 space-y-2 text-left">
+                            <li>• Secure authentication system</li>
+                            <li>• Data encryption and protection</li>
+                            <li>• Organization access tokens</li>
+                            <li>• Free tier with no credit card required</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </section>
@@ -132,34 +108,5 @@ title: "SigAgent.AI - Claude Agent Monitoring & Telemetry"
             </div>
         </section>
 
-        <!-- Why Choose SigAgent.AI -->
-        <section class="bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg shadow-lg p-8 mb-12">
-            <div class="text-center">
-                <h2 class="text-3xl font-semibold text-white mb-6">Why Choose SigAgent.AI?</h2>
-                <p class="text-xl text-blue-100 mb-8">
-                    The only monitoring platform designed specifically for Claude Agents
-                </p>
-                <div class="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-                    <div class="bg-white bg-opacity-10 rounded-lg p-6">
-                        <h3 class="text-xl font-medium text-white mb-3">Claude-Specific Design</h3>
-                        <ul class="text-blue-100 space-y-2 text-left">
-                            <li>• Built specifically for Claude Agents</li>
-                            <li>• Native OTLP protocol support</li>
-                            <li>• Seamless Claude Code integration</li>
-                            <li>• Real-time telemetry collection</li>
-                        </ul>
-                    </div>
-                    <div class="bg-white bg-opacity-10 rounded-lg p-6">
-                        <h3 class="text-xl font-medium text-white mb-3">Enterprise Ready</h3>
-                        <ul class="text-blue-100 space-y-2 text-left">
-                            <li>• Secure authentication system</li>
-                            <li>• Data encryption and protection</li>
-                            <li>• Organization access tokens</li>
-                            <li>• Free tier with no credit card required</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </section>
     </main>
 </div>
