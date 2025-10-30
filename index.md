@@ -6,9 +6,13 @@ title: "SigAgent.AI - Claude Agent Monitoring & Telemetry"
 <div class="max-w-6xl mx-auto px-4 sm:px-6 md:px-8 py-4 md:py-12">
     <!-- Hero Section -->
     <header class="text-center md:mb-12 mb-8">
-        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Advanced <span class="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Monitoring</span> for Claude Agents</h1>
+        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4">The first <span class="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Tracing Tool</span> for Claude Agents!</h1>
+        <div class="inline-flex items-center justify-center gap-2 text-sm font-medium text-blue-700 bg-blue-50 border border-blue-200 rounded-full px-4 py-1 mb-6">
+            <img src="/assets/images/sundai_club_logo.png" alt="MIT Sundai Club" class="h-5 md:h-6 w-auto" />
+            <a href="https://www.sundai.club/projects/3cce6d85-5d03-4575-83f5-b16c8418e891" target="_blank" rel="noopener noreferrer" class="hover:underline">Launched as an MIT Sundai Hack!</a>
+        </div>
         <div class="text-xl md:text-2xl text-gray-600 mb-8">
-            <p class="mb-4">Real-time telemetry, analytics, and performance monitoring for your AI agents</p>
+            <p class="mb-4">Purpose‑built for Claude Code and Claude‑based agents<br> with deep, step‑level observability.</p>
         </div>
         <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a href="https://app.sigagent.ai"
@@ -25,38 +29,51 @@ title: "SigAgent.AI - Claude Agent Monitoring & Telemetry"
     </header>
 
     <main>
-        <!-- Key Features Section -->
+        <!-- Why We're Different -->
         <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-6 text-center">Key Features</h2>
-            <div class="max-w-3xl mx-auto text-center">
-                <p class="text-lg text-gray-600 mb-6">
-                    Comprehensive monitoring and telemetry platform designed specifically for Claude Agents
-                </p>
-                <div class="grid md:grid-cols-3 gap-8">
-                    <div class="text-center">
-                        <div class="bg-blue-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
-                            <span class="text-2xl">📊</span>
-                        </div>
-                        <h3 class="text-xl font-medium text-gray-900 mb-2">Real-time Telemetry</h3>
-                        <p class="text-gray-600">Collect and monitor performance metrics from your Claude Agents in real-time</p>
-                    </div>
-                    <div class="text-center">
-                        <div class="bg-blue-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
-                            <span class="text-2xl">🔍</span>
-                        </div>
-                        <h3 class="text-xl font-medium text-gray-900 mb-2">Advanced Analytics</h3>
-                        <p class="text-gray-600">Comprehensive analytics and performance monitoring with detailed insights</p>
-                    </div>
-                    <div class="text-center">
-                        <div class="bg-blue-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
-                            <span class="text-2xl">🔗</span>
-                        </div>
-                        <h3 class="text-xl font-medium text-gray-900 mb-2">OTLP Integration</h3>
-                        <p class="text-gray-600">OTLP-compatible data export and seamless integration with existing systems</p>
-                    </div>
+            <h2 class="text-3xl font-semibold text-gray-900 mb-6 text-center">What makes SigAgent.AI different</h2>
+            <div class="max-w-4xl mx-auto">
+                <ul class="grid md:grid-cols-2 gap-6 text-gray-700">
+                    <li class="bg-blue-50 rounded-lg p-6 shadow-sm">
+                        <h3 class="text-lg font-semibold text-gray-900 mb-2">Tool call & skill‑level tracking</h3>
+                        <p>See every tool invocation and skill use per step. Debug the exact point where plans drift, tools fail, or guardrails trigger.</p>
+                    </li>
+                    <li class="bg-blue-50 rounded-lg p-6 shadow-sm">
+                        <h3 class="text-lg font-semibold text-gray-900 mb-2">Built for Claude Code</h3>
+                        <p>First‑class support for Claude Code and Claude‑based agents, including structured traces of reasoning, tools, and outputs.</p>
+                    </li>
+                    <li class="bg-blue-50 rounded-lg p-6 shadow-sm">
+                        <h3 class="text-lg font-semibold text-gray-900 mb-2">Fine‑grained, step‑level observability</h3>
+                        <p>Drill from session → turn → step → tool call with timelines, latencies, inputs, outputs, and errors.</p>
+                    </li>
+                    <li class="bg-blue-50 rounded-lg p-6 shadow-sm">
+                        <h3 class="text-lg font-semibold text-gray-900 mb-2">OTLP compatible</h3>
+                        <p>Export traces and metrics via OTLP to your existing stack with zero lock‑in.</p>
+                    </li>
+                </ul>
+                <div class="text-center mt-8">
+                    <a href="https://app.sigagent.ai" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 font-medium">Instrument your agent in minutes →</a>
                 </div>
-                <div class="text-center mt-6">
-                    <a href="https://app.sigagent.ai" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 font-medium">Get Started Today →</a>
+            </div>
+        </section>
+
+        <!-- Screenshots Section -->
+        <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
+            <h2 class="text-3xl font-semibold text-gray-900 mb-8 text-center">See SigAgent.AI in Action</h2>
+            <div class="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+                <div class="bg-gray-50 rounded-lg p-6">
+                    <h3 class="text-xl font-semibold text-gray-900 mb-4">Dashboard Overview</h3>
+                    <img src="/assets/images/sigagent_dashboard.png" alt="SigAgent.AI Dashboard showing agent monitoring and telemetry" class="w-full rounded-lg shadow-md mb-4" />
+                    <p class="text-gray-600">
+                        Real-time <strong>monitoring dashboard</strong> tracks all your Claude Agents in one place for <strong>cost, token usage</strong>, and <strong>lines of code changed</strong>. Uses Open Telemetry.
+                    </p>
+                </div>
+                <div class="bg-gray-50 rounded-lg p-6">
+                    <h3 class="text-xl font-semibold text-gray-900 mb-4">Tool Call & Hooks Tracking</h3>
+                    <img src="/assets/images/sigagent_hooks.png" alt="SigAgent.AI Hooks view showing tool call tracking" class="w-full rounded-lg shadow-md mb-4" />
+                    <p class="text-gray-600">
+                        See every <strong>ToDo, skill usage, tool invocation</strong> and <strong>step-level execution</strong> with timelines, parameters and results. Uses Claude Code hooks.
+                    </p>
                 </div>
             </div>
         </section>
@@ -66,13 +83,13 @@ title: "SigAgent.AI - Claude Agent Monitoring & Telemetry"
             <h2 class="text-3xl font-semibold text-gray-900 mb-8 text-center">Why Choose SigAgent.AI?</h2>
             <div class="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
                 <div class="bg-white rounded-lg p-6 shadow-md">
-                    <h3 class="text-xl font-semibold text-gray-900 mb-4">🚀 Get Started for Free</h3>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-4">🚀 Launched at MIT Sunday Hackathon</h3>
                     <p class="text-gray-600 mb-4">
-                        No credit card required. Start monitoring your Claude Agents immediately with our free tier.
+                        Born from real agent debugging needs. Start monitoring your Claude Agents immediately with our free tier.
                     </p>
                     <ul class="text-gray-600 space-y-2">
                         <li>• Real-time telemetry collection</li>
-                        <li>• Basic analytics dashboard</li>
+                        <li>• Tool call and skill usage timelines</li>
                         <li>• OTLP integration support</li>
                     </ul>
                 </div>
@@ -90,21 +107,21 @@ title: "SigAgent.AI - Claude Agent Monitoring & Telemetry"
                 </div>
                 
                 <div class="bg-white rounded-lg p-6 shadow-md">
-                    <h3 class="text-xl font-semibold text-gray-900 mb-4">📈 Advanced Analytics</h3>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-4">📈 Debug faster, ship safer</h3>
                     <p class="text-gray-600 mb-4">
-                        Comprehensive metrics and logging visualization to optimize your AI agent performance.
+                        Break down failures by tool, skill, and step to quickly isolate regressions and flaky behaviors.
                     </p>
                     <ul class="text-gray-600 space-y-2">
                         <li>• Performance metrics tracking</li>
-                        <li>• Detailed logging visualization</li>
-                        <li>• Custom dashboard creation</li>
+                        <li>• Detailed logging & trace visualization</li>
+                        <li>• Step and tool call drill‑downs</li>
                     </ul>
                 </div>
                 
                 <div class="bg-white rounded-lg p-6 shadow-md">
                     <h3 class="text-xl font-semibold text-gray-900 mb-4">🔧 Easy Integration</h3>
                     <p class="text-gray-600 mb-4">
-                        Simple setup with environment variables and OTLP-compatible data export.
+                        Simple setup for Claude Code and Claude‑based agents with environment variables and OTLP-compatible export.
                     </p>
                     <ul class="text-gray-600 space-y-2">
                         <li>• OTLP protocol support</li>
@@ -124,21 +141,21 @@ title: "SigAgent.AI - Claude Agent Monitoring & Telemetry"
                         <span class="text-2xl">📊</span>
                     </div>
                     <h3 class="text-xl font-medium text-gray-900 mb-2">Real-time Monitoring</h3>
-                    <p class="text-gray-600">Live telemetry collection and performance monitoring for your Claude Agents with instant insights</p>
+                    <p class="text-gray-600">Live telemetry, traces, and metrics purpose‑built for Claude Code and Claude‑based agents.</p>
                 </div>
                 <div class="text-center">
                     <div class="bg-blue-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
                         <span class="text-2xl">🔍</span>
                     </div>
-                    <h3 class="text-xl font-medium text-gray-900 mb-2">Advanced Analytics</h3>
-                    <p class="text-gray-600">Comprehensive metrics visualization, performance tracking, and detailed logging for optimization</p>
+                    <h3 class="text-xl font-medium text-gray-900 mb-2">Tool & Skill Visibility</h3>
+                    <p class="text-gray-600">Track every tool call and skill usage for fine‑grained debugging and performance tuning.</p>
                 </div>
                 <div class="text-center">
                     <div class="bg-blue-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
                         <span class="text-2xl">🔗</span>
                     </div>
                     <h3 class="text-xl font-medium text-gray-900 mb-2">OTLP Integration</h3>
-                    <p class="text-gray-600">Seamless integration with existing systems using OpenTelemetry Protocol for data export and analysis</p>
+                    <p class="text-gray-600">Export to your observability stack via OpenTelemetry Protocol with zero lock‑in.</p>
                 </div>
             </div>
         </section>
