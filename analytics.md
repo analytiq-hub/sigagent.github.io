@@ -202,7 +202,7 @@ title: "SigAgent.AI Analytics"
                        class="inline-block bg-white hover:bg-gray-100 text-blue-600 px-8 py-4 rounded-lg font-semibold text-lg transition-colors duration-200">
                         Launch Application
                     </a>
-                    <a href="/docs/documentation" 
+                    <a href="/docs/quick_start" 
                        class="inline-block border-2 border-white text-white hover:bg-white hover:text-blue-600 px-8 py-4 rounded-lg font-semibold text-lg transition-colors duration-200">
                         View Documentation
                     </a>

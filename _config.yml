@@ -64,7 +64,10 @@ header_pages:
       - title: "Analytics"
         url: "/analytics"
   - title: "Documentation"
-    url: "/docs/documentation"
+    url: "#"
+    children:
+      - title: "Quick Start"
+        url: "/docs/quick_start"
   - title: "Talks"
     url: "/talks"
   - title: "Blog"
@@ -90,7 +93,7 @@ site_map:
   - title: "Resources"
     links:
       - title: "Documentation"
-        url: "/docs/documentation"
+        url: "/docs/quick_start"
       - title: "Talks"
         url: "/talks"
       - title: "Blog"
