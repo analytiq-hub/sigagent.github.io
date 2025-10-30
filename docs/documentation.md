@@ -12,111 +12,36 @@ title: "SigAgent.AI Documentation"
     </header>
 
     <main>
-        <!-- Quick Start Section -->
+        <!-- Client Setup Section (mirrors app homepage) -->
         <section class="bg-white rounded-lg shadow-lg p-8 mb-8">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-6">Quick Start</h2>
-            
-            <div class="mb-8 p-4 bg-blue-50 border border-blue-200 rounded-lg">
-                <p class="text-blue-800">
-                    <strong>Step 1:</strong> Create an organization access token by visiting your 
-                    <a href="https://app.sigagent.ai/settings/user/developer/organization-access-tokens" 
-                       class="text-blue-600 hover:text-blue-800 underline" 
-                       target="_blank" 
-                       rel="noopener noreferrer">
-                        organization access tokens page
-                    </a>
-                    and use it in the configuration below.
-                </p>
-            </div>
+            <h2 class="text-3xl font-semibold text-gray-900 mb-6">Client Setup</h2>
 
-            <p class="text-gray-600 mb-6">
-                Add the following configuration to your <code>~/.claude/settings.json</code> file. <br>You must use <code>http/protobuf</code> for protocol:
-            </p>
-
-            <div class="bg-gray-900 rounded-lg p-6 text-green-400 font-mono text-sm overflow-x-auto">
-                <div class="mb-2">
-                    <span class="text-gray-400">// ~/.claude/settings.json</span>
-                </div>
-                <div class="mb-2">
-                    <span class="text-yellow-400">{</span>
-                </div>
-                <div class="ml-4 mb-2">
-                    <span class="text-blue-400">"$schema"</span><span class="text-white">: </span><span class="text-green-300">"https://json.schemastore.org/claude-code-settings.json"</span><span class="text-white">,</span>
-                </div>
-                <div class="ml-4 mb-2">
-                    <span class="text-blue-400">"env"</span><span class="text-white">: </span><span class="text-yellow-400">{</span>
-                </div>
-                <div class="ml-8 mb-2">
-                    <span class="text-blue-400">"CLAUDE_CODE_ENABLE_TELEMETRY"</span><span class="text-white">: </span><span class="text-green-300">"1"</span><span class="text-white">,</span>
-                </div>
-                <div class="ml-8 mb-2">
-                    <span class="text-blue-400">"OTEL_METRICS_EXPORTER"</span><span class="text-white">: </span><span class="text-green-300">"otlp"</span><span class="text-white">,</span>
-                </div>
-                <div class="ml-8 mb-2">
-                    <span class="text-blue-400">"OTEL_LOGS_EXPORTER"</span><span class="text-white">: </span><span class="text-green-300">"otlp"</span><span class="text-white">,</span>
-                </div>
-                <div class="ml-8 mb-2">
-                    <span class="text-blue-400">"OTEL_EXPORTER_OTLP_PROTOCOL"</span><span class="text-white">: </span><span class="text-green-300">"http/protobuf"</span><span class="text-white">,</span>
-                </div>
-                <div class="ml-8 mb-2">
-                    <span class="text-blue-400">"OTEL_EXPORTER_OTLP_ENDPOINT"</span><span class="text-white">: </span><span class="text-green-300">"https://app.sigagent.ai/fastapi"</span><span class="text-white">,</span>
-                </div>
-                <div class="ml-8 mb-2">
-                    <span class="text-blue-400">"OTEL_EXPORTER_OTLP_HEADERS"</span><span class="text-white">: </span><span class="text-green-300">"Authorization=Bearer YOUR_ORG_ACCESS_TOKEN"</span><span class="text-white">,</span>
-                </div>
-                <div class="ml-4 mb-2">
-                    <span class="text-yellow-400">}</span>
-                </div>
-                <div>
-                    <span class="text-yellow-400">}</span>
-                </div>
+            <div class="mb-6 p-4 bg-blue-50 border border-blue-200 rounded-lg">
+                <ol class="list-decimal list-inside text-blue-800 text-sm space-y-2">
+                    <li>
+                        <a 
+                          href="https://app.sigagent.ai/settings/user/developer/organization-access-tokens"
+                          class="text-blue-600 hover:text-blue-800 underline"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          Create an organization access token
+                        </a>
+                    </li>
+                    <li>
+                        Run the following and provide the org token when prompted:
+                        <div class="mt-3 bg-gray-900 rounded-lg p-4 text-green-400 font-mono text-sm overflow-x-auto">
+                          <span class="text-white">npx</span> <span class="text-green-300">-y</span> <span class="text-white">@sigagent/cli</span> <span class="text-yellow-400">setup</span>
+                        </div>
+                    </li>
+                    <li>
+                        Restart Claude Code.
+                    </li>
+                </ol>
             </div>
         </section>
 
-        <!-- Claude Plugin Setup Section -->
-        <section class="bg-white rounded-lg shadow-lg p-8 mb-8">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-6">Enable Claude Plugin Monitoring</h2>
-            
-            <p class="text-gray-600 mb-6">
-                Set up the <strong>sig-agent-marketplace</strong> directly in Claude to monitor tool usage and interactions. 
-                The environment variables are already configured above in the Client Setup section.
-            </p>
-            
-            <div class="space-y-6">
-                <div>
-                    <h3 class="text-lg font-medium text-gray-900 mb-3">1. Add the sig-agent-marketplace to Claude</h3>
-                    <p class="text-gray-600 mb-3">
-                        In Claude, run the following command:
-                    </p>
-                    <div class="bg-gray-900 rounded-lg p-4 text-green-400 font-mono text-sm overflow-x-auto">
-                        <span class="text-blue-400">/plugin</span> <span class="text-yellow-400">marketplace</span> <span class="text-yellow-400">add</span> <span class="text-green-300">https://github.com/analytiq-hub/sig-agent-marketplace.git</span>
-                    </div>
-                </div>
-
-                <div>
-                    <h3 class="text-lg font-medium text-gray-900 mb-3">2. Enable the sig-agent-plugin in Claude</h3>
-                    <p class="text-gray-600 mb-3">
-                        In Claude, use the <strong>/plugin</strong> command to enable the <strong>sig-agent-plugin</strong>.
-                    </p>
-                </div>
-            </div>
-
-            <div class="mt-6 p-4 bg-green-50 border border-green-200 rounded-lg">
-                <div class="flex items-start">
-                    <div class="flex-shrink-0">
-                        <svg class="h-5 w-5 text-green-400" viewBox="0 0 20 20" fill="currentColor">
-                            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
-                        </svg>
-                    </div>
-                    <div class="ml-3">
-                        <p class="text-green-800 text-sm">
-                            <strong>That's it!</strong> Your environment variables are already configured above. 
-                            Claude will automatically start sending monitoring data to SigAgent.AI.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <!-- Plugin setup section removed to match simplified instructions -->
 
         <!-- Getting Started Section -->
         <section class="bg-blue-50 rounded-lg p-8 mb-8">
