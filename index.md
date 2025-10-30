@@ -29,37 +29,9 @@ title: "SigAgent.AI - Claude Agent Monitoring & Telemetry"
     </header>
 
     <main>
-        <!-- Why We're Different -->
-        <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-6 text-center">What makes SigAgent.AI different</h2>
-            <div class="max-w-4xl mx-auto">
-                <ul class="grid md:grid-cols-2 gap-6 text-gray-700">
-                    <li class="bg-blue-50 rounded-lg p-6 shadow-sm">
-                        <h3 class="text-lg font-semibold text-gray-900 mb-2">Tool call & skill‑level tracking</h3>
-                        <p>See every tool invocation and skill use per step. Debug the exact point where plans drift, tools fail, or guardrails trigger.</p>
-                    </li>
-                    <li class="bg-blue-50 rounded-lg p-6 shadow-sm">
-                        <h3 class="text-lg font-semibold text-gray-900 mb-2">Built for Claude Code</h3>
-                        <p>First‑class support for Claude Code and Claude‑based agents, including structured traces of reasoning, tools, and outputs.</p>
-                    </li>
-                    <li class="bg-blue-50 rounded-lg p-6 shadow-sm">
-                        <h3 class="text-lg font-semibold text-gray-900 mb-2">Fine‑grained, step‑level observability</h3>
-                        <p>Drill from session → turn → step → tool call with timelines, latencies, inputs, outputs, and errors.</p>
-                    </li>
-                    <li class="bg-blue-50 rounded-lg p-6 shadow-sm">
-                        <h3 class="text-lg font-semibold text-gray-900 mb-2">OTLP compatible</h3>
-                        <p>Export traces and metrics via OTLP to your existing stack with zero lock‑in.</p>
-                    </li>
-                </ul>
-                <div class="text-center mt-8">
-                    <a href="https://app.sigagent.ai" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 font-medium">Instrument your agent in minutes →</a>
-                </div>
-            </div>
-        </section>
 
         <!-- Screenshots Section -->
         <section class="bg-white rounded-lg shadow-lg p-8 mb-12">
-            <h2 class="text-3xl font-semibold text-gray-900 mb-8 text-center">See SigAgent.AI in Action</h2>
             <div class="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
                 <div class="bg-gray-50 rounded-lg p-6">
                     <h3 class="text-xl font-semibold text-gray-900 mb-4">Dashboard Overview</h3>
@@ -83,7 +55,7 @@ title: "SigAgent.AI - Claude Agent Monitoring & Telemetry"
             <h2 class="text-3xl font-semibold text-gray-900 mb-8 text-center">Why Choose SigAgent.AI?</h2>
             <div class="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
                 <div class="bg-white rounded-lg p-6 shadow-md">
-                    <h3 class="text-xl font-semibold text-gray-900 mb-4">🚀 Launched at MIT Sunday Hackathon</h3>
+                    <h3 class="text-xl font-semibold text-gray-900 mb-4">🚀 Launched at MIT Sundai Hackathon</h3>
                     <p class="text-gray-600 mb-4">
                         Born from real agent debugging needs. Start monitoring your Claude Agents immediately with our free tier.
                     </p>
