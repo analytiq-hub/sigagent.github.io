@@ -61,6 +61,8 @@ header_pages:
     children:
       - title: "Quick Start"
         url: "/docs/quick_start"
+      - title: "Architecture"
+        url: "/docs/architecture"
   - title: "Talks"
     url: "/talks"
   - title: "Blog"
@@ -79,8 +81,10 @@ site_map:
         url: "/about"
   - title: "Resources"
     links:
-      - title: "Documentation"
+      - title: "Quick Start"
         url: "/docs/quick_start"
+      - title: "Architecture"
+        url: "/docs/architecture"
       - title: "Talks"
         url: "/talks"
       - title: "Blog"
