@@ -85,8 +85,8 @@ title: "SigAgent Architecture"
   </section>
 
   <section class="bg-white rounded-lg shadow-lg p-6 md:p-8">
-    <figure>
-      <img class="rounded-lg border border-gray-200" src="/assets/images/sig_agent_architecture.png" alt="SigAgent Architecture" />
+    <figure class="flex flex-col items-center">
+      <img class="rounded-lg border border-gray-200 mx-auto" src="/assets/images/sig_agent_architecture.png" alt="SigAgent Architecture" />
       <figcaption class="text-sm text-gray-500 mt-2">SigAgent system overview</figcaption>
     </figure>
   </section>
