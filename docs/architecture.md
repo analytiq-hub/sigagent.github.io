@@ -7,21 +7,14 @@ title: "SigAgent Architecture"
   <header class="mb-8">
     <h1 class="text-4xl font-bold text-gray-900 mb-4">SigAgent Architecture</h1>
     <p class="text-xl text-gray-600">
-      SigAgent offers two complementary ways to understand what Claude Code and Claude Agents are doing:
-      OpenTelemetry for organization‑level usage and cost visibility, and SigAgent hooks for human‑readable,
-      step‑by‑step traces of prompts, tools, and results.
+      SigAgent gives you two simple ways to see what Claude Code and Claude Agents are doing:
     </p>
+    <ul class="list-disc list-inside mt-3 text-gray-700">
+      <li><strong>OpenTelemetry</strong> – for overall usage and cost tracking across your team</li>
+      <li><strong>SigAgent hooks</strong> – for clear, step‑by‑step logs of every prompt, tool call, and result</li>
+    </ul>
   </header>
 
-  <section class="bg-white rounded-lg shadow-lg p-6 md:p-8 mb-8">
-    <h2 class="text-2xl font-semibold text-gray-900 mb-4">Two Monitoring Paths</h2>
-    <p class="text-gray-700 mb-3">Choose the level of detail you need. Start with OpenTelemetry to monitor adoption and spend; add hooks on
-    critical repos to audit what was asked, which tools ran, and why a result happened.</p>
-    <ul class="list-disc list-inside text-gray-700 space-y-2">
-      <li><strong>OpenTelemetry export</strong>: standard OTLP metrics/logs/traces emitted by Claude Code and Claude Agents.</li>
-      <li><strong>SigAgent hooks</strong>: a plugin that traces every message, tool call, parameters and results from Claude.</li>
-    </ul>
-  </section>
 
   <section class="bg-white rounded-lg shadow-lg p-6 md:p-8 mb-8">
     <h2 class="text-2xl font-semibold text-gray-900 mb-4">OpenTelemetry: Scope & Limits</h2>
