@@ -45,6 +45,14 @@ title: "SigAgent Architecture"
     </div>
   </section>
 
+  <!-- Key overview diagram panel, matching other panel widths -->
+  <section class="bg-white rounded-lg shadow-lg p-6 md:p-8 mb-8">
+    <figure class="flex flex-col items-center">
+      <img class="w-1/2 rounded-lg border border-gray-200" src="/assets/images/sig_agent_claude_architecture.png" alt="Claude + SigAgent configuration overview" />
+      <figcaption class="text-sm text-gray-500 mt-2">Claude configuration via CLI, marketplace plugin install, and reporting paths.</figcaption>
+    </figure>
+  </section>
+
   <section class="bg-white rounded-lg shadow-lg p-6 md:p-8 mb-8">
     <h2 class="text-2xl font-semibold text-gray-900 mb-4">Configuration with sig-agent CLI</h2>
     <p class="text-gray-700">Use the CLI to set org tokens and install the marketplace plugin:</p>
@@ -78,10 +86,6 @@ title: "SigAgent Architecture"
 
   <section class="bg-white rounded-lg shadow-lg p-6 md:p-8">
     <h2 class="text-2xl font-semibold text-gray-900 mb-4">Diagrams</h2>
-    <figure class="mb-6">
-      <img class="rounded-lg border border-gray-200" src="/assets/images/sig_agent_claude_architecture.png" alt="Claude + SigAgent configuration overview" />
-      <figcaption class="text-sm text-gray-500 mt-2">Claude configuration via CLI, marketplace plugin install, and reporting paths.</figcaption>
-    </figure>
     <figure>
       <img class="rounded-lg border border-gray-200" src="/assets/images/sig_agent_architecture.png" alt="SigAgent Architecture" />
       <figcaption class="text-sm text-gray-500 mt-2">Current system overview. A dedicated end‑to‑end flow diagram for the two monitoring paths will be added here.</figcaption>
