@@ -56,13 +56,6 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  - title: "Features"
-    url: "#"
-    children:
-      - title: "Monitoring"
-        url: "/monitoring"
-      - title: "Analytics"
-        url: "/analytics"
   - title: "Documentation"
     url: "#"
     children:
@@ -80,12 +73,6 @@ header_pages:
 
 # Footer sitemap - simplified navigation for footer display
 site_map:
-  - title: "Platform"
-    links:
-      - title: "Monitoring"
-        url: "/monitoring"
-      - title: "Analytics"
-        url: "/analytics"
   - title: "Company"
     links:
       - title: "About"
