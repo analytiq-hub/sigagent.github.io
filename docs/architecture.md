@@ -7,12 +7,16 @@ title: "SigAgent Architecture"
   <header class="mb-8">
     <h1 class="text-4xl font-bold text-gray-900 mb-4">SigAgent Architecture</h1>
     <p class="text-xl text-gray-600">
-      Two ways to monitor Claude Code and Claude Agents: OpenTelemetry export and deep message tracing via SigAgent hooks.
+      SigAgent offers two complementary ways to understand what Claude Code and Claude Agents are doing:
+      OpenTelemetry for organization‑level usage and cost visibility, and SigAgent hooks for human‑readable,
+      step‑by‑step traces of prompts, tools, and results.
     </p>
   </header>
 
   <section class="bg-white rounded-lg shadow-lg p-6 md:p-8 mb-8">
     <h2 class="text-2xl font-semibold text-gray-900 mb-4">Two Monitoring Paths</h2>
+    <p class="text-gray-700 mb-3">Choose the level of detail you need. Start with OpenTelemetry to monitor adoption and spend; add hooks on
+    critical repos to audit what was asked, which tools ran, and why a result happened.</p>
     <ul class="list-disc list-inside text-gray-700 space-y-2">
       <li><strong>OpenTelemetry export</strong>: standard OTLP metrics/logs/traces emitted by Claude Code and Claude Agents.</li>
       <li><strong>SigAgent hooks</strong>: a plugin that traces every message, tool call, parameters and results from Claude.</li>
@@ -21,6 +25,8 @@ title: "SigAgent Architecture"
 
   <section class="bg-white rounded-lg shadow-lg p-6 md:p-8 mb-8">
     <h2 class="text-2xl font-semibold text-gray-900 mb-4">OpenTelemetry: Scope & Limits</h2>
+    <p class="text-gray-700 mb-3">OpenTelemetry is great for company‑wide monitoring—no prompts or code leave your machine, only usage
+    signals. It answers questions like: how much are we spending, which tools fire most, and how activity trends over time.</p>
     <ul class="list-disc list-inside text-gray-700 space-y-2">
       <li><strong>What you get</strong>: high‑level token usage, cost, and tool breakdown per session and project.</li>
       <li><strong>What you do not get</strong>: raw prompts, responses, or tool parameters/results. Message contents are not exported by Claude via OTel.</li>
@@ -32,11 +38,9 @@ title: "SigAgent Architecture"
 
   <section class="bg-white rounded-lg shadow-lg p-6 md:p-8 mb-8">
     <h2 class="text-2xl font-semibold text-gray-900 mb-4">SigAgent Hooks: Full Message Tracing</h2>
-    <p class="text-gray-700 mb-4">
-      Because OpenTelemetry does not include message contents, SigAgent provides deep tracing through
-      hooks that watch Claude's low‑level state history files. Claude uses these files to rewind commands
-      and reload past contexts; we instrument these updates to capture every step.
-    </p>
+    <p class="text-gray-700 mb-4">When you need to answer “what exactly happened and why?”, enable hooks. The plugin watches Claude’s
+    low‑level state history (used to rewind commands and reload contexts) and turns those updates into
+    human‑readable traces that correlate prompts, tool parameters, responses, and timings.</p>
     <ul class="list-disc list-inside text-gray-700 space-y-2">
       <li><strong>Installation</strong>: via <em>sig-agent-plugin</em> installed from the <em>sig-agent-marketplace</em>.</li>
       <li><strong>Marketplace sandbox</strong>: see the repository for the CLI implementation and marketplace sandbox
@@ -80,12 +84,19 @@ title: "SigAgent Architecture"
 
   <section class="bg-white rounded-lg shadow-lg p-6 md:p-8">
     <h2 class="text-2xl font-semibold text-gray-900 mb-4">Diagrams</h2>
+    <figure class="mb-6">
+      <img class="rounded-lg border border-gray-200" src="/assets/images/sig_agent_claude_architecture.png" alt="Claude + SigAgent configuration overview" />
+      <figcaption class="text-sm text-gray-500 mt-2">Claude configuration via CLI, marketplace plugin install, and reporting paths.</figcaption>
+    </figure>
     <figure>
       <img class="rounded-lg border border-gray-200" src="/assets/images/sig_agent_architecture.png" alt="SigAgent Architecture" />
       <figcaption class="text-sm text-gray-500 mt-2">Current system overview. A dedicated end‑to‑end flow diagram for the two monitoring paths will be added here.</figcaption>
     </figure>
     <p class="text-sm text-gray-600 mt-3">
       Download the Excalidraw source: <a class="text-blue-600 hover:text-blue-800 underline" href="/assets/js/sig_agent_architecture.excalidraw">sig_agent_architecture.excalidraw</a>
+    </p>
+    <p class="text-sm text-gray-600">
+      Additional flow diagram: <a class="text-blue-600 hover:text-blue-800 underline" href="/assets/js/claude_code_otel_hooks_flow.excalidraw">claude_code_otel_hooks_flow.excalidraw</a>
     </p>
   </section>
 </div>
