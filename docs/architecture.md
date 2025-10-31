@@ -85,17 +85,10 @@ title: "SigAgent Architecture"
   </section>
 
   <section class="bg-white rounded-lg shadow-lg p-6 md:p-8">
-    <h2 class="text-2xl font-semibold text-gray-900 mb-4">Diagrams</h2>
     <figure>
       <img class="rounded-lg border border-gray-200" src="/assets/images/sig_agent_architecture.png" alt="SigAgent Architecture" />
-      <figcaption class="text-sm text-gray-500 mt-2">Current system overview. A dedicated end‑to‑end flow diagram for the two monitoring paths will be added here.</figcaption>
+      <figcaption class="text-sm text-gray-500 mt-2">SigAgent system overview</figcaption>
     </figure>
-    <p class="text-sm text-gray-600 mt-3">
-      Download the Excalidraw source: <a class="text-blue-600 hover:text-blue-800 underline" href="/assets/js/sig_agent_architecture.excalidraw">sig_agent_architecture.excalidraw</a>
-    </p>
-    <p class="text-sm text-gray-600">
-      Additional flow diagram: <a class="text-blue-600 hover:text-blue-800 underline" href="/assets/js/claude_code_otel_hooks_flow.excalidraw">claude_code_otel_hooks_flow.excalidraw</a>
-    </p>
   </section>
 </div>
 
