@@ -90,6 +90,20 @@ title: "SigAgent Architecture"
       <figcaption class="text-sm text-gray-500 mt-2">SigAgent system overview</figcaption>
     </figure>
   </section>
+
+  <section class="bg-white rounded-lg shadow-lg p-6 md:p-8">
+    <h2 class="text-2xl font-semibold text-gray-900 mb-4">GitHub Sandboxes</h2>
+    <ul class="list-disc list-inside text-gray-700 space-y-2">
+      <li>
+        <a class="text-blue-600 hover:text-blue-800 underline" href="https://github.com/analytiq-hub/sig-agent" target="_blank" rel="noopener noreferrer">https://github.com/analytiq-hub/sig-agent</a>
+        – frontend, backend, SDKs, MCP server, CLI.
+      </li>
+      <li>
+        <a class="text-blue-600 hover:text-blue-800 underline" href="https://github.com/analytiq-hub/sig-agent-marketplace" target="_blank" rel="noopener noreferrer">https://github.com/analytiq-hub/sig-agent-marketplace</a>
+        – Claude Agent marketplace and plugin.
+      </li>
+    </ul>
+  </section>
 </div>
 
 
