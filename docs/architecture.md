@@ -3,10 +3,10 @@ layout: default
 title: "SigAgent Architecture"
 ---
 
-<div class="max-w-4xl mx-auto px-4 sm:px-6 md:px-8 py-8">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 py-8">
   <header class="mb-8">
     <h1 class="text-4xl font-bold text-gray-900 mb-4">SigAgent Architecture</h1>
-    <p class="text-xl text-gray-600">
+    <p class="text-gray-700">
       SigAgent gives you two simple ways to see what Claude Code and Claude Agents are doing:
     </p>
     <ul class="list-disc list-inside mt-3 text-gray-700">
@@ -16,32 +16,33 @@ title: "SigAgent Architecture"
   </header>
 
 
-  <section class="bg-white rounded-lg shadow-lg p-6 md:p-8 mb-8">
-    <h2 class="text-2xl font-semibold text-gray-900 mb-4">OpenTelemetry: Scope & Limits</h2>
-    <p class="text-gray-700 mb-3">OpenTelemetry is great for company‑wide monitoring—no prompts or code leave your machine, only usage
-    signals. It answers questions like: how much are we spending, which tools fire most, and how activity trends over time.</p>
-    <ul class="list-disc list-inside text-gray-700 space-y-2">
-      <li><strong>What you get</strong>: high‑level token usage, cost, and tool breakdown per session and project.</li>
-      <li><strong>What you do not get</strong>: raw prompts, responses, or tool parameters/results. Message contents are not exported by Claude via OTel.</li>
-      <li><strong>Included utility</strong>: a code‑change counter that estimates lines changed across edits (exported as an OTel metric).</li>
-      <li><strong>Best for</strong>: organization‑wide visibility into Claude Code and Claude Agents usage and spend.</li>
-      <li><strong>Agents parity</strong>: Claude Agents (CLI, Python SDK, TypeScript SDK) report via the same OTel interfaces as Claude Code.</li>
-    </ul>
-  </section>
-
-  <section class="bg-white rounded-lg shadow-lg p-6 md:p-8 mb-8">
-    <h2 class="text-2xl font-semibold text-gray-900 mb-4">SigAgent Hooks: Full Message Tracing</h2>
-    <p class="text-gray-700 mb-4">When you need to answer “what exactly happened and why?”, enable hooks. The plugin watches Claude’s
-    low‑level state history (used to rewind commands and reload contexts) and turns those updates into
-    human‑readable traces that correlate prompts, tool parameters, responses, and timings.</p>
-    <ul class="list-disc list-inside text-gray-700 space-y-2">
-      <li><strong>Installation</strong>: via <em>sig-agent-plugin</em> installed from the <em>sig-agent-marketplace</em>.</li>
-      <li><strong>Marketplace sandbox</strong>: see the repository for the CLI implementation and marketplace sandbox
-        (<a class="text-blue-600 hover:text-blue-800 underline" href="https://github.com/analytiq-hub/sig-agent" target="_blank" rel="noopener noreferrer">sig-agent repository</a>).</li>
-      <li><strong>Coverage</strong>: built‑in tools (e.g., ToDoWrite, Skills) and add‑on tools provided by MCP servers.</li>
-      <li><strong>Captured data</strong>: full prompt text and model responses, tool parameters and results, plus timing and error data.</li>
-      <li><strong>Upload path</strong>: hooks post traces to <a class="text-blue-600 hover:text-blue-800 underline" href="https://app.sigagent.ai" target="_blank" rel="noopener noreferrer">app.sigagent.ai</a>; records are stored per‑organization in MongoDB and visualized in the UI.</li>
-    </ul>
+  <section class="mb-8">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+      <div class="bg-white rounded-lg shadow-lg p-6 md:p-8">
+        <h2 class="text-2xl font-semibold text-gray-900 mb-4">OpenTelemetry</h2>
+        <p class="text-gray-700 mb-3">OpenTelemetry is great for company‑wide monitoring:</p>
+        <ul class="list-disc list-inside text-gray-700 space-y-2">
+          <li><strong>What you get</strong>: high‑level token usage, cost, and tool breakdown per session and project.</li>
+          <li><strong>What you do not get</strong>: raw prompts, responses, or tool parameters/results. Message contents are not exported by Claude via OTel.</li>
+          <li><strong>Included utility</strong>: a code‑change counter that estimates lines changed across edits (exported as an OTel metric).</li>
+          <li><strong>Best for</strong>: organization‑wide visibility into Claude Code and Claude Agents usage and spend.</li>
+          <li><strong>Agents parity</strong>: Claude Agents (CLI, Python SDK, TypeScript SDK) report via the same OTel interfaces as Claude Code.</li>
+        </ul>
+      </div>
+      <div class="bg-white rounded-lg shadow-lg p-6 md:p-8">
+        <h2 class="text-2xl font-semibold text-gray-900 mb-4">SigAgent Hooks</h2>
+        <p class="text-gray-700 mb-4">Hooks allow full tracing of prompts and tool calls:</p>
+        <ul class="list-disc list-inside text-gray-700 space-y-2">
+          <li><strong>Installation</strong>: sigagent cli installs the <em>sig-agent-marketplace</em>, which includes the <em>sig-agent-plugin</em>.</li>
+          <li><strong>Marketplace sandbox</strong>: see the repository for the CLI implementation and marketplace sandbox
+            (<a class="text-blue-600 hover:text-blue-800 underline" href="github.com/analytiq-hub/sig-agent-marketplace" target="_blank" rel="noopener noreferrer">sig-agent-marketplace repository</a>).</li>
+          <li><strong>Coverage</strong>: built‑in tools (e.g., ToDoWrite, Skills) and add‑on tools provided by MCP servers.</li>
+          <li><strong>Captured data</strong>: full prompt text and model responses, tool parameters and results, plus timing and error data.</li>
+          <li><strong>Upload path</strong>: hooks post traces to <a class="text-blue-600 hover:text-blue-800 underline" href="https://app.sigagent.ai" target="_blank" rel="noopener noreferrer">app.sigagent.ai</a>; records are stored per‑organization in MongoDB and visualized in the UI.</li>
+          <li>Claude subscriber needs to use <strong>Pro</strong> or <strong>Max</strong> plan for hooks to be enabled.</li>
+        </ul>
+      </div>
+    </div>
   </section>
 
   <section class="bg-white rounded-lg shadow-lg p-6 md:p-8 mb-8">
