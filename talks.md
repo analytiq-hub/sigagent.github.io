@@ -16,6 +16,18 @@ permalink: /talks/
         <!-- Talks Container -->
         <div class="space-y-8" id="talks-container">
             {% include talk-card.html 
+                title="SigAgent.AI - Tracing Claude Agents"
+                speaker="Andrei Radulescu-Banu"
+                date="Nov 17, 2025"
+                event="AI Tinkerers"
+                event_url="https://boston.aitinkerers.org/"
+                logos="/assets/images/aitinkerers-1.png"
+                image="/assets/images/sigagent_ai_tinkerers_talk.png"
+                links="https://boston.aitinkerers.org/p/ai-tinkerers-boston-meetup-november-2025;Event Details|https://www.linkedin.com/feed/update/urn:li:activity:7395834753372876800/;LinkedIn Post"
+                abstract="AI agents have become powerful and reliable, but you need to build them right. With 50% of new agents now built with Claude Code, the ecosystem has opened up for integration with MCP, marketplaces, plugins, and SKILLS.md. What's missing? AI Agent Evaluation for debugging during development, and for guardrails and monetization during deployment. SigAgent.AI specializes in tracing Claude agents using Open Telemetry and step-by-step, hook-level monitoring. We covered how to build Claude Agents with SigAgent.AI traceability, what works and what doesn't with MCP tools, CLAUDE.md, SKILLS.md and MCP-as-code, and how to stand up agent infrastructure for value-based and usage-based pricing."
+            %}
+
+            {% include talk-card.html 
                 title="How To Integrate Stripe Into Your AI Application"
                 speaker="Andrei Radulescu-Banu"
                 date="Oct 24, 2025"
