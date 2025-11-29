@@ -91,7 +91,7 @@ site_map:
         url: "/blog"
 
 # Build settings
-# theme: minima  # Removed - using Tailwind CSS instead
+theme: analytiq-pages-theme
 
 # Collections
 collections:

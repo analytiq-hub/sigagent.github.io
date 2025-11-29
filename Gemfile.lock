@@ -1,3 +1,14 @@
+GIT
+  remote: https://github.com/analytiq-hub/analytiq-pages-theme
+  revision: 7252eb96b8ed92d8f676b6478e0c80d0c539cfd9
+  tag: v0.1.1
+  specs:
+    analytiq-pages-theme (0.1.0)
+      jekyll (~> 3.9)
+      jekyll-feed (~> 0.12)
+      jekyll-pdf-embed (~> 1.1)
+      jekyll-seo-tag (~> 2.6)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -307,6 +318,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  analytiq-pages-theme!
   github-pages
   jekyll-feed (~> 0.12)
   jekyll-paginate-v2 (~> 3.0)
