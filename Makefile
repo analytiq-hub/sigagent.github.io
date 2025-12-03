@@ -1,10 +1,10 @@
-.PHONY: dev build clean
+.PHONY: serve build clean
 
 install:
 	bundle install
 
 # Development target - Jekyll server only (Tailwind via CDN)
-dev:
+serve:
 	@echo "Starting development environment..."
 	@echo "Starting Jekyll server..."
 	bundle exec jekyll serve

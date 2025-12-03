@@ -1,10 +1,10 @@
 GIT
   remote: https://github.com/analytiq-hub/analytiq-pages-theme
-  revision: 84fbe9e312c21ca2433b4f3b6a88d76fbfc23144
-  tag: v0.1.3
+  revision: 6b6be84823f7c7588ff142555e746cbf4280106d
+  tag: v0.1.10
   specs:
     analytiq-pages-theme (0.1.0)
-      jekyll (~> 3.9)
+      jekyll (>= 3.9, < 5.0)
       jekyll-feed (~> 0.12)
       jekyll-pdf-embed (~> 1.1)
       jekyll-seo-tag (~> 2.6)
