@@ -16,6 +16,18 @@ permalink: /talks/
         <!-- Talks Container -->
         <div class="space-y-8" id="talks-container">
             {% include talk-card.html 
+                title="The 'One Codebase, Many Products' Playbook"
+                speaker="Andrei Radulescu-Banu"
+                date="Dec 11, 2025"
+                event="AI Camp"
+                event_url="https://www.aicamp.ai/event/eventdetails/W2025121015"
+                logos="/assets/images/ai-camp.png"
+                image="/assets/images/talk-one-codebase.png"
+                links="https://www.aicamp.ai/event/eventdetails/W2025121015;Event Details|https://docs.google.com/presentation/d/1WdNXNv6BRgBLsRHzxYlesLZewE-cCmvkBtzfGvXGkGI/edit?slide=id.g3aea72bb1c1_0_0#slide=id.g3aea72bb1c1_0_0;Slides|https://www.linkedin.com/feed/update/urn:li:activity:7405411102974451712/;LinkedIn Post|https://analytiqhub.com/ai/webdev/programming/one-codebase-many-products-playbook/;Blog Post"
+                abstract="Shared our journey with The 'One Codebase, Many Products' Playbook at AnalytiqHub.com, turning one framework into a powerhouse for AI products. From building DocRouter.AI in 3 months to launching SigAgent.AI in 3 weeks, and customized AI portals for clients – it's all about slashing dev time with 90%+ reuse. Core Playbook Steps: Build Shared Foundations (React UI, FastAPI backend, MongoDB storage, and Claude Agent for workflows), Integrate Smartly (LiteLLM for LLMs and Stripe for seamless billing), and Scale with Ease (open-core for community, closed forks for clients)."
+            %}
+
+            {% include talk-card.html 
                 title="SigAgent.AI - Tracing Claude Agents"
                 speaker="Andrei Radulescu-Banu"
                 date="Nov 17, 2025"
